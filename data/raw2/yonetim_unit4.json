@@ -1,0 +1,219 @@
+{
+  "id": 4,
+  "title": "Sporda İletişim ve Halkla İlişkiler I",
+  "learningOutcomes": [
+    "Halkla ilişkiler kavramını, tarihini, iletişim ve spor ilişkilerini tanımlayabilme",
+    "Halkla ilişkilerin uygulama alanlarının neler olduğunu açıklayabilme",
+    "Dünyada ve ülkemizde halkla ilişkilerin gelişimini açıklayabilecek bilgi ve becerilere sahip olabilme",
+    "Temel iletişim ve dinleme becerileri ile ilgili bilgi sahibi olabilme",
+    "İletişimde dinlemenin önemini kavrayabilme",
+    "Medya okuryazarlığı ve spor ile bağlantı kurabilecek bilgi ve beceriye sahip olabilme"
+  ],
+  "keywords": ["Halkla İlişkiler", "Medya", "Spor", "İletişim", "Dinleme", "Medya Okuryazarlığı"],
+  "summary": [
+    {
+      "heading": "Halkla İlişkilerin Tarihi, Tanımı ve Kavramı",
+      "paragraphs": [
+        "İletişim, TDK tanımına göre duygu, düşünce ya da bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılmasıdır; bildirişim, haberleşme ve komünikasyon kavramlarıyla da anılır. Örgütsel iletişimin vazgeçilmez bir aracı olan halkla ilişkiler, sportif iş organizasyonları ile aynı değerdedir: spor pazarlaması açısından yapılan halkla ilişkiler faaliyetleri, spor yöneticileri, kulüp personelleri, sponsorlar ve medya yöneticilerinin başarısı için olmazsa olmazlardandır. Halkla ilişkiler bu çerçevede 'doğru mesajı, doğru hedef kitleye, doğru araçlarla vermemizi sağlayacak uygulamalar' olarak tanımlanabilir.",
+        "Halkla ilişkilerin dünya tarihine bakıldığında, profesyonel olmayan ilk uygulamaların eski Mısır, Mezopotamya, İran, Yunan ve Roma'daki propaganda niteliğindeki çalışmalara kadar uzandığı görülür. Kavramın bilimsel ve mesleki anlamda ilk gelişimi Amerika'da yaşanmıştır: 1897'de Michigan Üniversitesi'nde halkla ilişkiler ofisinin açılması, 1923'te Edward Bernays'in 'Crystallizing Public Opinion' adlı kitabının üniversitelerde ders kitabı olması önemli kilometre taşlarıdır. Newsom ve arkadaşları (1989), Amerika'daki gelişimi dört döneme ayırır: Birinci dönem (1600-1799) iletişim/başlangıç dönemi olup basın ajansları, organizatör ve propagandacıların ortaya çıktığı dönemdir; İkinci dönem (1800-1899) karşılık verme/cevaplama sürecidir; Üçüncü dönem (1900-1939) planlama ve önleme dönemidir ve halkla ilişkilerin bir yönetim fonksiyonu olarak olgunlaştığı yıllardır; Dördüncü dönem (1940'tan günümüze) profesyonellik dönemidir.",
+        "Türkiye'de halkla ilişkiler denilebilecek uygulamalar Osmanlı döneminde açık divan toplantıları, camilerde yapılan duyurular ve padişahın tebdil-i kıyafetle halk arasına karışması gibi örneklerle görülür, fakat bunlar düzenli değildir. Cumhuriyet döneminde Atatürk, devrimleri halka tanıtmak için yurt gezileri yapmış, gazetelerden yararlanmış ve yenilikleri bizzat uygulayarak halka örnek olmuştur; 1920'de Anadolu Ajansı kurulmuştur. Profesyonel halkla ilişkilerin gelişimi için gerekli zemin ancak 1960'lı yıllarda, kamu yönetiminde kurumsallaşmayla (Dışişleri Bakanlığı Enformasyon Genel Müdürlüğü, Devlet Planlama Teşkilatı Yayın ve Temsil Şubesi gibi birimlerle) oluşmaya başlamıştır. Günümüzde kamu kuruluşlarındaki en önemli halkla ilişkiler uygulamalarından biri, halkın istek ve şikâyetlerini değerlendiren Başbakanlık İletişim Merkezi (BİMER)'dir.",
+        "Halkla ilişkiler kavramının genel kabul gören ortak bir tanımı yoktur; her araştırmacı kendi yaklaşımına göre farklı tanımlar üretmiştir. Örneğin Cutlip ve Center'a (1994) göre halkla ilişkiler, 'karşılıklı yarar sağlayan iki yönlü iletişime dayanan dürüst ve sorumlu uygulamalarla kamuoyunu etkilemeye yönelik planlı çabalardır.' James Grunig ve Fraser Seitel'e göre ise örgüt ile hedeflenen grup arasındaki iletişim yönetimidir ve kurum felsefesinin oluşturulması gibi önemli yönetimsel kararlara etkide bulunan bir yönetim esasıdır. Edward Bernays'e göre halkla ilişkiler, enformasyon, ikna ve uyum aracılığıyla organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir. Bu tanım farklılıklarının temel nedeni; toplumsal, ekonomik, teknolojik, siyasi, hukuki, sosyo-kültürel gelişmeler, paydaş ve hedef kitle beklentileri gibi etkenlerin halkla ilişkileri sürekli şekillendirmesidir."
+      ]
+    },
+    {
+      "heading": "Halkla İlişkilerde Kullanılan Araçlar ve Halkla İlişkilerin Amaçları",
+      "paragraphs": [
+        "Theaker'in (2008) sınıflandırmasının spor kulüplerine uyarlanmış hâline göre halkla ilişkilerin faaliyet alanları şunlardır: kulüp içi iletişim (sporcularla görüşmeler, maç öncesi toplantılar), kulüpler arası iletişim (resmi/özel müsabakalar, ortak etkinlikler), kulüp halkla ilişkileri (taraftar etkinlikleri ile kulüp imajının korunması), kulüp medya ilişkileri (basın bültenleri, gazeteci/editörlerle iletişim), sosyal sorumluluk projeleri, kamusal ilişkiler (siyasetçilerle brifingler), finansal ilişkiler (banka ve yatırımcılarla iletişim), stratejik iletişim, çevresel faktörleri takip etme, kriz yönetimi (örneğin pandemi nedeniyle iptal edilen müsabakalarda taraftarı bilgilendirme), metin yazımı, yayım idaresi, etkinlik yönetimi (fuar, seminer, kongre), kültürlerarası iletişim, danışmanlık, lobicilik, sponsorluk ve kurumsal kimlik çalışmaları (kulüp ismi, forma renk ve logosu gibi).",
+        "Kurumlar amaçlarına ulaşmak için hem proaktif hem reaktif stratejiler kullanmak zorundadır. Proaktif halkla ilişkiler, kurumun güçlü taraflarını ele alıp ilgi alanını gerçekleştirmek için belirli bir iletişim programını yerine getirmeyi; reaktif halkla ilişkiler ise kurumun zayıf yönlerini ele alıp bu zayıflıkların nasıl telafi edileceğine odaklanmayı kapsar (Solmaz, 2012). Proaktif iletişim uzun vadeli pazarlama politikalarıyla yönlendirilip kurumun imajını yükseltmeyi hedeflerken, reaktif iletişim genellikle olumsuz olaylarla ilgilenir, savunmacı bir yaklaşım taşır ve kurumun adını onarmaya, statüsünü korumaya çalışır; özellikle başarısızlık ya da eleştiri durumlarında kulüpler reaktif moda girer ve savunma durumu ortaya çıkar. Kurumsal halkla ilişkiler genel olarak öneri ve danışmanlık, kurumsal yayınlar, kurum hakkında yayın, toplumla ilişkiler, kurumsal imaja yönelik reklam/mesaj, kamuoyu yaratma-etkileme ve sosyal içerikli programlar işlevlerini yerine getirir (Katırcı, 2012).",
+        "Sporda halkla ilişkiler uygulamaları çoğunlukla duyurum (publicity) olarak ele alınır; yaygın duyurum yöntemleri haber bültenleri, basın toplantıları, konuşmalar ve özel haberlerdir. Başarılı bir duyurum programı etkili bir planlamayla oluşur; plan şu temel unsurları içermelidir: duyurum ihtiyacının tanımlanması, uygun medya kaynaklarının belirlenmesi, her bir kaynak için ayrı hedef geliştirme, hedeflenen kaynaklar için özel bir metot geliştirme, seçilen tutundurma materyalleriyle uygulamaya koyma ve duyurum sonuçlarının değerlendirilmesi (Argan ve Katırcı, 2008).",
+        "Spor kulüplerinin kullandığı iletişim araçları dört grupta ele alınabilir (Sabuncuoğlu, 2013): yazılı araçlar (spor gazeteleri, afişler, anketler, broşür/katalog, dergi, kitap); sözlü araçlar (yüz yüze iletişim, telefonla görüşme, basın toplantısı, basın açıklaması, basın konferansı, röportaj); görsel ve işitsel araçlar (radyo, televizyon, film, internet, rozetler, web sayfaları) ve sosyal medya araçları (Facebook, Twitter, Instagram gibi sosyal siteler, Flickr gibi fotoğraf paylaşım siteleri, Youtube, LinkedIn gibi profesyonel ağlar, bloglar). Sosyal medya, gerçek zamanlı etkileşime imkân tanıması nedeniyle spor kulüplerinin taraftarlarıyla doğrudan iletişim kurmasını sağlayan en etkili modern araçlardan biri hâline gelmiştir; futbol kulüplerinin ana hissedarlarının taraftarlar olduğu düşünüldüğünde, taraftar-kulüp iletişiminin sosyal medya üzerinden yönetilmesi büyük önem taşır."
+      ]
+    },
+    {
+      "heading": "Temel İletişim Becerileri ve Dinleme Kavramı",
+      "paragraphs": [
+        "İletişim genellikle okuma, yazma, konuşma ve dinleme olmak üzere dört temel beceriyle gerçekleştirilir. Araştırmalar insanların iletişim sürecinde yaklaşık %45 dinleme, %30 konuşma, %16 okuma ve %9 yazma becerilerini kullandığını göstermektedir (Kardaş&Harre, 2015). Duyma, dinlemenin başlangıç aşamasıdır; dinleme ise sözcüklerin ve anlatılmak istenenin zihinsel olarak anlaşılmasını içerir. Sporcuların her türlü öğrenmeyi gerçekleştirebilmesi büyük ölçüde dinleme becerilerini etkili kullanmalarına bağlıdır.",
+        "Antrenör-sporcu ilişkisinde etkin dinleme becerisinin geliştirilmesi için konuşma öncesinde mutlaka planlama yapılmalıdır. İyi bir planlamada şu sorulara yanıt aranmalıdır: Konuşma konusu ne (konu dışına çıkılmamalı), konuşma kime yapılacak (dinleyicilerin yaş, bilgi düzeyi gibi özellikleri), konuşma süresi ne kadar olacak (örneğin müsabaka analizi 40-60 dk., devre arası 3-5 dk. gibi), konuşma nerede yapılacak (toplantı salonu, soyunma odası, saha) ve hangi iletişim araçlarıyla desteklenecek (görüntü kayıtları gibi). Sporculara dinleme alışkanlığı kazandırılırken onlara konuşma olanağı da verilmelidir; böylece 'siz ve görüşleriniz önemli' mesajı iletilmiş olur.",
+        "İletişimi olumsuz etkileyen tüm faktörler iletişim engelleri olarak adlandırılır ve fiziksel-teknik, psiko-sosyal, örgütsel ve diğer engeller olarak gruplanır (Sabuncuoğlu&Gümüş, 2008). Fiziksel ve teknik engeller; gürültü, mesajdan kaynaklanan bozukluklar, iletişim araçlarından kaynaklanan bozukluklar ve dil güçlüklerini kapsar; bu engellerin etkisi geçici olduğundan giderilmesi daha kolaydır. Psiko-sosyal engeller ise iletişimin amacının net belirlenmemesi, önyargılar, kişisel engeller ve görüş farklılıkları, algılama farklılıkları, tutum ve davranışlar, bilgi düzeyi, sosyo-kültürel farklar, konuşma yetersizliği ve dinleme yetersizliğini içerir; bunlar daha uzun süreli ve etkili engellerdir. Örgütsel engeller arasında örgütün büyüklüğü ve fiziksel düzeni, geri beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları, yönetim tarzı, hiyerarşi, rol ilişkileri ve zaman baskısı sayılabilir (Yatkın ve Yatkın, 2010). Diğer engeller arasında ortak yaşantının olmaması, cinsiyet ve kültür farkı, savunma mekanizmaları ve anlamların karıştırılması yer alır."
+      ]
+    },
+    {
+      "heading": "Dinlemenin Amacı, Önemi ve Etkili Dinleme Türleri",
+      "paragraphs": [
+        "Dinlemenin pek çok amacı olabilir: öğrenmek (örneğin bir taraftarın maç yorumcularını VAR hakemini öğrenmek için dikkatle dinlemesi), ilişki kurmak, etkilemek, eğlenmek ve yardım etmek bu amaçlardan bazılarıdır (Devito, 2004'ten akt. Gürüz&Eğinli, 2014). Etkin dinleme, 'iletişim içinde bulunan kişiyi yargılamadan, sözünü kesmeden, bedene uygun biçim vererek, göz teması kurarak yapılan dinleme' olarak tanımlanır. Etkili dinleme konusunda bilinmesi gereken dört nokta şöyledir: pasif değil aktif bir süreçtir; insan ilişkilerinde çok güçlü bir etkisi vardır; kişilerin stres düzeyini azaltır; ve karşıdaki kişiye olumlu mesajlar iletir (Cihangir, 2011).",
+        "Günümüz spor dünyasında performans değerlerinin hızla değişmesi ve müsabakalarda yaşanan yoğun mesaj bombardımanı, dinleme becerisinin etkili kullanılmasını gerekli kılar; bu beceri ne kadar sağlam oluşursa sporcuların kulüp içi ve sosyal ilişkileri de o derece kuvvetli olur. İyi dinleme, sorunları başarıyla çözmenin temelidir: yönetici ile sorunu olan kişi arasında iş birliği ilişkisi kurar, duyguların anlaşılmasını sağlar ve değişime açık olma konusunda yardımcı olur.",
+        "Tompkins (1998) ve Kingen'in (2000) sınıflamasına göre dinleme beş başlık altında incelenebilir: ayırt edici dinleme (sesleri ve görsel uyaranları birbirinden ayırt etmek, örneğin seyirci gürültüsü içinde takım arkadaşının sesini ayırt etmek), estetik dinleme (eğlence ve zevk almak için), etkili dinleme (bir mesajı eleştirel yargıda bulunmadan dinlemek), eleştirel dinleme (değerlendirmek ya da yargılamak için dinlemek) ve empatik dinleme (yargılardan kaçınarak karşıdakinin duygularını anlamaya çalışmak; etkin dinlemenin temelini oluşturur). Tablo 4.7'ye göre katılımcı, edilgin, empatik, yargısız-eleştirel, derinlemesine, çözümleyici, etkin/aktif ve dikkatle dinleme etkili dinleme türleri arasında sayılırken; yetersiz, kalıplaşmış, yüzeysel, görünüşte, seçerek, duyguya saplanarak, savunucu ve tuzak kurucu dinleme etkisiz dinleme türleri arasındadır.",
+        "Çiftçi'ye (2001) göre dinlemeyi etkileyen faktörler yedi başlık altında toplanabilir: fizyolojik faktörler (işitme kaybı gibi), fiziki faktörler (ortamın ses/ısı/ışık yalıtımı, oturma düzeni), psikolojik faktörler (ruh hali, stres, kaygı), zihinsel faktörler (dikkat dağınıklığı, öğrenme güçlüğü), sosyal faktörler (ortama yabancı olmak), öğretmen/antrenör (konuşmacı) faktörü (ses tonu, bilgi birikimi) ve konu faktörü (konuya ilgi duymamak). Etkili spor iletişimi ise kişinin kendi iç ve dış dünyasının farkında olmasına dayanır; iletişim iki yönlü bir süreç olduğundan kendi mesajımızı iletmek kadar karşı taraftan gelen mesajları dinlemek de önemlidir. Kötü iletişim zaman ve kaynak kaybına, kişiler arası sürtüşmeye ve ilişkilerin bozulmasına yol açar; araştırmalar iş yerlerinde yaşanan problemlerin büyük çoğunluğunun kötü iletişimden kaynaklandığını göstermektedir."
+      ]
+    },
+    {
+      "heading": "Spor Medya Okuryazarlığı",
+      "paragraphs": [
+        "Taşkıran'ın (2007) tanımına göre medya okuryazarlığı, 'kitle iletişim araçları yoluyla elde edilen mesajları çözümleme, değerlendirme ve iletme yeteneğidir.' Jols ve Thoman (2008) ise medya okuryazarlığını çeşitli yapılarda bulunan medyaya erişme, analiz etme, değerlendirme ve yaratma yeteneği olarak tanımlar ve medya okuryazarlığının beş temel prensibini sıralar (Silberblatt, 1995): medyanın toplum üzerindeki etkisini kavramak, medyayı kültürü anlamakta bir kaynak olarak görmek, kitle iletişimi mekanizmalarını anlamak, medya mesajlarının analizi için stratejiler geliştirmek ve medya içeriğini yorumlama/algılama yetisini artırmak.",
+        "Spor medya okuryazar olma sürecinde ilk olarak kültür kavramı ele alınır, çünkü okuryazar olmakla kültürlü olmak arasında doğrudan bir ilişki vardır. Spor okuryazarlığı, spor öğrenimini gerçek bir yeterlilik olarak konumlandıran ve erişim, anlama, analiz, değerlendirme ve üretim gibi becerileri kapsayan, yaşam boyu devam eden kültürel bir süreçtir (Karaduman, 2019). Ülker'in (2019) modeline göre temel hareket becerileri ile temel spor becerilerinin birleşmesi, sportif mükemmellikle birlikte spor okuryazarlığının ölçütlerini oluşturur; bu süreç 'Herkes için Spor' anlayışının bir girizgâhı olarak değerlendirilir.",
+        "Uluslararası alanda spor federasyonları, kulüpler ve sporcular sosyal medyada (web, Facebook, Twitter gibi) geniş takipçi kitlelerine sahiptir; örneğin Cristiano Ronaldo'nun sosyal medya hesaplarında 253 milyonun üzerinde takipçisi bulunmaktadır. Sosyal medya, sporcuların kişisel hikâye ve deneyimlerini paylaşmasına, taraftarların takımlarını takip etmesine ve farklı ülkelerden kullanıcıların internet üzerinden bağlanıp birlikte müsabakalar yapmasına imkân tanır; 70 ülkeden üyesi bulunan MyFootballClub (Benim Futbol Kulübüm) buna bir örnektir. Ancak sosyal medyanın kontrolsüz kullanımı, bazı sporcularda performans düşüşüne de yol açabilmektedir; örneğin bir yüzücünün sosyal medyadan kendini alamaması final performansını olumsuz etkilediği aktarılmıştır (Miah, 2012; Şenduran vd., 2018).",
+        "Motivasyon, bireylerin toplum amaçlarını benimsemelerinde önemli bir paya sahiptir ve spor okuryazarlık kavramında farklı hareket biçimlerini anlamak, iletmek, uygulamak ve analiz etmek için gereklidir. Spor okuryazarlığının öznitelikleri, bireylerin çoğunlukla eğlence, kendini gerçekleştirme fırsatları ve yeterlilik/verimlilik duygusu gibi içsel değerler için fiziksel faaliyetlere katıldığını ortaya koymaktadır (Sum vd., 2018). Yapılan çalışmalar, medya okuryazarlığı gelişimindeki motivasyon örüntülerinin daha iyi konsantrasyon sağladığını, algılanan yeterliliği artırdığını, fiziksel aktiviteler için daha fazla çabayı desteklediğini ve boş zamanlarda fiziksel aktiviteye karşı olumlu tutum geliştirebildiğini göstermektedir (Ülker, 2019)."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u4q1",
+      "question": "'……, enformasyon, ikna ve uyum aracılığıyla; organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir.' Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": ["Pazarlama", "Strateji", "Halkla ilişkiler", "Medya", "İtibar yönetimi"],
+      "correctIndex": 2,
+      "explanation": "Bu tanım Edward Bernays'e ait halkla ilişkiler tanımıdır; metinde 'Edward Bernays'ın göre halkla ilişkiler; enformasyon, ikna ve uyum aracılığıyla organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir' şeklinde verilmiştir.",
+      "optionNotes": [
+        "Pazarlama, ürün/hizmetlerin satışını hedefleyen farklı bir yönetim fonksiyonudur; bu tanımla doğrudan ilgili değildir.",
+        "Strateji bir amaca ulaşmak için izlenen yoldur; tanımdaki kamunun desteğini kazanma denemesi doğrudan halkla ilişkilere aittir.",
+        "Doğru. Edward Bernays'in halkla ilişkiler tanımı metinde tam olarak bu şekilde verilmiştir.",
+        "Medya, halkla ilişkilerin kullandığı bir araçtır; tanımın öznesi olan kavram değildir.",
+        "İtibar yönetimi halkla ilişkilerin bir sonucu olabilir ama metindeki tanım doğrudan 'halkla ilişkiler' kavramına aittir."
+      ]
+    },
+    {
+      "id": "u4q2",
+      "question": "Spor ortamlarında yetenek, beceri, duygu ve düşüncelerin oyun aracılığı ile anlamlandırma ve izleyicilere aktarma sürecine ne ad verilir?",
+      "options": ["Optimizasyon", "Kurumsallaşma", "Kriz yönetimi", "İletişim", "Sentezleme"],
+      "correctIndex": 3,
+      "explanation": "Metinde Yetim ve Cengiz'den (2017) aktarılan tanıma göre 'İletişim; spor ortamlarında yetenek, beceri, duygu ve düşüncelerin oyun aracılığı ile anlamlandırma ve izleyicilere aktarılma sürecidir' denilmektedir; bu nedenle doğru cevap iletişimdir.",
+      "optionNotes": [
+        "Optimizasyon bir sürecin en iyi hâle getirilmesiyle ilgilidir, bu tanımla örtüşmez.",
+        "Kurumsallaşma, bir yapının kurumsal kimlik kazanması sürecidir ve tanımla ilgisizdir.",
+        "Kriz yönetimi, beklenmedik olumsuz durumları yönetmekle ilgilidir; bu tanımı karşılamaz.",
+        "Doğru. Yetim ve Cengiz'in tanımına göre anlatılan süreç iletişimdir.",
+        "Sentezleme, metinde geçmeyen ve tanımla ilgisi olmayan bir kavramdır."
+      ]
+    },
+    {
+      "id": "u4q3",
+      "question": "Aşağıdakilerden hangisi sporda başarılı bir duyurum programı yapılması için duyurum planında yer alması gereken temel unsurlardan biri değildir?",
+      "options": [
+        "Duyurum ihtiyacının tanımlanması",
+        "Uygun medya kaynaklarının belirlenmesi",
+        "Hedeflenen kaynaklar için özel bir metot geliştirilmesi",
+        "Bütün kaynaklar için yalnız bir ortak hedef geliştirilmesi",
+        "Duyurum sonuçlarının değerlendirilmesi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metne göre (Argan ve Katırcı, 2008) duyurum planında 'her bir kaynak için' ayrı hedef geliştirilmesi gerekir; bütün kaynaklar için ortak tek bir hedef belirlemek metinde sayılan unsurlardan biri değildir, bu nedenle D seçeneği plana ait olmayan ifadeyi taşımaktadır.",
+      "optionNotes": [
+        "Duyurum ihtiyacının tanımlanması, metinde belirtilen temel unsurlardan biridir.",
+        "Uygun medya kaynaklarının belirlenmesi de planın temel unsurlarından biri olarak metinde geçer.",
+        "Hedeflenen kaynaklar için özel bir metot geliştirme, metinde açıkça belirtilen unsurlardan biridir.",
+        "Doğru. Metinde 'her bir kaynak için hedef geliştirme' denir; bütün kaynaklar için tek bir ortak hedef geliştirme ifadesi metinde yer almaz, bu seçenek unsurlardan biri değildir.",
+        "Duyurum sonuçlarının değerlendirilmesi, planın gerekli son unsuru olarak metinde belirtilmiştir."
+      ]
+    },
+    {
+      "id": "u4q4",
+      "question": "Aşağıdakilerden hangisi etkili dinleme türlerinden biridir?",
+      "options": ["Yüzeysel dinleme", "Çözümleyici dinleme", "Seçerek dinleme", "Görünüşte dinleme", "Kalıplaşmış dinleme"],
+      "correctIndex": 1,
+      "explanation": "Tablo 4.7'de etkili dinleme türleri arasında çözümleyici dinleme sayılırken; yüzeysel, seçerek, görünüşte ve kalıplaşmış dinleme etkisiz dinleme türleri arasında yer almaktadır.",
+      "optionNotes": [
+        "Yüzeysel dinleme, metindeki tabloya göre etkisiz dinleme türlerinden biridir.",
+        "Doğru. Çözümleyici dinleme, metinde etkili dinleme türleri arasında sayılmıştır.",
+        "Seçerek dinleme de etkisiz dinleme türleri listesinde yer alır.",
+        "Görünüşte dinleme, dinleyicinin gerçekte dikkatini vermediği etkisiz bir dinleme türüdür.",
+        "Kalıplaşmış dinleme de tabloda etkisiz dinleme türleri arasında listelenmiştir."
+      ]
+    },
+    {
+      "id": "u4q5",
+      "question": "Bir spor kulübü, güçlü taraflarını ele alıp stratejiler geliştiriliyorsa bu kurumda aşağıdakilerden hangisi gerçekleştirilmektedir?",
+      "options": ["Optimizasyon", "Dışsallaşma", "Proaktif halkla ilişkiler", "Reaktif halkla ilişkiler", "Katı manipülasyon"],
+      "correctIndex": 2,
+      "explanation": "Metne göre 'proaktif halkla ilişkiler, kurumun güçlü taraflarını ele alıp stratejiler geliştirirken, reaktif halkla ilişkiler de kurumun zayıf yönlerini ele alır ve bu zayıflıkların nasıl telafi edileceği konusunda stratejiler oluşturur.' Bu nedenle güçlü tarafları ele alan yaklaşım proaktif halkla ilişkilerdir.",
+      "optionNotes": [
+        "Optimizasyon, metinde geçen bir halkla ilişkiler strateji türü değildir.",
+        "Dışsallaşma, metinde tanımlanmayan ve konuyla ilgisi olmayan bir kavramdır.",
+        "Doğru. Güçlü yönleri ele alıp strateji geliştirmek proaktif halkla ilişkiler yaklaşımının tanımıdır.",
+        "Reaktif halkla ilişkiler kurumun zayıf yönlerini ele alıp telafi stratejileri geliştirir, güçlü yönlerle ilgili değildir.",
+        "Katı manipülasyon metinde geçmeyen, halkla ilişkiler etiğiyle çelişen bir kavramdır."
+      ]
+    },
+    {
+      "id": "u4q6",
+      "question": "I. Karşıdaki kişiyle çatışmak II. Yüksek sesle konuşmak III. Karşıdaki kişinin sözünü kesmeden dinlemek IV. Göz teması kurmak V. Hitap eden kişiyi taklit etmek Yukarıdakilerden hangileri etkili dinlemenin özellikleri arasında yer alır?",
+      "options": ["Yalnız I", "I ve II", "III ve IV", "I, II ve III", "I, II, III ve IV"],
+      "correctIndex": 2,
+      "explanation": "Metinde etkin dinleme, 'iletişim içinde bulunan kişiyi yargılamadan, sözünü kesmeden, bedene uygun biçim vererek, göz teması kurarak yapılan dinleme' olarak tanımlanmıştır; bu nedenle sözünü kesmeden dinlemek (III) ve göz teması kurmak (IV) etkili dinlemenin özellikleridir, çatışmak ve yüksek sesle konuşmak ise iletişim engelleri arasında sayılır.",
+      "optionNotes": [
+        "Yalnız I'in seçilmesi yanlıştır; çatışmak etkili dinlemenin bir özelliği değil, aksine bir iletişim engelidir.",
+        "I ve II (çatışmak, yüksek sesle konuşmak) etkili dinlemeyle değil, iletişim engelleriyle ilişkilidir.",
+        "Doğru. Sözünü kesmeden dinlemek ve göz teması kurmak, metindeki etkin dinleme tanımında doğrudan yer alır.",
+        "III doğru olsa da I ve II etkili dinlemenin özelliği değildir, bu seçenek hatalıdır.",
+        "I ve II'nin eklenmesi bu seçeneği yanlış kılar; çatışmak ve yüksek sesle konuşmak etkili dinlemeyle ilgisizdir."
+      ]
+    },
+    {
+      "id": "u4q7",
+      "question": "I. Sosyo-kültürel farklar II. Bilgi düzeyi III. Konuşma yetersizliği IV. Dinleme yetersizliği V. Gürültü Yukarıdakilerden hangileri iletişimi engelleyen faktörler arasında yer alır?",
+      "options": ["I ve II", "I, II ve III", "II, III ve IV", "I, II, III ve V", "I, II, III, IV ve V"],
+      "correctIndex": 4,
+      "explanation": "Metinde Sabuncuoğlu'nun (2013) sınıflamasına göre sosyo-kültürel farklar, bilgi düzeyi, konuşma yetersizliği ve dinleme yetersizliği psiko-sosyal iletişim engelleri arasında sayılırken, gürültü de fiziksel ve teknik engeller arasında yer almaktadır; dolayısıyla beşi de iletişimi engelleyen faktörlerdendir.",
+      "optionNotes": [
+        "Sadece I ve II'yi seçmek eksiktir; konuşma/dinleme yetersizliği ve gürültü de metinde engel olarak sayılmıştır.",
+        "I, II ve III doğru unsurlar olsa da IV ve V'in dışarıda bırakılması listeyi eksik yapar.",
+        "II, III ve IV doğru olsa da I (sosyo-kültürel farklar) ve V (gürültü) de metinde engel olarak geçer, bu seçenek eksiktir.",
+        "I, II, III ve V doğru olsa da IV (dinleme yetersizliği) metinde ayrıca engel olarak sayıldığından bu seçenek eksiktir.",
+        "Doğru. Metinde sayılan beş unsurun tümü (sosyo-kültürel farklar, bilgi düzeyi, konuşma yetersizliği, dinleme yetersizliği, gürültü) iletişimi engelleyen faktörler arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": "u4q8",
+      "question": "Aşağıdakilerden hangisi etkili iletişimde psiko-sosyal engellerden biri değildir?",
+      "options": [
+        "İletişimin amacının net olarak belirlenmemesi",
+        "Önyargılar",
+        "Tutum ve davranışlar",
+        "Bilgi düzeyi",
+        "Örgütün fiziksel düzeni"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde Sabuncuoğlu'nun (2013) sınıflamasına göre iletişimin amacının net belirlenmemesi, önyargılar, tutum ve davranışlar, bilgi düzeyi gibi unsurlar psiko-sosyal engeller arasında sayılırken, örgütün büyüklüğü ve fiziksel düzeni ayrı bir başlık olan 'örgütsel engeller' kapsamında ele alınmıştır.",
+      "optionNotes": [
+        "İletişimin amacının net belirlenmemesi, metinde psiko-sosyal engeller arasında açıkça sayılmıştır.",
+        "Önyargılar da psiko-sosyal engeller listesinde yer alan bir unsurdur.",
+        "Tutum ve davranışlar, psiko-sosyal engeller arasında belirtilen bir diğer unsurdur.",
+        "Bilgi düzeyi de metinde psiko-sosyal engeller kapsamında sayılmıştır.",
+        "Doğru. Örgütün fiziksel düzeni, metinde psiko-sosyal engeller değil, 'örgütsel engeller' başlığı altında ele alınmıştır."
+      ]
+    },
+    {
+      "id": "u4q9",
+      "question": "Kitle iletişim araçları yoluyla elde edilen mesajları çözümleme, değerlendirme ve iletme yeteneğine ne ad verilir?",
+      "options": ["İnternet erişimi", "Online okuma", "Medya okuryazarlığı", "Web tasarımı", "Digital gelişim"],
+      "correctIndex": 2,
+      "explanation": "Metinde Taşkıran'ın (2007) tanımına göre 'Medya okuryazarlığı, kitle iletişim araçları yoluyla elde edilen mesajları çözümleme, değerlendirme ve iletme yeteneğidir' denilmektedir; bu nedenle doğru cevap medya okuryazarlığıdır.",
+      "optionNotes": [
+        "İnternet erişimi, medya okuryazarlığının sadece bir aracı olabilir ama tanımın kendisi değildir.",
+        "Online okuma, tanımda belirtilen çözümleme ve değerlendirme becerilerini kapsamayan dar bir kavramdır.",
+        "Doğru. Taşkıran'ın tanımı tam olarak medya okuryazarlığını ifade etmektedir.",
+        "Web tasarımı teknik bir üretim becerisidir, mesaj çözümleme/değerlendirme yeteneğiyle ilgisizdir.",
+        "Digital gelişim, metinde tanımlanmayan ve bu tanımla örtüşmeyen genel bir kavramdır."
+      ]
+    },
+    {
+      "id": "u4q10",
+      "question": "Aşağıdakilerden hangisi spor medya okuryazarlığının özelliklerinden biri değildir?",
+      "options": [
+        "Konsantrasyon sağlaması",
+        "Algılanan yeterliliği artırabilmesi",
+        "Fiziksel aktiviteye karşı olumlu tutum geliştirebilmesi",
+        "Fiziksel aktiviteler için daha fazla çabayı desteklemesi",
+        "Dışsal motivasyonu ortadan kaldırması"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde spor medya okuryazarlığı gelişimindeki motivasyon örüntülerinin daha iyi konsantrasyon sağladığı, algılanan yeterliliği arttırdığı, fiziksel aktiviteler için daha fazla çaba desteklediği ve fiziksel aktiviteye karşı olumlu tutum geliştirdiği belirtilmiştir; ayrıca spor okuryazarlığının bireyleri eğlence, kendini gerçekleştirme ve yeterlilik gibi içsel değerler için harekete geçirdiği vurgulanmıştır; dışsal motivasyonu ortadan kaldırma gibi bir özellikten bahsedilmemektedir.",
+      "optionNotes": [
+        "Konsantrasyon sağlaması, metinde spor medya okuryazarlığının sonuçlarından biri olarak doğrudan belirtilmiştir.",
+        "Algılanan yeterliliği artırabilmesi de metinde açıkça sayılan bir özelliktir.",
+        "Fiziksel aktiviteye karşı olumlu tutum geliştirebilmesi, metinde belirtilen sonuçlardan biridir.",
+        "Fiziksel aktiviteler için daha fazla çabayı desteklemesi de metinde yer alan bir özelliktir.",
+        "Doğru. Metin dışsal motivasyonu ortadan kaldırmaktan bahsetmez, tam tersine içsel motivasyon kaynaklarının önemine vurgu yapar; bu nedenle bu seçenek spor medya okuryazarlığının bir özelliği değildir."
+      ]
+    }
+  ]
+}

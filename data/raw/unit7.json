@@ -1,0 +1,276 @@
+{
+  "id": 7,
+  "title": "Genel Antrenman Bilimi: Ölçme ve Değerlendirme",
+  "learningOutcomes": [
+    "Çocuklarda fiziksel aktivitenin, yaşam boyu devam eden spor yapma alışkanlığı üzerindeki önemini açıklayabilme",
+    "Çocukların durum tespitinde ve yeteneklerinin doğru bir şekilde ölçülmesinde fiziksel özellikleri ölçme ve değerlendirmenin önemini ifade edebilme",
+    "Çocukların antropometrik değerlerinin gelişim durumlarını değerlendirebilme",
+    "Çocukların hangi spor dalına uygun olduklarını belirleyebilme",
+    "Yetenek seçimi havuzlarının geliştirilmesi ve çocukların doğru bir şekilde yönlendirilmesi açısından çocukların erken yaşta fiziksel performanslarının takip edilmesinin önemini ifade edebilme"
+  ],
+  "keywords": [
+    "Fiziksel Aktivite",
+    "Ölçme Değerlendirme",
+    "Antropometrik Ölçümler",
+    "Fiziksel Performans Testleri"
+  ],
+  "summary": [
+    {
+      "heading": "Çocuklarda Fiziksel Aktivite ve Ölçme-Değerlendirmenin Önemi",
+      "paragraphs": [
+        "Çocukları sağlıklı ve mutlu bir geleceğe hazırlamak, toplumların en önemli hedeflerinden biridir. Küçük yaşlarda edinilen fiziksel aktivite alışkanlığı, yaşam boyu sürecek sporun ilk aşamasını oluşturur. Geniş katılımlı fiziksel aktivite programları, katılımcı çocuklar arasından fiziksel testlerde öne çıkan yetenekli çocukların belirlenme şansını artırır.",
+        "Antrenörlerin ölçme ve değerlendirme konusunda yetkin olması, sporcularının performanslarına ilişkin verileri doğru yorumlayabilmesini sağlar. Yetenek seçimi havuzuna seçim ve bu sürecin takibinde, sporcuların fiziksel yeterliliklerinin sayısal verilerle bilinmesi, adil ve objektif bir değerlendirme yapılmasına katkı sunar.",
+        "Fiziksel uygunluk (fitness), hareketlerin doğru olarak yapılmasını ve fiziksel dayanıklılıkla ilgili olarak vücudun kondisyon durumunu ifade eder. Diğer bir tanıma göre ise fiziksel uygunluk kişinin çalışma kapasitesidir; bu kapasite kişinin kuvvetine, dayanıklılığına, çabukluğuna ve bu unsurların birlikte çalışmasına bağlıdır. WHO, FİMS, ACSM, CDC gibi uluslararası kuruluşlar, toplumun sağlığını ve fiziksel uygunluk düzeyini geliştirmek amacıyla bu alanda sürekli araştırmalar yürütmektedir."
+      ]
+    },
+    {
+      "heading": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi",
+      "paragraphs": [
+        "Olimpiyatlar İçin Sporda Yetenek Seçimi ve Spora Yönlendirme Projesi dört aşamadan oluşur: I. Aşamada ilköğretim okullarında beden eğitimi öğretmenleri tarafından spora yatkınlık ölçümleri yapılır; II. Aşamada seçilen çocuklar BESYO uzmanlarınca daha kapsamlı bir test bataryasından geçirilir; III. Aşamada seçilen çocuklar 8 haftalık temel spor eğitim programına katılır; IV. Aşamada ise çok yönlü temel spor eğitimi sonunda çocuklar yetenekli oldukları spor dallarına yönlendirilir.",
+        "Gençlik ve Spor Bakanlığı ile Milli Eğitim Bakanlığı arasında imzalanan işbirliği protokolü çerçevesinde proje, 81 il, 957 ilçe ve 9527 okulda, ilkokul 3. sınıfa devam eden 423.557 öğrenci üzerinde yürütülmüştür. Bu öğrencilerden 46.884'ü ilk sportif yatkınlık testinde ortalama %10'luk dilime girerek, temel hareket ve sportif beceriler eğitimine davet edilmiştir.",
+        "Sporcu Gelişimi ve Eğitimi Modülleri, birbirini takip eden üç süreçten oluşur: Eğitim 1 - Temel Hareket Becerileri Eğitimi ve Gelişimi (Temel Düzey, 2,5 ay), Eğitim 2 - Spora Özgü Temel Eğitim ve Hareket Becerileri Gelişimi (Orta Düzey, 5 ay) ve Eğitim 3 - Çoklu Beceri Gelişimini İçeren Spor Eğitimi/Çoklu Branş Eğitimi (İleri Düzey, 5 ay). Bu üç süreç toplamda 12 aylık bir eğitim programı oluşturur.",
+        "İlk temel test ve ölçümler antropometrik olarak boy uzunluğu, vücut ağırlığı, kulaç uzunluğu, bacak uzunluğu ve oturma yüksekliğini; motorik olarak ise dikey sıçrama, esneklik, geriye sağlık topu atma, pençe kuvveti, çeviklik ve sürat testlerini kapsar. İkinci aşamada ise koordinasyon testi, mekik koşusu, denge testi ve görsel reaksiyon testi gibi daha ileri düzey testler uygulanarak sporcu adayları federasyonlarla işbirliği içinde ilgili branşlara yönlendirilir."
+      ]
+    },
+    {
+      "heading": "Antropometrik Ölçümler",
+      "paragraphs": [
+        "Vücut ağırlığı (kg), öğrenci ayakkabısız ve spor kıyafeti ile ölçülür. Boy uzunluğu (cm) ölçümünde ise topuk, kalça, sırt ve başın arka bölümünün iz düşümü aynı dikey doğrultuda olmalı, başın pozisyonu gözler karşıya bakacak şekilde ayarlanmalıdır.",
+        "Oturma yüksekliği (cm) ölçümünde öğrenci sandalyeye otururken dizler 90 derece açıda tutulur; kalça, sırt ve başın arka bölümünün iz düşümü aynı dikey doğrultuda olacak ve başın pozisyonu gözler karşıya bakacak şekilde olacaktır. Kulaç uzunluğu (cm) ölçümünde ise sırt geriye dayalı biçimde, kollar avuç içi karşıya bakacak şekilde yere paralel ve gergin olarak yanlara açılır; her iki kolun orta parmakları arasındaki uzaklık ölçülür.",
+        "Bu ölçümler, özellikle vücut yapısı ve uzuv uzunluklarının baskın olduğu spor branşlarına öğrencilerin yönlendirilmesinde temel veriler sağlar. Erken çocukluk döneminde (4-5 yaş) yıllık boy artışı ortalama 6 cm, vücut ağırlığı artışı ise 2 kg'dır; cinsiyetler arasında bu dönemde fark görülmez, ancak 7-10 yaşın sonlarına doğru kız çocukları lehine bir durum gözlenmeye başlar."
+      ]
+    },
+    {
+      "heading": "Fiziksel Performans Testleri: Esneklik, Sıçrama ve Kuvvet",
+      "paragraphs": [
+        "Esneklik (uzan-eriş) testinde öğrenci ayakkabısız olarak esneklik tahtasının dayanma bölümüne ayak tabanlarını yerleştirir, dizlerini gergin tutarak kalça ekleminden bükülüp öne doğru uzanır ve cetveli parmak ucuyla en uzak noktaya kadar iter. Dizlerin bükülmemesi, doğru ölçüm için kritik önemdedir ve test iki deneme ile uygulanır.",
+        "Dikey sıçrama testinde öğrenci, ayakları omuz genişliğinde açık dik pozisyonda sıçrama matının üzerinde durur; hızla dizlerini bükerek çöker ve kollarını kullanarak en yüksek hızla yukarı sıçrar, iniş sırasında dizlerini bükmeden sıçradığı noktaya düşmeye çalışır. El kavrama (pençe kuvveti) testinde ise kol aşağıya gergin biçimde uzatılarak el dinamometresi tüm kuvvetle sıkılır; ölçüm hem sağ hem sol el için ayrı ayrı yapılır.",
+        "Geriye sağlık topu atma testinde katılımcı, atış yapacağı yöne sırtı dönük pozisyon alır; topu iki eliyle önde tutup dizlerini hafifçe büktükten sonra vücudunu hızla gererek topu geriye doğru fırlatır. Atış alanı açısı 30 derece olarak belirlenmiştir ve belirlenen çizgiyi aşarak geriye düşme durumunda atış tekrarlanır."
+      ]
+    },
+    {
+      "heading": "Fiziksel Performans Testleri: Çabukluk, Sürat ve Koordinasyon",
+      "paragraphs": [
+        "Çeviklik testinde öğrenci, parkurun orta çizgisinin 50 cm gerisinde koşu yönüne yan duruş pozisyonunda hazır bekler; çıkış komutuyla hızla koşarak işaretlenmiş hedeflere sırayla eliyle dokunur ve başlangıç çizgisini geçerek testi tamamlar. 20 metre sürat koşusu testinde ise öğrenci, fotoselin 1 metre gerisindeki çıkış çizgisinden başlayarak 20 metrelik mesafeyi en yüksek süratle, yavaşlamadan tamamlar.",
+        "Koordinasyon testi, fotoselle ölçülen süre içinde art arda uygulanan 10 farklı istasyonu içerir: öne takla, denge tahtasından geçiş, engel üzerinden top atma, tek ayakla sekme (sağ-sol), elle top yer değiştirme, ayakla top yer değiştirme, duvara top atma, alttan-üstten engel geçişi, koşarak engeller arası slalom ve son olarak mekik koşu testi. Her istasyon için tanımlanmış hatalar (örneğin çemberin dışına basma, engeli atlama, belirlenen bölgeye basmama) yapıldığında hareketin yeniden tekrarlanması istenir.",
+        "20 metre mekik koşu testi, dayanıklılık özelliğini ölçmek amacıyla uygulanır; sporcu 20 metrelik parkurda, verilen sinyal sesleriyle koşmaya devam eder. Test 7 km/s hızla başlar ve her seviyede 0,5 km/s artarak zorlaşır. Sporcu sinyali bir kez kaçırırsa teste devam edebilir; ancak art arda iki kez sinyali kaçırırsa test o sporcu için sonlandırılır ve ulaşılan mekik sayısı kaydedilir."
+      ]
+    },
+    {
+      "heading": "Denge ve Görsel Reaksiyon Testleri",
+      "paragraphs": [
+        "Denge testi, öğrencinin destek ayağı üzerinde ağırlık (kütle) merkezinin durağanlığını veya hareketliliğini tespit etmek amacıyla uygulanır. Toplam 70 saniye süren test sırasında öğrenci sırasıyla çift ayakla, sol ayakla ve sağ ayakla denge platformu üzerinde belirtilen sürelerde hareketsiz durmaya çalışır; öğrenci platformdan düşerse veya zamanında platforma çıkamazsa test tekrarlanır.",
+        "Görsel reaksiyon testi, bir uyaranın (görme, dokunma, işitme) sinirler yoluyla merkezi sinir sistemine iletilmesi, burada karar oluşturulması ve bu kararın tekrar sinirler yoluyla kaslara iletilerek harekete geçirilmesi sürecini inceler. Reaksiyon zamanı, uyaranın gelmesiyle tepkinin başlamasına kadar geçen süreyi; tepki süresi ise uyaranın başlama zamanı ile tepkinin başladığı zaman arasında geçen süreyi ifade eder. Test, öğrencinin görsel bir uyarıya (rastgele yanan lambalardan kırmızı renge) vermiş olduğu tepki süresini ve bu tepkiyi devam ettirebilme düzeyini incelemeyi amaçlar; her lamba için en az 3 uyarı verilerek toplam 24 tekrar sonrasında test sonlandırılır."
+      ]
+    },
+    {
+      "heading": "Bölüm Özeti",
+      "paragraphs": [
+        "Antrenörlerin çocuklara yönelik fiziksel aktivite, ölçme ve değerlendirme konularına hakim olması, özellikle yetiştirici antrenörlük konusunda yetkin olmalarını sağlar. Dünyada spor alanında ileri gitmiş ülkeler, çocuklara uzun süre yatırım yaptıktan sonra aralarından şampiyon sporcular çıkarmaktadır; bu nedenle devlet yetkilileri, çocuklara sistematik antropometrik ölçüm ve fiziksel performans testleri uygulanması konusunda önemli organizasyonlar yapmaktadır.",
+        "Fiziksel ve antropometrik testler hakkında bilgi sahibi olmak, antrenörlere büyük avantajlar sağlar. Kuvvet, dayanıklılık, sürat, çeviklik, koordinasyon seviyesi, esneklik ve vücut kompozisyonuna yönelik test ve ölçüm sonuçları, üst seviyelerde yarışmacı olmaya aday genç sporcuları belirlemede ve bu sporcuların hangi branş için daha yeterli olduğu konusunda tahminler yapılmasında kullanılır. Bu testlerin büyük çoğunluğu, basit araç ve gereçler kullanılarak uygulanabilir."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u7q1",
+      "question": "Türkiye'de, Cumhuriyet tarihinin en büyük 'Yetenek seçimi' projesi, aşağıdaki bakanlıkların hangilerinin koordinasyonunda yürütülmektedir?",
+      "options": [
+        "Aile ve Sosyal Politikalar Bakanlığı - Gençlik ve Spor Bakanlığı",
+        "Milli Eğitim Bakanlığı - Avrupa Birliği Bakanlığı",
+        "Aile ve Sosyal Politikalar Bakanlığı - Milli Eğitim Bakanlığı",
+        "Gençlik ve Spor Bakanlığı - Bilim Sanayi ve Teknoloji Bakanlığı",
+        "Milli Eğitim Bakanlığı - Gençlik ve Spor Bakanlığı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde belirtildiği gibi, Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi, Gençlik ve Spor Bakanlığı ile Milli Eğitim Bakanlığı arasında imzalanan işbirliği protokolüne dayanarak, Spor Eğitimi Dairesi Başkanlığı koordinasyonunda yürütülmektedir. Bu iki bakanlık, öğrencilerin erken yaşta spora yönlendirilmesi ve yetenekli öğrencilerin keşfedilmesi amacıyla ortak çalışmıştır.",
+      "optionNotes": [
+        "Aile ve Sosyal Politikalar Bakanlığı bu projede taraf değildir; metinde bu kurumun adı geçmez, bu nedenle yanlıştır.",
+        "Avrupa Birliği Bakanlığı projeyle ilgisi olmayan bir kurumdur; bu seçenek dikkat dağıtmak için eklenmiş bir çeldiricidir.",
+        "Aile ve Sosyal Politikalar Bakanlığı yine bu protokolün tarafı değildir, Gençlik ve Spor Bakanlığı ile karıştırılmamalıdır.",
+        "Bilim Sanayi ve Teknoloji Bakanlığı projeyle ilgili değildir; bu seçenek tamamen bir çeldiricidir.",
+        "Doğru yanıt budur: Gençlik ve Spor Bakanlığı ile Milli Eğitim Bakanlığı arasındaki işbirliği protokolü projenin temelini oluşturur."
+      ]
+    },
+    {
+      "id": "u7q2",
+      "question": "Sportif yatkınlık testinde %10'luk dilime girerek, projenin ikinci aşamasına davet edilecek çocuklara, modüllerin uygulama sırası aşağıdakilerden hangisinde doğru bir şekilde verilmiştir?",
+      "options": [
+        "Temel hareket becerileri eğitimi ve gelişimi modülü (Temel düzey) - Çoklu branş gelişimini içeren spor eğitimi modülü - Hareket becerileri gelişimi modülü (orta düzey)",
+        "Hareket becerileri gelişimi modülü (orta düzey) - Temel hareket becerileri eğitimi ve gelişimi modülü - Çoklu branş gelişimini içeren spor eğitimi modülü",
+        "Temel hareket becerileri eğitimi ve gelişimi modülü (Temel düzey) - Hareket becerileri gelişimi modülü (orta düzey) - Çoklu Branş Gelişimini İçeren Spor Eğitimi Modülü",
+        "Çoklu branş gelişimini içeren spor eğitimi modülü - Temel hareket becerileri eğitimi ve gelişimi modülü - Hareket becerileri gelişimi modülü (orta düzey)",
+        "Temel hareket becerileri eğitimi ve gelişimi modülü - Çoklu branş gelişimini içeren spor eğitimi modülü"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sporcu Gelişimi ve Eğitimi Modülleri, metinde belirtildiği sırayla Eğitim 1 (Temel Hareket Becerileri Eğitimi ve Gelişimi, Temel Düzey, 2,5 ay), Eğitim 2 (Spora Özgü Temel Eğitim ve Hareket Becerileri Gelişimi, Orta Düzey, 5 ay) ve Eğitim 3 (Çoklu Beceri Gelişimini İçeren Spor Eğitimi, İleri Düzey, 5 ay) olarak uygulanır. Süreç her zaman temel düzeyden başlayıp giderek zorlaşan bir sıra izler.",
+      "optionNotes": [
+        "Bu sıralamada ileri düzey (çoklu branş) modülü ikinci sıraya alınmıştır, oysa o süreç en sonda uygulanır; bu nedenle yanlıştır.",
+        "Sıralama tamamen tersten başlamaktadır; süreç orta düzeyle değil temel düzeyle başlar, bu nedenle yanlıştır.",
+        "Doğru sıralama budur: önce temel düzey, sonra orta düzey, son olarak ileri düzey (çoklu branş) modülü uygulanır; bu sıra metindeki 2,5-5-5 aylık süreçle örtüşür.",
+        "Bu seçenek süreci ileri düzey (çoklu branş) modülüyle başlatmaktadır, oysa program temel düzeyden başlayıp ileri düzeye doğru ilerler; bu nedenle yanlıştır.",
+        "Bu seçenek orta düzey modülünü tamamen atlamaktadır; üç aşamalı süreç yerine sadece iki aşama belirtilmiştir, bu nedenle eksik ve yanlıştır."
+      ]
+    },
+    {
+      "id": "u7q3",
+      "question": "Antropometrik ölçümde, kulaç uzunluğu ölçümü yapılırken, her iki kolun hangi parmakları arasındaki uzaklık ölçülür?",
+      "options": [
+        "Orta parmak",
+        "İşaret parmağı",
+        "Baş parmak",
+        "Serçe parmağı",
+        "Yüzük parmağı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde kulaç uzunluğu ölçümü açıklanırken, kollar yere paralel ve avuç içleri karşıya bakacak şekilde gergin olarak yanlara açıldıktan sonra her iki kolun orta parmakları arasındaki uzaklığın ölçüldüğü belirtilir. Bu nedenle ölçümde referans alınan parmak orta parmaktır.",
+      "optionNotes": [
+        "Doğru yanıt budur; metinde ölçümün orta parmaklar arasındaki uzaklık olarak tanımlandığı açıkça belirtilmiştir.",
+        "İşaret parmağı bu ölçümde kullanılan bir referans noktası değildir; metinde geçmez.",
+        "Baş parmak kulaç uzunluğu ölçümünde kullanılmaz; bu seçenek bir çeldiricidir.",
+        "Serçe parmak bu ölçümde referans alınmaz; metinde belirtilen parmak orta parmaktır.",
+        "Yüzük parmağı da bu ölçümde kullanılan bir nokta değildir, orta parmakla karıştırılmamalıdır."
+      ]
+    },
+    {
+      "id": "u7q4",
+      "question": "20 metre mekik koşu testi, birinci derecede hangi fiziksel performans hakkında bilgi veren bir kavramdır?",
+      "options": [
+        "Sürat",
+        "Kuvvet",
+        "Çeviklik",
+        "Dayanıklılık",
+        "Esneklik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde mekik koşu testi açıkça 'dayanıklılık özelliklerini test etmek için oluşturulan' bir test olarak tanımlanmıştır. Test sırasında tempo giderek artan sinyal sesleriyle sporcunun uzun süre koşmaya devam etmesi istenir, bu da kardiyovasküler dayanıklılığı ölçmeye yöneliktir.",
+      "optionNotes": [
+        "Sürat, 20 metre sürat koşusu gibi kısa ve patlayıcı testlerle ölçülür; mekik koşusu ise uzun süreli bir dayanıklılık testidir, bu nedenle yanlıştır.",
+        "Kuvvet, el kavrama veya sağlık topu atma gibi testlerle ölçülür; mekik koşusuyla doğrudan ilişkili değildir, bu nedenle yanlıştır.",
+        "Çeviklik, yön değiştirme hızını ölçen çeviklik testiyle değerlendirilir; mekik koşusunun temel amacı bu değildir, bu nedenle yanlıştır.",
+        "Doğru yanıt budur; metin mekik koşusunu açıkça dayanıklılık özelliklerini test eden bir araç olarak tanımlamaktadır.",
+        "Esneklik, uzan-eriş testiyle ölçülür; mekik koşusuyla ilgisi yoktur, bu nedenle yanlıştır."
+      ]
+    },
+    {
+      "id": "u7q5",
+      "question": "20 metre sürat koşusu öncesi öğrencinin çıkış çizgisinde doğru pozisyonu alması için fotoselin kaç metre gerisinde konum alması sağlanır?",
+      "options": [
+        "1",
+        "1.5",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde 20 metre sürat koşusu testinin uygulanışı açıklanırken, öğrencinin fotoselin 1 metre gerisinde çıkış çizgisinde doğru pozisyonu alması gerektiği belirtilmiştir. Bu mesafe, fotoselin öğrencinin hareketsiz başlangıç anını doğru algılaması için standart olarak belirlenmiştir.",
+      "optionNotes": [
+        "Doğru yanıt budur; metinde fotoselin 1 metre gerisinde konumlanma gerektiği açıkça belirtilmiştir.",
+        "1,5 metre, bu testte değil duvara top atma testinde çemberlerin duvara olan uzaklığı için kullanılan bir değerdir; bu nedenle burada yanlıştır.",
+        "2 metre bu test için belirtilen mesafe değildir; farklı bir ölçümle karıştırılmamalıdır.",
+        "3 metre bu testte kullanılan bir değer değildir, denge tahtası uzunluğuyla karıştırılabilir ama burada geçerli değildir.",
+        "4 metre metinde bu test için belirtilmemiştir, bu nedenle yanlıştır."
+      ]
+    },
+    {
+      "id": "u7q6",
+      "question": "Aşağıdaki testlerden hangisi antropometrik ölçümler içinde yer almaz?",
+      "options": [
+        "Boy uzunluğu",
+        "Kulaç uzunluğu",
+        "Esneklik",
+        "Oturma yüksekliği",
+        "Bacak uzunluğu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antropometrik ölçümler, vücudun boyut ve oranlarını belirleyen ölçümlerdir; metinde bunlar boy uzunluğu, vücut ağırlığı, kulaç uzunluğu, bacak uzunluğu ve oturma yüksekliği olarak sayılmıştır. Esneklik ise bir motorik/fiziksel performans testidir, vücut boyutunu değil hareket kabiliyetini ölçer; bu nedenle antropometrik ölçümler kategorisine girmez.",
+      "optionNotes": [
+        "Boy uzunluğu metinde sayılan antropometrik ölçümlerden biridir; bu nedenle doğru cevap değildir.",
+        "Kulaç uzunluğu da antropometrik ölçümler arasında yer alır; bu nedenle doğru cevap değildir.",
+        "Doğru yanıt budur; esneklik bir fiziksel performans/motorik testtir, vücut boyutunu ölçen bir antropometrik değer değildir.",
+        "Oturma yüksekliği metinde sayılan antropometrik ölçümlerden biridir; bu nedenle doğru cevap değildir.",
+        "Bacak uzunluğu da antropometrik ölçümler arasında sayılmıştır; bu nedenle doğru cevap değildir."
+      ]
+    },
+    {
+      "id": "u7q7",
+      "question": "Büyük yetenek seçimi projesinde, ilk sportif yatkınlık testinde ortalama yüzde kaçlık dilime girenler temel hareket ve sportif beceriler eğitimine davet edilmiştir?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde, 423.557 öğrenciden 46.884'ünün ilk sportif yatkınlık testinde ortalama %10'luk dilime girerek temel hareket ve sportif beceriler eğitimine davet edildiği belirtilmiştir. Bu oran, projenin ilk elemesinde en yetenekli görülen çocukların seçildiği eşik değeri temsil eder.",
+      "optionNotes": [
+        "Doğru yanıt budur; metinde açıkça %10'luk dilime girenlerin davet edildiği belirtilmiştir.",
+        "%15 metinde belirtilen oran değildir; bu seçenek bir çeldiricidir.",
+        "%20 metinde geçen bir değer değildir, doğru oranla karıştırılmamalıdır.",
+        "%25 metinde belirtilmemiştir; bu nedenle yanlıştır.",
+        "%30 metinde geçen bir değer değildir; doğru oran %10'dur."
+      ]
+    },
+    {
+      "id": "u7q8",
+      "question": "Aşağıdaki testlerden hangisi projenin ikinci aşamasında uygulanır?",
+      "options": [
+        "Çeviklik testi",
+        "Topu geriye fırlatma testi",
+        "Dikey sıçrama testi",
+        "Koordinasyon testi",
+        "Pençe kuvveti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde, projenin ikinci aşamasında ileri düzey testler olarak koordinasyon testi, mekik koşusu, denge testi ve görsel reaksiyon testinin uygulandığı belirtilmiştir. Çeviklik, geriye top atma, dikey sıçrama ve pençe kuvveti gibi testler ise ilk temel test ve ölçümler kapsamında, ilk aşamada uygulanan motorik testlerdir.",
+      "optionNotes": [
+        "Çeviklik testi, ilk temel test ve ölçümler arasında yer alan bir motorik testtir, ikinci aşamanın ileri düzey testi değildir; bu nedenle yanlıştır.",
+        "Geriye top atma testi de ilk aşamadaki motorik testler arasındadır, ikinci aşamaya ait değildir; bu nedenle yanlıştır.",
+        "Dikey sıçrama testi ilk temel ölçümler kapsamındadır, ikinci aşamanın ileri düzey testlerinden değildir; bu nedenle yanlıştır.",
+        "Doğru yanıt budur; koordinasyon testi, metinde ikinci aşamada uygulanan ileri düzey testlerden biri olarak belirtilmiştir.",
+        "Pençe (el kavrama) kuvveti testi de ilk aşamadaki motorik testler arasında yer alır, ikinci aşamaya ait değildir; bu nedenle yanlıştır."
+      ]
+    },
+    {
+      "id": "u7q9",
+      "question": "20 metre mekik testi (dayanıklılık) prosedürüne göre adayların testlerinin sonlandırılma durumu aşağıdakilerden hangisidir?",
+      "options": [
+        "Sadece 1 kez hata yapıldığında",
+        "Aralıklar ile 2 kez hata yapıldığında",
+        "Üst üste 2 kez arka arkaya hata yapıldığında",
+        "Üst üste 3 kez arka arkaya hata yapıldığında",
+        "Aralıklar ile 3 kez hata yapıldığında"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde, mekik koşusu sırasında sporcunun sinyali kaçırarak bir kez hata yapması durumunda teste devam etmesine izin verildiği, ancak sporcunun iki kez üst üste (ardışık) sinyali kaçırması durumunda testin sonlandırıldığı açıkça belirtilmiştir. Eğer sporcu ilk sinyali kaçırıp sonraki sinyali yakalarsa hata durumu sıfırlanır ve hak yeniden iki hataya tamamlanır.",
+      "optionNotes": [
+        "Tek bir hata testin sonlanmasına yol açmaz; metinde bir hatadan sonra teste devam edilebileceği belirtilmiştir, bu nedenle yanlıştır.",
+        "Hatalar aralıklı (ardışık olmayan) şekilde yapıldığında hata durumu sıfırlanır, bu da testin sonlanmasına neden olmaz; bu nedenle yanlıştır.",
+        "Doğru yanıt budur; metinde sporcunun art arda iki kez sinyali kaçırması durumunda testin o sporcu için sonlandırıldığı açıkça belirtilmiştir.",
+        "Üç kez ardışık hata metinde belirtilen sonlandırma koşulu değildir; doğru sayı ikidir, bu nedenle yanlıştır.",
+        "Aralıklı üç hata da metinde geçen bir sonlandırma koşulu değildir; hata durumu aralıklı olduğunda sıfırlanır, bu nedenle yanlıştır."
+      ]
+    },
+    {
+      "id": "u7q10",
+      "question": "Görsel reaksiyon testinin tam amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Öğrencinin görsel bir uyarıya vermiş olduğu tepki süresini ve bu tepkiyi devam ettirebilme düzeyini incelemek",
+        "Öğrencinin görsel bir uyarıya vermiş olduğu tepki süresini incelemek",
+        "Öğrencinin verdiği tepkiyi devam ettirebilme düzeyini incelemek",
+        "Öğrencinin refleks düzeyini incelemek",
+        "Öğrencinin sadece hızlı karar vermek yetisini incelemek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde görsel reaksiyon testinin amacı, 'öğrencinin görsel bir uyarıya vermiş olduğu tepki süresini ve bu tepkiyi devam ettirebilme düzeyini incelemek' olarak tam ve eksiksiz şekilde tanımlanmıştır. Test, hem anlık tepki süresini hem de bu performansın 24 tekrar boyunca sürdürülebilirliğini birlikte değerlendirir; bu nedenle iki unsuru birden içeren tanım doğrudur.",
+      "optionNotes": [
+        "Doğru yanıt budur; bu seçenek metindeki tanımı tam ve eksiksiz olarak içerir, hem tepki süresini hem de sürdürülebilirliği kapsar.",
+        "Bu seçenek sadece tepki süresini içerir, tepkiyi devam ettirebilme düzeyini atladığı için tanım eksiktir, bu nedenle yanlıştır.",
+        "Bu seçenek sadece sürdürülebilirlik unsurunu içerir, tepki süresinin ölçülmesi kısmını atladığı için tanım eksiktir, bu nedenle yanlıştır.",
+        "Refleks düzeyi, testin metinde verilen tanımında kullanılan bir ifade değildir; bu seçenek tanımı genel ve belirsiz hale getirir, bu nedenle yanlıştır.",
+        "Testin amacı sadece karar verme hızını değil, görsel uyarana verilen tepkinin süresini ve sürekliliğini ölçmektir; bu seçenek tanımı dar kapsamlı bırakır, bu nedenle yanlıştır."
+      ]
+    }
+  ]
+}

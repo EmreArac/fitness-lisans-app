@@ -1,0 +1,276 @@
+{
+  "id": 2,
+  "title": "Spor Fizyolojisi I",
+  "learningOutcomes": [
+    "Spor fizyolojisi ile ilgili temel kavramları ve canlı kavramı ile organizasyonunu açıklayabilme",
+    "Hücre yapısı ve organizasyonunu açıklayabilme",
+    "Enerji sistemleri ve ilgili temel kavramları tanımlayabilme",
+    "Dinlenme ve egzersiz sırasında enerji sistemlerinin kullanımını açıklayabilme"
+  ],
+  "keywords": ["Canlı", "Hücre", "Enerji", "Egzersiz", "Enerji Sistemleri"],
+  "summary": [
+    {
+      "heading": "Fizyoloji ve Egzersiz Fizyolojisi",
+      "paragraphs": [
+        "Fizyoloji sözcüğü Latince \"physus\" (yaşam) ve \"logos\" (bilim) kelimelerinden gelir; canlı organizmalardaki tüm yaşamsal işlevleri inceleyen bilim dalıdır. Fizyoloji, bu işlevlerin moleküler düzeyden organ ve sistem düzeyine kadar normal ve patolojik durumlarda nasıl meydana geldiğini araştırır ve fizik, kimya, biyoloji gibi bilimlerden yararlanır.",
+        "Fizyoloji; hayvan, insan ve bitki fizyolojisi gibi alt bilim dallarına ayrılır. Egzersiz ve Spor Fizyolojisi, insan organizmasının kassal çalışmalara verdiği cevabı ve uyumu, sportif performansı artırma amacını güden antrenmanların fizyolojik temellerini inceleyen bilim koludur; egzersiz, antrenman, spor ve hareketsizliğin bireyler üzerindeki akut ve kronik etkilerini araştırır."
+      ]
+    },
+    {
+      "heading": "Canlı Organizmanın Temel Özellikleri",
+      "paragraphs": [
+        "Canlılığın kesin bir tanımı olmasa da, tüm canlılar ortak bazı temel özellikler taşır. Hücre yapısı (prokaryot/ökaryot), beslenme, solunum ve ATP üretimi, metabolizma (anabolizma: basit moleküllerden karmaşık moleküllerin yapılması; katabolizma: karmaşık moleküllerin basit moleküllere parçalanması) bu özelliklerden bazılarıdır.",
+        "Diğer temel özellikler arasında boşaltım (atık maddelerin uzaklaştırılması), hareket, uyarılara cevap verme (uyarılabilirlik: iç veya dış kaynaklı elektrik sinyali, hormon ve salgı bezi değişikliklerini algılayıp tepki verme yeteneği), homeostaz (iç ortamın sabit tutulması), çevreye uyum (adaptasyon), büyüme-gelişme, üreme ve kendine özgü yapısal-işlevsel organizasyon sayılabilir. Bu özelliklerin tümü canlının yaşamını sürdürebilmesi için gereklidir."
+      ]
+    },
+    {
+      "heading": "İnsan Vücudunun Yapısal Organizasyonu",
+      "paragraphs": [
+        "İnsan vücudu, en basitten en komplekse doğru hiyerarşik bir organizasyona sahiptir: Kimyasal düzey (atom, element ve moleküler düzey) → Hücresel düzey (vücudun en küçük yaşayan ünitesi) → Doku düzeyi (ortak görev için bir araya gelmiş hücre grupları) → Organ düzeyi (bir fonksiyon için birleşen doku tipleri) → Organ sistemleri düzeyi → Organizma düzeyi.",
+        "Kimyasal düzeyde, doğada bulunan 92 elementten yalnızca 11'i canlılarda önemli miktarda bulunur; oksijen, karbon, hidrojen ve azot vücut ağırlığının %96,3'ünü oluşturur. Kimyasal bileşenler inorganik (su, tuzlar, basit asit/bazlar) ve organik (karbonhidrat, lipit, protein, nükleik asit) olmak üzere ikiye ayrılır. DNA kalıtsal bilgiyi taşır ve proteinlerin yapım bilgisini içerirken, RNA protein üretiminde görev alır."
+      ]
+    },
+    {
+      "heading": "Doku Tipleri",
+      "paragraphs": [
+        "Vücutta dört temel doku tipi bulunur. Bağ dokusu, vücuttaki en yaygın dokudur; diğer dokuları birbirine bağlar, organları destekler ve korur; mezenkim hücreleri, fibroblastlar, makrofajlar, yağ hücreleri, plazma hücreleri, mast hücreleri ve pigment hücreleri (melanositler) bağ dokusunun temel hücre tipleridir.",
+        "Epitel dokusu vücudun iç ve dış yüzeylerini örter; örtme/koruma, emme (örn. bağırsak villusları), salgılama (bezler) ve duyu fonksiyonlarını üstlenir. Kas dokusu, kasılma yoluyla kimyasal enerjiyi mekanik enerjiye çevirir; düz kas (istemsiz, yavaş, iç organlarda), iskelet kası (istemli, çok çekirdekli, hızlı yorulan) ve kalp kası (istemsiz, interkalar disklerle birbirine bağlı) olmak üzere üç çeşittir. Sinir dokusu ise nöronlar (uyarı iletimi) ve glia hücrelerinden (destek, besleme, miyelin oluşturma) oluşur."
+      ]
+    },
+    {
+      "heading": "Organ ve Organ Sistemleri",
+      "paragraphs": [
+        "İki ya da daha fazla doku tipinin özel bir görevi yerine getirmek üzere birleşmesiyle organlar, organların birleşmesiyle de organ sistemleri oluşur. Vücuttaki başlıca sistemler: deri sistemi (vücut ısısı düzenlenmesi, koruma), sinir sistemi (aktivitelerin kontrol ve koordinasyonu), iskelet sistemi (destek, koruma, kan hücresi üretimi, mineral depolama), kas sistemi (hareket, postür, ısı üretimi) ve endokrin sistem (hormonlarla vücut aktivitelerinin düzenlenmesi).",
+        "Diğer önemli sistemler ise üriner sistem (kimyasal içerik ve sıvı-elektrolit dengesi), üreme sistemi (nesil devamlılığı), dolaşım sistemi (oksijen/besin taşınması, atık uzaklaştırılması, ısı düzenlenmesi), lenfatik sistem (bağışıklık, sıvı geri dönüşü), solunum sistemi (gaz değişimi, asit-baz dengesi) ve sindirim sistemidir (besinlerin parçalanıp kullanıma hazırlanması). Her sistem, vücudun bir bütün olarak çalışmasına ve homeostazın sürdürülmesine katkı sağlar."
+      ]
+    },
+    {
+      "heading": "Vücudun İç Ortamı ve Homeostaz",
+      "paragraphs": [
+        "Yetişkin insan vücudunun %56-60'ı sıvıdır. Bu sıvının yaklaşık 2/3'ü hücre içinde (intrasellüler sıvı, ICF), 1/3'ü ise hücre dışında (ekstrasellüler sıvı, ECF) bulunur; ikisi hücre zarı ile birbirinden ayrılır. Hücre dışı sıvının 3/4'ü hücreler arası (interstisyel) sıvı, 1/4'ü kan plazmasıdır. Claude Bernard bu hücre dışı sıvıyı \"iç ortam-iç deniz\" olarak tanımlamıştır.",
+        "Homeostaz, iç ortamın yaklaşık olarak sabit koşullarda korunması anlamına gelir ve ilk olarak Walter Cannon tarafından tanımlanmıştır. Homeostatik mekanizmalar geri bildirim sistemleriyle çalışır: Negatif geri bildirimde yanıt, başlatan etkene zıt yöndedir ve eski duruma dönüşü sağlar (örn. karbondioksit artışının ventilasyonu artırarak dengelenmesi); vücuttaki çoğu kontrol mekanizması bu türdendir. Pozitif geri bildirimde ise değişikliklerin şiddeti giderek artar; kanın pıhtılaşması buna örnektir ve vücutta negatif geri bildirime göre daha az görülür."
+      ]
+    },
+    {
+      "heading": "Hücrenin Genel Yapısı",
+      "paragraphs": [
+        "Hücreyi 1665 yılında Robert Hooke keşfetmiş ve \"cellula\" adını vermiştir; Antoni Van Leeuwenhoek ise geliştirdiği mikroskopla mikroorganizmaları incelemiştir. Hücre, canlıların yaşama ve üreme yeteneğine sahip en küçük yapısal ve fonksiyonel birimidir. İnsan vücudu yaklaşık 100 trilyon hücreden oluşur.",
+        "Hücreler yapılarına göre iki grupta incelenir: Prokaryotik hücreler (sadece bakterilerde bulunur, çekirdek zarı ve genellikle membranlı organeli yoktur, DNA'sı halkasal ve zarla çevrili değildir) ve Ökaryotik hücreler (çekirdek zarıyla çevrili çekirdek ve sitoplazmik organeller içerir; insanda yaklaşık 200 farklı hücre tipi vardır). Hücre, kimyasal ve fiziksel yapı olmak üzere iki başlık altında incelenir."
+      ]
+    },
+    {
+      "heading": "Hücrenin Kimyasal Yapısı",
+      "paragraphs": [
+        "Hücreyi oluşturan protoplazma beş temel maddeden oluşur: su, elektrolitler, proteinler, lipitler ve karbonhidratlar. Su, hücrenin temel sıvı ortamıdır; yağ hücreleri hariç çoğu hücrenin %70-85'i sudur. Elektrolitler hücresel reaksiyonlar için gerekli inorganik kimyasalları oluşturur; hücre içinde en çok potasyum, magnezyum, fosfat bulunurken hücre dışında sodyum, kalsiyum, klor ve bikarbonat daha fazladır.",
+        "Proteinler hücre kütlesinin %10-20'sini oluşturur ve yapısal proteinler (mikrotübüller gibi filamentler) ile globüler proteinler (genellikle enzim işlevi görür) olarak ikiye ayrılır. Lipitler enerji kaynağı olarak kullanılır ve hücrenin fiziksel yapısında da yer alır (örn. yağ hücrelerinde kütlenin %95'i trigliseritlerdir); fosfolipit ve kolesterol hücre zarının yapı taşlarıdır. Karbonhidratlar hücrelerde genellikle glikojen şeklinde depolanır ve toplam kütlenin küçük bir kısmını oluşturur (kas hücrelerinde %3'e, karaciğerde %6'ya kadar çıkabilir)."
+      ]
+    },
+    {
+      "heading": "Hücre Zarının Yapısı",
+      "paragraphs": [
+        "Hücre zarı (plazma membranı), hücreyi çevreleyen 7,5-10 nanometre kalınlığında, ince ve elastik bir yapıdır. 1972'de Singer ve Nicholson tarafından tanımlanan akıcı mozaik zar modeline göre hücre zarı, çift katlı fosfolipit tabaka (sıvı bölüm) içine gömülü proteinlerden (mozaik bölüm) oluşur; yaklaşık bileşimi %55 protein, %25 fosfolipit, %13 kolesterol, %4 diğer lipitler ve %3 karbonhidrattır.",
+        "Fosfolipit moleküllerinin hidrofilik (suda çözünen) fosfat ucu ve hidrofobik (suda çözünmeyen) yağ asidi ucu vardır; bu yapı zarın seçici geçirgenliğini sağlar. Kolesterol zarın akışkanlığını ve esnekliğini belirler. Zar proteinleri integral (zarı boydan boya geçen, kanal/taşıyıcı/reseptör görevi gören) ve periferik (integral proteinlere tutunmuş, genellikle enzim işlevi gören) olmak üzere ikiye ayrılır. Zar karbonhidratları glikoprotein ve glikolipitler şeklinde hücrenin dış yüzeyinde glikokaliks adı verilen örtüyü oluşturur ve hücrelerin birbirini tanımasını, reseptör görevini ve bağışıklık reaksiyonlarını sağlar. Hücre zarının geçirgenliği molekül hacmi/tipi, yağda çözünürlük, iyon yükü ve taşıyıcı moleküllerin varlığı gibi faktörlere bağlıdır."
+      ]
+    },
+    {
+      "heading": "Hücre Zarında Madde Taşınması",
+      "paragraphs": [
+        "Hücre zarındaki madde geçişleri, enerji harcanıp harcanmamasına göre pasif taşıma ve aktif taşıma olarak ikiye ayrılır. Pasif taşımada madde, yoğun bölgeden az yoğun bölgeye ATP harcanmadan geçer; difüzyon (basit difüzyon ve taşıyıcı proteinle gerçekleşen kolaylaştırılmış difüzyon) ve ozmoz (suyun yarı geçirgen zardan az yoğun ortama geçişi) bu grubun örnekleridir. Ozmoz sonucu hücre hipertonik ortamda su kaybederek büzülürse buna plazmoliz, hipotonik ortamda su alarak şişerse deplazmoliz denir.",
+        "Aktif taşımada madde, düşük yoğunluktan yüksek yoğunluğa doğru ATP enerjisi kullanılarak taşınır; sodyum-potasyum ATPaz pompası tipik bir örnektir. Aktif taşımanın diğer türleri endositoz (büyük moleküllerin hücre içine alınması; katı maddeler için fagositoz, sıvı maddeler için pinositoz olarak adlandırılır) ve ekzositozdur (hücre içindeki makromoleküllerin kofullar aracılığıyla hücre dışına atılması, örn. hormon ve enzim salgılanması)."
+      ]
+    },
+    {
+      "heading": "Hücre Organelleri",
+      "paragraphs": [
+        "Hücre organelleri, membranlı (hücre zarı, endoplazmik retikulum, golgi aygıtı, mitokondri, lizozomlar, peroksizomlar, salgı vezikülleri) ve membransız (ribozomlar, sentriyoller, mikrotübüller, filamentler) olmak üzere ikiye ayrılır. Endoplazmik retikulum, tübüler ve veziküler yapılardan oluşan membran sistemidir; üzerinde ribozom bulunan granüllü tip protein sentezi yapar, ribozomsuz düz tip ise lipit sentezi ve glikojen depolama gibi işlevler görür. Ribozomlar, RNA ve proteinden oluşan, membransız protein sentezi organelleridir.",
+        "Golgi aygıtı, endoplazmik retikulumdan gelen maddeleri işleyip paketleyerek lizozom ve salgı veziküllerini oluşturur. Lizozomlar, golgi aygıtı tarafından üretilen ve içinde hidrolitik (sindirici) enzimler bulunan organellerdir; hücre içi sindirimi sağlar, zarları zarar görürse hücrenin kendi kendini sindirmesine (otoliz) yol açar. Peroksizomlar, lizozomlara benzer ama kendi kendini çoğaltır ve oksidaz enzimleri içerir; toksik maddeleri etkisiz hâle getirir.",
+        "Mitokondri, hücrenin solunum ve enerji santralidir; besinlerden ATP üretimini sağlar, kendi DNA'sına ve ribozomlarına sahiptir, bu sayede kendi kendini çoğaltabilir. Hücre iskeleti (sentriyoller, mikrotübüller, aktin filamentleri) hücrenin şeklini korur ve organellerin hareketine yardımcı olur. Çekirdek (nükleus), DNA'yı taşıyan, çift katlı membranla sarılı ve hücrenin bölünme, büyüme ve kalıtsal bilginin saklanması gibi fonksiyonlarını yöneten yaşam merkezidir; içindeki çekirdekçik (nükleolus) zarsız bir yapı olup ribozomal RNA sentezlenir."
+      ]
+    },
+    {
+      "heading": "Enerji, İş ve Güç Kavramları",
+      "paragraphs": [
+        "Enerji, bir sistemin iş yapabilme yeteneğidir ve birimi joule veya kaloridir (1 kilokalori = 1000 kalori). Canlıların temel enerji kaynağı güneştir ve biyolojik enerji devri üç tip dönüşümle gerçekleşir: güneş enerjisinin fotosentezle kimyasal enerjiye dönüşümü, hücresel solunumla ATP sentezlenmesi (fosforilasyon) ve ATP'nin hidroliz yoluyla parçalanarak farklı enerji türlerine dönüştürülmesi.",
+        "İş, bir kuvvetin cismi kendi doğrultusunda hareket ettirmesiyle gerçekleşir (iş = kuvvet x mesafe) ve birimi newton-metre veya joule'dür. Güç ise birim zamanda yapılan iş olarak tanımlanır (güç = iş/zaman) ve birimi watt'tır (joule/saniye); sıçrama, atma, sürat gibi hareketler için kısa zamanda yüksek güç gereklidir. Vücudun doğrudan enerji kaynağı ATP'dir; besin maddeleri ise dolaylı enerji kaynağıdır."
+      ]
+    },
+    {
+      "heading": "ATP ve Enerji Sistemlerine Giriş",
+      "paragraphs": [
+        "ATP (adenozin trifosfat), adenozin ve üç fosfat grubundan oluşur; son iki fosfat bağı yüksek enerjili bağlardır ve parçalandığında 7-12 kcal enerji açığa çıkar, ADP ve serbest fosfat oluşur. Vücuttaki ATP depoları yalnızca yaklaşık 85 gramdır ve sadece birkaç saniyelik maksimal egzersizi destekleyebilir, bu nedenle ATP'nin sürekli yeniden sentezlenmesi gerekir.",
+        "ATP sentezini sağlayan kimyasal reaksiyonlar üç kategoride sınıflandırılır: ATP-CP (fosfojen) sistemi, laktik asit (anaerobik glikoliz) sistemi ve aerobik (oksijen) sistemi. Fosfojen sistemi ile laktik asit sistemi birlikte anaerobik sistemi oluştururken, oksijen sistemi aerobik sistemi oluşturur. Bu üç sistem her fiziksel aktivitede farklı oranlarda birlikte çalışır; kullanım oranı egzersizin süresine ve şiddetine bağlıdır."
+      ]
+    },
+    {
+      "heading": "Fosfojen Sistem (ATP-CP)",
+      "paragraphs": [
+        "Fosfojen sistemde, kaslarda depolanmış ATP ve kreatin fosfat (CP) kullanılır. CP parçalandığında açığa çıkan enerji, ADP ve Pi'den yeniden ATP sentezlemek için kullanılır; her 1 mol CP parçalanması 1 mol ATP oluşturur. Bu sistem oksijen gerektirmez ve çok hızlı çalışır ama depoları sınırlıdır; kadınlarda ortalama 0,3 mol, erkeklerde 0,6 mol fosfojen bulunur ve bu, 10-15 saniyelik maksimal egzersizi (örn. 100 metre koşusu) destekleyebilir.",
+        "Fosfojen sistem, atlama, sıçrama, atma, vurma gibi kuvvet ve sürat gerektiren birkaç saniyelik hareketlerde kullanılır; kasların ne kadar hızlı enerji üretebildiği ve depoların ne kadar çabuk yenilenebildiği bu sistemde belirleyicidir. CP depoları hızlı tükenir (10-30 saniye içinde yorgunluk oluşur) ama dinlenmede de hızla yeniden depolanır."
+      ]
+    },
+    {
+      "heading": "Laktik Asit Sistemi (Anaerobik Glikoliz)",
+      "paragraphs": [
+        "Glikoliz, glikoz veya glikojenin parçalanması olayıdır. Kaslarda ATP yenilenmesi için oksijen kullanılmadan karbonhidratların (glikoz ve glikojen) parçalanarak laktik aside dönüştüğü sisteme anaerobik glikoliz (laktik asit sistemi) denir; bu reaksiyonlar hücrenin sitoplazmasında gerçekleşir. Depo glikojen kullanıldığında 1 mol glikojenden 3 mol ATP, kan glikozu kullanıldığında 2 mol ATP elde edilir.",
+        "Oluşan pirüvik asit, oksijen yetersizliğinde laktik aside dönüşür ve kaslarda birikir; bu birikim pH'ı düşürerek enzim aktivitesini ve ATP üretimini engeller, sonuçta kas yorgunluğuna yol açar. Bu sistem oksijensiz hızlı çalışır ama aerobik sisteme kıyasla çok daha az ATP üretir (aerobik glikolizin yaklaşık %5'i kadar); yaklaşık 1-3 dakika süren yüksek şiddetli aktivitelerde (400-800 m koşu gibi) baskın rol oynar."
+      ]
+    },
+    {
+      "heading": "Aerobik Sistem (Oksijen Sistemi)",
+      "paragraphs": [
+        "Aerobik sistem, karbonhidrat, yağ ve gerektiğinde proteinlerin oksijenle tamamen parçalanarak karbondioksit ve suya dönüştüğü sistemdir; reaksiyonlar mitokondride gerçekleşir. Üç temel aşamadan oluşur: Aerobik glikoliz (glikoz/glikojenin pirüvik asite, ardından Asetil-CoA'ya dönüşmesi, laktik asit birikimi olmadan), Krebs çemberi (Asetil-CoA'nın oksitlenerek CO₂ açığa çıkardığı reaksiyon zinciri) ve Elektron Transfer Sistemi (ETS) (elektron transferiyle ATP üretimi ve suyun oluşması).",
+        "Aerobik sistem, karbonhidratlardan 38-39 mol, yağlardan ise 129 mol ATP üretebilen, diğer iki sisteme göre çok daha fazla ATP sağlayan ve yorgunluk yapan laktik asit gibi bir yan ürün oluşturmayan tek sistemdir; aynı zamanda yağların enerji kaynağı olarak kullanılabildiği tek sistemdir. Ancak yavaş çalışır çünkü oksijenin kaslara ve mitokondriye ulaşması zaman alır (2-3 dakika)."
+      ]
+    },
+    {
+      "heading": "Dinlenimde ve Egzersizde Enerji Sistemlerinin Kullanımı",
+      "paragraphs": [
+        "Dinlenim sırasında enerji üretimi tamamen aerobik sistemle sağlanır; enerjinin 2/3'ü yağlardan, 1/3'ü glikozdan elde edilir ve kanda sabit, düşük düzeyde laktik asit bulunur (laktik dehidrogenaz enziminden kaynaklanır). Egzersiz sırasında enerji tüketimi şiddete bağlı olarak dinlenimin 20 ile 120 katına kadar çıkabilir ve hem aerobik hem anaerobik sistemler birlikte, oranları egzersizin süresi ve şiddetine göre değişerek çalışır.",
+        "Kısa süreli, maksimal şiddetteki egzersizlerde (100-800 m koşular, 2-3 dakikaya kadar) anaerobik sistemler (fosfojen ve laktik asit) baskındır; en kısa, en yüksek şiddetli hareketlerde (100 m gibi) sadece fosfojen sistem, biraz daha uzun sürelerde (200-800 m) fosfojen ve laktik asit sistemleri birlikte kullanılır. Egzersizin şiddeti düştükçe ve süresi uzadıkça kullanılan sistem fosfojenden laktik asite, oradan da aerobik sisteme kayar.",
+        "Uzun süreli, düşük şiddetli egzersizlerde (10 dakikadan uzun, maraton gibi) enerjinin büyük kısmı aerobik sistemden sağlanır; temel enerji kaynağı karbonhidrat ve yağlardır, laktik asit birikimi az olur ve yorgunluk daha çok glikojen depolarının tükenmesi ile su-elektrolit kaybından kaynaklanır. 1500 m koşu gibi orta süreli aktivitelerde ise hem aerobik hem anaerobik sistemler birlikte devreye girer; futbol gibi takım sporlarında da baskın sistem aerobik olmakla birlikte sürat koşuları ve sıçramalar için anaerobik sistemler de kullanılır."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u2q1",
+      "question": "Anaerobik enerji sisteminde kan glikozundan kaç mol ATP elde edilir?",
+      "options": ["3 mol", "39 mol", "2 mol", "129 mol", "38 mol"],
+      "correctIndex": 2,
+      "explanation": "Anaerobik glikoliz sırasında kan glikozu kullanıldığında 2 mol ATP elde edilir; eğer kaslardaki depo glikojen kullanılırsa bu miktar 3 mol ATP'ye çıkar, çünkü kan glikozunun hücreye alınıp metabolize edilmesi ek bir ATP harcanmasını gerektirir.",
+      "optionNotes": [
+        "3 mol, depo glikojen kullanıldığında elde edilen miktardır, kan glikozu için değil.",
+        "39 mol, aerobik sistemde 1 mol glikozun tam oksidasyonundan elde edilen üst sınırdır, anaerobik sistemle ilgisi yoktur.",
+        "Doğru yanıt: kan glikozu anaerobik glikolizle parçalandığında net 2 mol ATP elde edilir.",
+        "129 mol, aerobik sistemde yağlardan elde edilen ATP miktarıdır, karbonhidratla veya anaerobik sistemle ilgili değildir.",
+        "38 mol, aerobik sistemde glikozdan elde edilen ATP aralığının alt sınırına yakın bir değerdir, anaerobik sistemi tanımlamaz."
+      ]
+    },
+    {
+      "id": "u2q2",
+      "question": "Aerobik enerji sisteminde son ürün aşağıdakilerden hangisidir?",
+      "options": ["Laktik asit", "Pürivik asit", "Oksijen", "Karbondioksit", "Laktat"],
+      "correctIndex": 3,
+      "explanation": "Aerobik sistemde karbonhidrat, yağ ve proteinler oksijenle tamamen parçalanarak son ürün olarak karbondioksit (CO₂) ve su (H₂O) oluşturur; CO₂ kandan akciğerlere taşınarak dışarı atılır. Laktik asit ve pirüvik asit anaerobik sistemle ilişkilidir.",
+      "optionNotes": [
+        "Laktik asit, oksijenin yetersiz olduğu anaerobik glikoliz sisteminin son ürünüdür, aerobik sistemde oluşmaz.",
+        "Pürivik asit aerobik sistemde ara üründür, Asetil-CoA'ya dönüşerek Krebs çemberine girer; son ürün değildir.",
+        "Oksijen, aerobik sistemde tüketilen bir girdidir, son ürün olarak ortaya çıkmaz.",
+        "Doğru yanıt: aerobik sistemin son ürünlerinden biri karbondioksittir (diğeri sudur).",
+        "Laktat, laktik asidin iyonize formudur ve anaerobik sistemle ilişkilidir, aerobik sistemin son ürünü değildir."
+      ]
+    },
+    {
+      "id": "u2q3",
+      "question": "Laktik asit enerji sisteminde enerji kaynağı aşağıdakilerden hangisidir?",
+      "options": ["Glikoz", "Glikojen+yağlar", "Glikojen+proteinler", "Kreatin fosfat", "Kreatin fosfat+yağlar"],
+      "correctIndex": 0,
+      "explanation": "Metne göre glikoliz, glikozun veya glikojenin (yani karbonhidratların) oksijensiz parçalanması olayıdır ve laktik asit sistemi bu karbonhidrat kaynaklarını kullanır. Resmî yanıt anahtarı A şıkkını (Glikoz) işaret eder; metin glikoz ile birlikte glikojeni de enerji kaynağı olarak saydığı için bu şık, karbonhidrat ailesinin temsilcisi olarak kabul edilmelidir; diğer şıklardaki yağ, protein veya kreatin fosfat bu sistemin değil, sırasıyla aerobik sistemin ve fosfojen sisteminin kaynaklarıdır.",
+      "optionNotes": [
+        "Doğru yanıt: glikoz (ve glikojen), laktik asit sisteminin karbonhidrat kökenli enerji kaynağıdır.",
+        "Glikojen+yağlar yanlıştır; yağlar laktik asit sisteminde kullanılmaz, yalnızca aerobik sistemde parçalanır.",
+        "Glikojen+proteinler yanlıştır; proteinler normalde enerji kaynağı olarak kullanılmaz ve bu sistemle ilişkilendirilmez.",
+        "Kreatin fosfat, laktik asit sisteminin değil fosfojen (ATP-CP) sisteminin enerji kaynağıdır.",
+        "Kreatin fosfat+yağlar yanlıştır; bu kombinasyon hiçbir tek enerji sistemini doğru tanımlamaz."
+      ]
+    },
+    {
+      "id": "u2q4",
+      "question": "Bir canlının iç kaynaklı veya dış kaynaklı elektrik sinyali, hormon ve salgı bezlerindeki değişiklikleri algılayıp cevap vererek reaksiyon göstermesi hangi karakteristik özelliğini belirtir?",
+      "options": ["Adaptasyon", "Uyarılabilirlik", "Üreme", "ATP üretimi", "Metabolizma"],
+      "correctIndex": 1,
+      "explanation": "Metinde bu özellik tam olarak \"Uyaranlara Cevap Verme (Uyarılabilirlik)\" başlığı altında tanımlanır: canlılar iç kaynaklı ve dış kaynaklı elektrik sinyali, hormon ve salgı bezlerindeki değişiklikleri algılayıp cevap verebilme özelliğine sahiptir.",
+      "optionNotes": [
+        "Adaptasyon, canlının farklı ortam koşullarına fizyolojik değişikliklerle uyum sağlamasıdır, uyarıya anlık tepki vermekten farklıdır.",
+        "Doğru yanıt: uyarılabilirlik, tam olarak tanımda belirtilen uyaran algılama ve tepki verme özelliğidir.",
+        "Üreme, canlının kendine benzer bireyler oluşturarak neslini sürdürmesidir, uyarıya tepki ile ilgisi yoktur.",
+        "ATP üretimi, hücrenin enerji sağlama sürecidir; sinyal algılama ve tepki verme özelliğini tanımlamaz.",
+        "Metabolizma, canlı hücrelerdeki yapım ve yıkım tepkimelerinin tümüdür, uyarana cevap verme ile doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "id": "u2q5",
+      "question": "Aerobik enerji sisteminde yağlardan kaç mol ATP elde edilir?",
+      "options": ["2 mol", "3 mol", "39 mol", "129 mol", "132 mol"],
+      "correctIndex": 3,
+      "explanation": "Metinde açıkça belirtildiği üzere aerobik sistemde karbonhidratlardan 38-39 mol ATP, yağlardan ise 129 mol ATP elde edilir; yağlar daha fazla ATP sağlasa da parçalanmaları için daha fazla oksijen gerektirir.",
+      "optionNotes": [
+        "2 mol, anaerobik sistemde kan glikozundan elde edilen ATP miktarıdır, yağlarla veya aerobik sistemle ilgili değildir.",
+        "3 mol, anaerobik sistemde depo glikojenden elde edilen ATP miktarıdır, yağların aerobik parçalanmasıyla ilgisi yoktur.",
+        "39 mol, aerobik sistemde karbonhidratlardan (glikozdan) elde edilen ATP miktarıdır, yağlardan elde edilen miktar değildir.",
+        "Doğru yanıt: aerobik sistemde yağların tam oksidasyonundan 129 mol ATP elde edilir.",
+        "132 mol, metinde geçen değerlerle örtüşmeyen, uydurma bir sayıdır."
+      ]
+    },
+    {
+      "id": "u2q6",
+      "question": "\"Basit moleküllerden büyük moleküllerin yapılması\" aşağıdaki kavramlardan hangisi ile ifade edilir?",
+      "options": ["Adaptasyon", "Homeostaz", "Anabolizma", "Katabolizma", "Gelişme"],
+      "correctIndex": 2,
+      "explanation": "Metinde anabolizma, metabolizmanın yapım tepkimeleri olarak tanımlanır; basit moleküllerden karmaşık (büyük) moleküllerin sentezlenmesidir, örneğin amino asitlerden proteinlerin oluşması. Katabolizma ise bunun tersi olup karmaşık moleküllerin basit moleküllere parçalanmasıdır.",
+      "optionNotes": [
+        "Adaptasyon, canlının çevre koşullarına fizyolojik olarak uyum sağlamasıdır, molekül sentezi ile ilgili değildir.",
+        "Homeostaz, iç ortamın sabit koşullarda tutulmasıdır, molekül yapım sürecini tanımlamaz.",
+        "Doğru yanıt: anabolizma, basit moleküllerden karmaşık moleküllerin sentezlenmesi sürecidir.",
+        "Katabolizma tam tersidir; karmaşık moleküllerin basit moleküllere parçalanmasını ifade eder.",
+        "Gelişme, hücresel olayları kapsayan fiziksel bir büyüme sürecidir, molekül sentezinin tanımı değildir."
+      ]
+    },
+    {
+      "id": "u2q7",
+      "question": "I. Ribozom\nII. Mitokondri\nIII. Endoplazmik retikulum\nIV. Lizozom\nV. Çekirdekçik\n\nYukarıdakilerden hangileri hücrenin membranöz (zarlı) yapılarındandır?",
+      "options": ["I ve II", "I, II ve III", "II, III ve IV", "I, IV ve V", "II, III, IV ve V"],
+      "correctIndex": 2,
+      "explanation": "Metne göre membranlı organeller arasında endoplazmik retikulum, mitokondri ve lizozomlar sayılır. Ribozomlar membransız organeller grubunda yer alır ve çekirdekçik (nükleolus) de \"zarsız küresel bir yapı\" olarak tanımlanır; dolayısıyla membranöz olanlar yalnızca II (Mitokondri), III (Endoplazmik retikulum) ve IV (Lizozom)'dur.",
+      "optionNotes": [
+        "I ve II yanlıştır; ribozom (I) membransız bir organeldir, bu seçenek eksik ve hatalı bir kombinasyondur.",
+        "I, II ve III yanlıştır; ribozomun (I) zarlı organel olarak dahil edilmesi hatalıdır.",
+        "Doğru yanıt: mitokondri, endoplazmik retikulum ve lizozom membranla çevrili organellerdir.",
+        "I, IV ve V yanlıştır; ribozom (I) ve çekirdekçik (V) membransız yapılardır, mitokondri ve ER dışarıda bırakılmıştır.",
+        "II, III, IV ve V yanlıştır; çekirdekçik (V) zarsız bir yapıdır, bu seçeneğe dahil edilmesi hatalıdır."
+      ]
+    },
+    {
+      "id": "u2q8",
+      "question": "\"Birim zamanda ortaya konan iş …………… olarak ifade edilmektedir.\" ifadesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["enerji", "güç", "iş", "kinetik enerji", "kuvvet"],
+      "correctIndex": 1,
+      "explanation": "Metinde güç, birim zamanda ortaya konan iş olarak tanımlanır (\"iş/zaman\" veya \"kuvvet x hız\") ve birimi watt'tır (joule/saniye); sıçrama, atma, sürat gibi hareketlerde kısa sürede yüksek güç oluşumuna ihtiyaç duyulur.",
+      "optionNotes": [
+        "Enerji, bir sistemin iş yapabilme yeteneğidir; birim zamana bölünmüş iş tanımını karşılamaz.",
+        "Doğru yanıt: güç, tam olarak birim zamanda yapılan iş olarak tanımlanır.",
+        "İş, kuvvetin cismi kendi doğrultusunda hareket ettirmesiyle gerçekleşen süreçtir; zamana bölünmemiş hâlidir.",
+        "Kinetik enerji, hareket halindeki bir cismin sahip olduğu enerjidir, birim zamandaki iş tanımına karşılık gelmez.",
+        "Kuvvet, bir cisme uygulanan itme veya çekme etkisidir; birim zamanda yapılan işi değil, işin bir bileşenini ifade eder."
+      ]
+    },
+    {
+      "id": "u2q9",
+      "question": "Hücrenin enerji üretim merkezi hangi hücre organelidir?",
+      "options": ["Ribozom", "Golgi aygıtı", "Endoplazmik retikulum", "Mitokondri", "Çekirdek"],
+      "correctIndex": 3,
+      "explanation": "Metinde mitokondri, hücrenin \"solunum ve enerji santrali\" olarak tanımlanır; besinlerden ATP üretimini sağlar ve mitokondri olmadan hücreler besinlerden yeterli enerji elde edemeyip tüm hücresel işlevler durur.",
+      "optionNotes": [
+        "Ribozom, protein sentezinin gerçekleştiği organeldir, enerji üretim merkezi değildir.",
+        "Golgi aygıtı, maddelerin işlenip paketlendiği salgı organelidir, enerji üretimiyle ilgili değildir.",
+        "Endoplazmik retikulum, protein ve lipit sentezi ile madde taşınmasında rol oynar, enerji santrali değildir.",
+        "Doğru yanıt: mitokondri, hücrenin ATP üreterek enerji sağladığı solunum ve enerji santralidir.",
+        "Çekirdek, kalıtsal bilgiyi taşıyan ve hücre bölünmesini yöneten organeldir, enerji üretim merkezi değildir."
+      ]
+    },
+    {
+      "id": "u2q10",
+      "question": "I. Difüzyon\nII. Ozmoz\nIII. Fagositoz\nIV. Ekzositoz\nV. Pinositoz\n\nYukarıdakilerden hangileri hücre zarında aktif taşıma içerisinde yer alır?",
+      "options": ["I, II, III ve IV", "II, III ve IV", "I, II ve IV", "II, III, IV ve V", "III, IV ve V"],
+      "correctIndex": 4,
+      "explanation": "Metne göre difüzyon ve ozmoz, enerji harcanmadan gerçekleşen pasif taşıma türleridir. Aktif taşıma ise ATP enerjisi gerektirir ve endositoz (fagositoz ile pinositoz) ile ekzositozu kapsar; dolayısıyla aktif taşımada yer alanlar III (Fagositoz), IV (Ekzositoz) ve V (Pinositoz)'dur.",
+      "optionNotes": [
+        "I, II, III ve IV yanlıştır; difüzyon (I) ve ozmoz (II) pasif taşıma türleridir, aktif taşımaya dahil edilmemelidir.",
+        "II, III ve IV yanlıştır; ozmoz (II) pasif taşımadır ve pinositoz (V) dışarıda bırakılmıştır.",
+        "I, II ve IV yanlıştır; difüzyon (I) ve ozmoz (II) pasif taşıma olduğu için bu seçenek hatalıdır.",
+        "II, III, IV ve V yanlıştır; ozmoz (II) pasif taşıma türü olduğu için aktif taşıma listesine dahil edilmemelidir.",
+        "Doğru yanıt: fagositoz, ekzositoz ve pinositoz, ATP enerjisi kullanılarak gerçekleşen aktif taşıma (endositoz/ekzositoz) türleridir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": 1,
+  "title": "Sporda Yönetim ve Organizasyon I",
+  "learningOutcomes": [
+    "Yönetim kavramını tanımlayarak tanımdaki bilim ve sanat olma özelliğini açıklayabilme",
+    "Klasik Yönetim yaklaşımı hakkında bilgi sahibi olabilme",
+    "Neo-Klasik Yönetim yaklaşımı hakkında bilgi sahibi olabilme",
+    "Yönetimde Çağdaş yaklaşımlar hakkında bilgi sahibi olabilme",
+    "Dünyada spor yönetiminin gelişimini açıklayabilme",
+    "Türkiye'de spor yönetiminin gelişimini açıklayabilme",
+    "Spor yönetimini tanımlayarak genel yönetim tanımı ile olan ilgisini açıklayabilme",
+    "Spor yönetiminin süreçlerini açıklayarak spor ortamıyla ilişkilendirebilme",
+    "Spor yönetiminin ilkelerini açıklayabilme"
+  ],
+  "keywords": [
+    "Yönetim",
+    "Yönetim Yaklaşımları",
+    "Spor Yönetimi",
+    "Spor Yönetiminin Süreçleri",
+    "Spor Yönetiminin İlkeleri"
+  ],
+  "summary": [
+    {
+      "heading": "Yönetim Kavramı: Tanım, Bilim ve Sanat Olma Özelliği",
+      "paragraphs": [
+        "Yönetim, insanla uğraşan evrensel bir kavramdır; insanın toplumsal yaşam içindeki diğer kişilerle ilişkilerini ve davranışlarını inceler. Bu nedenle herkes bir ölçüde kendi zamanını, becerilerini ve etkinliklerini planlayıp örgütleyen, yönlendiren ve denetleyen bir yönetici sayılabilir. Yönetimin pek çok tanımı yapılmıştır: en genel anlamıyla yönetim, saptanan amaçlara en etkin ve verimli biçimde ulaşabilmek için insanların çabalarını birleştiren ve düzenleyen iş ve eylemlerin tümüdür. Can (1997)'a göre yönetim; belirli birtakım amaçlara ulaşmak için başta insanlar olmak üzere parasal kaynakları, donanımı, demirbaşları, hammaddeleri, yardımcı malzemeleri ve zamanı birbiriyle uyumlu, verimli ve etkin kullanabilecek kararlar alma ve uygulama süreçlerinin toplamıdır. Tanımlardaki kaynak kavramı; insan gücü, para, zaman, malzeme ve yer gibi unsurları kapsar.",
+        "Tüm tanımların ortak noktası, yönetimin belli amaçları başka kişilerin ortak çabalarıyla gerçekleştirmesidir; amaç ulaşılmak istenen sonuçtur ve bu amaca örgütlenmiş bir topluluk aracılığıyla ulaşılır. Yönetim kavramı insanlık tarihi kadar eskidir: insanlar avlanma ve korunma gibi ortak amaçlar için bir arada yaşamaya başladıklarında, bu toplulukları organize edecek bir lidere ihtiyaç duymuşlar ve böylece yönetim fiilen başlamıştır. Sanayi Devrimi ile birlikte büyük fabrikaların ve pazarların ortaya çıkması, üretimi sağlayacak insan topluluklarını yönetecek yöneticilere olan ihtiyacı daha da artırmıştır.",
+        "Yönetim tanımlarında vurgulanan iki önemli özellik, yönetimin hem bilim hem de sanat olmasıdır. Bilim olma özelliği bakımından yönetim, ekonomiden hukuka kadar uzanan toplumsal bilimler yelpazesinin kesişim noktasında yer alır ve bilimsel sayılabilmesi için ilgili alanda sistematik bir bilgi kümesinin oluşmuş olması ile doğruluğu kanıtlanmış kuram, kural ve ilkelerin ortaya konulmuş olması gerekir. Sanat olma özelliği bakımından ise yönetim, somut amaçları başarmak ve sonuçları etkilemek için bilgi ve becerilerin sistemli biçimde uygulanmasını içerir; uygulama, yönetimin temel görevidir. Bu nedenle bilim ve sanat, yönetimde birbirini tamamlayan iki kavramdır."
+      ]
+    },
+    {
+      "heading": "Klasik Yönetim Yaklaşımı",
+      "paragraphs": [
+        "Yönetsel düşüncenin gelişimi, Endüstri Devrimi öncesindeki (Sümerler, Mısır piramitleri, Hammurabi kanunları gibi) dönemden başlayarak, James Watt'ın 1778'de buhar makinesini geliştirmesiyle başlayan Endüstri Devrimi'nden İkinci Dünya Savaşı'na kadar süren döneme kadar izlenebilir; bu ikinci döneme Klasik Yönetim Yaklaşımı adı verilir. Sanayi Devrimi'yle birlikte büyük fabrikaların kurulması, çok sayıda personelin işe alınması ve büyük pazarların oluşması, ekonomik kaynakların koordine edilmesi ihtiyacını doğurmuş ve bu sorunlara çözüm olarak üç temel yaklaşım gelişmiştir: Bilimsel Yönetim Yaklaşımı, Yönetim Süreci (Yönetsel) Yaklaşımı ve Bürokrasi Yaklaşımı.",
+        "Bilimsel Yönetim Yaklaşımı (Taylorizm), öncülüğünü Frederick Taylor'ın yaptığı, işin bilimsel analizine, standart zaman ve yöntemlerin belirlenmesine, işçilerin yeteneğe göre seçilip eğitilmesine ve teşvik edici ücret sistemlerine dayanan bir yaklaşımdır. Henry Gantt ise üretimi planlamak için günümüz çizelge tekniklerine temel oluşturan Gantt Şeması'nı geliştirmiştir. Bu yaklaşım verimliliği artırmakla birlikte, çalışanı adeta bir makine gibi gördüğü ve insan ögesini ihmal ettiği için eleştirilmiştir.",
+        "Yönetim Süreci Yaklaşımı'nın öncüsü Fransız Henri Fayol'dur; Fayol, iş bölümü ve uzmanlaşma, yetki ve sorumluluk, disiplin, komuta birliği, merkeziyetçilik ve kademe zinciri gibi 14 yönetim ilkesi ortaya koymuştur. Bürokrasi Yaklaşımı'nın öncüsü ise Alman sosyolog Max Weber'dir; Weber'e göre bürokratik örgütlerde aşırı iş bölümü, merkezileşmiş otorite, yazılı kayıt ve dosyalama sistemi ile önceden belirlenmiş kurallara kesin itaat söz konusudur; bu katı kuralcılık, kişiye göre esneklik ve ayrıcalığa izin vermez. Klasik yönetim yaklaşımının en çok eleştirilen yönü, insan ögesini ikinci planda tutarak çalışanı duygusuz bir üretim unsuru gibi ele almasıdır."
+      ]
+    },
+    {
+      "heading": "Neo-Klasik (Davranışsal) Yönetim Yaklaşımı",
+      "paragraphs": [
+        "Klasik yaklaşımın insanı ihmal etmesine tepki olarak 1940'lı-1960'lı yıllar arasında Neo-Klasik (Davranışsal) Yönetim Yaklaşımı gelişmiştir; bu yaklaşım önce İnsancıl İlişkiler Yaklaşımı, sonra İnsan Kaynakları Yönetimi ve günümüzde Örgütsel Davranış biçimini almıştır. Yaklaşımın gelişiminde en önemli dönüm noktası, 1924'te başlayan ve Elton Mayo ile Fritz Roethlisberger liderliğinde Western Electric Şirketi'nin Hawthorne kasabasındaki fabrikasında yürütülen Hawthorne Deneyleri'dir. Bu deneyler, iş yerindeki fiziksel koşulların (ışıklandırma, ısıtma gibi) üretim verimliliğiyle ilişkisinin sınırlı olduğunu, verimliliğin daha çok sosyal faktörlerle (insan ilişkileri, informal gruplar, çalışanların tutum ve değerleri) ilişkili olduğunu ortaya koymuştur.",
+        "Davranışsal yaklaşım, klasik yaklaşımın aksine insanı pasif değil aktif bir üretim faktörü olarak ele almış; motivasyon, liderlik, grup davranışları ve informal organizasyon gibi kavramları yönetim bilimine kazandırmıştır. Bu çerçevede önemli kavramlardan biri A.H. Maslow'un İhtiyaçlar Hiyerarşisi Teorisi'dir; Maslow'a göre insan ihtiyaçları en temelden en karmaşığa doğru bir hiyerarşi içinde sıralanır ve bir kademedeki ihtiyaçlar tatmin edilmeden üst kademedeki ihtiyaçlar belirmez. İş doyumu, insanın yaptığı işle ilgili kendini iyi hissetmesi olarak tanımlanır ve bireysel (yaş, cinsiyet, eğitim) ve örgütsel (ücret, çalışma koşulları, terfi olanağı) faktörlerden etkilenir.",
+        "Davranışsal yaklaşım da, dikkatleri tamamen insan davranışları üzerinde toplayarak klasik yaklaşımla aynı türden tek yönlü bir hata yapmakla eleştirilmiştir; çünkü sadece insan ögesini esas alarak işletmenin tüm sorunlarının çözülemeyeceği anlaşılmıştır. Bu eksiklik, yeni araştırmaları zorunlu kılarak Modern Yönetim Yaklaşımı'nın doğmasına yol açmıştır."
+      ]
+    },
+    {
+      "heading": "Yönetimde Çağdaş Yaklaşımlar",
+      "paragraphs": [
+        "Çağdaş yönetim yaklaşımları, klasik ve neo-klasik yaklaşımların önerilerini yeni bir açıdan ele alıp yorumlar; bu başlık altında Modern Yönetim Yaklaşımı (Sistem Kuramı ve Durumsallık Yaklaşımı), Yönetimde Mükemmellik Yaklaşımı, Stratejik Yönetim Yaklaşımı ve Toplam Kalite Yönetimi Yaklaşımı incelenir. Modern Yönetim Yaklaşımı, Genel Sistem Teorisi'nden kaynaklanır ve klasik ile davranışsal yaklaşımların tutumlarını sentezlemeye çalışır.",
+        "Sistem Kuramı'na göre sistem, belirli parçalardan oluşan, bu parçaları birbiriyle ilişkili olan ve dış çevresiyle de etkileşim içinde bulunan bütündür (örneğin insan vücudu bir sistemdir). Durumsallık Yaklaşımı ise, her işletme ve her durum için geçerli tek bir yönetim uygulaması olmadığını, en uygun yönetim tarzının işletmenin içinde bulunduğu teknoloji ve dış çevre koşullarına göre değiştiğini savunur; bu nedenle klasik, neoklasik ve sistem yaklaşımlarının yerini almaz, onlarla birlikte ele alınır.",
+        "Yönetimde Mükemmellik Yaklaşımı, Tom Peters ve Robert Waterman'ın Mükemmeli Araştırma adlı çalışmasına dayanır ve başarılı işletmelerin harekete değer verme, müşteriyle sürekli ilişki, alt kademe girişimciliğini teşvik etme gibi 8 ortak özelliğini ortaya koyar. Stratejik Yönetim Yaklaşımı, bütçe ve mali kontrolden başlayıp uzun dönemli planlama ve stratejik planlama aşamalarından geçerek gelişmiş, örgütün tüm birimlerine stratejik vizyon kazandırmayı amaçlayan bir süreçtir; durum analizi, paydaş analizi, SWOT analizi, misyon-vizyon ve temel değerlerin belirlenmesi bu sürecin temel unsurlarıdır. Toplam Kalite Yönetimi Yaklaşımı ise, örgütteki tüm birim ve personelin katılımıyla, müşteri beklentilerini karşılayacak kalitede mal ve hizmet üretmeyi hedefler; spor işletmelerinde de hizmet kalitesini artırmak amacıyla benimsenmektedir."
+      ]
+    },
+    {
+      "heading": "Dünyada Spor Yönetiminin Gelişimi",
+      "paragraphs": [
+        "Spor yönetimi, eski Yunan döneminden beri var olan bir olgudur; antik olimpiyatların ve gladyatör dövüşlerinin organizasyonu bile bir yönetim ve organizasyon işi gerektirmiştir. Günümüz çağdaş spor yönetimi anlayışında iki form bulunur: biri sporla ilgili profesyonel bir çalışma alanı, diğeri akademik bir çalışma alanıdır. Avustralya, Kanada, Yeni Zelanda ve Birleşik Krallık gibi ülkelerde spor örgütlerinin büyük çoğunluğu kâr amacı gütmeyen, gönüllülük esasına dayalı, kendi kendini yöneten örgütlerdir.",
+        "Akademik çalışma alanı olarak spor yönetimi ilk kez Amerika Birleşik Devletleri'nde ortaya çıkmıştır. 1966 yılında Ohio Üniversitesi'nde ilk spor yönetimi yüksek lisans programı başlamış; bu program Los Angeles Dodgers'ın sahibi Walter O'Malley'in eski sporcusu Dr. James Mason'a sorduğu, kulübünü nasıl daha verimli yönetebileceği sorusundan doğmuştur. 1970'li yıllardan itibaren dünyada spor yöneticisi yetiştiren programlar yaygınlaşmış, başlangıçta beden eğitimi ağırlıklı olan müfredat sonradan işletme, pazarlama, ekonomi, hukuk ve yönetim-organizasyon derslerine kaymıştır. NASSM (North American Society for Sport Management), bu alanda akredite eğitim veren üniversiteleri belirleyen önemli bir kuruluştur."
+      ]
+    },
+    {
+      "heading": "Türkiye'de Spor Yönetiminin Gelişimi",
+      "paragraphs": [
+        "Türkiye'de spor yönetimi, Cumhuriyet öncesi ve Cumhuriyet sonrası olmak üzere iki dönemde incelenir. Cumhuriyet öncesinde Osmanlı döneminde güreş tekkeleri, okçu tekkeleri ve spor vakıfları gibi örgütler faaliyet göstermiş; 1903 yılı öncesinde kulüpler arasında düzensiz maçlar yapılırken, 1903'te İstanbul Futbol Birliği kurulmuş, bunu İstanbul Futbol Kulüpleri Ligi (1910-1914), Cuma Ligi (1913) ve Cuma Birliği (1915) gibi farklı lig yapılanmaları takip etmiştir. Beşiktaş (1903), Galatasaray (1905) ve Fenerbahçe (1907) bu dönemde kurulan önemli Türk kulüpleridir.",
+        "Cumhuriyet sonrası Türk spor yönetimi üç aşamadan geçmiştir. Önce 1922'de özerk bir yapı olarak Türkiye İdman Cemiyetleri İttifakı (TİCİ, 1922-1936) kurulmuş; TİCİ, Türkiye'nin ilk resmî ve federatif ulusal spor yönetim örgütüdür. 1936'da yarı özerk konumdaki Türk Spor Kurumu (TSK, 1936-1938) kurulmuş, ancak bütün sporcuları kapsayan bir otorite oluşturamamıştır. 1938'de 3530 sayılı kanunla Beden Terbiyesi Genel Müdürlüğü (BTGM) kurularak sporun yönetimi tamamen merkeziyetçi devlet yönetimine geçmiştir; BTGM 1986'ya kadar farklı bakanlıklara bağlı olarak varlığını sürdürmüş, sonrasında sırasıyla Gençlik ve Spor Genel Müdürlüğü (GSGM) ve Spor Genel Müdürlüğü (SGM) adlarını almış, 2011'de Gençlik ve Spor Bakanlığı kurulmuş, 2018'de Cumhurbaşkanlığı Hükûmet Sistemi'ne geçişle birlikte Spor Genel Müdürlüğü'nün adı Spor Hizmetleri Genel Müdürlüğü olarak değiştirilmiştir."
+      ]
+    },
+    {
+      "heading": "Spor Yönetiminin Tanım ve Kavramı",
+      "paragraphs": [
+        "Spor yönetimi, spor ile ilgili kurulmuş örgüt veya organizasyonların, belirlenen amaçlar ve sporun kendine özgü özellikleri doğrultusunda, elindeki fiziki ve beşerî kaynaklarını en etkili ve verimli biçimde kullanabilmesi için kararlar alma ve bu kararları uygulama sanatı olarak tanımlanır (Ekmekçi, 2009; Fişek, 1988). Yetim (2018)'e göre spor yönetimi, sporda örgütlenmeyi ve yönetimi oluşturan unsurların kuruluş ve işleyiş biçimlerini inceleyen ve bunların en iyi biçimde sevk ve idare edilmesi için gereken yönetim anlayışını bulmaya çalışan, genel yönetim biliminin bir koludur.",
+        "Spor yönetimi kavramı; spor kurumları, federasyonlar, kulüpler, ligler, turnuvalar, müsabaka organizasyonları ve spor malzemesi üreten ya da pazarlayan firmalar gibi geniş bir alanı kapsar. Genel yönetimle ilişkisi bakımından spor yönetimi, genel yönetim biliminin ilke, kavram ve süreçlerini (planlama, örgütleme, yürütme, koordinasyon, denetim) sporun kendine özgü koşullarına uyarlayan özelleşmiş bir alandır; sporun sosyal boyutu ve ekonomik yapısının farklılığı nedeniyle genel işletme kavramlarının spora adapte edilerek uygulanması gerekir."
+      ]
+    },
+    {
+      "heading": "Spor Yönetiminin Süreçleri",
+      "paragraphs": [
+        "Spor yönetiminin süreçleri, genel yönetimdekiyle aynı olup beş aşamadan oluşur: planlama, örgütleme, yürütme (yöneltme), koordinasyon (iş birliği) ve denetim (kontrol). Bu süreçlerden birinin eksik olması, yönetimin sürekliliğini engeller. Planlama, belirli bir amaca ulaşmak için hangi işlerin, hangi sırada, nasıl ve ne zaman yapılacağını önceden kararlaştırmaktır; ileriyi görmek olarak da tanımlanır ve işletme amaçlarının belirlenmesiyle başlar. Örgütleme, planlanan amaçlara ulaşmak için insan, araç ve kaynakların düzenlenmesi, işlerin bölümlere ayrılması ve yetki-sorumlulukların belirlenmesidir.",
+        "Yürütme (yöneltme), planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesi, astlara ne yapmaları gerektiğinin anlatılması ve onların liderlik yoluyla motive edilmesidir; örneğin bir antrenörün takımındaki sporculara kimin oynayacağına karar vermesi ve onları yönlendirmesi bu işleve örnektir. Koordinasyon (uyumlaştırma), işletme büyüdükçe ve iş bölümü arttıkça farklı birim ve kişilerin çabalarını ortak amaçlara yönelik uyumlu bir şekle getirme işlevidir; takım sporlarında (futbol, basketbol vb.) koordinasyonun eksikliği başarısızlığa yol açabilir. Denetleme (kontrol), uygulamaların sonuçlarını önceden belirlenen amaç ve standartlarla karşılaştırarak gerekli düzeltici eylemlerde bulunma sürecidir."
+      ]
+    },
+    {
+      "heading": "Spor Yönetiminin İlkeleri",
+      "paragraphs": [
+        "Spor yönetiminin ilkeleri, genel yönetim ilkeleriyle bağlantılı olarak Doğar (1997) tarafından sekiz başlık altında ele alınmıştır: tarafsızlık, yeterlik, güvence, denklik, eşitlik, yetiştirme, güç birliği ve emek. Tarafsızlık, yönetimin kurallarını personeline ve sporculara karşı herkes için aynı şekilde, taraf tutmadan uygulamasıdır; özellikle sportif yarışmalarda bu ilkeden asla taviz verilemez. Yeterlik, bir işe o işi yapabilecek yeterlikte kişilerin alınmasını, sporda da yeteneğe uygun branşa yönlendirmeyi ifade eder. Güvence, yasalara uygun çalışan personelin ya da sporcunun işinin elinden alınmayacağına güvenmesidir.",
+        "Denklik, personele yaptığı işin karşılığı olan ödemenin yapılmasıdır; eşitlik ise birbirine denk personele eşit ödeme yapılmasını ifade eder (örneğin transfer ücretlerinde denk olmayan uygulamalar denklik ilkesiyle ilişkilidir). Yetiştirme, personelin başarılı olabilmesi için yönetimin sürekli hizmet içi eğitim olanakları sunmasıdır; spor ortamında değişen kural ve bilimsel gelişmeler bunu zorunlu kılar. Güç birliği, personelin ve sporcuların takım çalışmasına olanak sağlayacak bir ortamda başarılı olabilmesidir; emek ise insanın değerinin her şeyin üstünde tutulması ve harcanan emeğin (maddi ödeme, madalya, kupa gibi) hak edilen karşılıkla ödüllendirilmesidir. Kurumun başarısı ve sürekliliği, bu ilkelerin bütün hâlinde uygulanmasına bağlıdır."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u1q1",
+      "question": "Yönetim ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Evrenseldir.",
+        "İnsanla ilgilidir.",
+        "İnsanın diğer kişilerle ilişkilerini inceler.",
+        "Yaşantımızın çok az alanında yer almaktadır.",
+        "Yönetim bilimciler, yönetimin bir otorite sistemi olduğunu belirtir."
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde açıkça belirtildiği gibi yönetim yaşantımızın her alanında yer almaktadır ve okuldan spor kulübüne, aileden şirketlere kadar hemen her alanda gözlemlenebilir. Bu nedenle 'yaşantımızın çok az alanında yer almaktadır' ifadesi metinle çelişir ve yanlıştır; diğer seçenekler (evrensellik, insanla ilgili olma, ilişkileri inceleme, otorite sistemi olması) metinde doğrudan doğrulanan özelliklerdir.",
+      "optionNotes": [
+        "Yönetim evrensel bir kavramdır ve metinde bu açıkça belirtilir; bu doğru bir ifadedir, soru yanlış olanı sorduğu için cevap değildir.",
+        "Yönetim insanla uğraşır, konusu insandır; metinde vurgulanan doğru bir özelliktir.",
+        "Yönetim, insanın toplumsal yaşam içindeki diğer kişilerle ilişkilerini ve davranışlarını inceler; bu metinde doğrudan geçen doğru bir tanımdır.",
+        "Metin tam tersini söyler: yönetim yaşantımızın her alanında yer alır (okul, aile, spor kulübü, şirket vb.); bu seçenek metinle çelişir ve yanlış ifadedir, dolayısıyla doğru cevaptır.",
+        "Yönetim bilimciler yönetimi bir otorite sistemi olarak tanımlar; bu metinde geçen doğru bir ifadedir."
+      ]
+    },
+    {
+      "id": "u1q2",
+      "question": "Aşağıdakilerden hangisi Bürokrasi Yaklaşımı'nın özelliklerinden biridir?",
+      "options": [
+        "Hareket araştırmaları",
+        "Esneklik",
+        "İnsana saygı",
+        "Katı kuralcılık",
+        "Teknik üstünlük"
+      ],
+      "correctIndex": 3,
+      "explanation": "Max Weber'in Bürokrasi Yaklaşımı'na göre örgütler açıkça belirtilmiş kural ve düzenlemelere göre yönetilir ve kişiye göre ayrıcalık ya da esneklik düşünülemez; metin bunu 'katı bir kuralcılık söz konusudur' diyerek özetler. Diğer seçenekler bürokrasiyle ilişkili değildir; hareket araştırmaları Taylor'ın bilimsel yönetimine, esneklik ve insana saygı ise davranışsal yaklaşıma aittir.",
+      "optionNotes": [
+        "Hareket (zaman-hareket) araştırmaları Taylor'ın Bilimsel Yönetim Yaklaşımı'na özgüdür, bürokrasiyle ilgili değildir.",
+        "Esneklik, bürokrasinin tam tersidir; bürokraside kurallara kesin itaat söz konusu olup kişisel esnekliğe yer yoktur.",
+        "İnsana saygı, insan ögesini merkeze alan Neo-Klasik (Davranışsal) Yaklaşım'ın vurgusudur, bürokrasinin değil.",
+        "Metinde Weber'in bürokrasi anlayışında 'katı bir kuralcılık' olduğu açıkça belirtilir; bu nedenle doğru cevap budur.",
+        "Teknik üstünlük daha çok bilimsel yönetimle ilişkilendirilebilecek bir kavramdır, bürokrasinin tanımlayıcı özelliği değildir."
+      ]
+    },
+    {
+      "id": "u1q3",
+      "question": "Aşağıdakilerden hangisi, insanın motive edilmesi, insan davranışları, insanın özellikleri, insanların yönetime katılması ve insanın iş doyumu gibi ana kavramları içeren yönetim yaklaşımıdır?",
+      "options": [
+        "Neoklasik Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Stratejik Yönetim Yaklaşımı",
+        "Toplam Kalite Yönetimi Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde insanın motive edilmesi, insan davranışları, insanın özellikleri, insanın yönetime katılması ve insanın iş doyumu başlıkları, doğrudan Neo-Klasik Yönetim Yaklaşımı (Davranışsal Yönetim Yaklaşımı) bölümü altında alt başlıklar olarak ele alınmıştır. Bu kavramlar, davranışsal akımın insan ögesine verdiği önemi yansıtır.",
+      "optionNotes": [
+        "Bu beş kavram (motivasyon, davranış, özellikler, katılım, iş doyumu) metinde tam olarak Neoklasik/Davranışsal Yaklaşım başlığı altında sıralanmıştır; doğru cevap budur.",
+        "Modern Yönetim Yaklaşımı, Sistem ve Durumsallık kuramlarını kapsar; bu insan odaklı kavramlar onun değil Neoklasik yaklaşımın konusudur.",
+        "Stratejik Yönetim Yaklaşımı, örgütün vizyon ve uzun dönemli planlarıyla ilgilenir; bireysel motivasyon ve iş doyumu onun odağı değildir.",
+        "Toplam Kalite Yönetimi, kalite ve müşteri odaklılıkla ilgilenir; bu kavramlar onun doğrudan konusu değildir.",
+        "Klasik Yönetim Yaklaşımı insanı pasif bir üretim unsuru gibi görür ve tam tersine bu insan odaklı kavramları ihmal ettiği için eleştirilmiştir."
+      ]
+    },
+    {
+      "id": "u1q4",
+      "question": "Durumsallık Yaklaşımı ve Sistem Kuramı aşağıdakilerden hangisinin kapsamında yer alır?",
+      "options": [
+        "Klasik Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Neoklasik Yönetim Yaklaşımı",
+        "Toplam Kalite Yönetim Yaklaşımı",
+        "Davranışsal Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metin açıkça 'Modern Yönetim Yaklaşımı da kendi içinde Sistem Yaklaşımı ve Durumsallık Yaklaşımı olarak alt türlere ayrılabilmektedir' demektedir. Bu nedenle her iki kuram da Modern Yönetim Yaklaşımı'nın kapsamındadır.",
+      "optionNotes": [
+        "Klasik Yönetim Yaklaşımı, Bilimsel Yönetim, Yönetim Süreci ve Bürokrasi yaklaşımlarını kapsar; Sistem ve Durumsallık kuramlarını içermez.",
+        "Metinde doğrudan belirtildiği gibi Sistem ve Durumsallık yaklaşımları, Modern Yönetim Yaklaşımı'nın alt türleridir; doğru cevap budur.",
+        "Neoklasik (Davranışsal) Yaklaşım, Hawthorne deneyleri ve insan ilişkileri eksenlidir; Sistem/Durumsallık kuramlarını kapsamaz.",
+        "Toplam Kalite Yönetimi, çağdaş yaklaşımlar içinde ayrı bir başlık olup Sistem/Durumsallık kuramlarının üst kategorisi değildir.",
+        "Davranışsal Yönetim Yaklaşımı, Neoklasik yaklaşımın diğer adıdır ve Sistem/Durumsallık kuramlarını kapsamaz."
+      ]
+    },
+    {
+      "id": "u1q5",
+      "question": "Sistem Kuramı aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "İşletmenin üzerinde kurulmuş olduğu bölgeyi",
+        "İşletmenin sistemli çalışmasını",
+        "İşin belirli bir bölümünün ele alınmasını",
+        "Bütünü oluşturan parçaların tamamının ele alınmasını",
+        "Modern üretim araç ve gereçlerinin kullanılmasını"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde sistem, belirli parçalardan oluşan, parçaları birbiriyle ilişkili olan ve dış çevresiyle ilişkisi bulunan birleşik bir bütün olarak tanımlanır (örnek: insan vücudu). Bu nedenle Sistem Kuramı, bir bütünü oluşturan parçaların tek tek değil, tamamının birlikte ele alınmasını ifade eder.",
+      "optionNotes": [
+        "Sistem kuramı fiziksel bir bölgeyle değil, parçalardan oluşan bütünlerin işleyişiyle ilgilidir.",
+        "'Sistemli çalışma' ifadesi kavramı yeterince karşılamaz; sistem kuramının özü, parçaların bütünle olan ilişkisidir.",
+        "Sistem yaklaşımı tam tersine işin yalnızca bir bölümünü değil, bütünün tamamını ele almayı öngörür.",
+        "Metindeki tanıma göre sistem, parçalardan oluşan ve bu parçaların birlikte ele alınması gereken bir bütündür; bu nedenle doğru cevap budur.",
+        "Modern üretim araç ve gereçlerinin kullanımı, teknoloji ile ilgili olup Durumsallık Yaklaşımı'nın bir unsurudur, Sistem Kuramı'nın tanımı değildir."
+      ]
+    },
+    {
+      "id": "u1q6",
+      "question": "Akademik çalışma alanı olarak incelenen spor yönetimi dünyada ilk kez aşağıdaki ülkelerden hangisinde ortaya çıkmıştır?",
+      "options": [
+        "İngiltere",
+        "İtalya",
+        "ABD",
+        "İsviçre",
+        "Hollanda"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde 'Akademik çalışma alanı olarak incelenen spor yönetimi ise ilk olarak Amerika Birleşik Devletlerinde ortaya çıkmıştır' şeklinde açıkça belirtilir; ardından 1966'da Ohio Üniversitesi'nde ilk yüksek lisans programının başladığı vurgulanır.",
+      "optionNotes": [
+        "İngiltere, spor yönetiminin akademik alan olarak akredite edildiği ülkelerden biri olsa da ilk ortaya çıktığı ülke değildir.",
+        "İtalya metinde spor yönetiminin akademik gelişimiyle ilişkilendirilmemiştir.",
+        "Metinde doğrudan belirtildiği gibi spor yönetimi akademik alan olarak ilk kez ABD'de (Ohio Üniversitesi, 1966) ortaya çıkmıştır; doğru cevap budur.",
+        "İsviçre, metinde sonradan spor yöneticiliği eğitimi veren Avrupa ülkeleri arasında sayılır, ilk ortaya çıkış yeri değildir.",
+        "Hollanda da benzer şekilde sonradan bu eğitimi sunan ülkeler arasında anılır, öncü ülke ABD'dir."
+      ]
+    },
+    {
+      "id": "u1q7",
+      "question": "Aşağıdakilerden hangisi, Türkiye'de 1922-1936 yılları arasında faaliyet gösteren spor yönetimi dönemidir?",
+      "options": [
+        "BTGM Dönemi",
+        "TİCİ Dönemi",
+        "TSK Dönemi",
+        "GSGM Dönemi",
+        "BTSGM Dönemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde 'Türkiye İdman Cemiyeti İttifakı (TİCİ) Dönemi (1922 – 1936)' başlığı tarihleri birebir eşleştirir; TİCİ, Cumhuriyet'in ilk özerk ve federatif ulusal spor yönetim örgütü olarak bu yıllar arasında faaliyet göstermiştir.",
+      "optionNotes": [
+        "BTGM Dönemi 1938-1986 yıllarını kapsar, 1922-1936 aralığıyla örtüşmez.",
+        "Metinde başlık olarak verilen TİCİ Dönemi (1922-1936) tarih aralığıyla birebir örtüşür; doğru cevap budur.",
+        "TSK (Türk Spor Kurumu) Dönemi 1936-1938 arasını kapsar, soruda belirtilen 1922-1936 aralığından farklıdır.",
+        "GSGM Dönemi çok daha sonraki bir tarihte (1986 sonrası) ortaya çıkmıştır.",
+        "BTSGM gibi bir dönem adı metinde geçmemektedir; bu seçenek kurgusal bir seçenektir."
+      ]
+    },
+    {
+      "id": "u1q8",
+      "question": "Spor örgüt ve organizasyonlarında belirlenen amaçları gerçekleştirmek için sporun özel şartlarında, çağdaş yönetim ilke, prensip ve süreçleri doğrultusunda insan ve maddi kaynakları en etkin, verimli ve rasyonel bir şekilde kullanarak gerçekleştirme faaliyetine ne ad verilir?",
+      "options": [
+        "Spor ekonomisi",
+        "Spor endüstrisi",
+        "Spor korsanlığı",
+        "Spor yönetimi",
+        "Spor iktisadı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu ifade, metinde Yetim (2018)'e atfen verilen spor yönetimi tanımının neredeyse birebir aynısıdır: spor yönetimi, spor örgüt ve organizasyonlarında belirlenen amaçları gerçekleştirmek için sporun özel şartlarında, çağdaş yönetim ilke, prensip ve süreçleri doğrultusunda insan ve maddi kaynakları en etkin, verimli ve rasyonel bir şekilde kullanarak gerçekleştirme faaliyeti olarak tanımlanır.",
+      "optionNotes": [
+        "Spor ekonomisi, sporun ekonomik boyutuyla ilgilenir; bu tanım yönetim faaliyetini anlatır, ekonomiyi değil.",
+        "Spor endüstrisi, sporun sektörel/ticari büyüklüğünü ifade eder, bu spesifik yönetim tanımını karşılamaz.",
+        "Spor korsanlığı metinde geçmeyen, anlamsız bir seçenektir.",
+        "Metindeki tanım, spor yönetiminin birebir ifadesidir; doğru cevap budur.",
+        "Spor iktisadı da ekonomik bir kavram olup, burada tanımlanan kaynakları kullanma ve karar alma faaliyetini (yönetimi) karşılamaz."
+      ]
+    },
+    {
+      "id": "u1q9",
+      "question": "İleriyi görmek ile ilgili yönetim işlevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Eğitim",
+        "Program",
+        "Planlama",
+        "Yürütme",
+        "Denetim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde 'Planlama; ileriyi görmek, bir başka deyimle, belirli bir hareketi yürütme sırasında değil, önceden kararlaştırmaktır' şeklinde tanımlanmıştır. Bu nedenle ileriyi görmek doğrudan planlama işlevine karşılık gelir.",
+      "optionNotes": [
+        "Eğitim, yönetim süreçlerinden biri değil, Yetiştirme ilkesiyle ilişkili bir kavramdır; ileriyi görmekle doğrudan tanımlanmaz.",
+        "Program, planlamanın bir çıktısı olabilir ama metinde ileriyi görmek tanımı doğrudan planlamaya yapılır.",
+        "Metinde planlama, açıkça ileriyi görmek olarak tanımlanmıştır; doğru cevap budur.",
+        "Yürütme, planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesidir, geleceği önceden görmekle ilgili değildir.",
+        "Denetim, sonuçları amaçlarla karşılaştırma ve düzeltme sürecidir; ileriye dönük öngörüyle değil, geçmişe dönük kontrolle ilgilidir."
+      ]
+    },
+    {
+      "id": "u1q10",
+      "question": "Aşağıdakilerin hangisi spor yönetiminin ilkelerinden biri değildir?",
+      "options": [
+        "Taraflılık",
+        "Yeterlilik",
+        "Eşitlik",
+        "Denklik",
+        "Güç birliği"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde spor yönetiminin ilkeleri tarafsızlık, yeterlik, güvence, denklik, eşitlik, yetiştirme, güç birliği ve emek olarak sayılır. Taraflılık bu ilkelerin tam tersidir; metinde ilke olarak geçen tarafsızlıktır, taraflılık değildir.",
+      "optionNotes": [
+        "Metinde ilke olarak sayılan tarafsızlıktır; taraflılık bunun zıttı olup metinde bir ilke olarak geçmez, dolayısıyla doğru cevap budur.",
+        "Yeterlilik (yeterlik), personelin işe uygunluğunu ifade eden ve metinde açıkça sayılan bir ilkedir.",
+        "Eşitlik, metinde 'birbirine denk personele eşit ödeme yapılmalıdır' şeklinde açıklanan, sayılan ilkelerden biridir.",
+        "Denklik, personele yaptığı işin karşılığının ödenmesini ifade eden, metinde sayılan bir ilkedir.",
+        "Güç birliği, personelin takım çalışmasıyla başarıya ulaşmasını ifade eden, metinde sayılan bir ilkedir."
+      ]
+    }
+  ]
+}

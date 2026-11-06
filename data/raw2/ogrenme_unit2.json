@@ -1,0 +1,273 @@
+{
+  "id": 2,
+  "title": "Beceri Öğrenimi I",
+  "learningOutcomes": [
+    "Öğrenme ve performans farkını açıklayabilme",
+    "Beceri, hareket ve refleks kavramları arasındaki farklılığı açıklayabilme",
+    "Tek boyutlu ve çok boyutlu beceri sınıflamalarını kavrayabilme",
+    "Karar vermeyi etkileyen faktörleri açıklayabilme"
+  ],
+  "keywords": [
+    "Beceri Öğrenimi",
+    "Performans",
+    "Hareket",
+    "Beceri Sınıflaması",
+    "Karar Verme",
+    "Reaksiyon Zamanı",
+    "Dikkat Teorileri",
+    "Canlılık Düzeyi"
+  ],
+  "summary": [
+    {
+      "heading": "Beceri Öğrenimi Alanı ve Motor Davranış Bilimleri",
+      "paragraphs": [
+        "İnsan hareketlerinin en optimum düzeyde nasıl ortaya konabileceğini inceleyen bilim alanlarından biri motor davranıştır. Motor davranış alanı birbiriyle ilişkili üç alt alanın birleşiminden oluşur: Motor Öğrenme, Motor Gelişim ve Motor Kontrol. Ülkemizde motor öğrenme alanına genel olarak \"Beceri Öğrenimi\" denilirken, motor gelişim alanı için \"Psikomotor Gelişim\" ifadesi kullanılır.",
+        "Beceri Öğrenimi (Motor Öğrenme), alıştırma ve deneyim sonucu harekette meydana gelen değişiklikleri; yani hareketlerin ne şekilde kazanıldığını, öğrenildiğini inceler. Bu alan öğrenmeyi hızlandıran/artıran veya yavaşlatan/gerileten etkenleri araştırır ve bir hareketi sergilerken gerekli olan algı, dikkat ve karar verme gibi süreçleri incelediği için psikoloji alanından yoğun şekilde yararlanır. Önemli bir ayrım: sporcuda gelişim, büyüme veya enerji sistemlerinin antrenman sonucu gelişmesiyle oluşan değişimler beceri öğrenimi kapsamında değerlendirilmez.",
+        "Motor Gelişim (Psikomotor Gelişim), hareketlerin çocukluk döneminde nasıl ve neden geliştiğini, yaşla birlikte nasıl gerilediğini inceler; gelişim yaşa bağlı olarak pozitif olabileceği gibi yaşlılıkla birlikte bir kayıp anlamına da gelebilir. Motor Kontrol ise hareketlerin merkezi sinir sistemi tarafından kas ve eklem hareketleri üzerinden nasıl organize edildiğini inceleyen, biyomekanik alanıyla yakın bilgi alışverişi içinde olan teorik temelli bir alandır. Bir antrenörün sporcularının hareket ve becerilerini geliştirebilmesi için bu üç alanın temel kavramlarını bilmesi gerekir."
+      ]
+    },
+    {
+      "heading": "Öğrenme – Performans İlişkisi",
+      "paragraphs": [
+        "Beceri öğrenimi alanının anlaşılması için öncelikle öğrenme kavramının dört temel özelliği bilinmelidir: (1) Öğrenme bir süreçtir, zaman içinde gelişir; (2) öğrenme alıştırma/pratik yapmanın ve/veya deneyimin sonucunda oluşur; (3) öğrenme, kapasitede oluşan veya oluştuğu varsayılan göreceli kalıcı değişimlerdir; (4) öğrenme doğrudan gözlemlenemez, performans üzerinden çıkarım yapılması gerekir.",
+        "Performans ise genel olarak bir eylem, \"beceriyi uygulama eylemi\" olarak tanımlanır. Performans kalıcı değildir ve çok çeşitli etkenlere bağlı olarak değişebilir: yorgunluk, hastalık veya dikkatsizlik performansta azalmaya; yüksek motivasyon, şans veya takviye besinler ise artışa yol açabilir. Bu nedenle performans ile ölçülen eylem, bazen kalıcı olduğu varsayılan öğrenmeden farklılık gösterebilir; bir antrenman seansı sonrası yapılan test genellikle o anki performansı yansıtır, gerçek öğrenmeyi ölçmek için ölçümün bir süre sonra (saat, gün veya hafta) yapılması gerekir.",
+        "Özetle: bireyin alıştırma ve deneyim sonucu motor becerileri uygulama yeterliliğinde ortaya çıkan göreli ve kalıcı davranış değişikliğine öğrenme denir; performans ise bu öğrenmenin dışa vurulan, değişken ve geçici göstergesidir."
+      ]
+    },
+    {
+      "heading": "Beceri Sınıflaması: Tanım ve Tek Boyutlu Sınıflama",
+      "paragraphs": [
+        "Guthrie (1952)'ye göre beceri, \"belirli bir sonuca maksimum kesinlik ve minimum enerji ve/veya zaman harcayarak ulaşma yeteneği\"dir. Bir hareketin beceri sayılabilmesi için ulaşılması gereken bir hedef veya amaç olmalıdır; amaç yoksa o eylem sadece \"hareket\" olarak adlandırılır. Spor bilimleri alanında bu kavram \"Motor Beceri\" olarak ele alınır: bir amaca yönelik olarak yapılan ve öğrenilmesi gereken istemli davranış veya göreve motor beceri denir. Motor beceriyi reflekslerden ayıran temel özellik istemli olmasıdır; reflekslerin çoğu iskelet kaslarıyla gerçekleştirilse de çok hızlı, programlanmış ve istemsizdir.",
+        "Motor becerilerin sayıca çok fazla olması, onları belirli özelliklere göre sınıflama ihtiyacını doğurmuştur. Tek boyutlu sınıflama, becerileri tek bir özelliğe göre dört farklı şekilde gruplandırır. Kullanılan kas büyüklüğüne göre beceriler büyük kas kitlesi (kaba) ve küçük kas kitlesi (ince) olarak ikiye ayrılır: kaba beceriler kesinliğin çok önemli olmadığı, büyük kas gruplarıyla yapılan hareketlerdir (yürüme, atlama); ince beceriler ise göz-el koordinasyonu ve yüksek kesinlik gerektiren hareketlerdir (resim yapmak, yazı yazmak, dikiş-nakış).",
+        "Hareketin başlama ve bitiş netliğine göre beceriler kesik, seri ve devamlı olmak üzere üçe ayrılır. Kesik beceri, başı ve sonu belli, genellikle kısa süreli hareketlerdir (top atma, topa vurma). Seri beceri, birçok kesik hareketin art arda birleşmesiyle oluşan karmaşık harekettir (araba vitesi değiştirmek, cimnastikte yer hareketleri). Devamlı beceri ise başı ve sonu tam olarak belli olmayan, dakikalarca sürebilen hareketlerdir (yüzme, bisiklet).",
+        "Çevrenin tahmin edilebilirlik düzeyine göre beceriler açık ve kapalı olarak ikiye ayrılır. Açık beceride çevresel şartlar değişkendir ve tahmin edilemez (kaleci için penaltı atışı, ormanlık alanda koşu); kapalı beceride çevresel şartlar sabittir ve tahmin edilebilir, kişi eylemden önce plan yapabilir (dart atışı, daktilo kullanımı). Son olarak motor ve bilişsel öğelerin önemine göre beceriler motor ve zihinsel olarak ikiye ayrılır: motor becerilerde başarıyı belirleyen temel unsur hareketin NASIL yapıldığıdır (ağırlık kaldırmak, yüksek atlama); zihinsel becerilerde ise başarıyı belirleyen unsur NE yapıldığıdır (satranç oynamak, antrenörlük)."
+      ]
+    },
+    {
+      "heading": "Çok Boyutlu Beceri Sınıflaması",
+      "paragraphs": [
+        "Tek boyutlu sınıflamanın bazı becerileri tam olarak tanımlayamaması nedeniyle Gentile (2000) tarafından çok boyutlu sınıflama önerilmiştir. Bu sınıflama, motor becerilerin çevresel şartlardan, zorluktan ve kullanılan malzemelerden nasıl etkilendiğini daha iyi ifade etmeyi amaçlar ve iki ana boyuttan oluşur: Düzenleyici Şartlar ve Hareket Gereklilikleri.",
+        "Düzenleyici Şartlar, bir beceriyi başarıyla gerçekleştirmek için hareket özelliklerini belirleyen çevresel faktörleri tanımlar; alt boyutları çevre şartları (çevre sabit mi yoksa değişken mi?) ve denemeler (denemeler arası tepkilerde değişkenlik var mı?) dır. Hareket Gereklilikleri ise vücut hareketlerine ve nesne manipülasyonuna göre beceriyi yapabilmek için gerekli unsurları tanımlar; alt boyutları vücut hareketleri (uygulayıcının mekân değiştirmesi gerekiyor mu?) ve nesne manipülasyonu (bir cismi manipüle etmesi gerekiyor mu?) dır.",
+        "Her bir ana boyutun iki alt boyutu olması, motor becerilerin toplamda 16 farklı şekilde tanımlanmasına imkân verir (Tablo 2.1, Gentile 2000). Sınıflamanın en sol üst bölümü en basit hareketleri temsil ederken, sağa ve aşağı doğru ilerledikçe hareketler zorlaşır; en zor hareketler tablonun en alt sağ bölümünde yer alır. Bir sporcuya basit formdan başlayarak kademeli olarak zorlaştırma yapılmak isteniyorsa, alıştırma planlaması sol üst bölgeden başlayıp aşamalı olarak ilerletilmelidir."
+      ]
+    },
+    {
+      "heading": "Karar Vermeyi Etkileyen Faktörler: Reaksiyon Zamanı",
+      "paragraphs": [
+        "Motor becerilerin öğrenilmesi, kasların istenen biçimde, zamanda ve sürede kasılmasını gerektiren karmaşık bir süreçtir. Açık becerilerde olduğu gibi değişen çevre şartlarına uyum sağlayarak doğru ve hızlı karar verebilme kapasitesi de gereklidir. \"Algı\", bilgiye anlam yükleme işlevi olarak tanımlanır ve karar vermenin en önemli ve ilk unsurudur (örneğin bir kalecinin penaltı sırasında topun yönünü algılaması).",
+        "Uyaranın verilmesi ile tepkinin başlangıcı arasındaki süreye reaksiyon zamanı denir. Reaksiyon zamanı çalışmaları yalnızca sprint branşlarında olduğu gibi karar vermenin hızını göstermek için değil, aynı zamanda karar vermenin doğruluğunu (verimliliğini) anlamak için de yapılır: basit reaksiyon zamanı hızı gösterirken, çoklu/seçici reaksiyon zamanı aynı zamanda doğruluğu da gösterir. Birden fazla uyaran ve her bir uyaran için belirlenmiş ayrı bir tepki durumuna seçici reaksiyon zamanı denir (örneğin trafik ışığının farklı renklerine göre farklı tepki vermek gerekmesi).",
+        "Reaksiyon zamanını etkileyen etkenler arasında şunlar sayılır: uyaranların sayısının artması; uyarana cevap vermek için yapılacak hareketin karmaşıklığı; sezinleme (geçmiş deneyimlerin sınırlı olması nedeniyle uyaran verilmeden önce zamanlama ve mekân konusunda tahmin yapamamak); kısa aralıklarla ardı ardına uyarı niteliğinde verilen hareketlere tepki vermek zorunda kalmak (sporda aldatma gibi); ve daha önce alışılmış durumların tam tersi bir doğrultuda hareket etmek zorunda kalmak (örneğin Türkiye'de araba kullanmayı öğrenen birinin İngiltere'de araba kullanması). Bu durumların tersi, yani uyaran sayısının azlığı, basit hareketler ve tutarlı uyarı-tepki ilişkisi, hızlı ve doğru karar vermeye yol açar."
+      ]
+    },
+    {
+      "heading": "Karar Vermeyi Etkileyen Faktörler: Dikkat ve Canlılık Düzeyi",
+      "paragraphs": [
+        "TDK'ye göre dikkat, \"duygularla düşünceyi bir şey üzerinde toplama\" olarak basitçe tanımlanır. Ders kitabındaki tanıma göre ise \"aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına dikkat denir.\" Herhangi bir öğrenmenin gerçekleşebilmesi için dikkatin verilmesi gerekir; antrenörün anlattığı bir hareketi sporcunun dikkatle dinlememesi öğrenmeyi olumsuz etkiler.",
+        "Beceri öğreniminde dikkat kapasitesinin sınırlı olduğu bilinmelidir: çevre veya görevin zorluk derecesi arttıkça, o göreve ayrılan dikkat payı büyür ve dolayısıyla eşzamanlı yürütülecek başka bir işe ayrılabilecek dikkat kapasitesi azalır. Bu nedenle özellikle açık beceriler öğretilirken yeni başlayanlar için hareketler mümkün olduğunca basitleştirilmeli; açık beceriler önce kapalı hale getirilip hareket koordinasyonu sağlanmalı, ardından çevreyi algılama ve uyum sağlamaya yönelik alıştırmalara geçilmelidir. Deneyimsiz sporculardan tek seferde bir işte başarı beklenirken, kişi uzmanlaştıkça aynı anda birden fazla işi başarıyla yapabilir (örneğin basketbolda top sürerken hem topa hem rakibe dikkat edebilme).",
+        "Karar vermenin hızı ve doğruluğunu etkileyen diğer bir unsur canlılık düzeyidir; basitçe \"merkezi sinir sisteminin aktivasyonu\" olarak tanımlanır ve hem fizyolojik hem psikolojik süreçleri kapsar. Beceri öğrenimiyle ilişkisi bakımından Ters U Hipotezi önemlidir: canlılığın çok düşük veya çok yüksek olduğu durumlarda karar verme ve performans düşüktür; en üst düzey performans için öğrenilen/sergilenen becerinin türüne bağlı bir optimal canlılık seviyesi vardır. Küçük kas kitlesi gerektiren veya yüksek düzeyde karar verme içeren zihinsel becerilerde düşük optimal canlılık düzeyi; halter gibi karar verme süreçlerinin az olduğu büyük kas kitlesi becerilerinde yüksek optimal canlılık düzeyi gerekir. Canlılık düzeyi optimal noktaya kadar arttıkça performans artar, bu noktadan sonra devam eden artış performansı azaltır. Nitekim elit Muay-Thai sporcuları üzerinde yapılan bir araştırmada, yorgunluğun basit reaksiyon zamanını olumsuz etkilediği ancak seçenekli reaksiyon zamanının doğruluğunu anlamlı şekilde değiştirmediği bulunmuştur."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u2q1",
+      "question": "Aşağıdakilerden hangisi motor becerilerin ortak özelliklerinden biri değildir?",
+      "options": [
+        "Öğrenilmiş olmalıdır.",
+        "İstemsiz yapılır.",
+        "İstemli yapılmalıdır.",
+        "Beden/uzuv hareketi içerir.",
+        "Bir gaye ile yapılmamalıdır."
+      ],
+      "correctIndex": 1,
+      "explanation": "Motor beceriyi reflekslerden ayıran temel özellik istemli (bilinçli irade ile) yapılmasıdır; metinde 'Reflekslerin çoğu ... çok hızlı, programlanmış ve istemli değildir' denilerek refleks ile beceri ayrımı net çizilir. Dolayısıyla 'istemsiz yapılır' ifadesi motor becerinin ortak bir özelliği değildir, tam tersine onu reflekslerden ayıran noktadır.",
+      "optionNotes": [
+        "Doğru bir özelliktir: motor beceriler alıştırma ve deneyim yoluyla öğrenilir, doğuştan gelmez.",
+        "Yanlış/çelişkili ifadedir ve bu nedenle doğru cevaptır: motor beceriler istemli yapılır, istemsiz hareketler reflekstir.",
+        "Doğru bir özelliktir: metinde beceriyi reflekslerden ayıran niteliğin istemlilik olduğu belirtilir.",
+        "Doğru bir özelliktir: beceri tanımı bir hedefe ulaşmak için bedensel/uzuv hareketini gerektirir.",
+        "Bu ifade de aslında gerçeği tersine çevirir, çünkü metne göre bir hareketin beceri sayılması için ulaşılması gereken bir hedef/amaç olmalıdır; ancak soruda resmî tek doğru yanıt B şıkkı olarak işaretlenmiştir."
+      ]
+    },
+    {
+      "id": "u2q2",
+      "question": "Aşağıdakilerden hangisi öğrenme kavramının temel özelliklerinden biri değildir?",
+      "options": [
+        "Öğrenme belirli bir süreç gerektirir.",
+        "Öğrenme alıştırma yapmanın sonucunda oluşur.",
+        "Öğrenme hareket kapasitesinin artırımıdır.",
+        "Öğrenme deneyimlerimiz ile meydana gelen değişimdir.",
+        "Öğrenme doğrudan gözlemlenir."
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde öğrenmenin dört temel özelliği sayılırken son özellik şudur: 'Öğrenme doğrudan gözlemlenemez, çıkarım yapılması gerekir.' Bu nedenle öğrenmenin doğrudan gözlemlendiğini söylemek yanlıştır; öğrenme, performans üzerinden dolaylı olarak çıkarım yapılarak anlaşılabilir.",
+      "optionNotes": [
+        "Doğru özellik: 'Öğrenme bir süreçtir, zaman ile gelişir.'",
+        "Doğru özellik: öğrenme alıştırma/pratik ve/veya deneyimin sonucunda oluşur.",
+        "Doğru özelliğe yakın bir ifadedir: öğrenme ile davranışın üretilebilme kapasitesi kazanılır/artar.",
+        "Doğru özellik: öğrenme kapasitede oluşan göreceli kalıcı değişimdir, bu değişim deneyimle meydana gelir.",
+        "Yanlış ifadedir ve bu yüzden doğru cevaptır: öğrenme doğrudan gözlemlenemez, yalnızca performans aracılığıyla çıkarım yapılabilir."
+      ]
+    },
+    {
+      "id": "u2q3",
+      "question": "Aşağıdaki ifadelerden hangisi rastgele başlangıç ve bitiş yeri olan bir beceriyi tanımlar?",
+      "options": [
+        "Seri motor beceri",
+        "Kesik motor beceri",
+        "Devamlı motor beceri",
+        "İnce motor beceri",
+        "Kapalı beceri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metindeki tanıma göre 'Devamlı Beceri: Başı ve sonu tam olarak belli olmayan ve dakikalarca devam edebilen hareketlerdir (yüzme, bisiklet vb.)'; bu tanım soruda sorulan 'rastgele/belirsiz başlangıç ve bitiş yeri olan beceri' ifadesiyle tam örtüşür. NOT: Kaynak metindeki resmî yanıt anahtarı bu soru için 'D' (İnce motor beceri) şıkkını işaretlemektedir; ancak İnce motor beceri kas büyüklüğü/kesinlik ile ilgili bir sınıflamadır ve başlangıç-bitiş netliğiyle ilgisi yoktur. Bu açık içerik çelişkisi nedeniyle yanıt, ünite metnine dayanarak C (Devamlı motor beceri) olarak düzeltilmiştir.",
+      "optionNotes": [
+        "Yanlış: Seri beceri, birçok kesik hareketin art arda birleşmesiyle oluşan karmaşık harekettir (örn. vites değiştirme); başlangıç-bitiş belirsizliği ile tanımlanmaz.",
+        "Yanlış: Kesik beceri, başı ve sonu çok net ve kısa süreli olan beceridir (örn. top atma); tam tersi bir özelliktir.",
+        "Doğru: Devamlı beceri başı ve sonu net olmayan, dakikalarca sürebilen hareketlerdir (yüzme, bisiklet); soruda tarif edilen 'rastgele başlangıç ve bitiş yeri' bu tanıma karşılık gelir.",
+        "Yanlış: İnce motor beceri, küçük kas kitlesi ve yüksek kesinlik gerektiren becerilerdir (yazı yazmak gibi); başlangıç/bitiş netliğiyle ilgili bir sınıflama değildir. Metnin resmî yanıt anahtarında bu şık işaretli görünse de içerikle uyuşmamaktadır.",
+        "Yanlış: Kapalı beceri, çevresel şartların sabit ve tahmin edilebilir olduğu beceri türüdür; başlangıç-bitiş netliğiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "u2q4",
+      "question": "Aşağıdakilerden hangisi devamlı bir beceridir?",
+      "options": [
+        "Yüzmek",
+        "Düz takla atmak",
+        "Tenis servis atışı",
+        "Basketbolda turnike",
+        "Voleybolda yerleşme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde devamlı becerilerin örnekleri arasında doğrudan 'yüzme, bisiklet vb.' sayılmıştır; çünkü yüzmenin başı ve sonu kesin olarak belirlenemez ve hareket dakikalarca sürebilir.",
+      "optionNotes": [
+        "Doğru: Metinde devamlı beceri örneği olarak açıkça yüzme verilmiştir.",
+        "Yanlış: Düz takla kısa süreli, başı ve sonu belirgin bir harekettir, bu yüzden kesik beceridir.",
+        "Yanlış: Tenis servisi başı ve sonu net olan tek bir hareket dizisidir, kesik beceri sınıfına girer.",
+        "Yanlış: Basketbolda turnike de başlangıcı ve bitişi belirgin, kısa süreli bir harekettir.",
+        "Yanlış: Voleybolda yerleşme konumlanma amaçlı, başı sonu belirli bir eylemdir; devamlı beceri tanımına uymaz."
+      ]
+    },
+    {
+      "id": "u2q5",
+      "question": "Aşağıdakilerden hangisi \"Seçici reaksiyon zamanına\" ilişkin bir örnektir?",
+      "options": [
+        "Bir trafik lambasının olduğu kavşağa bir arabanın yanaşması",
+        "Bir koşucunun parkuru üzerinde bir şey(ler) bulması",
+        "Bir sürat koşucusunun yarışa başlama anı",
+        "Hakemin uyarısından sonra basketbolda serbest atış",
+        "Yukarıdakilerin hepsi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metne göre 'Birden fazla uyaran ve her bir uyaran için belirlenen bir tepki durumuna seçici reaksiyon zamanı denir.' Trafik ışığının kırmızı/sarı/yeşil gibi birden fazla olası durumu ve her duruma karşılık farklı bir tepki (dur/yavaşla/geç) gerektirmesi, klasik bir seçici reaksiyon zamanı örneğidir. NOT: Kaynak metindeki resmî yanıt anahtarı bu soru için 'C' (sürat koşucusunun start anı) şıkkını göstermektedir; ancak start anı tek bir uyarana (tabanca sesi) karşı tek bir tepkiyi içerdiğinden metinde tanımlanan 'basit reaksiyon zamanı'nın klasik örneğidir, seçici reaksiyon zamanı değildir. Bu açık içerik çelişkisi nedeniyle yanıt A olarak düzeltilmiştir.",
+      "optionNotes": [
+        "Doğru: Trafik lambasındaki farklı ışık durumları (kırmızı/sarı/yeşil) birden fazla uyaran ve her birine özgü farklı tepki gerektirir; bu seçici reaksiyon zamanının tipik bir örneğidir.",
+        "Yanlış/Belirsiz: Parkurda bir şey bulmak tek ve net bir tepki gereksinimi tanımlamaz, seçici reaksiyon zamanı tanımına doğrudan uymaz.",
+        "Yanlış: Yarış başlama anı tek bir uyarana (başlama sinyali) karşı tek bir tepkiyi (koşmaya başlamak) içerir; bu metinde tanımlanan basit reaksiyon zamanının örneğidir. Resmî yanıt anahtarı bu şıkkı işaretlese de içerikle örtüşmemektedir.",
+        "Yanlış: Hakemin tek uyarısı sonrası tek bir hareketi (atışı) yapmak da basit reaksiyon zamanı örneğidir, birden fazla uyaran-tepki eşleşmesi içermez.",
+        "Yanlış: Seçeneklerin hepsi aynı kategoriye girmediğinden bu şık doğru olamaz."
+      ]
+    },
+    {
+      "id": "u2q6",
+      "question": "Çevre veya görevin zorluk derecesi arttıkça, diğer bir görev için ayrılacak dikkat --------.",
+      "options": [
+        "kapasitesinde bir değişme olmaz",
+        "kapasitesi artar",
+        "kapasitesi azalır",
+        "kapasitesi iki katına çıkar",
+        "kapasitesi azalır sonra artar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde dikkat kapasitesinin sınırlı olduğu ve özellikle karmaşık/açık becerilerde dikkatin büyük kısmının o beceriye ayrılması gerektiği belirtilir. Bir görev zorlaştığında ona ayrılan dikkat payı büyür, dolayısıyla eşzamanlı yürütülecek başka bir göreve kalan dikkat kapasitesi azalır.",
+      "optionNotes": [
+        "Yanlış: Dikkat kapasitesi sınırlıdır, zorluk artışı diğer göreve ayrılabilecek dikkati etkiler, değişmez değildir.",
+        "Yanlış: Zorluk arttıkça bir görev daha fazla dikkat talep eder, bu da diğer göreve ayrılan dikkati artırmaz, azaltır.",
+        "Doğru: Zorlaşan görev daha fazla dikkat kapasitesi talep ettiğinden, aynı anda yürütülen başka bir göreve ayrılabilecek dikkat payı azalır.",
+        "Yanlış: Metinde böyle sabit bir orantı (iki katına çıkma) ifade edilmez.",
+        "Yanlış: Metinde böyle dalgalı bir değişim paterni tanımlanmaz."
+      ]
+    },
+    {
+      "id": "u2q7",
+      "question": "Yeni bir motor becerinin öğreniminden önce öğrenenin dikkatini topladığımıza emin olabilmek için aşağıdakilerden hangisinin yapılması gereklidir?",
+      "options": [
+        "Sporcuları sırtları güneşe gelecek şekilde düzenlemek",
+        "Sporcuların dikkatlerini dağıtmayacak bir alanda düzene koymak",
+        "Bütün sporcuların bizi gördüğünden ve duyduğundan emin olmak",
+        "Sporcuların hareketi neden öğrenmemiz gerektiğine ilişkin bilgi vermek",
+        "Yukarıdakilerin hepsi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dikkatin öğrenmenin ön koşulu olduğu vurgulanır; sporcuya hareketin amacını ve öğrenme gerekçesini açıklamak, onun motivasyonunu ve dolayısıyla dikkatini doğrudan ilgili bilgiye yönlendirmesini sağlar. Bu nedenle öğrenmeden önce 'neden öğreniyoruz' sorusuna cevap vermek, dikkatin doğru şekilde toplanmasına katkı sağlayan temel bir adımdır.",
+      "optionNotes": [
+        "Yetersiz: Güneşin konumlandırılması yalnızca görsel rahatsızlığı azaltan pratik bir düzenlemedir, dikkat toplamanın temel yöntemi değildir.",
+        "Yetersiz: Dağıtıcı unsurları azaltmak faydalı olsa da, tek başına öğrenenin zihinsel olarak konuya odaklandığını garanti etmez.",
+        "Yetersiz: Görme/duyma sadece fiziksel erişilebilirliği sağlar; öğrenenin bilişsel olarak hareketin amacına yönelik dikkatini topladığını göstermez.",
+        "Doğru: Hareketin neden öğrenildiğine ilişkin bilgi vermek, öğrenenin amaca yönelik anlamlı dikkatini ve motivasyonunu harekete geçirir.",
+        "Yanlış: Diğer şıklar dikkat toplamayı garanti eden yeterli/doğru koşulları tam karşılamadığından 'hepsi' doğru olamaz."
+      ]
+    },
+    {
+      "id": "u2q8",
+      "question": "Aşağıdaki stratejilerden hangisi reaksiyon zamanını azaltmak amacıyla kullanılır?",
+      "options": [
+        "Olacak olay hakkında önceden bilgi vermek",
+        "Tepki seçeneklerinin sayısını artırmak",
+        "Uyaranın tahmin edilebilirliğini azaltmak",
+        "Uyarı sinyalinin sunumunu çıkarmak",
+        "Tepki verildikten sonra ek bir iş istemek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde reaksiyon zamanını etkileyen etkenlerden biri 'sezinleme'dir; geçmiş deneyimlerin sınırlı olması nedeniyle uyaran verilmeden önce zamanlama ve mekân hakkında tahmin yapamamanın reaksiyon zamanını olumsuz etkilediği belirtilir. Buna göre olay hakkında önceden bilgi/tahmin olanağı vermek (sezinlemeye imkân tanımak) reaksiyon zamanını kısaltan bir stratejidir.",
+      "optionNotes": [
+        "Doğru: Önceden bilgi vermek sezinlemeyi kolaylaştırır ve böylece reaksiyon zamanını azaltır.",
+        "Yanlış: Tepki seçeneklerinin artması, metinde 'uyaranların sayısının artması' reaksiyon zamanını uzatan bir etken olarak sayılmıştır.",
+        "Yanlış: Uyaranın tahmin edilebilirliğini azaltmak, sezinlemeyi zorlaştırır ve reaksiyon zamanını artırır, azaltmaz.",
+        "Yanlış: Uyarı sinyalini kaldırmak, kişinin hazırlanma süresini azaltacağından reaksiyon zamanını kısaltmaz, tam tersine uzatabilir.",
+        "Yanlış: Tepki sonrası ek iş istemek reaksiyon zamanıyla ilgili bir azaltma stratejisi değildir, dikkatin dağılmasına yol açabilir."
+      ]
+    },
+    {
+      "id": "u2q9",
+      "question": "Her birine farklı tepki gereken ve ardı ardına kısa aralıklarla verilen iki uyaran olduğu duruma ------- denir.",
+      "options": [
+        "aldatma",
+        "Hick Kanunu",
+        "Fitts Kanunu",
+        "uyarı tepki tutarlılığı",
+        "zamansal sezinleme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde reaksiyon zamanını etkileyen etkenler arasında 'kısa aralıklarla ardı ardına uyarı niteliğinde verilen hareketlere karşı tepki (sporda aldatma gibi) vermek durumunda kalmak' ifadesi geçer. Bu, sporda sıkça görülen aldatma (fake) hareketlerinde olduğu gibi, birbirini kısa aralıkla takip eden ve her biri farklı bir tepki gerektiren uyaran durumunu tanımlar.",
+      "optionNotes": [
+        "Doğru: Metin, kısa aralıklarla ardı ardına verilen ve farklı tepki gerektiren uyaranları doğrudan 'sporda aldatma' örneğiyle ilişkilendirir.",
+        "Yanlış: Hick Kanunu, uyaran/seçenek sayısı arttıkça reaksiyon zamanının uzamasıyla ilgilidir, ardışık iki uyaran durumunu tanımlamaz.",
+        "Yanlış: Fitts Kanunu hareketin hız-doğruluk ilişkisiyle ilgilidir, bu senaryoyu tanımlamaz (metinde de bu kanunlardan bahsedilmez).",
+        "Yanlış: Uyarı-tepki tutarlılığı, bir uyarana hep aynı tepkinin verilip verilmediğiyle ilgilidir, ardışık farklı uyaranları tanımlamaz.",
+        "Yanlış: Metinde 'zamansal sezinleme' diye ayrı bir terim tanımlanmaz; sezinleme genel olarak zaman/mekân tahmini ile ilgilidir, bu senaryoya özgü değildir."
+      ]
+    },
+    {
+      "id": "u2q10",
+      "question": "Aynı anda birden fazla düşünce silsilesinden birinin belirgin tarzda zihin tarafından alınmasına -------- denir.",
+      "options": [
+        "dikkat",
+        "sezinleme",
+        "seçici dikkat",
+        "canlılık düzeyi",
+        "seçici reaksiyon zamanı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde dikkatin tanımı doğrudan şu şekilde verilir: 'Aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına dikkat denir.' Bu, sorudaki ifadeyle birebir örtüşmektedir.",
+      "optionNotes": [
+        "Doğru: Bu, metinde verilen dikkatin birebir tanımıdır.",
+        "Yanlış: Sezinleme, geçmiş deneyimlere dayanarak zamanlama/mekân konusunda tahminde bulunmaktır, düşünceler arasında seçim yapmayı tanımlamaz.",
+        "Yanlış: Seçici dikkat, dikkat kavramının spor psikolojisinde daha ayrıntılı incelenen bir alt türüdür ama soruda verilen genel tanım doğrudan 'dikkat' kavramına aittir.",
+        "Yanlış: Canlılık düzeyi, merkezi sinir sisteminin aktivasyon seviyesiyle ilgilidir, düşünce silsilelerinden birini seçmekle ilgili değildir.",
+        "Yanlış: Seçici reaksiyon zamanı, birden fazla uyarana karşı farklı tepkiler verme durumudur, zihnin bir düşünceyi seçmesiyle ilgili değildir."
+      ]
+    }
+  ]
+}

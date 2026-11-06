@@ -1,0 +1,328 @@
+{
+  "id": 4,
+  "title": "Motor Gelişim I",
+  "learningOutcomes": [
+    "Motor gelişimle ilgili temel kavramları tanımlayabilme",
+    "Gelişim ilkelerini açıklayabilme",
+    "Gelişimi etkileyen faktörleri kavrayabilme",
+    "Gelişimin türlerini açıklayabilme"
+  ],
+  "keywords": ["Gelişim", "Motor Gelişim", "Gelişim İlkeleri", "Gelişim Türleri"],
+  "summary": [
+    {
+      "heading": "Motor Gelişim: Tanım ve Önemi",
+      "paragraphs": [
+        "Motor gelişim, doğum öncesi dönemden başlayarak ölene kadar devam eden tüm hareketsel süreçleri kapsar. Fizyolojik bir süreç gibi görünse de aslında çocuğun psikolojisi üzerinde de büyük etkiye sahiptir; çünkü çocuklar motor becerilerini oyun içinde keşfeder, yaratıcılığını geliştirir, sosyalleşir, özgüven kazanır ve benlik kavramı edinir. Yetersiz bir motor gelişim süreci çocuğu bu faydalardan yoksun bırakır ve ileride kazanılacak motor becerilerin gelişimini de olumsuz etkiler.",
+        "Psikomotor gelişim ile motor gelişim sık sık birbirinin yerine kullanılsa da aslında tam olarak aynı değildir. Motor gelişim, doğumdan erişkinliğin sonuna kadar olan harekete ilişkin davranışların gelişimini kapsarken; psikomotor gelişim daha geniş bir alanı kapsayarak doğum öncesi (fötal) dönemden ölene kadar olan tüm harekete ilişkin gelişim ve değişim süreçlerini içerir."
+      ]
+    },
+    {
+      "heading": "Motor Gelişimin Tarihsel Gelişimi (4 Periyot)",
+      "paragraphs": [
+        "Motor gelişim konusu 20. yüzyıldan bu yana farklı araştırmacıların ilgisini çekmiş ve tarihsel süreci 4 ana periyotta toplanmıştır. 1787-1928 yılları arasını kapsayan ilk dönem 'başlangıç periyodu' olarak adlandırılır; bu dönemde Tiedemann'ın oğlunun yakalama davranışının refleksten istemli harekete geçişini incelediği gözlemleri, Darwin'in 'Bebeğin Biyografik Taslağı' adlı eseri ve Shinn'in 'Bebeğin Biyografisi' adlı eseri öne çıkar.",
+        "1928-1946 yılları arası 'olgunlaşma periyodu' olarak adlandırılır; Gessel, McGraw, Bayley'in motor gelişim ölçeği ve Monica Wild'in çalışmaları öncülük etmiştir. Bu dönemde araştırmacılar biyolojik süreçlerin önemini vurgulamış ve hareket becerilerindeki sıranın tüm bireyler için aynı olduğunu, çevrenin etkisini ise neredeyse yok sayarak savunmuşlardır.",
+        "1946-1970 yılları arasını kapsayan üçüncü dönem 'norm/tanımlama dönemi'dir; bu dönemde antropometrik ölçümler ve performans testleriyle çocukların motor performans düzeylerine ait normlar geliştirilmiştir (Espenschade, Glassow, Rarick). Son olarak 1980-90'lı yıllarda psikomotor gelişimin altındaki süreçlere odaklanan 'süreç-yönelimli dönem' ortaya çıkmıştır; Connolly'nin 'Motor Beceri Gelişimi Mekanizması' adlı eseri bu dönemin önemli çalışmalarındandır."
+      ]
+    },
+    {
+      "heading": "Motor Gelişimle İlgili Temel Tanımlar",
+      "paragraphs": [
+        "Hareket, vücudun ağırlık merkezinin iz düşümünün yer değiştirmesi veya vücudun bütününün (lokomotor) ya da bir parçasının (lokomotor olmayan) yer değiştirmesi olarak tanımlanır. Form (hareket şekli) ise birden fazla hareketin belirli bir düzen içinde yapılarak bir model oluşturmasıdır; örneğin bir voleybolcunun smaç vuruşu sırasındaki bacak, kol, gövde ve baş düzeni 'form' olarak adlandırılır.",
+        "Motor beceri, öğrenme sonucu edinilen ve hedefe doğru gerçekleştirilen tek ya da birden fazla vücut bölümünün devrede olduğu istemli hareketlerdir. Temel motor beceriler, çocuklarda 2-7 yaş arasında ortaya çıkan ve sportif becerilere zemin hazırlayan koşma, atma, atlama, fırlatma, yakalama, tırmanma gibi becerilerdir. Spor becerisi ise temel becerilerin gelişerek özelleşmesiyle ortaya çıkan, spor dalına özgü becerilerdir.",
+        "Motor öğrenme, hareket becerilerinin ediniminde ve mükemmelleştirilmesindeki temel değişikliklerdir; deneyimler yoluyla bir hareketin öğrenilmesi ve motor performansta ilerleme olarak tanımlanır. Motor kontrol, vücuttaki sinirsel ve fiziksel değişikliklerle bağımsız görevlerin yerine getirilmesidir. Motor davranış, motor öğrenme, motor kontrol ve motor gelişim gibi kavramlarda meydana gelen biyolojik temelli değişimleri kapsayan geniş bir kavramdır. Motor performans ise hareket becerisinin gerçekleşmesi sonrasında süre, mesafe gibi kavramlarla ölçülebilen gözlemlenebilir özelliklerdir. Deneyim, çevre tarafından sunulan ve öğrenmeye etki ederek gelişimsel özelliklerin ortaya çıkmasına katkıda bulunan edinimlerdir."
+      ]
+    },
+    {
+      "heading": "Büyüme, Gelişim ve Psikomotor Gelişim",
+      "paragraphs": [
+        "Büyüme, boyca uzama ve kilogramca artış şeklinde karşımıza çıkan kavramdır; gelişimin niceliksel, yani ölçülebilen yönünü oluşturur. Büyümenin en hızlı olduğu dönemler sırasıyla doğum öncesi, bebeklik ve ergenlik dönemidir. Bireyin kilo kaybetmesi büyüme olarak değerlendirilmez; büyüme artışla ifade edilen pozitif bir kavramdır.",
+        "Gelişim (gelişme), büyüyen bir organizmanın yapısında olan değişiklikler sonucu olgunlaşması ve biyolojik fonksiyonlarının farklılaşmasıdır; olgunlaşma, kalıtım ve öğrenmenin ürünü olup nitel ve nicel değişimleri içerir. Büyüme ve olgunlaşma gelişimin nicelik yönünü, hazırbulunuşluk ve öğrenme ise nitelik yönünü oluşturur. Örneğin bir bebeğin 6. ayın sonunda sindirim sisteminin basit gıdaları sindirebilecek düzeye gelmesi, dışarıdan gözlenemeyen bir gelişim örneğidir.",
+        "Psikomotor gelişim, yaşam döngüsü boyunca hareket görevinin gerekleri, kişinin biyolojik özellikleri ve öğrenme ortamının koşulları arasındaki etkileşimin belirlediği motor davranıştaki ilerleyici değişimlerdir. Gelişim genel olarak ileriye doğru işleyen pozitif bir süreç olarak görülse de, motor davranışlardaki gelişim zaman içinde farklı bir yöne (örneğin yaşlılıkta gerilemeye) gidebilir."
+      ]
+    },
+    {
+      "heading": "Hareket: Refleks ve Bilinçli Hareketler",
+      "paragraphs": [
+        "İnsanlarda iki farklı hareket modeli gözlenir: istem dışı hareketler (refleksler) ve bilinçli hareketler (reaksiyonlar). Refleks hareketler, etkiye karşı verilen istemsiz tepkilerdir; eklem reseptörlerinden alınan uyarı Serebral Korteks'e ulaşmadan omurilikte cevaba dönüşür ve kaslar bu cevabı harekete çevirir. Elimizi sıcak bir nesneye değdirdiğimizde aniden çekmemiz ya da yüzümüze aniden gelen sudan korunmak için gözlerimizi kapatmamız, refleksif hareket örnekleridir.",
+        "Yeni doğan bebeklerde emme, göz kırpma gibi bazı refleksif hareketler, zaman içinde büyüme ve gelişmeye bağlı olarak yerlerini istemli (bilinçli) hareketlere bırakır. Bilinçli hareketler (reaksiyonlar), etkiye verilen istemli tepkilerdir; insan beyninin gelişmesiyle sinir iletim hızı artar ve bu artış bilinçli hareket edebilmede önemli rol oynar. Bu sinirsel iletim süreci insan hayatının ilk zamanlarında hızlıdır, yaşlanmayla birlikte yavaşlar."
+      ]
+    },
+    {
+      "heading": "Öğrenme, Olgunlaşma ve Hazırbulunuşluk",
+      "paragraphs": [
+        "Öğrenme, bireyin olgunlaşma düzeyine göre çevresiyle etkileşimi sonucunda yeni davranışlar kazanması ya da eski davranışlarını değiştirmesi, yani davranışlarının yeniden düzenlenmesi veya kalıcı olarak değişmesidir. Yüzme bilmeyen bir kişinin eğitim alarak yüzmeyi öğrenmesi kalıcı davranış değişikliğine örnektir; yüzmeyi bilen birinin farklı teknikleri (kelebek, kurbağalama vb.) öğrenmesi ise davranışın yeniden düzenlenmesine örnektir. Öğrenme üzerinde olgunlaşmanın büyük etkisi vardır ve öğrenme doğrudan gözlemlenemeyen içsel bir süreç olduğundan, kişinin gözlemlenebilen davranışlarındaki değişimler üzerinden değerlendirilir.",
+        "Olgunlaşma, doğuştan gelen, genetik faktörlerle belirlenmiş ve bu nedenle dış çevre etkenlerine dirençli olan, bireyin beklenen işi yapabilecek fiziksel kapasiteye erişebilmesi için fonksiyon seviyelerindeki nitelikli yükselmeleri ve biyolojik değişimleri içeren süreçtir. Becerinin ortaya çıkışı çevresel faktörlerden etkilenmezken, ortaya çıkan becerinin gelişimi çevresel şartlardan ve deneyimlerden doğrudan etkilenir.",
+        "Hazırbulunuşluk, kişinin olgunlaşmasının yanı sıra çevreyle girdiği etkileşimin olası sonucu olarak belli davranışları gerçekleştirebilecek ön bilgi, beceri ve tutuma sahip olması durumudur. Hem fiziksel hem de zihinsel (mental) olarak hazır olmayı kapsar; örneğin yeterli antrenman yapmış bir sporcu kendini müsabakaya zihinsel olarak hazır hissetmiyorsa başarılı olamayabilir."
+      ]
+    },
+    {
+      "heading": "Gelişim Yönü ve Büyüme Hızı",
+      "paragraphs": [
+        "Gelişim, baştan ayağa, merkezden dışarı ve genelden özele doğru bir yol izler. Baştan ayağa ilkesine göre anne karnında önce baş oluşur, bunu kollar ve bacaklar takip eder; doğum sonrasında da kontrol aynı sırayla (önce baş-boyun, sonra üst gövde, son olarak bacaklar) sağlanır ve bu süreç yaşlılıkta tersine döner. Merkezden dışa ilkesi, gelişimin büyük kas gruplarından küçük kas gruplarına ilerlemesini ifade eder (önce omuz, sonra dirsek, el bileği ve parmaklar). Genelden özele ilkesine göre ise çocuk önce yetersiz ve kaba hareketlerle (örneğin nesne fırlatma) başlar, zamanla bu hareketler özelleşerek gelişmiş becerilere (örneğin topu potaya atma) dönüşür.",
+        "Büyüme hızı, karakteristik ve evrensel modeller şeklindedir ve genellikle dış etkenlere dirençlidir. Gelişimin geri kalması durumunda kendi kendine düzenlenme süreci devreye girerek çocuğun yaşıtlarının düzeyine gelmesini sağlar; örneğin bir hastalık nedeniyle büyümesi duraklayan çocuk, hastalığı atlattıktan sonra kendi büyüme sürecine dönebilir. Ancak çok düşük doğum kilosu gibi büyük sapmalarda bu kendi kendine düzenleme yeterli olmayabilir ve gelişimsel gerilik boy-kiloyla sınırlı kalmayıp zihinsel ve motorik süreçleri de etkileyebilir."
+      ]
+    },
+    {
+      "heading": "Farklılaşma, Bütünleşme ve Kritik Dönem",
+      "paragraphs": [
+        "Farklılaşma, bebeklik dönemindeki hareket kalıplarından, çocuk ve gençlerin daha fonksiyonel ve daha becerili hareketlere doğru ilerlemesidir; hareket becerileri gelişimle birlikte basitten zora, kompleks becerilere doğru yol izler. Bütünleşme ise duyu sistemlerinin ve çeşitli kas gruplarının koordineli bir şekilde çalışmasıdır; örneğin bir çocuğun bardaktan suyu dökmeden içebilmesi ya da çorba kaşığını ağzına götürebilmesi, el-göz koordinasyonu gerektiren bütünleşme örnekleridir.",
+        "Kritik (hassas) dönem, insan yavrusunun oluşumu sırasında her organ ve sistemin belli zamanlarda geliştiği, bu dönemlerde dışarıdan gelecek bir etkinin gelişim sürecini telafisi olmayacak şekilde bozabileceği dönemdir. Bu süreç doğumu takip eden yaklaşık ilk 6 yıl boyunca devam eder; özellikle 0-2 yaş duygusal yönden ve güven gelişimi açısından çok önemlidir. 3 yaşa kadar fiziksel gelişim çok hızlıdır ve çocuk benmerkezci davranır; çocuk zihinsel gelişiminin yüzde altmışını, sinir sistemi gelişiminin ise yüzde seksenini yaşamının ilk beş yılında tamamlar. Bu dönemde çocuk fiziksel, sosyal ve zihinsel olarak savunmasız olduğundan, doğru davranış modelleri ve doğru çevresel uyaranlar büyük önem taşır."
+      ]
+    },
+    {
+      "heading": "Bireysel Farklılıklar, Beden Ölçüleri, Filogeni ve Ontogeni",
+      "paragraphs": [
+        "Bireysel farklılıklar, çocukların fiziksel ve zihinsel gelişimlerinin kalıtım ve çevrenin ilişkisiyle değişim göstermesi sonucu normal sınırlar içinde ortaya çıkan farklılıklardır; örneğin tek yumurta ikizleri genetik olarak aynı olsa da farklı sosyal çevrelerde büyüdüklerinde gelişimsel farklılıklar sergileyebilir. Bu farklılıklar belirli sınırlar içinde kalmalıdır; aksi halde (örneğin 18 aylık olup hâlâ oturamayan bir çocukta) durum bireysel farklılıktan çıkıp gelişimsel gerilik boyutuna taşınır.",
+        "Beden ölçüleri, motor yeterlilikleri doğrudan etkiler; özellikle 1-5 yaş arasında beden yapısı, kas yapısı ve duruşa ait değişimler hareket kapasitesini belirler. Bacakların uzaması lokomotor hareketlerin doğru yapılmasını, omuzların genişlemesi ve kolların uzaması ise fırlatma hareketlerinin etkinliğini artırır; beden ölçüleri değiştikçe motor kontrol artar ve motor davranışın kalitesi yükselir.",
+        "Filogenetik beceriler, öğrenme ihtiyacı duymaksızın kendiliğinden ortaya çıkan, insan filosuna ait genetik özelliklerden kaynaklanan becerilerdir; atma, tutma, yakalama, yürüme, koşma gibi büyük kas gruplarıyla yapılan temel hareket becerileri bunun örnekleridir. Ontogenetik beceriler ise çevre uyaranları ve öğrenme iş birliği sonucunda gelişen, kendiliğinden ortaya çıkmayan, daha özelleşmiş becerilerdir; örneğin kendiliğinden fırlatma yapan bir çocuğun hentbol eğitimiyle kaleye şut atar hale gelmesi ontogenetik beceridir. Kısaca filogenetik beceriler motor gelişim sürecini, ontogenetik beceriler motor öğrenme sürecini ifade eder."
+      ]
+    },
+    {
+      "heading": "Gelişimi Etkileyen Faktörler: Kalıtım",
+      "paragraphs": [
+        "Gelişim, kalıtım ve çevrenin ortaklaşa bir ürünüdür. Kalıtım, üreme esnasında anne ve babada bulunan özelliklerin genler yoluyla genç kuşağa aktarılmasıdır. Kalıtıma müdahale etmek mümkün olmadığından, bireysel farklılıklardaki en büyük etken kalıtımdır; göz-saç rengi, kişilik, zekâ, hastalıklar, yetenekler, boy ve genel vücut yapısı kalıtsal özelliklerdir ancak çevresel koşullardan da etkilenirler.",
+        "Kalıtımla ilgili temel tanımlar şunlardır: Genotip, canlının taşıdığı baskın ve çekinik genlerin tümüdür. Fenotip (dışyapı), genotipte bulunan ve çevrenin etkisiyle dış görünüşe yansıyan özelliklerdir. Baskın (dominant) gen, heterozigot durumda fenotipte etkisini gösterebilen gen türüdür; çekinik (resesif) gen ise heterozigot durumda fenotipte etkisini gösteremeyen gen türüdür. Homozigot, iki alel genin baskın ya da çekinik olma özelliğinin aynı olmasıdır (AA, aa); heterozigot ise bu özelliklerin farklı olmasıdır (Aa). Çekinik genler dış görünüşte ortaya çıkmasa da bir sonraki kuşağa aktarılabilir; örneğin büyükanne/büyükbabadaki mavi göz geni bir kuşak atlayarak torunda ortaya çıkabilir.",
+        "Irk faktörü de genetik bir etkendir ve gelişim sürecinde farklılıklar yaratır; örneğin siyahi ırka mensup yeni doğan bebeklerin merkezi sinir sistemi daha olgunlaşmış olabilir ve bu da motor becerilerin kazanılma hızını etkileyebilir. Ancak yaşanılan çevre de ırksal özelliklerde değişime neden olabilir; örneğin Amerika'da yetişen Japon çocuklar Japonya'dakilere göre daha iri yapılı olabilmektedir."
+      ]
+    },
+    {
+      "heading": "Çevre: Doğum Öncesi, Doğum Sırası ve Doğum Sonrası Etkenler",
+      "paragraphs": [
+        "Doğum öncesinde bebeğin ilk ve tek çevresi anne rahmidir; anneyi etkileyen her durumdan bebek doğrudan etkilenir. Annenin yetersiz beslenmesi, sigara, alkol ya da uyuşturucu kullanımı, radyasyona maruz kalma, kronik/ateşli hastalıklar, ilaç kullanımı, stres ve şiddet gibi durumlar bebeği olumsuz etkiler. En sık karşılaşılanlar yetersiz-dengesiz beslenme ile alkol ve sigara kullanımına bağlı problemlerdir; gebelikte alkol kullanımı merkezi sinir sistemi hasarı ve zihinsel gerilik, sigara kullanımı ise düşük doğum kilosu ve erken doğumla ilişkilendirilmiştir.",
+        "Doğum sırasında en sık görülen komplikasyonlar; göbek kordonunun boyna dolanması sonucu oksijensiz kalma, doğum stresine bağlı mekonyum atımı, bebeğin ters pozisyonda olması ve olası doktor hatalarıdır. Bu sorunlar bebeğin kuvöze alınmasına veya kalıcı bedensel sorunlara yol açabilir.",
+        "Doğum sonrası dönemde gelişimi etkileyen kalıtım dışı etkenler fiziksel çevre ve sosyal çevre olmak üzere iki başlıkta incelenir. Beslenme bu etkenler arasında en önemlilerindendir; yetersiz beslenmenin düzeyi ve süresi arttıkça gelişimin etkilenme boyutu da artar. Fiziksel aktivite kas gelişimini destekler ancak yaşa uygun olmayan aşırı yüklenmeler büyüme plağı yaralanması gibi sakatlıklara yol açabilir."
+      ]
+    },
+    {
+      "heading": "Fiziksel Çevre ve Sosyal Çevre",
+      "paragraphs": [
+        "Fiziksel çevre, insanın içinde yaşadığı fiziksel ortamı ifade eder ve beslenme, hastalık-kazalar, iklim/mevsimler, aşırı yorgunluk, yaşam koşulları ve psikolojik durum gibi alt faktörleri içerir. Yaşam koşulları başlığı altında çocuğa sunulan imkânlar (örneğin spor yapabileceği bir alanın olup olmaması) da fiziksel çevrenin bir parçası olarak değerlendirilir. Psikolojik durumlar (stres, kaygı, depresyon, beslenme bozuklukları gibi) da büyüme ve gelişmeyi olumsuz etkileyebilir; ayrıca günümüzde teknoloji bağımlılığı ve hareketsiz yaşam da önemli bir risk faktörü olarak öne çıkmaktadır.",
+        "Sosyal çevre, bireyin etrafındaki insanları, yaşadığı çevreyi, örf ve adetleri kapsar. Bireyin kişiliği ve davranışları, çevresel etkiler altında kendini rahat hissedip hissetmemesinden ve temel ihtiyaçlarının karşılanma düzeyinden etkilenir. Ailenin tutumları çocuğun alışkanlıkları (örneğin sigara kullanımı) ve spor yapıp yapmayacağı üzerinde büyük etkiye sahiptir; sportif aktivite yapma fırsatı olmayan ya da buna izin verilmeyen bireylerde gelişimsel problemler daha yaygın görülür."
+      ]
+    },
+    {
+      "heading": "Gelişimin Türleri: Bilişsel Gelişim (Piaget Dönemleri)",
+      "paragraphs": [
+        "Gelişim; bilişsel, duyuşsal ve psikomotor gelişim olmak üzere üç temel boyutta incelenir. Bilişsel gelişim, çocukların dünyayla ilgili deneyimlerini ve hayatlarına nasıl yön vereceklerini anlama ve geliştirme sürecidir. Piaget'in kuramına göre bilişsel gelişim özümleme (çevreyle etkileşerek bilgi edinme), uyma (edinilen bilgiye tepki verme) ve adaptasyon (tepkiye uyum sağlayarak yeni tepkiler geliştirme) aşamalarından geçen dört dönemde gerçekleşir.",
+        "Duyusal Motor Dönem (0-2 yaş), bebeklerin duyularını ve motor becerilerini kullanarak dış dünyayla iletişim kurduğu, refleksif hareketlerle başlayıp istemli hareketlerle devam eden dönemdir; nesnelerin sürekliliği, taklit etme ve deneme-yanılma öğrenmeleri bu dönemin önemli kavramlarıdır. İşlem Öncesi Dönem (2-6 yaş), sembolik dönemi takiben sezgisel döneme geçişi kapsar; çocuklar mantıktan uzak, sezgilerle ilerler, sınıflandırma becerileri tek yönlüdür ve nesnelerin korunumu (örneğin kesilen bir kekin miktarının değişmediğini anlama) konusunda yetersizdirler.",
+        "Somut İşlemler Dönemi (7-11 yaş), çocukların mantığı ön plana çıkardığı, nesneler arasında nedensel ilişkiler kurabildiği ve nesne korunumu problemini çözebildiği dönemdir; ancak soyut kavramları tam anlamıyla açıklayamazlar. Soyut İşlemler Dönemi (12 yaş ve üzeri), düşünce sisteminin yetişkin seviyesine ulaştığı, değişkenler arası ilişkiler kurarak tümdengelim/tümevarım yoluyla sorunlara yaklaşılabildiği, 15 yaş civarında bilişsel gelişimin en üst seviyeye ulaştığı dönemdir."
+      ]
+    },
+    {
+      "heading": "Duyuşsal Gelişim",
+      "paragraphs": [
+        "Duyuşsal gelişim, çocukların fiziksel etkinliklere katılarak ve oyunlar oynayarak hem kendi yeteneklerini hem de çevrelerini tanıdıkları, duygusal ve sosyal özelliklerin geliştiği, yaşam boyu devam eden bir süreçtir. Bilişsel gelişimin destekleyicisidir; örneğin matematiği seven bir çocuk sevmeyen çocuğa göre bu alanda daha hızlı ilerler. Sevme, hoşlanma, acı duyma, üzülme, korku ve kaygı gibi tepkiler duyuşsal gelişimle ilgilidir ve deneyimlerin çeşitliliği, sıklığı ve kalitesiyle doğru orantılı olarak gelişir; bize uygun olmayan bir spor branşıyla uğraşmamız sonucunda o spordan soğumamız buna bir örnektir.",
+        "Erken çocukluk (2-5 yaş) döneminde çocuklar en bencil, istekleri konusunda geçimsiz ve zor ikna olan dönemdedirler; doğru ile yanlışı ayırt etmeye başlar ve vicdan gelişmeye başlar. Geç çocukluk (6-11 yaş) döneminde cinsiyet farklılıkları hissedilmeye başlar, benmerkezci tutum sürmekle birlikte kazanma-kaybetmeyi kabullenme süreci henüz tam gelişmemiştir ve çocuklar merak-macera duygusuyla kendilerini tehlikeye atabilirler."
+      ]
+    },
+    {
+      "heading": "Psikomotor (Devinişsel) Gelişim",
+      "paragraphs": [
+        "Psikomotor gelişim, sinir ve kasların işlevleri ile fiziksel yapıda meydana gelen değişimleri kapsar. Erken çocukluk (2-5 yaş) döneminde algısal motor yetenekler sürekli ilerler; beden, zaman, mekân ve yön algısı henüz tam gelişmemiştir ancak temel hareket yetenekleri hızla gelişir. Bu dönemde çocuklar oldukça hareketlidir, koşmayı yürümeye tercih ederler; ince motor becerileri (örneğin yazı yazma) kaba motor becerilerine (örneğin atma, koşma) göre daha zayıftır ve bedensel cinsiyet farklılıkları henüz belirgin değildir.",
+        "Geç çocukluk (6-11 yaş) döneminde büyüme erken çocukluğa göre yavaşlar ancak sürer; büyük kas gruplarının (kaba) gelişimi küçük kaslara (ince) oranla daha fazladır. Dominant el ve ayak bu dönemde belirlenmiş olur, el-göz koordinasyonu dönem sonunda iyi bir seviyeye ulaşır; enerji yüksek, dayanıklılık ise düşüktür ve temel hareket becerileri oldukça gelişmiş düzeydedir."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u4q1",
+      "question": "Ali ve Yeşim, boyları 48-49 cm, kiloları ise 1550 ve 1540 gr olarak doğan ikiz kardeşlerdir. Doğumlarından 6 aylık olduklarında Ali 68 cm ve 8 kg, Yeşim ise 64 cm ve 7.2 kg'ye ulaşmıştır. Aynı zamanda anne sütüne ek olarak, elma ve havuç püresi yiyebilmektedirler. Yukarıdaki bilgilere göre Ali ve Yeşim'in geçirdiği bu süreç aşağıdaki kavramlardan hangileri ile açıklanabilir?",
+      "options": [
+        "Gelişim – Hazırbulunuşluk",
+        "Büyüme – Hazırbulunuşluk",
+        "Gelişme – Olgunlaşma",
+        "Büyüme – Gelişme",
+        "Olgunlaşma – Hazırbulunuşluk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Boy ve kiloda gözlenen artış (48-49 cm'den 64-68 cm'e, 1540-1550 gr'dan 7.2-8 kg'a) niceliksel bir artıştır ve metinde 'büyüme' olarak tanımlanır. Ek gıdaları (elma, havuç püresi) sindirebilecek duruma gelmeleri ise sindirim sisteminin fonksiyonel/niteliksel değişimidir, bu da 'gelişme' kavramına karşılık gelir.",
+      "optionNotes": [
+        "Hazırbulunuşluk burada söz konusu değildir; anlatılan değişimler büyüme ve olgunlaşmaya bağlı fiziksel/fonksiyonel değişimlerdir, bir davranışa ön koşul oluşturma durumu anlatılmamıştır.",
+        "Boy-kilo artışı büyümeyi doğru tanımlar ama ek gıda yiyebilme hazırbulunuşluk değil, gelişmedir (fonksiyonel değişim).",
+        "'Gelişme' ek gıda yiyebilme için uygun olsa da boy-kilo artışı 'olgunlaşma' değil 'büyüme' ile açıklanır.",
+        "Doğru: boy-kilo artışı büyüme, sindirim sisteminin fonksiyonel ilerlemesi (yeni besinleri sindirebilme) gelişmedir.",
+        "Olgunlaşma ve hazırbulunuşluk burada tanımlanan niceliksel/niteliksel değişimleri doğrudan karşılamaz."
+      ]
+    },
+    {
+      "id": "u4q2",
+      "question": "Ahmet bebekliğinden beri suyu çok sevmektedir. Annesi ve babası Ahmet'i 5 yaşına geldiğinde yüzmeyi öğrenebilmesi için kursa yazdırmışlardır. Kısa bir süre sonra yüzmeyi öğrenen Ahmet öğretmeni tarafından yetenekli bulunmuş, farklı yüzme stilleri öğrenmeye başlamıştır ve yarışmalara katılacak düzeye gelmiştir. Yukarıdaki bilgilere göre Ahmet'in geçirdiği aşamalar aşağıdakilerden hangisinde sırasıyla ve doğru olarak verilmiştir?",
+      "options": [
+        "Gelişim - Motor Gelişim – Motor Öğrenme davranışı",
+        "Olgunlaşma – Motor Gelişim – Algısal davranış değişikliği",
+        "Gelişme – Kalıcı davranış değişikliği – Davranışların yeniden düzenlenmesi",
+        "Büyüme – Olgunlaşma - Kalıcı davranış değişikliği",
+        "Olgunlaşma – Kalıcı davranış değişikliği – Davranışların yeniden düzenlenmesi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ahmet'in 5 yaşına gelince yüzme öğrenimine hazır (olgunlaşmış) olması 'olgunlaşma'; yüzmeyi öğrenmesi 'kalıcı davranış değişikliği' olan öğrenme tanımına uygundur; farklı yüzme stillerini öğrenmesi ise var olan becerinin farklı biçimlerde yeniden şekillenmesidir, metinde tam olarak bu örnekle 'davranışın yeniden düzenlenmesi' olarak tanımlanmıştır.",
+      "optionNotes": [
+        "'Motor Gelişim' ve 'Motor Öğrenme davranışı' burada anlatılan olgunlaşma-öğrenme sürecini doğru karşılamaz.",
+        "'Algısal davranış değişikliği' metinde tanımlanan bir kavram değildir, üçüncü aşamayı yanlış tanımlar.",
+        "'Gelişme' ilk aşama için olgunlaşmadan daha az isabetlidir; metindeki tanımla tam örtüşmez.",
+        "'Büyüme' ilk aşamayı açıklamaz; burada söz konusu olan fiziksel hazır oluş değil olgunlaşmadır.",
+        "Doğru: olgunlaşma (hazır oluş) → kalıcı davranış değişikliği (yüzmeyi öğrenme) → davranışların yeniden düzenlenmesi (farklı stiller) sıralaması metindeki tanımlarla tam örtüşür."
+      ]
+    },
+    {
+      "id": "u4q3",
+      "question": "Buğra doğduğu günden iki ay sonra yüzüstü durduğunda kollarının üzerinde gövdesini yukarı kaldırabilmiştir. Kuzeni Gonca ise aynı hafta doğmuş olmalarına rağmen, hâlâ bu hareketi yapamamaktadır. İkisi de son derece sağlıklı olan kuzenlerin hareketleriyle ilgili bu durumun olası sebebi aşağıdakilerden hangisidir?",
+      "options": [
+        "Bu durum Buğra'nın üstün yetenekli olmasından kaynaklanmaktadır.",
+        "Bu durum Gonca'nın yetersiz olmasından kaynaklanmaktadır.",
+        "Bu durum bireysel olarak aynı olmalarından kaynaklanmaktadır.",
+        "Bu durum bireysel olarak farklı olmalarından kaynaklanmaktadır.",
+        "Bu durum Gonca'da gelişim geriliği olmasından kaynaklanmaktadır."
+      ],
+      "correctIndex": 3,
+      "explanation": "Buğra ve Gonca aynı hafta doğmuş ve ikisi de sağlıklı olmasına karşın biri hareketi erken yaparken diğeri yapamamaktadır. Gelişimin sırası aynı olsa da bireyler arasında zamanlama farklılıkları görülebileceğini ifade eden 'Bireysel Farklılıklar' ilkesiyle açıklanır.",
+      "optionNotes": [
+        "Üstün yeteneklilik metinde geçen bir kavram değildir ve bireysel farklılık ilkesini açıklamaz.",
+        "Gonca'nın sağlıklı olduğu belirtildiğinden 'yetersizlik' ifadesi metinle çelişir.",
+        "'Bireysel olarak aynı olmaları' durumu tam tersini, yani aralarındaki farkı açıklayamaz.",
+        "Doğru: ikisi de sağlıklı olduğu halde farklı hızda gelişmeleri, bireysel farklılıklar ilkesinin tipik bir örneğidir.",
+        "Metinde Gonca'nın sağlıklı olduğu belirtilmiş, gelişim geriliğinden bahsedilmemiştir; bu nedenle normal bireysel farklılık olarak değerlendirilmelidir."
+      ]
+    },
+    {
+      "id": "u4q4",
+      "question": "Eren düz saçlı ve ela gözlü 4 yaşında bir erkek çocuğudur. Eren'in göz rengi annesine, saçlarının düz olması ise babasına benzemektedir. Eren'in anne ve babasıyla olan bu benzerliği aşağıdaki kavramlardan hangisiyle açıklanabilir?",
+      "options": [
+        "Benzerlik",
+        "Farklılık",
+        "Değişim",
+        "Kalıtım",
+        "Gelişme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eren'in göz renginin annesine, saç yapısının babasına benzemesi, anne-babadan genler yoluyla özelliklerin aktarılması, yani 'kalıtım' ile açıklanır.",
+      "optionNotes": [
+        "'Benzerlik' metinde tanımlanan bilimsel bir gelişim kavramı değildir, soruyu açıklamak için yetersizdir.",
+        "'Farklılık' burada anlatılan ebeveyne benzeme durumunun tam tersidir.",
+        "'Değişim' metindeki genetik aktarım sürecini tanımlamaz.",
+        "Doğru: kalıtım, genetik özelliklerin ebeveynden çocuğa genler yoluyla aktarılmasıdır.",
+        "'Gelişme' niteliksel bir değişim kavramıdır, fiziksel benzerliğin kaynağını açıklamaz."
+      ]
+    },
+    {
+      "id": "u4q5",
+      "question": "Koray fiziksel açıdan çok yetenekli bir çocuktur. Ancak yaşadıkları köyde spor yapabileceği bir alan bulunmamaktadır. Bu nedenle Koray tarlada anne ve babasına yardım etmekte, okula gidip gelmektedir. Koray'ın içerisinde bulunduğu duruma bakılarak, bu ortamın oluşma sebebi aşağıdakilerden hangisidir?",
+      "options": [
+        "Kalıtım",
+        "Maddi Yetersizlik",
+        "Fiziksel Çevre",
+        "Sosyal Çevre",
+        "Kalıtım Çevre ilişkisi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde 'yaşam koşulları' başlığı fiziksel çevrenin bir alt faktörü olarak ele alınmış ve 'çocuğa sunulan imkânlar' bu kapsamda değerlendirilmiştir. Koray'ın köyünde spor yapabileceği bir alanın bulunmaması, yaşadığı fiziksel ortamın, yani fiziksel çevrenin bir sonucudur.",
+      "optionNotes": [
+        "Kalıtım genetik bir faktördür, spor alanı bulunmamasıyla doğrudan ilgisi yoktur.",
+        "'Maddi yetersizlik' metinde ayrı bir başlık olarak tanımlanmamıştır; imkân eksikliği yaşam koşulları/fiziksel çevre kapsamında ele alınır.",
+        "Doğru: yaşam koşulları (imkân eksikliği), metinde fiziksel çevrenin bir alt faktörü olarak tanımlanmıştır.",
+        "Sosyal çevre insan ilişkileri, örf-adetlerle ilgilidir; burada bahsedilen imkân eksikliği fiziksel çevreye aittir.",
+        "'Kalıtım-çevre ilişkisi' burada tartışılan spesifik durumu (spor alanı eksikliği) doğrudan tanımlamaz."
+      ]
+    },
+    {
+      "id": "u4q6",
+      "question": "Aşağıdakilerden hangisinde Piaget'in bilişsel gelişim aşamaları birlikte ve doğru olarak verilmiştir?",
+      "options": [
+        "Duyusal Motor Dönem – İşlem Dönemi – Somut İşlemler Dönemi – Soyut İşlemler Dönemi",
+        "İşlem Öncesi - İşlem Sonrası Dönem – Somut İşlem Öncesi – Somut İşlem Sonrası Dönem",
+        "Duyusal Motor Dönem - İşlem Öncesi Dönemi - Somut İşlemler Dönemi - Soyut İşlemler Dönemi",
+        "İşlem Öncesi Dönem - İşlem Dönemi – Somut İşlemler Dönemi – Soyut İşlemler Dönemi",
+        "İşlem Öncesi Dönem - İşlem Dönemi - İşlem Sonrası Dönem - Soyut İşlemler Dönemi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Piaget'nin bilişsel gelişim kuramı sırasıyla Duyusal Motor Dönem (0-2 yaş), İşlem Öncesi Dönem (2-6 yaş), Somut İşlemler Dönemi (7-11 yaş) ve Soyut İşlemler Dönemi (12 yaş ve üzeri) şeklinde dört dönemden oluşur.",
+      "optionNotes": [
+        "'İşlem Dönemi' diye tek başına bir isim metinde geçmez; dönem adları hatalı sıralanmıştır.",
+        "Dönem adları ('İşlem Sonrası Dönem' vb.) metindeki gerçek isimlerle uyuşmamaktadır.",
+        "Doğru: metindeki dört dönem bu sırayla ve bu isimlerle verilmiştir.",
+        "Sıralama ters başlamaktadır ve 'İşlem Dönemi' gibi bir isim metinde yoktur.",
+        "İsimlendirme ('İşlem Sonrası Dönem') ve sıralama metindeki gerçek dönem adlarıyla örtüşmemektedir."
+      ]
+    },
+    {
+      "id": "u4q7",
+      "question": "Mert annesine, öncesinde severek gittiği futbol kursuna artık gitmek istemediğini, sevmediğini söylemiştir. Mert'in bu davranışı aşağıdaki gelişim süreçlerinden hangisiyle açıklanabilir?",
+      "options": [
+        "Motor gelişim süreci",
+        "Bilişsel gelişim süreci",
+        "Duyuşsal gelişim süreci",
+        "Psikomotor gelişim süreci",
+        "Psikososyal gelişim süreci"
+      ],
+      "correctIndex": 2,
+      "explanation": "Not: Resmi yanıt anahtarında bu soru 'B' (Bilişsel gelişim süreci) olarak işaretlenmiştir; ancak ünite metni, bir spor branşına karşı duyulan sevgi/sevmeme duygusundaki değişimi doğrudan 'duyuşsal gelişim' başlığı altında ve tam olarak bu örnekle ('bize uygun olmayan bir spor branşıyla uğraştığımız için spordan soğumamız olasıdır') açıklamaktadır. Bu nedenle içerikle çelişen resmi harf, metne dayanılarak 'Duyuşsal gelişim süreci' (C) olarak düzeltilmiştir; bu muhtemelen bir dizgi/OCR hatasıdır. Mert'in futbol kursundan hoşlanmaması duygusal bir tutum değişikliğidir, mantık yürütmeyle ilgili bilişsel bir süreç değildir.",
+      "optionNotes": [
+        "Motor gelişim, hareket becerilerinin fiziksel gelişimiyle ilgilidir; burada duygusal bir tutum değişikliği söz konusudur.",
+        "Bilişsel gelişim algılama ve mantık yürütme süreçleriyle ilgilidir; Mert'in davranışı bir sevgi/sevmeme (duygu) değişimidir, bilişsel değildir.",
+        "Doğru: duyuşsal gelişim hoşlanma-hoşlanmama gibi duygusal tepkileri kapsar ve metindeki spor branşından soğuma örneğiyle birebir örtüşür.",
+        "Psikomotor gelişim sinir-kas işlevleriyle ilgilidir; burada fiziksel bir beceri değişikliği anlatılmamaktadır.",
+        "'Psikososyal gelişim süreci' metinde tanımlanan bir gelişim türü değildir."
+      ]
+    },
+    {
+      "id": "u4q8",
+      "question": "Becerilerin türü açısından incelendiğinde, yürüme ve paten kayma becerilerinin türü aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+      "options": [
+        "Motor Beceri - Motor Beceri",
+        "Motorgenetik beceri – Ontogenetik beceri",
+        "Ontogenetik beceri - Ontogenetik beceri",
+        "Filogenetik beceri - Ontogenetik beceri",
+        "Ontogenetik beceri – Filogenetik beceri"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yürüme, öğrenmeye gerek kalmadan kendiliğinden ortaya çıkan, büyük kas gruplarıyla yapılan bir beceridir ve metinde filogenetik becerilere örnek olarak verilmiştir. Paten kayma ise çevresel uyaranlar ve öğrenme yoluyla kazanılan, kendiliğinden ortaya çıkmayan özelleşmiş bir beceridir, dolayısıyla ontogenetiktir.",
+      "optionNotes": [
+        "'Motor beceri' genel bir kategoridir, filogenetik/ontogenetik ayrımını yansıtmaz.",
+        "'Motorgenetik beceri' metinde tanımlanan bir terim değildir.",
+        "Yürüme kendiliğinden ortaya çıktığı için ontogenetik değil filogenetiktir; bu seçenek hatalıdır.",
+        "Doğru: yürüme filogenetik, paten kayma ontogenetik bir beceridir.",
+        "Sıralama ters verilmiştir; doğrusu yürüme filogenetik, paten kayma ontogenetiktir."
+      ]
+    },
+    {
+      "id": "u4q9",
+      "question": "Motor gelişimin tarihsel gelişimine bakıldığında 4 ana periyot olduğu görülmektedir. Bu periyotlar aşağıdakilerden hangisinde sırasıyla ve doğru olarak verilmiştir?",
+      "options": [
+        "Başlangıç periyodu-Olgunlaşma periyodu-Norm/tanımlama periyodu-Süreç yönelimli dönem",
+        "Başlangıç periyodu-Norm/tanımlama periyodu-Olgunlaşma periyodu-Süreç yönelimli dönem",
+        "Başlangıç periyodu-Norm/tanımlama periyodu-Süreç yönelimli dönem-Olgunlaşma periyodu",
+        "Başlangıç periyodu-Süreç yönelimli dönem-Norm/tanımlama periyodu-Olgunlaşma periyodu",
+        "Başlangıç periyodu-Olgunlaşma periyodu-Süreç yönelimli dönem-Norm/tanımlama periyodu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Motor gelişimin tarihsel süreci sırasıyla 1787-1928 'Başlangıç periyodu', 1928-1946 'Olgunlaşma periyodu', 1946-1970 'Norm/tanımlama periyodu' ve 1980-90'lı yıllardaki 'Süreç-yönelimli dönem' şeklinde dört ana periyotta toplanmıştır.",
+      "optionNotes": [
+        "Doğru: periyotlar bu sırayla ve bu isimlerle metinde verilmiştir (1787-1928, 1928-1946, 1946-1970, 1980-90'lar).",
+        "Norm/tanımlama periyodu ile olgunlaşma periyodunun sırası ters verilmiştir; olgunlaşma kronolojik olarak norm/tanımlamadan öncedir.",
+        "Süreç yönelimli dönem en son periyottur, burada yanlış sıraya yerleştirilmiştir.",
+        "Süreç yönelimli dönem ve norm/tanımlama periyodu yanlış sırada verilmiştir, kronolojik sıra bozulmuştur.",
+        "Süreç yönelimli dönem ile norm/tanımlama periyodunun yerleri değişmiştir; doğru kronoloji metinde farklıdır."
+      ]
+    },
+    {
+      "id": "u4q10",
+      "question": "I. Yüze su geldiğinde göz kırpmak\nII. Nefesi tutarak suya dalmak\nIII. Tek gözü kırpmak\nIV. Sıcak bir nesneye değdiğinde elini çekmek\nYukarıdaki hareket çeşitlerinden hangileri refleksif hareketler grubuna girmektedir?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve IV",
+        "I, II ve III",
+        "I, III ve IV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Not: Resmi yanıt anahtarında bu soru 'C' (II ve IV) olarak işaretlenmiştir; ancak ünite metni, 'yüzümüze aniden gelen sudan kendimizi korumak için gözlerimizi kapatmamız' ve 'elimizi sıcak bir nesneye değdirdiğimizde aniden elimizi çekmemiz' ifadeleriyle tam olarak I ve IV maddelerini refleksif hareket örneği olarak vermektedir. Nefesi tutarak suya dalmak (II) öğrenilmiş/istemli bir davranıştır, tek gözü kırpmak (III) ise bilinçli/istemli bir harekettir; ikisi de refleks değildir. Bu nedenle metne dayanarak doğru yanıt 'I ve IV' (B) olarak düzeltilmiştir; resmi anahtardaki harf muhtemelen bir dizgi/OCR hatasıdır.",
+      "optionNotes": [
+        "II (nefesi tutarak dalmak) istemli, öğrenilmiş bir davranıştır, refleks değildir; bu seçenek yanlıştır.",
+        "Doğru: I ve IV, metinde doğrudan verilen refleks örnekleriyle (su karşısında göz kapama, sıcağa elini çekme) birebir örtüşür.",
+        "II istemli bir eylemdir, refleks grubuna dahil edilemez; bu seçenek metinle çelişir.",
+        "III (tek gözü kırpmak) bilinçli bir harekettir, refleks değildir; bu seçenek hem II hem III'ü hatalı şekilde dahil eder.",
+        "III istemli bir harekettir, refleks grubuna girmez; bu seçenek metinle çelişir."
+      ]
+    }
+  ]
+}

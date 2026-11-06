@@ -1,0 +1,286 @@
+{
+  "id": 3,
+  "title": "Sporda Beslenme I",
+  "learningOutcomes": [
+    "Beslenme kavramını ve önemini açıklayabilme",
+    "Enerji sistemleri ve enerji kaynaklarını açıklayabilme",
+    "Karbonhidratlar ve metabolizması hakkında bilgi sahibi olabilme",
+    "Proteinler ve metabolizması hakkında bilgi sahibi olabilme",
+    "Yağlar ve metabolizması hakkında bilgi sahibi olabilme",
+    "Vitaminler-mineraller ve metabolizması hakkında bilgi sahibi olabilme",
+    "Su ve içecekler hakkında bilgi sahibi olabilme"
+  ],
+  "keywords": [
+    "Spor Beslenmesi",
+    "Sporcu Beslenmesi",
+    "Vitamin",
+    "Mineral",
+    "Su",
+    "Karbonhidrat",
+    "Protein",
+    "Yağ"
+  ],
+  "summary": [
+    {
+      "heading": "Beslenme Kavramı ve Önemi",
+      "paragraphs": [
+        "Beslenme, sporcu performansının geliştirilmesinde kritik bir yer tutar. Organizmanın yaşamını ve fonksiyonlarını sürdürebilmesi için gerekli enerjinin (karbonhidrat, protein ve yağlardan) sağlandığı beslenme 'yeterli beslenme' olarak tanımlanır; 'dengeli beslenme' ise bunun yanında tüm besin gereksinimlerinin kişinin ihtiyaçlarına en uygun ve sağlığı koruyacak şekilde karşılanmasını da içerir. Uluslararası Olimpiyat Komitesi (IOC) besini, sağlığın ve vücut fonksiyonlarının korunması, yaşamın ve büyümenin sürdürülmesi için tüketilen gıda maddeleri olarak tanımlar.",
+        "Dengeli beslenmenin sporcu performansı üzerindeki etkileri şöyle özetlenebilir: istenen antrenman uyumlarının gerçekleşmesi, antrenman sonrası toparlanmanın hızlanması ve bağışıklık sisteminin desteklenmesi, uyku kalitesinin artırılması, antrenman sırasındaki konsantrasyonun geliştirilmesi ve sakatlık/hastalık durumlarında tedavi-rehabilitasyon süreçlerine katkı sağlanmasıdır. Antrenmanlar sırasında kaslar daha sık ve güçlü kasılır, solunum hızı artar, kalp atım sayısı ve pompalanan kan miktarı yükselir; bu etkenlerin birleşimi sporcuların sporcu olmayanlara kıyasla daha yüksek enerji harcamasına sahip olmasına yol açar.",
+        "Büyüme dönemindeki çocuk ve genç sporcularda beslenmenin önemi daha da artar. Çocuklarda kilogram başına enerji harcaması yetişkinlere göre daha yüksektir (7 yaşında bir çocukta yaklaşık %25 daha fazla); bunun nedeni kaslar arası koordinasyonun henüz tam gelişmemiş olmasıdır. Enerji alımının yetersiz olması ergenlikte gecikmeye, boy uzamasının olumsuz etkilenmesine, kemik gelişiminde problemlere, sakatlık riskinde artışa, menstrüasyon döngüsünde düzensizliklere ve büyüme-gelişme üzerinde ciddi olumsuz sonuçlara yol açabilir. Çocuk ve ergenlerde enerji ihtiyacı yaş gruplarına ve cinsiyete göre (Tablo 3.1) hesaplanabilir; sportif aktivite için gereken ek enerji de bu değere eklenir.",
+        "Sporcuda enerji gereksinimini yaş, cinsiyet, vücut kompozisyonu, antrenmanın türü ve antrenman ortamının çevresel koşulları (zemin, sıcaklık, nem, yükselti) etkiler. Sporcu beslenmesinde öncelik sağlığın korunmasıdır: sporcu sağlıklı olduğu sürece antrenmana adaptasyonu, toparlanması ve fizyolojik-bilişsel performansı daha iyi olur, hastalık ve sakatlık riski azalır."
+      ]
+    },
+    {
+      "heading": "Enerji Sistemleri ve Enerji Kaynakları",
+      "paragraphs": [
+        "Kalori, 1 gram suyun sıcaklığını 1°C yükseltmek için gereken enerji miktarıdır; 1 kilokalori (kkal) 1000 kaloriye, 1 kalori ise yaklaşık 4,184 joule'e eşittir. Vücutta enerji oluşturan makro besin öğeleri olan karbonhidrat (yaklaşık 4 kkal/g), protein (yaklaşık 4 kkal/g) ve yağ (yaklaşık 9 kkal/g) sindirim sonrası enerjiye dönüşür. Vitaminler, mineraller ve su ise kalori içermez ancak enerji oluşum süreçlerine yardımcı olur. Açığa çıkan enerji; büyüme-gelişme, hücre yapım-onarımı, organların verimli çalışması, zararlı maddelerin uzaklaştırılması, vücut sıcaklığının ayarlanması ve fiziksel hareket için kullanılır.",
+        "Günlük enerji harcaması; bazal metabolizma (organ ve sistemlerin çalışması için gerekli enerji, günlük harcamanın %60-75'i), besinlerin termik etkisi (toplam harcamanın ~%10'u) ve fiziksel aktivite için harcanan enerjinin toplamından oluşur. Bazal metabolik hız hesaplamasında en çok kullanılan formül Harris-Benedict formülüdür (Erkek: 66,5 + 13,75xA + 5,03xB - 6,75xY; Kadın: 655,1 + 9,56xA + 1,85xB - 4,68xY; A: ağırlık-kg, B: boy-cm, Y: yaş). Yağsız vücut kütlesine dayanan Cunningham formülü de alternatif bir yöntemdir. Erkekler kadınlardan daha yüksek bazal metabolizmaya sahiptir; yaş, hormonal fonksiyonlar, menstrüasyon döngüsü, açlık süresi, uyku ve ortam sıcaklığı bazal metabolizmayı etkileyen diğer faktörlerdir.",
+        "Hücrede enerji sağlayan temel molekül ATP'dir (adenozintrifosfat); yıkımı sonucu 7-12 kkal enerji açığa çıkar ancak vücuttaki ATP deposu sınırlıdır (80-100 gram) ve sürekli yenilenmesi gerekir. Kısa süreli, yüksek şiddetli egzersizlerde ATP, oksijene gerek kalmadan kreatin fosfattan sağlanır (ATP-CP veya fosfojen sistemi). Kreatin fosfat tükendiğinde karbonhidratlar (glikoz) parçalanarak enerji sağlanır; oksijen yetersizse pirüvik asit laktik aside döner, bu sisteme anaerobik glikoliz veya laktik asit sistemi denir ve 1-3 dakika süren yüksek yoğunluklu aktivitelerde (100-800 metre) etkilidir. Laktik asit birikimi asit-baz dengesini bozarak kas kasılma kalitesini düşürür.",
+        "Oksijen varlığında karbonhidrat, yağ ve proteinlerin parçalanarak karbondioksit ve suya dönüşmesiyle yüksek miktarda ATP üretilen sisteme aerobik (oksidatif) sistem denir. Bu sistemin etkinliğini belirleyen önemli faktör sporcunun maksimal oksijen tüketim kapasitesidir (VO2Maks). Kısa süreli yüksek şiddetli antrenmanlarda enerji temel olarak karbonhidrattan, anaerobik yolla (ATP-CP ve laktik asit sistemleri) sağlanır; antrenman süresi 10 dakikayı aştığında enerjinin büyük kısmı aerobik sistemden, karbonhidrat ağırlıklı olarak karşılanır. Süre 60 dakikayı geçtiğinde sınırlı kas-karaciğer glikojen depoları tükenmeye başlar ve bu durum önemli bir performans kısıtlayıcı faktör haline gelir."
+      ]
+    },
+    {
+      "heading": "Karbonhidratlar ve Metabolizması",
+      "paragraphs": [
+        "Karbonhidratlar vücudun temel enerji kaynağıdır; kan dolaşımının düzenlenmesi, kas-karaciğer dokusu organizasyonu, hücre işlevleri, sıvı-elektrolit dengesi ve beynin temel yakıtı olan glikoz sayesinde bilişsel fonksiyonlarda görev alır. Basit karbonhidratlar (monosakkarit: glikoz, galaktoz, früktoz; disakkarit: laktoz, sukroz, maltoz) hızlı sindirilip emilirken, üç veya daha fazla şeker biriminden oluşan polisakkaritler (kompleks karbonhidratlar: ekmek, pirinç, makarna, sebze, tahıl, kurubaklagil) daha yavaş sindirilir ve glisemik indeksleri daha düşüktür. Sporcularda günlük karbonhidrat alımının %80-85'i kompleks karbonhidratlardan oluşmalıdır.",
+        "Karbonhidratlar karaciğerde glikojen olarak ~100 gram, kasta ~300-400 gram, kanda glikoz olarak 15-20 gram depolanır; bu depolar antrenman ve açlıkla boşalır, düzenli antrenman ve doğru beslenmeyle depo kapasitesi 2 katına kadar artırılabilir. Kas glikojen depoları, maksimal oksijen tüketiminin %65-80'i şiddetindeki antrenmanlarda 90. dakikadan itibaren veya yüksek şiddetli 20-30 dakikalık interval antrenmanlarda tamamen boşalabilir. Glisemik indeks, alınan birim besinin kan şekerini yükseltme hızını gösterir; basit karbonhidratlar genelde yüksek, kompleks karbonhidratlar genelde düşük-orta glisemik indekse sahiptir (Tablo 3.3).",
+        "Antrenman öncesi büyük öğün, antrenmandan yaklaşık 3 saat önce, düşük-orta glisemik indeksli katı karbonhidratlar (%60-65, 3-5 g/kg) içerecek şekilde, düşük yağlı ve düşük posalı planlanmalıdır. Antrenman sırasında (özellikle 1 saati aşan antrenmanlarda) saat başına ~60 gram karbonhidrat, %6-8 oranında karbonhidrat içeren sporcu içecekleriyle 15-20 dakikada bir tüketilmelidir; süre 3 saate yaklaştığında bu miktar %50 artırılmalıdır.",
+        "Antrenman sonrası yüksek karbonhidratlı diyete devam edilmelidir: doğru beslenmeyle glikojen depoları 24-48 saatte, düşük karbonhidratlı diyetle ise 72 saatte dolar. Antrenman bitiminde en kısa sürede 1,5 g/kg yüksek glisemik indeksli karbonhidrat (yanında karbonhidratın 1/3'ü oranında protein), sonraki 5 saat boyunca 45-60 dakika aralıklarla 1,2 g/kg karbonhidrat tüketimi önerilir; ilk 6 saat glikojen yeniden dolumu için kritiktir, ilk 2 saat ise en kritik dönemdir. Yarışma öncesi modern karbonhidrat yükleme yönteminde, yarışmadan 5-7 gün önce karbonhidrat alımı 10-12 g/kg'a çıkarılırken antrenman yoğunluğu aşamalı olarak azaltılır."
+      ]
+    },
+    {
+      "heading": "Proteinler ve Metabolizması",
+      "paragraphs": [
+        "Proteinler, antrenmanla oluşan hücre yıpranma ve hasarlarının tamirinde, kas dokusu onarımı ve korunmasında, hemoglobin ve antikor üretiminde, enzim-hormon yapımında, asit-baz ve sıvı dengesinde, kas büyüme-gelişmesinde ve çocuk sporcularda büyüme-gelişmede hayati rol oynar. Proteinlerin yapı taşları aminoasitlerdir; bilinen 22 aminoasitten 8'i vücutta sentezlenemez ve besinlerle alınması zorunludur (esansiyel aminoasitler: lösin, izolösin, valin, fenilalanin, lizin, treonin, metionin, triptofan). Lösin, izolösin ve valinden oluşan dallı zincirli aminoasitler (BCAA), özellikle glikojen depolarının tükendiği uzun antrenmanların son evrelerinde enerji üretimine katkıda bulunur (toplam enerjinin ~%10'u).",
+        "Protein kalitesi açısından hayvansal proteinler (yumurta, et, süt: %91-100 kullanılabilirlik) bitkisel proteinlere (tahıl %79-90, kurubaklagil %69-90) göre üstündür; çünkü bitkisel proteinler esansiyel aminoasit içeriği açısından eksiktir ('eksik protein'). Günlük protein tüketimi; sedanter bireylerde 0.8-1 g/kg, dayanıklılık sporcularında 1.2-1.7 g/kg, kuvvet-güç sporcularında 1.6-2 g/kg'dır; kas kütlesi artışı hedeflenen bazı dönemlerde 2.5-3 g/kg kullanılabilir, bunun üzerindeki miktarlar fayda sağlamaz ve yan etkilere yol açabilir. Sporcularda günlük enerjinin %15-20'sinin proteinden sağlanması önerilir.",
+        "ISSN (Uluslararası Spor Beslenmesi Birliği), antrenman öncesi 0.15-0.25 g/kg protein alımının antrenmandan 3-4 saat önceki öğünde (karbonhidratla birlikte) alınmasını, günlük 4-6 öğünde toplam 2 g/kg protein tüketilmesini önerir. Öğün başına 0.40-0.55 g/kg (20-40 gram) kaliteli protein, her 3-4 saatte bir karbonhidratla birlikte tüketilmelidir. Antrenman sonrası da aynı miktarda protein alınmaya devam edilmeli; süt ve çikolatalı süt (500 ml) kas onarımını ve toparlanmayı hızlandırır. Uykudan yarım saat önce alınan 30-40 gram kazein (süt, yoğurt), gece boyunca kas protein sentezini destekleyerek kas büyümesi ve onarımına katkıda bulunur."
+      ]
+    },
+    {
+      "heading": "Yağlar ve Metabolizması",
+      "paragraphs": [
+        "Yağlar vücudun en büyük enerji deposudur ve trigliserid formunda saklanır; 1 gram yağ ~9 kkal enerji verir, bu karbonhidrat ve proteinin verdiği enerjinin iki katından fazladır. Yağlar; organların çevresini sararak darbe-travmadan koruma, derialtı yağı ile vücut sıcaklığının korunması, büyüme-gelişmenin desteklenmesi, beyin-göz-cilt sağlığı, yağda eriyen vitaminlerin (A, D, E, K) alınıp kullanılması ve hücre zarı-sinir lifi oluşumu gibi görevler üstlenir. Sporcularda yağların diyetteki oranının %15-25 arasında olması önerilir; bu oranın %15'in altına düşmesi yağda eriyen vitaminlerin emiliminde eksikliğe yol açabilir.",
+        "Yağ asitleri, karbon zincirindeki çift bağ durumuna göre doymuş, tekli doymamış ve çoklu doymamış yağ asitleri olarak sınıflanır. Doymuş ve tekli doymamış yağ asitleri vücutta sentezlenebilirken, çoklu doymamış yağ asitleri (omega 3 ve omega 6) dışarıdan alınması zorunlu olduğundan esansiyel yağ asitleri olarak adlandırılır. Omega 3 kaynakları balık, balık yağı, ceviz, keten tohumu; omega 6 kaynakları ayçiçeği ve mısırözü yağıdır. Dünya Sağlık Örgütü omega6/omega3 oranının 5'e 1 olmasını önerir, ancak çoğu ülkede bu oran 16-25'e 1'dir ki bu toplum sağlığı riski oluşturur. Doymuş yağ asitlerinin aşırı tüketimi zararlı kolesterolü artırarak kalp-damar hastalığı riskini yükseltir; toplam yağ alımının %20'yi oluşturduğu bir düzende doymuş yağ tüketimi %7'yi geçmemelidir.",
+        "Yağlar karbonhidratlara göre vücutta ~50 kat daha fazla depolanabilir, ancak enerjiye dönüşümleri için gereken oksijen miktarı karbonhidrattan daha yüksek olduğundan antrenman sırasında (özellikle maksimal oksijen tüketiminin %60'ı üzerindeki şiddetlerde) öncelikli enerji kaynağı değildir; dinlenim ve düşük şiddetli antrenmanda öncelikli olarak kullanılır. Yüksek yağ tüketimi doygunluk hissi ve iştah baskılanması yaratarak yüksek karbonhidrat ihtiyacının karşılanmasını zorlaştırabilir; ayrıca sindirimi uzun sürdüğünden mide problemleri ve şişkinliğe yol açabilir. Çoklu doymamış yağ asitleri; insülin, testosteron ve büyüme hormonu sentezine katkıda bulunduğundan haftada 2-3 kez balık tüketimi önerilir."
+      ]
+    },
+    {
+      "heading": "Vitaminler ve Mineraller",
+      "paragraphs": [
+        "Vitaminler, vücut tarafından üretilemeyen ancak biyolojik faaliyetin devamı için gerekli organik bileşiklerdir; mikro besin olarak adlandırılır ve doğrudan enerji vermez ancak makro besinlerden enerjinin açığa çıkarılmasına yardımcı olur. Yağda eriyen vitaminler (A, D, E, K) vücutta depolanabilir ve fazlası toksik etki yaratabilir; emilimleri için diyetle yeterli yağ (toplam kalorinin en az %15'i) gerekir. Suda eriyen vitaminler (B grubu ve C vitamini) depolanmaz, fazlası idrarla atılır. Üst düzey sporcularda vitamin ihtiyacı normal insanların 3-6 katı olabilir, ancak dengeli beslenen sporcularda genelde ek takviyeye gerek yoktur; düşük enerjili diyetle beslenen, vegan/vejetaryen, hamile veya kansızlık riski olan sporcularda uzman kontrolünde takviye gerekebilir.",
+        "A vitamini görme, kemik sağlığı, bağışıklık ve antioksidan görevleri üstlenir. D vitamini kalsiyum-fosfor emilimi, kemik gelişimi ve testosteron üretiminde görev alır; sporcularda eksikliği yaygındır, kan düzeyinin 60 ng/ml'de tutulması için güneşlenme veya günlük 4000 IU takviye önerilir. E vitamini güçlü bir antioksidandır, eksikliği nadirdir. K vitamini kan pıhtılaşması ve kemik metabolizmasında görev alır; K2 formu kalsiyumu kemik ve dişlere yönlendirir. B grubu vitaminleri (Tiamin, Riboflavin, Niasin, Pantotenik asit, Pridoksin, Biyotin, Folik asit, Kobalamin/B12) enerji metabolizması, sinir sistemi ve kan hücresi üretiminde rol oynar; B12 sadece hayvansal gıdalarda bulunduğundan vegan/vejetaryenlerde eksiklik riski taşır. C vitamini kolajen yapımı, bağışıklık ve antioksidan etkisiyle önemlidir; ısıya karşı çok hassastır ve kolay okside olur.",
+        "Mineraller, vücutta sentezlenemeyen ve mutlaka besinlerle alınması gereken inorganik maddelerdir; vücut ağırlığının ~%4'ünü oluşturur. Makro mineraller (potasyum, fosfor, kalsiyum, magnezyum, sodyum, klor, sülfür) daha büyük miktarlarda gerekirken mikro mineraller (demir, çinko, iyot, krom, flor, kobalt, molibden, manganez, selenyum, bakır) daha az miktarda gerekir. Kalsiyum kemik sağlığı ve kas kasılması için önemlidir, kullanımı D vitamini ve magnezyuma bağlıdır. Potasyum ve sodyum sıvı-elektrolit dengesini korur. Demir, hemoglobin ve myoglobin yapısında bulunarak oksijen taşınmasını sağlar; demir eksikliği anemisi özellikle dayanıklılık sporcularında ve kadın sporcularda sık görülür, C vitamini demir emilimini artırırken çay-kahve emilimi düşürür."
+      ]
+    },
+    {
+      "heading": "Su ve İçecekler",
+      "paragraphs": [
+        "Su, vücut sıvı dengesinin sağlanmasında büyük önem taşır; insan vücudundaki su oranı %50-75 arasında değişir (çocuklarda ~%75, yetişkin kadınlarda ~%55, erkeklerde %50-55). Su; besin taşınımı, biyokimyasal reaksiyonlar, atık maddelerin uzaklaştırılması, vücut sıcaklığının düzenlenmesi ve eklem kayganlığı gibi görevler üstlenir. Hidrasyon, vücuda alınan ve vücuttan atılan suyun eşit olmasıdır; idrar, ter, solunum ve dışkıyla kaybedilen su, yiyecek ve içeceklerle yerine konmalıdır.",
+        "Antrenman sırasında terle kaybedilen vücut ağırlığının %2'si bozulmuş aerobik performansa, %4'ü kassal iş çıktısında düşüşe, %5'i sıcak çarpmasına, %7'si halüsinasyonlara, %10'u ise sıcak çarpması ve kardiyovasküler çöküşe yol açabilir (Tablo 3.7). Bu nedenle antrenman öncesi son öğünde 2-2.5 su bardağı (5-10 ml/kg), antrenmandan 20-30 dakika önce 1-2 su bardağı su içilmesi; antrenman 1 saati aştığında her 20 dakikada bir 150-250 ml soğuk (4-8°C), elektrolit ve %6-8 karbonhidrat içeren içecek tüketilmesi (saat başına 60 gram karbonhidrat, 0.4-0.8 litre sıvı) önerilir. Sıcaklık 30°C'yi veya süre 2.5 saati aştığında bu miktarlar %50 artırılmalıdır.",
+        "Sıvı ihtiyacının belirlenmesi için sporcu antrenman öncesi ve sonrası tartılmalıdır (terli kıyafetle veya dolu mesane ile tartılmamalıdır). Örneğin vücut ağırlığı 1,6 kg azalan, 300 ml su içen ve 100 ml idrar çıkaran bir sporcunun ter kaybı 1600+300-100=1800 ml'dir. İdrar rengi de hidrasyon durumunu gösterir; açık renkler iyi hidrasyonu, koyu renkler ciddi dehidrasyonu işaret eder. Kaybedilen sıvının %120-150'si, takip eden 24 saat içinde yerine konmalıdır (örneğin 3 litre kayıp için 4.5 litre sıvı). Sadece su tüketmek sodyum kaybı ve diüretik etkiyle su tutulumunu olumsuz etkileyebileceğinden, su yanında süt, ayran, maden suyu ve sporcu içecekleri de tüketilmelidir; çikolatalı süt özellikle kas onarımı ve sıvı-elektrolit kaybının giderilmesinde etkilidir."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u3q1",
+      "question": "Aşağıdakilerden hangisinde vücutta enerji oluşturan makro besin öğeleri doğru şekilde verilmiştir?",
+      "options": [
+        "Protein - Yağ - Karbonhidrat",
+        "Vitamin - Mineral - Su",
+        "Lösin - İzolösin - Valin",
+        "Mineral - Vitamin - Su",
+        "Sodyum - Potasyum - Magnezyum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vücutta enerji oluşturan (makro) besin öğeleri karbonhidrat, protein ve yağlardır; bu üç öğe sindirim sonrası enerjiye dönüştürülür ve 1 gramları sırasıyla 4, 4 ve 9 kilokalori enerji verir. Vitamin, mineral ve su ise enerji oluşumuna yardımcı olan ancak kalorisi olmayan besin öğeleridir.",
+      "optionNotes": [
+        "Doğru yanıt: karbonhidrat, protein ve yağ vücutta enerji oluşturan üç temel (makro) besin öğesidir.",
+        "Yanlış: vitamin, mineral ve su enerji oluşumuna yardımcı olur ancak kalorileri yoktur, enerji oluşturmazlar.",
+        "Yanlış: lösin, izolösin ve valin dallı zincirli aminoasitlerdir; bir besin öğesi grubu değil proteinin yapı taşlarıdır.",
+        "Yanlış: mineral, vitamin ve su da enerji oluşturan değil, enerji oluşumuna yardımcı olan öğelerdir.",
+        "Yanlış: sodyum, potasyum ve magnezyum minerallerdir ve kalori içermez, enerji oluşturmazlar."
+      ]
+    },
+    {
+      "id": "u3q2",
+      "question": "Aşağıdakilerden hangisi antrenman sırasında organizmada gözlenen değişikliklerden biri değildir?",
+      "options": [
+        "Solunum hızının artması",
+        "Sinir iletim hızının yavaşlaması",
+        "Kas kasılmasının sıklaşması ve güçlenmesi",
+        "Enerji harcamasının artması",
+        "Kalp atım hızının (KAH) artması"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antrenman sırasında kaslar daha sık ve güçlü kasılır, solunum hızı artar, kalp atım sayısı ve pompalanan kan miktarı yükselir, dolayısıyla enerji harcaması artar. Sinir iletim hızının yavaşlaması ise antrenmanla gözlenen bir değişiklik değildir; metinde belirtilen değişiklikler arasında yer almaz.",
+      "optionNotes": [
+        "Bu bir değişikliktir (yanlış seçenek değil): aktif kaslar daha fazla oksijen gerektirdiğinden antrenmanda solunum hızı artar.",
+        "Doğru yanıt: metinde belirtilen fizyolojik değişiklikler arasında sinir iletiminin yavaşlaması yoktur, bu ifade gerçek değişikliklerle çelişir.",
+        "Bu bir değişikliktir (yanlış seçenek değil): antrenmanlar sırasında kaslar daha sık ve daha güçlü kasılır.",
+        "Bu bir değişikliktir (yanlış seçenek değil): aktif kaslar için daha fazla enerji kullanıldığından enerji harcaması artar.",
+        "Bu bir değişikliktir (yanlış seçenek değil): kalp atım sayısı ve vücuda pompalanan kan miktarı antrenmanda artar."
+      ]
+    },
+    {
+      "id": "u3q3",
+      "question": "Vücutta enerji oluşturan besin öğelerinin 1 gramının sağladığı kalori miktarları hangi seçenekte doğru verilmiştir?",
+      "options": [
+        "Karbonhidrat=4 – Protein=4 – Yağ=9",
+        "Karbonhidrat=9 – Protein=4 – Yağ=4",
+        "Karbonhidrat=4 – Protein=9 – Yağ=4",
+        "Karbonhidrat=4 – Protein=9 – Yağ=9",
+        "Karbonhidrat=4 – Protein=4 – Yağ=4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bir gram karbonhidrat yaklaşık 4 kilokalori, bir gram protein yaklaşık 4 kilokalori, bir gram yağ ise yaklaşık 9 kilokalori enerji verir. Yağın enerji değeri karbonhidrat ve proteinin enerji değerinin iki katından fazladır.",
+      "optionNotes": [
+        "Doğru yanıt: karbonhidrat ve protein 4 kkal/g, yağ 9 kkal/g enerji verir.",
+        "Yanlış: karbonhidrata 9 kkal/g değerinin verilmesi hatalıdır; karbonhidrat 4 kkal/g enerji verir.",
+        "Yanlış: proteine 9 kkal/g değerinin verilmesi hatalıdır; protein 4 kkal/g enerji verir.",
+        "Yanlış: hem protein hem yağa 9 kkal/g değeri verilmiş, ancak sadece yağ 9 kkal/g'dır.",
+        "Yanlış: yağ 4 kkal/g olarak gösterilmiş, ancak yağ gerçekte 9 kkal/g enerji verir."
+      ]
+    },
+    {
+      "id": "u3q4",
+      "question": "Aşağıdakilerden hangisinde yağda çözünen (eriyen) vitaminler doğru şekilde verilmiştir?",
+      "options": [
+        "B grubu vitaminleri ve C vitamini",
+        "B12 vitamini",
+        "Tiamin ve Riboflavin",
+        "D, A, E ve K vitaminleri",
+        "Riboflavin ve Tiamin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yağda eriyen vitaminler A, D, E ve K vitaminleridir. Bu vitaminlerin vücutta emilmesi, taşınması ve atılması için diyetle yeterli miktarda yağ alınması gerekir ve fazlası vücutta (karaciğerde) depolanır. B grubu vitaminleri ve C vitamini ise suda eriyen vitaminlerdir.",
+      "optionNotes": [
+        "Yanlış: B grubu vitaminleri ve C vitamini suda eriyen vitaminlerdir, yağda eriyen değildir.",
+        "Yanlış: B12 bir B grubu vitaminidir ve suda eriyen vitaminler sınıfına girer.",
+        "Yanlış: Tiamin (B1) ve Riboflavin (B2) B grubu vitaminleridir, suda eriyen vitaminlerdendir.",
+        "Doğru yanıt: yağda eriyen vitaminler A, D, E ve K vitaminleridir.",
+        "Yanlış: Riboflavin ve Tiamin B grubu vitaminleri olup suda eriyen vitaminlerdendir."
+      ]
+    },
+    {
+      "id": "u3q5",
+      "question": "Antrenman sonucunda 3 litre sıvı kaybetmiş bir sporcu, sıvı dengesinin sağlanabilmesi için sonraki 24 saat içerisinde yaklaşık kaç litre sıvı tüketmelidir?",
+      "options": [
+        "2.5",
+        "3",
+        "8",
+        "5",
+        "4.5"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yeterli rehidrasyonun sağlanabilmesi için kaybedilen sıvı miktarının %120-150'si kadar sıvının takip eden 24 saat içinde tüketilmesi gerekir. 3 litre kaybeden bir sporcu için bu, 3 x 1.5 = 4.5 litreye karşılık gelir; metindeki örnek de bu hesaplamayı doğrular.",
+      "optionNotes": [
+        "Yanlış: 2.5 litre, kaybedilen sıvının kendisinden (3 litre) bile azdır, yeterli rehidrasyonu sağlamaz.",
+        "Yanlış: kaybedilen sıvının sadece birebir (%100) karşılanması, devam eden kayıpları ve elektrolit ihtiyacını dikkate almadığından yetersizdir.",
+        "Yanlış: 8 litre, önerilen %120-150'lik orandan belirgin şekilde fazladır.",
+        "Yanlış: 5 litre gerçek değere yakın görünse de metindeki örnekte hesaplanan tam değer değildir.",
+        "Doğru yanıt: kaybedilen sıvının %150'si olan 4.5 litre, metindeki örnekte verilen doğru hesaplamadır (3 litre x 1.5 = 4.5 litre)."
+      ]
+    },
+    {
+      "id": "u3q6",
+      "question": "Egzersiz sonrası boşalan enerji (glikojen) depolarının doldurulmasında diyet profili önem taşır; doğru planlanmamış bir beslenme, 24 saatte dolabilen depoların 72 saatte dolmasına yol açabilir. Buna göre antrenman sonrası beslenme/öğün nasıl planlanmalıdır?",
+      "options": [
+        "Tüm besin öğeleri yüksek miktarlarda tüketilmeli",
+        "Yüksek oranda karbonhidrat, orta düzeyde protein, düşük yağ tüketilmeli",
+        "Yüksek oranda yağ ve protein, düşük karbonhidrat tüketilmeli",
+        "Yüksek oranda protein, düşük karbonhidrat ve yağ tüketilmeli",
+        "Yüksek yağ, düşük karbonhidrat ve protein tüketilmeli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antrenman sonrası glikojen depolarının hızla yeniden doldurulması için yüksek oranda (özellikle yüksek glisemik indeksli) karbonhidrat, kas onarımı için orta düzeyde protein tüketilmelidir; yağ ise sindirimi geciktirip mide rahatsızlığına yol açabileceğinden ve karbonhidrat/protein alımını kısıtlayabileceğinden düşük tutulmalıdır.",
+      "optionNotes": [
+        "Yanlış: tüm besin öğelerinin yüksek tüketimi, özellikle yüksek yağ alımı, sindirimi geciktirerek glikojen ve protein alımını güçleştirir.",
+        "Doğru yanıt: antrenman sonrası beslenmede öncelik glikojen depolarının hızlı doldurulması için yüksek karbonhidrat, kas onarımı için orta düzeyde protein, düşük yağ tüketimidir.",
+        "Yanlış: düşük karbonhidrat alımı, glikojen depolarının toparlanmasını 72 saate kadar geciktirir.",
+        "Yanlış: karbonhidratın düşük tutulması glikojen yeniden dolumunu olumsuz etkiler; oysa antrenman sonrası karbonhidrat önceliklidir.",
+        "Yanlış: hem yüksek yağ hem düşük karbonhidrat ve protein, toparlanmayı en çok geciktiren uygun olmayan kombinasyondur."
+      ]
+    },
+    {
+      "id": "u3q7",
+      "question": "Birincil işlevleri büyüme, onarım ve yenileme olduğundan enerji metabolizmasında diğer besin öğeleri kadar yer almayan besin öğesi aşağıdakilerden hangisidir?",
+      "options": [
+        "Magnezyum",
+        "Asetilkolin",
+        "Karbonhidrat",
+        "Yağ",
+        "Protein"
+      ],
+      "correctIndex": 4,
+      "explanation": "Proteinlerin asıl görevi hücrelerin tamiri, yenilenmesi, büyüme-gelişme ve doku onarımıdır; karbonhidrat miktarı ve kalitesi yeterli olduğunda proteinlerin enerji metabolizmasına katılımı azalır ve proteinler asıl işlevlerine (kas dokusu onarımı ve korunması) daha fazla katkı sağlar. Karbonhidrat ve yağ ise vücudun öncelikli enerji kaynaklarıdır.",
+      "optionNotes": [
+        "Yanlış: magnezyum bir mineraldir, enerji oluşumuna yardımcı olur ama 'büyüme-onarım birincil görevi' tanımına uymaz.",
+        "Yanlış: asetilkolin bir sinir sistemi bileşiğidir, bir besin öğesi değildir.",
+        "Yanlış: karbonhidratlar vücudun temel ve öncelikli enerji kaynağıdır; birincil görevi enerji sağlamaktır.",
+        "Yanlış: yağlar da vücudun önemli enerji kaynaklarından biridir, özellikle dinlenim ve düşük şiddetli aktivitede öncelikli olarak kullanılır.",
+        "Doğru yanıt: proteinin birincil işlevi büyüme, onarım ve yenilemedir; yeterli karbonhidrat alımı varken enerji metabolizmasındaki katkısı sınırlıdır."
+      ]
+    },
+    {
+      "id": "u3q8",
+      "question": "Egzersiz öncesi kas ve karaciğer glikojen depolarının doygunluğunun sağlanması açısından antrenmandan 3-4 saat önce tüketilmesi gereken karbonhidrat türü ve formu aşağıdakilerden hangisidir?",
+      "options": [
+        "Düşük glisemik indeksli - katı karbonhidratlar",
+        "Orta-düşük glisemik indeksli - katı karbonhidratlar",
+        "Orta-düşük glisemik indeksli - sıvı ve katı karbonhidratlar",
+        "Yüksek glisemik indeksli - sıvı ve katı karbonhidratlar",
+        "Orta-düşük glisemik indeksli - sıvı karbonhidratlar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde antrenman öncesi büyük öğünün yaklaşık 3 saat önce tüketilmesi ve yüksek oranda düşük-orta glisemik indeksli katı karbonhidratları (%60-65, 3-5 gram/kilogram) içermesi gerektiği belirtilmiştir; bu öğün ayrıca sindirim rahatsızlıklarını azaltmak için düşük yağlı ve düşük posalı olmalıdır.",
+      "optionNotes": [
+        "Yanlış: metinde 'düşük' değil, 'düşük-orta' (orta-düşük) glisemik indeksli karbonhidratlardan bahsedilir.",
+        "Doğru yanıt: metin, antrenman öncesi büyük öğünün orta-düşük glisemik indeksli katı karbonhidratları içermesi gerektiğini belirtir.",
+        "Yanlış: bu zaman diliminde önerilen form katı karbonhidratlardır; sıvı-jel formdaki karbonhidratlar öğün sonrası-antrenman arasındaki dönem için önerilir.",
+        "Yanlış: antrenman öncesi büyük öğün için yüksek glisemik indeks önerilmez, bu daha çok antrenman sonrası dönem için geçerlidir.",
+        "Yanlış: bu zaman diliminde sıvı karbonhidrat değil, katı karbonhidrat önerilir."
+      ]
+    },
+    {
+      "id": "u3q9",
+      "question": "Aşağıdakilerden hangisi yağların vücuttaki görevleri arasında yer almaz?",
+      "options": [
+        "Organları sararak dış etkilere (darbe/travma) karşı korumak",
+        "Vücut sıcaklığının korunmasına yardımcı olmak",
+        "Egzersiz sonrası oluşan kas hasarının onarımına yardımcı olmak",
+        "Düşük şiddetli egzersizler için enerji kaynağı sağlamak",
+        "Bazı vitaminlerin (A, D, E, K) sindirimi ve emilmesine katkıda bulunmak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yağlar; organların çevresini sararak darbe ve travmalardan koruma, derialtı yağı ile vücut sıcaklığının korunması, yağda eriyen vitaminlerin (A, D, E, K) alınması ve kullanılması, dinlenim ve düşük şiddetli antrenmanda öncelikli enerji kaynağı olma gibi görevler üstlenir. Egzersiz sonrası oluşan kas hasarının onarımı ise proteinlerin, özellikle esansiyel aminoasitlerin görevidir, yağların görevi değildir.",
+      "optionNotes": [
+        "Bu bir yağ görevidir (yanlış seçenek değil): yağlar organların çevresini sararak darbe ve travmalardan korur.",
+        "Bu bir yağ görevidir (yanlış seçenek değil): derialtı yağı vücut sıcaklığının korunmasına yardımcı olur.",
+        "Doğru yanıt: kas hasarının onarımı proteinlerin (özellikle esansiyel aminoasitlerin) görevidir, yağların görevleri arasında yer almaz.",
+        "Bu bir yağ görevidir (yanlış seçenek değil): dinlenim durumunda ve düşük şiddetli antrenmanda yağlar öncelikli enerji kaynağıdır.",
+        "Bu bir yağ görevidir (yanlış seçenek değil): yağda eriyen A, D, E, K vitaminlerinin alınması ve kullanılması için yeterli yağ alınması gerekir."
+      ]
+    },
+    {
+      "id": "u3q10",
+      "question": "Kas kütlesinde artış hedeflendiğinde sporcunun vücut ağırlığının her kilogramı başına tüketmesi önerilen protein miktarının alt sınırı (en düşük düzeyi) aşağıdakilerden hangisidir?",
+      "options": [
+        "2 gram",
+        "3 gram",
+        "1.6 gram",
+        "4 gram",
+        "20 gram"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuvvet-güç sporcularında günlük protein tüketimi vücut ağırlığının kilogramı başına 1.6-2 gram olarak önerilirken, kas kütlesinde artış hedeflenen bazı antrenman dönemlerinde bu miktar 2.5-3 gram/kilograma kadar çıkarılabilir. Seçenekler arasında kas kütlesi artışı hedefiyle ilişkilendirilen alt referans düzeyi 2 gramdır; metinde bunun üzerindeki miktarların (örneğin 3 gram/kg'ın üzerinin) ek fayda sağlamadığı, aksine yan etkilere yol açabileceği belirtilir.",
+      "optionNotes": [
+        "Doğru yanıt: kas kütlesi artışı hedeflenen dönemlerde protein ihtiyacının alt referans düzeyi olarak 2 gram/kilogram kabul edilir (kuvvet-güç sporcuları aralığının üst ucu).",
+        "Yanlış: 3 gram/kilogram, metinde belirtilen 2.5-3 gram aralığının üst sınırına yakın bir değerdir, alt sınır değildir.",
+        "Yanlış: 1.6 gram/kilogram kuvvet-güç sporcularının genel aralığının alt ucudur, kas kütlesi artışı hedefi için özel olarak yeterli görülmez.",
+        "Yanlış: 4 gram/kilogram, metinde belirtilen önerilen aralığın (2.5-3 gram) üzerindedir ve fayda sağlamadığı, yan etkilere yol açabileceği belirtilen bir düzeydir.",
+        "Yanlış: 20 gram bir oran (gram/kilogram) değil mutlak bir miktardır (öğün başına önerilen protein miktarına yakındır), soruyla birim olarak uyuşmaz."
+      ]
+    }
+  ]
+}

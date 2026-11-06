@@ -1,0 +1,205 @@
+{
+  "id": 5,
+  "title": "Spor Hukuku I",
+  "learningOutcomes": [
+    "Hukukun temel kavramları ile toplumsal yaşamı düzenleyen kuralların neler olduğunu ifade edebilme",
+    "Hukukun türlerini açıklayabilme, ilgili kavramların özellikleri hakkında bilgi sahibi olabilme",
+    "Hukuk sisteminin önemli bir özelliği olan yaptırım kavramı ve türleri hakkında bilgi sahibi olabilme",
+    "Hukukun kaynakları ve normlar hiyerarşisi hakkında bilgi sahibi olabilme",
+    "Hukukta kişi ve hak başlığı altında tanımlanan kavramlara ilişkin bilgi sahibi olabilme",
+    "Spor ve hukuk arasındaki ilişkiyi açıklayabilme, spor hukuku kavramı ve özelliklerine ilişkin bilgi sahibi olabilme"
+  ],
+  "keywords": ["Hukuk", "Hukukun Temel Kavramları", "Hukukun Kaynakları", "Spor Hukuku"],
+  "summary": [
+    {
+      "heading": "Toplumsal Yaşamı Düzenleyen Kurallar ve Hukukun Temel Kavramları",
+      "paragraphs": [
+        "İnsan, toplumsal yaşamın en küçük birimi olan ailede yer alır ve zamanla farklı toplumsal kurumlara dahil olarak diğer insanlarla etkileşim kurar. Bireylerin birbirleriyle kurduğu bu geçici ve sürekli ilişkilere toplumsal ilişki denir; bu ilişkilerin bütününün oluşturduğu süreç ise toplumsal yaşam olarak tanımlanır. Toplumsal yaşamın düzenli işleyebilmesi için farklı kültür, bilgi ve sosyoekonomik birikime sahip bireyleri ortak bir paydada bir arada tutacak kurallara ihtiyaç vardır; bu kurallara toplumsal düzen kuralları adı verilir.",
+        "Toplumsal düzeni sağlayan kurallar dört başlıkta incelenir: görgü kuralları, ahlak kuralları, din kuralları ve hukuk kuralları. Görgü kuralları, toplumun gelenek, görenek ve törenlerinden doğan, uyulmaması durumunda kınama ve ayıplama gibi manevi yaptırımlarla sonuçlanan davranış kalıplarıdır. Ahlak kuralları, bir toplumda kişilerin uymak zorunda olduğu davranış biçimleridir; ihlali vicdan azabı (öznel/subjektif ahlak) ya da toplumsal kınama (nesnel/objektif ahlak) gibi manevi sonuçlar doğurur. Din kuralları, inanç sistemlerine dayanan ve yine manevi yaptırımlarla desteklenen davranış normlarıdır.",
+        "Hukuk kuralları, devlet otoritesi tarafından konulan, uygulatılan ve denetlenen, uyulması zorunlu kurallar bütünüdür. Hukuk kurallarını diğer toplumsal düzen kurallarından ayıran en önemli özellik, ihlal halinde devletin cebir (zor kullanma) gücüyle maddi yaptırım uygulayabilmesidir; diğer kurallarda yaptırım sadece manevidir. Buna karşın hukukun yetersiz kaldığı alanlarda diğer toplumsal düzen kuralları da toplumsal esenliğe tamamlayıcı bir katkı sağlar."
+      ]
+    },
+    {
+      "heading": "Hukukun Türleri: Kamu Hukuku, Özel Hukuk ve Karma Hukuk",
+      "paragraphs": [
+        "Kamu hukuku, devletin tüzel kişiliğinin (il özel idareleri, belediyeler, üniversiteler, kamu iktisadi teşebbüsleri vb.) kuruluş, görev, yetki ve sorumluluklarını; devletin diğer devletler ve kişilerle ilişkilerini düzenleyen kural ve esaslardan oluşur. Kamu hukuku ilişkilerinde taraflar arasında eşitlik bulunmaz; devlet, kamu yararını gözeterek üstün bir güç olarak tek taraflı kural koyup uygulayabilir. Kamu hukukunun dalları arasında Anayasa Hukuku, İdare Hukuku, Ceza Hukuku, Uluslararası Kamu Hukuku ve Mali Hukuk sayılabilir.",
+        "Özel hukuk, kişilerin eşitler arası bir ilişki dengesine ve irade serbestisine dayalı ilişkilerini düzenleyen hukuk dalıdır; taraflar koşulları belirlemede eşit statüdedir ve özgürdür (örneğin satış sözleşmesi, nikah akdi). Özel hukukun dalları arasında Medeni Hukuk, Borçlar Hukuku, Ticaret Hukuku ve Devletler Özel Hukuku bulunur. Bir ilişkinin kamu hukuku mu özel hukuk mu alanına girdiğini belirlerken taraflardan birinin devlet olması tek başına yeterli değildir; belirleyici olan ilişkideki eşitlik durumudur (örneğin belediyenin bir dükkânı kiralaması özel hukuk ilişkisidir).",
+        "Uygulamada kamu hukuku ile özel hukuku kesin çizgilerle ayırmanın zorluğu sebebiyle, her iki hukuk dalının özelliklerini birlikte taşıyan karma hukuk kavramı ortaya çıkmıştır. İş Hukuku, Fikri Mülkiyet Hukuku, Bankacılık Hukuku, Hava Hukuku, Çevre Hukuku, Yargılama Hukuku, İcra ve İflas Hukuku ile Vergi Hukuku karma hukuk dalları arasında sayılır. Spor hukuku da, hem kamu hukukundan hem özel hukuktan beslenen bu karma hukuk yapısına örnektir."
+      ]
+    },
+    {
+      "heading": "Hukukta Yaptırım (Müeyyide) ve Türleri",
+      "paragraphs": [
+        "Yaptırım, bir hukuk kuralına uyulmadığında kişilerin devlet müdahalesiyle hukuka uygun davranış sergilemesini sağlamak üzere kanunlarda önceden öngörülen zorlayıcı düzenlemedir. Hukuki yaptırımların iki etkisi vardır: devletin cebir gücüyle aykırılığı ortadan kaldıran düzeltici etki ve aykırılığı önceden önleyen caydırıcı etki. Hukuk kurallarını diğer kurallardan ayıran temel özellik, bu yaptırımları cebren (zorla) uygulatabilme gücüdür.",
+        "Hukukta altı temel yaptırım türü bulunur: Cebri icra, bir hukuk kuralına aykırılık durumunda devletin gücüyle (mahkeme/icra idareleri aracılığıyla) yükümlülüğün zorla yerine getirilmesidir (örn. borcun haczedilerek tahsili). Tazminat, hukuka aykırılık sonucu oluşan maddi veya manevi zararların giderilmesi amacıyla uygulanan yaptırımdır ve 'maddi tazminat' ile 'manevi tazminat' olarak ikiye ayrılır; hem özel hem kamu hukukunda görülür. Geçersizlik (hükümsüzlük), hukuka, ahlaka veya kamu düzenine aykırı işlemlerin herhangi bir hüküm doğurmaması anlamına gelir.",
+        "Ceza, kanunların suç saydığı fiil veya ihmaller için öngördüğü, hukuk düzeni ve topluma verilen zarara karşılık uygulanan yaptırımdır. Yokluk, idari bir işlemde çok ağır bir sakatlık bulunması durumunda işlemin hiç yapılmamış sayılmasıdır (örneğin gerekli niteliğe sahip olmayan bir antrenörün atanması). İptal, hukuka aykırı bir işlemin, ilgili tarafların iradesiyle açılan dava sonucunda, yapıldığı andan itibaren geçersiz kılınmasıdır."
+      ]
+    },
+    {
+      "heading": "Hukukun Kaynakları ve Normlar Hiyerarşisi",
+      "paragraphs": [
+        "Yürürlükteki hukuk (pozitif hukuk), asıl (asli) kaynaklar ve yardımcı (tali) kaynaklar olmak üzere ikiye ayrılır. Asıl kaynaklar kendi içinde yazılı ve yazısız kaynaklar olarak incelenir. Yazılı kaynaklar; Anayasa, Kanunlar, Milletlerarası Antlaşmalar, Cumhurbaşkanlığı Kararnameleri ve Yönetmeliklerden oluşur; eski dönemden kalan bazı KHK ve tüzükler de hâlâ yürürlükte olabilir. Yazısız/yardımcı kaynaklar ise örf ve adet hukuku, doktrin (bilimsel görüşler) ve içtihat (yargı kararları) olup, Türk Medeni Kanunu md.1'e göre yazılı kaynağın eksik kaldığı durumlarda sırasıyla başvurulur.",
+        "Anayasa, devletin kuruluş, işleyiş ve yapısını, kişilerin hak ve sorumluluklarını en genel biçimde düzenleyen, diğer tüm kanunlardan üstün temel normdur; Türkiye'de katı (sert) bir Anayasa uygulanmaktadır. Anayasa'da 'yasama yetkisi TBMM'nindir' (md.7), 'yürütme yetkisi ve görevi Cumhurbaşkanı'na aittir' (md.8) ve 'yargı yetkisi bağımsız ve tarafsız mahkemelerce kullanılır' (md.9) hükümleriyle güçler ayrılığı ilkesi düzenlenmiştir. Kanun, yasama organı (TBMM) tarafından usulüne uygun çıkarılan, genel-sürekli-nesnel nitelikli kurallardır; Cumhurbaşkanlığı kararnamesi ise Cumhurbaşkanı'nın yürütme yetkisine ilişkin konularda çıkardığı, kanunla aynı konuda farklı hüküm varsa kanunun üstün sayıldığı düzenlemedir. Yönetmelikler, kamu kurum ve kuruluşlarının üst normlara dayanarak çıkardığı, kendi görev alanlarını ilgilendiren düzenleyici kurallardır.",
+        "Hukuk kuralları arasındaki güç ve öncelik sıralamasına normlar hiyerarşisi denir; Hans Kelsen'in sıralamasına göre üst basamaktaki normlar alt basamaktaki normların yetki ve sınırlarını belirler. Türk hukuk sisteminde hiyerarşi en üstten alta doğru şöyledir: Anayasa; Kanunlar-Milletlerarası Antlaşmalar-Olağanüstü Hal Cumhurbaşkanlığı Kararnameleri; Olağan Dönem Cumhurbaşkanlığı Kararnameleri; ve Yönetmelikler. Usulüne göre yürürlüğe konulmuş, temel hak ve özgürlüklere ilişkin milletlerarası antlaşmalar ile kanunlar arasında farklı hüküm bulunması halinde milletlerarası antlaşma hükümleri esas alınır. Bu hiyerarşiyi bilmek, spor hukuku mevzuatının hangi düzenlemenin diğerine üstün olduğunu kavramak için gereklidir."
+      ]
+    },
+    {
+      "heading": "Hukukta Kişi ve Hak Kavramları",
+      "paragraphs": [
+        "Türk Medeni Kanunu'na göre kişiler, gerçek kişiler ve tüzel kişiler olmak üzere ikiye ayrılır. Gerçek kişiler, kendi namına hak edinebilen ve borçlanabilen insanlardır; her insan hak ehliyetine sahiptir, fiil ehliyeti ise ayırt etme gücüne sahip ve kısıtlı olmayan erginlerde bulunur. Tüzel kişiler, insanların ortak amaçlar için bir araya gelerek oluşturduğu, kendi kişiliklerinden ayrı ve bağımsız örgüt veya mal topluluklarıdır (örneğin dernek, vakıf, şirket); amacı hukuka veya ahlaka aykırı olan topluluklar tüzel kişilik kazanamaz.",
+        "Spor alanında sporcular, antrenörler ve yöneticiler gerçek kişi; spor kulüpleri (dernekler), vakıflar, şirketler, federasyonlar ve konfederasyonlar ise tüzel kişi olarak kabul edilir. Örneğin bir kulüp başkanının kendi kişiliği gerçek kişiliktir, ancak yönettiği kulüp/şirket/federasyon ondan ayrı bir tüzel kişiliktir. Spor kulüplerinin tüzel kişilik kazanması 5253 sayılı Dernekler Kanunu'na dayanır.",
+        "Hak, kişilere hukuk düzeni ve kanunlar kapsamında tanınan yetkilerdir; bir yetkinin hak sayılabilmesi için hukuk düzeni tarafından tanınması gerekir. Haklar, kamu hakları ve özel haklar olarak ikiye ayrılır: kamu hakları kişiler ile devlet arasındaki ilişkileri (Anayasa'da kişi hakları ve ödevleri, sosyal ve ekonomik haklar, siyasi haklar başlıkları altında) düzenlerken; özel haklar kişiler arasındaki ilişkileri düzenler. Anayasa'nın 58. ve 59. maddeleri, gençliğin korunması ve sporun geliştirilmesini birer sosyal-ekonomik hak olarak güvence altına almaktadır."
+      ]
+    },
+    {
+      "heading": "Spor ve Hukuk İlişkisi: Spor Hukuku Kavramı ve Özellikleri",
+      "paragraphs": [
+        "Spor, hareket etme ihtiyacına dayalı, kurallara bağlı, sosyalleşme ve meslekleşme imkânı sunan bir aktivitedir; aynı zamanda yönetim bilimi, iktisat, muhasebe, pazarlama, uluslararası ilişkiler ve hukuk gibi disiplinlerle yakından ilişkili bir alandır. Sporun farklı kültür ve milletlerden insanları bir araya getiren platform niteliği, hak ve menfaatlerin korunması için hukuka olan ihtiyacı doğurmuştur. Bu ihtiyaç, hukuk metodolojisinin spor alanına uygulanmasıyla spor hukuku adlı ayrı bir çalışma alanının doğmasına yol açmıştır.",
+        "Spor hukuku, hukukun sunduğu emir, yasak ve yaptırımlarla sporun her alanındaki sorunlara çözüm üreten, sporda adalet ve eşitliği güçlendirerek paydaşların hak ve menfaatlerini koruyan, ulusal ve uluslararası spor örgütlerinin kuruluş, görev, yetki ve işleyişini belirleyen bir bilim dalıdır. Güç ve otorite kaynakları bakımından hem kamu hukukundan hem özel hukuktan beslendiği için karma hukuk dalı olarak sınıflandırılır. Spor hukuku ile spor yönetimi arasında güçlü bir bağ vardır; spor hukuku, plan-program-politika oluşturma, örgütlenme esaslarını belirleme, paydaşlar arası denge kurma ve yönetim kararlarını alma gibi işlevlerde yönetim fonksiyonlarından faydalanır.",
+        "Spor hukukunun süjeleri (paydaşları) gerçek kişi süjeler (antrenörler, teknik direktörler, sporcular, spor yöneticileri, hakemler, gözlemciler, il temsilcileri, seyirciler) ve tüzel kişi süjeler (spor kulüpleri, spor federasyonları, spor eğitimi veren yükseköğretim kurumları, Gençlik ve Spor Bakanlığı, konfederasyonlar, tahkim kurulları gibi) olmak üzere ikiye ayrılır. Spor hukukunun ele aldığı konular arasında spor örgütlerinin kuruluş ve tescili, spor politikaları, şike-doping-ırkçılık gibi disiplin konuları, sporcu transfer ve sözleşme esasları, tahkim ve uyuşmazlık çözümü ile spor tesislerine ilişkin teknik esaslar sayılabilir. Spor hukuku, Olimpiyat Oyunları gibi devasa organizasyonlardan küçük ölçekli yapılara kadar geniş bir alanda adalet, fırsat eşitliği ve fair-play ilkelerinin korunmasını sağlar."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u5q1",
+      "question": "Aşağıdakilerden hangisi yaptırımı itibariyle diğerlerinden farklıdır?",
+      "options": ["Görgü kuralları", "Din kuralları", "Hukuk kuralları", "Objektif ahlak kuralları", "Sübjektif ahlak kuralları"],
+      "correctIndex": 2,
+      "explanation": "Hukuk kuralları, diğer toplumsal düzen kurallarından (görgü, din, ahlak) farklı olarak devletin cebir gücüyle desteklenen maddi yaptırımlara sahiptir. Görgü, din ve ahlak kurallarının yaptırımları ise sadece manevidir (kınama, ayıplama, vicdan azabı gibi). Bu nedenle hukuk kuralları, yaptırımın niteliği bakımından diğer dört seçenekten ayrılır.",
+      "optionNotes": [
+        "Görgü kuralları manevi yaptırımlıdır (kınama, ayıplama); hukuk kuralları gibi maddi/cebri bir yaptırıma sahip değildir.",
+        "Din kuralları manevi yaptırımlıdır; hukuk kuralından farklı olarak devlet gücüyle cebren uygulanamaz.",
+        "Doğru cevap: Hukuk kuralları, devletin cebir gücüyle desteklenen maddi yaptırıma sahip olması bakımından diğer üç kural türünden ayrılır.",
+        "Objektif ahlak kuralları toplumun kişiye yönelik ahlaki yargılarıdır, yaptırımı manevi (kınama, dışlanma) niteliktedir.",
+        "Sübjektif ahlak kuralları kişinin kendi ahlak algısına dayanır, yaptırımı manevi (vicdan azabı) niteliktedir."
+      ]
+    },
+    {
+      "id": "u5q2",
+      "question": "Aşağıdakilerden hangisi kamu hukuku dallarından değildir?",
+      "options": ["Anayasa Hukuku", "Ceza Hukuku", "İdare Hukuku", "Borçlar Hukuku", "Uluslararası Kamu Hukuku"],
+      "correctIndex": 3,
+      "explanation": "Kamu hukuku, devletin tüzel kişiliğinin kuruluş, görev, yetki ve sorumluluklarını düzenler; Anayasa Hukuku, İdare Hukuku, Ceza Hukuku ve Uluslararası Kamu Hukuku bu dalın alt başlıklarıdır. Borçlar Hukuku ise kişiler arasındaki eşitlik ilişkisine dayalı özel hukuk dalıdır, bu nedenle kamu hukuku dalı değildir.",
+      "optionNotes": [
+        "Anayasa Hukuku kamu hukukunun bir dalıdır; devlet organlarının yapısını ve işleyişini düzenler.",
+        "Ceza Hukuku kamu hukukunun bir dalıdır; devletin suç ve ceza ilişkilerini düzenler.",
+        "İdare Hukuku kamu hukukunun bir dalıdır; devlet idaresinin işleyişini düzenler.",
+        "Doğru cevap: Borçlar Hukuku, kişiler arası eşitlik ilişkilerini düzenleyen özel hukuk dalıdır; kamu hukuku dalı değildir.",
+        "Uluslararası Kamu Hukuku kamu hukukunun bir dalıdır; devletler arası ilişkileri düzenler."
+      ]
+    },
+    {
+      "id": "u5q3",
+      "question": "Aşağıdakilerden hangisi özel hukukun dallarından değildir?",
+      "options": ["Medeni Hukuk", "Borçlar Hukuku", "Ticaret Hukuku", "Devletler Özel Hukuku", "Vergi Hukuku"],
+      "correctIndex": 4,
+      "explanation": "Özel hukuk; Medeni Hukuk, Borçlar Hukuku, Ticaret Hukuku ve Devletler Özel Hukuku gibi dallardan oluşur ve kişiler arası eşitlik ilişkisine dayanır. Vergi Hukuku ise metinde Tablo 5.2'de hem kamu hem özel hukuktan beslenen karma hukuk dalları arasında sayılmıştır, dolayısıyla özel hukuk dalı değildir.",
+      "optionNotes": [
+        "Medeni Hukuk özel hukukun bir dalıdır.",
+        "Borçlar Hukuku özel hukukun bir dalıdır.",
+        "Ticaret Hukuku özel hukukun bir dalıdır.",
+        "Devletler Özel Hukuku özel hukukun bir dalıdır.",
+        "Doğru cevap: Vergi Hukuku, metindeki Hukukun Dalları tablosunda karma hukuk dalları arasında sayılmıştır; özel hukuk dalı değildir."
+      ]
+    },
+    {
+      "id": "u5q4",
+      "question": "Aşağıdakilerden hangisi hukukta yaptırım türlerinden biri değildir?",
+      "options": ["Cebri icra", "Hükümsüzlük", "Ayıplama", "Tazminat", "Ceza"],
+      "correctIndex": 2,
+      "explanation": "Hukukta altı temel yaptırım türü vardır: cebri icra, tazminat, geçersizlik (hükümsüzlük), ceza, yokluk ve iptal. Ayıplanma ise hukuk kurallarının değil, görgü kurallarının ihlali sonucunda ortaya çıkan toplumsal/manevi bir tepkidir, dolayısıyla resmi bir hukuki yaptırım türü değildir.",
+      "optionNotes": [
+        "Cebri icra hukukun yaptırım türlerinden biridir (zorla yerine getirme).",
+        "Hükümsüzlük (geçersizlik) hukukun yaptırım türlerinden biridir.",
+        "Doğru cevap: Ayıplama, görgü kurallarının ihlalinde ortaya çıkan manevi/toplumsal bir tepkidir; hukukun resmi yaptırım türleri arasında sayılmaz.",
+        "Tazminat hukukun yaptırım türlerinden biridir (zararın giderilmesi).",
+        "Ceza hukukun yaptırım türlerinden biridir."
+      ]
+    },
+    {
+      "id": "u5q5",
+      "question": "Aşağıdakilerden hangisi kanunun suç işleyen kişiye uygulanmasını öngördüğü yaptırımı ifade eder?",
+      "options": ["Cebri icra", "Hükümsüzlük", "İptal", "Tazminat", "Ceza"],
+      "correctIndex": 4,
+      "explanation": "Ceza yaptırımı, kanunların suç olarak tanımladığı bir fiilin (icra veya ihmal yoluyla) işlenmesi durumunda uygulanan yaptırım türüdür; kişinin kanun ve hukuk düzeninin çizdiği sınırları çiğnemesi halinde devreye girer.",
+      "optionNotes": [
+        "Cebri icra, borç ilişkilerinde yükümlülüğün zorla yerine getirilmesidir; suç cezalandırma ile ilgili değildir.",
+        "Hükümsüzlük, hukuka aykırı işlemlerin geçersiz sayılmasıdır; suça uygulanan bir ceza değildir.",
+        "İptal, hukuka aykırı bir işlemin dava yoluyla ortadan kaldırılmasıdır; suç cezası değildir.",
+        "Tazminat, oluşan zararın giderilmesine yöneliktir; suç işleyene uygulanan ceza değildir.",
+        "Doğru cevap: Ceza, kanunun suç saydığı bir fiili işleyen kişiye uygulanan yaptırım türüdür."
+      ]
+    },
+    {
+      "id": "u5q6",
+      "question": "Normlar hiyerarşisine göre Türk hukuk sisteminde aşağıdakilerden hangisi en üstte yer alır?",
+      "options": ["Anayasa", "Kanun", "Yönetmelikler", "Milletlerarası Antlaşmalar", "Cumhurbaşkanlığı Kararnamesi"],
+      "correctIndex": 0,
+      "explanation": "Normlar hiyerarşisinde Anayasa, devlet ve millet menfaatlerini korumak üzere en üst basamakta yer alır; diğer tüm kanun, kararname ve yönetmelikler Anayasa'ya aykırı olamaz ve ona göre şekillenir.",
+      "optionNotes": [
+        "Doğru cevap: Anayasa, normlar hiyerarşisinin en üst basamağındadır; diğer tüm normlar ona aykırı olamaz.",
+        "Kanun, Anayasa'nın altında, milletlerarası antlaşmalar ve OHAL CB kararnameleriyle aynı (ikinci) basamaktadır.",
+        "Yönetmelikler, hiyerarşinin en alt (dördüncü) basamağındadır.",
+        "Milletlerarası Antlaşmalar, Anayasa'nın altında, kanunlarla aynı basamaktadır; Anayasa'nın üstünde değildir.",
+        "Cumhurbaşkanlığı Kararnamesi, olağan dönemde üçüncü basamakta olup Anayasa'nın ve kanunların altındadır."
+      ]
+    },
+    {
+      "id": "u5q7",
+      "question": "Aşağıdakilerden hangisi hukukun yazılı kaynakları arasında yer almaz?",
+      "options": ["Kanunlar", "Örf Adet", "Yönetmelik", "Milletlerarası Antlaşmalar", "Cumhurbaşkanlığı Kararnamesi"],
+      "correctIndex": 1,
+      "explanation": "Hukukun yazılı kaynakları Anayasa, Kanunlar, Milletlerarası Antlaşmalar, Cumhurbaşkanlığı Kararnameleri ve Yönetmeliklerden oluşur. Örf ve adet hukuku ise yazısız (yardımcı/tali) bir kaynaktır ve yazılı kaynaklarda hüküm bulunmadığında başvurulur.",
+      "optionNotes": [
+        "Kanunlar, hukukun yazılı kaynaklarından biridir.",
+        "Doğru cevap: Örf Adet, yazısız bir kaynaktır; yazılı kaynaklar arasında yer almaz.",
+        "Yönetmelik, hukukun yazılı kaynaklarından biridir.",
+        "Milletlerarası Antlaşmalar, hukukun yazılı kaynaklarından biridir.",
+        "Cumhurbaşkanlığı Kararnamesi, hukukun yazılı kaynaklarından biridir."
+      ]
+    },
+    {
+      "id": "u5q8",
+      "question": "Spor hukukunun konu ve paydaşları bakımından incelendiğinde, aşağıdakilerden hangisi hukuki açıdan farklı türde bir kişiliğe sahiptir?",
+      "options": ["Spor federasyonu", "Spor kulübü", "Şirket", "Sporcu", "Tahkim Kurulu"],
+      "correctIndex": 3,
+      "explanation": "Spor federasyonu, spor kulübü, şirket ve tahkim kurulu metinde tüzel kişi süjeler arasında sayılmıştır; sporcu ise kendi namına hak ve borç edinen bir gerçek kişidir. Dolayısıyla sporcu, diğer dört seçenekten kişilik türü bakımından farklıdır.",
+      "optionNotes": [
+        "Spor federasyonu tüzel kişidir.",
+        "Spor kulübü, 5253 sayılı Dernekler Kanunu'na göre tüzel kişidir.",
+        "Şirket tüzel kişidir.",
+        "Doğru cevap: Sporcu gerçek kişidir; diğer seçeneklerin tüzel kişi olmasından farklı bir kişilik türüne sahiptir.",
+        "Tahkim Kurulu, metinde tüzel kişi süjeler arasında sayılmıştır."
+      ]
+    },
+    {
+      "id": "u5q9",
+      "question": "Spor hukukunun süjelerinden hangisi tüzel kişiliğe sahiptir?",
+      "options": ["Gençlik ve Spor Bakanlığı", "Antrenörler", "Hakemler", "Sporcular", "Spor yöneticisi"],
+      "correctIndex": 0,
+      "explanation": "Gençlik ve Spor Bakanlığı, metinde spor hukukunun tüzel kişi süjelerinden biri olarak sayılmıştır; antrenörler, hakemler, sporcular ve spor yöneticileri ise gerçek kişi süjelerdir.",
+      "optionNotes": [
+        "Doğru cevap: Gençlik ve Spor Bakanlığı, metinde tüzel kişi süjeler arasında sayılmıştır.",
+        "Antrenörler gerçek kişi süjedir.",
+        "Hakemler gerçek kişi süjedir.",
+        "Sporcular gerçek kişi süjedir.",
+        "Spor yöneticisi gerçek kişi süjedir."
+      ]
+    },
+    {
+      "id": "u5q10",
+      "question": "1982 Anayasasına göre Devlet organları arasında belirtilen ve Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılan yetkiyi ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": ["Yürütme", "Adalet", "Denetleme", "Yasama", "Yargı"],
+      "correctIndex": 4,
+      "explanation": "Anayasa'nın 9. maddesine göre yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır. Yargı, Anayasa'da güçler ayrılığı ilkesi çerçevesinde tanımlanan üç temel devlet organından (yasama, yürütme, yargı) biridir.",
+      "optionNotes": [
+        "Yürütme, Cumhurbaşkanı tarafından kullanılan yetkidir; mahkemelerle ilgili değildir.",
+        "Adalet, metinde ayrı bir devlet organı olarak tanımlanmamıştır.",
+        "Denetleme, güçler ayrılığı ilkesinde ayrı bir devlet organı olarak geçmemektedir.",
+        "Yasama, TBMM tarafından kullanılan yetkidir; mahkemelerle ilgili değildir.",
+        "Doğru cevap: Yargı, Anayasa'ya göre bağımsız ve tarafsız mahkemelerce Türk Milleti adına kullanılan yetkidir."
+      ]
+    }
+  ]
+}

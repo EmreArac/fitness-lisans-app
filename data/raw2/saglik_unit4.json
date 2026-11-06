@@ -1,0 +1,265 @@
+{
+  "id": 4,
+  "title": "Sporcu Sağlığı ve İlk Yardım I",
+  "learningOutcomes": [
+    "Sağlık kavramını ve sporda sağlık organizasyonunu açıklayabilme",
+    "Spor yaralanması ve etkili faktörleri açıklayabilme",
+    "Spor yaralanmalarının önlemlerini kavrayabilme",
+    "Sporda ilk yardımın temel ilkelerini sıralayabilme",
+    "Spor yaralanmalarında ön tedavi hakkında bilgi sahibi olabilme"
+  ],
+  "keywords": [
+    "Sporcu Sağlığı",
+    "Spor Yaralanmaları",
+    "Spor Yaralanmalarını Önleme",
+    "İlk Yardım",
+    "POLICE Protokolü"
+  ],
+  "summary": [
+    {
+      "heading": "Sağlık Kavramını ve Sporda Sağlık Organizasyonunu Açıklayabilme",
+      "paragraphs": [
+        "Sağlık, fiziksel, zihinsel ve sosyal yönden iyi olma hâli olarak tanımlanır. Egzersiz ve spor, bu bağlamda sağlıklı yaşamın vazgeçilmez bir ögesidir; belirli bir spora katılım göstermek bireylerde fiziksel aktiviteyi artırmada önemli bir stratejidir.",
+        "Düzenli yapılan fiziksel aktivite ile kas iskelet sistemi, dolaşım sistemi ve solunum sisteminin fonksiyonlarında gelişim görülür. Bu sayede kronik kalp-damar hastalıkları, felç, diyabet, kemik erimesi ve bazı kanser türlerinin önlenebildiği gösterilmiştir. Bu yararlar nedeniyle günümüzde spora ve fiziksel aktiviteye katılım en yüksek seviyelerdedir; 40 milyondan fazla çocuk ve genç okul dışında spor kulüplerinin cimnastik ve yüzme gibi aktivitelerine devam etmektedir.",
+        "Spor yapmak sağlık için çok faydalı olsa da bilinçsiz yapılan spor aktiviteleri yaralanmaları da birlikte getirir. Her sportif faaliyette vücutta mikrotravmalara bağlı küçük yaralanmalar oluşur; akut veya kronik olarak bir dokuya uygulanan stres, dokunun bu stresi \"absorbe\" edebilme yeteneğinden daha büyük olduğunda yaralanma meydana gelir. Bu nedenle sahada görevli doktor dışındaki hakem, antrenör ve diğer kişilerin de ilk yardım konusunda bilgi sahibi olması gereklidir."
+      ]
+    },
+    {
+      "heading": "Spor Yaralanması ve Etkili Faktörler",
+      "paragraphs": [
+        "Vücuttaki dokuların harekete karşı dayanabildiği bir sınır vardır; bu sınır aşıldığında yaralanma oluşur. Yaralanmaya zemin hazırlayan risk faktörleri ikiye ayrılır: kişinin kendisinden kaynaklı (içsel) faktörler ve çevresel faktörler. Risk faktörlerinden bazıları değiştirilebilir (örneğin fiziksel uygunluk düzeyi), bazıları ise değiştirilemez niteliktedir (örneğin yaş, cinsiyet).",
+        "İçsel faktörler arasında önceki yaralanma öyküsü (tam iyileşmeden spora dönülmesi tekrar yaralanma riskini artırır), yaş (12-15 yaş adölesan dönemde kemik gelişimine oranla kas gelişimi ve esnekliğin yetersiz kalması, yaşlanmada ise doku esnekliği ve kas kitlesinin azalması risk oluşturur), cinsiyet (kadınlarda bağ yapılarının daha gevşek olması bazı yaralanma türlerinde riski artırırken çocukluk-adölesan dönemde erkekler daha risklidir) ve yetersiz fiziksel uygunluk düzeyi sayılır. Fiziksel uygunluk, yorgunluk olmaksızın mesleki, boş zaman ve günlük yaşam aktivitelerini başarıyla yapma ve bu uygunluğu yaşam boyu sürdürebilme yeteneğidir. Ayrıca biyomekanik dizilim bozuklukları, yetersiz uyku-beslenme-sıvı alımı, psikososyal faktörler (stres, motivasyon eksikliği veya aşırı motivasyon), yorgunluk, yaralanma korkusu, tecrübesizlik, konsantrasyon eksikliği ve hazır hissetmeme de içsel risk faktörleri arasındadır.",
+        "Çevresel faktörler arasında ekipman ve zemin (uygun olmayan ayakkabı-zemin etkileşimi, kaymayan saha tasarımının önemi), ışıklandırma, oynanan pozisyon, hava koşulları (uluslararası karşılaşmalarda maksimum ortam sıcaklığı 25°C, minimum 16°C olarak belirlenmiştir), spor tipi, aşırı antrenman/maç yoğunluğu, teknik yanlışlıklar ve sporcu-antrenör anlaşmazlığı sayılabilir.",
+        "Hareket sistemi yaralanmaları sportif aktivitelerde sık görülür; en sık rastlananlar bağ zedelenmesi, kırıklar, eklem ve kıkırdak zedelenmeleri, kas lifi kopmaları, kas ezilmeleri, tendon yaralanmaları ve burkulmalardır. Kas, tendon veya bağ dokusu yaralandığında bölgedeki kan damarları yırtılır; oluşan kanama çevre dokulara yayılarak şişliğe, şişlik ise basınç artışına ve buna bağlı ağrı ile hassasiyete yol açar."
+      ]
+    },
+    {
+      "heading": "Spor Yaralanmalarının Önlenmesi",
+      "paragraphs": [
+        "Spor yaralanmaları, yaralanmalara neden olan risk faktörlerinin belirlenip bu faktörlere yönelik müdahalelerle önlenebilir veya sıklığı azaltılabilir. Yapılabilecek müdahaleler kabaca ekipman desteği (breysler, ortezler, koşu zeminleri, kıyafet ve ayakkabı), eğitim (kas kuvveti, enduransı, eklem hareket açıklığı, reaksiyon zamanı ve propriosepsiyon) ile kurallar ve düzenlemeler olarak sınıflandırılabilir.",
+        "Yaralanmaları önleme yaklaşımı bir piramit olarak düşünülebilir; her basamak bir diğeri için temel oluşturur. Piramidin tabanında hedef belirleme ve bu hedef grup üzerinde yapılan risk faktörü analizi yer alır; özellikle sezon öncesi yapılan risk analizi riskli sporculara odaklanmayı ve eksikliklerin giderilmesini sağlar. İkinci basamak yüklenme yönetimidir: hem yetersiz hem aşırı yüklenme yaralanma riskini artırır, bu nedenle bireysel ve kademeli bir yüklenme programı izlenmelidir. Üçüncü basamak atletik gelişim, kuvvet ve kondisyon kalitesinin iyileştirilmesidir; sporcu sporunun gerektirdiği kuvvete ve dayanıklılığa sahip değilse yaralanma gerçekleşir. Dördüncü basamak hareket verimliliğinin artırılmasıdır; sporcunun atletik potansiyelini güvenli ve etkili kullanıp kullanamadığı değerlendirilir. Piramidin en üst noktasında ise önceki yaralanma ve etkin rehabilitasyon süreci bulunur, çünkü önceki yaralanma öyküsü gelecekteki yaralanmaların en iyi belirleyicisidir.",
+        "Koruyucu ekipman kullanımı özellikle futbol, hokey ve beyzbol gibi takım sporlarında yaralanma oranını (paralizi veya ölüm dahil) oldukça azaltır; dişlikler diş yaralanmalarını, dış ayak bileği destekleri ise tekrar yaralanma oranını azaltır. Çim zeminler elit sporcular için, yapay zeminler ise daha az profesyonel sporcular için daha güvenli kabul edilir."
+      ]
+    },
+    {
+      "heading": "Sporda İlk Yardımın Temel İlkeleri",
+      "paragraphs": [
+        "İlk yardım, herhangi bir nedenle yaralanan ya da aniden hastalanan kişilere, sağlık personeli tarafından sağlık durumunun daha da kötüleşmesini önlemek amacıyla, olay yerinde eldeki olanaklarla yapılan geçici ilaçsız müdahalelerdir. Öncelikli amaçları hayati tehlikenin ortadan kaldırılması, yaşamsal fonksiyonların sürdürülmesi, durumun kötüleşmesinin önlenmesi ve iyileşmenin kolaylaştırılmasıdır.",
+        "Bilinç kapalıysa hızla hava yolu açıklığı, solunum (bak-dinle-hisset) ve dolaşım (şah damarından 5 saniye nabız alınarak) değerlendirilir. Muayenede dokuz hayati bulgu incelenir: nabız (yetişkinde 60-100, sporcuda 40-60/dk), solunum (12-20/dk, sporcuda 6-8/dk), kan basıncı, vücut sıcaklığı (normalde ~37°C), cilt rengi, göz bebekleri (ışığa tepkisizlik ciddi bir probleme işaret eder), bilinç durumu (1., 2. ve 3. derece bilinç kaybı), hareket yeteneği ve ağrıya tepki. Bu değerlendirmeler tanı ve tedavi için temel oluşturur.",
+        "Solunum veya kalp durması varsa temel yaşam desteği (TYD) ve kalp-solunum canlandırması (KSC) hızla uygulanmalıdır; hava yolu açılır, tek kişi uygulamasında 15 kalp masajına karşılık 2 solunum verilir ve kalp masajı dakikada 80-100 baskı hızında yapılır. Kanama varsa kompresyon, yaralı bölgenin kalp seviyesinden yukarı kaldırılması ve gerekirse turnike (10 dakikayı aşmayacak şekilde) uygulanır. Dolaşımsal yetersizlikte gelişen şokun belirtileri derinin soluklaşması, nabzın hızlanıp zayıflaması, soğuk terleme, göz bebeklerinin genişlemesi ve kan basıncının düşmesidir; ilk yardımda hasta battaniyeyle ısıtılır ve bacakları yukarı kaldırılır. Boğulma kuru, yaş ve ikincil boğulma şeklinde görülebilirken, donmada hafif, orta ve ağır hipotermi dereceleri rektal ısıya göre ayrılır.",
+        "Sahada sporcu değerlendirmesi TOTAPS aşamalarıyla yapılır: Talk (Konuş: yaralanmanın nasıl olduğu ve ağrının yeri sorulur), Observe (Gözle: genel görünüm ve karşı tarafla kıyaslama), Touch (Dokun: nazikçe dokunarak ağrılı nokta belirlenir), Active Motion (Aktif Hareket: sporcunun bölgeyi kendi hareket ettirip ettiremediği), Passive Motion (Pasif Hareket: bölge nazikçe hareket ettirilerek ağrı derecesi belirlenir) ve Skill Tests (Beceri Testleri: ayağa kalkma, desteksiz durma gibi giderek zorlaşan hareketler denenir). Değerlendirme sonrası yaralanma ciddiyse sporcu saha dışına alınır ve gerekirse doktor yönlendirmesiyle ilk yardım süreci başlar."
+      ]
+    },
+    {
+      "heading": "Spor Yaralanmalarında Ön Tedavi: POLICE Protokolü",
+      "paragraphs": [
+        "Saha kenarındaki ilk yardım çantasında pansuman malzemeleri, muayene araç-gereçleri ve temel ilaçlar hazır bulundurulmalıdır. Ön tedavinin öncelikli amacı yaralanan bölgedeki semptomları azaltmak; kişide ağrıyı, oluşan şişliği ya da eziklik durumunu minimale indirmek ve yaralanmış bölgede gerekli miktarda hareketsizliği sağlamaktır. Yaralanma sonrası ilk fizyolojik cevap doku içine kanama, ardından ödem (şişlik), ağrı-hassasiyet, ciltte ısı artışı ve kızarıklıktır; bu nedenle kanamayı durdurmak ön tedavide öncelikli hedeftir.",
+        "Kas iskelet sistemi yaralanmalarında kullanılan en güncel ilk yardım yöntemi POLICE protokolüdür: P (Protection/Koruma) yaralanmış bölgenin daha ileri yaralanmalara karşı korunmasıdır; kol-omuz için üçgen askı, kalça-bacak-ayak için koltuk değneği kullanılır, ancak bu uzun süreli tam hareketsizlik anlamına gelmez. OL (Optimal Loading/Uygun Yüklenme) eski RICE ve PRICE protokollerindeki \"Rest/Dinlenme\" yerine gelmiştir; çalışmalar, dokunun uygun düzeyde yüklenmesinin iyileşmeyi tam hareketsizlikten daha iyi desteklediğini göstermiştir.",
+        "I (Ice/Buz) yaralanan bölgeye 2 saat arayla 15 dakikalık buz uygulamasıdır; buz doğrudan cilde uygulanmaz, araya nemli bir bez/havlu konulmalıdır. Uygulama süresi minimum 12-15, maksimum 30 dakikadır; yaralanmanın ilk 24-48 saatinde sıkça (ilk 24 saatte 2 saatte bir, sonrasında 4-6 saatte bir), gerekirse 7-10 güne kadar sürdürülebilir; açık yara üzerine veya dolaşım bozukluğu/aşırı morarma gözlenen bölgeye buz uygulanmaz.",
+        "C (Compression/Kompresyon) elastik bandajla yaralı bölgeye basınç uygulanarak kanama ve şişliğin kontrol altına alınmasıdır; bandaj spiral veya 8 şeklinde, alt seviyeden kalbe doğru sarılır ve dolaşım bozukluğu belirtisi (renk değişikliği, beyazlama) görülürse çözülür. E (Elevation/Elevasyon) yaralı bölgenin kalp seviyesinin üzerine kaldırılmasıdır; yerçekimine bağlı ödem oluşumunu engeller ve genellikle soğuk-kompresyonla birlikte her 2 saatte bir 20 dakika uygulanır, kanama ve şişlik fazlaysa 24-48 saat sürdürülebilir. Akut evre sonrasında bu ilk yardım protokolünün yerini uygun bir rehabilitasyon programı alır."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u4q1",
+      "question": "Aşağıdakilerden hangisi sporun kişiye yarattığı faydalar arasında sayılamaz?",
+      "options": [
+        "Bazı kanser türlerini önler.",
+        "Diyabet riskini azaltır.",
+        "Kalbi güçlendirir.",
+        "Vücut esnekliğini azaltır.",
+        "Kasların güçlenmesini sağlar."
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde düzenli fiziksel aktivitenin kronik kalp-damar hastalıkları, felç, diyabet, kemik erimesi ve bazı kanser türlerini önlediği, kas-iskelet, dolaşım ve solunum sistemi fonksiyonlarını geliştirdiği belirtilmektedir. Spor ve egzersiz vücut esnekliğini artırır, azaltmaz; dolayısıyla \"vücut esnekliğini azaltır\" ifadesi sporun bir faydası olarak sayılamaz.",
+      "optionNotes": [
+        "Yanlış: Metinde bazı kanser türlerinin spor sayesinde önlenebildiği açıkça belirtilmiştir, bu gerçek bir fayda olduğu için soru bu şıkkı aramaz.",
+        "Yanlış: Diyabet riskinin azalması metinde sayılan gerçek faydalardan biridir.",
+        "Yanlış: Kalp-damar sisteminin güçlenmesi düzenli fiziksel aktivitenin bilinen bir yararıdır, bu nedenle doğru cevap değildir.",
+        "Doğru: Spor ve egzersiz vücut esnekliğini artırır; \"azaltır\" ifadesi gerçeğin tersidir, bu yüzden sporun faydaları arasında sayılamaz.",
+        "Yanlış: Kas kuvvetinin gelişmesi metinde belirtilen temel faydalardan biridir, dolayısıyla aranan yanlış ifade bu değildir."
+      ]
+    },
+    {
+      "id": "u4q2",
+      "question": "Aşağıdaki faktörlerden hangisi spor yaralanmalarına hazırlayıcı çevresel faktörler arasında yer almaz?",
+      "options": [
+        "Antrenör tutumu",
+        "Biyomekaniksel dizilim bozukluğu",
+        "Hava koşulları",
+        "Spor tipi",
+        "Aşırı antrenman yoğunluğu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde biyomekanik dizilim bozuklukları, sporcunun kendisinden kaynaklanan içsel (kişisel) risk faktörleri arasında sayılmıştır; kassal kuvvet ve koordinasyonla ilişkilidir. Ekipman-zemin, ışıklandırma, oynanan pozisyon, hava koşulları, spor tipi, aşırı antrenman/maç yoğunluğu, teknik yanlışlıklar ve sporcu-antrenör anlaşmazlığı ise çevresel faktörler arasında listelenmiştir, bu yüzden biyomekaniksel dizilim bozukluğu çevresel faktör değildir.",
+        "optionNotes": [
+            "Yanlış: Sporcu-antrenör anlaşmazlığı metinde çevresel faktörler arasında sayıldığından antrenör tutumuyla ilişkili bu seçenek çevresel faktör kapsamında değerlendirilir.",
+            "Doğru: Biyomekanik dizilim bozuklukları metinde içsel (kişiye bağlı) risk faktörleri listesinde yer alır, çevresel faktör değildir.",
+            "Yanlış: Hava koşulları (sıcaklık, soğuk, nem) metinde açıkça çevresel risk faktörleri arasında sayılmıştır.",
+            "Yanlış: Spor tipi, metinde çevresel faktörler listesinde yer alan unsurlardan biridir.",
+            "Yanlış: Aşırı antrenman/maç yoğunluğu metinde çevresel faktörler arasında belirtilmiştir."
+        ]
+    },
+    {
+      "id": "u4q3",
+      "question": "Aşağıdakilerden hangisi ilk yardımın ilk aşaması olan dokuz hayati bulgu değerlendirmesi arasında yer almaz?",
+      "options": [
+        "Nabız değerlendirmesi",
+        "Kan basıncının değerlendirilmesi",
+        "Ayakta durma durumunun değerlendirilmesi",
+        "Cilt renginin değerlendirilmesi",
+        "Göz bebeklerinin değerlendirilmesi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde dokuz hayati bulgu nabız, solunum, kan basıncı, vücut sıcaklığı, cilt rengi, göz bebekleri, bilinç durumu, hareket yeteneği ve ağrıya tepki olarak sayılmıştır. Ayakta durma durumunun değerlendirilmesi bu dokuz bulgu arasında değildir; bu tür aşamalı zorluk testleri TOTAPS protokolünün \"beceri testleri\" basamağında yer alır.",
+      "optionNotes": [
+        "Yanlış: Nabız değerlendirmesi dokuz hayati bulgudan biridir.",
+        "Yanlış: Kan basıncının değerlendirilmesi dokuz hayati bulgu arasında açıkça sayılmıştır.",
+        "Doğru: Ayakta durma durumunun değerlendirilmesi dokuz hayati bulgu listesinde yer almaz; bu, TOTAPS protokolündeki beceri testleri basamağına aittir.",
+        "Yanlış: Cilt renginin değerlendirilmesi dokuz hayati bulgudan biridir ve dolaşımın göstergesi olarak kullanılır.",
+        "Yanlış: Göz bebeklerinin değerlendirilmesi dokuz hayati bulgu arasında sayılmış, bilinç kaybı ve diğer problemlerin göstergesi olarak belirtilmiştir."
+      ]
+    },
+    {
+      "id": "u4q4",
+      "question": "Aşağıdaki spor yaralanmalarına zemin hazırlayan risk faktörlerinden hangisi, kişiye bağlı risk faktörleri arasında sayılır?",
+      "options": [
+        "Yaş",
+        "Spor ayakkabı",
+        "Hava koşulları",
+        "Zemin özellikleri",
+        "Işıklandırma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde yaş, kişinin kendisinden kaynaklı (içsel) risk faktörleri arasında sayılmıştır; özellikle 12-15 yaş adölesan dönemdeki hızlı büyüme ve yaşlanmaya bağlı doku değişiklikleri örnek verilmiştir. Spor ayakkabı, hava koşulları, zemin özellikleri ve ışıklandırma ise metinde çevresel faktörler arasında listelenmiştir.",
+      "optionNotes": [
+        "Doğru: Yaş, metinde içsel (kişiye bağlı) risk faktörleri arasında açıkça sayılmıştır.",
+        "Yanlış: Spor ayakkabı, ekipman-zemin etkileşimi başlığı altında çevresel bir faktör olarak geçmektedir.",
+        "Yanlış: Hava koşulları metinde çevresel faktörler arasında yer alır.",
+        "Yanlış: Zemin özellikleri ekipman/zemin etkileşimi kapsamında çevresel bir faktördür.",
+        "Yanlış: Işıklandırma metinde çevresel risk faktörleri listesinde sayılmıştır."
+      ]
+    },
+    {
+      "id": "u4q5",
+      "question": "Solunumu ve nabzı olmayan yetişkin bir kişiye suni solunum, kalp masajı sayılarınız ne kadar olmalıdır?",
+      "options": [
+        "İki nefes suni solunum, 15 kalp masajı",
+        "Üç nefes suni solunum, 10 kalp masajı",
+        "Beş nefes suni solunum, 10 kalp masajı",
+        "Beş nefes suni solunum, 5 kalp masajı",
+        "Üç nefes suni solunum, 5 kalp masajı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde kalp-solunum canlandırması (KSC) tek kişi tarafından uygulanıyorsa \"15 kalp masajına karşılık 2 solunum olacak şekilde devam edilmelidir\" denmektedir. Bu nedenle doğru oran 2 nefes suni solunuma karşılık 15 kalp masajıdır.",
+      "optionNotes": [
+        "Doğru: Metinde belirtilen oran tam olarak 2 suni solunuma karşılık 15 kalp masajıdır.",
+        "Yanlış: Metinde belirtilen 15:2 oranıyla uyuşmamaktadır, hem nefes hem masaj sayısı farklıdır.",
+        "Yanlış: Bu oran metinde belirtilen 15 kalp masajı-2 solunum oranıyla örtüşmemektedir.",
+        "Yanlış: Hem suni solunum hem kalp masajı sayısı metindeki 15:2 oranından farklıdır.",
+        "Yanlış: Bu kombinasyon metinde tanımlanan KSC oranına uymamaktadır."
+      ]
+    },
+    {
+      "id": "u4q6",
+      "question": "Aşağıdakilerden hangisi spor yaralanmalarını önleme piramidinde ilk basamağı oluşturur?",
+      "options": [
+        "Yüklenme yönetimi",
+        "Beceri testleri",
+        "Germe",
+        "Risk faktörü analizi",
+        "Fiziksel uygunluk düzeyini geliştirme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde spor yaralanmalarını önleme piramidinin ilk basamağının hedef grup belirleme ve bu grup üzerinde yapılan risk faktörü analizi olduğu, bunun diğer basamaklar için temel oluşturduğu belirtilmektedir. Yüklenme yönetimi ikinci, atletik gelişim/kuvvet-kondisyon üçüncü, hareket verimliliği dördüncü basamaktır; piramidin tepesinde ise önceki yaralanma-rehabilitasyon süreci yer alır.",
+      "optionNotes": [
+        "Yanlış: Yüklenme yönetimi piramidin ilk basamağı değil, risk faktörü analizinden sonra gelen ikinci basamağıdır.",
+        "Yanlış: Beceri testleri, piramit basamaklarından biri değildir; TOTAPS sahada değerlendirme protokolüne aittir.",
+        "Yanlış: Germe, metinde piramidin basamakları arasında ayrı bir madde olarak geçmemektedir.",
+        "Doğru: Metin, hedef belirleme ve risk faktörü analizinin piramidin temel (ilk) basamağı olduğunu açıkça belirtir.",
+        "Yanlış: Fiziksel uygunluk/atletik gelişimin iyileştirilmesi piramidin ilk basamağı değil, daha sonraki bir basamağıdır."
+      ]
+    },
+    {
+      "id": "u4q7",
+      "question": "Aşağıdakilerden hangisi spor yaralanması sonrası yumuşak doku hasarı olan bir sporcuda görülen semptomlardan biri değildir?",
+      "options": [
+        "Ciltte kızarıklık",
+        "Şişlik",
+        "Ağrı",
+        "İğnelenme",
+        "Ciltte ısı artışı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde yumuşak doku yaralanmasının fizyolojik cevabı doku içi kanama, ödem (şişlik), ağrı-hassasiyet, ciltte sıcaklık artışı ve kızarıklık olarak tanımlanmıştır. İğnelenme hissi ise yaralanmanın doğrudan bir semptomu değil, soğuk/buz uygulaması sırasında belirli bir evrede hissedilen bir duyu olarak metinde ayrıca açıklanmıştır; bu nedenle yumuşak doku hasarının semptomları arasında sayılmaz.",
+      "optionNotes": [
+        "Yanlış: Ciltte kızarıklık, metinde yumuşak doku yaralanmasının semptomlarından biri olarak sayılmıştır.",
+        "Yanlış: Şişlik (ödem), yaralanma sonrası gelişen doku cevabının temel bir bulgusudur.",
+        "Yanlış: Ağrı, yaralanan bölgede gelişen hassasiyetle birlikte metinde belirtilen bir semptomdur.",
+        "Doğru: İğnelenme hissi, metinde soğuk/buz uygulaması sırasında belirli bir aşamada hissedilen bir duyu olarak geçer; yumuşak doku yaralanmasının doğrudan bir semptomu olarak sayılmamıştır.",
+        "Yanlış: Ciltte ısı artışı, metinde yaralanma sonrası gelişen semptomlardan biri olarak belirtilmiştir."
+      ]
+    },
+    {
+      "id": "u4q8",
+      "question": "Aşağıdakilerden hangisi spor yaralanmaları sonrası uygulanan kabul görmüş en güncel ilk yardım protokolünün kısaltmasıdır?",
+      "options": [
+        "RICE",
+        "PRICE",
+        "POLICE",
+        "POLICET",
+        "RICED"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde kas iskelet sistemi yaralanmalarını tedavi etmede kullanılan en güncel ilk yardım yönteminin \"POLICE\" (Protection, Optimal Loading, Ice, Compression, Elevation) olarak bilindiği belirtilmiştir. RICE ve PRICE eski, önceki protokollerdir; POLICET ve RICED metinde geçmeyen kısaltmalardır.",
+      "optionNotes": [
+        "Yanlış: RICE, POLICE'den önce kullanılan ve dinlenmeyi içeren eski bir protokoldür, güncel kabul edilen protokol değildir.",
+        "Yanlış: PRICE, RICE'a koruma eklenmiş ama hâlâ dinlenme içeren, POLICE'den önceki ara protokoldür.",
+        "Doğru: Metinde POLICE, en güncel ve kabul görmüş ilk yardım protokolü olarak tanımlanmıştır.",
+        "Yanlış: POLICET metinde geçen bir kısaltma değildir, böyle bir protokol tanımlanmamıştır.",
+        "Yanlış: RICED metinde geçen bir kısaltma değildir."
+      ]
+    },
+    {
+      "id": "u4q9",
+      "question": "Aşağıdakilerden hangisi spor yaralanmalarından sonra uygulanan ilk yardım protokolünün aşamalarından biri değildir?",
+      "options": [
+        "Koruma",
+        "Dinlenme",
+        "Buz",
+        "Kompresyon",
+        "Elevasyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Güncel POLICE protokolü Koruma (Protection), Uygun Yüklenme (Optimal Loading), Buz (Ice), Kompresyon (Compression) ve Elevasyon (Elevation) aşamalarından oluşur. Dinlenme (Rest), eski RICE/PRICE protokollerinde vardı ancak yapılan çalışmalar hareketsiz bırakmanın dokunun güçlü iyileşmesini engellediğini gösterdiği için POLICE'de dinlenme yerine \"uygun yüklenme\" getirilmiştir; dolayısıyla dinlenme güncel protokolün bir aşaması değildir.",
+      "optionNotes": [
+        "Yanlış: Koruma, POLICE protokolünün ilk aşamasıdır (P harfi).",
+        "Doğru: Dinlenme, eski RICE/PRICE protokollerine ait bir aşamadır; POLICE protokolünde dinlenme yerine uygun yüklenme (Optimal Loading) kullanılır, bu yüzden güncel protokolün aşaması değildir.",
+        "Yanlış: Buz uygulaması, POLICE protokolünün I (Ice) aşamasıdır.",
+        "Yanlış: Kompresyon, POLICE protokolünün C (Compression) aşamasıdır.",
+        "Yanlış: Elevasyon, POLICE protokolünün E (Elevation) aşamasıdır."
+      ]
+    },
+    {
+      "id": "u4q10",
+      "question": "Soğuk uygulama prensipleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Genellikle sporcu yaralandıktan sonraki ilk 24-48 saat içinde kullanılır.",
+        "Uygulama süresi minimum 25 dakikadır.",
+        "Buz kalıbı direkt cilde uygulanmamalı, araya bir bandaj/havlu yerleştirilmelidir.",
+        "Uygulama yapılan bölge takip edilmeli, aşırı morarma, dolaşımsal bozukluk gözlenirse soğuk tedavisi uygulanmamalıdır.",
+        "Açık yara varsa buz torbası direkt yara üzerine uygulanmamalıdır."
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde soğuğun etkisinin görülmesi için uygulama süresinin minimum 12-15 dakika, maksimum 30 dakika olması gerektiği belirtilmiştir. Bu nedenle \"uygulama süresi minimum 25 dakikadır\" ifadesi metinle çelişir ve yanlıştır; diğer tüm ifadeler metinde doğrudan verilen soğuk uygulama ilkeleriyle uyumludur.",
+      "optionNotes": [
+        "Yanlış seçilmemeli (doğru bir ifade): Metinde soğuk uygulamanın genellikle ilk 24-48 saat içinde kullanıldığı, gerekirse 7-10 güne kadar sürdürülebildiği belirtilmiştir.",
+        "Doğru (yanlış olan ifade budur): Metinde minimum süre 12-15 dakika olarak belirtilmiştir, 25 dakika değildir; bu ifade metinle çelişir.",
+        "Yanlış seçilmemeli (doğru bir ifade): Metinde buzun cilde direkt temas etmemesi için araya ıslak bir bez/havlu/bandaj konulması gerektiği belirtilmiştir.",
+        "Yanlış seçilmemeli (doğru bir ifade): Metinde aşırı morarma veya dolaşımsal bozukluk gözlenirse soğuk tedavisinin uygulanmaması gerektiği açıkça belirtilmiştir.",
+        "Yanlış seçilmemeli (doğru bir ifade): Metinde açık yara varsa buz torbasının direkt yara üzerine uygulanmaması gerektiği belirtilmiştir."
+      ]
+    }
+  ]
+}

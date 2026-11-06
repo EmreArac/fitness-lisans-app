@@ -1,0 +1,245 @@
+{
+  "id": 3,
+  "title": "Spor Psikolojisi I",
+  "learningOutcomes": [
+    "Spor psikolojisinin tarihsel geçmişini açıklayabilme",
+    "Spor psikolojisinin amaçlarına bağlı olarak işlevlerini ifade edebilme",
+    "Spor psikologlarının rollerini ifade edebilme",
+    "Çocuk ve genç sporcuların spora katılma ve bırakma nedenlerini ifade edebilme",
+    "Sporcuların temel ihtiyaçlarını gidermeye yönelik antrenman ortamını açıklayabilme",
+    "Motivasyonel iklim kavramını ve ilkelerini açıklayabilme",
+    "İletişimin temel kavramlarını ifade edebilme",
+    "Etkili iletişim yöntemlerini açıklayabilme",
+    "Verimli iletişim tekniklerini açıklayabilme"
+  ],
+  "keywords": [
+    "Spor",
+    "Psikoloji",
+    "Spor Psikolojisi",
+    "Egzersiz Psikolojisi",
+    "Çocuk Sporcu",
+    "Genç Sporcu",
+    "İletişim",
+    "Antrenör İletişimi"
+  ],
+  "summary": [
+    {
+      "heading": "Spor Psikolojisinin Tarihsel Geçmişi ve Temel Kavramlar",
+      "paragraphs": [
+        "Spor psikolojisi alanındaki ilk bilimsel çalışma, 1898 yılında sosyal psikolog Norman Triplett tarafından yazılan bir yüksek lisans tezi kapsamında gerçekleştirilmiştir; bu da alanın bugüne kadar yaklaşık 130 yıllık bir tarihsel geçmişe sahip olduğunu göstermektedir. Türkiye’de ise spor psikolojisine ilişkin ilk yayın, 1943 yılında yayımlanan “Sporun Fizyo Patolojisi” adlı çevirinin içinde yer alan “Sporda Psikolojik Faktörler” adlı bölümdür. O günden bugüne alanla ilgili çalışmalar her geçen gün artmış, uluslararası iş birlikleri gelişmiş ve uygulama boyutunda ciddi bir artış yaşanmıştır.",
+        "Spor, egzersiz, spor psikolojisi ve egzersiz psikolojisi kavramları birbirinden farklıdır. Spor; belirli kurallara göre, rekabet ölçüleri içinde mücadele etme, heyecan duyma, yarışma ve en iyi performansı sergileme amacını içerir, amaç kazanmak ve yarışmaktır. Egzersiz; belli bir program dâhilinde, fiziksel kapasite zorlanmadan, beden ve ruh sağlığını geliştirmek amacıyla yapılan hareketler bütünüdür, burada amaç sağlıktır. Spor Psikolojisi, psikolojinin ilke ve kurallarının spor ortamına uygulanmasıdır; Egzersiz Psikolojisi ise psikoloji ilke ve kurallarının egzersiz ortamına uygulanmasıdır ve 1982 yılından itibaren Amerikan Psikoloji Birliği tarafından spordan ayrı bir alt alan olarak tanımlanmıştır.",
+        "Spor ile egzersiz arasındaki temel fark amaç açısındandır: sporda amaç kazanmak ve yarışmak, egzersizde ise sağlıktır. Bu amaç farkı nedeniyle, bu aktivitelere katılan bireylerin davranışları da farklılık gösterecektir. Benzer biçimde, fiziksel etkinlik/aktivite (iskelet kaslarından bedensel hareketle enerji oluşumu), egzersiz (planlı, yapılandırılmış ve tekrarlanabilir bir alt grup) ve fiziksel sağlıklılık (fiziksel etkinliği uygulayabilme yeteneği) kavramları da birbirinden ayırt edilmelidir."
+      ]
+    },
+    {
+      "heading": "Spor Psikolojisinin Amaçları ve İşlevleri",
+      "paragraphs": [
+        "Amerikan Psikoloji Birliği (APA), spor psikolojisinin iki temel amacını şöyle belirlemiştir: (1) spora katılımın bireyin yaşamı boyunca psikolojik gelişimini ve sağlıklı oluşunu nasıl etkilediğini anlamak (sağlık amaçlı) ve (2) sporcuların performansları için gerekli psikoloji ilkelerinin kullanılmasına yardımcı olmak (performans amaçlı). Bu iki amaca bağlı olarak üç temel işlev belirlenmiştir.",
+        "Birinci işlev, fiziksel performansı arttırma ve toparlanmaya yardımcı olmak amacıyla gerçekleştirilen uygulamalardır: sporcu kişiliği çalışmaları, motivasyon çalışmaları, konsantrasyon çalışmaları, algılama çalışmaları, dikkat çalışmaları, çeşitli gevşeme çalışmaları ve kendine güven çalışmaları. Motivasyon, en basit tanımıyla “kişinin çabalarının yönü ve şiddeti” olarak ifade edilir; konsantrasyon, bireyin verimli bir durumda en önemli şey üzerine isteyerek ortaya koyduğu zihinsel çabadır; algı/algılama ise duyu organlarından alınan bilişsel girdilerin beyin tarafından anlamlandırılması sürecidir ve “algıda seçicilik” adı verilen bir filtreleme içerir.",
+        "İkinci işlev, sporcuların teknik öğrenimlerini hızlandırmak ve müsabakaya hazırlanmalarını sağlamak amacıyla gerçekleştirilen çalışmalardır: beceri öğrenimi ağırlıklı zihinsel antrenmanlar, müsabakaya hazırlık amaçlı zihinsel antrenmanlar ve müsabakalara yönelik hayal etme (imgeleme) çalışmaları. Zihinsel antrenman konusu, 1960-1970’lerden itibaren spor psikolojisi literatüründe önemli bir yer tutmaktadır ve kendine güven gibi zihinsel süreçlerle motor becerileri geliştirmede sıklıkla önerilmektedir.",
+        "Üçüncü işlev, performansa engel olan psikolojik etmenlerin ortadan kaldırılması amacıyla yapılan çalışmalardır: müsabaka kaygısı, müsabaka stresi, gerginlikler, tükenme ve çeşitli ruhsal sorunlar. Yarışma kaygısı, “yarışma sürekli kaygısı” (rekabeti tehdit olarak algılama) ve “yarışma durumluk kaygısı” (belirli bir durum öncesinde yaşanan olumsuz düşünceler) olmak üzere ikiye ayrılır. Tükenme ise aşırı çalışma ve rekabete karşı duyulan yetersizlik çabasının ortaya koyduğu psikofizyolojik bir tepki olarak tanımlanır ve sporu bırakmaktan farklı bir durum olarak değerlendirilir."
+      ]
+    },
+    {
+      "heading": "Spor Psikoloğunun Rolleri",
+      "paragraphs": [
+        "Palacio ve Salmela (1986), spor psikologlarının rollerini araştırmacı/akademisyen ve uygulamacı olmak üzere iki başlıkta ele almıştır. Amerika Birleşik Devletleri Milli Olimpiyat Komitesi ve APA adına May’in yaptığı çalışma sonrasında ise bu rolün üç başlık altında toplanması daha uygun görülmüştür: araştırmacı, klinik-danışmanlık ve eğitimci rolleri.",
+        "Uygulamacı (danışmanlık) rolünde spor psikoloğu, takımların yarışma ve antrenmandaki performanslarını artırıcı psikolojik becerileri geliştirmede danışmanlık yapar ve takım içinde iyi bir hava yakalanmasını sağlar; sporculara müsabaka stresi ve kaygısıyla başa çıkma stratejilerini, dikkat ve konsantrasyonu geliştirecek yöntemleri öğretir, motivasyonel süreçleri belirler ve kendine güveni artırmaya çalışır.",
+        "Eğitimci (akademisyen) rolünde spor psikoloğu, spor bilimleri bölümlerinde görev yapıyorsa spor psikolojisi, egzersiz psikolojisi, sporun sosyal psikolojisi, motor öğrenme ve motor kontrol gibi dersler; psikoloji bölümlerinde çalışıyorsa kişilik psikolojisi, gelişim psikolojisi ve öğrenme psikolojisi gibi dersler yürütür. Bu rol daha çok akademik nitelikli araştırma faaliyetlerini içerir ve kişi genellikle bir üniversite öğretim elemanıdır.",
+        "Klinik-danışmanlık rolü, performans sporcularının sık yaşadığı alkol ve ilaç kullanımı, ilişki bozuklukları, yeme bozuklukları ve şiddetli depresyon gibi klinik nitelikli sorunlara müdahale edebilmeyi kapsar; bu alanda çalışacak kişilerin klinik psikoloji eğitimi almış olması gerekmektedir. Spor psikoloğu olabilmek için farklı ülkelerde farklı yaklaşımlar bulunsa da temelde psikologlar ve spor bilimciler olmak üzere iki meslek grubundan bahsedilebilir; bu kişiler karşılıklı olarak birbirlerinin alanından dersler alıp yüksek lisans/doktora eğitimlerini tamamlayarak spor psikoloğu rolü kazanabilirler."
+      ]
+    },
+    {
+      "heading": "Çocuk ve Genç Sporcuların Spora Katılma ve Bırakma Nedenleri",
+      "paragraphs": [
+        "Spora katılımın en yoğun olduğu dönemin 12 yaş civarında olduğu, katılımın 10-13 yaş arasında zirveye ulaştığı ve 18 yaşına doğru ciddi şekilde azaldığı tespit edilmiştir. Yapılan bir çalışmada, 7 yaşından önce spora başlayan gençlerin yaklaşık %75’inin 15 yaşına gelmeden sporu bıraktığı ortaya konulmuştur.",
+        "Çocuk ve genç sporcuların spora katılma motivasyonunun çoğu doğası gereği içseldir: eğlenme, yeni beceriler öğrenme, iyi olduğu bir şeyler yapma, arkadaşlarıyla vakit geçirme, yeni arkadaşlar edinme, formunu koruma, egzersiz yapma ve başarıyı tecrübe etme. Kazanma kesinlikle ne tek ne de en yaygın katılma sebebidir. Sporu bırakmanın betimleyici nedenlerinin (örn. eğlenmeme) altında yatan asıl unsur, çocuğun değerli ve yetkin hissetme ihtiyacının karşılanmamasıdır; genç sporcular aktivitede kendilerini değerli ve yetkin hissettiklerinde spora katılma eğilimleri de artar.",
+        "Sporu bırakma nedenleri araştırıldığında en sık görülen yanıt, sporun artık yeterince keyifli ve eğlenceli bulunmamasıdır. Bunun yanında başka ilgi alanlarının ortaya çıkması, sporcunun hissettiği aşırı baskı, antrenörü sevmeme, başarısızlık ve kazanmaya aşırı önem verilmesi gibi olumsuz nedenler de bırakma kararlarını etkileyen en büyük etkenler arasındadır. Takım sporlarında, takım ruhunun yeterince destekleyici hissedilmemesi de önemli bir bırakma nedenidir; sonuçlar, antrenör ve takım arkadaşlarının genç sporcuların bırakma kararını etkileyen en büyük iki etken olduğunu göstermektedir.",
+        "Çocuk ve genç sporcuların öncelikli dört ihtiyacı şunlardır: eğlenmek ve heyecan deneyimlemek, bir gruba ait olduğunu ve kabul edildiğini hissetmek, davranışları üzerinde kontrol ve özerklik hissetmek ve yeterli hissetmek. Yetişkin elit sporcular için tasarlanan sert antrenörlük yöntemleri (cezalandırma, ağır eleştiri, duygu patlaması), çocuk ve genç sporcularda özgüven, öz yeterlik algısı ve spora katılım motivasyonu açısından olumsuz etkiler yaratmaktadır."
+      ]
+    },
+    {
+      "heading": "Sporcuların Temel Psikolojik İhtiyaçları ve Antrenman Ortamı",
+      "paragraphs": [
+        "Her insanın doğuştan gelen psikolojik ihtiyaçları vardır ve bu ihtiyaçların doyurulması bireyin iyilik halini sağlar. Spor ortamında karşılanması önemli olan bu evrensel ihtiyaçlar yeterlik, özerklik ve ilişkisellik ihtiyacıdır. Özerklik ihtiyacı, sporcunun benliğiyle bütünlük içinde olan davranışlarını sergileme, davranışları başlatma-sürdürme-sona erdirme konusunda tercih/onay/irade hissini deneyimleme ihtiyacıdır. İlişkisellik ihtiyacı, diğerlerinden algılanan sıcaklık ve ilginin bir sonucu olarak ortaya çıkan genel bir ait olma duygusudur. Yeterlik ihtiyacı ise sporcunun bir işi yapmak için gerekli güce, bilgiye ve beceriye sahip olduğuna ve yapabileceğine inanmasıdır.",
+        "Yeterlilik algısı motivasyonun temelidir ve başarı deneyimiyle birlikte artar. Dışsal ödüller algılanan yeterliliği artırırsa içsel motivasyonu desteklerken, azaltırsa ya da manipülatif şekilde görülürse içsel motivasyonu düşürür. Yeterlik duygusuna özerklik hissi eşlik etmediğinde içsel motivasyonla hareket etme artmaz; ilişkisellik ihtiyacı ise içsel motivasyon üzerinde özerklik ve yeterlik ihtiyacına göre daha az rol oynar. Bu nedenle sosyal çevrenin özerklik ve yeterlik ihtiyaçlarını desteklemesi önemlidir.",
+        "Antrenörlerin özerkliği desteklemek için karar verme süreçlerine sporcuları dahil etmesi, onlarla tartışması ve birlikte hedef belirlemesi; yeterliği desteklemek için olumlu geribildirim kullanması ve uygun görev dağılımı yapması; ilişkiselliği desteklemek için sıcak ve samimi bir iş birliği ortamı oluşturması gerekir. Tablo 3.1’de özetlenen yöntemler; duygusal yakınlık (sosyal etkinlikler düzenlemek), beceri gelişimi (etkin ve olumlu geri bildirim vermek), başarı (kazanmayı kişisel hedeflere ulaşmak olarak tanımlamaya yardımcı olmak), eğlenme (gerçekçi beklentiler oluşturmak), heyecan (rutin dışı ve çeşitli aktiviteler eklemek) ve formda kalma ihtiyaçlarını karşılamaya yönelik somut antrenörlük önerileridir."
+      ]
+    },
+    {
+      "heading": "Motivasyonel İklim",
+      "paragraphs": [
+        "Motivasyonel iklim, öğrenme ortamındaki kişilerarası süreçler ve değerlendirmeyle ilgili duyuşsal ve sosyal durumu ifade eder; antrenörler tarafından kullanılan hedef belirleme ve ödüllendirme biçimini temsil eder ve sosyal bağlamda neyin kabul gördüğünü şekillendirir. Motivasyonel iklim ikiye ayrılır: Ustalık İklimi (görev yönelimli) ve Performans İklimi (ego/sonuç yönelimli).",
+        "Ustalık iklimi; başarı, bireysel gelişim ve çabayı kendine ölçüt alan, kişisel standartlara (çaba, gelişim, görev ustalığı) dayanan bir iklimdir. Ustalık yönelimli sporcu, kazanmayı diğerlerini yenmek olarak değil kendi yeteneklerinin derinine ulaşma ve kendine karşı yarışma olarak görür; oyunu kaybetse bile iyi oynamışsa kendini başarılı hisseder. Performans iklimi ise kötü performans ve hataların cezalandırılacağına, daha yetenekli oyunculara daha fazla ilgi gösterildiğine ve takım içi rekabetin antrenör tarafından yaratıldığına inanılan bir ortamdır; sonuç yönelimli sporcularda motivasyon kırılgandır ve kaygı düzeyleri daha yüksektir.",
+        "Antrenörler, ustalık yönelimli bir motivasyonel iklim oluşturmak için “TARGET” yaklaşımını kullanabilir: Task (görev), Authority (özerklik), Rewards (ödül), Grouping (grup), Evaluation (değerlendirme) ve Time (zaman) yapılarını öğrenmeye, çabaya ve kişisel gelişime odaklı şekilde düzenlemek. Araştırmalar, performans ikliminin sporcularda ahlaktan uzaklaşma (antisosyal davranışlar) ile anlamlı şekilde ilişkili olduğunu, ustalık ikliminin ise prososyal davranışları, özerklik algısını ve daha düşük kaygı düzeyini desteklediğini göstermektedir.",
+        "Çocuk sporlarında antrenörlüğün 12 ilkesi arasında şunlar yer alır: olumlu, eğitici ve özerkliği destekleyici olmak; doğru yapılanlara odaklanıp içtenlikle övmek; gerçekçi beklentiler geliştirmek; çabayı sonuç kadar ödüllendirmek; öğretme ve uygulama becerilerine odaklanmak; aktiviteleri çocuğa uyarlamak (“çocuğu aktiviteye değil, aktiviteyi çocuğa uydurmak”); kuralları motivasyonu artıracak şekilde düzenlemek; sadece sonucu değil doğru tekniği de ödüllendirmek; hataları olumlu “sandviç” yaklaşımıyla düzeltmek; yeni beceri deneme korkusunu azaltan bir ortam oluşturmak ve coşkulu olmaktır."
+      ]
+    },
+    {
+      "heading": "İletişimin Temel Kavramları",
+      "paragraphs": [
+        "İletişim, bilgilerin, düşüncelerin ya da fikirlerin yazılı, sözlü ya da sinyaller yoluyla karşı tarafa aktarımıdır; statik değil dinamik bir yapıya sahip, sürekli değişen ama kendi içinde tutarlı bir süreçtir. Spor ortamında özellikle antrenör-sporcu ilişkisinde tek yollu iletişim sık görülür. Tablo 3.2’ye göre bu sürecin aşamaları şöyledir: mesajı gönderecek birey tarafından mesajı gönderme kararı verilir, mesajın ne şekilde (sözlü/yazılı/sözsüz) iletileceğine karar verilir (kodlama), mesaj uygun kanalla karşı tarafa aktarılır, mesaj alıcı tarafından çözümlenir (kod açma) ve son olarak alıcı tarafından mesaja verilen içsel tepkiler gerçekleşir. Tek yollu iletişimde sporcunun tepkileri antrenöre geri iletilmediğinden, bu süreç her zaman etkili bir iletişim yöntemi olmayabilir.",
+        "İletişim şekli olarak birey içi (kişi içi) iletişim ve bireyler arası iletişim ayrımı yapılır. Bireyler arası iletişim, en az iki kişi arasında anlamlı mesajların değiş tokuş edildiği işlemi ifade eder. Birey içi iletişim ise bireyin kendisiyle gerçekleştirdiği, genellikle sözsüz biçimde gerçekleşen içsel iletişim/konuşmadır ve hem bireyler arası iletişimin başlatılmasında hem de bireyin kendi motivasyon ve davranışlarını etkilemesinde önemli bir yer tutar. İletişimde gönderilen mesajların yaklaşık %50-70’inin sözsüz gerçekleştiği belirtilmektedir.",
+        "Martens (1997), sözsüz iletişim için beş farklı yol önermiştir: fiziksel görüntü, vücut hareketleri (jestler), dokunma, ses özellikleri ve vücudun konumu. Fiziksel görüntü (giyim, dış görünüş) özellikle ilk karşılaşmalarda önemli bir mesaj kaynağıdır; vücut hareketleri (örn. kolları göğse çekmek kapalı/rekabetçi bir tutumu, göz teması kesmek rahatsızlığı gösterir) istemsizce mesaj verir; dokunma kültürler arası farklılık gösteren güçlü bir sözsüz iletişim yoludur; ses özellikleri “ne söylediğinden çok nasıl söylediğini” öne çıkarır; vücudun konumu ise bireyler arasındaki mesafe aracılığıyla iletişimin niteliğini (yakınlık/samimiyet ya da uzaklık/gerginlik) yansıtır."
+      ]
+    },
+    {
+      "heading": "Etkili İletişim Yöntemleri",
+      "paragraphs": [
+        "Etkili bir iletişim kanalı oluşturabilmek için insanların baskın iletişim kanalları olan görme ve işitmenin yanında dokunma, koku alma, tatma ve kinestetik duyumlar da kullanılır. Sabit Kapasite Kuramı’na göre insanlar sabit bir dikkat kapasitesine sahiptir ve aynı anda sınırlı sayıda uyaranı (bilgiyi) işleme koyabilirler. Bu nedenle gelen mesajların yalnızca bir kısmı işleme alınırken, geçmiş yaşantılar ve o anki duygusal durumun etkisiyle devreye giren “seçici dikkat” sayesinde diğer mesajlar göz ardı edilebilir; bu durum antrenör-sporcu iletişiminde anlaşılamama gibi çatışmalara yol açabilir.",
+        "Martens (1997), verimli ve geçerli mesaj gönderebilmek için Tablo 3.3’te sıralanan ilkeleri ortaya koymuştur: mesajı doğrudan ilgili kişiye göndermek; “ben/benim” dilini kullanarak mesajı sahiplenmek; mesajı açık, tutarlı ve zamanında iletmek; gizli imalardan kaçınmak; sözlü ve sözsüz mesajların birbiriyle tutarlı olmasını sağlamak; aynı anda tek bir konuya odaklanmak ve alıcıdan geri bildirim alarak mesajın doğru anlaşıldığını teyit etmek.",
+        "İletişimde ortaya çıkan çatışmalar iki başlıkta toplanır: mesaj gönderenden kaynaklı hatalar (çift anlamlı, tutarsız ya da anlamı tam olarak belli olmayan mesaj gönderilmesi; örneğin antrenörün tutarsız sözler vermesi) ve mesajı alandan kaynaklı hatalar (alıcının iletişime tam olarak katılmaması, gerekli ilgi ve dikkati vermemesi ya da mesajı kendi geçmiş yaşantılarına göre istediği gibi yorumlaması)."
+      ]
+    },
+    {
+      "heading": "Verimli İletişim Teknikleri",
+      "paragraphs": [
+        "Mesajları verimli alabilmenin en önemli unsuru dinleme becerisidir; araştırmalar, bireylerin iletişimde geçirdikleri zamanın %40’ını dinlemekle geçirdiğini ve dinlemenin insanlar tarafından en önemli iletişim becerisi olarak görüldüğünü ortaya koymuştur. Bu amaçla kullanılan dinleme teknikleri; Katılımcı (Aktif) Dinleme, Destekleyici Dinleme ve Farkında Olarak Dinleme’dir.",
+        "Verimli bir iletişim için gereken temel özellikler şunlardır: Karşılıklı Güven (bireylerin birbirine duydukları, dürüstlüğe dayalı güven), Saygı (sporcuların saygı duydukları antrenörlerle daha verimli iletişim kurması ve daha fazla motive olması) ve Empati (bireylerin kendilerini birbirlerinin yerine koyabilmesi). Antrenörlerin empati kurarken kendi spor geçmişlerini örnek göstermek yerine, değişen zaman, şartlar ve sporcunun kuşağının özelliklerini dikkate almaları gerektiği vurgulanmaktadır.",
+        "Anshel’in belirlediği, spor ortamında etkili iletişim için on altın kural şöyledir: dürüst olmak; savunucu olmamak, iyi bir dinleyici olup başkalarının fikirlerine önem vermek; tutarlı olmak; empatik olmak; iğneleyici ve alaycı olmamak; sadece davranışı eleştirip kişisel eleştirilerden kaçınmak; sözsüz iletişim yollarının farkında olmak ve bunu kullanmak; branştaki spor becerilerini iyi öğretmek; tüm takım üyeleriyle sürekli iletişim halinde olmak ve karşı taraf mesaj gönderirken iletişime katılımcı olup aktif bir şekilde dinleyerek katılmaktır."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "u3q1",
+      "question": "Spor psikolojisi alanında ilk çalışma hangi tarihte yapılmıştır?",
+      "options": ["1880", "1898", "1900", "1910", "1920"],
+      "correctIndex": 1,
+      "explanation": "Spor psikolojisi alanındaki ilk bilimsel çalışma, 1898 yılında sosyal psikolog Norman Triplett tarafından yazılan bir yüksek lisans tezi kapsamında gerçekleştirilmiştir. Bu çalışma, alanın bugüne kadar yaklaşık 130 yıllık bir tarihsel geçmişe sahip olduğunu göstermektedir.",
+      "optionNotes": [
+        "1880 yanlıştır; metinde belirtilen tarih bundan daha sonradır.",
+        "1898 doğrudur; Triplett’in yüksek lisans tezi bu yılda tamamlanmıştır ve alanın ilk bilimsel çalışması sayılır.",
+        "1900 yanlıştır; ilk çalışma bu tarihten iki yıl önce yapılmıştır.",
+        "1910 yanlıştır; bu tarih metinde geçen tarihten sonrasına aittir.",
+        "1920 yanlıştır; metinde belirtilen tarihten çok sonrasına ait bir yıldır."
+      ]
+    },
+    {
+      "id": "u3q2",
+      "question": "Aşağıdakilerden hangisi sporcuların teknik öğrenimlerini hızlandırıcı ve sporcuların müsabakaya hazırlanmalarını sağlamak amacıyla kullanılan çalışmalardan biridir?",
+      "options": ["Beceri öğrenimi ağırlıklı zihinsel antrenmanlar", "Sporcu kişiliği", "Motivasyon çalışmaları", "Konsantrasyon çalışmaları", "Algılama çalışmaları"],
+      "correctIndex": 0,
+      "explanation": "Beceri öğrenimi ağırlıklı zihinsel antrenmanlar, sporcuların teknik öğrenimlerini hızlandırmak ve müsabakaya hazırlanmalarını sağlamak amacıyla gerçekleştirilen çalışmalar grubundadır. Diğer seçenekler (sporcu kişiliği, motivasyon, konsantrasyon, algılama çalışmaları) ise fiziksel performansı arttırma ve toparlanmaya yardımcı olmak amacıyla yapılan uygulamalar kapsamındadır.",
+      "optionNotes": [
+        "Doğrudur; zihinsel antrenman teknikleri, beceri öğrenimini ve müsabakaya hazırlığı hızlandırmak için kullanılır.",
+        "Sporcu kişiliği çalışmaları, teknik öğrenimi hızlandırmaktan ziyade fiziksel performansı arttırma işlevi kapsamındadır.",
+        "Motivasyon çalışmaları fiziksel performansı arttırma ve toparlanmaya yardımcı olma işlevi altında yer alır, teknik öğrenim hızlandırma değildir.",
+        "Konsantrasyon çalışmaları da fiziksel performansı arttırma işlevine dahildir.",
+        "Algılama çalışmaları fiziksel performansı arttırma ve toparlanmaya yardımcı olma işlevi kapsamında ele alınır."
+      ]
+    },
+    {
+      "id": "u3q3",
+      "question": "Aşağıdakilerden hangisi fiziksel performansı artırma ve toparlanmaya yardımcı olmak amacıyla kullanılan spor psikolojisi uygulamalarından biri değildir?",
+      "options": ["Kendine güven çalışmaları", "Gerginlikler", "Çeşitli gevşeme çalışmaları", "Dikkat çalışmaları", "Algılama çalışmaları"],
+      "correctIndex": 1,
+      "explanation": "Gerginlikler, performansa engel olan psikolojik etmenlerin ortadan kaldırılması amacıyla yapılan çalışmalar kapsamında ele alınır; fiziksel performansı artırma ve toparlanmaya yardımcı olma işlevi içinde yer almaz. Diğer dört seçenek (kendine güven, gevşeme, dikkat, algılama çalışmaları) bu işlevin alt başlıklarıdır.",
+      "optionNotes": [
+        "Kendine güven çalışmaları fiziksel performansı artırma ve toparlanmaya yardımcı olma işlevinin bir parçasıdır, bu yüzden yanlış cevaptır.",
+        "Doğrudur; gerginlikler, performansa engel olan psikolojik etmenler başlığı altında ele alınır, fiziksel performansı artırma uygulamalarından biri değildir.",
+        "Çeşitli gevşeme çalışmaları bu işlevin alt başlıklarından biridir, dolayısıyla yanlış cevaptır.",
+        "Dikkat çalışmaları da fiziksel performansı artırma ve toparlanmaya yardımcı olma işlevi kapsamındadır.",
+        "Algılama çalışmaları yine bu işlevin bir parçasıdır, bu nedenle yanlış cevaptır."
+      ]
+    },
+    {
+      "id": "u3q4",
+      "question": "Performans sporcularının çok sık yaşadığı alkol ve ilaç kullanımı, ilişki bozuklukları, yeme bozuklukları, şiddetli depresyon vb. gibi sorunlara müdahale edebilecek psikolog rolü aşağıdakilerden hangisidir?",
+      "options": ["Gelişim psikoloğu", "Sosyal psikolog", "Eğitimci spor psikoloğu", "Araştırmacı spor psikoloğu", "Klinik spor psikoloğu"],
+      "correctIndex": 4,
+      "explanation": "Spor psikoloğunun klinik ya da danışmanlık rolü, performans sporcularının sık yaşadığı alkol ve ilaç kullanımı, ilişki bozuklukları, yeme bozuklukları ve şiddetli depresyon gibi klinik nitelikli sorunlara müdahale edebilmeyi kapsar. Bu alanda çalışacak kişilerin klinik psikoloji eğitimi almış olması gerekmektedir.",
+      "optionNotes": [
+        "Gelişim psikoloğu, bu tür klinik sorunlara müdahale eden bir rol olarak metinde tanımlanmamıştır.",
+        "Sosyal psikolog da metinde spor psikoloğunun rollerinden biri olarak geçmemektedir.",
+        "Eğitimci spor psikoloğu, daha çok akademik ders verme ve araştırma rolünü üstlenir; klinik müdahale rolü değildir.",
+        "Araştırmacı spor psikoloğu, bilimsel araştırma yapan akademik bir roldür; klinik sorunlara müdahale rolü değildir.",
+        "Doğrudur; klinik spor psikoloğu rolü alkol/ilaç kullanımı, ilişki bozuklukları, yeme bozuklukları ve depresyon gibi sorunlara müdahale eder ve bu rolde klinik psikoloji eğitimi gerekir."
+      ]
+    },
+    {
+      "id": "u3q5",
+      "question": "Bir gencin sporu bırakma nedenleri sıralandığında, en son sırada sayılabilecek gerekçe aşağıdakilerden hangisi olabilir?",
+      "options": ["Sporcunun hissettiği aşırı baskı", "Tesiste yemek verilmemesi", "Antrenörü sevmeme", "Başarısızlık", "Kazanmaya aşırı önem verilmesi"],
+      "correctIndex": 1,
+      "explanation": "Metinde sporu bırakma nedenleri arasında aşırı baskı, antrenörü sevmeme, başarısızlık ve kazanmaya aşırı önem verilmesi açıkça sayılmakta ve bunlar sporcuların bırakma kararlarını etkileyen en büyük etkenler arasında gösterilmektedir. “Tesiste yemek verilmemesi” ise metinde hiç geçmeyen, bırakma nedenleri arasında sayılmayan bir seçenektir; bu nedenle en son sırada (ya da hiç) sayılabilecek gerekçedir.",
+      "optionNotes": [
+        "Sporcunun hissettiği aşırı baskı, metinde açıkça sporu bırakma nedenleri arasında sayılmıştır, dolayısıyla güçlü bir gerekçedir.",
+        "Doğrudur; tesiste yemek verilmemesi, metinde sporu bırakma nedenleri arasında hiç geçmeyen, en zayıf/ilgisiz gerekçedir.",
+        "Antrenörü sevmeme, metinde sporu bırakma kararlarını etkileyen en büyük iki etkenden biri olarak belirtilmiştir.",
+        "Başarısızlık, metinde sporu bırakmaya yol açan olumsuz nedenler arasında sayılmıştır.",
+        "Kazanmaya aşırı önem verilmesi de metinde sporu bırakma nedenleri arasında açıkça belirtilmiştir."
+      ]
+    },
+    {
+      "id": "u3q6",
+      "question": "Aşağıdakilerden hangisi ustalık hedef yönelimli sporcuların özelliklerinden biri değildir?",
+      "options": ["Zorlu ancak gerçekçi görevleri ve rakipleri seçerler.", "Başarısızlıktan korkmazlar.", "Arkadaş edinmede zorlanırlar.", "Yeterlik algıları yüksektir.", "Yeni beceriler öğrenmede isteklidirler."],
+      "correctIndex": 2,
+      "explanation": "Ustalık hedef yönelimli sporcular; zorlu ama gerçekçi görev ve rakipleri seçme, başarısızlıktan korkmama, yüksek yeterlik algısına sahip olma ve kendilerini geliştirmeye/yeni beceriler öğrenmeye istekli olma gibi özelliklere sahiptir. Metinde bu sporcuların sosyal ilişkilerde veya arkadaş edinmede zorlandıklarına dair hiçbir bilgi yer almamaktadır, bu nedenle bu seçenek ustalık yönelimli sporcuların bir özelliği değildir.",
+      "optionNotes": [
+        "Ustalık hedef yönelimli sporcuların, bir dereceye kadar zor ya da gerçekçi görevleri ve rakipleri seçtikleri metinde belirtilmiştir.",
+        "Bu sporcuların başarısızlıktan korkmadıkları metinde açıkça ifade edilmiştir.",
+        "Doğrudur; metinde ustalık yönelimli sporcuların arkadaş edinmede zorlandığına dair herhangi bir bilgi yoktur, bu seçenek onlara ait bir özellik değildir.",
+        "Ustalık yönelimli sporcuların yeterlik algılarının yüksek olduğu metinde belirtilmiştir.",
+        "Bu sporcuların kendilerini geliştirmeye ve yeni şeyler öğrenmeye istekli oldukları, ustalık yöneliminin temel özelliği olarak anlatılmıştır."
+      ]
+    },
+    {
+      "id": "u3q7",
+      "question": "Aşağıdakilerden hangisi, sporcuların öncelikli dört ihtiyacı arasında yer almaz?",
+      "options": ["Eğlenmek ve heyecan deneyimlemek", "Bir gruba ait olduğunu ve kabul edildiğini hissetmek", "Milli takıma seçilmek", "Davranışları üzerinde kontrol ve özerklik hissetmek", "Yeterli hissetmek"],
+      "correctIndex": 2,
+      "explanation": "Metinde sporcuların öncelikli dört ihtiyacı; eğlenmek ve heyecan deneyimlemek, bir gruba ait olduğunu ve kabul edildiğini hissetmek, davranışları üzerinde kontrol ve özerklik hissetmek ve yeterli hissetmek olarak sayılmıştır. Milli takıma seçilmek bu dört temel ihtiyaç arasında yer almaz; bu daha çok dışsal ve sonuca dayalı bir başarı göstergesidir.",
+      "optionNotes": [
+        "Eğlenmek ve heyecan deneyimlemek, metinde sayılan dört temel ihtiyaçtan biridir.",
+        "Bir gruba ait olduğunu ve kabul edildiğini hissetmek de metinde sayılan dört ihtiyaçtan biridir.",
+        "Doğrudur; milli takıma seçilmek, metinde sayılan dört temel ihtiyaç arasında yer almaz, dışsal bir sonuçtur.",
+        "Davranışları üzerinde kontrol ve özerklik hissetmek, metinde açıkça sayılan dört ihtiyaçtan biridir.",
+        "Yeterli hissetmek, metinde sayılan dört temel ihtiyaçtan biri olarak belirtilmiştir."
+      ]
+    },
+    {
+      "id": "u3q8",
+      "question": "Tek yollu iletişim sürecinin gerçekleşme sırasının ilk basamağı aşağıdakilerden hangisidir?",
+      "options": ["Mesajın ne şekilde iletileceğine karar verilir.", "Mesajı gönderecek birey mesajı gönderme kararını verir.", "Mesaj uygun kanalla karşı tarafa aktarılır.", "Alıcı tarafından mesaj çözümlenir.", "Alıcı tarafından mesaja verilen içsel tepkiler gerçekleşir."],
+      "correctIndex": 1,
+      "explanation": "Tablo 3.2’de açıklanan tek yollu iletişim sürecinin ilk basamağı, mesajı gönderecek bireyin mesajı gönderme kararını vermesidir. Bu karardan sonra mesajın ne şekilde iletileceğine (kodlama) karar verilir, mesaj uygun kanalla aktarılır, alıcı tarafından çözümlenir ve son olarak alıcıda içsel tepkiler oluşur.",
+      "optionNotes": [
+        "Mesajın ne şekilde iletileceğine karar verme, sürecin ikinci basamağıdır, ilk adım değildir.",
+        "Doğrudur; süreç, mesajı gönderecek bireyin mesajı gönderme kararını vermesiyle başlar.",
+        "Mesajın uygun kanalla aktarılması, sürecin üçüncü basamağıdır.",
+        "Alıcı tarafından mesajın çözümlenmesi, sürecin dördüncü basamağıdır.",
+        "Alıcıda içsel tepkilerin oluşması, tek yollu iletişim sürecinin son basamağıdır."
+      ]
+    },
+    {
+      "id": "u3q9",
+      "question": "Aşağıdakilerden hangisi mesajları verimli alabilmek için kullanılan dinleme tekniklerinden biri değildir?",
+      "options": ["Katılımcı Dinleme", "Aktif Dinleme", "Tükenme", "Destekleyici Dinleme", "Farkında Olarak Dinleme"],
+      "correctIndex": 2,
+      "explanation": "Mesajları verimli alabilmek için kullanılan dinleme teknikleri; Katılımcı (Aktif) Dinleme, Destekleyici Dinleme ve Farkında Olarak Dinleme olarak sayılmıştır. Tükenme ise bir dinleme tekniği değil, aşırı çalışma ve rekabete karşı duyulan yetersizlik çabasının ortaya koyduğu psikofizyolojik bir tepki olarak tanımlanan tamamen farklı bir kavramdır.",
+      "optionNotes": [
+        "Katılımcı Dinleme, metinde mesajları verimli almak için kullanılan dinleme tekniklerinden biri olarak geçer.",
+        "Aktif Dinleme, metinde Katılımcı Dinleme ile birlikte anılan, verimli mesaj almak için kullanılan bir tekniktir.",
+        "Doğrudur; Tükenme bir dinleme tekniği değildir, performans baskısına bağlı ortaya çıkan psikofizyolojik bir tepkidir.",
+        "Destekleyici Dinleme, metinde sayılan dinleme tekniklerinden biridir.",
+        "Farkında Olarak Dinleme de metinde sayılan dinleme tekniklerinden biridir."
+      ]
+    },
+    {
+      "id": "u3q10",
+      "question": "İletişim halindeki bireylerin kendilerini birbirlerinin yerine koyabiliyor olabilmeleri aşağıdakilerden hangisini ifade etmektedir?",
+      "options": ["Karşılıklı Güven", "Sempati", "Saygı", "Kendine güven", "Empati"],
+      "correctIndex": 4,
+      "explanation": "Empati, iletişim halindeki bireylerin kendilerini birbirlerinin yerine koyabilmesi, yani karşı tarafın bakış açısını anlayabilmesidir. Metinde empatinin, bireylerin birbirlerine değer verdiklerini göstermelerinin bir yolu olduğu ve antrenörlerin güncel şartları dikkate alarak empati kurmaları gerektiği belirtilmiştir.",
+      "optionNotes": [
+        "Karşılıklı güven, bireylerin birbirlerine duydukları dürüstlüğe dayalı inancı ifade eder; kendini karşı tarafın yerine koymayı tanımlamaz.",
+        "Sempati, metinde verimli iletişim unsurları arasında tanımlanmamıştır ve kendini karşı tarafın yerine koymaktan farklı bir kavramdır.",
+        "Saygı, bireylerin birbirlerine duyduğu değeri ifade eder; kendini karşı tarafın yerine koymayı tanımlamaz.",
+        "Kendine güven, bireyin kendi yeteneklerine olan inancıdır; başkasının yerine geçmeyi ifade etmez.",
+        "Doğrudur; empati, kendini karşı tarafın yerine koyabilme ve onun bakış açısını anlayabilme yeteneğidir."
+      ]
+    }
+  ]
+}
