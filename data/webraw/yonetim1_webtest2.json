@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w2q1",
+      "question": "James Watt’ın 1778’de kullanılabilir buhar makinesini yaparak başlattığı Endüstri Devriminden,2 Dünya Savaşına kadar geçen dönemde görülen uygulamalar hangi yönetim biçimidir ?",
+      "options": [
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşım",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı",
+        "Başlangıç Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'de açıkça belirtildiği gibi, James Watt'ın 1778'de buhar makinesini geliştirmesiyle başlayan Endüstri Devrimi'nden İkinci Dünya Savaşı'na kadar süren döneme Klasik Yönetim Yaklaşımı adı verilir. Bu dönemde Bilimsel Yönetim, Yönetim Süreci ve Bürokrasi yaklaşımları gelişmiştir.",
+      "optionNotes": [
+        "Doğru. Metinde bu tarih aralığı (1778 Endüstri Devrimi - 2. Dünya Savaşı) doğrudan Klasik Yönetim Yaklaşımı dönemi olarak tanımlanır.",
+        "Yanlış. Davranışsal (Neo-Klasik) Yaklaşım, 1940'lı-1960'lı yıllar arasında, yani Klasik yaklaşımdan sonra gelişmiştir.",
+        "Yanlış. Modern Yönetim Yaklaşımı çağdaş yaklaşımlar içinde yer alır ve Klasik döneme göre çok daha sonraki bir dönemi kapsar.",
+        "Yanlış. Yönetimde Mükemmellik Yaklaşımı, Tom Peters ve Robert Waterman'ın çalışmalarına dayanır ve 20. yüzyılın sonlarına aittir, bu tarih aralığıyla ilgili değildir.",
+        "Yanlış. Metinde 'Başlangıç Yönetim Yaklaşımı' adıyla anılan bir dönem geçmemektedir; bu kurgusal bir seçenektir."
+      ]
+    },
+    {
+      "id": "w2q2",
+      "question": "İnsanın toplumsal yaşama gereği olan diğer kişilerle ilişkilerini ve davranışlarını inceleyen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Yönetim",
+        "Denetim",
+        "Ekonomi",
+        "Bürokrasi",
+        "Yetki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'de yönetim, 'insanla uğraşan evrensel bir kavram' olarak tanımlanır ve 'insanın toplumsal yaşam içindeki diğer kişilerle ilişkilerini ve davranışlarını' inceler; bu nedenle tanımlanan kavram yönetimdir.",
+      "optionNotes": [
+        "Doğru. Metindeki yönetim tanımı bu ifadeyle birebir örtüşür.",
+        "Yanlış. Denetim, yönetim sürecinin sadece bir aşamasıdır (sonuçların amaçlarla karşılaştırılması), insan ilişkilerini inceleme tanımına karşılık gelmez.",
+        "Yanlış. Ekonomi, kaynakların dağılımı ve kıtlıkla ilgilenen ayrı bir bilim dalıdır, bu tanımla örtüşmez.",
+        "Yanlış. Bürokrasi, Max Weber'in öncülüğünü yaptığı katı kurallara dayalı bir yönetim yaklaşımıdır, insan ilişkilerini inceleyen genel bir kavram değildir.",
+        "Yanlış. Yetki, bir kişinin karar alma ve uygulatma hakkını ifade eder, insan ilişkilerini inceleyen bir disiplin değildir."
+      ]
+    },
+    {
+      "id": "w2q3",
+      "question": "1940’lı yıllardan başlayıp, 1960’lı yıllara kadar süren dönemde hangi yönetim yaklaşımı etkili olmuştur?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde 'Klasik yaklaşımın insanı ihmal etmesine tepki olarak 1940'lı-1960'lı yıllar arasında Neo-Klasik (Davranışsal) Yönetim Yaklaşımı gelişmiştir' denilmektedir; bu nedenle bu tarih aralığında etkili olan yaklaşım Davranışsal (Neo-Klasik) Yönetim Yaklaşımıdır.",
+      "optionNotes": [
+        "Yanlış. 'Endüstri Öncesi Yönetim Yaklaşımı' diye bir dönem adı metinde geçmez, bu kurgusal bir seçenektir.",
+        "Doğru. Metinde bu tarih aralığı doğrudan Neo-Klasik (Davranışsal) Yönetim Yaklaşımı'na atfedilmiştir.",
+        "Yanlış. Modern Yönetim Yaklaşımı, çağdaş yaklaşımlar içinde yer alır ve bu tarihlerden daha sonraki dönemi kapsar.",
+        "Yanlış. Yönetimde Mükemmellik Yaklaşımı, Tom Peters ve Waterman'ın çalışmalarına dayanır, 20. yüzyılın sonlarına ait çok daha sonraki bir yaklaşımdır.",
+        "Yanlış. Klasik Yönetim Yaklaşımı, Endüstri Devrimi'nden 2. Dünya Savaşı'na kadar olan dönemi kapsar, yani 1940'lardan önce sona ermiştir."
+      ]
+    },
+    {
+      "id": "w2q4",
+      "question": "Stratejik planlamada yer Alması gereken temel unsurlar kaç madden oluşur.",
+      "options": [
+        "6",
+        "9",
+        "5",
+        "8",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 1'in tam metninde 'Stratejik Planlamada Yer Alması Gereken Temel Unsurlar' başlığı altında sekiz madde sayılmıştır: durum analizi, katılımcılığın nasıl sağlandığı, misyon/vizyon/temel değerler, en az bir amaç, her amaç altında en az bir hedef, ölçülebilir ölçüm kriterleri, stratejiler ve tüm amaç-hedefleri içeren beş yıllık tahmini maliyet tablosu. Bu nedenle doğru sayı 8'dir.",
+      "optionNotes": [
+        "Yanlış. Metinde listelenen unsur sayısı 6 değil, 8'dir.",
+        "Yanlış. Metinde listelenen unsur sayısı 9 değil, 8'dir.",
+        "Yanlış. Metinde listelenen unsur sayısı 5 değil, 8'dir.",
+        "Doğru. Metinde stratejik planlamada yer alması gereken temel unsurlar tam olarak 8 madde halinde sıralanmıştır.",
+        "Yanlış. Metinde listelenen unsur sayısı 4 değil, 8'dir."
+      ]
+    },
+    {
+      "id": "w2q5",
+      "question": "Yönetim ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Evrenseldir",
+        "İnsanla ilgilidir.",
+        "İnsanın diğer kişilerle ilişkilerini inceler",
+        "Yaşantımızın çok az alanında yer almaktadır",
+        "Yönetim bilimciler, yönetimin bir otorite sistemi olduğunu belirtir"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde açıkça belirtildiği gibi yönetim yaşantımızın her alanında yer almaktadır ve okuldan spor kulübüne, aileden şirketlere kadar hemen her alanda gözlemlenebilir. Bu nedenle 'yaşantımızın çok az alanında yer almaktadır' ifadesi metinle çelişir ve yanlıştır; diğer seçenekler (evrensellik, insanla ilgili olma, ilişkileri inceleme, otorite sistemi olması) metinde doğrudan doğrulanan özelliklerdir.",
+      "optionNotes": [
+        "Yönetim evrensel bir kavramdır ve metinde bu açıkça belirtilir; bu doğru bir ifadedir, soru yanlış olanı sorduğu için cevap değildir.",
+        "Yönetim insanla uğraşır, konusu insandır; metinde vurgulanan doğru bir özelliktir.",
+        "Yönetim, insanın toplumsal yaşam içindeki diğer kişilerle ilişkilerini ve davranışlarını inceler; bu metinde doğrudan geçen doğru bir tanımdır.",
+        "Metin tam tersini söyler: yönetim yaşantımızın her alanında yer alır (okul, aile, spor kulübü, şirket vb.); bu seçenek metinle çelişir ve yanlış ifadedir, dolayısıyla doğru cevaptır.",
+        "Yönetim bilimciler yönetimi bir otorite sistemi olarak tanımlar; bu metinde geçen doğru bir ifadedir."
+      ]
+    },
+    {
+      "id": "w2q6",
+      "question": "Abraham Maslow’un ihtiyaçlar hiyerarşisi kaça ayrılır ?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6",
+        "2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 2'de Maslow'un ihtiyaçlar hiyerarşisi beş düzeyden oluşur: fizyolojik ihtiyaçlar, güvenlik ihtiyacı, bağlanma/aidiyet/sevme-sevilme ihtiyacı, saygı görme ihtiyacı ve kendini gerçekleştirme ihtiyacı. Bu nedenle doğru sayı 5'tir.",
+      "optionNotes": [
+        "Yanlış. Hiyerarşi 4 değil, 5 düzeyden oluşur.",
+        "Yanlış. Hiyerarşi 3 değil, 5 düzeyden oluşur.",
+        "Doğru. Metinde hiyerarşi fizyolojik, güvenlik, bağlanma/aidiyet, saygı görme ve kendini gerçekleştirme olmak üzere 5 düzeye ayrılmıştır.",
+        "Yanlış. Hiyerarşi 6 değil, 5 düzeyden oluşur.",
+        "Yanlış. Hiyerarşi 2 değil, 5 düzeyden oluşur."
+      ]
+    },
+    {
+      "id": "w2q7",
+      "question": "Maslow&#039;a göre ihtiyaçlar hiyerarşisinin son aşamasında hangi ihtiyaç yer almaktadır?",
+      "options": [
+        "Fizyolojik",
+        "Güvenlik",
+        "Bağlanma ve aidiyet",
+        "Sevme ve sevilme",
+        "Kendini gerçekleştirme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 2'de hiyerarşinin en üstünde, yani son aşamasında kendini gerçekleştirme ihtiyacı yer alır; bu ihtiyaç bireyin kendi potansiyelinin farkına varması, yaratıcı olması ve kendini sürekli geliştirmesiyle ilgilidir.",
+      "optionNotes": [
+        "Yanlış. Fizyolojik ihtiyaçlar hiyerarşinin en temel (ilk) düzeyidir, son aşama değildir.",
+        "Yanlış. Güvenlik ihtiyacı hiyerarşinin ikinci düzeyindedir, son aşama değildir.",
+        "Yanlış. Bağlanma ve aidiyet ihtiyacı hiyerarşinin üçüncü düzeyindedir, son aşama değildir.",
+        "Yanlış. Sevme ve sevilme, bağlanma/aidiyet düzeyiyle ilişkili olup hiyerarşinin ortasında yer alır, son aşama değildir.",
+        "Doğru. Kendini gerçekleştirme ihtiyacı, Maslow'un hiyerarşisinin en üst ve son basamağıdır."
+      ]
+    },
+    {
+      "id": "w2q8",
+      "question": "Aşağıdakilerden hangisi muhasebe bölümünün gerçekleştirmesi gereken faaliyetlerden biri değildir?",
+      "options": [
+        "Yeni pazar araştırması yapmak",
+        "Mali durum tablolarını hazırlamak",
+        "Yapılan işlerin kayıtlarını tutmak",
+        "İşletme bütçesini hazırlamak",
+        "Üretilen mal ve hizmetlerin maliyetlerini hesaplamak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde muhasebe bölümünün görevleri arasında kayıt tutma, mali durum tablosu hazırlama, maliyet hesaplama ve bütçe hazırlama sayılmıştır. Yeni pazar araştırması yapmak ise pazarlama ve Ar-Ge işlevlerinin alanına girer, muhasebenin listelenen görevleri arasında yer almaz.",
+      "optionNotes": [
+        "Doğru yanıt (muhasebe görevi değildir): Pazar araştırması yapmak pazarlama/Ar-Ge işlevine aittir, metinde muhasebenin görevleri arasında sayılmamıştır.",
+        "Yanlış (bu bir muhasebe görevidir): Mali durum tablolarını hazırlamak metinde açıkça muhasebe bölümünün görevi olarak belirtilmiştir.",
+        "Yanlış (bu bir muhasebe görevidir): Yapılan işlerin kayıtlarını tutmak muhasebenin temel ve birincil işlevidir.",
+        "Yanlış (bu bir muhasebe görevidir): İşletme bütçesini hazırlamak metinde muhasebe bölümünün görevleri arasında sayılmıştır.",
+        "Yanlış (bu bir muhasebe görevidir): Üretilen mal ve hizmetlerin maliyetlerini hesaplamak muhasebenin görevlerinden biridir."
+      ]
+    },
+    {
+      "id": "w2q9",
+      "question": "Hangi işletme işlevinin temel amacı yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak için bilginin sistematik olarak toplanmasını, analizini ve yorumunu gerektirmektedir?",
+      "options": [
+        "AR-GE",
+        "Halkla ilişkiler",
+        "Üretim",
+        "Yönetim",
+        "Pazarlama"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 2'de Araştırma ve Geliştirme (Ar-Ge), 'yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak amacıyla yapılan ve bilginin sistematik olarak toplanmasını, analizini ve yorumunu gerektiren bir çalışma' olarak tanımlanır; bu nedenle doğru cevap Ar-Ge'dir.",
+      "optionNotes": [
+        "Doğru. Tanım, metindeki Ar-Ge tanımıyla birebir örtüşmektedir.",
+        "Yanlış. Halkla ilişkiler, kurumun halkla etkileşimini ve imajını yönetmekle ilgilidir, bilgi üretimiyle ilgili bir tanım değildir.",
+        "Yanlış. Üretim, fayda yaratmak ve insan ihtiyaçlarını karşılayan değer elde etmekle ilgilidir, sistematik bilgi toplama tanımı değildir.",
+        "Yanlış. Yönetim, kaynakların koordinasyonu ve karar alma süreciyle ilgilidir, bu spesifik tanıma karşılık gelmez.",
+        "Yanlış. Pazarlama, ihtiyaç ve isteklerin değişim yoluyla tatmin edilmesiyle ilgilidir, bilgi üretimi tanımı değildir."
+      ]
+    },
+    {
+      "id": "w2q10",
+      "question": "Bir üretim faktörü olan insan kaynağının en ekonomik yollardan sağlanması ve verimli bir biçimde çalıştırılması amacına yönelik işletme faaliyetlerinin yerine getirilmesi, aşağıdaki işletme işlevlerinden hangisini ifade eder?",
+      "options": [
+        "Satın alma",
+        "Personel",
+        "Muhasebe",
+        "Finans",
+        "Ar-ge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde personel işlevi tam olarak bu şekilde tanımlanmıştır: 'bir üretim faktörü olan insan kaynağının en ekonomik yollardan sağlanması ve verimli bir biçimde çalıştırılması amacına yönelik işletme faaliyetlerinin yerine getirilmesi.'",
+      "optionNotes": [
+        "Yanlış. Satın alma, mal ve hizmetin temin edilmesiyle ilgilidir, insan kaynağı yönetimiyle ilgili değildir.",
+        "Doğru. Tanım, metindeki personel işlevi tanımıyla birebir örtüşür.",
+        "Yanlış. Muhasebe, mali kayıt ve raporlama işlevidir, insan kaynağı sağlama ile ilgili değildir.",
+        "Yanlış. Finans, kaynak temini ve yönetimi işlevidir, personel sağlama tanımı değildir.",
+        "Yanlış. Ar-Ge, yeni bilgi ve yenilik geliştirme işlevidir, insan kaynağı yönetimiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w2q11",
+      "question": "Aşağıdakilerden hangisi Platon’a göre bir liderin sahip olması gereken özelliklerden değildir",
+      "options": [
+        "Akıl",
+        "Cesaret",
+        "Öz denetim",
+        "Tarafsızlık",
+        "Çatışmacı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 3'te 'Platon bir liderin akıl, cesaret, öz denetim ve tarafsızlık özelliklerine sahip olması gerektiğini öne sürmüştür' denilmektedir. Çatışmacı olmak bu dört özellik arasında sayılmamıştır, dolayısıyla doğru cevap budur.",
+      "optionNotes": [
+        "Yanlış. Akıl, Platon'un saydığı özelliklerden biridir.",
+        "Yanlış. Cesaret, Platon'un saydığı özelliklerden biridir.",
+        "Yanlış. Öz denetim, Platon'un saydığı özelliklerden biridir.",
+        "Yanlış. Tarafsızlık, Platon'un saydığı özelliklerden biridir.",
+        "Doğru. Çatışmacı olmak, Platon'un lider için saydığı akıl, cesaret, öz denetim ve tarafsızlık özellikleri arasında yer almaz; liderlik koşullara teslim olmayı ve çatışmacılığı değil dengeyi gerektirir."
+      ]
+    },
+    {
+      "id": "w2q12",
+      "question": "I. Kontrol etme II. Yönlendirme III. Etkileme IV. Çatışma Bir liderin herhangi bir durumda kişi ya da grubun faaliyetlerine müdahale edebilmesi için yukarıda verilen özelliklerden hangisi ya da hangilerini taşımalıdır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "III ve IV",
+        "I-II-III",
+        "II-III-IV"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 3'teki Tablo 3.1'de Tevrüz'ün (2000) tanımına göre liderlik, 'hedefe varma amacıyla herhangi bir durumda kişi ya da grubun faaliyetlerini kontrol etme, yönlendirme, etkileme ve aynı zamanda da grup üyelerini bir araya getirerek grubun devamını sağlama sürecidir.' Bu tanımda sayılan üç özellik kontrol etme, yönlendirme ve etkilemedir; çatışma bu tanımda yer almaz.",
+      "optionNotes": [
+        "Yanlış. Yalnız kontrol etme yeterli değildir; tanımda yönlendirme ve etkileme de birlikte sayılmıştır.",
+        "Yanlış. Yalnız yönlendirme yeterli değildir; tanımda kontrol etme ve etkileme de birlikte sayılmıştır.",
+        "Yanlış. Çatışma (IV), tanımda müdahale için gereken özellikler arasında sayılmamıştır; etkileme (III) doğru olsa da çatışma ile eşleştirilmesi bu seçeneği hatalı kılar.",
+        "Doğru. Tevrüz'ün tanımına göre lider, faaliyetlere müdahale edebilmek için kontrol etme, yönlendirme ve etkileme özelliklerini (I-II-III) taşımalıdır.",
+        "Yanlış. Çatışma (IV), tanımda sayılan özellikler arasında yer almaz; yönlendirme ve etkileme doğru olsa da çatışmanın eklenmesi bu seçeneği hatalı kılar."
+      ]
+    },
+    {
+      "id": "w2q13",
+      "question": "Spor liderinin rakip oyunculara ilişkin “empati becerisini” kullanması, başarı açısından aşağıdakilerden hangisini sağlamaktadır.",
+      "options": [
+        "Kondisyonun artmasını",
+        "Teknik üstünlüğün artmasını",
+        "Sakatlıklardan korunmayı",
+        "Rakibin nasıl davranacağını tahmin etmeyi",
+        "Psikolojik üstünlüğü"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 3'te belirtildiği gibi, liderin rakip oyunculara ilişkin empatik becerisini kullanması, onların nasıl davranacağını tahmin etmesini sağlar; bu da takım ruhunun oluşmasında ve takım başarısında önemli bir faktördür.",
+      "optionNotes": [
+        "Yanlış. Empati, fiziksel kondisyonla ilgili bir kazanım sağlamaz.",
+        "Yanlış. Empati, teknik beceriyle değil davranışsal öngörüyle ilişkilidir.",
+        "Yanlış. Metinde empatinin sakatlık önlemeyle ilişkisi kurulmamıştır.",
+        "Doğru. Metinde empatik becerinin rakibin davranışlarını tahmin etmeyi sağladığı açıkça belirtilmiştir.",
+        "Yanlış. Metinde 'psikolojik üstünlük' değil, davranış tahmini vurgulanmıştır; bu seçenek metindeki ifadeyi tam karşılamaz."
+      ]
+    },
+    {
+      "id": "w2q14",
+      "question": "Kaç çeşit liderlik tarzı vardır?",
+      "options": [
+        "8",
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 3'te liderlik tarzları 'otokratik, demokratik, liberal, dönüşümcü, vizyoner, karizmatik, durumsal ve stratejik liderlik olarak sınıflandırılabilir' denilerek sekiz tarz sayılmış ve metinde bu sekiz tarz madde madde listelenmiştir.",
+      "optionNotes": [
+        "Doğru. Metinde otokratik, demokratik, liberal, dönüşümcü, vizyoner, karizmatik, durumsal ve stratejik liderlik olmak üzere tam olarak 8 liderlik tarzı sayılmıştır.",
+        "Yanlış. Sayılan liderlik tarzı sayısı 5 değil, 8'dir.",
+        "Yanlış. Sayılan liderlik tarzı sayısı 6 değil, 8'dir.",
+        "Yanlış. Sayılan liderlik tarzı sayısı 7 değil, 8'dir.",
+        "Yanlış. Sayılan liderlik tarzı sayısı 4 değil, 8'dir."
+      ]
+    },
+    {
+      "id": "w2q15",
+      "question": "Grup ile birlikte çalışan, eğlence ve disiplin arasında denge kurabilen ve gerektiğinde nasıl davranması gerektiğini bilen lidere hangi lider sınıfına girer?",
+      "options": [
+        "Demokratik lider",
+        "Karizmatik lider",
+        "Girişimci lider",
+        "Anlayışlı lider",
+        "Akılcı lider"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 3'ün tam metninde Demokratik Lider tanımı tam olarak şu şekilde verilir: 'Grup ile birlikte çalışan, eğlence ve disiplin arasında denge kurabilen ve gerektiğinde nasıl davranması gerektiğini bilen lider türüdür.' Bu nedenle doğru cevap demokratik liderdir.",
+      "optionNotes": [
+        "Doğru. Metindeki demokratik lider tanımı soruyla birebir örtüşmektedir.",
+        "Yanlış. Karizmatik lider, izleyicilerini sorgusuz sualsiz peşinden sürükleyebilme becerisiyle tanımlanır, eğlence-disiplin dengesiyle değil.",
+        "Yanlış. 'Girişimci lider' metinde ayrı bir liderlik tarzı olarak tanımlanmamıştır, bu tanıma karşılık gelmez.",
+        "Yanlış. 'Anlayışlı lider' metinde geçen bir liderlik tarzı adı değildir, kurgusal bir seçenektir.",
+        "Yanlış. 'Akılcı lider' metinde geçen bir liderlik tarzı adı değildir, kurgusal bir seçenektir."
+      ]
+    },
+    {
+      "id": "w2q16",
+      "question": "……………..enformasyon, ikna ve uyum aracılığıyla; organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi tanımlar?",
+      "options": [
+        "Pazarlama",
+        "Strateji",
+        "Halkla ilişkiler",
+        "Medya",
+        "İtibar yönetimi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu tanım Edward Bernays'e ait halkla ilişkiler tanımıdır; Ünite 4'te 'Edward Bernays'e göre halkla ilişkiler; enformasyon, ikna ve uyum aracılığıyla organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir' şeklinde verilmiştir.",
+      "optionNotes": [
+        "Yanlış. Pazarlama, ürün/hizmetlerin satışını hedefleyen farklı bir yönetim fonksiyonudur; bu tanımla doğrudan ilgili değildir.",
+        "Yanlış. Strateji, bir amaca ulaşmak için izlenen yoldur; tanımdaki kamunun desteğini kazanma denemesi doğrudan halkla ilişkilere aittir.",
+        "Doğru. Edward Bernays'in halkla ilişkiler tanımı metinde tam olarak bu şekilde verilmiştir.",
+        "Yanlış. Medya, halkla ilişkilerin kullandığı bir araçtır; tanımın öznesi olan kavram değildir.",
+        "Yanlış. İtibar yönetimi halkla ilişkilerin bir sonucu olabilir ama metindeki tanım doğrudan 'halkla ilişkiler' kavramına aittir."
+      ]
+    },
+    {
+      "id": "w2q17",
+      "question": "I. Sosyo-kültürel farklar II. Bilgi düzeyi III. Konuşma yetersizliği IV. Dinleme yetersizliği V. Gürültü Yukarıdakilerden hangileri iletişimi engelleyen faktörler arasında yer alır?",
+      "options": [
+        "I ve II",
+        "I-II-III",
+        "II-III-IV",
+        "I-II-III-V",
+        "HEPSİ"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 4'te Sabuncuoğlu'nun (2013) sınıflamasına göre sosyo-kültürel farklar, bilgi düzeyi, konuşma yetersizliği ve dinleme yetersizliği psiko-sosyal iletişim engelleri arasında sayılırken, gürültü de fiziksel ve teknik engeller arasında yer almaktadır; dolayısıyla beşi de iletişimi engelleyen faktörlerdendir.",
+      "optionNotes": [
+        "Yanlış. Sadece I ve II'yi seçmek eksiktir; konuşma/dinleme yetersizliği ve gürültü de metinde engel olarak sayılmıştır.",
+        "Yanlış. I, II ve III doğru unsurlar olsa da IV ve V'in dışarıda bırakılması listeyi eksik yapar.",
+        "Yanlış. II, III ve IV doğru olsa da I (sosyo-kültürel farklar) ve V (gürültü) de metinde engel olarak geçer, bu seçenek eksiktir.",
+        "Yanlış. I, II, III ve V doğru olsa da IV (dinleme yetersizliği) metinde ayrıca engel olarak sayıldığından bu seçenek eksiktir.",
+        "Doğru. Metinde sayılan beş unsurun tümü (sosyo-kültürel farklar, bilgi düzeyi, konuşma yetersizliği, dinleme yetersizliği, gürültü) iletişimi engelleyen faktörler arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": "w2q18",
+      "question": "Aşağıdakilerden hangisi özellikle maç öncesi veya sonrasında basın aracılı ile bilgi vermeye yönelik olarak kullanılan halkla İlişkiler aracıdır?",
+      "options": [
+        "Basın bülteni",
+        "Basın açıklaması",
+        "Basın konferansı",
+        "Basın toplantısı",
+        "Röportaj"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 4'ün tam metninde 'Basın toplantısı; özellikle maç öncesi veya sonrasında basın aracılı ile bilgilendirmeye yönelik halkla ilişkiler şeklidir (Okay, 2014)' denilmektedir; bu nedenle doğru cevap basın toplantısıdır.",
+      "optionNotes": [
+        "Yanlış. Basın bülteni, kulüplerin yazılı olarak bilgi verdiği farklı bir araçtır, metinde maç öncesi/sonrası bilgilendirme için tanımlanan araç değildir.",
+        "Yanlış. Basın açıklaması, metinde kulüplerin transfer ve faaliyetlerini kamuoyuyla paylaşmak için kullandığı bir araç olarak tanımlanır, maç öncesi/sonrası bilgilendirmeye özgü tanımlanmamıştır.",
+        "Yanlış. 'Basın konferansı' metinde ayrı bir araç olarak bu tanımla tanımlanmamıştır; bu tanıma karşılık gelen terim basın toplantısıdır.",
+        "Doğru. Metinde bu tanım doğrudan basın toplantısına atfedilmiştir.",
+        "Yanlış. Röportaj, sözlü iletişim araçları arasında sayılan farklı bir halkla ilişkiler aracıdır, bu spesifik tanıma karşılık gelmez."
+      ]
+    },
+    {
+      "id": "w2q19",
+      "question": "Silberblatt (1995) göre medya okuryazarlığının kaç temel maddeden oluşur?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 4'te Jols ve Thoman'ın (2008) aktardığı Silberblatt'ın (1995) sınıflamasına göre medya okuryazarlığının beş temel prensibi sayılmıştır: medyanın toplum üzerindeki etkisini kavramak, medyayı kültürü anlamakta bir kaynak olarak görmek, kitle iletişimi mekanizmalarını anlamak, medya mesajlarının analizi için stratejiler geliştirmek ve medya içeriğini yorumlama/algılama yetisini artırmak.",
+      "optionNotes": [
+        "Yanlış. Sayılan madde sayısı 4 değil, 5'tir.",
+        "Yanlış. Sayılan madde sayısı 3 değil, 5'tir.",
+        "Yanlış. Sayılan madde sayısı 2 değil, 5'tir.",
+        "Doğru. Metinde Silberblatt'a (1995) göre medya okuryazarlığının tam olarak 5 temel prensibi sayılmıştır.",
+        "Yanlış. Sayılan madde sayısı 6 değil, 5'tir."
+      ]
+    },
+    {
+      "id": "w2q20",
+      "question": "I. Geri-beslenme yetersizliği II. Aşırı bilgi yüklemesi III. Statü farklılıkları IV. Zaman baskısı Yukarıda belirtilen özellikler aşağıdaki bireylerarası iletişimi etkileyen faktörlerden hangisini tanımlamaktadır?",
+      "options": [
+        "Fiziksel ve Teknik Engeller",
+        "Psiko-sosyal engeller",
+        "Örgütsel engeller",
+        "Sosyo-kültürel engeller",
+        "Diğer engeller"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 4'te örgütsel engeller arasında 'örgütün büyüklüğü ve fiziksel düzeni, geri beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları, yönetim tarzı, hiyerarşi, rol ilişkileri ve zaman baskısı' sayılmıştır (Yatkın ve Yatkın, 2010). Soruda verilen geri-beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları ve zaman baskısı bu listeyle birebir örtüştüğü için doğru cevap örgütsel engellerdir.",
+      "optionNotes": [
+        "Yanlış. Fiziksel ve teknik engeller; gürültü, mesaj/araç bozuklukları ve dil güçlükleri gibi unsurları kapsar, bu dört unsurla ilişkili değildir.",
+        "Yanlış. Psiko-sosyal engeller; önyargı, algılama farkı, sosyo-kültürel farklar gibi unsurları kapsar, bu dört unsur bu kategoride sayılmamıştır.",
+        "Doğru. Metinde geri beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları ve zaman baskısı doğrudan örgütsel engeller başlığı altında sayılmıştır.",
+        "Yanlış. Metinde 'sosyo-kültürel engeller' diye ayrı bir kategori bu adla geçmez; sosyo-kültürel farklar psiko-sosyal engeller içinde sayılır.",
+        "Yanlış. 'Diğer engeller' kategorisi ortak yaşantı eksikliği, cinsiyet/kültür farkı gibi unsurları kapsar, bu dört unsur bu kategoride sayılmamıştır."
+      ]
+    }
+  ]
+}

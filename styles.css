@@ -30,6 +30,9 @@ body{
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
 }
+body.safe-area {
+  padding-top: env(safe-area-inset-top);
+}
 #app{
   max-width: 720px;
   margin: 0 auto;
@@ -49,7 +52,7 @@ button{
   display:flex;
   align-items:center;
   gap:12px;
-  padding: 16px 20px;
+  padding: calc(env(safe-area-inset-top) + 16px) 20px 16px 20px;
   position: sticky;
   top:0;
   background: var(--bg);

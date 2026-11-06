@@ -1,0 +1,362 @@
+{
+  "questions": [
+    {
+      "id": "w5q1",
+      "question": "Spor teriminin başlangıcı sayılan; sohbet, tartışma, dövüş, güç gösterileri, beceri oyunlarını kapsayan “limanda olmak” anlamına gelen argo kelime aşağıdakilerden hangisidir?",
+      "options": ["Disportare", "Deportare", "To disport", "De portu", "Desport"],
+      "correctIndex": 3,
+      "explanation": "'Spor' sözcüğü, Akdenizli denizcilerin limanda geçirdikleri keyifli yaşamı anlatmak için kullandıkları argo bir ifade olan 'de portu' (limanda olmak) kelimesinden türemiştir. Bu kelime daha sonra Orta Latincede disportare/deportare, Eski Fransızcada desport, İngilizcede to disport ve son olarak sport biçimine evrilmiştir; yani diğer seçenekler de portu'dan sonraki evrim aşamalarıdır.",
+      "optionNotes": [
+        "Yanlış: Disportare, de portu'dan sonra Orta Latincede ortaya çıkan, eğlenme/oyalanma anlamındaki bir sonraki evrim aşamasıdır, başlangıç kelimesi değildir.",
+        "Yanlış: Deportare de aynı şekilde de portu'nun Orta Latincedeki türevlerinden biridir, ilk argo kelime değildir.",
+        "Yanlış: To disport, Fransızca desport'un İngilizceye geçmiş biçimidir; zincirin sonraki bir halkasıdır.",
+        "Doğru: De portu, 'limanda olmak' anlamına gelen ve spor teriminin kökeni sayılan asıl argo ifadedir.",
+        "Yanlış: Desport, Eski Fransızcada kullanılan ara bir aşamadır, en eski kaynak değildir."
+      ]
+    },
+    {
+      "id": "w5q2",
+      "question": "Aşağıdakilerden hangisi modern sporun İngiltere’de doğmuş olmasının sebeplerinden biri değildir?",
+      "options": [
+        "İngiliz parlamenter sistemi",
+        "Soyluluğun ilk doğan erkek çocukla sınırlandırılması",
+        "İngiliz kulüp sistemi",
+        "İngilizlerin bahis tutkusu",
+        "İngiliz coğrafyasının genişliği"
+      ],
+      "correctIndex": 4,
+      "explanation": "Modern sporun İngiltere'de doğmasının toplumsal ön şartları arasında İngiliz Püritenizmi, İngilizlerin bahis tutkusu, Primogenitur yasası (mülkiyetin ilk doğan erkek çocuğa verilmesi), kuvvetler ayrılığına dayalı İngiliz parlamenter sistemi ile İngiliz kulüp sistemi ve halk okulları sayılmıştır. İngiliz coğrafyasının genişliği bu faktörler arasında yer almaz.",
+      "optionNotes": [
+        "Bu bir sebeptir: Kuvvetler ayrılığına dayalı İngiliz parlamenter sistemi, spora ait düzenlemeleri kolaylaştırmıştır.",
+        "Bu bir sebeptir: Primogenitur yasası, soylular ile orta sınıf arasında yumuşak bir geçişe yol açmıştır.",
+        "Bu bir sebeptir: 17. yüzyılda ortaya çıkan İngiliz kulüp sistemi, düzenli yarışmacılığa zemin oluşturan kurumsallaşmayı sağlamıştır.",
+        "Bu bir sebeptir: İngilizlerin bahis tutkusu, yarışma organizasyonlarının sıklıkla düzenlenmesine neden olmuştur.",
+        "Bu bir sebep değildir (doğru cevap budur): Modern sporun İngiltere'de doğuşunun sebepleri arasında coğrafi genişlikten hiç bahsedilmez; sayılan etkenler toplumsal/kurumsal niteliktedir."
+      ]
+    },
+    {
+      "id": "w5q3",
+      "question": "Aşağıdakilerden hangisi İsveç jimnastiğinin uygulama alanlarından biri değildir?",
+      "options": ["Askeri Cimnastik", "Estetik Cimnastik", "Akrobatik Cimnastik", "Tıbbi Cimnastik", "Pedagojik Cimnastik"],
+      "correctIndex": 2,
+      "explanation": "Pehr Henrik Ling'in felsefesi doğrultusunda İsveç jimnastiği dört ana bölüme ayrılır: pedagojik, tıbbi, askeri ve estetik cimnastik. Akrobatik cimnastik bu dört bölümden biri değildir; bu kavram İsveç sistemiyle ilgili olmayan, farklı bir bağlamda (Tunç Çağı figürleriyle) anılan bir terimdir.",
+      "optionNotes": [
+        "Bu bir uygulama alanıdır: Askeri cimnastik, güreş, eskrim ve askeri alıştırmaların formlarını içeren bir İsveç jimnastiği bölümüdür.",
+        "Bu bir uygulama alanıdır: Estetik cimnastik, vücut sağlığı için dolaşım ve sinir sistemine yönelik serbest egzersizleri kapsayan bölümlerden biridir.",
+        "Bu bir uygulama alanı değildir (doğru cevap budur): Akrobatik cimnastik, İsveç jimnastiğinin dört bölümü arasında sayılmaz.",
+        "Bu bir uygulama alanıdır: Tıbbi cimnastik, hastaların ve sakatların tedavisi için uygulanan egzersizleri kapsayan bölümlerden biridir.",
+        "Bu bir uygulama alanıdır: Pedagojik cimnastik, okul öğrencileri için gerekli serbest egzersizleri içeren bölümdür."
+      ]
+    },
+    {
+      "id": "w5q4",
+      "question": "Aşağıdakilerden hangisi spora yönelik sosyalleşme ajanlarından biri değildir?",
+      "options": ["Sendika", "Aile", "Medya", "Arkadaşlar ve Sosyal Çevre", "Okul"],
+      "correctIndex": 0,
+      "explanation": "Leonard II'nin modeline göre spora yönelik sosyalleşme ajanları aile, arkadaşlar, okul, sosyal çevre ve medyadır. Sendika bu ajanlar arasında yer almamaktadır; dolayısıyla soruda aranan 'biri değildir' cevabı sendikadır.",
+      "optionNotes": [
+        "Doğru: Sendika, belirtilen sosyalleşme ajanları (aile, okul, arkadaş/sosyal çevre, medya) arasında sayılmamıştır.",
+        "Yanlış: Aile, çocukların spora yönelmesinde en etkili ve ilk sosyalleşme ajanı olarak belirtilmiştir.",
+        "Yanlış: Medya, sporcu şöhretlerin tanıtımı yoluyla sosyalleşme ajanı olarak etkide bulunur.",
+        "Yanlış: Arkadaşlar ve sosyal çevre, özellikle ergenlik döneminde etkili olan sosyalleşme ajanlarındandır.",
+        "Yanlış: Okul, beden eğitimi dersleri ve öğretmenler aracılığıyla önemli bir sosyalleşme ajanıdır."
+      ]
+    },
+    {
+      "id": "w5q5",
+      "question": "Aşağıdakilerden hangisi sporda toplumsal cinsiyet eşitliğinin ele alındığı stratejik alanlardan biri değildir?",
+      "options": [
+        "Spora katılım",
+        "Spor yönetimi",
+        "Antrenörlük ve hakemlik",
+        "Sporda toplumsal cinsiyet temelli şiddet",
+        "Spor pazarlaması"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporda toplumsal cinsiyet eşitliği dünyada 5, Türkiye'de spor eğitimi eklenerek 6 stratejik alanda ele alınır: spora katılım, spor yönetimi, antrenörlük ve hakemlik, sporda toplumsal cinsiyet temelli şiddet, spor medyasında toplumsal cinsiyet eşitliği ve spor eğitimi. 'Spor pazarlaması' bu alanlar arasında yer almamaktadır.",
+      "optionNotes": [
+        "Yanlış: Spora katılım, belirtilen stratejik alanlardan biridir.",
+        "Yanlış: Spor yönetimi, karar alma mekanizmalarında eşit temsili kapsayan bir stratejik alandır.",
+        "Yanlış: Antrenörlük ve hakemlik, toplumsal cinsiyet eşitliğinin sağlanması hedeflenen alanlardan biridir.",
+        "Yanlış: Toplumsal cinsiyet temelli şiddet, güvenli spor ortamı için ele alınan stratejik alanlardan biridir.",
+        "Doğru: Spor pazarlaması, belirtilen altı stratejik alan arasında sayılmamıştır."
+      ]
+    },
+    {
+      "id": "w5q6",
+      "question": "Aşağıdakilerden hangisi toplumsal cinsiyete duyarlı antrenörün özelliklerinden biridir?",
+      "options": [
+        "Sporcuların beslenmesine dikkat etmek",
+        "Cinsiyetler arasında işbirliğinden kaçınmak",
+        "Spor malzemelerini sadece erkek sporculara taşıtmak",
+        "Toplumsal cinsiyet kalıp yargı içeren ifadeler kullanmamak",
+        "Spor tesislerine ulaşım, tesis güvenliği vb. konularla ilgilenmemek"
+      ],
+      "correctIndex": 3,
+      "explanation": "Toplumsal cinsiyete duyarlı antrenörün sorumlulukları arasında toplumsal cinsiyet kalıp yargısı içeren yorumlardan kaçınmak (örneğin 'kız gibi oynama' gibi ifadeler kullanmamak) açıkça belirtilmiştir; diğer şıklar ise bu duyarlılığın tam tersini, yani ayrımcı veya ilgisiz tutumları tarif etmektedir.",
+      "optionNotes": [
+        "Yanlış: Beslenmeye dikkat etmek genel bir antrenörlük görevidir, toplumsal cinsiyet duyarlılığıyla ilişkilendirilen bir özellik değildir.",
+        "Yanlış: Tam tersi önerilir: antrenörün cinsiyetler arasında işbirliğini desteklemesi gerektiği belirtilmiştir.",
+        "Yanlış: Bu davranış açıkça cinsiyete dayalı bir ayrımcılık örneğidir, toplumsal cinsiyete duyarlılığın karşıtıdır.",
+        "Doğru: Kalıp yargı içeren ifadelerden kaçınmak, toplumsal cinsiyete duyarlı antrenör sorumluluklarından biridir.",
+        "Yanlış: Tam tersine, güvenli ulaşım ve tesis imkanı sağlamanın antrenörün sorumluluğu olduğu belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w5q7",
+      "question": "Spor psikolojisi alanında ilk çalışma hangi tarihte yapılmıştır?",
+      "options": ["1880", "1898", "1900", "1910", "1920"],
+      "correctIndex": 1,
+      "explanation": "Spor psikolojisi alanındaki ilk bilimsel çalışma, 1898 yılında sosyal psikolog Norman Triplett tarafından yazılan bir yüksek lisans tezi kapsamında gerçekleştirilmiştir.",
+      "optionNotes": [
+        "1880 yanlıştır; belirtilen tarih bundan daha sonradır.",
+        "1898 doğrudur; Triplett'in yüksek lisans tezi bu yılda tamamlanmıştır ve alanın ilk bilimsel çalışması sayılır.",
+        "1900 yanlıştır; ilk çalışma bu tarihten iki yıl önce yapılmıştır.",
+        "1910 yanlıştır; bu tarih belirtilen tarihten sonrasına aittir.",
+        "1920 yanlıştır; bu, belirtilen tarihten çok sonrasına ait bir yıldır."
+      ]
+    },
+    {
+      "id": "w5q8",
+      "question": "Bir gencin sporu bırakma nedenleri sıralandığında, en son sırada sayılabilecek gerekçe aşağıdakilerden hangisi olabilir?",
+      "options": ["Sporcunun hissettiği aşırı baskı", "Tesiste yemek verilmemesi", "Antrenörü sevmeme", "Başarısızlık", "Kazanmaya aşırı önem verilmesi"],
+      "correctIndex": 1,
+      "explanation": "Sporu bırakma nedenleri arasında aşırı baskı, antrenörü sevmeme, başarısızlık ve kazanmaya aşırı önem verilmesi açıkça sayılmakta ve bunlar sporcuların bırakma kararlarını etkileyen en büyük etkenler arasında gösterilmektedir. 'Tesiste yemek verilmemesi' ise bırakma nedenleri arasında hiç geçmeyen, en zayıf/ilgisiz gerekçedir.",
+      "optionNotes": [
+        "Sporcunun hissettiği aşırı baskı, bırakma nedenleri arasında açıkça sayılmıştır, dolayısıyla güçlü bir gerekçedir.",
+        "Doğru: Tesiste yemek verilmemesi, sporu bırakma nedenleri arasında hiç geçmeyen, en zayıf/ilgisiz gerekçedir.",
+        "Antrenörü sevmeme, bırakma kararlarını etkileyen en büyük iki etkenden biri olarak belirtilmiştir.",
+        "Başarısızlık, sporu bırakmaya yol açan olumsuz nedenler arasında sayılmıştır.",
+        "Kazanmaya aşırı önem verilmesi de sporu bırakma nedenleri arasında açıkça belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w5q9",
+      "question": "Tek yollu iletişim sürecinin gerçekleşme sırasının ilk basamağı aşağıdakilerden hangisidir?",
+      "options": [
+        "Mesajın ne şekilde iletileceğine karar verilir.",
+        "Mesajı gönderecek birey mesajı gönderme kararını verir.",
+        "Mesaj uygun kanalla karşı tarafa aktarılır.",
+        "Alıcı tarafından mesaj çözümlenir.",
+        "Alıcı tarafından mesaja verilen içsel tepkiler gerçekleşir."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tek yollu iletişim sürecinin ilk basamağı, mesajı gönderecek bireyin mesajı gönderme kararını vermesidir. Bu karardan sonra mesajın ne şekilde iletileceğine (kodlama) karar verilir, mesaj uygun kanalla aktarılır, alıcı tarafından çözümlenir ve son olarak alıcıda içsel tepkiler oluşur.",
+      "optionNotes": [
+        "Mesajın ne şekilde iletileceğine karar verme, sürecin ikinci basamağıdır, ilk adım değildir.",
+        "Doğru: Süreç, mesajı gönderecek bireyin mesajı gönderme kararını vermesiyle başlar.",
+        "Mesajın uygun kanalla aktarılması, sürecin üçüncü basamağıdır.",
+        "Alıcı tarafından mesajın çözümlenmesi, sürecin dördüncü basamağıdır.",
+        "Alıcıda içsel tepkilerin oluşması, tek yollu iletişim sürecinin son basamağıdır."
+      ]
+    },
+    {
+      "id": "w5q10",
+      "question": "Fair play tanımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Sporcuların yarışmalar esnasında; güçleşen şartlar altında dahi kurallara sabırla, tutarlı ve bilinçli olarak riayet etmeleridir.",
+        "Fırsat eşitliğini bozmamak amacıyla haksız avantajları kabullenmemeleridir.",
+        "Rakibin haksız dezavantajlarından yararlanmaya kalkışmamalarıdır.",
+        "Rakibi düşman değil, aksine oyunun gerçekleşmesini sağlayan, eşdeğer haklara sahip birey ve partner olarak görmeleri ve değer vermeleridir.",
+        "Sporcuların ne pahasına olursa olsun mücadeleyi bırakmamalarıdır."
+      ],
+      "correctIndex": 4,
+      "explanation": "Fair play tanımı; kurallara riayet, haksız avantajları kabullenmeme, rakibin dezavantajından yararlanmama ve rakibi partner olarak görme unsurlarını içerir. 'Ne pahasına olursa olsun mücadeleyi bırakmamak' ifadesi ise fair play'in vurguladığı 'kazanmayı her şeyin üstünde tutmama' ilkesiyle çelişir; sporda fair play anlayışı zamanla 'ne pahasına olursa olsun kazanma' anlayışının gerisinde kalmıştır, dolayısıyla bu ifade tanıma ait değildir ve yanlıştır.",
+      "optionNotes": [
+        "Bu ifade fair play tanımının bir parçası olarak doğrudan geçmektedir, doğru bir ifadedir.",
+        "Bu da tanımın parçasıdır, doğru bir ifadedir.",
+        "Bu ifade de tanımda geçmektedir, doğru bir ifadedir.",
+        "Rakibi partner olarak görme de tanımın bir unsuru olarak yer alır, doğru bir ifadedir.",
+        "Fair play, kazanmayı her şeyin üstünde tutmamayı öngörür; bu ifade tanımda yer almaz ve fair play'in asıl ruhuyla çelişir, bu nedenle yanlış olan ifade budur."
+      ]
+    },
+    {
+      "id": "w5q11",
+      "question": "Fair play anlayışını dünya çapında yaygınlaştırmaktan sorumlu organizasyon aşağıdakilerden hangisidir?",
+      "options": [
+        "Türkiye Fair Play Konseyi",
+        "Uluslararası Fair Play Komitesi",
+        "Avrupa Fair Play Birliği",
+        "Dünya Sağlık Örgütü",
+        "Türkiye Milli Olimpiyat Komitesi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uluslararası Fair Play Komitesi'nin (CIFP) amacı, dünya genelinde fair play'in savunuculuğunu ve tanıtımını yapmaktır. Bu nedenle dünya çapında yaygınlaştırmaktan sorumlu kuruluş CIFP'dir.",
+      "optionNotes": [
+        "'Türkiye Fair Play Konseyi' ayrı bir kuruluş değildir; Türkiye'deki faaliyet TMOK Fair Play Konseyi tarafından yürütülür.",
+        "Doğru: CIFP'nin amacı açıkça dünya genelinde fair play'i yaymak olarak tanımlanmıştır.",
+        "EFPM, Avrupa düzeyinde fair play'i yaygınlaştırmakla görevlidir, dünya çapında değil.",
+        "Dünya Sağlık Örgütü, fair play ile ilgisi olmayan bir sağlık kuruluşudur.",
+        "TMOK, Türkiye'deki fair play faaliyetlerini CIFP'nin ulusal temsilcisi gibi yürütür, dünya çapında sorumlu kuruluş değildir."
+      ]
+    },
+    {
+      "id": "w5q12",
+      "question": "Aşağıdakilerden hangisi formal fair playe örnek bir davranıştır?",
+      "options": [
+        "Düşen rakibin yerden kaldırılması",
+        "Hakemin hatalı kararının düzeltilmesi",
+        "Hakeme topun kendinden çıktığının söylenmesi",
+        "Rakibin kural dışı yollarla düşürülmemesi",
+        "Sakatlanan oyuncuya yardım edilmesi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formal fair play, amir hükümler içeren yazılı oyun kurallarını kabullenme ve onlara kesinlikle uymakla sınırlıdır. Rakibin kural dışı (faul vb.) yollarla düşürülmemesi, doğrudan yazılı kurallara uymanın bir sonucudur; diğer seçenekler kuralların zorunlu kılmadığı, gönüllü/vicdani davranışlar olup informal fair play kapsamına girer.",
+      "optionNotes": [
+        "Düşen rakibi kaldırmak, kuralların talep etmediği gönüllü bir nezaket davranışıdır; informal fair play örneğidir.",
+        "Hakemin hatalı kararını düzeltmek, yazılı kuralların ötesinde bir dürüstlük gösterisidir; informal fair play'e girer.",
+        "Topun kendinden çıktığını söylemek de kuralların zorunlu kılmadığı bir dürüstlük davranışıdır; informal fair play örneğidir.",
+        "Doğru: Rakibi kural dışı biçimde (faulle) düşürmemek, doğrudan yazılı kurala uymaktır ve formal fair play'in tanımına uyar.",
+        "Sakatlanan oyuncuya yardım etmek, kuralların zorunlu kılmadığı insani bir davranıştır; informal fair play kapsamındadır."
+      ]
+    },
+    {
+      "id": "w5q13",
+      "question": "Aşağıdakilerden hangisi spor alanlarında istismara zemin hazırlayan unsurlardan biri değildir?",
+      "options": [
+        "Oyuncu ve antrenör arasındaki güç ilişkisi",
+        "Maddi ve manevi getiriler",
+        "Oyuncu ve antrenör arasında kuvvetli güven ilişkisi",
+        "Fiziksel temasın yoğunluğu",
+        "Eğlence unsurunun ön plana çıkarılması"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporcuların istismara uğrama riskini artıran etmenler arasında güç ilişkisi, maddi/manevi kazançlar, güven ilişkisi ve fiziksel temasın normalleşmesi sayılmaktadır. Eğlence unsurunun ön plana çıkarılması ise tam tersine, çocuklara ömür boyu spor alışkanlığı kazandırmak için antrenörlere önerilen olumlu bir yaklaşımdır; bu nedenle istismara zemin hazırlayan bir unsur değildir.",
+      "optionNotes": [
+        "Oyuncu-antrenör arasındaki güç dengesizliği, istismar riskini artıran faktörlerden biri olarak sayılmıştır.",
+        "Sportif başarının maddi ve manevi getirileri, istismar davranışlarının göz ardı edilmesine neden olan unsurlardan biridir.",
+        "Sporcu ve antrenör arasındaki kuvvetli güven ilişkisi de istismarın normalleşmesine yol açabilen etmenlerden biridir.",
+        "Fiziksel temasın normal bir davranış olarak algılanması, istismara açık ortam oluşturan unsurlardan biri olarak belirtilmiştir.",
+        "Doğru: Eğlence unsurunun ön planda olması istismara zemin hazırlayan bir unsur olarak geçmez; aksine antrenörlere önerilen pozitif bir yaklaşımdır."
+      ]
+    },
+    {
+      "id": "w5q14",
+      "question": "Aşağıdakilerden hangisi Dünya Sağlık Örgütü’nün belirlediği temel istismar sınıflandırmalarından biri değildir?",
+      "options": ["Fiziksel İstisma", "Cinsel İstismar", "Duygusal İstismar", "İhmal", "Akran Zorbalığı"],
+      "correctIndex": 4,
+      "explanation": "Dünya Sağlık Örgütü (DSÖ), çocuk istismarını fiziksel istismar, cinsel istismar, duygusal istismar ve ihmal olmak üzere dört temel başlıkta sınıflandırmıştır. Akran zorbalığı bu dört temel sınıflandırmanın dışındadır; kaynaklarda ayrı bir sınıflandırma olarak değil, ihmal örnekleri arasında (akran zorbalığına müsaade etmek) geçmektedir.",
+      "optionNotes": [
+        "Fiziksel istismar, DSÖ'nün belirlediği 4 temel istismar türünden biridir.",
+        "Cinsel istismar da DSÖ'nün sınıflandırmasında yer alan temel istismar türlerinden biridir.",
+        "Duygusal istismar, DSÖ tarafından tanımlanan dört temel istismar biçiminden biridir.",
+        "İhmal, DSÖ'nün dört temel istismar sınıflandırmasının son başlığıdır.",
+        "Doğru: Akran zorbalığı, DSÖ'nün dört temel sınıflandırmasında ayrı bir başlık olarak yer almaz; ihmal örnekleri arasında sayılmıştır."
+      ]
+    },
+    {
+      "id": "w5q15",
+      "question": "Avrupa Konseyi tarafından imzalanan hangi antlaşmada spor alanlarında çocuklarla çalışacak kişilerin işe alımına, eğitimine ve bilinçlendirilmesine yönelik maddeler yer almaktadır?",
+      "options": [
+        "Cenevre Bildirgesi",
+        "BM Çocuk Hakları Sözleşmesi",
+        "Avrupa Konseyi Çocukların Cinsel Sömürü ve İstismara Karşı Korunması Sözleşmesi",
+        "BM İnsan Hakları Evrensel Bildirgesi",
+        "Avrupa Birliği Temel Haklar Bildirgesi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Avrupa Konseyi'nin Çocukların Cinsel Sömürü ve İstismara Karşı Korunması Sözleşmesi'nin (Lanzarote Sözleşmesi) 5. Maddesi, spor alanlarında çocuklarla çalışacak kişilerin işe alımı, eğitimi ve bilinçlendirilmesine yönelik hükümler içermektedir.",
+      "optionNotes": [
+        "Cenevre Bildirgesi, çocukların genel korunmasına ilişkin ilk uluslararası metindir ancak spor alanında çalışanların işe alımına ilişkin özel madde içermez.",
+        "BM Çocuk Hakları Sözleşmesi çocuk haklarını genel olarak düzenler, spor çalışanlarının işe alımına yönelik özel bir madde içermez.",
+        "Doğru: Bu sözleşmenin 5. Maddesi, spor alanında çalışanların işe alımı, eğitimi ve bilinçlendirilmesine yönelik hükümler içerir.",
+        "BM İnsan Hakları Evrensel Bildirgesi, genel insan haklarını düzenler, spor alanına özgü işe alım hükümleri içermez.",
+        "Avrupa Birliği Temel Haklar Bildirgesi, bu konuyla ilişkilendirilen bir belge değildir."
+      ]
+    },
+    {
+      "id": "w5q16",
+      "question": "Aşağıdakilerden hangisi sporda duygusal istismar davranışları arasında yer almamaktadır?",
+      "options": [
+        "Çocuğu küçük düşürmek",
+        "Lakap takmak",
+        "Olumsuz sorular ve olumsuz iletişim dili kullanmak",
+        "Çocuğa değersiz olduğunu hissettirmek",
+        "Yolculuklarda ve konaklamalarda yetersiz denetim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Duygusal istismar örnekleri arasında sporcuyu küçük düşürmek, lakap takmak, olumsuz iletişim dili kullanmak ve değersiz hissettirmek sayılmıştır. Yolculuklarda ve konaklamalarda yetersiz denetim sağlamak ise ihmal örnekleri kapsamında yer almaktadır, duygusal istismar kapsamında değildir.",
+      "optionNotes": [
+        "Çocuğu küçük düşürmek, duygusal istismar örnekleri arasında doğrudan sayılmıştır.",
+        "Lakap takmak, duygusal istismar listesinde yer almaktadır.",
+        "Olumsuz iletişim dili kullanmak, duygusal istismar örnekleri arasında sayılmıştır.",
+        "Çocuğa değersiz olduğunu hissettirmek, duygusal istismar listesinde ilk sırada sayılan davranıştır.",
+        "Doğru: Yolculuklarda ve konaklamalarda yetersiz denetim sağlamak, ihmal örnekleri arasında sayılmıştır, duygusal istismar listesinde yer almaz."
+      ]
+    },
+    {
+      "id": "w5q17",
+      "question": "Çocuk koruma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Önleyici bir programdır.",
+        "Çocuk koruma sadece çocuğun korunmasına yönelik önlemleri içerir.",
+        "Hak Temelli bir anlayıştır.",
+        "Çocuğun yaşama, gelişme, korunma ve katılım haklarını güvence altına alır.",
+        "Kısa sürede yanıt verip müdahale edebilme imkanı sağlar."
+      ],
+      "correctIndex": 1,
+      "explanation": "Çocuk koruma sadece çocuğun korunmasına yönelik önlemleri içermez; antrenör, yönetici, ebeveyn ve çalışan gibi spor alanındaki tüm unsurların korunmasını da amaçlar. Bu nedenle bu ifade yanlıştır ve soru yanlış ifadeyi sorduğu için doğru cevap budur.",
+      "optionNotes": [
+        "Çocuk koruma, istismar ortaya çıkmadan önce uygulanan önleyici bir programdır; bu ifade doğrudur.",
+        "Doğru: Çocuk koruma sadece çocuğun korunmasına yönelik önlemleri içermez, aynı zamanda antrenör, yönetici ve ebeveynleri de kapsar; bu nedenle bu ifade yanlıştır.",
+        "Çocuk hakları ve çocuk koruma, ihtiyaç temelli değil hak temelli bir anlayışa dayanır; bu ifade doğrudur.",
+        "Çocuk koruma tanımı tam olarak çocuğun yaşama, gelişme, korunma ve katılım haklarının güvence altına alınmasını içerir; bu ifade doğrudur.",
+        "UNICEF'in tanımına göre çocuk koruma, istismar olaylarına kısa sürede yanıt verip müdahale etmeyi de kapsar; bu ifade doğrudur."
+      ]
+    },
+    {
+      "id": "w5q18",
+      "question": "Aşağıdakilerden hangisi ustalık hedef yönelimli sporcuların özelliklerinden biri değildir?",
+      "options": [
+        "Zorlu ancak gerçekçi görevleri ve rakipleri seçerler.",
+        "Başarısızlıktan korkmazlar",
+        "Arkadaş edinmede zorlanırlar.",
+        "Yeterlik algıları yüksektir.",
+        "Yeni beceriler öğrenmede isteklidirler."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ustalık hedef yönelimli sporcular; zorlu ama gerçekçi görev ve rakipleri seçme, başarısızlıktan korkmama, yüksek yeterlik algısına sahip olma ve yeni beceriler öğrenmeye istekli olma gibi özelliklere sahiptir. Bu sporcuların sosyal ilişkilerde veya arkadaş edinmede zorlandıklarına dair hiçbir bilgi yoktur, bu nedenle bu seçenek ustalık yönelimli sporcuların bir özelliği değildir.",
+      "optionNotes": [
+        "Ustalık hedef yönelimli sporcuların, zorlu ama gerçekçi görevleri ve rakipleri seçtikleri belirtilmiştir.",
+        "Bu sporcuların başarısızlıktan korkmadıkları açıkça ifade edilmiştir.",
+        "Doğru: Ustalık yönelimli sporcuların arkadaş edinmede zorlandığına dair herhangi bir bilgi yoktur, bu seçenek onlara ait bir özellik değildir.",
+        "Ustalık yönelimli sporcuların yeterlik algılarının yüksek olduğu belirtilmiştir.",
+        "Bu sporcuların kendilerini geliştirmeye ve yeni şeyler öğrenmeye istekli oldukları, ustalık yöneliminin temel özelliği olarak anlatılmıştır."
+      ]
+    },
+    {
+      "id": "w5q19",
+      "question": "Aşağıdakilerden hangisi fiziksel performansı artırma ve toparlanmaya yardımcı olmak amacıyla kullanılan spor psikolojisi uygulamalarından biri değildir?",
+      "options": ["Kendine güven çalışmaları", "Gerginlikler", "Çeşitli gevşeme çalışmaları", "Dikkat çalışmaları", "Algılama çalışmaları"],
+      "correctIndex": 1,
+      "explanation": "Gerginlikler, performansa engel olan psikolojik etmenlerin ortadan kaldırılması amacıyla yapılan çalışmalar kapsamında ele alınır; fiziksel performansı artırma ve toparlanmaya yardımcı olma işlevi içinde yer almaz. Diğer dört seçenek (kendine güven, gevşeme, dikkat, algılama çalışmaları) bu işlevin alt başlıklarıdır.",
+      "optionNotes": [
+        "Kendine güven çalışmaları fiziksel performansı artırma ve toparlanmaya yardımcı olma işlevinin bir parçasıdır, bu yüzden yanlış cevaptır.",
+        "Doğru: Gerginlikler, performansa engel olan psikolojik etmenler başlığı altında ele alınır, fiziksel performansı artırma uygulamalarından biri değildir.",
+        "Çeşitli gevşeme çalışmaları bu işlevin alt başlıklarından biridir, dolayısıyla yanlış cevaptır.",
+        "Dikkat çalışmaları da fiziksel performansı artırma ve toparlanmaya yardımcı olma işlevi kapsamındadır.",
+        "Algılama çalışmaları yine bu işlevin bir parçasıdır, bu nedenle yanlış cevaptır."
+      ]
+    },
+    {
+      "id": "w5q20",
+      "question": "John Loy’un ‘Toplumsal Bir Olgu Olarak Spor’ tablosunda spor kavramı dört farklı noktayla kesişim içerisindedir. Bu bilgiye göre aşağıdakilerden hangisi bu kesişim noktalarından biri değildir?",
+      "options": [
+        "Örgüt olarak",
+        "Yarışma olarak",
+        "Toplumsal sistem olarak",
+        "İmaj pazarlaması olarak",
+        "Toplumsal kurum olarak"
+      ],
+      "correctIndex": 3,
+      "explanation": "John Loy'un modelinde spor; örgüt, yarışma, toplumsal sistem ve toplumsal kurum olmak üzere dört farklı görünüm üzerinden ele alınır. 'İmaj pazarlaması' bu dört kesişim noktasından biri değildir.",
+      "optionNotes": [
+        "Yanlış: Örgüt olarak spor, Loy'un modelindeki dört noktadan biridir.",
+        "Yanlış: Yarışma olarak spor, modelde yer alan kesişim noktalarından biridir.",
+        "Yanlış: Toplumsal sistem olarak spor, belirtilen dört görünümden biridir.",
+        "Doğru: İmaj pazarlaması, Loy'un dört kesişim noktası arasında sayılmaz; bu dört nokta örgüt, yarışma, toplumsal sistem ve toplumsal kurum olarak belirtilmiştir.",
+        "Yanlış: Toplumsal kurum olarak spor da modelin dört temel noktasından biridir."
+      ]
+    }
+  ]
+}

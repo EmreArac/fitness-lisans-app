@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w4q1",
+      "question": "Vücutta en yaygın bulunan doku türüdür. Temel görevi vücuttaki diğer dokuları bağlamak ve desteklemektir. Aşağıdakilerden hangisi bu doku türüdür?",
+      "options": [
+        "Epitel doku",
+        "Bağ doku",
+        "Sinir doku",
+        "Kas doku",
+        "Kan doku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite özetinde bağ dokusunun vücuttaki en yaygın doku olduğu ve diğer dokuları birbirine bağlama, organları destekleme ve koruma görevini üstlendiği açıkça belirtilir. Bu nedenle sorudaki tanım bağ dokusuna karşılık gelir.",
+      "optionNotes": [
+        "Epitel doku vücudun iç-dış yüzeylerini örter; en yaygın doku değildir, bağlama/destekleme onun birincil görevi değildir.",
+        "Doğru yanıt: Bağ dokusu, vücuttaki en yaygın dokudur ve dokuları birbirine bağlama, organları destekleme işlevini üstlenir.",
+        "Sinir doku uyarıları iletmekle görevlidir; yaygınlık veya bağlama-destekleme fonksiyonuyla tanımlanmaz.",
+        "Kas doku kasılma yoluyla hareketi sağlar; bağlama ve destekleme onun temel görevi değildir.",
+        "\"Kan doku\" bu ünitede tanımlanan dört ana doku tipinden biri değildir, bu nedenle geçerli bir seçenek değildir."
+      ]
+    },
+    {
+      "id": "w4q2",
+      "question": "Vücudun hareket etmesini sağlayan ve kasılma özelliğine sahip olan doku aşağıdakilerden hangisidir?",
+      "options": [
+        "Kas doku",
+        "Sinir doku",
+        "Bağ doku",
+        "Epitel doku",
+        "Lif doku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kas dokusu, kontraksiyon (kasılma) yeteneği sayesinde vücudun hareketini sağlayan doku olarak tanımlanır; düz kas, çizgili iskelet kası ve kalp kası olmak üzere üç çeşidi vardır.",
+      "optionNotes": [
+        "Doğru yanıt: Kas dokusu kasılma özelliği ile hareketi sağlayan dokudur.",
+        "Sinir dokusu uyarıları iletir ve değerlendirir, kasılma özelliği taşımaz.",
+        "Bağ dokusu destek ve bağlama görevi görür, kasılma yoluyla hareket üretmez.",
+        "Epitel doku örtme/koruma ve salgılama görevi üstlenir, kasılma özelliğine sahip değildir.",
+        "\"Lif doku\" ünitede tanımlanan dört ana doku tipinden biri değildir, bu nedenle geçersiz bir seçenektir."
+      ]
+    },
+    {
+      "id": "w4q3",
+      "question": "Uyartıları alma, iletme ve değerlendirme görevini yapan doku aşağıdakilerden hangisidir?",
+      "options": [
+        "Bağ doku",
+        "Epitel doku",
+        "Kas doku",
+        "Lif doku",
+        "Sinir doku"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sinir dokusu, nöronlar aracılığıyla uyarıları alma, iletme ve değerlendirme görevini üstlenen dokudur; nöronları destekleyen glia hücreleri de bu dokuya dahildir.",
+      "optionNotes": [
+        "Bağ doku dokular arasında bağ kurar ve destekler, uyarı iletimiyle ilgili bir görevi yoktur.",
+        "Epitel doku örtme ve salgılama görevi görür, uyarı değerlendirme fonksiyonu nöronlara aittir.",
+        "Kas doku kasılma yoluyla hareket sağlar, uyarı iletme-değerlendirme görevi sinir dokusuna özgüdür.",
+        "\"Lif doku\" geçerli bir doku kategorisi değildir, ünitede tanımlanan dört doku tipinden biri değildir.",
+        "Doğru yanıt: Sinir dokusu nöronlar sayesinde uyarıları alır, iletir ve değerlendirir."
+      ]
+    },
+    {
+      "id": "w4q4",
+      "question": "Vücudun dış yüzeyini örten ve iç organların yüzeyini kaplayan doku aşağıdakilerden hangisidir?",
+      "options": [
+        "Epitel doku",
+        "Lif doku",
+        "Kas doku",
+        "Sinir doku",
+        "Bağ doku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Epitel dokusu, vücudun iç ve dış yüzeylerini örten; ayrıca salgı bezlerinin işlevinde ve duyusal algılamada rol oynayan dokudur. Yüzey epiteli bedenin iç-dış yüzeylerini kaplar.",
+      "optionNotes": [
+        "Doğru yanıt: Epitel dokusu vücudun dış yüzeyini ve iç organların yüzeyini örten dokudur.",
+        "\"Lif doku\" ünitede tanımlı bir ana doku tipi değildir, bu nedenle geçersizdir.",
+        "Kas doku kasılma ile hareketi sağlar, yüzey örtme görevi onun fonksiyonu değildir.",
+        "Sinir doku uyarı iletimiyle görevlidir, yüzey örtme fonksiyonu yoktur.",
+        "Bağ doku organların zeminini oluşturup destek sağlar; yüzeyleri örten doku epiteldir, bağ doku değildir."
+      ]
+    },
+    {
+      "id": "w4q5",
+      "question": "Aşağıdakilerden hangisi bağ dokunun görevlerinden biri değildir?",
+      "options": [
+        "Dokular arasında bağ kurmak",
+        "Organları desteklemek",
+        "Uyartıları iletmek",
+        "Dokuları bir arada tutmak",
+        "Dokuları sıkıca sarmak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bağ ve destek dokusu, dokular arasında bağ kurma, organları destekleme, dokuları bir arada tutma ve sarma gibi görevler üstlenir. Uyartıları iletmek ise sinir dokusunun görevidir, bağ dokusuyla ilişkili değildir.",
+      "optionNotes": [
+        "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): dokular arasında bağ kurmak bağ dokusunun tanımlayıcı işlevlerindendir.",
+        "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): organları destekleme bağ ve destek dokusunun temel fonksiyonlarındandır.",
+        "Doğru yanıt: Uyartıları iletmek sinir dokusunun görevidir; bağ dokusunun görevleri arasında yer almaz.",
+        "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): dokuları bir arada tutmak bağ dokusunun temel işlevlerinden biridir.",
+        "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): dokuları sıkıca sarma, bağ dokusunun sarma/destek fonksiyonuna örnektir."
+      ]
+    },
+    {
+      "id": "w4q6",
+      "question": "Aşağıdakilerden hangisi kas dokunun çeşitlerinden biri değildir?",
+      "options": [
+        "Düz kas",
+        "Çizgili kas",
+        "El Kası",
+        "Kalp kası",
+        "Epitel kas"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kas dokusunun üç çeşidi düz kas, çizgili (iskelet) kas ve kalp kasıdır. \"Epitel kas\" ise ünitede açıkça ayrı ve bağımsız iki ana doku tipi olarak tanımlanan epitel dokusu ile kas dokusunun birleştirilmesinden oluşan, gerçekte var olmayan bir terimdir, bu yüzden kas dokusunun bir çeşidi değildir.",
+      "optionNotes": [
+        "Bu geçerli bir kas dokusu çeşididir (yanlış seçenek değil): düz kas, iç organlarda bulunan ve istemsiz çalışan bir kas türüdür.",
+        "Bu geçerli bir kas dokusu çeşididir (yanlış seçenek değil): çizgili (iskelet) kası, istemli çalışan ve somatik sinir sistemince kontrol edilen kas türüdür.",
+        "Not: \"El Kası\" ünitede tanımlı üç histolojik kas dokusu çeşidinden (düz, çizgili, kalp) biri olarak geçmez; ancak bu, belirli bir vücut bölgesindeki kasları tanımlayan bir isimlendirme olup soru kapsamında asıl aranan, iki farklı ana doku tipini birleştiren \"Epitel kas\" ifadesi kadar kesin biçimde geçersiz değildir.",
+        "Bu geçerli bir kas dokusu çeşididir (yanlış seçenek değil): kalp kası, enine çizgili yapıda olup istemsiz çalışan bir kas türüdür.",
+        "Doğru yanıt (ihtiyatla seçilmiştir): Ünitede epitel dokusu ve kas dokusu birbirinden tamamen ayrı iki ana doku tipi olarak tanımlanır; bu nedenle \"Epitel kas\" ismiyle anılan bir kas dokusu çeşidi bulunmaz ve bu seçenek kesin kaynak desteğiyle kas dokusu çeşitlerinden biri değildir."
+      ]
+    },
+    {
+      "id": "w4q7",
+      "question": "Kasların kasılma özelliği sayesinde gerçekleşen temel olay aşağıdakilerden hangisidir?",
+      "options": [
+        "Sindirim",
+        "Dolaşım",
+        "Hareket",
+        "Boşaltım",
+        "Salgılama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kas dokusu, kontraksiyon (kasılma) yeteneği sayesinde vücudun hareket etmesini sağlar; bu, kas dokusunun temel ve tanımlayıcı fonksiyonudur.",
+      "optionNotes": [
+        "Sindirim, sindirim sistemine ait bir süreçtir; düz kasların bağırsak hareketlerine katkısı olsa da kasılmanın temel sonucu olarak tanımlanan olay hareket'tir.",
+        "Dolaşım, dolaşım sistemine ait bir süreçtir; kalp kasının katkısı olsa da kasılmanın genel/temel sonucu hareket olarak tanımlanır.",
+        "Doğru yanıt: Kasılma özelliğinin sağladığı temel olay vücudun hareket etmesidir.",
+        "Boşaltım, üriner ve boşaltım sistemlerine ait bir işlevdir, kasılmanın temel/tanımlayıcı sonucu değildir.",
+        "Salgılama, epitel dokusunun (salgı bezi epiteli) bir görevidir, kas dokusunun kasılma özelliğiyle ilişkilendirilmez."
+      ]
+    },
+    {
+      "id": "w4q8",
+      "question": "İstemli çalışan kas türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Düz kas",
+        "Kalp kası",
+        "Çizgili kas",
+        "Bağ kası",
+        "Sinir kası"
+      ],
+      "correctIndex": 2,
+      "explanation": "Çizgili iskelet kası somatik sinir sisteminin kontrolü altındadır; kontraksiyonu istemli, hızlı ve keskindir. Bu nedenle istemli çalışan kas türü çizgili kastır.",
+      "optionNotes": [
+        "Düz kas otonom sinir sistemi tarafından yönetilir ve kontraksiyonu istem dışıdır, istemli çalışmaz.",
+        "Kalp kası da istemsiz çalışan bir kas türüdür; nukleusu hücre ortasında olan enine çizgili bir kastır ama istemsizdir.",
+        "Doğru yanıt: Çizgili (iskelet) kası somatik sinir sistemi kontrolünde olup istemli, hızlı ve keskin kasılır.",
+        "\"Bağ kası\" ünitede tanımlanan kas dokusu çeşitlerinden biri değildir, geçerli bir terim değildir.",
+        "\"Sinir kası\" ünitede tanımlanan kas dokusu çeşitlerinden biri değildir, geçerli bir terim değildir."
+      ]
+    },
+    {
+      "id": "w4q9",
+      "question": "Aşağıdakilerden hangisi istemsiz çalışan kas türlerinden biridir?",
+      "options": [
+        "Çizgili kas",
+        "İskelet kası",
+        "Spor kası",
+        "Düz kas",
+        "Hareket kası"
+      ],
+      "correctIndex": 3,
+      "explanation": "Düz kaslar iç organlarda ve kan damarlarında bulunur, otonom sinir sistemi tarafından yönetilir ve kontraksiyonu istem dışı, yavaş ve dalgalıdır; bu nedenle istemsiz çalışan kas türlerinden biridir.",
+      "optionNotes": [
+        "Çizgili kas, somatik sinir sistemi kontrolünde istemli çalışan bir kas türüdür, istemsiz değildir.",
+        "İskelet kası, çizgili kasın diğer adıdır ve istemli çalışır, istemsiz değildir.",
+        "\"Spor kası\" ünitede tanımlanan bir kas türü değildir, geçerli bir terim değildir.",
+        "Doğru yanıt: Düz kas, otonom sinir sistemi kontrolünde istemsiz, yavaş ve dalgalı şekilde kasılan kas türüdür.",
+        "\"Hareket kası\" ünitede tanımlanan bir kas türü değildir, geçerli bir terim değildir."
+      ]
+    },
+    {
+      "id": "w4q10",
+      "question": "Kasları kemiklere bağlayan yapı aşağıdakilerden hangisidir?",
+      "options": [
+        "Eklem",
+        "Tendon",
+        "Ligament",
+        "Kıkırdak",
+        "Sinir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tendonlar kasları kemiklere bağlar ve kas kuvvetini kemiğe iletirken elastik enerji depolar; bu nedenle kası kemiğe bağlayan yapı tendondur.",
+      "optionNotes": [
+        "Eklem, kemiklerin birbirine tutunduğu/birleştiği bölgedir; kası kemiğe bağlayan bir yapı değildir.",
+        "Doğru yanıt: Tendon, kası kemiğe bağlayan ve kas kuvvetini kemiğe ileten bağ dokusu yapısıdır.",
+        "Ligament kemikleri birbirine bağlar, kası kemiğe bağlamaz.",
+        "Kıkırdak, eklem yüzeylerini kaplayan veya destek sağlayan bir dokudur, kası kemiğe bağlayan yapı değildir.",
+        "Sinir, uyarı iletiminde görevlidir; kas-kemik bağlantısını sağlayan bir yapı değildir."
+      ]
+    },
+    {
+      "id": "w4q11",
+      "question": "Kemikleri birbirine bağlayan yapı aşağıdakilerden hangisidir?",
+      "options": [
+        "Tendon",
+        "Kas",
+        "Ligament",
+        "Kıkırdak",
+        "Sinir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ligamentler kemikleri kemiklere bağlayarak dış kuvvetlere direnç gösterir ve eklem hareket açıklığını sınırlar; bu nedenle kemikleri birbirine bağlayan yapı ligamenttir.",
+      "optionNotes": [
+        "Tendon kası kemiğe bağlar, kemiği kemiğe bağlamaz.",
+        "Kas, kasılma yoluyla hareketi sağlayan dokudur; kemikleri birbirine bağlayan bir yapı değildir.",
+        "Doğru yanıt: Ligament, kemikleri kemiklere bağlayan ve eklem hareket açıklığını sınırlayan bağ dokusu yapısıdır.",
+        "Kıkırdak eklem yüzeylerini kaplayan veya destek sağlayan bir dokudur, kemikleri doğrudan birbirine bağlayan yapı değildir.",
+        "Sinir, uyarı iletiminde görevlidir; kemikler arası bağlantıyı sağlayan bir yapı değildir."
+      ]
+    },
+    {
+      "id": "w4q12",
+      "question": "Aşağıdakilerden hangisi iskelet sisteminin görevlerinden biri değildir?",
+      "options": [
+        "Vücuda şekil vermek",
+        "İç organları korumak",
+        "Hareketi sağlamak",
+        "Hormon üretmek",
+        "Kaslara tutunma yüzeyi sağlamak"
+      ],
+      "correctIndex": 3,
+      "explanation": "İskelet sisteminin görevleri; bedene şekil verme, organları koruma, hareketin pasif bileşeni olma (kaslara tutunma yüzeyi sağlama) ve kan hücresi üretimi/mineral depolama gibi fonksiyonlardır. Hormon üretimi ise endokrin sisteme ait bir görevdir, iskelet sisteminin temel görevleri arasında sayılmaz.",
+      "optionNotes": [
+        "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): iskelet sistemi bedene şekil verir.",
+        "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): iskelet sistemi iç organları korur.",
+        "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): iskelet, hareketin pasif bileşeni olarak kaslarla birlikte hareketi sağlar.",
+        "Doğru yanıt: Hormon üretimi endokrin sistemin (hipofiz, tiroid, pankreas gibi bezlerin) görevidir, iskelet sisteminin temel görevleri arasında yer almaz.",
+        "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): kemikler kaslara tutunma yüzeyi sağlayarak hareketin gerçekleşmesine katkıda bulunur."
+      ]
+    },
+    {
+      "id": "w4q13",
+      "question": "Yetişkin bir insan vücudunda yaklaşık kaç kemik bulunur?",
+      "options": [
+        "106",
+        "156",
+        "206",
+        "256",
+        "306"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genel anatomi bilgisine göre yetişkin bir insan vücudu yaklaşık 206 kemikten oluşur; bu değer verilen seçenekler arasında en yakın ve yaygın kabul gören sayıdır. Not: İncelenen ders ünitesinin kendi metninde iskelet sisteminin \"208 kemikten\" oluştuğu belirtilmektedir, ancak 208 seçenekler arasında yer almadığından ve 206 hem genel anatomi literatüründe hem de bu tarz sınavlarda standart kabul edilen değer olduğundan, en mantıklı ve seçeneklerle uyumlu cevap olarak 206 seçilmiştir.",
+      "optionNotes": [
+        "106, gerçek kemik sayısının çok altında olup hiçbir kaynakla örtüşmeyen bir değerdir.",
+        "156, gerçek kemik sayısının altında olup standart anatomi bilgisiyle uyuşmayan bir değerdir.",
+        "Doğru yanıt (seçeneklere göre en uygunu): Yetişkin insan vücudu yaklaşık 206 kemikten oluşur; bu, genel anatomi kaynaklarında standart kabul edilen sayıdır.",
+        "256, gerçek kemik sayısının üzerinde olup herhangi bir kaynakla örtüşmeyen bir değerdir.",
+        "306, gerçek kemik sayısının çok üzerinde olup herhangi bir kaynakla örtüşmeyen bir değerdir."
+      ]
+    },
+    {
+      "id": "w4q14",
+      "question": "Kemiklerin birleştiği yere verilen ad aşağıdakilerden hangisidir?",
+      "options": [
+        "Eklem",
+        "Tendon",
+        "Bağ",
+        "Kas",
+        "Kıkırdak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kemikler, eklemler aracılığıyla birbirine tutunur; yani kemiklerin birleştiği/bağlandığı yapıya eklem denir. Eklemler hareket serbestliğine göre az oynak (sinartroz) veya oynak (diartroz) olabilir.",
+      "optionNotes": [
+        "Doğru yanıt: Kemiklerin birleştiği yere eklem denir; kemikler eklemler aracılığıyla birbirine tutunur.",
+        "Tendon kası kemiğe bağlayan yapıdır, kemiklerin birleşim yerini tanımlamaz.",
+        "Bağ (ligament), kemikleri kemiğe bağlayan bağ dokusu yapısıdır; birleşim bölgesinin kendisi değil, o bölgeyi güçlendiren bir unsurdur.",
+        "Kas, kasılma yoluyla hareketi sağlayan dokudur; kemiklerin birleştiği yerle ilgili bir terim değildir.",
+        "Kıkırdak, eklem yüzeylerini kaplayan bir dokudur; kemiklerin birleştiği yerin kendisi değil, o bölgedeki bir doku bileşenidir."
+      ]
+    },
+    {
+      "id": "w4q15",
+      "question": "Kanı kalpten vücuda taşıyan damar aşağıdakilerden hangisidir?",
+      "options": [
+        "Toplardamar",
+        "Kılcal damar",
+        "Lenf damarı",
+        "Atardamar",
+        "Sinir damarı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dolaşım sistemi temel olarak kalp, atardamarlar (arter), toplardamarlar (ven) ve kılcal damarlardan (kapiller) oluşur. Atardamarlar, kanı kalpten vücuda doğru taşıyan damarlardır.",
+      "optionNotes": [
+        "Toplardamar (ven), kanı vücuttan kalbe geri taşıyan damardır; sorudaki yönün tersini tanımlar.",
+        "Kılcal damar (kapiller), doku hücreleri ile kan arasında gaz ve madde alışverişinin gerçekleştiği ince damardır, kalpten vücuda taşıma işlevi onun tanımı değildir.",
+        "Lenf damarı, lenf sıvısının taşınmasında görevlidir, kan taşımaz.",
+        "Doğru yanıt: Atardamar (arter), kanı kalpten vücuda doğru taşıyan damardır.",
+        "\"Sinir damarı\" dolaşım sisteminin bileşenlerinden biri değildir, geçerli bir terim değildir."
+      ]
+    },
+    {
+      "id": "w4q16",
+      "question": "Kanı vücuttan kalbe geri taşıyan damar aşağıdakilerden hangisidir?",
+      "options": [
+        "Atardamar",
+        "Kılcal damar",
+        "Lenf damarı",
+        "Sinir damarı",
+        "Toplardamar"
+      ],
+      "correctIndex": 4,
+      "explanation": "Toplardamarlar (ven), kanı vücuttan kalbe geri taşıyan damarlardır; dolaşım sisteminin temel bileşenlerinden biridir (kalp, atardamarlar, toplardamarlar, kılcal damarlar, lenf ve lenf kanalları).",
+      "optionNotes": [
+        "Atardamar (arter), kanı kalpten vücuda taşır; sorudaki yönün tersini tanımlar.",
+        "Kılcal damar (kapiller), doku ile kan arasında alışveriş yapılan ince damardır, kanı kalbe geri taşıma onun tanımı değildir.",
+        "Lenf damarı, lenf sıvısının taşınmasında görevlidir, kan taşımaz.",
+        "\"Sinir damarı\" dolaşım sisteminin bileşenlerinden biri değildir, geçerli bir terim değildir.",
+        "Doğru yanıt: Toplardamar (ven), kanı vücuttan kalbe geri taşıyan damardır."
+      ]
+    },
+    {
+      "id": "w4q17",
+      "question": "Gaz alışverişinin gerçekleştiği damar aşağıdakilerden hangisidir?",
+      "options": [
+        "Atardamar",
+        "Toplardamar",
+        "Lenf damarı",
+        "Sinir damarı",
+        "Kılcal damar"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kılcal damarlar (kapiller), çapları çok ince olan ve kan ile doku hücreleri arasında oksijen-karbondioksit gibi gazların ve diğer maddelerin alışverişinin gerçekleştiği damarlardır.",
+      "optionNotes": [
+        "Atardamar, kanı kalpten vücuda taşıyan büyük/orta çaplı damardır, gaz alışverişi onun temel görevi değildir.",
+        "Toplardamar, kanı vücuttan kalbe geri taşıyan damardır, gaz alışverişi onun temel görevi değildir.",
+        "Lenf damarı, lenf sıvısının taşınmasında görevlidir, kan ile doku arasındaki gaz alışverişiyle ilgili değildir.",
+        "\"Sinir damarı\" dolaşım sisteminin bileşenlerinden biri değildir, geçerli bir terim değildir.",
+        "Doğru yanıt: Kılcal damar (kapiller), kan ile doku hücreleri arasındaki gaz alışverişinin gerçekleştiği ince damardır."
+      ]
+    },
+    {
+      "id": "w4q18",
+      "question": "Kalp kaç odacıktan oluşur?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "İnsan kalbi, iki kulakçık (atrium) ve iki karıncıktan (ventrikül) oluşan toplam dört odacıklı bir organdır; bu yapı kanın tek yönlü ve etkili şekilde pompalanmasını sağlar.",
+      "optionNotes": [
+        "2 odacık, kalbin gerçek yapısını yansıtmaz; kalp 2 kulakçık ve 2 karıncık olmak üzere toplam 4 odacıktan oluşur.",
+        "3 odacık, kalbin gerçek yapısıyla uyuşmaz.",
+        "Doğru yanıt: Kalp, 2 kulakçık (atrium) ve 2 karıncıktan (ventrikül) oluşan toplam 4 odacıklı bir organdır.",
+        "5 odacık, kalbin gerçek yapısının üzerinde olup doğru değildir.",
+        "6 odacık, kalbin gerçek yapısının üzerinde olup doğru değildir."
+      ]
+    },
+    {
+      "id": "w4q19",
+      "question": "Solunum sisteminin temel görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Kan üretmek",
+        "Besinleri sindirmek",
+        "Hormon salgılamak",
+        "Oksijen almak ve karbondioksit vermek",
+        "İdrar üretmek"
+      ],
+      "correctIndex": 3,
+      "explanation": "Solunum sistemi, soluk alırken gerekli oksijeni akciğerlere ileterek kana geçişini sağlayan ve soluk verirken ters yönde işlev görerek karbondioksiti dışarı atan sistemdir; temel olarak burun, yutak, gırtlak, soluk borusu ve akciğerlerden oluşur.",
+      "optionNotes": [
+        "Kan üretimi kemik iliğine (iskelet sistemiyle ilişkili) ait bir görevdir, solunum sisteminin temel görevi değildir.",
+        "Besinlerin sindirimi sindirim sisteminin görevidir, solunum sistemiyle ilgili değildir.",
+        "Hormon salgılamak endokrin sistemin görevidir, solunum sisteminin temel fonksiyonu değildir.",
+        "Doğru yanıt: Solunum sistemi oksijeni akciğerlere ileterek kana geçişini sağlar ve karbondioksiti vücuttan uzaklaştırır.",
+        "İdrar üretimi üriner sistemin görevidir, solunum sistemiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w4q20",
+      "question": "Akciğerlerde gaz alışverişinin gerçekleştiği yapı aşağıdakilerden hangisidir?",
+      "options": [
+        "Bronş",
+        "Trakea",
+        "Alveol",
+        "Gırtlak",
+        "Diyafram"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alveoller, akciğerlerin en ucundaki küçük hava keseciklerdir ve oksijen ile karbondioksitin kılcal damarlardaki kan ile akciğer havası arasında alışveriş yaptığı asıl yapıdır; solunum sisteminin gaz değişiminin gerçekleştiği temel birimidir.",
+      "optionNotes": [
+        "Bronş, soluk borusundan ayrılarak havayı akciğerlere ileten hava yoludur; gaz alışverişinin gerçekleştiği yapı değildir.",
+        "Trakea (soluk borusu), havayı gırtlaktan bronşlara ileten geçiş yapısıdır; gaz alışverişi burada gerçekleşmez.",
+        "Doğru yanıt: Alveoller, akciğerlerde oksijen-karbondioksit gaz alışverişinin gerçekleştiği küçük hava keseciklerdir.",
+        "Gırtlak (larinks), ses üretimi ve hava yolunun üst kısmını oluşturan bir yapıdır; gaz alışverişiyle ilgili değildir.",
+        "Diyafram, solunum hareketini sağlayan bir kastır; gaz alışverişinin gerçekleştiği yapı değildir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "questions": [
+    {
+      "id": "w1q1",
+      "question": "Basit ve karmaşık hareketlerin sergilenmesinden, postürü korumaya kadar istenerek yapılan ve motor becerilerin temel bileşeni olarak değerlendiren kavrama ne ad verilir?",
+      "options": ["Denge", "Çeviklik", "Hareketlilik", "Koordinasyon", "Ritim"],
+      "correctIndex": 0,
+      "explanation": "Yentürk (2018)'e göre denge, postürü korumaktan karmaşık hareketleri sergilemeye kadar uzanan motor becerilerin temel bileşeni olarak tanımlanır. Bu tanım sorudaki ifadeyle birebir örtüşür; spor bilimi açısından denge, merkezî sinir sistemi ile iskelet-kas sisteminin uyumlu etkileşimini ifade eden koordinasyonun bir parçasıdır.",
+      "optionNotes": [
+        "Doğru yanıt; tanım Yentürk (2018)'in denge tanımıyla birebir aynıdır: postürü korumaktan karmaşık hareketlere kadar motor becerilerin temel bileşeni.",
+        "Çeviklik, yavaşlama-hızlanma-yön değiştirme hareketlerinin hızlı uygulanmasıyla ilgilidir; postürü koruma/motor becerilerin temel bileşeni tanımı değildir.",
+        "Hareketlilik, eklemlerin müsaade ettiği açıda hareket yapabilme yeteneğidir; bu tanımla ilgisi yoktur.",
+        "Koordinasyon, karmaşık hareketleri kısa sürede öğrenip uygulayabilme yeteneğidir; burada tarif edilen 'postürü koruma' vurgusu dengeye özgüdür.",
+        "Ritim, hareketin zaman ve dinamiğine uygun davranabilme yeteneğidir; bu tanımda geçen postür koruma kavramıyla doğrudan ilişkilendirilmez."
+      ]
+    },
+    {
+      "id": "w1q2",
+      "question": "Yavaşlama, hızlanma ve yön değiştirme hareketlerinin en kısa sürede verimli bir şekilde uygulanmasını sağlayan fiziksel beceri aşağıdakilerden hangisidir?",
+      "options": ["Denge", "Çeviklik", "Hareketlilik", "Koordinasyon", "Ritim"],
+      "correctIndex": 1,
+      "explanation": "Günay vd. (2017)'ye göre çeviklik, yavaşlama, hızlanma ve yön değiştirme hareketlerinin en kısa sürede verimli bir şekilde uygulanmasını sağlayan fiziksel bir beceri olarak tanımlanır. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür; çevikliğin olmazsa olmaz üç unsuru koordinasyon, denge ve patlayıcılıktır.",
+      "optionNotes": [
+        "Denge, vücut pozisyonunu koruma/sürdürme becerisidir; yavaşlama-hızlanma-yön değiştirme hızını doğrudan tanımlamaz.",
+        "Doğru yanıt; tanım Günay vd. (2017)'nin çeviklik tanımıyla birebir aynıdır.",
+        "Hareketlilik, eklem hareket genişliğiyle ilgilidir, yön değiştirme hızını tanımlamaz.",
+        "Koordinasyon, hareketlerin öğrenilip doğru sırayla uygulanmasıyla ilgilidir; burada vurgulanan spesifik yön değiştirme hızı değildir.",
+        "Ritim, hareketin zamanlama ve dinamiğine uyumla ilgilidir, yavaşlama-hızlanma-yön değiştirme tanımı değildir."
+      ]
+    },
+    {
+      "id": "w1q3",
+      "question": "Sporcunun efor kapasitesi aşağıdakilerden hangisine bağlı değildir?",
+      "options": ["Biyolojik ve kronolojik", "Antrenman altyapısı", "Antrenman ve sağlık durumu", "Sporcunun vücut yapısı ve kişiliği", "Antrenmanın çeşitliliği"],
+      "correctIndex": 4,
+      "explanation": "Kaynak metinde (Bireyselleştirme İlkesi bölümü) sporcunun efor kapasitesinin bağlı olduğu faktörler arasında biyolojik/kronolojik yaş, antrenman altyapısı (tecrübe/spora başlama yaşı), antrenman ve sağlık durumu, antrenman yükü-toparlanma hızı ile sporcunun vücut yapısı ve kişiliği sayılır. 'Antrenmanın çeşitliliği' ise ayrı ve bağımsız bir ilke olan 'Çeşitlilik İlkesi' kapsamında ele alınır, efor kapasitesini belirleyen faktörler listesinde yer almaz.",
+      "optionNotes": [
+        "Efor kapasitesini belirleyen faktörlerden biridir; metinde doğrudan sayılmıştır.",
+        "Efor kapasitesini belirleyen faktörlerden biridir; antrenman altyapısı/tecrübesi metinde açıkça listelenmiştir.",
+        "Efor kapasitesini belirleyen faktörlerden biridir; antrenman ve sağlık durumu metinde doğrudan sayılmıştır.",
+        "Efor kapasitesini belirleyen faktörlerden biridir; sporcunun vücut yapısı ve kişiliği metinde açıkça belirtilmiştir.",
+        "Doğru yanıt; antrenmanın çeşitliliği, efor kapasitesi faktörleri listesinde yer almaz, ayrı bir ilke olan 'Çeşitlilik İlkesi'ne aittir."
+      ]
+    },
+    {
+      "id": "w1q4",
+      "question": "Planlı ve programlı olarak gerçekleştirilen, fiziksel uygunluğun bir veya daha fazla ögesini geliştirmeye ya da korumaya yönelik olarak yapılan tekrarlayıcı vücut hareketlerine ne ad verilir?",
+      "options": ["Antrenman", "Performans", "Egzersiz", "Spor", "Beceri"],
+      "correctIndex": 2,
+      "explanation": "Biddle (1995)'e göre egzersiz, fiziksel uygunluğun bir veya daha fazla ögesini geliştirmeye ya da korumaya yönelik olarak planlı ve programlı şekilde yapılan tekrarlayıcı vücut hareketleridir. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+      "optionNotes": [
+        "Antrenman, sporcunun fiziksel, teknik, taktik ve psikolojik açıdan hazırlanmasını kapsayan daha geniş ve sistematik bir süreçtir, bu dar tanımla örtüşmez.",
+        "Performans, sporcunun ortaya koyduğu somut verim düzeyidir; bu bir hareket tanımı değil bir sonuçtur.",
+        "Doğru yanıt; tanım Biddle (1995)'in egzersiz tanımıyla birebir aynıdır.",
+        "Spor, kurallara bağlı ve rekabetçi bir insan davranışıdır; bu tanımda kural/rekabet vurgusu yoktur.",
+        "Beceri, bir işi amaca uygun sonuçlandırma yeteneğidir, planlı-programlı tekrarlayıcı hareket tanımı değildir."
+      ]
+    },
+    {
+      "id": "w1q5",
+      "question": "Çocukların ve gençlerin antropometrik, psikolojik ve fizyolojik özellikleri için bilimsel metotlar kullanılarak yapılan performans testlerinin sonuçları ve uzman görüşleri dikkate alınarak spora yönlendirilmesine dayalı yöntem aşağıdakilerden hangisidir?",
+      "options": ["Doğal seçim", "Bilimsel seçim", "Dolaylı seçim", "Doğrudan seçim", "Bireysel seçim"],
+      "correctIndex": 1,
+      "explanation": "Metinde bilimsel seçim şu şekilde tanımlanır: çocukların antropometrik, psikolojik ve fizyolojik özelliklerinin bilimsel metotlarla test edilip uzman görüşleri doğrultusunda spora yönlendirilmesi. Bu yöntem, öznel değerlendirme (uzman antrenörlerin sistematik gözlemleri) ve deneysel değerlendirme (test bataryaları, kinantropometrik ölçümler) olmak üzere iki temel değerlendirme biçimiyle uygulanır.",
+      "optionNotes": [
+        "Doğal seçimde çocuklar kişisel tercih, aile beklentisi ve çevrenin sosyo-kültürel yapısı gibi öznel faktörlerle spora yönelir; bilimsel test ve ölçüme dayanmaz.",
+        "Doğru yanıt; tanım metindeki bilimsel seçim tanımıyla birebir örtüşür.",
+        "Metinde 'dolaylı seçim' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+        "Metinde 'doğrudan seçim' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+        "Metinde 'bireysel seçim' adıyla ayrı bir sınıflandırma geçmez; seçim yöntemleri doğal ve bilimsel seçim olarak ikiye ayrılır."
+      ]
+    },
+    {
+      "id": "w1q6",
+      "question": "İzometrik kas çalışması sonucu ortaya çıkan kuvvette ne ad verilir?",
+      "options": ["Dinamik kuvvet", "Relatif (göreli) kuvvet", "Maksimal kuvvet", "Statik kuvvet", "Çabuk kuvvet"],
+      "correctIndex": 3,
+      "explanation": "Metinde statik kuvvet, izometrik kas çalışması sonucu, kasta gözle görülür bir kısalma olmadan ortaya çıkan kuvvet olarak tanımlanır. İzometrik kasılmada kas uzunluğu değişmez, sadece gerilim artar; bu nedenle izometrik çalışmanın karşılığı statik kuvvettir.",
+      "optionNotes": [
+        "Dinamik kuvvet, izotonik kasılmalarla (kas boyu değişerek) ortaya çıkan kuvvettir; izometrik çalışmanın tam tersidir.",
+        "Relatif (göreli) kuvvet, sporcunun kendi vücut ağırlığına karşı geliştirdiği kuvvettir; izometrik çalışma türüyle ilgili bir sınıflandırma değildir.",
+        "Maksimal kuvvet, kas-sinir sisteminin istemli kasılmayla ortaya çıkardığı en büyük kuvvettir; kasılma türüne göre değil büyüklüğe göre bir sınıflandırmadır.",
+        "Doğru yanıt; statik kuvvet, metinde izometrik kasılmanın karşılığı olarak doğrudan tanımlanmıştır.",
+        "Çabuk kuvvet, kuvvet ve süratin bir ürünü olarak yüksek hızda dirençleri yenebilme yetisidir; izometrik çalışmayla tanımlanmaz."
+      ]
+    },
+    {
+      "id": "w1q7",
+      "question": "Sporcunun somut olarak fiziksel, fizyolojik, biyomotorik ve psikolojik olarak ortaya koyduğu verim düzeyi aşağıdakilerden hangisidir?",
+      "options": ["Fiziksel Aktivite", "Performans", "Spor", "Antrenman", "Egzersiz"],
+      "correctIndex": 1,
+      "explanation": "Metinde performans (sporsal verim), sporcunun somut olarak fiziksel, fizyolojik, biyomotorik ve psikolojik olarak ortaya koyduğu verim düzeyi olarak tanımlanır. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+      "optionNotes": [
+        "Fiziksel aktivite, enerjiyi harcamak için vücudun hareket etmesidir; somut verim düzeyi tanımı değildir.",
+        "Doğru yanıt; tanım doğrudan performans (sporsal verim) kavramına aittir.",
+        "Spor, kurallara bağlı, bedeni/zihni geliştirmeye yönelik organize bir insan davranışıdır; verim düzeyi tanımı değildir.",
+        "Antrenman, sporcunun sistematik olarak hazırlanma sürecidir; somut bir verim düzeyi değil bir hazırlanma sürecidir.",
+        "Egzersiz, fiziksel uygunluğu geliştirmeye yönelik tekrarlayıcı hareketlerdir; verim düzeyi tanımı değildir."
+      ]
+    },
+    {
+      "id": "w1q8",
+      "question": "Birim antrenman ana bölümünde hangi antrenman programı yapılır?",
+      "options": ["Teknik – taktik", "Isınma – soğuma", "Giriş – soğuma", "Giriş – ısınma – soğuma", "Teknik – Kondisyon"],
+      "correctIndex": 0,
+      "explanation": "Metinde ana (temel) bölümün amacı açıkça şu şekilde belirtilir: 'sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel biyomotor yetileri ve psikolojik niteliklerini geliştirmek.' Antrenmanın asıl kısmı olan bu bölümde ağırlıklı olarak teknik ve taktik çalışmalar yapılır.",
+      "optionNotes": [
+        "Doğru yanıt; metinde ana bölümün odak noktası teknik ve taktik davranışların öğretilmesi olarak açıkça belirtilmiştir.",
+        "Isınma ve soğuma, ana bölümden önce ve sonra gelen farklı bölümlerdir; ana bölümün kendisinde uygulanan programlar değildir.",
+        "Giriş ve soğuma da ana bölümün dışında kalan, ondan önceki ve sonraki aşamalardır.",
+        "Giriş, ısınma ve soğuma birim antrenmanın diğer üç bölümüdür; ana bölümün kendisi değildir.",
+        "Kondisyon (biyomotor yetiler) ana bölümde teknik-taktikle birlikte geliştirilse de metinde bu ikili ilişki doğrudan 'teknik ve taktik' olarak ifade edilir, 'teknik-kondisyon' şeklinde bir eşleştirme metinde verilmez."
+      ]
+    },
+    {
+      "id": "w1q9",
+      "question": "İki ya da daha çok sporcunun işbirliği içerisinde ortaya koyduğu taktik anlayışına ne denir?",
+      "options": ["Grup Taktiği", "Bireysel Taktik", "Kolektif Taktik", "Genel Taktik", "Özel Taktik"],
+      "correctIndex": 2,
+      "explanation": "Metinde kolektif taktik şu şekilde tanımlanır: 'İki ya da daha çok sporcunun işbirliği içerisinde ortaya koyduğu taktik anlayıştır.' Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+      "optionNotes": [
+        "Grup taktiği, taktiğin kapsamına göre yapılan farklı bir sınıflandırmada (bireysel-grup-takım taktiği) geçen bir terimdir; sorudaki 'işbirliği' tanımının birebir karşılığı değildir.",
+        "Bireysel taktik, müsabakada bir sporcunun tek başına amaca yönelik davranışlarını içerir (örn. şut atan oyuncunun davranışı); işbirliği tanımına uymaz.",
+        "Doğru yanıt; metinde bu tanım doğrudan 'Kolektif Taktik' başlığı altında verilmiştir.",
+        "Genel taktik, taktiğin genel kural ve ilkelerini içerir; sporcular arası işbirliğini tanımlamaz.",
+        "Özel taktik, belirli bir duruma veya rakibe özgü taktik uygulamalarını ifade eder; işbirliği tanımı değildir."
+      ]
+    },
+    {
+      "id": "w1q10",
+      "question": "Çok yönlü gelişim ilkesi piramidine göre sırasıyla gelişim evreleri nelerdir?",
+      "options": [
+        "Çok Yönlü Gelişim Özel Antrenman Yüksek Performans",
+        "Olgunlaşma Özel Antrenman Çok Yönlü Gelişim",
+        "Genç Sporcular Özel Antrenman Çok Yönlü Gelişim",
+        "Çocukluk Evresi Özel Antrenman Çok Yönlü Gelişim",
+        "Yüksek Performans Özel Antrenman Olgunlaşma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaynak metindeki Şekil 3.1 'Çok Yönlü Gelişim İlkesi Piramidi'ne göre piramit tabandan tepeye doğru şu şekilde sıralanır: tabanda çocukluk evresinde kazanılan 'Çok Yönlü Gelişim', ortada genç sporcularda uygulanan 'Özel Antrenman', tepede ise olgunlaşma evresinde ulaşılan 'Yüksek Performans'. Bu piramit, literatürde tam olarak bu üç kademeyle (Çok Yönlü Gelişim - Özel Antrenman - Yüksek Performans) anılır.",
+      "optionNotes": [
+        "Doğru yanıt; piramidin tabandan tepeye doğru sıralanışı tam olarak Çok Yönlü Gelişim, Özel Antrenman, Yüksek Performans şeklindedir (Bompa ve Haff, 2015).",
+        "Sıralama tersine çevrilmiş ve 'Yüksek Performans' yerine hatalı biçimde 'Çok Yönlü Gelişim' ile değiştirilmiştir; şekildeki gerçek sıralamayla uyuşmaz.",
+        "'Genç Sporcular' ve 'Çok Yönlü Gelişim' aynı sırada karışık biçimde kullanılmış, tepedeki 'Yüksek Performans' seviyesi eksik bırakılmıştır.",
+        "'Çocukluk Evresi' doğru başlangıç noktası olsa da sıralamanın sonunda 'Yüksek Performans' yerine tekrar 'Çok Yönlü Gelişim' yazılmıştır, bu nedenle hatalıdır.",
+        "Sıralama tamamen ters çevrilmiştir; piramidin tepesi olan 'Yüksek Performans' en başa, tabanı olan 'Çok Yönlü Gelişim' ise listeye hiç dahil edilmemiştir."
+      ]
+    },
+    {
+      "id": "w1q11",
+      "question": "Aşağıdakilerden hangisi objeyle denge türüne örnek değildir?",
+      "options": ["Rakibe çalım atmak", "Ribaunt almak", "Smaç vurmak", "Çekiç atmak", "Öne takla atmak"],
+      "correctIndex": 4,
+      "explanation": "Objeyle denge, top, çubuk gibi ek bir ekipmanla sağlanan dengedir. Rakibe çalım atmak (topla), ribaunt almak (basketbol topuyla), smaç vurmak (voleybol topuyla) ve çekiç atmak (çekiçle) birer obje/ekipman kullanılarak gerçekleştirilen denge örnekleridir. Öne takla atmak ise herhangi bir obje kullanılmadan, sadece sporcunun kendi vücuduyla gerçekleştirdiği bir hareket olduğundan objeyle denge örneği değildir.",
+      "optionNotes": [
+        "Objeyle denge örneğidir; çalım atma sırasında top (obje) kontrol edilerek denge sağlanır.",
+        "Objeyle denge örneğidir; ribaunt sırasında basketbol topu (obje) ile denge korunarak hareket gerçekleştirilir.",
+        "Objeyle denge örneğidir; smaç vuruşu sırasında voleybol topuna (obje) karşı denge sağlanır.",
+        "Objeyle denge örneğidir; çekiç atma sırasında çekiç (obje) ile birlikte denge kurulur.",
+        "Doğru yanıt; öne takla atmak herhangi bir ek ekipman/obje kullanmadan yapılan bir hareket olduğundan objeyle denge türüne örnek değildir."
+      ]
+    },
+    {
+      "id": "w1q12",
+      "question": "Bir takımın küçük yaşta yetenekli sporcuları tespit edip altyapısına katarak kendi yıldızlarını yarattığı sistem aşağıdakilerden hangisidir?",
+      "options": ["Scouting sistemi", "Gözleme dayalı sistem", "Aşamalı sistem", "Yıldıza dayalı sistem", "Yeteneğe dayalı sistem"],
+      "correctIndex": 0,
+      "explanation": "Metinde açıkça belirtildiği gibi, başarılı spor kulüplerinin benimsediği ikinci yöntem 'geniş tabanlı bir scouting sistemi ile küçük yaşta yetenekli sporcuları tespit edip altyapısına katarak kendi yıldızlarını yaratmak' şeklinde tanımlanır. Bu yöntem, parlayan yıldız sporcuları yüksek bedellerle transfer etmenin (birinci yöntem) alternatifidir.",
+      "optionNotes": [
+        "Doğru yanıt; metinde bu tanım doğrudan 'scouting sistemi' olarak ifade edilmiştir.",
+        "Metinde 'gözleme dayalı sistem' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+        "Metinde 'aşamalı sistem' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+        "Metinde 'yıldıza dayalı sistem' adıyla ayrı bir sınıflandırma geçmez; asıl karşıt yöntem olan 'parlayan yıldızları transfer etme' ile karıştırılmamalıdır.",
+        "Metinde 'yeteneğe dayalı sistem' adıyla ayrı bir sınıflandırma geçmez; doğru terim scouting sistemidir."
+      ]
+    },
+    {
+      "id": "w1q13",
+      "question": "Bir plan ve program çerçevesinde; ölçüsü belirlenmiş, kapsam ve içerikte yapılan değişikler sonucu organizmada morfolojik, fonksiyonel ve kimyasal değişikliklere neden olan etkinliklere ne ad verilir?",
+      "options": ["Çeşitlilik", "Yüklenme", "Model Antrenman", "Özelleşme", "Çok Yönlü Gelişim"],
+      "correctIndex": 1,
+      "explanation": "Metinde yüklenme şu şekilde tanımlanır: 'bir plan ve program çerçevesinde ölçüsü belirlenmiş, kapsam ve içerikte yapılan değişiklikler sonucu organizmada morfolojik, fonksiyonel ve kimyasal değişikliklere neden olan etkinlik' (Smith, 2003). Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+      "optionNotes": [
+        "Çeşitlilik ilkesi, antrenmanın tek tipe bağlı kalmaksızın çoklu drillerle işlenmesini öngörür; organizmadaki morfolojik/kimyasal değişiklikleri tanımlayan kavram değildir.",
+        "Doğru yanıt; tanım doğrudan yüklenme kavramına aittir.",
+        "Model antrenman, yarışma şartlarına uygun antrenman düzenlemesini ifade eder; bu tanımla ilgisi yoktur.",
+        "Özelleşme, branşa özgü morfolojik/fonksiyonel değişiklikleri içerir ama tanımda geçen 'ölçüsü belirlenmiş, plan-program çerçevesinde etkinlik' ifadesi doğrudan yüklenmeye aittir.",
+        "Çok yönlü gelişim, geniş ve çok yönlü fiziksel gelişimi ifade eder; bu spesifik tanımla örtüşmez."
+      ]
+    },
+    {
+      "id": "w1q14",
+      "question": "Bir impulsa karşı kasın göstermiş olduğu ilk tepkiye ...........................denir.",
+      "options": ["Reaksiyon süresi", "Ortalama sürat", "Hareket sürati", "İvme", "Esneklik"],
+      "correctIndex": 0,
+      "explanation": "Metinde açıkça belirtildiği üzere: 'Bir impulsa karşı kasın göstermiş olduğu ilk tepki süresine reaksiyon süresi denir.' Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür; reaksiyon süreci duyu organlarının algılamasından kasta mekanik olayın oluşmasına kadar sıralı aşamalardan geçer.",
+      "optionNotes": [
+        "Doğru yanıt; tanım metinde reaksiyon süresi için birebir aynı şekilde verilmiştir.",
+        "Ortalama sürat, bir mesafenin kat edilmesindeki ortalama hız değeridir; impulsa karşı ilk tepkiyi tanımlamaz.",
+        "Hareket sürati, ilk ve bitiş hareketi arasındaki süredir; bu, reaksiyon sonrası gerçekleşen bir süreçtir, ilk tepkinin kendisi değildir.",
+        "İvme, minimum zamanda maksimum hıza erişmeyi sağlayan hızdaki değişim oranıdır; impulsa karşı ilk tepki tanımı değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir; kasın impulsa karşı ilk tepkisiyle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w1q15",
+      "question": "Hareketlerin doğru olarak yapılmasını ve fiziksel dayanıklılıkla ilgili olarak vücudun Kondisyon durumuna en yakın kavrama ne a verilir?",
+      "options": ["Motivasyon", "Oryantasyon", "Fiziksel uygunluk", "Performans", "Değerlendirme"],
+      "correctIndex": 2,
+      "explanation": "Metinde fiziksel uygunluk (fitness) şu şekilde tanımlanır: 'hareketlerin doğru olarak yapılmasını ve fiziksel dayanıklılıkla ilgili olarak vücudun kondisyon durumunu ifade eder.' Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+      "optionNotes": [
+        "Motivasyon, sporcunun bir hedefe ulaşma isteğiyle ilgili psikolojik bir durumdur; hareketlerin doğru yapılması ve kondisyon tanımıyla ilgisi yoktur.",
+        "Oryantasyon (boyutsal yön belirleme), sporcunun kendini ve çevresini üç boyutlu algılamasıdır; bu tanımla örtüşmez.",
+        "Doğru yanıt; tanım metinde fiziksel uygunluk (fitness) için birebir aynı şekilde verilmiştir.",
+        "Performans, sporcunun ortaya koyduğu somut verim düzeyidir; burada tarif edilen spesifik 'hareketlerin doğruluğu ve kondisyon' tanımı değildir.",
+        "Değerlendirme, ölçüm sonuçlarının yorumlanması sürecidir; bir kondisyon/vücut durumu tanımı değildir."
+      ]
+    },
+    {
+      "id": "w1q16",
+      "question": "En basit tanımı ile enerjiyi harcamak için vücudun hareket etmesi olarak tanımlanan kavrama ne ad verilir?",
+      "options": ["Spor", "Performans", "Antrenman", "Fiziksel aktivite", "Egzersiz"],
+      "correctIndex": 3,
+      "explanation": "Zorba (2017)'ye göre fiziksel aktivite, en basit tanımıyla enerjiyi harcamak için vücudun hareket etmesi, özellikle iskelet kasları aracılığıyla oluşan enerji harcamasıdır. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür; yürüme, merdiven çıkma gibi günlük hareketler de bu kapsama girer.",
+      "optionNotes": [
+        "Spor, kurallara bağlı, rekabetçi ve organize bir insan davranışıdır; bu basit enerji harcama tanımından daha kapsamlıdır.",
+        "Performans, sporcunun ortaya koyduğu somut verim düzeyidir; enerji harcamasının kendisini ifade etmez.",
+        "Antrenman, sporcunun sistematik olarak hazırlanma sürecidir; bu basit tanımdan çok daha kapsamlı ve hedefe yöneliktir.",
+        "Doğru yanıt; tanım Zorba (2017)'nin fiziksel aktivite tanımıyla birebir aynıdır.",
+        "Egzersiz, planlı ve programlı şekilde yapılan tekrarlayıcı hareketlerdir; burada 'planlılık' vurgusu yoktur, dolayısıyla bu basit tanımla tam örtüşmez."
+      ]
+    },
+    {
+      "id": "w1q17",
+      "question": "Giriş, ısınma, ana bölüm ve soğuma hangi antrenman türünde değerlendirilmektedir?",
+      "options": ["Birim antrenman", "Mikro antrenman", "Makro antrenman", "Yıllık antrenman", "Haftalık antrenman"],
+      "correctIndex": 0,
+      "explanation": "Metinde belirtildiği üzere birim antrenman; ısınma, ana (temel) bölüm ve soğuma (bitiriş) bölümlerini kapsar, bazı kaynaklarda bunlara ek olarak bir de başlangıç (giriş) bölümü eklenerek dört ayrı başlıkla ifade edilir: giriş, ısınma, ana bölüm, soğuma. Bu dört bölüm birim antrenmanın (günlük antrenmanın) yapısını oluşturur.",
+      "optionNotes": [
+        "Doğru yanıt; giriş, ısınma, ana bölüm ve soğuma birim antrenmanın (günlük antrenmanın) dört bölümünü oluşturur.",
+        "Mikro antrenman (haftalık plan), haftalık yapılacak birim antrenman sayısını belirler; kendisi giriş-ısınma-ana bölüm-soğuma yapısına sahip değildir, bu yapıyı içeren birim antrenmanlardan oluşur.",
+        "Makro (aylık) antrenman, 2-7 haftalık mikro döngüleri kapsayan daha büyük bir zaman dilimidir; giriş-ısınma-soğuma yapısı birim antrenmana aittir.",
+        "Yıllık antrenman planı, hazırlık-müsabaka-geçiş dönemlerini kapsayan en geniş kapsamlı plandır; bu dört bölümün tanımlandığı düzey değildir.",
+        "Haftalık antrenman (mikro plan), birden fazla birim antrenmanı içerir; giriş-ısınma-ana bölüm-soğuma yapısı birim antrenmanın kendisine aittir."
+      ]
+    },
+    {
+      "id": "w1q18",
+      "question": "I. Aerobik dayanıklılık II. Anaerobik dayanıklılık III. Genel dayanıklılık Yukarıda verilenlerden hangileri ‘’enerji oluşumu açısından dayanıklılık’’ kapsamında yer alır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 2,
+      "explanation": "Metinde açıkça belirtildiği üzere 'enerji oluşumu açısından dayanıklılık aerobik ve anaerobik olarak ikiye ayrılır.' Genel dayanıklılık ise ayrı bir sınıflandırma olan 'spor türüne göre dayanıklılık' başlığı altında, her spor dalında bulunması gereken dayanıklılık özelliği olarak tanımlanır; enerji üretim sistemiyle değil spor dalı kapsamıyla ilgilidir. Bu nedenle enerji oluşumu açısından dayanıklılık kapsamına sadece aerobik ve anaerobik dayanıklılık (I-II) girer.",
+      "optionNotes": [
+        "Eksik bir listedir; sadece aerobik dayanıklılığı alır, anaerobik dayanıklılığı dışarıda bırakır, oysa ikisi birlikte bu kapsamı oluşturur.",
+        "Eksik bir listedir; sadece anaerobik dayanıklılığı alır, aerobik dayanıklılığı dışarıda bırakır.",
+        "Doğru yanıt; metinde enerji oluşumu açısından dayanıklılığın aerobik ve anaerobik olarak ikiye ayrıldığı açıkça belirtilmiştir.",
+        "Genel dayanıklılığı da içerir, oysa genel dayanıklılık enerji oluşumuna göre değil spor türüne göre yapılan ayrı bir sınıflandırmaya aittir.",
+        "Genel dayanıklılığı da kapsama dahil eder; ancak genel dayanıklılık, enerji oluşumu açısından yapılan sınıflandırmanın bir parçası değildir."
+      ]
+    },
+    {
+      "id": "w1q19",
+      "question": "Aşağıdakilerden hangisi esnekliği etkileyen iç faktörlerden biridir?",
+      "options": ["Kişinin özel bir egzersizi yapabilme yeteneği", "Antrenmanın yapıldığı ortamın ısısı", "Günün saati", "Kişinin esnekliğe ulaşmada sorumluluk hissi", "Eklemin yapısı, tipi ve formu"],
+      "correctIndex": 4,
+      "explanation": "Metinde esnekliğin sınırlarını etkileyen iç faktörler arasında eklemin yapısı, tipi ve formu, hareketi sınırlayan kemik yapısı, kas-tendon-ligament elastikiyeti, derinin elastikiyeti, kasın gevşeme-kasılma yeteneği ve eklem ısısı sayılır. Antrenman ortamının ısısı ve günün saati ise metinde dış (çevresel) faktörler arasında yer alır.",
+      "optionNotes": [
+        "Metinde esnekliği etkileyen iç veya dış faktörler listesinde bu ifadeyle geçen bir unsur değildir; bu seçenek bir çeldiricidir.",
+        "Antrenmanın yapıldığı ortamın ısısı, metinde açıkça dış (çevresel) faktörler arasında sayılmıştır, iç faktör değildir.",
+        "Günün saati de metinde dış faktörler arasında sayılmıştır, iç faktör değildir.",
+        "Metinde esnekliği etkileyen faktörler listesinde bu ifadeyle geçen bir unsur değildir; bu seçenek bir çeldiricidir.",
+        "Doğru yanıt; eklemin yapısı, tipi ve formu metinde esnekliğin sınırlarını etkileyen iç faktörler arasında ilk sırada sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q20",
+      "question": "Aşağıdakilerden hangisi tekniğin öğrenim safhalarından biri değildir?",
+      "options": ["Amaca Yönelik Tanıma ve Anlama", "Kaba Koordinasyon Safhası", "Ayrıntılı ve İnce Koordinasyon Safhası", "Sağlamlaştırma ve Pekiştirme Safhası", "Çok yönlü gelişim safhası"],
+      "correctIndex": 4,
+      "explanation": "Metinde tekniğin öğrenimi dört safhadan oluştuğu belirtilir: amaca yönelik tanıma ve anlama safhası, kaba koordinasyon safhası, ayrıntılı ve ince koordinasyon safhası, sağlamlaştırma ve pekiştirme safhası (bu son safhada teknik otomatik hâle gelir). 'Çok yönlü gelişim safhası' bu dört safha arasında sayılmaz; çok yönlü gelişim, antrenman ilkelerinden ayrı bir kavramdır (çocukluk evresinde kazanılan genel fiziksel gelişimle ilgilidir), tekniğin öğrenim safhalarına ait değildir.",
+      "optionNotes": [
+        "Tekniğin öğrenim safhalarından biridir; metinde ilk safha olarak doğrudan sayılmıştır.",
+        "Tekniğin öğrenim safhalarından biridir; metinde ikinci safha olarak doğrudan sayılmıştır.",
+        "Tekniğin öğrenim safhalarından biridir; metinde üçüncü safha olarak doğrudan sayılmıştır.",
+        "Tekniğin öğrenim safhalarından biridir; metinde son safha olarak doğrudan sayılmıştır, bu safhada teknik otomatikleşir.",
+        "Doğru yanıt; çok yönlü gelişim safhası tekniğin öğrenim safhaları arasında sayılmaz, bu kavram ayrı bir antrenman ilkesi olan 'çok yönlü gelişim ilkesi'ne aittir."
+      ]
+    }
+  ]
+}

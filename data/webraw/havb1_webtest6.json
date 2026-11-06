@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w6q1",
+      "question": "Motor becerilerin öğrenilmesi, kontrol edilmesi ve geliştirilmesi ile ilgilenen bilim dalı aşağıdakilerden hangisidir?",
+      "options": [
+        "Spor sosyolojisi",
+        "Motor öğrenme",
+        "Spor yönetimi",
+        "Rekreasyon",
+        "Spor hukuku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motor öğrenme, hareket becerilerinin nasıl öğrenildiğini, kontrol edildiğini ve pratik yoluyla geliştirildiğini inceleyen bilim dalıdır. Diğer seçenekler (spor sosyolojisi, spor yönetimi, rekreasyon, spor hukuku) spor biliminin farklı alt alanlarıdır ve hareket/motor beceri öğrenimiyle doğrudan ilgilenmez.",
+      "optionNotes": [
+        "Spor sosyolojisi, sporun toplumsal boyutunu inceler; motor becerilerin öğrenilmesiyle ilgilenmez.",
+        "Doğru yanıt: Motor öğrenme, hareket becerilerinin kazanılma, kontrol edilme ve pratikle gelişme süreçlerini inceleyen bilim dalıdır.",
+        "Spor yönetimi, spor organizasyonlarının idaresiyle ilgilenir, motor beceri gelişimini konu etmez.",
+        "Rekreasyon, boş zaman etkinlikleri ve eğlence amaçlı fiziksel aktiviteyi kapsar, motor öğrenme bilimiyle ilgisi yoktur.",
+        "Spor hukuku, spor alanındaki hukuki düzenlemelerle ilgilenir, hareket becerisi öğrenimiyle ilişkili değildir."
+      ]
+    },
+    {
+      "id": "w6q2",
+      "question": "Bir hareketin doğru zamanda, doğru kuvvetle ve uygun şekilde yapılmasını sağlayan yetenek aşağıdakilerden hangisidir?",
+      "options": [
+        "Koordinasyon",
+        "Kuvvet",
+        "Dayanıklılık",
+        "Esneklik",
+        "Sürat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koordinasyon, bir hareketin doğru zamanlama, uygun kuvvet ve doğru sırayla gerçekleştirilmesini sağlayan yetenektir; merkezî sinir sistemi ile kas sisteminin uyumlu çalışmasına dayanır. Diğer motor özellikler (kuvvet, dayanıklılık, esneklik, sürat) hareketin zamanlama ve kuvvet uyumunu değil, farklı fiziksel kapasiteleri ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Koordinasyon, hareketin doğru zamanda, doğru kuvvetle ve uygun sırayla yapılmasını sağlayan, merkezî sinir sistemi-kas işbirliğine dayanan yetenektir.",
+        "Kuvvet, kasın bir dirence karşı koyma ya da onu yenme yeteneğidir; zamanlama ve hareket uyumuyla ilgili değildir.",
+        "Dayanıklılık, yorgunluğa karşı direnme yeteneğidir, hareketin doğru zamanlamasıyla ilgili bir kavram değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir, hareketin zamanlama/kuvvet uyumunu tanımlamaz.",
+        "Sürat, bir mesafeyi en kısa sürede kat etme yeteneğidir, hareketin doğru sırayla yapılmasıyla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w6q3",
+      "question": "Kasların bir dirence karşı koyabilme veya direnç oluşturabilme yeteneğine ne ad verilir?",
+      "options": [
+        "Dayanıklılık",
+        "Esneklik",
+        "Kuvvet",
+        "Koordinasyon",
+        "Denge"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuvvet, kasların bir dirence karşı koyabilme ya da bir direnç oluşturabilme (bir kütleyi hareket ettirme) yeteneği olarak tanımlanır; bu, sinir-kas sisteminin içsel ve dışsal dirençleri yenme kapasitesidir. Diğer seçenekler farklı motor özellikleri ifade eder ve direnç karşısında kas gerilimi üretmeyi tanımlamaz.",
+      "optionNotes": [
+        "Dayanıklılık, yorgunluğa karşı direnme süresiyle ilgilidir, direnç oluşturma/yenme kapasitesini değil.",
+        "Esneklik, eklem hareket genişliğini ifade eder, kasların dirence karşı koymasıyla ilgili değildir.",
+        "Doğru yanıt: Kuvvet, kasların bir direnci yenme ya da ona karşı koyma (kas gerilimi üretme) yeteneğidir.",
+        "Koordinasyon, hareketlerin zamanlama ve sıralama uyumuyla ilgilidir, direnç oluşturma kapasitesi değildir.",
+        "Denge, vücudun belirli bir pozisyonda dengede kalma yeteneğidir, kas direnci üretmekle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w6q4",
+      "question": "Vücudun belirli bir hareketi en geniş açıda yapabilme yeteneği aşağıdakilerden hangisidir?",
+      "options": [
+        "Kuvvet",
+        "Sürat",
+        "Dayanıklılık",
+        "Esneklik",
+        "Koordinasyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Esneklik, bir eklem etrafındaki hareket serbestliğini (Range of Motion), yani vücudun belirli bir hareketi en geniş açıda yapabilme yeteneğini ifade eder; kasın esnekliği ve eklemi çevreleyen bağ dokularının özellikleriyle ilişkilidir. Diğer seçenekler eklem açıklığıyla değil farklı fiziksel kapasitelerle ilgilidir.",
+      "optionNotes": [
+        "Kuvvet, bir dirence karşı koyma yeteneğidir, eklem açıklığıyla ilgili değildir.",
+        "Sürat, hızlı hareket etme yeteneğidir, hareketin açısal genişliğini tanımlamaz.",
+        "Dayanıklılık, yorgunluğa direnme yeteneğidir, eklem hareket genişliğiyle ilgisi yoktur.",
+        "Doğru yanıt: Esneklik, bir eklem etrafındaki hareket serbestliğini, yani hareketin en geniş açıda yapılabilmesini ifade eder.",
+        "Koordinasyon, hareketlerin zamanlama ve sıralama uyumudur, eklem açıklığı tanımı değildir."
+      ]
+    },
+    {
+      "id": "w6q5",
+      "question": "Kısa sürede mümkün olan en yüksek hızda hareket edebilme yeteneği aşağıdakilerden hangisidir?",
+      "options": [
+        "Sürat",
+        "Kuvvet",
+        "Esneklik",
+        "Denge",
+        "Dayanıklılık"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sürat, sporcunun belirli bir mesafeyi en kısa sürede kat edebilme, yani kısa sürede mümkün olan en yüksek hızda hareket edebilme yeteneğidir. Diğer seçenekler hızla değil farklı motor özelliklerle (kuvvet, esneklik, denge, dayanıklılık) ilgilidir.",
+      "optionNotes": [
+        "Doğru yanıt: Sürat, kısa sürede mümkün olan en yüksek hızda hareket edebilme yeteneğidir.",
+        "Kuvvet, bir dirence karşı koyma ya da onu yenme yeteneğidir, hızla ilgili değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir, hareket hızını tanımlamaz.",
+        "Denge, vücut pozisyonunu koruma yeteneğidir, hız kavramıyla ilgili değildir.",
+        "Dayanıklılık, yorgunluğa karşı direnme yeteneğidir; kısa sürede yüksek hızla ilgili değil, uzun süreli performansla ilgilidir."
+      ]
+    },
+    {
+      "id": "w6q6",
+      "question": "Vücudun belirli bir pozisyonda dengede kalabilme veya hareket sırasında dengesini koruyabilme yeteneğine ne ad verilir?",
+      "options": [
+        "Koordinasyon",
+        "Denge",
+        "Sürat",
+        "Esneklik",
+        "Kuvvet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Denge, vücudun belirli bir pozisyonda dengede kalabilme (statik denge) veya hareket sırasında dengesini koruyabilme (dinamik denge) yeteneğidir; merkezî sinir sistemi ile iskelet-kas sisteminin koordineli çalışmasına dayanır. Diğer seçenekler bu tanıma denk gelmez.",
+      "optionNotes": [
+        "Koordinasyon, hareketlerin zamanlama ve sıralama uyumudur; denge onun bir bileşeni olsa da soruda tarif edilen doğrudan tanım dengeye aittir.",
+        "Doğru yanıt: Denge, vücudun belirli bir pozisyonda veya hareket sırasında dengede kalabilme yeteneğidir.",
+        "Sürat, hızlı hareket etme yeteneğidir, pozisyon korumayla ilgili değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir, denge kavramıyla ilişkili değildir.",
+        "Kuvvet, bir dirence karşı koyma yeteneğidir, pozisyon koruma/denge ile ilgili değildir."
+      ]
+    },
+    {
+      "id": "w6q7",
+      "question": "Organizmanın uzun süreli fiziksel etkinliklere karşı yorgunluğa direnebilme yeteneği aşağıdakilerden hangisidir?",
+      "options": [
+        "Esneklik",
+        "Kuvvet",
+        "Dayanıklılık",
+        "Sürat",
+        "Koordinasyon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dayanıklılık, organizmanın uzun süreli fiziksel etkinliklere karşı yorgunluğa direnebilme gücüdür; kalp-dolaşım, solunum ve sinir sistemiyle ilişkili motorsal bir yetidir. Diğer seçenekler yorgunluğa direnmeyi değil, farklı motor özellikleri ifade eder.",
+      "optionNotes": [
+        "Esneklik, eklem hareket genişliğiyle ilgilidir, yorgunluğa direnme kapasitesini tanımlamaz.",
+        "Kuvvet, bir dirence karşı koyma yeteneğidir, uzun süreli yorgunluğa direnmeyle ilgili değildir.",
+        "Doğru yanıt: Dayanıklılık, organizmanın uzun süreli etkinliklerde yorgunluğa direnebilme gücüdür.",
+        "Sürat, kısa sürede yüksek hızla hareket etme yeteneğidir, uzun süreli dirençle ilgili değildir.",
+        "Koordinasyon, hareketlerin zamanlama ve sıralama uyumudur, yorgunluğa direnmeyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w6q8",
+      "question": "Koşma, sıçrama ve atlama gibi hareketler aşağıdaki hareket türlerinden hangisine girer?",
+      "options": [
+        "Manipülatif hareketler",
+        "Lokomotor hareketler",
+        "Stabil hareketler",
+        "Denge hareketleri",
+        "Yardımcı hareketler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koşma, sıçrama ve atlama gibi vücudun bir yerden başka bir yere taşınmasını sağlayan hareketler, lokomotor (yer değiştirme) hareketler olarak sınıflandırılır. Bu hareketler, temel hareket becerileri sınıflamasında yer değiştirme kategorisinin tipik örnekleridir.",
+      "optionNotes": [
+        "Manipülatif hareketler, bir nesneyi kontrol etmeyi gerektiren hareketlerdir (atma, yakalama gibi); koşma/sıçrama bu kategoriye girmez.",
+        "Doğru yanıt: Koşma, sıçrama ve atlama, vücudun yer değiştirmesini sağlayan lokomotor hareketlerdir.",
+        "Stabil hareketler, vücudun yer değiştirmeden yapılan hareketleridir (dönme, eğilme gibi); koşma/sıçrama bu gruba girmez.",
+        "Denge hareketleri, dengeyi koruma amaçlı hareketlerdir; ayrı bir temel kategori olarak sıçrama/koşmayı kapsamaz.",
+        "Yardımcı hareketler, standart bir temel hareket kategorisi olarak kullanılmaz, bu seçenek bir çeldiricidir."
+      ]
+    },
+    {
+      "id": "w6q9",
+      "question": "Top atma, yakalama ve vurma gibi hareketler aşağıdaki hareket türlerinden hangisine girer?",
+      "options": [
+        "Stabil hareketler",
+        "Lokomotor hareketler",
+        "Manipülatif hareketler",
+        "Denge hareketleri",
+        "Esneklik hareketleri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Top atma, yakalama ve vurma gibi bir nesneyi/aracı kontrol etmeyi gerektiren hareketler, manipülatif hareketler olarak sınıflandırılır. Bu hareketler el-göz veya ayak-göz koordinasyonuna dayanır ve bir objeyle etkileşimi içerir.",
+      "optionNotes": [
+        "Stabil hareketler, vücudun yer değiştirmeden yaptığı dengeleme hareketleridir, nesne kontrolüyle ilgili değildir.",
+        "Lokomotor hareketler, vücudun bir yerden başka bir yere taşınmasını sağlayan hareketlerdir (koşma, sıçrama), nesne kontrolünü içermez.",
+        "Doğru yanıt: Top atma, yakalama ve vurma gibi nesne kontrolü gerektiren hareketler manipülatif hareketlerdir.",
+        "Denge hareketleri, vücut pozisyonunu koruma amaçlıdır, nesne kontrolüyle ilgili değildir.",
+        "Esneklik hareketleri standart bir temel hareket kategorisi değildir, bu seçenek bir çeldiricidir."
+      ]
+    },
+    {
+      "id": "w6q10",
+      "question": "Vücudun bir yer değiştirmesi olmadan yapılan hareketler aşağıdakilerden hangisidir?",
+      "options": [
+        "Lokomotor hareketler",
+        "Stabil hareketler",
+        "Manipülatif hareketler",
+        "Sürat hareketleri",
+        "Dayanıklılık hareketleri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vücudun bir yer değiştirmesi olmadan yapılan hareketler (örneğin eğilme, dönme, germe gibi) stabil (dengeleme) hareketler olarak sınıflandırılır. Bu hareketlerde vücut sabit bir noktada kalırken denge ve postür kontrolü ön plandadır.",
+      "optionNotes": [
+        "Lokomotor hareketler, vücudun bir yerden başka bir yere taşınmasını içerir, yer değiştirmeme durumuyla çelişir.",
+        "Doğru yanıt: Yer değiştirme olmadan yapılan hareketler stabil (dengeleme) hareketler olarak tanımlanır.",
+        "Manipülatif hareketler, bir nesneyi kontrol etmeyi gerektirir, yer değiştirme olup olmamasıyla tanımlanmaz.",
+        "Sürat hareketleri standart bir temel hareket kategorisi değildir, bu seçenek bir çeldiricidir.",
+        "Dayanıklılık hareketleri de standart bir temel hareket kategorisi değildir, bu seçenek bir çeldiricidir."
+      ]
+    },
+    {
+      "id": "w6q11",
+      "question": "Motor gelişim aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Sadece kasların büyümesini",
+        "Hareket yeteneğinin yaşa bağlı gelişimini",
+        "Sadece kuvvet artışını",
+        "Sadece hız gelişimini",
+        "Spor branşı öğrenimini"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motor gelişim, bireyin yaşına ve olgunlaşma düzeyine bağlı olarak hareket yeteneklerinin zaman içinde ilerlemesini ifade eden geniş kapsamlı bir kavramdır; sadece tek bir fiziksel özelliğin (kas büyümesi, kuvvet, hız) gelişimiyle sınırlı değildir ve bir spor branşının teknik öğrenimini de kapsamaz.",
+      "optionNotes": [
+        "Sadece kasların büyümesi, motor gelişimin dar bir fiziksel/anatomik boyutudur, kavramın bütününü ifade etmez.",
+        "Doğru yanıt: Motor gelişim, hareket yeteneğinin yaşa bağlı olarak ilerlemesini ifade eden kapsamlı bir süreçtir.",
+        "Sadece kuvvet artışı, motor gelişimin yalnızca bir bileşenidir, tüm kavramı karşılamaz.",
+        "Sadece hız gelişimi de motor gelişimin yalnızca bir boyutudur, kavramın tamamını tanımlamaz.",
+        "Spor branşı öğrenimi, belirli bir tekniğin öğrenilmesidir; motor gelişim ise yaşa bağlı genel hareket yeteneği ilerlemesini ifade eder, branşa özgü değildir."
+      ]
+    },
+    {
+      "id": "w6q12",
+      "question": "Motor becerilerin öğrenilmesinde tekrarın amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Sporcuyu yormak",
+        "Hareketin otomatikleşmesini sağlamak",
+        "Kas kütlesini artırmak",
+        "Nabzı yükseltmek",
+        "Sporcuyu dinlendirmek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motor becerilerin öğrenilmesinde tekrarın amacı, hareketin bilinçli kontrolden çıkarak otomatikleşmesini sağlamaktır; teknik öğreniminin son safhası olan sağlamlaştırma ve pekiştirme safhasında hareket tekrarlar yoluyla otomatik hâle gelir ve sporcu en üst düzeye ulaşır.",
+      "optionNotes": [
+        "Sporcuyu yormak, tekrarın bir yan etkisi olabilir ama amacı değildir; amaç hareketin otomatikleşmesidir.",
+        "Doğru yanıt: Tekrarın temel amacı, hareketin bilinçli düşünceden çıkıp otomatik hâle gelmesini sağlamaktır.",
+        "Kas kütlesini artırmak, kuvvet antrenmanının hedefidir, motor beceri öğreniminde tekrarın birincil amacı değildir.",
+        "Nabzı yükseltmek, dayanıklılık/kondisyon çalışmalarının bir sonucu olabilir, beceri öğreniminde tekrarın amacı değildir.",
+        "Sporcuyu dinlendirmek, tekrarın amacıyla doğrudan çelişir; tekrar, dinlenme değil pratik yoluyla öğrenmeyi sağlar."
+      ]
+    },
+    {
+      "id": "w6q13",
+      "question": "Yeni öğrenilen bir hareketin ilk aşamasında sporcu aşağıdakilerden hangisini daha çok yapar?",
+      "options": [
+        "Otomatik hareket eder",
+        "Hata yapma oranı düşüktür",
+        "Hareketi bilinçli olarak düşünür",
+        "Çok hızlı hareket eder",
+        "Hareketi mükemmel yapar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yeni öğrenilen bir hareketin ilk aşaması olan 'amaca yönelik tanıma ve anlama safhası'nda sporcu, hareketin bütün olarak modelini düşünce düzeyinde oluşturur ve hareketi bilinçli olarak kontrol etmeye çalışır; otomatikleşme ve hatasız/hızlı uygulama ancak sonraki safhalarda (sağlamlaştırma ve pekiştirme) ortaya çıkar.",
+      "optionNotes": [
+        "Otomatik hareket etme, öğrenmenin son (sağlamlaştırma-pekiştirme) safhasına ait bir özelliktir, ilk aşamada görülmez.",
+        "Hata yapma oranının düşük olması da ileri safhalara ait bir özelliktir; ilk aşamada hata oranı yüksektir.",
+        "Doğru yanıt: İlk aşamada sporcu, hareketin modelini düşünce yoluyla oluşturarak hareketi bilinçli olarak kontrol etmeye çalışır.",
+        "Çok hızlı hareket etme, hareketin henüz pekişmediği ilk aşamada beklenen bir özellik değildir.",
+        "Hareketi mükemmel yapma, öğrenmenin ileri/son safhalarında ortaya çıkan bir özelliktir, ilk aşamada görülmez."
+      ]
+    },
+    {
+      "id": "w6q14",
+      "question": "Aşağıdakilerden hangisi temel motor özelliklerden biri değildir?",
+      "options": [
+        "Kuvvet",
+        "Dayanıklılık",
+        "Sürat",
+        "Esneklik",
+        "Rekreasyon"
+      ],
+      "correctIndex": 4,
+      "explanation": "Temel motor özellikler (biyomotor özellikler) kuvvet, dayanıklılık ve sürat ile bunları tamamlayan esneklik ve beceriden oluşur. Rekreasyon ise bir motor özellik değil, boş zamanları değerlendirme amaçlı fiziksel/sosyal etkinlikleri ifade eden tamamen farklı bir kavramdır.",
+      "optionNotes": [
+        "Kuvvet, temel motorik özelliklerden biridir, bu nedenle 'değildir' sorusunun cevabı olamaz.",
+        "Dayanıklılık, temel motorik özelliklerden biridir, aynı şekilde doğru cevap değildir.",
+        "Sürat, temel motorik özelliklerden biridir, bu seçenek de doğru cevap değildir.",
+        "Esneklik, temel özellikleri tamamlayan motorik bir özelliktir, doğru cevap değildir.",
+        "Doğru yanıt: Rekreasyon, bir motor özellik değil, boş zaman etkinliği kavramıdır; temel motor özellikler arasında sayılmaz."
+      ]
+    },
+    {
+      "id": "w6q15",
+      "question": "Kasların hızlı şekilde kasılıp gevşeyerek hareket oluşturmasına ne ad verilir?",
+      "options": [
+        "Patlayıcı kuvvet",
+        "Statik kuvvet",
+        "Maksimal kuvvet",
+        "İzometrik kuvvet",
+        "Dayanıklılık kuvveti"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kasların hızlı bir şekilde kasılıp gevşeyerek hareket oluşturmasına patlayıcı kuvvet (çabuk kuvvet) denir; bu, kuvvet ile süratin bir bileşimi olarak yüksek hızda dış dirençleri yenebilme yetisidir. Diğer kuvvet türleri (statik, maksimal, izometrik) hızlı kasılma-gevşeme döngüsünü değil farklı kuvvet üretim biçimlerini ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Patlayıcı (çabuk) kuvvet, kasların hızlı kasılıp gevşeyerek yüksek hızda kuvvet üretmesini ifade eder.",
+        "Statik kuvvet, kasta gözle görülür bir kısalma olmadan (izometrik) ortaya çıkan kuvvettir, hızlı kasılma-gevşeme döngüsü içermez.",
+        "Maksimal kuvvet, sinir-kas sisteminin istemli kasılmayla ortaya çıkardığı en büyük kuvvettir, hız unsurunu öncelemez.",
+        "İzometrik kuvvet, kas boyunda değişiklik olmaksızın üretilen statik bir kuvvet türüdür, hızlı kasılma-gevşemeyle ilgili değildir.",
+        "Dayanıklılık kuvveti (kuvvette devamlılık), uzun süre direnci yenebilme kapasitesidir, hızlı kasılma-gevşeme döngüsünü tanımlamaz."
+      ]
+    },
+    {
+      "id": "w6q16",
+      "question": "Aşağıdakilerden hangisi koordinasyonun geliştirilmesinde kullanılan yöntemlerden biridir?",
+      "options": [
+        "Tekrar çalışmaları",
+        "Sabit tempo koşuları",
+        "Uzun süreli yürüyüşler",
+        "Maksimal ağırlık kaldırma",
+        "Dinlenme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koordinasyon, doğuştan kazanılmayan, antrenman ve tekrar yoluyla geliştirilen bir özelliktir; hareketin farklı varyasyonlarda tekrar edilmesi, sinir-kas sisteminin hareketi daha verimli ve otomatik şekilde düzenlemesini sağlar. Sabit tempo koşuları, uzun yürüyüşler ve maksimal ağırlık kaldırma gibi çalışmalar sırasıyla dayanıklılık ve kuvvet gelişimine yöneliktir, dinlenme ise bir geliştirme yöntemi değildir.",
+      "optionNotes": [
+        "Doğru yanıt: Tekrar çalışmaları, koordinasyonun doğuştan değil antrenmanla, hareketin defalarca pratik edilmesiyle geliştirilmesini sağlar.",
+        "Sabit tempo koşuları, genellikle aerobik dayanıklılığı geliştirmeye yönelik bir çalışma türüdür, koordinasyon gelişimine özgü değildir.",
+        "Uzun süreli yürüyüşler, düşük şiddetli dayanıklılık/kondisyon çalışmasıdır, koordinasyonu hedefleyen bir yöntem değildir.",
+        "Maksimal ağırlık kaldırma, maksimal kuvvet gelişimine yönelik bir yöntemdir, koordinasyon gelişimiyle ilgili değildir.",
+        "Dinlenme, toparlanma sürecinin bir parçasıdır, bir motor özelliği 'geliştirme yöntemi' olarak sınıflandırılmaz."
+      ]
+    },
+    {
+      "id": "w6q17",
+      "question": "Çocuklarda hareket gelişimi hangi sırayı takip eder?",
+      "options": [
+        "Karmaşık → Basit",
+        "Zor → Kolay",
+        "Basit → Karmaşık",
+        "Hızlı → Yavaş",
+        "Büyük → Küçük"
+      ],
+      "correctIndex": 2,
+      "explanation": "Çocuklarda hareket gelişimi, basit ve genel hareket kalıplarından başlayıp zamanla daha karmaşık ve özelleşmiş hareket becerilerine doğru ilerler (örneğin önce yürüme, ardından koşma, sonra karmaşık spor becerileri gibi). Bu, motor gelişimin evrensel olarak kabul edilen temel ilkelerinden biridir.",
+      "optionNotes": [
+        "Karmaşık → Basit, motor gelişimin gerçek yönüyle tam tersidir; gelişim basitten karmaşığa doğru ilerler.",
+        "Zor → Kolay, gelişim sürecinin yönünü doğru yansıtmaz; çocuk önce kolay/basit hareketleri kazanır.",
+        "Doğru yanıt: Hareket gelişimi, basit hareket kalıplarından başlayıp giderek daha karmaşık becerilere doğru ilerler.",
+        "Hızlı → Yavaş, motor gelişimin kabul edilen bir ilkesi değildir, bu seçenek bir çeldiricidir.",
+        "Büyük → Küçük, motor gelişimde kullanılan standart bir sıralama ilkesi değildir; bu seçenek basit-karmaşık ilkesiyle karıştırılmaya yönelik bir çeldiricidir."
+      ]
+    },
+    {
+      "id": "w6q18",
+      "question": "Bir hareketin doğru zamanda ve doğru sırayla yapılmasına ne ad verilir?",
+      "options": [
+        "Koordinasyon",
+        "Dayanıklılık",
+        "Esneklik",
+        "Kuvvet",
+        "Sürat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bir hareketin doğru zamanda ve doğru sırayla yapılması, koordinasyonun temel tanımına karşılık gelir; koordinasyon, merkezî sinir sistemi ile kas sisteminin uyumlu çalışarak hareketin doğru zamanlama ve sıralamayla gerçekleşmesini sağlar.",
+      "optionNotes": [
+        "Doğru yanıt: Koordinasyon, hareketin doğru zamanda ve doğru sırayla yapılmasını sağlayan yetenektir.",
+        "Dayanıklılık, yorgunluğa karşı direnme yeteneğidir, zamanlama/sıralama ile ilgili değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir, hareketin sıralamasıyla ilgili değildir.",
+        "Kuvvet, bir dirence karşı koyma yeteneğidir, zamanlama/sıralama tanımı değildir.",
+        "Sürat, hızlı hareket etme yeteneğidir, hareketin doğru sırayla yapılmasını tanımlamaz."
+      ]
+    },
+    {
+      "id": "w6q19",
+      "question": "Vücudun ağırlık merkezini kontrol ederek dengede kalmasını sağlayan sistem aşağıdakilerden hangisidir?",
+      "options": [
+        "Solunum sistemi",
+        "Denge sistemi",
+        "Sindirim sistemi",
+        "Dolaşım sistemi",
+        "Endokrin sistemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vücudun ağırlık merkezini kontrol ederek dengede kalmasını sağlayan sistem, denge sistemidir; bu sistem merkezî sinir sistemi, iç kulaktaki vestibüler yapı, görme ve propriosepsiyon gibi duyusal girdilerin birleşimiyle çalışır. Diğer seçeneklerde sayılan solunum, sindirim, dolaşım ve endokrin sistemleri farklı vücut fonksiyonlarını (gaz değişimi, besin sindirimi, kan dolaşımı, hormon salınımı) yönetir, denge/postür kontrolüyle ilgilenmez.",
+      "optionNotes": [
+        "Solunum sistemi, oksijen-karbondioksit değişimini sağlar, denge/ağırlık merkezi kontrolüyle ilgili değildir.",
+        "Doğru yanıt: Denge sistemi, vücudun ağırlık merkezini kontrol ederek dengede kalmasını sağlayan sistemdir.",
+        "Sindirim sistemi, besinlerin parçalanıp emilmesini sağlar, denge kontrolüyle ilgisi yoktur.",
+        "Dolaşım sistemi, kanın vücutta taşınmasını sağlar, ağırlık merkezi kontrolüyle ilgili değildir.",
+        "Endokrin sistemi, hormon salgılarını düzenler, denge/postür kontrolüyle doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "id": "w6q20",
+      "question": "Motor becerilerin öğrenilmesi sürecinde antrenörün en önemli görevlerinden biri aşağıdakilerden hangisidir?",
+      "options": [
+        "Sporcuları sürekli dinlendirmek",
+        "Hareketleri doğru şekilde öğretmek",
+        "Sadece yarışma yaptırmak",
+        "Antrenman süresini azaltmak",
+        "Sporcuları cezalandırmak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motor becerilerin öğrenilmesi sürecinde antrenörün en önemli görevlerinden biri, hareketleri sporcuya doğru teknikle öğretmektir; çünkü yanlış öğrenilen bir hareket kalıbının sonradan düzeltilmesi oldukça zordur ve sporcunun ileriki performansını olumsuz etkiler. Diğer seçenekler antrenörün görevi olmadığı gibi, öğrenme sürecine de zarar verebilecek davranışlardır.",
+      "optionNotes": [
+        "Sporcuları sürekli dinlendirmek, motor beceri öğretiminin amacı değildir; aşırı dinlenme pratik ve tekrarı, dolayısıyla öğrenmeyi engeller.",
+        "Doğru yanıt: Antrenörün en önemli görevlerinden biri, hareketleri sporcuya doğru şekilde öğretmektir.",
+        "Sadece yarışma yaptırmak, beceri öğretimini atlayan, antrenman mantığıyla çelişen bir yaklaşımdır.",
+        "Antrenman süresini azaltmak, beceri öğrenimi için gerekli tekrar ve pratiği sınırlayacağından öğretim görevine aykırıdır.",
+        "Sporcuları cezalandırmak, motor beceri öğreniminde kabul edilen bir yöntem değildir, motivasyonu ve öğrenmeyi olumsuz etkiler."
+      ]
+    }
+  ]
+}

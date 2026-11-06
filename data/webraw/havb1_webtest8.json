@@ -1,0 +1,338 @@
+{
+  "questions": [
+    {
+      "id": "w8q1",
+      "question": "Bedeni veya zihni geliştirmek amacıyla kişisel veya toplu olarak gerçekleştirilen, bazı kurallara göre uygulanan hareketlerin tümü” tanımı aşağıdakilerden hangisidir?",
+      "options": ["Fiziksel Aktivite", "Performans", "Spor", "Antrenman", "Egzersiz"],
+      "correctIndex": 2,
+      "explanation": "Bu tanım Türk Dil Kurumu'nun 'spor' tanımıdır. Spor, kurallara bağlı, bedeni veya zihni geliştirmeyi amaçlayan, bireysel veya toplu olarak yapılan hareketlerin bütünüdür. Fiziksel aktivite, performans, antrenman ve egzersiz kavramları ise sporla ilişkili olsa da birbirinden farklı, daha dar kapsamlı kavramlardır.",
+      "optionNotes": [
+        "Fiziksel aktivite, enerji harcamak için vücudun hareket etmesidir; kural ve rekabet içermez, bu yüzden TDK'nın spor tanımıyla örtüşmez.",
+        "Performans, sporcunun ortaya koyduğu somut verim düzeyini ifade eder; bu bir 'tanım' değil bir 'sonuç' kavramıdır.",
+        "Doğru yanıt: TDK'ya göre spor, kurallara göre uygulanan, bedeni/zihni geliştirmeye yönelik hareketler bütünüdür.",
+        "Antrenman, planlı/programlı biçimde sporcunun fiziksel, teknik, taktik hazırlığını kapsar; spordan daha dar ve hedefe yönelik bir süreçtir.",
+        "Egzersiz, fiziksel uygunluğu geliştirmeye yönelik tekrarlayıcı vücut hareketleridir; kurallara bağlı rekabetçi bir etkinlik değildir."
+      ]
+    },
+    {
+      "id": "w8q2",
+      "question": "Aşağıdaki spor branşlarından hangisi erken uzmanlaşılan sporlar arasında gösterilebilir?",
+      "options": ["Güreş", "Atletizm", "Boks", "Futbol", "Jimnastik"],
+      "correctIndex": 4,
+      "explanation": "Erken özelleşilen (uzmanlaşılan) spor dalları arasında jimnastik, ritmik jimnastik ve artistik buz pateni gibi branşlar sayılır. Bu branşlarda üst düzey performansa erken yaşta ulaşmak gerektiğinden sporcular küçük yaşlardan itibaren tek bir branşa yönlendirilir. Futbol, atletizm, güreş ve boks gibi branşlar ise geç özelleşilen sporlar arasında yer alır.",
+      "optionNotes": [
+        "Güreş, erken özelleşme gerektiren sporlar arasında sayılmamıştır.",
+        "Atletizm, geç özelleşilen sporlar arasında örnek olarak verilmiştir.",
+        "Boks, erken özelleşme gerektiren branşlar arasında sayılmamıştır.",
+        "Futbol, açıkça geç özelleşilen sporlar arasında örnek olarak gösterilmiştir.",
+        "Doğru yanıt: Jimnastik, erken özelleşilen sporlar arasında açıkça sayılmıştır."
+      ]
+    },
+    {
+      "id": "w8q3",
+      "question": "Aşağıdakilerden hangisi performansın başlıca içsel faktörü değildir? A. Yaş B. Alerji C. Otonom sinir sistemi D. Malzeme kalitesi E. Anatomik yapı",
+      "options": ["Yaş", "Alerji", "Otonom sinir sistemi", "Malzeme kalites", "Anatomik yapı"],
+      "correctIndex": 3,
+      "explanation": "İçsel faktörler, bireyin kendi bünyesinde var olan, kalıtsal ya da bireysel özelliklerden kaynaklanan etkenlerdir (yaş, cinsiyet, anatomik yapı, genetik, alerji, otonom sinir sistemi vb.). Malzeme kalitesi ise sporcunun kendisinden kaynaklanmayan, dışarıdan gelen bir etkendir; bu nedenle dışsal faktörler arasında sayılır.",
+      "optionNotes": [
+        "Yaş, içsel faktörler arasında sayılan, bireyin kendi bünyesine ait bir özelliktir.",
+        "Alerji, bireyin fizyolojik yapısına bağlı içsel bir faktördür.",
+        "Otonom sinir sistemi, bireyin kendi fizyolojisine ait, dışarıdan değiştirilmesi sınırlı bir içsel faktördür.",
+        "Doğru yanıt: malzeme/ekipman sporcunun dışından gelen bir etken olduğundan dışsal faktördür, içsel değildir.",
+        "Anatomik yapı, içsel faktörler arasında sayılmıştır."
+      ]
+    },
+    {
+      "id": "w8q4",
+      "question": "Aşağıdaki ifadelerden hangisi sporsal stil örneklerinden biri değildir?",
+      "options": [
+        "Maradona gibi çalım atması",
+        "Hidayet gibi smaç yapması",
+        "Shrapova gibi forehand vurması",
+        "Fatih Terim gibi yorum yapması",
+        "Naim Süleymanoğlu gibi ağırlık kaldırması"
+      ],
+      "correctIndex": 3,
+      "explanation": "Stil, bir sporcunun teknik bir hareketi kendi anatomik ve fizyolojik özellikleriyle bireysel olarak uygulama biçimidir; bu nedenle örnekler somut bir spor hareketinin (çalım, smaç, forehand, halter kaldırma) kişiye özgü uygulanışını yansıtmalıdır. Fatih Terim'in yorum yapması bir spor hareketinin tekniği değil, sahadaki performans sonrası bir açıklama/yorumculuk faaliyetidir, dolayısıyla sporsal stil örneği değildir.",
+      "optionNotes": [
+        "Maradona'nın kendine özgü çalım atma biçimi, teknik bir hareketin bireysel uygulanışı olduğu için gerçek bir stil örneğidir.",
+        "Hidayet'in smaç vuruşu biçimi de teknik bir hareketin kişisel uygulanışı olarak stil örneğidir.",
+        "Tenisçinin forehand vuruş biçimi, teknik bir vuruşun bireysel stilidir.",
+        "Doğru yanıt: yorum yapmak bir spor hareketinin teknik uygulanışı değildir, bu nedenle sporsal stil kavramıyla ilgisi yoktur.",
+        "Naim Süleymanoğlu'nun ağırlık kaldırma biçimi, halter tekniğinin kişiye özgü uygulanışı olduğundan stil örneğidir."
+      ]
+    },
+    {
+      "id": "w8q5",
+      "question": "Başarılı antrenörlerin ve sporcuların deneyimlerinden yararlanmak, bu deneyimleri genelleştirmek ve uyarlamak, hangi hazırlık antrenmanının özelliklerinden biridir?",
+      "options": ["Teknik hazırlık", "Taktik hazırlık", "Fiziksel hazırlık", "Zihinsel hazırlık", "Eğitim hazırlığı"],
+      "correctIndex": 4,
+      "explanation": "Antrenmanın bilimsel kurallara ve 'başarılı antrenörlerin ve sporcuların deneyimlerine' dayalı olarak geliştirildiği, bu deneyimlerin genelleştirilip uyarlandığı belirtilir; bu, sporcunun ve antrenörün bilgi birikimine, araştırmaya ve kurama dayalı hazırlığını, yani zihinsel ve kuramsal hazırlık bölümünde ele alınan 'eğitim hazırlığı' boyutunu ifade eder.",
+      "optionNotes": [
+        "Teknik hazırlık, hareketlerin ekonomik biçimde uygulanmasıyla ilgilidir; deneyimlerin genelleştirilip kurama dönüştürülmesiyle doğrudan tanımlanmaz.",
+        "Taktik hazırlık, müsabaka içi karar alma ve uygulamayla ilgilidir, burada sorulan deneyim aktarımı/genelleme süreciyle birebir örtüşmez.",
+        "Fiziksel hazırlık, bedensel/motorik gelişimle ilgilidir; deneyimlerin bilimsel olarak genelleştirilmesi kavramını doğrudan karşılamaz.",
+        "Zihinsel hazırlık, algı-stres-motivasyon gibi psikolojik süreçlerle ilgilidir; bu soru ise bilgi ve deneyimin kurama dönüştürülmesini sormaktadır.",
+        "Doğru yanıt: bu özellik, antrenmanın kuramsal/eğitimsel bilgi birikimine dayandırılarak planlanmasını anlatan eğitim hazırlığı bölümünde geçer."
+      ]
+    },
+    {
+      "id": "w8q6",
+      "question": "Aşağıdakilerden hangisi antrenmanın temel işlevlerinden ilk antrenman hazırlığını oluşturur?",
+      "options": ["Fiziksel hazırlık", "Teknik hazırlık", "Taktik hazırlık", "Zihinsel hazırlık", "Eğitim hazırlığı"],
+      "correctIndex": 0,
+      "explanation": "Antrenman faktörleri piramidinde fiziksel antrenman en altta yer alır ve teknik, taktik ile psikolojik hazırlığın üzerine inşa edildiği temel katmandır. Geliştirilmemiş fiziksel yetersizlikler teknik ve taktik gelişimi de sınırladığından, antrenmana ilk hazırlık fiziksel hazırlıkla başlar.",
+      "optionNotes": [
+        "Doğru yanıt; piramidin en alt ve ilk katmanı fiziksel hazırlıktır, diğer tüm hazırlıkların temelini oluşturur.",
+        "Teknik hazırlık piramitte fiziksel hazırlığın üzerinde yer alır, yani ilk değil ikinci sıradaki temel işlevdir.",
+        "Taktik hazırlık, teknik hazırlığın geliştirilmesinden sonra gelen ve ona bağlı olan bir üst katmandır, ilk sıradaki hazırlık değildir.",
+        "Zihinsel (psikolojik) hazırlık piramidin en üstünde yer alır, antrenmanın ilk temel işlevi değildir.",
+        "Bağımsız bir 'eğitim hazırlığı' kategorisi antrenman faktörleri piramidinde ilk sıra olarak geçmez, bu seçenek piramidin bir parçası değildir."
+      ]
+    },
+    {
+      "id": "w8q7",
+      "question": "Aşağıdakilerden hangisi zihinsel hazırlık ögelerinden biri değildir?",
+      "options": [
+        "Oyun zekasını iyi kullanması",
+        "Antrenmanlarda üstlendiği rolleri yarışmaya taşıması",
+        "Kendi kendine konuşması",
+        "Dikkat ve konsantrasyonunu sağlaması",
+        "Topu kontrol etmesi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Zihinsel hazırlık; oyun zekâsını kullanma, antrenmandaki rolleri yarışmaya taşıma, kendi kendine konuşma ve dikkat-konsantrasyon gibi zihinsel-psikolojik unsurları kapsar. Topu kontrol etmek ise somut bir motor/teknik beceridir, zihinsel bir öge değildir.",
+      "optionNotes": [
+        "Bu, zihinsel hazırlık ögesi olarak doğrudan sayılan bir unsurdur, dolayısıyla aranan 'değildir' cevabı bu değildir.",
+        "Bu da zihinsel hazırlık ögelerinden biridir; antrenmandaki deneyimi yarışmaya taşımak zihinsel bir süreçtir.",
+        "Kendi kendine konuşma antrenmanı, zihinsel antrenman yöntemlerinden biri olarak tanımlanmıştır, bu nedenle zihinsel bir ögedir.",
+        "Dikkat ve konsantrasyon, zihinsel hazırlığın temel unsurlarından biridir.",
+        "Doğru yanıt; topu kontrol etmek somut bir teknik/motor beceridir, zihinsel hazırlık ögesi değil fiziksel-teknik hazırlığın bir parçasıdır."
+      ]
+    },
+    {
+      "id": "w8q8",
+      "question": "Aşağıdaki antrenmanın branşlaşma (özelleşme) ilkesini açıklayan ifadelerden hangisi yanlıştır?",
+      "options": [
+        "İnsan organizmasının yaptığı aktivitelere uyum sağlama sürecini içerir.",
+        "Spor dalına özel egzersizlere katılımı dolayısıyla organizmada o branşa özgü morfolojik ve fonksiyonel değişiklikleri içerir.",
+        "Spor branşlarına göre farklılık göstermeksizin organizmada meydana gelen morfolojik ve fonksiyonel değişiklikleri içerir.",
+        "Yapılan çalışmaya bağlı olarak organizmanın hem teknik ve taktik hem de fizyolojik uyum sağlama sürecini içerir.",
+        "Başarı için doğru zamanda branşlaşma ve amaca uygun belirlenen hedeflere yönelik spor dalına özgü çalışmaları içerir."
+      ],
+      "correctIndex": 2,
+      "explanation": "Özelleşme ilkesinin temel özelliği, organizmada meydana gelen morfolojik ve fonksiyonel değişikliklerin branşa özgü olmasıdır; yani bu değişiklikler spor branşına göre farklılık gösterir, 'farklılık göstermeksizin' ifadesi ilkeyi doğrudan ters çevirir. Branşlaşma ya da spor dalına özel egzersizlere katılımın organizmada o branşa özgü değişikliklere neden olduğu bilinir.",
+      "optionNotes": [
+        "Doğru bir ifadedir: Özelleşme, organizmanın yaptığı aktiviteye uyum sağlama sürecidir.",
+        "Doğru bir ifadedir: Branşa özel egzersiz katılımı, o branşa özgü morfolojik/fonksiyonel değişikliklere yol açar.",
+        "Yanlış ifadedir (doğru cevap): İlke, değişikliklerin branşa göre farklılaştığını söyler; 'farklılık göstermeksizin' ifadesi bu temel noktayla çelişir.",
+        "Doğru bir ifadedir: Yapılan çalışmaya bağlı olarak organizma hem teknik-taktik hem fizyolojik uyum sağlar.",
+        "Doğru bir ifadedir: Özelleşme, doğru zamanda branşlaşmayı ve spor dalına özgü hedefleri kapsar."
+      ]
+    },
+    {
+      "id": "w8q9",
+      "question": "Yüklenme, nicelik ve nitelik bakımından incelendiğinde aşağıdakilerden hangisini içermez?",
+      "options": ["Yüklenme kapsamı", "Yüklenme şiddeti", "Yüklenme süresi", "Yüklenme sıklığı", "Yüklenme türü"],
+      "correctIndex": 4,
+      "explanation": "Yüklenme, nicelik ve nitelik bakımından incelendiğinde dört ana ögeden oluşur: yüklenmenin şiddeti, süresi, sıklığı ve kapsamı. 'Yüklenme türü' bu dört ana öge arasında sayılmamıştır; yüklenme yaklaşımları (standart, doğrusal, basamaklı vb.) ayrı bir konu olup bu sorudaki 'ana ögeler' listesine dahil değildir.",
+      "optionNotes": [
+        "Ana ögelerden biridir: Yüklenme kapsamı, bir antrenmandaki tüm uyarıların süresi ve tekrarını içerir.",
+        "Ana ögelerden biridir: Yüklenme şiddeti, birim süredeki iş yoğunluğunu ifade eder.",
+        "Ana ögelerden biridir: Yüklenme süresi, uyarıların zaman içindeki süresini ifade eder.",
+        "Ana ögelerden biridir: Yüklenme sıklığı, yüklenme ve dinlenme safhaları arasındaki zamansal ilişkidir.",
+        "Ana ögelerden biri değildir (doğru cevap): Dört ana öge şiddet, süre, sıklık ve kapsam olarak sayılır; 'yüklenme türü' bu listede yer almaz."
+      ]
+    },
+    {
+      "id": "w8q10",
+      "question": "Aşağıdakilerden hangisi model antrenman ilkesinin oluşturulmasında rol almaz?",
+      "options": [
+        "Bireye veya takıma özgü hazırlanması",
+        "Çevresel faktörler",
+        "Antrenörün yarışmalarda edindiği tecrübeler",
+        "Cinsiyet faktörü",
+        "Yarışma şartlarına uygun hâle getirilerek yapılması"
+      ],
+      "correctIndex": 3,
+      "explanation": "Model antrenman ilkesi; çevresel faktörler, hava koşulları, zemin ve malzeme gibi yarışma şartlarına uygunluk, antrenörün yarışma tecrübesi ve modelin bireye veya takıma özgü oluşturulması üzerine kuruludur. Cinsiyet faktörü, model antrenmanın oluşturulma sürecinde doğrudan sayılan bir bileşen değildir; bu unsur antrenmanın özel olma ilkesine aittir.",
+      "optionNotes": [
+        "Rol alır: Modellemenin bireye veya takıma özgü olması gerektiği vurgulanır.",
+        "Rol alır: Çevresel faktörler, hava koşulları, zemin ve malzeme model antrenmanın temel gerekçesidir.",
+        "Rol alır: Antrenörün yarışmalarda edindiği tecrübeler modelin oluşturulmasını kolaylaştırır.",
+        "Rol almaz (doğru cevap): Cinsiyet faktörü, antrenmanın özel olma ilkesinde geçen bir unsurdur; model antrenman ilkesinin oluşturulma sürecinde ayrıca sayılmamıştır.",
+        "Rol alır: Model antrenmanın yarışma şartlarına uygun hâle getirilmesi, ilkenin tanımının temelidir."
+      ]
+    },
+    {
+      "id": "w8q11",
+      "question": "Süper kompenzasyon kavramı aşağıdaki ilkelerden hangisi ile ilişkilidir?",
+      "options": [
+        "Model antrenman ilkesi",
+        "Antrenmanda yüklenme ve dinlenmenin dengelenmesi ilkesi",
+        "Antrenman yükünün sürekli artırılması ilkesi (artan yüklenim)",
+        "Antrenmanın özel olma ilkesi",
+        "Çeşitlilik ilkesi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Süper kompenzasyon, fonksiyonel aşırı yüklenmede artan antrenman yüküyle performansın geçici olarak gerilemesi, ardından yeterli dinlenme sonrasında performansın gelişmesi olgusudur. Bu olgu doğrudan yüklenme ile dinlenmenin doğru dengelenmesine bağlı olduğundan, antrenmanda yüklenme ve dinlenmenin dengelenmesi ilkesiyle ilişkilidir.",
+      "optionNotes": [
+        "İlişkili değildir: Model antrenman, yarışma şartlarına uyum sağlamayı konu alır, süper kompenzasyonla doğrudan bağlantılı değildir.",
+        "İlişkilidir (doğru cevap): Süper kompenzasyon, yüklenme sonrası doğru dinlenmeyle ortaya çıkan pozitif uyumdur.",
+        "İlişkili değildir: Artan yüklenim, yükün zamanla kademeli artırılmasıyla ilgilidir, dinlenme-yüklenme dengesini doğrudan konu etmez.",
+        "İlişkili değildir: Özel olma ilkesi, uyumun sporcuya özgü faktörlere bağlı olmasını anlatır.",
+        "İlişkili değildir: Çeşitlilik ilkesi, antrenman içeriğinin tekdüzelikten kurtarılmasıyla ilgilidir."
+      ]
+    },
+    {
+      "id": "w8q12",
+      "question": "Aşağıdakilerden hangisi temel motorik özellikler ve beceri antrenmanlarının kombine yapılması ile gelişim sağlanabilecek özelliklerden değildir?",
+      "options": ["Dayanıklılık", "Kuvvet", "Patlayıcılık", "Esneklik", "Sürat"],
+      "correctIndex": 2,
+      "explanation": "Beceri, temel motorik özellikler olan dayanıklılık, kuvvet ve sürat/çabukluk çalışmalarıyla birlikte yapılan kombine alıştırmalarla geliştirilir; esneklik/hareketlilik de diğer motorik özelliklerle etkileşim içinde ele alınır. Patlayıcılık (çabuk kuvvet) ise kuvvet ile süratin birleşiminden oluşan ayrı bir bileşik motorik özelliktir ve bu kombinasyonun doğrudan bir unsuru olarak sayılmaz.",
+      "optionNotes": [
+        "Dayanıklılık, beceri ile kombine alıştırmalar yoluyla geliştirilebilecek özelliklerden biri olarak sayılır.",
+        "Kuvvet, beceri ile kombine alıştırmalar yoluyla geliştirilebilecek özelliklerden biri olarak sayılır.",
+        "Doğru yanıt; patlayıcılık (çabuk kuvvet) kuvvet ve süratin birleşiminden oluşan ayrı bir bileşik motorik özelliktir, bu listede sayılan temel özelliklerden biri değildir.",
+        "Esneklik/hareketlilik, diğer motorik özelliklerle ilişkili olarak geliştirilebilecek özelliklerden biridir.",
+        "Sürat, beceri ile kombine alıştırmalar yoluyla geliştirilebilecek özelliklerden biri olarak sayılır."
+      ]
+    },
+    {
+      "id": "w8q13",
+      "question": "Aşağıdakilerden hangisi sürati etkileyen faktörlerden biri değildir?",
+      "options": ["Kas lifi tipi", "Yaş", "Boy", "Esneklik", "Göz rengi"],
+      "correctIndex": 4,
+      "explanation": "Sürati etkileyen faktörler arasında kişinin genetik kas lifi tipi, yaşı, boyu, adım uzunluğu, esnekliği ve ruhsal durumu sayılır. Göz rengi bu faktörler arasında geçmez ve fizyolojik olarak sürat performansını belirleyen bir unsur değildir.",
+      "optionNotes": [
+        "Sürati etkileyen genetik faktörlerden biri olarak sayılır.",
+        "Yaş, sürati etkileyen faktörler arasında geçer.",
+        "Boy, adım uzunluğuyla bağlantılı olarak sürati etkileyen faktörler arasında sayılır.",
+        "Esneklik de sürati etkileyen faktörler arasında belirtilmiştir.",
+        "Doğru yanıt; göz rengi sürati etkileyen faktörler arasında sayılmaz, fizyolojik olarak sürat performansıyla ilişkisi yoktur."
+      ]
+    },
+    {
+      "id": "w8q14",
+      "question": "Aşağıdakilerden hangisi esnekliğin sınırlarını etkileyen iç faktörlerden biri değildir?",
+      "options": [
+        "Eklemin yapısı, tipi ve formu",
+        "Kas dokusunun, tendon ve ligamentlerin elastikiyeti",
+        "Derinin elastikiyeti",
+        "Antrenmanın yapıldığı ortamın ısısı",
+        "Kasın gevşeme ve kasılma yeteneği"
+      ],
+      "correctIndex": 3,
+      "explanation": "Esnekliğin sınırlarını etkileyen iç faktörler eklemin ve kasın kendi yapısal/fizyolojik özellikleridir (eklem yapısı, kemik yapısı, kas-tendon-ligament elastikiyeti, deri elastikiyeti, kasın gevşeme-kasılma yeteneği, eklem ısısı). Antrenmanın yapıldığı ortamın ısısı ise dış faktörler arasında sayılır, vücudun kendi iç özelliği değildir.",
+      "optionNotes": [
+        "İç faktörler arasında sayılan bir unsurdur.",
+        "İç faktörler arasında sayılan bir unsurdur.",
+        "Derinin elastikiyeti de iç faktörler arasında sayılır.",
+        "Doğru yanıt; ortam ısısı dış/çevresel bir faktör olarak sayılmıştır, iç faktör değildir.",
+        "Kasın gevşeme ve kasılma yeteneği iç faktörler arasında sayılır."
+      ]
+    },
+    {
+      "id": "w8q15",
+      "question": "Aşağıdakilerden hangisi dayanıklılık çeşitlerinden biri değildir?",
+      "options": [
+        "Kısa süreli dayanıklılık",
+        "Süregelen dayanıklılık",
+        "Kuvvet dayanıklılığı",
+        "Sürat dayanıklılığı",
+        "Uzun süreli dayanıklılık"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dayanıklılık çeşitleri arasında kısa süreli, orta süreli ve uzun süreli dayanıklılık ile sürat dayanıklılığı ve kuvvet dayanıklılığı sayılır. 'Süregelen dayanıklılık' adıyla ayrı bir kategori geçmez; bu ifade 'kuvvette devamlılık' kavramıyla karıştırılmak üzere oluşturulmuş bir seçenektir.",
+      "optionNotes": [
+        "Sayılan bir dayanıklılık türüdür (45 saniye-2 dakika arası).",
+        "Doğru yanıt; 'süregelen dayanıklılık' ayrı bir dayanıklılık çeşidi olarak geçmez.",
+        "Sayılan dayanıklılık çeşitlerinden biridir.",
+        "Sayılan dayanıklılık çeşitlerinden biridir.",
+        "8 dakika ve üzeri çalışmalar için tanımlanan bir dayanıklılık çeşididir."
+      ]
+    },
+    {
+      "id": "w8q16",
+      "question": "Aşağıdakilerden hangisi esnekliğin sınırlarını etkileyen dış faktörlerden biri değildir?",
+      "options": [
+        "Günün saati",
+        "Giysi ve kullanılan ekipmanın sınırlamaları",
+        "Eklem ve ekleme birleşen dokuların ısısı",
+        "Antrenmanın yapıldığı ortamın ısısı",
+        "Çevresel faktörler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Esnekliğin dış faktörleri ortam ısısı, günün saati, giysi/ekipman sınırlamaları, sakatlanma sonrası toparlanma, yaş ve cinsiyet gibi çevresel ve dışsal etkenlerdir. 'Eklem ve ekleme birleşen dokuların ısısı' ise vücudun kendi iç ısısıyla ilgilidir ve iç faktörler arasında sayılır, dış faktör değildir.",
+      "optionNotes": [
+        "Günün saati dış faktörler arasında açıkça sayılır.",
+        "Giysi ve ekipman sınırlamaları dış faktörler arasında sayılır.",
+        "Doğru yanıt; eklem ve dokuların ısısı iç faktörler arasında sayılmıştır, ortam ısısıyla karıştırılmamalıdır.",
+        "Antrenman ortamının ısısı dış faktörler arasında sayılır.",
+        "Çevresel faktörler genel olarak dış faktörler kapsamında değerlendirilir."
+      ]
+    },
+    {
+      "id": "w8q17",
+      "question": "Aşağıdakilerden hangisinin diğerleriyle iş birliği içerisinde çalışması, hentbolda düşerek atış hareketini gerçekleştiren bir sporcunun vücudunda hareketin sonucunu etkilemez?",
+      "options": ["İskelet kasları", "Merkezî sinir sistemi", "Eklemler", "Kan sıvısı", "Eklem bağları"],
+      "correctIndex": 3,
+      "explanation": "Koordinasyon, bir hareketin uygulanmasına katılan iskelet kasları, eklemler, eklem bağları ve merkezî sinir sistemi arasındaki işbirliği olarak tanımlanır. Kan sıvısı (dolaşım sistemi) bu nöro-musküler işbirliğinin bir bileşeni olarak sayılmaz; dolayısıyla koordinasyonun oluşumunda doğrudan rol oynayan yapılar arasında yer almaz.",
+      "optionNotes": [
+        "Yanlıştır; iskelet kasları koordinasyonun temel unsurlarından biridir ve hareketin gerçekleşmesini doğrudan sağlar.",
+        "Yanlıştır; merkezî sinir sistemi kaslara uyarıları göndererek koordinasyonu yönetir, dolayısıyla hareketin sonucunu doğrudan etkiler.",
+        "Yanlıştır; eklemler hareketin gerçekleştiği yapılardır ve koordinasyonun bir parçasıdır.",
+        "Doğrudur; kan sıvısı (dolaşım sistemi), koordinasyonu oluşturan iskelet kası-eklem-eklem bağı-merkezî sinir sistemi işbirliğinin bir bileşeni değildir.",
+        "Yanlıştır; eklem bağları eklem stabilitesini sağlayarak koordinasyona katkıda bulunur."
+      ]
+    },
+    {
+      "id": "w8q18",
+      "question": "Aşağıdakilerden hangisi hareketlilik çalışmalarının temel ilkelerinden biri değildir?",
+      "options": [
+        "Aktif germe alıştırmalarından sonra pasif alıştırmalar yapmak",
+        "Hareketlilik çalışmalarını günlük yapmak",
+        "Hareketlilik çalışmalarına müsabakadan 30-35 dk önce başlamak",
+        "Hareketlilik çalışmalarını yorgunken yapmamak",
+        "Hareketlilik çalışmalarında tek yönlü çalışma yapmamak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hareketlilik antrenmanlarında antrenman düzenlemesinde önce pasif germe alıştırmaları, sonra aktif alıştırmalar ağırlık kazanmalıdır; yani doğru sıralama bunun tersidir. 'Aktif germeden sonra pasif alıştırma' ifadesi bu ilkeye ters düştüğü için temel ilkelerden biri olarak sayılmaz.",
+      "optionNotes": [
+        "Doğrudur; bu ifade hareketlilik ilkelerinden biri değildir, çünkü doğru ilke önce pasif, sonra aktif alıştırmaların yapılmasıdır; burada sıralama tersine çevrilmiştir.",
+        "Yanlıştır; hareketlilik çalışmalarının günlük yapılması açıkça belirtilen bir ilkedir.",
+        "Yanlıştır; müsabakadan 30-35 dakika önce başlanması sayılan zamanlama ilkelerinden biridir.",
+        "Yanlıştır; yorgun durumda hareketlilik çalışması yapılmaması temel ilkelerden biridir.",
+        "Yanlıştır; tek yönlü çalışmanın istenmediği, çok yönlü çalışılması gerektiği ilke olarak belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w8q19",
+      "question": "Sporcunun tek ayak üzerinde iken diğer ayak gergin olarak geriye uzatılmış vaziyette öne doğru eğilerek kollarını her iki yana açtığı denge pozisyonu, aşağıdaki denge türlerinden hangisine bir örnektir?",
+      "options": ["Motorsal denge", "Dinamik denge", "Statik denge", "Objeyle denge", "Aktif denge"],
+      "correctIndex": 2,
+      "explanation": "Tarif edilen pozisyon, sabit bir duruşun belirli bir süre korunmasını gerektiren bir denge şeklidir; bu statik dengenin tanımına uyar: 'sabit pozisyonda dengede kalabilme becerisi'. Hareket sırasında sürekli bir yer değiştirme veya ek ekipman kullanımı olmadığı için statik dengeye örnektir.",
+      "optionNotes": [
+        "Yanlıştır; motorsal denge, farklı ortamlarda (su, buz, hava, kara) egzersizle kazanılan genel denge yeterliliğini ifade eder, tek bir sabit pozisyon örneği değildir.",
+        "Yanlıştır; dinamik denge, hareket sırasında ağırlık merkezinin yeni konumlara adapte edilmesiyle ilgilidir, burada sabit bir pozisyon korunmaktadır.",
+        "Doğrudur; tanımlanan pozisyon sabit biçimde korunan bir duruş olduğu için statik dengeye örnektir.",
+        "Yanlıştır; objeyle denge, top veya çubuk gibi ek bir ekipmanla sağlanan dengeyi ifade eder, burada herhangi bir ekipman kullanılmamaktadır.",
+        "Yanlıştır; 'aktif denge' adıyla ayrı bir sınıflandırma kategorisi tanımlanmamıştır, bu seçenek denge sınıflandırmasında yer almaz."
+      ]
+    },
+    {
+      "id": "w8q20",
+      "question": "Aşağıdaki kavramlardan hangisi, insanın günlük yaşantısında yürüme, koşma, durma benzeri yalın hareketleri yaparken gereksinim duyduğu ve yaşam kalitesini de etkileyen durumu tanımlar?",
+      "options": ["Koordinasyon", "Hareketlilik", "Çeviklik", "Denge", "Beceri"],
+      "correctIndex": 3,
+      "explanation": "Denge, insanın günlük yaşantısında yürüme, koşma, durma benzeri yalın hareketleri yaparken gereksinim duyduğu ve yaşam kalitesini etkileyen bir durum olarak tanımlanır. Bu ifade doğrudan dengenin tanımına karşılık gelir.",
+      "optionNotes": [
+        "Yanlıştır; koordinasyon, karmaşık hareketlerin kısa sürede öğrenilip doğru uygulanmasıyla ilgilidir, günlük yalın hareketlerin temel gereksinimi olarak tanımlanmaz.",
+        "Yanlıştır; hareketlilik, eklemlerin geniş açıda hareket edebilme yeteneğidir, yaşam kalitesini etkileyen genel bir durum tanımı değildir.",
+        "Yanlıştır; çeviklik, hızlı yön değiştirme becerisidir, günlük yalın hareketlerin temel gereksinimini tanımlamaz.",
+        "Doğrudur; bu tanım birebir dengeye aittir.",
+        "Yanlıştır; beceri, öğrenilmiş karmaşık hareketlerin uygulanma yeterliliğidir, günlük yalın hareketlerin temel ihtiyacını tanımlamaz."
+      ]
+    }
+  ]
+}

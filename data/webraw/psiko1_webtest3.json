@@ -1,0 +1,314 @@
+{
+  "questions": [
+    {
+      "id": "w3q1",
+      "question": "Modern olimpiyatların ilki hangi yılda yapılmıştır?",
+      "options": ["1884", "1886", "1894", "1896", "1990"],
+      "correctIndex": 3,
+      "explanation": "Baron Pierre de Coubertin'in çalışmalarıyla 23 Haziran 1894'te Uluslararası Olimpiyat Komitesi (IOC) kurulmuş, kabul edilen statüye göre ilk modern olimpiyat oyunları 1896 yılında Atina'da gerçekleştirilmiştir. Dolayısıyla IOC'nin kuruluş tarihi (1894) ile oyunların ilk kez yapıldığı tarih (1896) birbirinden farklıdır.",
+      "optionNotes": [
+        "Yanlış: 1884, modern olimpiyatların kuruluşu veya ilk oyunlarla ilgili metinde geçen bir tarih değildir.",
+        "Yanlış: 1886 da metinde modern olimpiyatlarla ilişkilendirilen bir tarih değildir.",
+        "Yanlış: 1894, ilk oyunların yapıldığı tarih değil, Uluslararası Olimpiyat Komitesi'nin (IOC) kurulduğu tarihtir.",
+        "Doğru: İlk modern olimpiyat oyunları 1896 yılında Atina'da gerçekleştirilmiştir.",
+        "Yanlış: 1990, modern olimpiyatların tarihiyle ilgisi olmayan, yüzyıl itibariyle de uyumsuz bir tarihtir."
+      ]
+    },
+    {
+      "id": "w3q2",
+      "question": "Spor teriminin başlangıcı sayılan sohbet tartışma dövüş güç gösterileri ve Jerry oyunları kapsayan limanda olmak anlamına gelen argo kelime aşağıdakilerden hangisidir?",
+      "options": ["Disportare", "Deportare", "To disport", "De portu", "Desport"],
+      "correctIndex": 3,
+      "explanation": "Metne göre 'spor' sözcüğü, Akdenizli denizcilerin limanda geçirdikleri keyifli yaşamı anlatan 'de portu' (limanda olmak) argo ifadesinden türemiştir. Bu kelime sonradan Orta Latincede disportare/deportare, Eski Fransızcada desport ve İngilizcede to disport/sport biçimlerine evrilmiştir; yani diğer seçenekler de portu'dan sonraki evrim aşamalarıdır.",
+      "optionNotes": [
+        "Yanlış: De portu'dan sonra Orta Latincede ortaya çıkan bir sonraki evrim aşamasıdır, başlangıç kelimesi değildir.",
+        "Yanlış: Bu da de portu'nun Orta Latincedeki türevlerinden biridir, ilk argo kelime değildir.",
+        "Yanlış: Fransızca desport'un İngilizceye geçmiş biçimidir, zincirin sonraki bir halkasıdır.",
+        "Doğru: Metinde açıkça belirtildiği gibi 'limanda olmak' anlamına gelen ve spor teriminin kökeni sayılan asıl argo ifadedir.",
+        "Yanlış: Eski Fransızcadaki ara aşamadır, en eski kaynak değildir."
+      ]
+    },
+    {
+      "id": "w3q3",
+      "question": "Antik Olimpiyat Oyunları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Katılımcılar ilk iki yüzyılda sadece soylularla sınırlıydı",
+        "Yarışmalar dinsel festivallerin bir parçasıydı",
+        "Oyunlar süresince ateşkes ilan ediliyordu",
+        "Hakemlik Hakkı politik tarafsızlıkla yükümlü soylulara aitti",
+        "Evli kadınların aktif ve pasif katılımları yasaktı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antik Olimpiyat Oyunları'nın organizatörü ve hakemleri, politik tarafsızlıkla yükümlü olarak Elis halkından seçilirdi; hakemlik hakkı soylulara değil Elis halkına aitti. Diğer tüm ifadeler (ilk iki yüzyılda sadece soylularla sınırlı katılım, dinsel festival parçası olma, kutsal ateşkes, evli kadınların yasaklı olması) metinde doğru biçimde yer almaktadır.",
+      "optionNotes": [
+        "Doğru ifade: Katılımcı çevresinin ilk iki yüzyılda zorunlu olarak soylularla sınırlı olduğu metinde belirtilir.",
+        "Doğru ifade: Yarışmaların tanrılara sunulan bir adak olduğu ve dinsel festivallerin parçası olduğu açıkça belirtilir.",
+        "Doğru ifade: Kutsal Barış (Ekecheiria) oyunlar süresince silah bırakışmayı garanti ediyordu.",
+        "Yanlış/hatalı ifade (bu nedenle doğru cevap budur): Hakemleri belirleyen ve politik tarafsızlıkla yükümlü olan taraf soylular değil, organizatör Elis halkıydı.",
+        "Doğru ifade: Dinsel nedenlerle evli kadınların aktif ve pasif katılımının yasaklandığı metinde açıkça belirtilir."
+      ]
+    },
+    {
+      "id": "w3q4",
+      "question": "Sportif egzersiz belirli bir hareket formunun ve kombinasyonunun uygulama öncesi bilinçli olarak tasarlanmış bir amaç doğrultusunda tekrarlanması görüşünden hareketle aşağıdaki fiziksel aktivitelerden hangisi sportif egzersizin başlangıcı sayılabilir?",
+      "options": ["Koşma", "Tırmanma", "Bumerang atma", "Dans", "Yüzme"],
+      "correctIndex": 2,
+      "explanation": "Bu tanım Materyalist tarih anlayışının görüşüdür. Bumerang atışı, her bumerangın geri dönüşte farklı bir eğri çizmesi nedeniyle kullanıcıdan önceden özenli bir alıştırma ve deneme evresi gerektirmekteydi; bu nedenle ilkel topluluklarda bilinçli, tasarlanmış tekrarlara dayanan bir fiziksel aktivite olarak değerlendirilmiştir.",
+      "optionNotes": [
+        "Yanlış: Koşma, insanın doğal ve farkında olmadan geliştirdiği bir hareket formudur; bilinçli tasarlanmış bir antrenman süreci gerektirmez.",
+        "Yanlış: Avlanma ve hayatta kalma güdüsüyle kendiliğinden gelişen doğal bir hareket formudur, planlı alıştırma gerektirmez.",
+        "Doğru: İsabetli atış için önceden bilinçli alıştırma ve deneme gerektirdiğinden, Materyalist görüşün 'tasarlanmış amaç doğrultusunda tekrar' tanımına tam olarak uyar.",
+        "Yanlış: Dans, İdealist görüşe göre ilk bilinçli hareket formu sayılır; soruda tanımlanan materyalist/alet kullanımına dayalı görüşle ilişkilendirilmez.",
+        "Yanlış: Günlük hayatta kendiliğinden kazanılan doğal hareketlerden biridir, bilinçli egzersiz örneği olarak geçmez."
+      ]
+    },
+    {
+      "id": "w3q5",
+      "question": "Aşağıdakilerden hangisi antik çağda pentathlon müsabakalarından biri değildir?",
+      "options": ["Disk atma", "Cirit atma", "Uzun atlama", "Güreş", "Boks"],
+      "correctIndex": 4,
+      "explanation": "Antik Çağ'da pentatlon (MÖ 708) disk atma, uzun atlama, cirit atma, koşu ve güreş disiplinlerinden oluşuyordu. Boks (pygme) ayrı bir yarışma dalıydı ve pentatlon kapsamında yer almıyordu.",
+      "optionNotes": [
+        "Yanlış: Pentatlonun beş disiplininden biridir.",
+        "Yanlış: Pentatlonun beş disiplininden biridir.",
+        "Yanlış: Pentatlonun beş disiplininden biridir.",
+        "Yanlış: Pentatlonun beş disiplininden biridir.",
+        "Doğru: Boks, pentatlonun beş disiplini (disk atma, uzun atlama, cirit atma, koşu, güreş) arasında yer almaz; ayrı ve bağımsız bir müsabaka dalıdır."
+      ]
+    },
+    {
+      "id": "w3q6",
+      "question": "Okulunun programlarına sınıf geçmeyi de etkileyecek biçimde jimnastik ve oyun faaliyetleri koyarak okul beden eğitiminin öncüsü olan Aydın aşağıdakilerden hangisidir?",
+      "options": ["John Locke", "Jean Jack Rousse", "Martin Luther", "Petrus Faber", "Jan Amos Komensky"],
+      "correctIndex": 4,
+      "explanation": "Metinde, Çek asıllı Jan Amos Komensky'nin okulunun programlarına sınıf geçmeyi de etkileyecek biçimde cimnastik ve oyun faaliyetleri koyarak okul beden eğitiminin öncüsü olduğu açıkça belirtilmektedir.",
+      "optionNotes": [
+        "Yanlış: Locke, sağlıklı beden-sağlıklı akıl ilişkisini savunan ve yüzmeyi öneren Aydınlanma dönemi düşünürüdür, bu uygulamayla anılmaz.",
+        "Yanlış: Rousseau, 'Emile' adlı eserinde beden eğitiminin teorik temelini atmıştır ama okul programına sınıf geçmeyle ilişkilendirilen cimnastik koyan kişi değildir.",
+        "Yanlış: Luther, laik ve zorunlu temel eğitimi savunan bir hümanisttir, bu spesifik uygulamayla anılmaz.",
+        "Yanlış: Faber, 1592'de 'Agonisticon' adlı eseriyle antik olimpiyatlardan bahseden bir yazardır, okul programıyla ilgili bu uygulamayla anılmaz.",
+        "Doğru: Metinde doğrudan Komensky'nin okulunun programına sınıf geçmeyi etkileyecek biçimde cimnastik ve oyun faaliyetleri koyarak okul beden eğitiminin öncüsü olduğu belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w3q7",
+      "question": "İlk spor psikolojisi deneyini yapan bilim adamı hangisidir?",
+      "options": ["Bandura", "Griffith", "Normann Triplett", "Freud", "Tutko"],
+      "correctIndex": 2,
+      "explanation": "Spor psikolojisi alanındaki ilk bilimsel çalışma, 1898 yılında sosyal psikolog Norman Triplett tarafından yazılan bir yüksek lisans tezi kapsamında gerçekleştirilmiştir. Bu nedenle Triplett, alanın ilk deneyini yapan bilim adamı olarak kabul edilir.",
+      "optionNotes": [
+        "Yanlış: Bandura, sosyal öğrenme kuramıyla tanınan bir psikologdur, spor psikolojisinin ilk deneyini yapan kişi değildir.",
+        "Yanlış: Griffith daha sonraki dönemlerde spor psikolojisi alanında çalışmış bir isimdir, ancak metinde ilk çalışmayı yapan kişi olarak Triplett belirtilmiştir.",
+        "Doğru: Triplett, 1898'de yaptığı çalışmayla spor psikolojisi alanındaki ilk bilimsel çalışmayı gerçekleştirmiştir.",
+        "Yanlış: Freud, psikanaliz kuramının kurucusudur, spor psikolojisiyle ilk çalışmayı ilişkilendiren isim değildir.",
+        "Yanlış: Tutko, metinde ilk deneyi yapan kişi olarak geçmemektedir."
+      ]
+    },
+    {
+      "id": "w3q8",
+      "question": "Aşağıdakilerden hangisi modern sporun İngiltere’de doğmuş olmasının sebeplerinden biri değildir?",
+      "options": [
+        "İngiliz parlamenter sistemi",
+        "Soyluluğun ilk doğan erkek çocukla sınırlandırılması",
+        "İngiliz kulüp sistemi",
+        "İngilizlerin bahis tutkusu",
+        "İngiliz coğrafyasının genişliği"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde modern sporun İngiltere'de doğmasının toplumsal ön şartları arasında İngiliz parlamenter sistemi, Primogenitur yasası (soyluluğun ilk doğan erkek çocukla sınırlandırılması), İngiliz kulüp sistemi ve İngilizlerin bahis tutkusu sayılmıştır. İngiliz coğrafyasının genişliği bu etkenler arasında hiç geçmemektedir.",
+      "optionNotes": [
+        "Yanlış: Kuvvetler ayrılığına dayalı İngiliz parlamenter sistemi, metinde sayılan sebeplerden biridir.",
+        "Yanlış: Primogenitur yasasının soylular ile orta sınıf arasında yumuşak bir geçişe yol açtığı metinde belirtilir.",
+        "Yanlış: 17. yüzyılda ortaya çıkan İngiliz kulüp sistemi, metinde sayılan sebeplerden biridir.",
+        "Yanlış: İngilizlerin bahis tutkusu ve soyluların yarışma hamiliği, metinde sayılan sebeplerden biridir.",
+        "Doğru: Metinde modern sporun İngiltere'de doğuşunun sebepleri arasında coğrafi genişlikten hiç bahsedilmez; sayılan etkenler toplumsal/kurumsal niteliktedir."
+      ]
+    },
+    {
+      "id": "w3q9",
+      "question": "Aşağıdakilerden hangisi MS 4. Yüzyılda antik olimpiyat oyunlarının Romalılar tarafından sonlandırılmasının ana nedeni olarak gösterilebilir?",
+      "options": [
+        "Sert sporlardan hoşlanan Romalıların Yunan sporlarını hafif ve etkisiz bulması",
+        "Romalıların oyunların devamını siyasi bir tehdit olarak algılamaları",
+        "Hıristiyanlığı Roma devleti tarafından resmi din olarak kabulü",
+        "Ekonomik nedenlerle oyunların sürdürülebilir olmaması",
+        "Oyunların düzenlendiği olympia Bölgesi&#039;nin askeri bölge ilan edilmesi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hristiyanlığı MS 380'de devlet dini olarak kabul eden Roma İmparatoru I. Theodosius, kısa süre sonra putperest sayılan olimpiyat oyunlarını MS 393'te yasaklamıştır. Oyunların sonlandırılmasının doğrudan ve belgelenen nedeni, Hristiyanlığın resmi din olarak kabulüdür.",
+      "optionNotes": [
+        "Yanlış: Metinde Romalıların Yunan sporlarını hafif bulmasından söz edilmez; Romalılar da bu sporlara atlet olarak katılmıştır.",
+        "Yanlış: Oyunların siyasi tehdit olarak algılandığına dair bir bilgi metinde geçmemektedir.",
+        "Doğru: Metin, yasaklamanın doğrudan nedeninin Hristiyanlığın I. Theodosius tarafından devlet dini ilan edilmesi ve oyunların putperest sayılması olduğunu belirtir.",
+        "Yanlış: Metinde ekonomik sürdürülebilirlik sorunu yasaklanma nedeni olarak gösterilmez.",
+        "Yanlış: Olympia'nın askeri bölge ilan edildiğine dair metinde herhangi bir bilgi yoktur."
+      ]
+    },
+    {
+      "id": "w3q10",
+      "question": "Aşağıdakilerden hangisi 19. Yüzyılda İngiltere&#039;de Doğan modern spor&#039;un başlangıcındaki prensipleriden biri sayılamaz?",
+      "options": [
+        "Rekabetçi olması",
+        "Rekor hedefli olması",
+        "Kazanç güdülerek profesyonelce yapılması",
+        "Bağlayıcı kurallarının olması",
+        "Yüksek performans amaçlı yapılması"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde modern sporun 19. yüzyılda İngiltere'de 'rekabet yönelimli, yüksek performans ve rekor hedefli, bağlayıcı kurallı, kazanç güdülmeksizin -amatörce- yapılan fiziksel aktivitelere verilen genel bir ad haline geldiği' belirtilmiştir. Kazanç güdüsüyle profesyonelce yapılması bu başlangıç prensiplerine aykırıdır.",
+      "optionNotes": [
+        "Yanlış: Modern spor metinde 'rekabet yönelimli' olarak tanımlanmıştır, bu bir prensiptir.",
+        "Yanlış: 'Rekor hedefli' olma, modern sporun temel niteliklerinden biri olarak sayılmıştır.",
+        "Doğru: Metin modern sporun 'kazanç güdülmeksizin -amatörce- yapılan' bir etkinlik olduğunu belirtir; profesyonellik ve kazanç güdüsü başlangıç ilkelerine aykırıdır.",
+        "Yanlış: Modern spor 'bağlayıcı kurallı' bir etkinlik olarak tanımlanmıştır, bu bir prensiptir.",
+        "Yanlış: 'Yüksek performans' hedefi metinde doğrudan modern sporun tanımlayıcı özelliği olarak geçer."
+      ]
+    },
+    {
+      "id": "w3q11",
+      "question": "Antik Yunan&#039;da olimpiyat oyunlarının hangi dönemde yapılmaya başlandığı kabul edilir?",
+      "options": ["Girit miken çağı", "Klasik çağ", "Helen Roma dönemi", "Arkaik çağ", "Helenistik çağ"],
+      "correctIndex": 3,
+      "explanation": "Antik olimpiyat oyunlarının sayımı MÖ 776'da şampiyonların resmen listelenmeye başlanmasıyla başlamıştır ve bu tarih Arkaik Çağ'ın (MÖ 800-500) başlarına denk gelir. Bu nedenle Arkaik Çağ, Olimpiyat Oyunları'nın başlangıç dönemi olarak kabul edilir.",
+      "optionNotes": [
+        "Yanlış: Girit-Miken döneminde (MÖ 1600-1200) Olimpiya dinsel festival alanıydı ama olimpiyat oyunlarının resmi sayımı bu dönemde başlamamıştır.",
+        "Yanlış: Klasik Çağ'da (MÖ 500-300) oyunlar zaten var olan ve gelişen bir kurumdu, başlangıç dönemi değildir.",
+        "Yanlış: Helen-Roma döneminde oyunlar zayıflayıp sonunda yasaklanmıştır; bu dönem oyunların sonunu temsil eder.",
+        "Doğru: Olimpiyat oyunlarının sayımı Arkaik Çağ'ın hemen başında (MÖ 776) başlamıştır.",
+        "Yanlış: Helenistik Çağ'da yarışmacı cimnastik ihmal edilmiş, oyunlar gösteri müsabakasına dönüşmeye başlamıştır; başlangıç dönemi değildir."
+      ]
+    },
+    {
+      "id": "w3q12",
+      "question": "Yüksek ortaçağ&#039;da bedensel faaliyetler yalnızca Hristiyanlığın koruyucu olarak kabul edilen. ............. Tarafından uygulanmıştır. Cümlede boş bırakılan yere aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": ["Papazlar", "Soylular", "Krallar", "Köylüler", "Şövalyeler"],
+      "correctIndex": 4,
+      "explanation": "Yüksek Ortaçağ'da (1000-1300) beden faaliyetleri yalnızca Hristiyanlığın koruyucusu olarak kabul edilen şövalyeler tarafından uygulanmıştır; şövalyelerin ustalık düzeyinde bilmesi gereken 7 beceriden çoğu (ata binme, yüzme, ok atma, tırmanma, güreşme, kılıç kullanma, mızrak dövüşü) bedensel nitelikteydi.",
+      "optionNotes": [
+        "Yanlış: Papazlar dönemin eğitimcisi olan kiliseyi temsil eder, ancak Hristiyanlığın 'koruyucusu' olarak tanımlanan bedensel beceri sahibi grup değildir.",
+        "Yanlış: Soylular kavramı metinde bu dönem için kullanılmaz; bu dönemin uygulayıcısı özel olarak şövalyeler olarak adlandırılır.",
+        "Yanlış: Krallardan bu bağlamda bahsedilmez; Hristiyanlığın koruyucusu unvanı metinde şövalyelere atfedilmiştir.",
+        "Yanlış: Köylüler bu dönemde beden faaliyetlerinden uzak tutulan kesimdir.",
+        "Doğru: Metin, Yüksek Ortaçağ'da beden faaliyetlerinin Hristiyanlığın koruyucusu kabul edilen şövalyeler tarafından uygulandığını doğrudan ifade eder."
+      ]
+    },
+    {
+      "id": "w3q13",
+      "question": "Aşağıdakilerden hangisi İsveç jimnastiğinin uygulama alanlarından biri değildir?",
+      "options": ["Askeri jimnastik", "Pedagojik jimnastik", "Estetik jimnastik", "Tıbbi jimnastik", "Akrobatik jimnastik ver"],
+      "correctIndex": 4,
+      "explanation": "Ling'in felsefesi doğrultusunda İsveç jimnastiği dört ana bölüme ayrılır: pedagojik, tıbbi, askeri ve estetik cimnastik. Akrobatik cimnastik İsveç jimnastiğinin bu dört bölümünden biri değildir.",
+      "optionNotes": [
+        "Yanlış: Askeri cimnastik, güreş, eskrim ve askeri alıştırma formlarını içeren bir İsveç jimnastiği bölümüdür.",
+        "Yanlış: Pedagojik cimnastik, okul öğrencileri için gerekli serbest egzersizleri içeren bir bölümdür.",
+        "Yanlış: Estetik cimnastik, vücut sağlığı için dolaşım, sinir sistemi ve iç organlara yönelik serbest egzersizleri kapsayan bölümlerden biridir.",
+        "Yanlış: Tıbbi cimnastik, hastaların ve sakatların tedavisi için uygulanan egzersizleri kapsayan bölümlerden biridir.",
+        "Doğru: Akrobatik cimnastik, İsveç jimnastiğinin dört bölümü (pedagojik, tıbbi, askeri, estetik) arasında sayılmaz."
+      ]
+    },
+    {
+      "id": "w3q14",
+      "question": "Profesyonel oldukları halde centilmen olarak kabul edildikleri için başlangıçta olimpiyat oyunlarına katılım şartlarından olan sıkı amatörlük prensibi dışında bırakılan branş aşağıdakilerden hangisidir?",
+      "options": ["Tenis", "Güreş", "Boks", "Jimnastik", "Eskrim"],
+      "correctIndex": 4,
+      "explanation": "1894 statüsüne göre oyunlara eskrim hariç sadece amatör sporcuların katılacağı belirtilmiştir; çünkü dönemin eskrim öğretmenleri/ustaları profesyonel sayılsa da aynı zamanda 'centilmen' olarak kabul ediliyordu ve bu durum onların olimpiyat oyunlarına katılması için yeterli bir neden sayılmıştır.",
+      "optionNotes": [
+        "Yanlış: Tenis, metinde amatörlük istisnası tanınan branş olarak geçmez.",
+        "Yanlış: Güreş antik ve modern olimpiyat programlarında yer alır ama amatörlük istisnasıyla anılmaz.",
+        "Yanlış: Boks de benzer şekilde metinde bu özel istisnayla ilişkilendirilmemiştir.",
+        "Yanlış: Cimnastik, metinde bu bağlamda amatörlük istisnasıyla anılan branş değildir.",
+        "Doğru: Metin açıkça eskrimin, öğretmenlerinin profesyonel sayılsa da centilmen kabul edilmesi nedeniyle amatörlük şartından istisna tutulduğunu belirtir."
+      ]
+    },
+    {
+      "id": "w3q15",
+      "question": "Aşağıdakilerden hangisi modern sporun İngiltere&#039;de doğmuş olmasının sebeplerinden biri değildir?",
+      "options": [
+        "İngiliz parlamenter sistemi",
+        "İngilizlerin bahis tutkusu",
+        "İngiliz kulüp sistemi",
+        "İngilizce coğrafyasının genişliği",
+        "Soylu&#039;nun ilk doğan erkek çocukla sınırlandırılması"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde modern sporun İngiltere'de doğmasının toplumsal ön şartları olarak İngiliz parlamenter sistemi, İngilizlerin bahis tutkusu, İngiliz kulüp sistemi ve Primogenitur yasası (soyluluğun ilk doğan erkek çocukla sınırlandırılması) sayılmıştır. Coğrafi genişlik bu etkenler arasında yer almaz ve metinde hiç geçmemektedir.",
+      "optionNotes": [
+        "Yanlış: Kuvvetler ayrılığına dayalı İngiliz parlamenter sistemi, metinde sayılan sebeplerden biridir.",
+        "Yanlış: İngilizlerin bahis tutkusu, yarışma organizasyonlarının sıklıkla düzenlenmesine neden olan bir sebep olarak sayılmıştır.",
+        "Yanlış: 17. yüzyılda ortaya çıkan İngiliz kulüp sistemi, metinde sayılan sebeplerden biridir.",
+        "Doğru: Metinde modern sporun İngiltere'de doğuşunun sebepleri arasında coğrafi genişlikten hiç bahsedilmez; sayılan etkenler toplumsal/kurumsal niteliktedir.",
+        "Yanlış: Primogenitur yasasının (soyluluğun ilk doğan erkek çocukla sınırlandırılması) soylular ile orta sınıf arasında yumuşak bir geçişe yol açtığı metinde açıklanır, bu bir sebeptir."
+      ]
+    },
+    {
+      "id": "w3q16",
+      "question": "Sporda cinsiyet ayrımı konulu bir araştırmayı aşağıdaki alanlardan hangisi ele alır?",
+      "options": ["Spor felsefesi", "Spor psikolojisi", "Spor sosyolojisi", "Spor hukuku", "Spor yönetimi"],
+      "correctIndex": 2,
+      "explanation": "Sporda cinsiyet ayrımı ve toplumsal cinsiyet konuları, spor sosyolojisinin ele aldığı temel başlıklardandır; toplumun kadına ve erkeğe biçtiği roller ve kalıp yargıların spora katılımı nasıl etkilediği, toplumsal cinsiyet eşitliği/eşitsizliği ve antrenörlerin cinsiyete duyarlılığı gibi konular spor sosyolojisi kapsamında incelenir.",
+      "optionNotes": [
+        "Yanlış: Spor felsefesi daha çok sporun etik/değer boyutlu kavramsal sorgulamasıyla ilgilenir, cinsiyet ayrımı araştırmalarının asıl alanı değildir.",
+        "Yanlış: Spor psikolojisi bireyin zihinsel süreçleriyle ilgilenir; cinsiyet ayrımı konusu toplumsal bir olgu olarak sosyolojinin alanına girer.",
+        "Doğru: Toplumsal cinsiyet ve cinsiyet ayrımı, spor sosyolojisinin temel konu başlıklarından biridir.",
+        "Yanlış: Spor hukuku, sportif organizasyonların hukuki düzenlemeleriyle ilgilenir, cinsiyet ayrımı araştırmalarının asıl disiplini değildir.",
+        "Yanlış: Spor yönetimi, organizasyon ve idari süreçlerle ilgilenir, cinsiyet ayrımı araştırmalarının asıl disiplini değildir."
+      ]
+    },
+    {
+      "id": "w3q17",
+      "question": "Aşağıdakilerden hangisinde ilk kez zorunlu beden eğitimi dersleri uygulanmıştır?",
+      "options": ["İngiltere", "İsveç", "Danimarka&#039;da", "Fransa", "Türkiye"],
+      "correctIndex": 2,
+      "explanation": "Beden eğitimi tarihinde, zorunlu/mecburi beden eğitimi derslerinin okul müfredatına ilk kez ulusal düzeyde dahil edildiği ülke Danimarka'dır; 19. yüzyıl başlarında Danimarka'da beden eğitimi dersleri zorunlu hale getirilmiştir. Not: Bu bilgi, incelenen ünite özetlerinde/tam metinlerde doğrudan yer almadığından, genel spor tarihi bilgisine dayanılarak ve en mantıklı seçenek olarak belirlenmiştir; bu nedenle diğer sorulara kıyasla kesinlik derecesi daha düşüktür.",
+      "optionNotes": [
+        "Yanlış: İngiltere'de beden eğitimi/spor okul müfredatına özel kolejler (Rugby, Eton vb.) aracılığıyla ve ahlaki gelişim amacıyla girmiştir, ulusal zorunlu beden eğitiminin ilk uygulandığı ülke olarak gösterilmez.",
+        "Yanlış: İsveç, Ling'in kurduğu sistematik jimnastik anlayışıyla tanınır ancak ilk zorunlu beden eğitimi uygulamasının öncüsü olarak gösterilmez.",
+        "Doğru (ihtiyatla): Zorunlu beden eğitimi derslerinin okul programlarına ilk kez ulusal düzeyde dahil edildiği ülke olarak kabul edilir.",
+        "Yanlış: Fransa'da beden eğitimi, Coubertin'in reform çalışmalarıyla daha sonraki dönemde önem kazanmıştır, ilk zorunlu uygulama ülkesi değildir.",
+        "Yanlış: Türkiye'de beden eğitimi dersleri, Avrupa'daki bu gelişmelerden sonra, Osmanlı'nın son dönemi ve Cumhuriyet döneminde yaygınlaşmıştır."
+      ]
+    },
+    {
+      "id": "w3q18",
+      "question": "\"Neolitik çağ&#039;da tarıma geçişin yapıldığı. ................ Sportif aktivitelerin farklı amaçlar doğrultusunda uygulanmasına neden olmuştur\" Metindeki boşluğu aşağıdakilerden hangisi tamamlar?",
+      "options": ["Mülkiyet anlayışı", "Topluluk bilinci", "Serbest zaman", "Şehirleşme", "Üretim anlayışı"],
+      "correctIndex": 2,
+      "explanation": "Metinde Neolitik Çağ ve sonrası şartların belirlediği yeni yaşam tarzının en önemli karakteristik özelliklerinden birinin yarattığı serbest zaman olduğu belirtilir; insanın doğayla mücadelede geliştirdiği araç, beceri ve teknikler (taşıma-ulaştırma, savunma-saldırı kökenli) benzetim yoluyla bu serbest zamana uygulanarak sportif aktivitelerin farklı amaçlar doğrultusunda kullanılmasına yol açmıştır.",
+      "optionNotes": [
+        "Yanlış: Mülkiyet şartlarının değişimi metinde Geç Arkaik Çağ'daki sosyal gerilimlerle ilişkilendirilir, Neolitik Çağ'daki tarıma geçişle doğrudan bağlanan kavram değildir.",
+        "Yanlış: Metinde Neolitik Çağ'ın sportif aktivitelere etkisi bu kavramla açıklanmaz.",
+        "Doğru: Metin, Neolitik Çağ ve sonrasının yarattığı yeni yaşam tarzının temel özelliğinin serbest zaman olduğunu ve bunun sportif aktivitelerin farklı amaçlarla (taşıma-ulaştırma, savunma-saldırı vb.) uygulanmasına yol açtığını belirtir.",
+        "Yanlış: Şehirleşme, metinde Neolitik sürecin bir sonucu olarak değil, modern sporun İngiltere'deki Endüstri Devrimi bağlamında geçer.",
+        "Yanlış: Üretim ilişkileri Tunç Çağı bağlamında serbest zamanın ortaya çıkışına katkı olarak anılır; ancak sportif aktivitelerin farklı amaçlara yönelmesinin doğrudan gerekçesi olarak metinde 'serbest zaman' vurgulanır."
+      ]
+    },
+    {
+      "id": "w3q19",
+      "question": "\"Spor\" teriminin ilk formları hangi çağ kaynaklıdır?",
+      "options": ["Modern çağ", "Antik Yunan çağ", "Girit miken çağ", "Ortaçağ", "Neolitik çağ"],
+      "correctIndex": 3,
+      "explanation": "Metinde, bugün kullanılan 'spor' teriminin sportif uygulamaların tarihsel derinliğine göre oldukça yeni bir kelime olduğu ve ilk formlarının Ortaçağ'a dayandığı açıkça belirtilmektedir.",
+      "optionNotes": [
+        "Yanlış: 'Spor' kelimesinin günümüzdeki anlamı 19. yüzyılda İngiltere'de yaygınlaşmıştır, ama terimin ilk formları bundan çok önce Ortaçağ'da ortaya çıkmıştır.",
+        "Yanlış: Antik Yunan'da yarışmacı için 'athletes', eğitmen için 'gymnastes' terimleri kullanılıyordu; 'spor' terimi bu döneme ait değildir.",
+        "Yanlış: Bu dönemde spor disiplinleri savaşçılık ve avcılık kökenliydi, 'spor' terimiyle bir bağlantısı metinde yoktur.",
+        "Doğru: Metinde 'spor' teriminin ilk formlarının Ortaçağ'a dayandığı doğrudan belirtilmektedir.",
+        "Yanlış: Neolitik çağ, tarıma geçiş ve serbest zamanın ortaya çıkışıyla ilişkilendirilir, 'spor' teriminin kökeniyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w3q20",
+      "question": "Aşağıdakilerden hangisinin antrenman gerektiren alıştırmalarının, sporun önceliği sayılabilecek en eski fiziksel alıştırmalar olduğu söylenebilir?",
+      "options": ["Koşma", "Tırmanma", "Yüzme", "Mızrak", "Dans"],
+      "correctIndex": 3,
+      "explanation": "Metinde yer alan uyarı kutusunda, isabet kaydı için ana uygulama öncesinde 'antrenman' gerektiren mızrak atma alıştırmalarının, sporun önceli sayılabilecek en eski fiziksel alıştırmalar olduğu açıkça belirtilmektedir.",
+      "optionNotes": [
+        "Yanlış: Koşma, insanı zorunlu olarak ve farkında olmaksızın koşucu yapan doğal bir harekettir, antrenman gerektiren bilinçli bir alıştırma olarak sunulmaz.",
+        "Yanlış: Metinde antrenman gerektiren en eski fiziksel alıştırma olarak tırmanmadan bahsedilmez.",
+        "Yanlış: Yüzme de metinde bu bağlamda antrenman gerektiren en eski alıştırma olarak belirtilmez.",
+        "Doğru: Metinde doğrudan, isabet kaydı için antrenman gerektiren mızrak atma alıştırmalarının sporun önceli sayılabilecek en eski fiziksel alıştırmalar olduğu belirtilir.",
+        "Yanlış: Dans, İdealist tarih görüşüne göre ilk sportif hareket sayılır, ancak antrenman gerektiren en eski fiziksel alıştırma olarak metinde gösterilmez."
+      ]
+    }
+  ]
+}

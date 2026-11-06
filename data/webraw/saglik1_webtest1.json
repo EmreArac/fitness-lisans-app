@@ -1,0 +1,308 @@
+{
+  "questions": [
+    {
+      "id": "w1q1",
+      "question": "Kalbin kasılmaları sonucu oluşan damarlardaki basınç dalgalanmalarına ne denir?",
+      "options": ["Nabız", "Solunum", "Bilinç", "Boğulma", "Ağrıya tepki"],
+      "correctIndex": 0,
+      "explanation": "Nabız, kalbin kasılmaları (sistol) sonucunda kanın damarlara pompalanmasıyla oluşan basınç dalgalanmasının arter duvarlarında hissedilmesidir. Metinde nabız, dokuz hayati bulgudan biri olarak tanımlanır ve kalp atımıyla doğrudan ilişkilendirilir. Solunum, bilinç, boğulma ve ağrıya tepki ise farklı hayati bulgular veya durumlardır; basınç dalgalanması tanımına uymazlar.",
+      "optionNotes": [
+        "Doğru yanıt: nabız, kalp kasılmaları sonucu arterlerde oluşan basınç dalgalanmasının tam tanımıdır.",
+        "Solunum, akciğerlerde gerçekleşen gaz değişimi sürecidir, damarlardaki basınç dalgalanmasıyla ilgili değildir.",
+        "Bilinç, kişinin çevresinin ve kendisinin farkında olma durumudur, basınç dalgalanmasını tanımlamaz.",
+        "Boğulma, solunum yolunun tıkanması veya suda solunumun kesilmesi durumudur, nabız terimiyle ilgisi yoktur.",
+        "Ağrıya tepki, hayati bulgu değerlendirmesinde ayrı bir başlıktır ve basınç dalgalanmasıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w1q2",
+      "question": "Aşağıdakilerden hangisi Üriner Sistemi oluşturan organlardan biri değildir?",
+      "options": ["Üreterler", "Böbrekler", "Mesane", "Üretra", "Tükürük bezleri"],
+      "correctIndex": 4,
+      "explanation": "Üriner (boşaltım) sistemi böbrekler, üreterler, mesane ve üretradan oluşur; bu organlar idrarın üretilmesini, taşınmasını, depolanmasını ve vücuttan atılmasını sağlar. Tükürük bezleri ise sindirim sistemine aittir, salya üreterek sindirime yardımcı olur ve üriner sistemin bir parçası değildir.",
+      "optionNotes": [
+        "Üreterler, böbreklerde oluşan idrarı mesaneye taşıyan kanallardır; üriner sistemin bir organıdır.",
+        "Böbrekler, idrarın üretildiği ve kanın filtrelendiği temel üriner sistem organıdır.",
+        "Mesane, idrarın depolandığı organdır ve üriner sisteme aittir.",
+        "Üretra, idrarın vücut dışına atıldığı kanaldır ve üriner sistemin son organıdır.",
+        "Doğru yanıt: tükürük bezleri sindirim sistemine aittir, salya üretimiyle görevlidir ve üriner sistemle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w1q3",
+      "question": "Aşağıdakilerden hangisi Yüksek Glisemik İndeksli Besinler arasında yer almaz?",
+      "options": ["Mısır Gevreği", "Muz", "Mercimek", "Beyaz Pirinç", "Bal"],
+      "correctIndex": 2,
+      "explanation": "Yüksek glisemik indeksli besinler arasında bal, mısır gevreği, beyaz pirinç ve muz gibi hızlı sindirilen karbonhidrat kaynakları sayılır (glisemik indeks tablosunda bu besinler 60 üzerinde değerlerle listelenmiştir). Mercimek ise bir kurubaklagil olup kompleks karbonhidrat ve lif içeriği nedeniyle düşük-orta glisemik indekse sahiptir, dolayısıyla yüksek glisemik indeksli besinler arasında yer almaz.",
+      "optionNotes": [
+        "Mısır gevreği, metindeki glisemik indeks tablosunda yüksek glisemik indeksli besinler arasında (83 değeriyle) sayılmıştır.",
+        "Muz, metindeki tabloda yüksek glisemik indeksli besinler arasında (61 değeriyle) yer almaktadır.",
+        "Doğru yanıt: mercimek bir kurubaklagil olup kompleks karbonhidrat yapısı nedeniyle düşük-orta glisemik indekslidir, yüksek glisemik indeksli besinler arasında sayılmaz.",
+        "Beyaz pirinç, metindeki tabloda yüksek glisemik indeksli besinler arasında (72 değeriyle) yer almaktadır.",
+        "Bal, metindeki tabloda yüksek glisemik indeksli besinler arasında (87 değeriyle) sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q4",
+      "question": "I. İnsan DNA’sının yüzde 18’i virüs geni içerir. II. Genellikle tek iplikli RNA molekülü taşıyan basit birer protein kılıfıdır. III. Basit olduğu için kolay çoğalır. IV. En tehlikeli hastalık yapıcı organizmalar arasında yer alırlar. Yukarıda verilenlerden hangileri virüslerle ilgili doğrudur?",
+      "options": ["I", "I – II", "II – III – IV", "I – III – IV", "III – IV"],
+      "correctIndex": 2,
+      "explanation": "Kaynak metne göre insan DNA'sının yüzde 8'i (yüzde 18 değil) virüs geni içerir; bu nedenle I numaralı ifade yanlıştır. II, III ve IV numaralı ifadeler ise metinde doğrudan doğrulanır: virüsler genellikle tek iplikli RNA taşıyan basit protein kılıflarıdır (II), basit yapıları sayesinde kolay çoğalırlar (III) ve en tehlikeli hastalık yapıcı organizmalar arasında yer alırlar (IV). Dolayısıyla doğru ifadeler II-III-IV'tür.",
+      "optionNotes": [
+        "Sadece I yanlıştır: metinde oran yüzde 8 olarak geçer, yüzde 18 değil; bu seçenek yanlış bir ifadeyi tek başına doğru gösterir.",
+        "I-II kombinasyonu yanlıştır çünkü I ifadesindeki yüzde 18 rakamı metindeki doğru değer olan yüzde 8 ile çelişir.",
+        "Doğru yanıt: II, III ve IV ifadeleri metinde doğrudan belirtilen, doğru bilgilerdir.",
+        "I-III-IV yanlıştır çünkü I ifadesi (yüzde 18) metindeki doğru değer olan yüzde 8 ile uyuşmaz.",
+        "III-IV ifadeleri doğru olsa da bu seçenek II'yi dışarıda bırakır; II de metinde doğrulanan doğru bir ifadedir, dolayısıyla eksik bir seçenektir."
+      ]
+    },
+    {
+      "id": "w1q5",
+      "question": "Sporcu seçiminden örneklerin analizine kadar giden Doping kontrolü, kaç basamaktan oluşur?",
+      "options": ["7", "8", "9", "10", "11"],
+      "correctIndex": 4,
+      "explanation": "Metinde doping kontrol sürecinin, örneğin bütünlüğü bozulmadığı sürece geçersiz sayılmayan 11 basamaktan oluştuğu belirtilir: kap seçimi, örnek verme, idrar miktarının alınması, A-B şişelerine bölünme, şişelerin kilitlenmesi, özgül ağırlık ölçümü, formun doldurulması, örneklerin laboratuvara gönderilmesi ve analiz gibi adımları kapsar. Bu nedenle doğru sayı 11'dir.",
+      "optionNotes": [
+        "7 basamak, metinde belirtilen sayıdan azdır, gerçek basamak sayısıyla örtüşmez.",
+        "8 basamak da metindeki 11 basamaklık süreci tam karşılamaz.",
+        "9 basamak, metinde belirtilen 11 basamaktan daha azdır.",
+        "10 basamak gerçek sayıya yakın olsa da metinde açıkça \"11 basamak\" ifadesi kullanılmıştır.",
+        "Doğru yanıt: metinde doping kontrol sürecinin 11 basamaktan oluştuğu açıkça belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w1q6",
+      "question": "Elektriksel olarak yüklü atomlara ne ad verilir?",
+      "options": ["İyon", "Organ", "İnorganik bileşik", "Kas", "Hücre"],
+      "correctIndex": 0,
+      "explanation": "İyon, elektron kaybı veya kazanımı sonucu elektriksel olarak yüklü hale gelen atom veya moleküllere verilen addır. Hücre içi ve dışı sıvılardaki sodyum, potasyum, klor gibi elektrolitler de iyon halinde bulunarak hücresel reaksiyonları ve sıvı-elektrolit dengesini sağlar.",
+      "optionNotes": [
+        "Doğru yanıt: iyon, elektriksel yük taşıyan atom veya molekül tanımına tam olarak karşılık gelir.",
+        "Organ, belirli bir görevi yerine getirmek üzere birleşen doku topluluğudur, elektrik yükü ile ilgili bir terim değildir.",
+        "İnorganik bileşik, karbon içermeyen kimyasal bileşiklerin genel adıdır, elektrik yüküyle ilgili özel bir tanım değildir.",
+        "Kas, kasılma yeteneğine sahip bir doku türüdür, elektriksel yük taşıyan atom tanımıyla ilgisi yoktur.",
+        "Hücre, canlıların en küçük yapısal ve fonksiyonel birimidir, atomların elektrik yüküyle ilgili bir terim değildir."
+      ]
+    },
+    {
+      "id": "w1q7",
+      "question": "Kontraksiyon ne anlama gelmektedir?",
+      "options": ["Isınma", "Soğuma", "Kasılma", "Kırılma", "Kuvvet"],
+      "correctIndex": 2,
+      "explanation": "Kontraksiyon, kas dokusunun sahip olduğu kasılma yeteneğini ifade eden terimdir ve kas liflerinin kısalarak kuvvet üretmesi anlamına gelir. Metinde kas dokusunun \"kontraksiyon (kasılma) yeteneği ile hareketi sağladığı\" açıkça belirtilmiştir.",
+      "optionNotes": [
+        "Isınma, vücut sıcaklığının artması anlamına gelir, kontraksiyon teriminin karşılığı değildir.",
+        "Soğuma, sıcaklığın düşmesini ifade eder, kasılma ile ilgili değildir.",
+        "Doğru yanıt: kontraksiyon, metinde doğrudan \"kasılma\" olarak tanımlanmıştır.",
+        "Kırılma, bir yapının bütünlüğünün bozulması anlamına gelir, kontraksiyonun karşılığı değildir.",
+        "Kuvvet, bir cisme uygulanan itme/çekme etkisidir; kasılmanın sonucu olabilir ama kontraksiyonun doğrudan karşılığı değildir."
+      ]
+    },
+    {
+      "id": "w1q8",
+      "question": "Enerji sistemleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Enerji, bir sistemin ya da cismin iş yapabilme",
+        "Canlıların enerji dönüştürme yeteneğine ilişkin üç temel biyolojik enerji dönüşümü vardır",
+        "Bütün canlıların temel enerji kaynağı güneştir",
+        "Doğada 5 çeşit enerji türü vardır",
+        "Enerji birimi joule (j) veya kaloridir (cal)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde enerjinin \"bir sistemin ya da cismin iş yapabilme yeteneği\" olduğu, canlıların temel enerji kaynağının güneş olduğu, üç temel biyolojik enerji dönüşümünün bulunduğu ve enerji biriminin joule veya kalori olduğu doğru şekilde ifade edilir. Ancak metinde doğada kimyasal, mekanik, ısı, ışık, elektrik ve nükleer enerji olmak üzere toplam ALTI enerji türü bulunduğu belirtilir; \"5 çeşit enerji türü vardır\" ifadesi bu sayıyla çelişir ve yanlıştır.",
+      "optionNotes": [
+        "Bu ifade doğrudur: enerji, metinde tanımlandığı gibi bir sistemin iş yapabilme yeteneğidir.",
+        "Bu ifade doğrudur: metinde canlıların enerji dönüştürme yeteneğine ilişkin üç temel biyolojik enerji dönüşümünün bulunduğu belirtilir.",
+        "Bu ifade doğrudur: metinde bütün canlıların temel enerji kaynağının güneş olduğu açıkça yazılıdır.",
+        "Doğru yanıt (yanlış olan ifade budur): metinde doğada 5 değil, 6 enerji türü (kimyasal, mekanik, ısı, ışık, elektrik, nükleer) bulunduğu belirtilir, bu nedenle bu ifade metinle çelişir.",
+        "Bu ifade doğrudur: metinde enerji biriminin joule veya kalori olduğu belirtilir."
+      ]
+    },
+    {
+      "id": "w1q9",
+      "question": "Aşağıdakilerden hangisi Dopingle Mücadele Kural İhlalleri kapsamında yer almaz?",
+      "options": [
+        "Yasaklı maddeleri ve yöntemleri kullanmaya teşebbüs etme",
+        "Bulundurma ve kaçakçılığını yapmanın yanı sıra doping kontrolünde hile yapma",
+        "Doping kontrolüne katılmama",
+        "Doping yapan sporculara yardımcı olma",
+        "Doktor eşliğinde düzenli vitamin kullanma"
+      ],
+      "correctIndex": 4,
+      "explanation": "Dünya Dopingle Mücadele Kuralları'nın 2. maddesinde sayılan kural ihlalleri arasında yasaklı madde/yöntemi kullanma veya kullanmaya teşebbüs, bulundurma, kaçakçılık, doping kontrolünü bozma/hile yapma, kontrole katılmama ve dopingli sporculara yardım etme (suç ortaklığı) yer alır. Doktor gözetiminde ve kurallara uygun şekilde yapılan düzenli vitamin kullanımı ise yasaklı bir davranış değildir, dolayısıyla kural ihlalleri kapsamında sayılmaz.",
+      "optionNotes": [
+        "Yasaklı maddeleri ve yöntemleri kullanmaya teşebbüs etme, metinde açıkça kural ihlalleri arasında sayılmıştır.",
+        "Bulundurma, kaçakçılık yapma ve doping kontrolünde hile yapma, metinde ayrı ayrı kural ihlali olarak listelenmiştir.",
+        "Doping kontrolüne katılmama (örnek vermekten kaçınma veya reddetme), metinde kural ihlalleri arasında sayılmıştır.",
+        "Doping yapan sporculara yardımcı olma, metinde \"kural ihlaline suç ortaklığı yapma\" kapsamında bir ihlal olarak sayılmıştır.",
+        "Doğru yanıt: doktor eşliğinde, kurallara uygun şekilde yapılan düzenli vitamin kullanımı yasaklı bir madde/yöntem kullanımı olmadığından kural ihlali sayılmaz."
+      ]
+    },
+    {
+      "id": "w1q10",
+      "question": "Moleküllerin yoğun ortamdan, yoğunluğu daha az olan ortama enerji harcamaksızın geçmesine ne ad verilir?",
+      "options": ["Difüzyon", "Aktif Taşıma", "Ozmoz", "Endositoz", "Ekzositoz"],
+      "correctIndex": 0,
+      "explanation": "Difüzyon, moleküllerin yoğun (konsantrasyonu yüksek) bir ortamdan yoğunluğu daha az olan bir ortama, hücre tarafından enerji (ATP) harcanmaksızın geçiş yapmasıdır ve pasif taşıma türlerinden biridir. Aktif taşıma, endositoz ve ekzositoz ATP enerjisi gerektiren aktif taşıma biçimleridir; ozmoz ise özel olarak suyun geçişini ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: difüzyon, moleküllerin yoğun ortamdan az yoğun ortama enerji harcanmadan geçişini tanımlar.",
+        "Aktif taşıma, maddelerin düşük yoğunluktan yüksek yoğunluğa ATP enerjisi kullanılarak taşınmasıdır, enerji harcanmaksızın gerçekleşmez.",
+        "Ozmoz, difüzyonun özel bir türüdür ve molekül yerine spesifik olarak suyun yarı geçirgen zardan geçişini ifade eder.",
+        "Endositoz, büyük moleküllerin ATP enerjisi kullanılarak hücre içine alınmasıdır, enerji harcanmaksızın gerçekleşmez.",
+        "Ekzositoz, hücre içindeki maddelerin ATP enerjisi kullanılarak hücre dışına atılmasıdır, enerji harcanmaksızın gerçekleşmez."
+      ]
+    },
+    {
+      "id": "w1q11",
+      "question": "Kas, tendon veya bağ dokusu yaralandığı zaman bölgede ne yırtılır?",
+      "options": ["Deri", "Doku", "Kan damarı", "Hücre zarı", "Sinir"],
+      "correctIndex": 2,
+      "explanation": "Metinde kas, tendon veya bağ dokusu yaralandığında bölgedeki kan damarlarının yırtıldığı, oluşan kanamanın çevre dokulara yayılarak şişliğe (ödeme) ve buna bağlı ağrı ile hassasiyete yol açtığı belirtilmektedir.",
+      "optionNotes": [
+        "Deri, yaralanmanın türüne göre etkilenebilir ancak metinde yaralanma sonrası yırtılan yapı olarak özellikle belirtilen yapı deri değildir.",
+        "Doku ifadesi çok genel bir terimdir; metinde yırtılan yapı özellikle \"kan damarı\" olarak belirtilmiştir.",
+        "Doğru yanıt: metinde kas/tendon/bağ dokusu yaralanmasında bölgedeki kan damarlarının yırtıldığı açıkça belirtilmiştir.",
+        "Hücre zarı, mikroskobik düzeyde bir yapıdır; metinde yaralanma sonucu yırtılan yapı olarak kan damarı belirtilmiştir, hücre zarı değildir.",
+        "Sinir, yaralanmalarda etkilenebilecek bir yapı olsa da metinde özellikle kan damarının yırtıldığı belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w1q12",
+      "question": "Erişkin insanlarda başın vücuda oranı yüzde kaçtır?",
+      "options": ["7", "13", "17", "21", "23"],
+      "correctIndex": 1,
+      "explanation": "Metinde başın vücuda oranının yenidoğanlarda yüksek (%24) olduğu, erişkin insanlarda ise bu oranın daha düşük olup %13 olduğu belirtilmektedir. Bu nedenle erişkinlerde başın vücuda oranı yüzde 13'tür.",
+      "optionNotes": [
+        "Yüzde 7, metinde belirtilen %13 değerinden farklı ve düşüktür.",
+        "Doğru yanıt: metinde erişkin insanlarda başın vücuda oranının %13 olduğu açıkça belirtilmiştir.",
+        "Yüzde 17, metinde iskelet sisteminin vücut ağırlığına oranı olarak geçen farklı bir değerdir, başın vücuda oranı değildir.",
+        "Yüzde 21, metinde belirtilen değerlerle örtüşmeyen bir rakamdır.",
+        "Yüzde 23, yenidoğanlardaki %24'lük orana yakın olsa da erişkin için metinde belirtilen doğru değer %13'tür."
+      ]
+    },
+    {
+      "id": "w1q13",
+      "question": "Belirli bir zaman diliminde oksijen kullanım seviyesi, ATP üretimi için gerekli oksijen miktarından düşük olma durumuna ne ad verilir?",
+      "options": ["Oksijen Yetersizliği", "Fosfojen Sistem", "Çekirdek", "Difüzyon", "Pasif Taşıma"],
+      "correctIndex": 0,
+      "explanation": "Metinde bu durum doğrudan \"Oksijen Yetersizliği: Belirli bir zaman diliminde oksijen kullanım seviyesinin, ATP üretimi için gerekli oksijen miktarından düşük olması\" şeklinde tanımlanmaktadır; bu durum egzersizin başlangıcında sıkça görülür ve enerji açığının anaerobik sistemlerle kapatılmasına yol açar.",
+      "optionNotes": [
+        "Doğru yanıt: metinde bu durum doğrudan \"Oksijen Yetersizliği\" olarak tanımlanmıştır.",
+        "Fosfojen Sistem, ATP-CP enerji sistemidir, oksijen kullanım seviyesi tanımıyla ilgili değildir.",
+        "Çekirdek, hücrenin genetik bilgiyi taşıyan organelidir, oksijen kullanım seviyesiyle ilgisi yoktur.",
+        "Difüzyon, moleküllerin pasif taşınma şeklidir, oksijen yetersizliği durumunu tanımlamaz.",
+        "Pasif Taşıma, enerji harcanmadan madde geçişini ifade eden genel bir terimdir, oksijen yetersizliği tanımıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w1q14",
+      "question": "Aşağıdakilerden hangisi Her Zaman (Müsabaka İçi ve Müsabaka Dışı) Kullanımı Yasaklı Olan Maddelerden biri değildir?",
+      "options": [
+        "Onaylanmamış Maddeler",
+        "Anabolik Maddeler",
+        "Hormon ve Metabolik Modülatörler",
+        "İdrar Söktürücüler",
+        "Beta bloke ediciler"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde her zaman (müsabaka içi ve müsabaka dışı) yasaklı madde grupları S0 (onaylanmamış maddeler), S1 (anabolik maddeler), S2 (peptid hormonlar), S3 (beta-2 agonistler), S4 (hormon ve metabolik modülatörler) ve S5 (idrar söktürücüler ve maskeleyici maddeler) olarak sayılmıştır. Beta bloke ediciler (P1) ise sadece bazı özel spor dallarında yasaklı maddeler grubunda yer alır, her zaman yasaklı değildir.",
+      "optionNotes": [
+        "Onaylanmamış maddeler (S0), metinde her zaman yasaklı madde grupları arasında sayılmıştır.",
+        "Anabolik maddeler (S1), metinde her zaman yasaklı madde grupları arasında yer alır.",
+        "Hormon ve metabolik modülatörler (S4), metinde her zaman yasaklı madde grupları arasında sayılmıştır.",
+        "İdrar söktürücüler (S5), metinde her zaman yasaklı madde ve maskeleyici maddeler grubunda sayılmıştır.",
+        "Doğru yanıt: beta bloke ediciler (P1), metinde sadece bazı özel spor dallarında yasaklı olarak belirtilmiştir, her zaman yasaklı değildir."
+      ]
+    },
+    {
+      "id": "w1q15",
+      "question": "TOTAPS’IN P Aşamasında aşağıdakilerden hangisi yapılır?",
+      "options": [
+        "Problemin ve ağrının nerede olduğu sorulur",
+        "Belirtilenden başka bir yaralanma var mı gözlenir",
+        "Nazikçe dokunularak ağrılı nokta belirlenir",
+        "Yaralanmış kısım nazik bir şekilde hareket ettirilir",
+        "Sporcunun yaralanan bölgeyi hareket ettirip ettiremediğine bakılır"
+      ],
+      "correctIndex": 3,
+      "explanation": "TOTAPS protokolü Talk (Konuş), Observe (Gözle), Touch (Dokun), Active Motion (Aktif Hareket), Passive Motion (Pasif Hareket) ve Skill Tests (Beceri Testleri) aşamalarından oluşur. P harfi \"Passive Motion\" aşamasını temsil eder; bu aşamada yaralanmış bölge, değerlendirmeyi yapan kişi tarafından nazikçe hareket ettirilerek ağrı derecesi belirlenir.",
+      "optionNotes": [
+        "Problemin ve ağrının nerede olduğunun sorulması, TOTAPS'ın \"Talk\" (Konuş) aşamasına aittir, P aşamasına değildir.",
+        "Başka bir yaralanma olup olmadığının gözlenmesi, \"Observe\" (Gözle) aşamasına aittir.",
+        "Nazikçe dokunularak ağrılı noktanın belirlenmesi, \"Touch\" (Dokun) aşamasına aittir.",
+        "Doğru yanıt: yaralanmış kısmın nazikçe hareket ettirilmesi, TOTAPS'ın \"Passive Motion\" (Pasif Hareket, P) aşamasının tanımıdır.",
+        "Sporcunun bölgeyi kendisinin hareket ettirip ettiremediğine bakılması, \"Active Motion\" (Aktif Hareket) aşamasına aittir, P aşamasına değildir."
+      ]
+    },
+    {
+      "id": "w1q16",
+      "question": "Asit – baz dengesi ve sıvı dengesini sağlayan mineral aşağıdakilerden hangisidir?",
+      "options": ["A. Klor", "Magnezyum", "Fosfor", "Kalsiyum", "Sülfür"],
+      "correctIndex": 0,
+      "explanation": "Metinde klorun sodyumla birlikte vücut sıvı ve asit-baz dengelerinin sağlanmasında görev aldığı, ayrıca sodyum, bikarbonat, potasyum ve klorun birlikte sıvı-elektrolit ve asit-baz dengesi ile kas kasılmasında rol oynadığı belirtilmektedir. Diğer seçeneklerdeki mineraller (magnezyum, fosfor, kalsiyum, sülfür) metinde farklı işlevlerle (kemik sağlığı, enerji metabolizması vb.) ilişkilendirilmiştir.",
+      "optionNotes": [
+        "Doğru yanıt: metinde klorun, sodyumla birlikte vücut sıvı ve asit-baz dengesinin sağlanmasında görevli olduğu açıkça belirtilmiştir.",
+        "Magnezyum, kas-sinir fonksiyonu ve enerji metabolizmasıyla ilişkilendirilir, asit-baz dengesinin birincil düzenleyicisi olarak tanımlanmaz.",
+        "Fosfor, kemik yapısı ve enerji metabolizmasında (ATP) görev alır, asit-baz dengesinin birincil düzenleyicisi değildir.",
+        "Kalsiyum, kemik sağlığı ve kas kasılmasıyla ilişkilendirilir, asit-baz dengesinin birincil düzenleyicisi olarak tanımlanmaz.",
+        "Sülfür, protein yapısında ve bazı metabolik süreçlerde rol alır, asit-baz dengesinin birincil düzenleyicisi olarak metinde geçmez."
+      ]
+    },
+    {
+      "id": "w1q17",
+      "question": "K vitaminin özelliklerinden biri aşağıdakilerden hangisidir?",
+      "options": ["Kan pıhtılaşmasına yardım", "Bağışıklık sistemi gelişimi", "Alyuvar yapımı", "Göz sağlığı", "Doku yapımı ve onarımı"],
+      "correctIndex": 0,
+      "explanation": "Metinde K vitamininin kan pıhtılaşması ve kemik metabolizmasında görev aldığı belirtilmektedir; bu nedenle kan pıhtılaşmasına yardım etmesi K vitamininin temel özelliklerinden biridir. Bağışıklık gelişimi, alyuvar yapımı, göz sağlığı ve doku onarımı ise sırasıyla farklı vitaminlerle (C, B12/demir, A, C/protein) ilişkilendirilen özelliklerdir.",
+      "optionNotes": [
+        "Doğru yanıt: metinde K vitamininin kan pıhtılaşmasına yardımcı olduğu açıkça belirtilmiştir.",
+        "Bağışıklık sistemi gelişimi daha çok A ve C vitaminleriyle ilişkilendirilir, K vitamininin öne çıkan özelliği değildir.",
+        "Alyuvar yapımı B12 ve demir ile ilişkilendirilir, K vitamininin temel özelliği değildir.",
+        "Göz sağlığı A vitamininin temel özelliklerinden biridir, K vitamini ile ilişkilendirilmez.",
+        "Doku yapımı ve onarımı daha çok protein ve C vitaminiyle ilişkilendirilir, K vitamininin öne çıkan özelliği değildir."
+      ]
+    },
+    {
+      "id": "w1q18",
+      "question": "Kas liflerinin demetler şeklinde paketlenmesine ne ad verilir?",
+      "options": ["Miyozin", "Aktin", "Fasikül", "Fibril", "Tendon"],
+      "correctIndex": 2,
+      "explanation": "Metinde kas liflerinin \"fasikül\" adı verilen demetler halinde paketlendiği belirtilmektedir; fasikülleri çevreleyen bağ doku zarı perimysium, tüm kası çevreleyen zar ise epimysium olarak adlandırılır. Miyozin ve aktin kasılma proteinlerini, fibril ise kas lifi içindeki daha küçük yapısal birimi tanımlar; demetlenme sürecini tanımlamazlar.",
+      "optionNotes": [
+        "Miyozin, sarkomer içindeki kalın filamentleri oluşturan kasılma proteinidir, demetlenmeyi tanımlamaz.",
+        "Aktin, sarkomer içindeki ince filamentleri oluşturan kasılma proteinidir, demetlenmeyi tanımlamaz.",
+        "Doğru yanıt: kas liflerinin demetler halinde paketlenmesine fasikül denir.",
+        "Fibril (myofibril), kas lifi içindeki daha küçük kasılma birimidir, lif demetlenmesini tanımlamaz.",
+        "Tendon, kası kemiğe bağlayan bağ doku yapısıdır, kas liflerinin demetlenmesiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w1q19",
+      "question": "Enzim metabolizması ve toksinlerden arınmaya yardımcı olan molibden minareli aşağıdaki gıdalardan hangisinde bulunur?",
+      "options": ["Mantar ve et", "Fasulye ve patates", "Peynir ve yumurta", "Maydanoz ve karnabahar", "Fındık ve balık"],
+      "correctIndex": 1,
+      "explanation": "Kaynak metindeki mikro mineral tablosunda molibdenin günlük ihtiyacının yaklaşık 50 mikrogram olduğu ve \"enerji üretimi, büyüme, steroid ve kan hücresi sentezi\" ile ilişkilendirildiği, bu satıra karşılık gelen besin kaynakları arasında ise bezelye, karaciğer, yoğurt, fasulye, süt ve patatesin sayıldığı görülmektedir. Not: kaynak PDF'ten metne çıkarım sırasında bu tablonun sütun hizalaması bozulmuş şekilde geldiğinden (mineral adları ile kaynak/görev sütunları birbirinden kaymış durumda), bu eşleştirme molibdenin bilinen günlük ihtiyaç miktarına (~50 mcg) ve işlevine (enzim kofaktörü/detoksifikasyon ile tutarlı bir tanıma) dayanılarak en olası şekilde çıkarılmıştır; bu nedenle bu sorudaki kesinlik diğer sorulara göre daha düşüktür.",
+      "optionNotes": [
+        "Mantar ve et, metindeki tabloda molibdene karşılık gelen satırda yer almaz; mantar ifadesi daha çok manganez kaynakları arasında geçmektedir.",
+        "Doğru yanıt (orta düzey güvenle): tablodaki ~50 mcg günlük ihtiyaç satırına karşılık gelen kaynaklar arasında \"fasulye\" ve \"patates\" açıkça sayılmaktadır.",
+        "Peynir ve yumurta, metinde flor ve demir gibi farklı minerallerin kaynakları arasında geçer, molibden satırıyla eşleşmemektedir.",
+        "Maydanoz ve karnabahar, metinde demirin kaynakları arasında geçen bir ifadedir (\"kırmızı kan hücrelerinin yapımı\" görevine bağlı satırda), molibden satırına ait değildir.",
+        "Fındık ve balık, metinde bakır ve selenyum gibi farklı minerallerin kaynakları arasında geçer, molibden satırıyla doğrudan eşleşmemektedir."
+      ]
+    },
+    {
+      "id": "w1q20",
+      "question": "En güncel ilk yardım metodu aşağıdakilerden hangisidir?",
+      "options": ["TARGET", "TOTAPS", "SOS", "TİTCK", "POLİCE"],
+      "correctIndex": 4,
+      "explanation": "Metinde kas-iskelet sistemi yaralanmalarında kullanılan en güncel ilk yardım yönteminin POLICE (Protection, Optimal Loading, Ice, Compression, Elevation) protokolü olduğu açıkça belirtilmektedir; bu protokol, eski RICE ve PRICE yöntemlerindeki \"dinlenme\" yaklaşımının yerine \"uygun yüklenme\" ilkesini getirmiştir.",
+      "optionNotes": [
+        "TARGET, metinde geçen bir ilk yardım protokolü kısaltması değildir.",
+        "TOTAPS, sahada sporcu değerlendirme protokolüdür; ön tedavi/ilk yardım yöntemi olan POLICE ile karıştırılmamalıdır.",
+        "SOS, bir yardım çağrısı sinyalidir, metinde tanımlı bir ilk yardım protokolü değildir.",
+        "TİTCK, Türkiye İlaç ve Tıbbi Cihaz Kurumu'nun kısaltmasıdır, bir ilk yardım protokolü değildir.",
+        "Doğru yanıt: metinde POLICE, kas-iskelet sistemi yaralanmalarında kullanılan en güncel ilk yardım yöntemi olarak tanımlanmıştır."
+      ]
+    }
+  ]
+}

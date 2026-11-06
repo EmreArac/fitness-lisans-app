@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w1q1",
+      "question": "Aşağıdakilerden hangisi genel olarak gruba karar alma ve işi uygun görüldüğü şekilde tamamlama özgürlüğü veren liderlik modelidir?",
+      "options": [
+        "Dönüşümcü Lider",
+        "Vizyoner Lider",
+        "Liberal Lider",
+        "Durumsal Lider",
+        "Karizmatik Lider"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 3'te liberal lider tam olarak bu şekilde tanımlanır: liberal lider, gruba karar alma ve işi tamamlama özgürlüğü verir; astlar kendi hedef ve planlarını kendileri belirler. Bu tanım sorudaki ifadeyle birebir örtüşür.",
+      "optionNotes": [
+        "Dönüşümcü lider, izleyenlerin özgüvenini ve potansiyelini artırarak vizyon değerlere ulaştırır; karar özgürlüğü vermekten çok rol model olup ilham vermekle tanımlanır.",
+        "Vizyoner lider, grubun hangi yöne gitmesi gerektiğini gösteren ve geleceği okuyan liderdir; karar alma özgürlüğü vermekle tanımlanmaz.",
+        "Doğru cevap: Liberal lider, metinde açıkça 'gruba karar alma ve işi tamamlama özgürlüğü veren' lider olarak tanımlanmıştır.",
+        "Durumsal lider, takipçilerinin gereksinimlerine göre davranışını ayarlayan liderdir; tanım bu değildir.",
+        "Karizmatik lider, izleyicileri sorgusuz sualsiz peşinden sürükleyen liderdir; karar özgürlüğü vermekle değil etkileme gücüyle tanımlanır."
+      ]
+    },
+    {
+      "id": "w1q2",
+      "question": "İdarenin hukuki nitelikli bir işlemde çok ağır sakatlık bulunması durumunda; bu işlemin sonucunun taraflar için alınması beklenen kararın aslında alınmamış yok hükmünde olması sonucunu doğuran yaptırım türüne ne ad verilir?",
+      "options": [
+        "İptal",
+        "Yokluk",
+        "Ceza",
+        "Hükümsüzlük",
+        "Tazminat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 5'te yokluk, idari bir işlemde çok ağır bir sakatlık bulunması durumunda işlemin hiç yapılmamış sayılması olarak tanımlanmıştır; sorudaki ifade bu tanımla birebir örtüşmektedir.",
+      "optionNotes": [
+        "İptal, hukuka aykırı bir işlemin dava yoluyla yapıldığı andan itibaren geçersiz kılınmasıdır; işlemin hiç var olmamış sayılması değil, dava sonucu ortadan kaldırılmasıdır.",
+        "Doğru cevap: Yokluk, çok ağır sakatlık içeren işlemin hiç alınmamış/yok hükmünde sayılması durumudur.",
+        "Ceza, kanunların suç saydığı fiillere uygulanan yaptırımdır; idari işlemin sakatlığıyla ilgili değildir.",
+        "Hükümsüzlük (geçersizlik), hukuka/ahlaka/kamu düzenine aykırı işlemlerin hüküm doğurmaması durumudur; yokluktan farklı olarak işlemin varlığını kabul edip hukuki sonuç bağlamaz, soruda tarif edilen 'yok hükmünde olma' ifadesi daha dar ve spesifik olarak yokluğa işaret eder.",
+        "Tazminat, hukuka aykırılık sonucu oluşan zararın giderilmesine yönelik bir yaptırımdır; işlemin yokluğuyla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w1q3",
+      "question": "Sporda halkla ilişkiler uygulamasında yaygın olarak kullanılan duyurum yöntemleri arasında yer almaz?",
+      "options": [
+        "Haber bültenleri",
+        "Basın toplantıları",
+        "Konuşmalar",
+        "Özel haberler",
+        "Reklamlar"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 4'te sporda halkla ilişkiler uygulamalarının çoğunlukla duyurum (publicity) olarak ele alındığı ve yaygın duyurum yöntemlerinin haber bültenleri, basın toplantıları, konuşmalar ve özel haberler olduğu belirtilir. Reklamlar bu dört yöntemin dışında kalır; ayrıca reklam genellikle ücretli ve doğrudan kontrol edilen bir iletişim biçimi olup duyurumdan (publicity) kavramsal olarak ayrılır.",
+      "optionNotes": [
+        "Haber bültenleri, metinde sayılan dört duyurum yönteminden biridir.",
+        "Basın toplantıları, metinde sayılan dört duyurum yönteminden biridir.",
+        "Konuşmalar, metinde sayılan dört duyurum yönteminden biridir.",
+        "Özel haberler, metinde sayılan dört duyurum yönteminden biridir.",
+        "Doğru cevap: Reklamlar, metinde sayılan duyurum yöntemleri listesinde yer almaz; duyurum ücretsiz ve dolaylı bir iletişim biçimiyken reklam ücretli ve doğrudan kontrol edilen bir araçtır."
+      ]
+    },
+    {
+      "id": "w1q4",
+      "question": "Aşağıdakilerden hangisi özel hukuk dalları arasında yer almaz?",
+      "options": [
+        "Medeni Hukuku",
+        "Borçlar Hukuku",
+        "Ticaret Hukuku",
+        "İdare Hukuku",
+        "Devletler Özel Hukuku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 5'te özel hukukun dalları arasında Medeni Hukuk, Borçlar Hukuku, Ticaret Hukuku ve Devletler Özel Hukuku sayılmıştır. İdare Hukuku ise kamu hukukunun bir dalı olarak belirtilmiştir; dolayısıyla özel hukuk dalları arasında yer almaz.",
+      "optionNotes": [
+        "Medeni Hukuk, metinde özel hukukun dallarından biri olarak sayılmıştır.",
+        "Borçlar Hukuku, metinde özel hukukun dallarından biri olarak sayılmıştır.",
+        "Ticaret Hukuku, metinde özel hukukun dallarından biri olarak sayılmıştır.",
+        "Doğru cevap: İdare Hukuku, metinde kamu hukukunun dalları arasında (Anayasa Hukuku, İdare Hukuku, Ceza Hukuku, Uluslararası Kamu Hukuku, Mali Hukuk) sayılmıştır, özel hukuk dalı değildir.",
+        "Devletler Özel Hukuku, metinde özel hukukun dallarından biri olarak sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q5",
+      "question": "Aşağıdakilerden hangisi Bürokratik yaklaşımın ilkelerinde biri değildir?",
+      "options": [
+        "Deneysel olması",
+        "İş bölümü",
+        "Hiyerarşik yapı",
+        "Standart geliştirme",
+        "Yeteneğe dayanan bir seçim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'in tam metninde 'Deneysel (ampirik) olması' açıkça Sistem Yaklaşımı'nın üç temel özelliğinden biri (analitik-kavramsal temele dayanması, deneysel/ampirik olması, bütünleştirici niteliği) olarak geçmektedir; Weber'in Bürokrasi Yaklaşımı ile ilgili değildir. Bürokrasi yaklaşımı ise metinde iş bölümü, hiyerarşik otorite/kademe zinciri, yazılı kural ve standartların geliştirilmesi, yeteneğe dayanan seçim ve terfi sistemiyle tanımlanır; bu nedenle 'deneysel olması' bürokratik ilkeler arasında yer almaz.",
+      "optionNotes": [
+        "Doğru cevap: Metinde 'deneysel (ampirik) olması' Sistem Yaklaşımı'nın özelliklerinden biri olarak geçer, Bürokrasi Yaklaşımı'nın bir ilkesi değildir.",
+        "İş bölümü, Weber'in bürokrasi tanımında 'aşırı bir iş bölümü' olarak doğrudan sayılan bir özelliktir.",
+        "Hiyerarşik yapı, bürokrasideki merkezileşmiş otorite ve kademe zinciri ile ilişkili, metinde sayılan bir özelliktir.",
+        "Standart geliştirme, bürokrasideki yazılı kural ve düzenlemelerin, önceden belirlenmiş standartlara göre işleyişin bir parçasıdır.",
+        "Yeteneğe dayanan bir seçim, metinde bürokratik yaklaşımın ilkeleri arasında doğrudan sayılan, terfi sistemiyle birlikte geçen bir özelliktir."
+      ]
+    },
+    {
+      "id": "w1q6",
+      "question": "Görev odaklı olup statüsünün getirmiş olduğu otoriteyi kullanarak kararları tek başına alan liderlik modeline ne ad verilir?",
+      "options": [
+        "Dönüşümcü Lider",
+        "Vizyoner Lider",
+        "Liberal Lider",
+        "Durumsal Lider",
+        "Otokratik liderlik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 3'te otokratik lider tam olarak bu şekilde tanımlanmıştır: 'Görev odaklı olan otokratik lider, statüsünün verdiği otoriteyi kullanarak kararları tek başına alır ve yetkisini kimseyle paylaşmaz.' Soru bu tanımı birebir aktarmaktadır.",
+      "optionNotes": [
+        "Dönüşümcü lider, değişime uyum sağlayan ve izleyenlerin potansiyelini artıran bir liderdir; kararları tek başına almakla tanımlanmaz.",
+        "Vizyoner lider, geleceği okuyan ve yön gösteren liderdir; statü otoritesiyle tek başına karar almakla tanımlanmaz.",
+        "Liberal lider, tam tersine gruba karar alma özgürlüğü verir; otoriteyi tek başına kullanmaz.",
+        "Durumsal lider, duruma göre davranışını ayarlayan liderdir; otoriter tek başına karar alma bu tarzın tanımı değildir.",
+        "Doğru cevap: Otokratik liderlik, metinde görev odaklılık ve statü otoritesiyle tek başına karar alma olarak tanımlanmıştır."
+      ]
+    },
+    {
+      "id": "w1q7",
+      "question": "İhtiyaçlar Hiyerarşisinin 3.Basamağında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Saygı görme",
+        "Fizyolojik ihtiyaç",
+        "Kendini gerçekleştirme",
+        "Bağlanma, aidiyet, sevme ve sevilme",
+        "Güvenlik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 2'de Maslow'un İhtiyaçlar Hiyerarşisi'nin üçüncü düzeyinde bağlanma, aidiyet, sevme ve sevilme ihtiyacı yer aldığı açıkça belirtilmiştir (örnek olarak bir sporcunun takımına ait olması verilir).",
+      "optionNotes": [
+        "Saygı görme ihtiyacı hiyerarşinin dördüncü düzeyindedir, üçüncü düzey değildir.",
+        "Fizyolojik ihtiyaç hiyerarşinin en temel (birinci) düzeyindedir.",
+        "Kendini gerçekleştirme ihtiyacı hiyerarşinin en üst (beşinci) düzeyindedir.",
+        "Doğru cevap: Bağlanma, aidiyet, sevme ve sevilme ihtiyacı metinde üçüncü düzey olarak belirtilmiştir.",
+        "Güvenlik ihtiyacı hiyerarşinin ikinci düzeyindedir, üçüncü düzey değildir."
+      ]
+    },
+    {
+      "id": "w1q8",
+      "question": "Aşağıdakilerden hangisi Spor Kulüplerinde Halkla İlişkilerin Faaliyet Alanları arasında yer almaz?",
+      "options": [
+        "Kulüpler arası iletişim",
+        "Kamusal ilişkiler",
+        "Danışmanlık",
+        "Metin yazımı",
+        "Ürün pazarlama"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 4'te Theaker'in sınıflandırmasının spor kulüplerine uyarlanmış hâlinde halkla ilişkilerin faaliyet alanları arasında kulüp içi/kulüpler arası iletişim, kamusal ilişkiler, danışmanlık, metin yazımı, lobicilik, sponsorluk gibi başlıklar sayılmıştır; 'ürün pazarlama' bu listede ayrı bir faaliyet alanı olarak yer almamaktadır, çünkü pazarlama halkla ilişkilerden ayrı bir işletme işlevi olarak ele alınmıştır.",
+      "optionNotes": [
+        "Kulüpler arası iletişim, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+        "Kamusal ilişkiler, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+        "Danışmanlık, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+        "Metin yazımı, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+        "Doğru cevap: Ürün pazarlama, metindeki halkla ilişkiler faaliyet alanları listesinde yer almaz; pazarlama ayrı bir işletme işlevi olarak ele alınmıştır."
+      ]
+    },
+    {
+      "id": "w1q9",
+      "question": "Aşağıdakilerden hangisi Basın Ajansı ve Tanıtım Modelinden biri değildir?",
+      "options": [
+        "Tanıtım",
+        "Bilgilendirme",
+        "Swot analizi",
+        "İki yönlü asimetrik iletişim",
+        "İki önlü simetrik iletişim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 4'ün tam metninde James Grunig'in halkla ilişkiler uygulamalarını 'Basın Ajansı ve Tanıtım Modeli' başlığı altında dört ayrı model olarak ele aldığı belirtilir: tanıtım, bilgilendirme, iki yönlü asimetrik iletişim ve iki yönlü simetrik iletişim. Swot analizi bu dört modelin arasında yer almaz; metinde SWOT analizi, Stratejik Yönetim Yaklaşımı'nın bir unsuru olarak (Ünite 1) geçer, halkla ilişkiler iletişim modeliyle ilgisi yoktur.",
+      "optionNotes": [
+        "Tanıtım, Grunig'in dört modelinden biri olarak metinde sayılmıştır.",
+        "Bilgilendirme, Grunig'in dört modelinden biri olarak metinde sayılmıştır.",
+        "Doğru cevap: Swot analizi, Grunig'in Basın Ajansı ve Tanıtım Modeli kapsamındaki dört model arasında yer almaz; stratejik yönetimle ilişkili ayrı bir analiz aracıdır.",
+        "İki yönlü asimetrik iletişim, Grunig'in dört modelinden biri olarak metinde sayılmıştır.",
+        "İki yönlü simetrik iletişim, Grunig'in dört modelinden biri olarak metinde sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q10",
+      "question": "Spor hukuku, hangi hukuk kapsamında yer alır?",
+      "options": [
+        "Anayasa Hukuku",
+        "Karma Hukuk",
+        "Medeni Hukuku",
+        "İş Hukuku",
+        "Özel Hukuk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 5'te spor hukukunun 'hem kamu hukukundan hem özel hukuktan beslenen' bir karma hukuk yapısına örnek olduğu açıkça belirtilmiştir; bu nedenle spor hukuku karma hukuk kapsamında yer alır.",
+      "optionNotes": [
+        "Anayasa Hukuku, kamu hukukunun bir dalıdır; spor hukukunun doğrudan kapsamında olduğu hukuk türü değildir.",
+        "Doğru cevap: Metinde spor hukuku açıkça karma hukuk yapısına örnek olarak gösterilmiştir.",
+        "Medeni Hukuk, özel hukukun bir dalıdır; spor hukukunun tek başına ait olduğu kategori değildir.",
+        "İş Hukuku, metinde ayrı bir karma hukuk dalı olarak sayılır; spor hukukunun ait olduğu genel kategori değildir.",
+        "Özel Hukuk, spor hukukunun beslendiği kaynaklardan sadece biridir; spor hukuku yalnızca özel hukuka ait değildir, karma hukuktur."
+      ]
+    },
+    {
+      "id": "w1q11",
+      "question": "Kendi çıkarları doğrultusunda herhangi bir konuda yasama kademelerini etkilemek ve ikna etmek için yapılan girişimleri yürütmeye ne ad verilir?",
+      "options": [
+        "Lobicilik",
+        "Etkinlik yönetimi",
+        "Kulüp içi iletişim",
+        "Danışmanlık",
+        "Sponsorluk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 4'te spor kulüplerinde halkla ilişkilerin faaliyet alanları arasında sayılan lobicilik, kendi çıkarları doğrultusunda yasama kademelerini etkilemek ve ikna etmek için yapılan girişimleri yürütme olarak tanımlanır; bu tanım klasik lobicilik tanımıyla örtüşmektedir.",
+      "optionNotes": [
+        "Doğru cevap: Lobicilik, kendi çıkarları için yasama kademelerini etkileme ve ikna etme girişimlerini ifade eder.",
+        "Etkinlik yönetimi, fuar, seminer, kongre gibi organizasyonların yönetimiyle ilgilidir, yasama kademelerini etkilemekle ilgili değildir.",
+        "Kulüp içi iletişim, sporcularla görüşmeler ve maç öncesi toplantılarla ilgilidir, yasama ile ilgisizdir.",
+        "Danışmanlık, kurumlara öneri ve yol gösterme faaliyetidir, yasama kademelerini etkileme tanımına uymaz.",
+        "Sponsorluk, finansal destek ilişkileriyle ilgilidir, yasama kademelerini etkileme ve ikna tanımına uymaz."
+      ]
+    },
+    {
+      "id": "w1q12",
+      "question": "Bir liderin kendini başkasının yerine koyabilme yeteneğine ne ad verilir?",
+      "options": [
+        "Şahsi bütünlük",
+        "Disiplin",
+        "Empati",
+        "Problem çözme",
+        "İletişim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 3'te empati, 'kendini başkasının yerine koyabilme yeteneği' olarak tanımlanmıştır; soru bu tanımı birebir aktarmaktadır.",
+      "optionNotes": [
+        "Şahsi bütünlük, liderin söz ve davranışlarında tutarlı olmasını ifade eder, başkasının yerine koyabilmekle ilgili değildir.",
+        "Disiplin, kendini bir işe başlamaya zorlama ve düzenli yaşam alışkanlığıdır, empatiyle ilgili değildir.",
+        "Doğru cevap: Empati, metinde açıkça 'kendini başkasının yerine koyabilme yeteneği' olarak tanımlanmıştır.",
+        "Problem çözme, liderin sorunları önceden görüp çözüm üretme becerisidir, başkasının yerine koyabilmekle ilgili değildir.",
+        "İletişim, etkili ve ikna edici mesaj iletme becerisidir; empatiden farklı bir özelliktir."
+      ]
+    },
+    {
+      "id": "w1q13",
+      "question": "Aşağıdakilerden hangisi işletmelerin ar-ge ve yenilik çalışmalarına büyük önem vermelerinin temel nedenlerinden biri değildir?",
+      "options": [
+        "Satış ile ilgili nedenler",
+        "Pazarla ilgili nedenler",
+        "Örgütsel nedenler",
+        "Sosyal nedenler",
+        "Personelle ilgili nedenler"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 2'nin tam metninde (Barutçugil, 1982) işletmelerin ar-ge ve yenilik çalışmalarına önem vermelerinin temel nedenleri dört grupta toplanmıştır: pazarla ilgili nedenler, örgütsel nedenler, sosyal nedenler ve personelle ilgili nedenler. 'Satış ile ilgili nedenler' bu dört grup arasında yer almamaktadır.",
+      "optionNotes": [
+        "Doğru cevap: Satış ile ilgili nedenler, metinde sayılan dört temel neden grubu arasında yer almaz.",
+        "Pazarla ilgili nedenler (pazarda önde gitmek, rakiplere karşı yeni ürün geliştirmek), metinde sayılan dört temel nedenden biridir.",
+        "Örgütsel nedenler (endüstride yenilikçi isim yapmak), metinde sayılan dört temel nedenden biridir.",
+        "Sosyal nedenler (değişiklik bekleyen tüketiciyi tatmin etmek), metinde sayılan dört temel nedenden biridir.",
+        "Personelle ilgili nedenler (yetenekli araştırmacıları çekebilmek), metinde sayılan dört temel nedenden biridir."
+      ]
+    },
+    {
+      "id": "w1q14",
+      "question": "Bir toplum içinde kişilerin uymak zorunda oldukları davranış biçimleri ve kuralları olarak tanımlanan kavrama ne ad verilir?",
+      "options": [
+        "Ahlak Kuralları",
+        "Görgü Kuralları",
+        "Din Kuralları",
+        "Hukuk Kuralları",
+        "Töre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 5'te ahlak kuralları, 'bir toplumda kişilerin uymak zorunda olduğu davranış biçimleri' olarak tanımlanmıştır; soru bu tanımı birebir aktarmaktadır.",
+      "optionNotes": [
+        "Doğru cevap: Ahlak kuralları, metinde tam olarak bu şekilde tanımlanmıştır.",
+        "Görgü kuralları, toplumun gelenek ve görenek kurallarından doğan, ihlalinde kınama/ayıplama ile sonuçlanan davranış kalıplarıdır; tanım bu değildir.",
+        "Din kuralları, inanç sistemlerine dayanan davranış normlarıdır; sorudaki genel toplumsal davranış tanımı ahlaka aittir.",
+        "Hukuk kuralları, devlet otoritesi tarafından konulan ve cebir gücüyle desteklenen kurallardır; sorudaki tanımda devlet otoritesi veya cebir gücünden bahsedilmez.",
+        "Töre, metinde ayrı ve tanımlanmış bir kavram olarak geçmemektedir; bu seçenek metindeki ahlak kuralları tanımına karşılık gelmez."
+      ]
+    },
+    {
+      "id": "w1q15",
+      "question": "Aşağıdakilerden hangisi Yönetimde Mükemmellik Yaklaşımı başarı ölçütlerinden biri değildir?",
+      "options": [
+        "Temel işletme değerlerine önem verme",
+        "Gevşek ve sıkı kontrolü ayrı ayrı yürütme",
+        "En iyi bilinen faaliyet alanında büyüme",
+        "Müşterilerle sürekli ilişki kurma",
+        "Alt kademe girişimciliğini teşvik etme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'in tam metninde Tom Peters ve Robert Waterman'ın Yönetimde Mükemmellik Yaklaşımı'nın 8. ortak özelliği 'gevşek ve sıkı kontrolü BİR ARADA yürütme' (sıkı konularda kontrolü elden bırakmama, ancak diğer konularda yöneticilere serbesti tanıma) olarak belirtilmiştir. Soruda geçen 'ayrı ayrı yürütme' ifadesi bu ilkenin tam tersidir; ilke kontrolün eş zamanlı/bir arada uygulanmasını öngörür, ayrı ayrı yürütülmesini değil.",
+      "optionNotes": [
+        "Temel işletme değerlerine önem verme, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır.",
+        "Doğru cevap: Metinde bu ilke 'gevşek ve sıkı kontrolü bir arada yürütme' şeklindedir; 'ayrı ayrı yürütme' ifadesi metindeki ilkeyle çelişir ve hatalıdır.",
+        "En iyi bilinen faaliyet alanında büyüme, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır.",
+        "Müşterilerle sürekli ilişki kurma, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır.",
+        "Alt kademe girişimciliğini teşvik etme, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q16",
+      "question": "Aşağıdakilerden hangisi Sosyal medya araçlarından biri değildir?",
+      "options": [
+        "Bloglar",
+        "Video Paylaşım",
+        "Web sayfaları",
+        "Fotoğraf Paylaşım Siteleri",
+        "Sosyal siteler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 4'te Sabuncuoğlu'nun (2013) sınıflamasına göre sosyal medya araçları; sosyal siteler (Facebook, Twitter), fotoğraf paylaşım siteleri, video paylaşım siteleri (Youtube), profesyonel ağlar ve bloglardan oluşur. Web sayfaları ise ayrı bir kategori olan 'görsel ve işitsel araçlar' (radyo, televizyon, film, internet, rozetler, web sayfaları) başlığı altında sayılmıştır, sosyal medya araçları arasında değildir.",
+      "optionNotes": [
+        "Bloglar, metinde sosyal medya araçları arasında doğrudan sayılmıştır.",
+        "Video Paylaşım (Youtube gibi), metinde sosyal medya araçları arasında doğrudan sayılmıştır.",
+        "Doğru cevap: Web sayfaları, metinde 'görsel ve işitsel araçlar' kategorisinde yer alır, sosyal medya araçları listesinde değildir.",
+        "Fotoğraf Paylaşım Siteleri (Flickr gibi), metinde sosyal medya araçları arasında doğrudan sayılmıştır.",
+        "Sosyal siteler (Facebook, Twitter, Instagram gibi), metinde sosyal medya araçları arasında doğrudan sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q17",
+      "question": "İhtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik birtakım insan faaliyetlerine ne ad verilir?",
+      "options": [
+        "Üretim",
+        "Satın alma",
+        "Personel",
+        "Pazarlama",
+        "Muhasebe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 2'de pazarlama tam olarak bu şekilde tanımlanmıştır: 'ihtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik birtakım insan faaliyetleri'. Soru bu tanımı birebir aktarmaktadır.",
+      "optionNotes": [
+        "Üretim, 'insanların ihtiyaçlarını karşılayan bir değerin elde edilmesi' olarak tanımlanır; değişim yoluyla tatmin tanımı pazarlamaya aittir.",
+        "Satın alma, üretimde kullanılacak hammadde ve malzemenin temin edilmesiyle ilgilidir, bu tanıma uymaz.",
+        "Personel, insan kaynağının sağlanması ve çalıştırılmasıyla ilgilidir, bu tanıma uymaz.",
+        "Doğru cevap: Pazarlama, metindeki tanımla birebir örtüşmektedir.",
+        "Muhasebe, mali kayıt ve raporlama işlevidir, ihtiyaç tatmini tanımıyla ilgisizdir."
+      ]
+    },
+    {
+      "id": "w1q18",
+      "question": "Aşağıdakilerden hangisi müeyyide türlerinden biri değildir?",
+      "options": [
+        "Tazminat",
+        "Ceza",
+        "Yokluk",
+        "İptal",
+        "Caydırıcılık"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 5'te hukukta altı temel yaptırım (müeyyide) türü sayılmıştır: cebri icra, tazminat, geçersizlik (hükümsüzlük), ceza, yokluk ve iptal. Caydırıcılık ise bir yaptırım türü değil, yaptırımların doğurduğu iki etkiden biridir (düzeltici etki ve caydırıcı etki); dolayısıyla müeyyide türleri arasında sayılmaz.",
+      "optionNotes": [
+        "Tazminat, metinde sayılan altı yaptırım türünden biridir.",
+        "Ceza, metinde sayılan altı yaptırım türünden biridir.",
+        "Yokluk, metinde sayılan altı yaptırım türünden biridir.",
+        "İptal, metinde sayılan altı yaptırım türünden biridir.",
+        "Doğru cevap: Caydırıcılık, metinde bir yaptırım türü değil, yaptırımların doğurduğu etkilerden biri (caydırıcı etki) olarak geçmektedir."
+      ]
+    },
+    {
+      "id": "w1q19",
+      "question": "Aşağıdakilerden hangisi ‘’Dinlemeyi Etkileyen Faktörlerden’’ biri değildir?",
+      "options": [
+        "Fizyolojik faktörler",
+        "Sosyal Faktörler",
+        "Konu faktörü",
+        "Psikolojik faktörler",
+        "Ekonomik faktörler"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 4'te Çiftçi'ye (2001) göre dinlemeyi etkileyen faktörler yedi başlık altında sayılmıştır: fizyolojik faktörler, fiziki faktörler, psikolojik faktörler, zihinsel faktörler, sosyal faktörler, öğretmen/antrenör (konuşmacı) faktörü ve konu faktörü. Ekonomik faktörler bu yedi başlık arasında yer almamaktadır.",
+      "optionNotes": [
+        "Fizyolojik faktörler (işitme kaybı gibi), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+        "Sosyal Faktörler (ortama yabancı olmak), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+        "Konu faktörü (konuya ilgi duymamak), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+        "Psikolojik faktörler (ruh hali, stres, kaygı), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+        "Doğru cevap: Ekonomik faktörler, metindeki Çiftçi'nin (2001) yedi faktörlük sınıflamasında yer almaz."
+      ]
+    },
+    {
+      "id": "w1q20",
+      "question": "Aşağıdakilerden hangisi kamu sektöründeki stratejik yönetim uygulamasındaki zorluklardan biri değildir?",
+      "options": [
+        "Maliyetlerin müşterilerden karşılanması",
+        "Siyasi baskılara maruz kalması",
+        "Koyu bir bürokrasinin olması",
+        "Başarısının hizmet kalitesi olması",
+        "Hizmet için var olması"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'in tam metninde kamu sektörü ile özel sektör arasındaki stratejik yönetim farklılıkları anlatılırken, özel sektörde sunulan mal ve hizmetin maliyetini müşterilerin karşıladığı, kamusal hizmetlerden yararlananların ise her zaman bu maliyete doğrudan katlanmadığı (dolaylı bir ilişki olduğu) belirtilir. Dolayısıyla 'maliyetlerin müşterilerden karşılanması' kamu sektörünün bir özelliği/zorluğu değil, tam tersine ÖZEL sektörün ayırt edici bir özelliğidir; kamu sektöründeki asıl zorluk maliyetlerin müşterilerden doğrudan karşılanamamasıdır.",
+      "optionNotes": [
+        "Doğru cevap: Metne göre maliyetlerin müşterilerden karşılanması özel sektöre ait bir durumdur; kamu sektöründe hizmetten yararlananlar maliyete doğrudan katlanmayabilir, bu nedenle bu ifade kamu sektörünün zorluğu olarak doğru değildir.",
+        "Siyasi baskılara maruz kalması, metinde kamu sektörünün özel sektörden ayrılan ve stratejik yönetimi zorlaştıran bir özelliği olarak belirtilmiştir.",
+        "Koyu bir bürokrasinin olması, metinde kamu sektöründe stratejik yönetimi zorlaştıran bir farklılık olarak belirtilmiştir.",
+        "Başarısının hizmet kalitesi olması, metinde kamu sektörünün kâr amacı gütmeyip başarısının hizmeti ne derece iyi yerine getirdiğiyle ölçüldüğü belirtilerek ifade edilmiştir.",
+        "Hizmet için var olması, metinde 'kâr amacı olmayan kamu sektörü hizmet için vardır' şeklinde doğrudan belirtilmiştir."
+      ]
+    }
+  ]
+}

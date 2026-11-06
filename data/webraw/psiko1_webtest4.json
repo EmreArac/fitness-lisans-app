@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "id": "w4q1",
+      "question": "Büyük bir meydanda eğitilmiş atlar üzerinde çevgan denen eğri başlı sopayla ______ oynanır. Cümlede boş bırakılan yere hangisi doğru olarak tamamlar.",
+      "options": ["Güreş", "Okçuluk", "Guy", "Cirit", "Kılıç oyunu"],
+      "correctIndex": 2,
+      "explanation": "Çevgan, Orta Asya ve İslam kültüründe atlı olarak oynanan, eğri başlı bir değnekle (çevgan) topa vurularak oynanan bir oyundur; bu oyunda kullanılan tahta top 'guy' (gu) adıyla anılır ve oyun bu adla da bilinir. Bu nedenle cümledeki boşluğa 'Guy' gelmelidir. Bu soru, ders ünitelerinin özet ve tam metinlerinde doğrudan işlenmeyen, Türk spor tarihine ait özel bir bilgiye dayanmaktadır; cevap genel tarihsel bilgiye göre belirlenmiştir.",
+      "optionNotes": [
+        "Güreş: Çevgan ile ilişkili değildir; güreş atsız ve değneksiz, karşılıklı bedensel mücadeleye dayalı ayrı bir spordur.",
+        "Okçuluk: Ok ve yayla yapılan bir faaliyettir, eğri başlı sopa (çevgan) ile vurma eylemiyle ilgisi yoktur.",
+        "Guy: Doğru; çevganla vurulan topun adı 'guy' olup oyun bu adla da anılır, cümledeki boşluğu bu kelime tamamlar.",
+        "Cirit: Atlı olarak oynansa da elde tutulan bir mızrak/sopanın fırlatılmasıyla oynanır, çevgan sopasıyla topa vurma eylemiyle ilgisi yoktur.",
+        "Kılıç oyunu: Kesici bir silahla yapılan dövüş/talim oyunudur, çevganla topa vurmakla ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w4q2",
+      "question": "Profesyonel sporcularda aşağıdakilerden hangisinin yüksek olması fair play’e yönelik davranışların artmasına neden olur?",
+      "options": ["Saldırganlık düzeyi", "Kazanma hırsı", "Ahlaki gelişim / spor etiği bilinci", "Rekabet baskısı", "Maddi beklenti"],
+      "correctIndex": 2,
+      "explanation": "Fair play'in gelişmesinde sporcunun ahlaki gelişim düzeyi ve spor etiği bilinci belirleyicidir; bu bilinç ne kadar yüksekse kurallara saygı, rakibe saygı ve dürüst mücadele davranışları da o kadar artar. Diğer seçenekler (saldırganlık, kazanma hırsı, rekabet baskısı, maddi beklenti) ise fair play'i zayıflatan, kural ihlali eğilimini artıran etmenlerdir.",
+      "optionNotes": [
+        "Saldırganlık düzeyi: Yüksek saldırganlık fair play'i güçlendirmez, aksine kural ihlallerini ve rakibe zarar verme eğilimini artırır.",
+        "Kazanma hırsı: Aşırı kazanma hırsı 'ne pahasına olursa olsun kazanma' anlayışına yol açarak fair play'i zayıflatır.",
+        "Ahlaki gelişim / spor etiği bilinci: Doğru; ahlaki gelişim ve etik bilinç arttıkça kurallara, rakibe ve hakemlere saygı gibi fair play davranışları da artar.",
+        "Rekabet baskısı: Yüksek rekabet baskısı sporcuları kural dışı yollara (doping, hile) itebileceğinden fair play'i olumsuz etkiler.",
+        "Maddi beklenti: Yüksek maddi beklenti şike ve haksız avantaj arayışını körükleyebileceğinden fair play'i zayıflatan bir etmendir."
+      ]
+    },
+    {
+      "id": "w4q3",
+      "question": "Orta Sibirya Göktürk kabileleri buzda kaymak için aşağıdakilerden hangisini kullanmıştır?",
+      "options": ["Ahşap kayak", "Hayvan kemikleri (kemik paten)", "Deri sandalet", "Demir nal", "Taş levhalar"],
+      "correctIndex": 1,
+      "explanation": "Tarihsel kaynaklara göre Orta Sibirya'daki Göktürk kabileleri buzda kaymak amacıyla hayvan kemiklerinden yapılmış ilkel patenler kullanmıştır; bu, bilinen en eski buz kayağı uygulamalarından biri olarak kabul edilir. Bu bilgi ders ünitelerindeki özet ve tam metinlerde doğrudan yer almadığından, genel spor tarihi bilgisine dayanılarak belirlenmiştir.",
+      "optionNotes": [
+        "Ahşap kayak: Tarihsel kayıtlarda Göktürk kabilelerinin buzda kaymak için kullandığı malzeme olarak ahşap değil hayvan kemikleri geçer.",
+        "Hayvan kemikleri (kemik paten): Doğru; Göktürk kabilelerinin buzda kaymak için hayvan kemiklerinden yapılmış ilkel patenler kullandığı bilinmektedir.",
+        "Deri sandalet: Deri sandalet buzda kaymaya uygun bir malzeme değildir ve bu amaçla kullanıldığına dair bir bilgi yoktur.",
+        "Demir nal: Demir nal atların ayaklarına takılan bir malzemedir, insanın buzda kaymasıyla ilgisi yoktur.",
+        "Taş levhalar: Taş levhalar kayma işlevi için uygun ve pratik bir malzeme değildir, bu bağlamda kullanıldığına dair bilgi yoktur."
+      ]
+    },
+    {
+      "id": "w4q4",
+      "question": "Hitap ettiği alanın çok geniş olması sebebiyle sporun yayılmasına aşağıdakilerden hangisinin payı büyüktür?",
+      "options": ["Kitle iletişim araçları (medya)", "Bireysel antrenmanlar", "Spor tesislerinin azlığı", "Okul etkinlikleri", "Yerel kulüpler"],
+      "correctIndex": 0,
+      "explanation": "Sporun hitap ettiği alanın (kitlesinin) çok geniş olması ve dolayısıyla hızla yayılması, kitle iletişim araçlarının (medyanın) sporu geniş kitlelere ulaştırmasıyla doğrudan ilişkilidir. Metinde de 'sporun geniş kitlelere ulaşmasında aracılık eden medya' ifadesiyle bu rol açıkça belirtilmiştir.",
+      "optionNotes": [
+        "Kitle iletişim araçları (medya): Doğru; medya, sporun coğrafi ve toplumsal olarak çok geniş bir kitleye ulaşmasını sağlayan temel araçtır.",
+        "Bireysel antrenmanlar: Bireysel antrenmanlar sporun yaygınlaşmasını değil, bireysel performans gelişimini ifade eder, geniş kitlelere ulaşmayla ilgisi yoktur.",
+        "Spor tesislerinin azlığı: Tesislerin azlığı sporun yayılmasını kolaylaştırıcı değil kısıtlayıcı bir unsurdur.",
+        "Okul etkinlikleri: Okul etkinlikleri önemli bir sosyalleşme ajanı olsa da medya kadar geniş ve hızlı bir yayılma gücüne sahip değildir.",
+        "Yerel kulüpler: Yerel kulüpler sınırlı bir coğrafi alana hitap eder, sporun geniş kitlelere yayılmasında medya kadar etkili değildir."
+      ]
+    },
+    {
+      "id": "w4q5",
+      "question": "Orta Asya’da ayakların raket olarak kullanıldığı oyuna ne ad verilir?",
+      "options": ["Cirit", "Tepük", "Çevgan", "Güreş", "Matrak"],
+      "correctIndex": 1,
+      "explanation": "Orta Asya Türk kültüründe 'Tepük', ayağın bir raket gibi kullanılarak topun tekmelenmesi esasına dayanan, futbolun ilk biçimlerinden sayılan geleneksel bir oyundur. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel Türk spor tarihi bilgisine dayanılarak belirlenmiştir.",
+      "optionNotes": [
+        "Cirit: Cirit, atlı olarak elde tutulan bir sopanın/mızrağın rakibe fırlatılmasına dayanan bir oyundur, ayağın raket olarak kullanılmasıyla ilgisi yoktur.",
+        "Tepük: Doğru; tepük oyununda ayak, topu tekmelemek için bir raket gibi kullanılır, bu nedenle doğru cevap budur.",
+        "Çevgan: Çevgan, atlı olarak elde tutulan eğri başlı bir sopayla oynanan bir oyundur, ayakla ilgili değildir.",
+        "Güreş: Güreş, ayakta veya yerde bedensel mücadeleye dayanan bir spordur, ayağın raket olarak kullanılmasıyla ilgisi yoktur.",
+        "Matrak: Matrak, tahta kılıçlarla yapılan bir dövüş/talim oyunudur, ayağın raket olarak kullanılmasıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w4q6",
+      "question": "Aşağıdakilerden hangisi antrenörlerin sözel iletişimde dikkat etmesi gerekenlerden biridir?",
+      "options": ["Karmaşık ve uzun cümleler kullanmak", "Sporcuları eleştirel ve kırıcı konuşmak", "Sürekli bağırarak konuşmak", "Geri bildirim vermemek", "Açık, anlaşılır ve motive edici bir dil kullanmak"],
+      "correctIndex": 4,
+      "explanation": "Antrenörlerin sözel iletişimde dikkat etmesi gereken temel ilkelerden biri, açık, anlaşılır, tutarlı ve motive edici bir dil kullanmaktır; bu, Martens'in verimli mesaj gönderme ilkeleriyle de örtüşür. Diğer seçenekler ise iletişimi bozan, sporcuyu olumsuz etkileyen hatalı iletişim biçimlerini tanımlar.",
+      "optionNotes": [
+        "Karmaşık ve uzun cümleler kullanmak: Mesajın açık ve anlaşılır olması gerektiği ilkesine aykırıdır, iletişimi zorlaştırır.",
+        "Sporcuları eleştirel ve kırıcı konuşmak: Etkili iletişim ilkelerine aykırıdır; kişisel eleştiriden kaçınmak gerektiği vurgulanır.",
+        "Sürekli bağırarak konuşmak: Bu, duygusal istismar niteliğinde olabilecek olumsuz bir iletişim biçimidir, dikkat edilmesi gereken olumlu bir davranış değildir.",
+        "Geri bildirim vermemek: Verimli iletişimde alıcıdan geri bildirim alınması ve geri bildirim verilmesi gerektiği vurgulanır; geri bildirim vermemek bu ilkeye aykırıdır.",
+        "Açık, anlaşılır ve motive edici bir dil kullanmak: Doğru; bu, antrenörlerin sözel iletişiminde dikkat etmesi gereken temel ve olumlu bir ilkedir."
+      ]
+    },
+    {
+      "id": "w4q7",
+      "question": "Bireyin doğuştan getirdiği özellikleri ile çevreyle etkileşim sonucu edindiği özelliklerin bütününe ______ denir?",
+      "options": ["Kişilik", "Karakter", "Mizaç", "Yetenek", "Davranış"],
+      "correctIndex": 0,
+      "explanation": "Kişilik, bireyin doğuştan getirdiği (kalıtımsal/mizaç kaynaklı) özellikleriyle çevreyle etkileşimi sonucunda edindiği (karakter kaynaklı) özelliklerin bütününü ifade eden kapsayıcı bir kavramdır. Bu soru ders ünitelerinin özet ve tam metinlerinde doğrudan yer almayan, genel psikoloji bilgisine dayanan klasik bir tanımdır.",
+      "optionNotes": [
+        "Kişilik: Doğru; kişilik, doğuştan gelen özellikler (mizaç) ile çevre etkileşimiyle kazanılan özelliklerin (karakter) bütününü ifade eden en kapsayıcı kavramdır.",
+        "Karakter: Karakter, kişiliğin sadece çevreyle etkileşim sonucu edinilen, ahlaki değerlerle ilişkili boyutunu ifade eder; doğuştan gelen özellikleri kapsamaz.",
+        "Mizaç: Mizaç, kişiliğin yalnızca doğuştan gelen, kalıtımsal boyutunu ifade eder; çevre etkileşimiyle kazanılan özellikleri kapsamaz.",
+        "Yetenek: Yetenek, belirli bir alanda başarılı olabilme potansiyelini ifade eder, kişiliğin bütününü tanımlamaz.",
+        "Davranış: Davranış, kişiliğin dışa yansıyan somut eylemlerini ifade eder, doğuştan ve edinilmiş özelliklerin bütününü kapsayan bir kavram değildir."
+      ]
+    },
+    {
+      "id": "w4q8",
+      "question": "Aşağıdakilerden hangisi stres ve kaygı durumunda oluşan fizyolojik belirtilerdendir?",
+      "options": ["Terleme", "Sinirlilik", "Dikkat dağınıklığı", "Kararsızlık", "Motivasyon düşüklüğü"],
+      "correctIndex": 0,
+      "explanation": "Stres ve kaygı durumunda ortaya çıkan belirtiler fizyolojik, bilişsel, duyuşsal ve davranışsal olmak üzere farklı kategorilere ayrılır. Terleme, kalp atışının hızlanması gibi bedensel tepkilerle birlikte ortaya çıkan doğrudan bir fizyolojik belirtidir; diğer seçenekler ise bilişsel veya duyuşsal/davranışsal belirtilerdir.",
+      "optionNotes": [
+        "Terleme: Doğru; terleme, stres ve kaygı anında vücudun verdiği doğrudan bedensel (fizyolojik) bir tepkidir.",
+        "Sinirlilik: Sinirlilik duygusal/davranışsal bir belirtidir, bedensel bir fizyolojik tepki değildir.",
+        "Dikkat dağınıklığı: Dikkat dağınıklığı bilişsel bir belirtidir, fizyolojik bir tepki olarak sınıflandırılmaz.",
+        "Kararsızlık: Kararsızlık da bilişsel/davranışsal bir belirtidir, bedensel bir fizyolojik tepki değildir.",
+        "Motivasyon düşüklüğü: Motivasyon düşüklüğü psikolojik bir sonuçtur, doğrudan fizyolojik bir belirti değildir."
+      ]
+    },
+    {
+      "id": "w4q9",
+      "question": "Rakibe, hakemlere, takım arkadaşlarına ve kurallara saygının ön planda tutularak dürüst ve adil oynamaya ne ad verilir?",
+      "options": ["Rekabet", "Disiplin", "Performans", "Motivasyon", "Fair Play"],
+      "correctIndex": 4,
+      "explanation": "Rakibe, hakemlere, takım arkadaşlarına ve kurallara saygının ön planda tutulduğu, dürüst ve adil oynama anlayışına 'Fair Play' adı verilir; bu kavram sporda erdemlik olarak da Türkçeye çevrilmiştir.",
+      "optionNotes": [
+        "Rekabet: Rekabet, yarışma ortamını ifade eder ama dürüstlük ve saygı ilkesini doğrudan tanımlamaz.",
+        "Disiplin: Disiplin, kurallara uyma alışkanlığını ifade eder ama rakibe/hakemlere saygıyı kapsayan bütüncül bir kavram değildir.",
+        "Performans: Performans, sporcunun yarışmadaki başarı düzeyini ifade eder, ahlaki bir davranış kavramı değildir.",
+        "Motivasyon: Motivasyon, çabanın yönü ve şiddetini ifade eder, dürüst ve adil oynamayla ilgili bir kavram değildir.",
+        "Fair Play: Doğru; tanımda belirtilen, rakibe, hakemlere, takım arkadaşlarına ve kurallara saygıya dayalı dürüst ve adil oynama anlayışı doğrudan Fair Play'i tanımlar."
+      ]
+    },
+    {
+      "id": "w4q10",
+      "question": "Bir milletin kendine has olarak meydana getirdiği maddi ve manevi yapıların, o toplumun iç dünyasında görünür olmasına ______ denir.",
+      "options": ["Gelenek", "Medeniyet", "Toplumsallaşma", "Kültür", "Kimlik"],
+      "correctIndex": 3,
+      "explanation": "Bir milletin kendine özgü olarak ürettiği maddi ve manevi değerlerin, o toplumun iç dünyasında (düşünce, değer ve inanç dünyasında) görünür olmasına Kültür denir; bu, milletler arasında ortak ve evrensel olan 'medeniyet' kavramından farklı olarak millete özgü, içe dönük bir kavramdır. Metinde de kültür 'toplumun düşünce, değer yargı ve inançları bütünü' olarak tanımlanmıştır.",
+      "optionNotes": [
+        "Gelenek: Gelenek, kültürün bir parçası olan belirli alışkanlık ve uygulamaları ifade eder, kültürün bütününü kapsayan bir kavram değildir.",
+        "Medeniyet: Medeniyet, genellikle milletler arasında ortak ve evrensel olan maddi/teknik gelişmişlik düzeyini ifade eder; sorudaki 'millete özgü, iç dünyada görünür olma' tanımı kültüre aittir.",
+        "Toplumsallaşma: Toplumsallaşma, bireyin toplumun kültürünü öğrenme sürecidir, kültürün kendisini tanımlamaz.",
+        "Kültür: Doğru; tanımda belirtilen, bir milletin kendine özgü maddi ve manevi değerlerinin iç dünyada görünür olması kültürü ifade eder.",
+        "Kimlik: Kimlik, bireyin veya grubun kendini tanımladığı özellikler bütünüdür, sorudaki tanımla birebir örtüşmez."
+      ]
+    },
+    {
+      "id": "w4q11",
+      "question": "Türkiye’nin ilk çok sporlu ve çok kulüplü örgütsel yapısı aşağıdakilerden hangisidir?",
+      "options": ["Gençlik ve Spor Genel Müdürlüğü", "Türkiye Millî Olimpiyat Komitesi", "Türkiye Futbol Federasyonu", "Türkiye İdman Cemiyetleri İttifakı", "Beden Terbiyesi Genel Müdürlüğü"],
+      "correctIndex": 3,
+      "explanation": "Türkiye'nin ilk çok sporlu ve çok kulüplü örgütsel yapısı Türkiye İdman Cemiyetleri İttifakı'dır (TİCİ); bu yapı farklı spor branşlarından çok sayıda kulübü bir çatı altında toplayan ilk kurumsal örgütlenme olarak kabul edilir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel Türk spor tarihi bilgisine dayanılarak belirlenmiştir.",
+      "optionNotes": [
+        "Gençlik ve Spor Genel Müdürlüğü: Bu kurum, TİCİ'den sonraki dönemlerde kurulan ve gelişen bir devlet kurumudur, Türkiye'nin ilk çok sporlu/çok kulüplü örgütü değildir.",
+        "Türkiye Millî Olimpiyat Komitesi: TMOK, olimpik faaliyetlerle ilgilenen ayrı bir kurumdur, ilk çok sporlu kulüpler ittifakı değildir.",
+        "Türkiye Futbol Federasyonu: TFF, sadece futbol branşına özgü bir federasyondur, çok sporlu bir yapı değildir.",
+        "Türkiye İdman Cemiyetleri İttifakı: Doğru; Türkiye'nin ilk çok sporlu ve çok kulüplü örgütsel yapısı olarak kabul edilir.",
+        "Beden Terbiyesi Genel Müdürlüğü: Bu kurum da TİCİ'den sonraki bir döneme ait devlet kurumudur, ilk örgütsel yapı değildir."
+      ]
+    },
+    {
+      "id": "w4q12",
+      "question": "Aşağıdakilerden hangisi spora katılımda etkili olan kişisel faktörlerden biri değildir?",
+      "options": ["Yaş", "Cinsiyet", "Sağlık durumu", "İlgi ve motivasyon", "Spor tesislerinin sayısı"],
+      "correctIndex": 4,
+      "explanation": "Spora katılımda etkili olan kişisel faktörler bireyin kendisine ait özellikleri (yaş, cinsiyet, sağlık durumu, ilgi ve motivasyon gibi) kapsar. Spor tesislerinin sayısı ise bireyin kişisel bir özelliği değil, çevresel/yapısal bir faktördür; bu nedenle kişisel faktörler arasında sayılmaz.",
+      "optionNotes": [
+        "Yaş: Yaş, bireyin spora katılımını etkileyen temel kişisel faktörlerden biridir.",
+        "Cinsiyet: Cinsiyet de spora katılımı etkileyen kişisel faktörler arasında sayılır.",
+        "Sağlık durumu: Sağlık durumu, bireyin spor yapıp yapamayacağını belirleyen doğrudan kişisel bir faktördür.",
+        "İlgi ve motivasyon: İlgi ve motivasyon, bireyin spora yönelme isteğini belirleyen kişisel bir faktördür.",
+        "Spor tesislerinin sayısı: Doğru; bu, bireyin kişisel bir özelliği değil, çevresel/yapısal bir faktördür, kişisel faktörler arasında sayılmaz."
+      ]
+    },
+    {
+      "id": "w4q13",
+      "question": "Freud’a göre ahlak gelişimi, çocuğun kişiliğinde __________ gelişmesiyle elde edilmektedir.",
+      "options": ["İd", "Ego", "Süperego", "Benlik saygısı", "Mizaç"],
+      "correctIndex": 2,
+      "explanation": "Freud'un psikanalitik kuramına göre ahlak gelişimi, çocuğun kişiliğinde süperego (üst benlik) adı verilen yapının gelişmesiyle gerçekleşir; süperego, toplumsal kuralları, değerleri ve vicdanı temsil eden kişilik bileşenidir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel psikoloji bilgisine dayanılarak belirlenmiştir.",
+      "optionNotes": [
+        "İd: İd, kişiliğin içgüdüsel ve hazcı dürtülerini temsil eden ilkel bölümüdür, ahlaki gelişimle ilişkili değildir.",
+        "Ego: Ego, id ile süperego arasında gerçekçi bir denge kuran kişilik bölümüdür, doğrudan ahlak gelişimini temsil etmez.",
+        "Süperego: Doğru; Freud'a göre ahlaki değerler ve vicdan, süperegonun gelişimiyle kişiliğe kazandırılır.",
+        "Benlik saygısı: Benlik saygısı, bireyin kendine verdiği değeri ifade eder, Freud'un ahlak gelişimi kuramındaki bir yapı değildir.",
+        "Mizaç: Mizaç, doğuştan gelen davranış eğilimlerini ifade eder, Freud'un ahlak gelişimi açıklamasıyla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w4q14",
+      "question": "I: Taraflılık II: Sorumluluk III: Laiklik IV: Adalet hangisi yada hangileri evrensel mesleki etik ilkelerindendir?",
+      "options": ["Yalnız I", "I ve III", "II ve IV", "II ve III", "I, II ve IV"],
+      "correctIndex": 2,
+      "explanation": "Evrensel mesleki etik ilkeleri arasında genellikle sorumluluk, adalet, dürüstlük ve tarafsızlık gibi ilkeler sayılır. 'Taraflılık' (yanlı davranma) bu ilkelerin tam tersi olduğundan bir etik ilke sayılamaz; 'Laiklik' de mesleki etik ilkeleri arasında sayılan bir kavram değildir. Bu nedenle listedeki maddelerden yalnızca Sorumluluk (II) ve Adalet (IV) evrensel mesleki etik ilkesi olarak kabul edilebilir.",
+      "optionNotes": [
+        "Yalnız I: Taraflılık bir etik ilke değil, tarafsızlığın karşıtı olan olumsuz bir davranıştır; bu nedenle bu seçenek yanlıştır.",
+        "I ve III: Taraflılık ve laiklik ikisi de evrensel mesleki etik ilkeleri arasında sayılmaz, bu nedenle bu seçenek yanlıştır.",
+        "II ve IV: Doğru; sorumluluk ve adalet, mesleki etik literatüründe evrensel kabul gören temel ilkelerdendir.",
+        "II ve III: Sorumluluk bir etik ilkedir ancak laiklik mesleki etik ilkeleri arasında sayılmadığından bu seçenek yanlıştır.",
+        "I, II ve IV: Taraflılığın bir etik ilke olmaması nedeniyle bu seçenek de yanlıştır."
+      ]
+    },
+    {
+      "id": "w4q15",
+      "question": "Maddi veya manevi çıkar karşılığı anlaşma ile maçın sonucunu değiştirmeye ne denir?",
+      "options": ["Şike", "Rekabet", "Fair play", "Sponsorluk", "Transfer"],
+      "correctIndex": 0,
+      "explanation": "Maddi veya manevi bir çıkar karşılığında anlaşarak bir müsabakanın sonucunu önceden belirlemeye veya değiştirmeye 'Şike' adı verilir; bu davranış fair play anlayışına ve sporun dürüstlük ilkesine doğrudan aykırıdır.",
+      "optionNotes": [
+        "Şike: Doğru; tanımda belirtilen, çıkar karşılığı maçın sonucunu değiştirme eylemi doğrudan şikeyi ifade eder.",
+        "Rekabet: Rekabet, yarışma ortamının doğal bir unsuru olup sonucu çıkar karşılığı değiştirmeyi ifade etmez.",
+        "Fair play: Fair play, dürüst ve adil oynamayı ifade eder, tam tersine şikeyle çelişen bir kavramdır.",
+        "Sponsorluk: Sponsorluk, bir kuruluşun sporcuya/takıma maddi destek sağlamasıdır, maç sonucunu değiştirmekle ilgili değildir.",
+        "Transfer: Transfer, bir sporcunun kulüp değiştirmesidir, maç sonucunu değiştirme eylemiyle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w4q16",
+      "question": "Spor bilinci yaklaşımına göre David Riesman’a göre aşağıdaki spor dallarından hangisi alt sınıflara mensup olanlar tarafından daha çok yapılmaktadır?",
+      "options": ["Golf", "Tenis", "Yelken", "Boks", "Binicilik"],
+      "correctIndex": 3,
+      "explanation": "David Riesman'ın spor bilinci/sınıf yaklaşımına göre golf, tenis, yelken ve binicilik gibi branşlar genellikle üst/orta sınıfa mensup kişiler tarafından yapılırken, boks gibi fiziksel çatışmaya dayalı ve düşük maliyetli branşlar daha çok alt sınıfa mensup kişiler tarafından tercih edilmektedir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel spor sosyolojisi bilgisine dayanılarak belirlenmiştir.",
+      "optionNotes": [
+        "Golf: Golf, yüksek maliyetli ekipman ve tesis gerektirmesi nedeniyle genellikle üst sınıfla ilişkilendirilen bir spordur.",
+        "Tenis: Tenis de geleneksel olarak orta/üst sınıfa mensup kişiler tarafından daha çok yapılan bir spor olarak değerlendirilir.",
+        "Yelken: Yelken, maliyetli ekipman gerektirmesi nedeniyle üst sınıfla ilişkilendirilen bir spor dalıdır.",
+        "Boks: Doğru; Riesman'ın yaklaşımına göre boks, düşük maliyeti ve fiziksel mücadele temelli yapısı nedeniyle alt sınıflara mensup kişiler tarafından daha çok yapılan bir spordur.",
+        "Binicilik: Binicilik, at sahibi olma ve bakım maliyeti nedeniyle genellikle üst sınıfla ilişkilendirilen bir spordur."
+      ]
+    },
+    {
+      "id": "w4q17",
+      "question": "Kişilik özelliklerinin ahlaki değerler ile özdeşleşmesine ne ad verilir?",
+      "options": ["Sosyalleşme", "Motivasyon", "Yetenek", "Tutum", "Karakter"],
+      "correctIndex": 4,
+      "explanation": "Kişilik özelliklerinin ahlaki değerlerle özdeşleşmesine, yani bireyin kişilik özelliklerinin dürüstlük, adalet gibi ahlaki değerlerle bütünleşmesine 'Karakter' adı verilir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel psikoloji/ahlak gelişimi bilgisine dayanılarak belirlenmiştir.",
+      "optionNotes": [
+        "Sosyalleşme: Sosyalleşme, bireyin toplumun kültürünü öğrenme sürecidir, kişilik-ahlak özdeşleşmesini doğrudan tanımlamaz.",
+        "Motivasyon: Motivasyon, çabanın yönü ve şiddetini ifade eder, ahlaki değerlerle özdeşleşmeyi tanımlamaz.",
+        "Yetenek: Yetenek, belirli bir alanda başarı gösterme potansiyelidir, ahlaki değerlerle ilişkili bir kavram değildir.",
+        "Tutum: Tutum, bir nesne veya duruma karşı geliştirilen değerlendirici eğilimdir, kişilik-ahlak bütünleşmesini tam olarak tanımlamaz.",
+        "Karakter: Doğru; karakter, kişilik özelliklerinin ahlaki değerlerle özdeşleşmesi, bütünleşmesi olarak tanımlanır."
+      ]
+    },
+    {
+      "id": "w4q18",
+      "question": "Aşağıdakilerden hangisi ideal bir antrenörde bulunması gereken özelliklerden biri değildir?",
+      "options": ["İletişim becerisi yüksek olmak", "Adil ve sabırlı olmak", "Bilgi ve deneyime sahip olmak", "Sporculara karşı ilgisiz olmak", "Motive edici olmak"],
+      "correctIndex": 3,
+      "explanation": "İdeal bir antrenörde iletişim becerisi, adillik, sabır, bilgi/deneyim ve motive edicilik gibi olumlu özelliklerin bulunması beklenir. Sporculara karşı ilgisiz olmak ise bu özelliklerin tam tersidir ve etkili antrenörlüğün gerektirdiği ilgi ve desteğe aykırıdır; bu nedenle ideal bir antrenör özelliği değildir.",
+      "optionNotes": [
+        "İletişim becerisi yüksek olmak: Bu, ideal bir antrenörde bulunması gereken temel özelliklerden biridir.",
+        "Adil ve sabırlı olmak: Adillik ve sabır da ideal antrenörlük için gerekli olumlu özellikler arasında sayılır.",
+        "Bilgi ve deneyime sahip olmak: Bilgi ve deneyim, antrenörün mesleki yeterliliğini gösteren önemli bir özelliktir.",
+        "Sporculara karşı ilgisiz olmak: Doğru; bu, ideal antrenörlüğün gerektirdiği ilgi ve desteğe aykırıdır, dolayısıyla istenmeyen bir özelliktir.",
+        "Motive edici olmak: Motive edicilik, sporcunun performansını ve bağlılığını artıran, ideal antrenörde bulunması gereken bir özelliktir."
+      ]
+    },
+    {
+      "id": "w4q19",
+      "question": "Sporu modernliğin özgün bir fenomeni olarak nitelendiren sosyolog aşağıdakilerden hangisidir?",
+      "options": ["Karl Marx", "Max Weber", "Allen Guttmann", "Emile Durkheim", "Pierre Bourdieu"],
+      "correctIndex": 2,
+      "explanation": "Sosyolog Allen Guttmann, sporu modernliğin özgün bir fenomeni olarak nitelendirmiş ve modern sporun ayırt edici özelliklerini laiklik, fırsat eşitliği, özelleşme/uzmanlaşma, rasyonelleşme, bürokratikleşme, sayısallaştırma ve rekor arayışı olarak detaylandırmıştır. Bu bilgi, Spor Tarihi ünitesinin tam metninde doğrudan Allen Guttmann'a atfedilmiştir.",
+      "optionNotes": [
+        "Karl Marx: Marx, sınıf ve üretim ilişkileri üzerine çalışmış bir düşünürdür, sporu modernliğin özgün fenomeni olarak nitelendiren kişi değildir.",
+        "Max Weber: Weber, rasyonelleşme kavramıyla ilişkilendirilse de metinde sporu modernliğin fenomeni olarak niteleyen kişi olarak Guttmann belirtilmiştir.",
+        "Allen Guttmann: Doğru; metinde modern sporun karakteristik özelliklerini detaylandıran ve sporu modernliğin özgün bir fenomeni olarak nitelendiren sosyolog olarak Allen Guttmann belirtilmiştir.",
+        "Emile Durkheim: Durkheim, toplumsal işlevselcilik ve kolektif bilinç kavramlarıyla anılan bir sosyologdur, bu bağlamda anılmaz.",
+        "Pierre Bourdieu: Bourdieu, Habitus kavramıyla spor sosyolojisinde anılır, sporu modernliğin fenomeni olarak niteleyen kişi olarak metinde geçmez."
+      ]
+    },
+    {
+      "id": "w4q20",
+      "question": "Aşağıdakilerden hangisi dikey hareketliliğe örnek olarak verilebilir?",
+      "options": ["Aynı meslekte şehir değiştirmek", "Aynı gelir düzeyinde iş değiştirmek", "Aynı statüde görev yapmak", "Daha düşük gelirli bir işten yüksek gelirli bir işe geçmek", "Aynı pozisyonda kulüp değiştirmek"],
+      "correctIndex": 3,
+      "explanation": "Dikey hareketlilik, bireyin pozisyon, gelir, statü ve yaşam tarzında önemli değişiklikler yaratan bir toplumsal hareketliliği ifade eder. Daha düşük gelirli bir işten yüksek gelirli bir işe geçmek, gelir ve statüde belirgin bir yükselme anlamına geldiğinden dikey hareketliliğin tipik bir örneğidir; metinde de amatör bir sporcunun profesyonel bir kulübe transfer olması buna örnek verilmiştir.",
+      "optionNotes": [
+        "Aynı meslekte şehir değiştirmek: Bu, statü ve gelirde önemli bir değişiklik yaratmadığından yatay hareketliliğe örnektir.",
+        "Aynı gelir düzeyinde iş değiştirmek: Gelir düzeyinde bir değişiklik olmadığından bu da yatay hareketliliğe örnektir.",
+        "Aynı statüde görev yapmak: Statüde bir değişiklik olmadığından bu durum hareketlilik örneği değildir, statik bir durumu ifade eder.",
+        "Daha düşük gelirli bir işten yüksek gelirli bir işe geçmek: Doğru; gelir ve statüde önemli bir yükselme içerdiğinden dikey hareketliliğin tipik bir örneğidir.",
+        "Aynı pozisyonda kulüp değiştirmek: Pozisyon ve statüde bir değişiklik olmadığından bu durum da yatay hareketliliğe örnektir."
+      ]
+    }
+  ]
+}

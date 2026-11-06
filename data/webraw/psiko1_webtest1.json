@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "id": "w1q1",
+      "question": "Çocuğa bakmakla yükümlü kişilerin, çocuğun; beslenme, barınma, eğitim, korunma, sevilme gibi temel fiziksel ve duygusal gereksinimlerini karşılamaması durumuna ne ad verilir?",
+      "options": ["Duygusal İstismar", "Cinsel İstismar", "İhmal", "Fiziksel İstismar", "Güvenli Spor"],
+      "correctIndex": 2,
+      "explanation": "Ünite 5 metninde ihmal, 'çocuğa bakmakla yükümlü kişilerin beslenme, giyim, tıbbi, sosyal ve duygusal gereksinimler gibi yükümlülüklerini yerine getirmemesi' olarak tanımlanır; sorudaki beslenme, barınma, eğitim, korunma, sevilme gibi temel ihtiyaçların karşılanmaması tanımı doğrudan ihmale karşılık gelir. DSÖ'nün belirlediği 4 temel istismar türünden biri olan ihmal, diğer istismar türlerinden farklı olarak bir eylemde bulunmamayı, yani sorumluluğun yerine getirilmemesini ifade eder.",
+      "optionNotes": [
+        "Yanlış - duygusal istismar, çocuğun psikolojik/ruhsal gelişimine zarar veren davranışları (aşağılama, küçümseme) ifade eder; temel fiziksel gereksinimlerin karşılanmaması değildir.",
+        "Yanlış - cinsel istismar, çocuğun cinsel amaçlarla kullanılmasıdır; beslenme/barınma gibi temel ihtiyaçların karşılanmamasıyla ilgili değildir.",
+        "Doğru - ihmal, tam olarak çocuğa bakmakla yükümlü kişilerin temel fiziksel ve duygusal gereksinimleri karşılamamasıdır.",
+        "Yanlış - fiziksel istismar, yumruklama/tekmeleme gibi kasıtlı/istenmeyen bedensel zarar verme eylemlerini ifade eder; burada bir eylemsizlik değil aktif bir davranış söz konusudur.",
+        "Yanlış - güvenli spor, istismar ve ihmale karşı alınan önlemler sistemidir; istismar türü değildir."
+      ]
+    },
+    {
+      "id": "w1q2",
+      "question": "Bir sporcunun rakibine yardım etmek uğruna kendi performansını tehlikeye attığı fair play jestlerine/davranışlarına verilen ödül aşağıdakilerden hangisidir?",
+      "options": ["Willi Daume Dünya Fair Play Ödülü", "Pierre de Coubertin Dünya Fair Play Büyük Ödülü", "Jean Borotra Dünya Fair Play Ödülü", "Kutlama Mektubu", "Şeref Diploması"],
+      "correctIndex": 1,
+      "explanation": "CIFP'nin verdiği Dünya Fair Play Ödülleri davranış, kariyer ve tanıtım dallarında üç ayrı ödülle (Pierre de Coubertin, Jean Borotra, Willi Daume) somutlaşır. Metinde 'davranış dalında, yazılı (formal) oyun kurallarının gerektirmediği bir fair play davranışına' verilen ödülün Pierre de Coubertin Dünya Fair Play Büyük Ödülü olduğu belirtilir ve örnek olarak 1964 Innsbruck'ta rakiplerine kızak vidası vererek kendi performansını riske atan İtalyan kızakçı Eugenio Monti gösterilir; bu da soruda tarif edilen jestle birebir örtüşür.",
+      "optionNotes": [
+        "Yanlış - Willi Daume Ödülü tanıtım dalında, fair play ilkelerinin tanıtımına/yaygınlaştırılmasına katkı sağlayan kişi ve kuruluşlara verilir; tek bir davranış jesti için değildir.",
+        "Doğru - Pierre de Coubertin Ödülü, davranış dalında verilen ve tam olarak Eugenio Monti örneğindeki gibi rakibe yardım için kendi performansını riske atma türü jestleri ödüllendiren kategoridir.",
+        "Yanlış - Jean Borotra Ödülü kariyer dalında, sporcunun kariyeri boyunca sportmence tutumuna verilir; tek bir anlık davranış için değildir.",
+        "Yanlış - 'Kutlama Mektubu' metinde CIFP'nin üç ödül kategorisi arasında yer almaz, bu isim metinde geçmemektedir.",
+        "Yanlış - Şeref Diploması, TMOK Fair Play Konseyi'nin Türkiye'de verdiği ulusal bir ödüldür, CIFP'nin dünya ödülleri arasında değildir."
+      ]
+    },
+    {
+      "id": "w1q3",
+      "question": "Aşağıdakilerden hangisi hak temelli yaklaşım özelliklerinden biri değildir?",
+      "options": ["Hesap verilebilirlik", "Ayrımcılık gözetme", "Katılım", "Çocuğun yüksek yararı", "Çocuklar ve hakları üzerinde belirgin bir odaklanma"],
+      "correctIndex": 1,
+      "explanation": "Metinde hak temelli yaklaşımın özellikleri; çocuklar ve hakları üzerinde belirgin bir odaklanma, ayrımcılık gözetmeme, hesap verilebilirlik, katılım ve çocuğun yüksek yararı olarak sayılmıştır. 'Ayrımcılık gözetme' (yani ayrımcılık yapma) bu yaklaşımın tam tersidir; hak temelli yaklaşım ayrımcılık gözetmemeyi, yani eşit muameleyi esas alır, bu nedenle bu seçenek özellikler arasında yer almaz.",
+      "optionNotes": [
+        "Yanlış - hesap verilebilirlik, metinde hak temelli yaklaşımın özelliklerinden biri olarak doğrudan sayılmıştır.",
+        "Doğru - metindeki gerçek özellik 'ayrımcılık gözetmeme'dir; 'ayrımcılık gözetme' bunun tam tersi olup özellikler listesinde yer almaz.",
+        "Yanlış - katılım, metinde hak temelli yaklaşımın özelliklerinden biri olarak belirtilmiştir.",
+        "Yanlış - çocuğun yüksek yararı, metinde hak temelli yaklaşımın özellikleri arasında sayılmıştır.",
+        "Yanlış - çocuklar ve hakları üzerinde belirgin bir odaklanma, metinde hak temelli yaklaşımın ilk özelliği olarak sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q4",
+      "question": "Materyalist tarih anlayışına göre belirli bir hareket formunun veya kombinasyonunun, uygulama öncesi bilinçli olarak tasarlanmış bir amaç doğrultusunda tekrarlanmasına ne ad verilir?",
+      "options": ["Sportif egzersiz", "Dans", "Büyüsel ayin", "Mızrak atma", "Neolitik Çağ"],
+      "correctIndex": 0,
+      "explanation": "Metinde materyalist tarih anlayışına göre sportif egzersiz, 'belirli bir hareket formunun veya kombinasyonunun, uygulama öncesi bilinçli olarak tasarlanmış bir amaç doğrultusunda tekrarlanması' olarak tanımlanır; bu tanım doğrudan metinde bu şekilde yer almaktadır ve soruda verilen ifade bu kavramın birebir tanımıdır.",
+      "optionNotes": [
+        "Doğru - metinde bu tanım doğrudan 'sportif egzersiz' kavramına atfedilmiştir.",
+        "Yanlış - dans, İdealist tarih görüşüne göre ilk sportif hareketlerin kaynağı sayılır, materyalist görüşün tanımladığı kavram değildir.",
+        "Yanlış - büyüsel-ayinsel danslar İdealist görüşün savunduğu, zihnin yaratıcı zenginliğinden kaynaklanan hareketlerdir, materyalist tanımla ilgili değildir.",
+        "Yanlış - mızrak atma, materyalist görüşe göre bu tanıma uyan bir örnek faaliyettir, ancak sorudaki tanımın kendisinin adı değildir.",
+        "Yanlış - Neolitik Çağ bir dönem adıdır, hareketin tekrarlanmasını ifade eden bir kavram değildir."
+      ]
+    },
+    {
+      "id": "w1q5",
+      "question": "Çocukların korunmasına ilişkin ilk uluslararası metin aşağıdakilerden hangisidir?",
+      "options": ["Lanzarote Sözleşmesi", "Cenevre bildirgesi", "Unicef", "Unesco", "Avrupa Konseyi"],
+      "correctIndex": 1,
+      "explanation": "Metinde açıkça 'çocukların korunmasına ilişkin ilk uluslararası metin, 26 Eylül 1924'te kabul edilen Cenevre Bildirgesi'dir' denilmektedir; bu beş maddelik bildirgeyi Gazi Mustafa Kemal Atatürk da imzalamıştır. Diğer seçenekler ya daha sonraki tarihli belgeler/sözleşmelerdir ya da bir kuruluş adıdır, 'ilk metin' tanımına uymazlar.",
+      "optionNotes": [
+        "Yanlış - Lanzarote Sözleşmesi 2007'de imzaya açılmıştır, Cenevre Bildirgesi'nden (1924) çok sonraki bir belgedir.",
+        "Doğru - Cenevre Bildirgesi, metinde çocukların korunmasına ilişkin ilk uluslararası metin olarak açıkça belirtilmiştir.",
+        "Yanlış - UNICEF bir sözleşme veya bildirge değil, çocuk koruma alanında çalışan bir Birleşmiş Milletler kuruluşudur.",
+        "Yanlış - UNESCO da bir sözleşme değil, eğitim/bilim/kültür alanında çalışan bir BM kuruluşudur.",
+        "Yanlış - Avrupa Konseyi bir sözleşme değil, çeşitli sözleşmeler hazırlayan bölgesel bir uluslararası örgüttür."
+      ]
+    },
+    {
+      "id": "w1q6",
+      "question": "Olimpiyat Oyunlarının oyun çelengi aşağıdakilerden hangisidir?",
+      "options": ["Defne yaprağı", "Çam dalı", "Kereviz yaprağı", "Zeytin dalı", "Ayçiceği"],
+      "correctIndex": 3,
+      "explanation": "Spor tarihi metninde Zeus adına Olimpiya'da düzenlenen Olimpiyat Oyunları'nın ödül çelenginin zeytin dalından yapıldığı açıkça belirtilir; bu, diğer Panhelenik oyunların kendine özgü çelenklerinden (Pythia'da defne, İsthmia'da çam, Nemea'da kereviz) ayrılan, özellikle Olimpiyat Oyunları'na özgü bir simgedir.",
+      "optionNotes": [
+        "Yanlış - defne yaprağı, Delphi'de Apollon adına düzenlenen Pythia Oyunları'nın ödül çelengidir, Olimpiyat Oyunları'nınki değildir.",
+        "Yanlış - çam dalı, Korinth'te Poseidon adına düzenlenen İsthmia Oyunları'nın ödül çelengidir.",
+        "Yanlış - kereviz yaprağı, Nemea'da Zeus adına düzenlenen Nemea Oyunları'nın ödül çelengidir, Olimpiyat Oyunları'nınki değildir.",
+        "Doğru - zeytin dalı, Olimpiya'da Zeus mabedinde düzenlenen Olimpiyat Oyunları'nın ödül çelengidir.",
+        "Yanlış - ayçiçeği, antik oyunların hiçbirinin ödül çelengiyle ilişkilendirilmeyen, tarihsel kaynaklarda geçmeyen bir seçenektir."
+      ]
+    },
+    {
+      "id": "w1q7",
+      "question": "Başlayış ve bitiş süresi ile yeri kesin olarak belirlenemeyen, süreç içinde ortaya çıkan gelişmeye ne ad verilir?",
+      "options": ["Toplumsal Olgu", "Toplumsal Olay", "Toplumsal Rol", "Toplumsal Statü", "Toplumsal hareketlilik"],
+      "correctIndex": 0,
+      "explanation": "Metinde 'toplumsal olgu... başlangıç-bitiş süresi ve yeri kesin olarak belirlenemeyen, süreç içinde ortaya çıkan daha genel bir gelişmedir' şeklinde tanımlanmıştır; soru bu tanımı birebir vermektedir. Toplumsal olay ise tersine başlangıç ve bitiş noktası belli, somut ve tekil bir durumu (örneğin belirli bir futbol karşılaşması) ifade eder.",
+      "optionNotes": [
+        "Doğru - metindeki tanım, toplumsal olgu kavramına birebir uymaktadır.",
+        "Yanlış - toplumsal olay, başlangıç ve bitiş noktası belli, somut ve tekil bir olaydır; sorudaki belirsizlik tanımına ters düşer.",
+        "Yanlış - toplumsal rol, bir sosyal mevkie özgü eylem ve davranışları yerine getirmeyi ifade eder, zaman/yer belirsizliğiyle ilgili değildir.",
+        "Yanlış - toplumsal statü, bireyin toplumsal hiyerarşideki konumu ve bu konuma yüklenen saygınlığı ifade eder.",
+        "Yanlış - toplumsal hareketlilik, bireylerin fiziksel/toplumsal statüler arasındaki geçişini ifade eder, süreç içinde ortaya çıkan belirsiz bir gelişme tanımına uymaz."
+      ]
+    },
+    {
+      "id": "w1q8",
+      "question": "Aşağıdakilerden hangisi Antik Olimpiyat oyunlarının temel branşlarından değildir?",
+      "options": ["Boks", "Güreş", "Dans", "Koşu", "Pentatlon"],
+      "correctIndex": 2,
+      "explanation": "Metinde Antik Olimpiyat disiplinleri sırasıyla koşular, güreş, boks, pankrasyon, pentatlon ve atlı yarışlar olarak sayılmıştır. Dans bu temel branşlar arasında yer almaz; dans kavramı metinde sporun kökeniyle ilgili İdealist tarih görüşünde büyüsel-ayinsel bir hareket biçimi olarak geçer, antik olimpiyat programının bir branşı değildir.",
+      "optionNotes": [
+        "Yanlış - boks (pygme), MÖ 688'den itibaren antik olimpiyat programına giren temel branşlardan biridir.",
+        "Yanlış - güreş (pale), MÖ 708'den itibaren antik olimpiyat programına giren, rakibi üç kez yere düşürmeyi esas alan temel bir branştır.",
+        "Doğru - dans, antik olimpiyat oyunlarının branşları arasında metinde hiç sayılmaz; bu nedenle doğru cevap budur.",
+        "Yanlış - koşu (stadium koşusu), MÖ 776'dan itibaren antik olimpiyat programına giren ilk ve temel branştır.",
+        "Yanlış - pentatlon, disk atma, uzun atlama, cirit atma, koşu ve güreşten oluşan, MÖ 708'den itibaren uygulanan temel bir olimpiyat branşıdır."
+      ]
+    },
+    {
+      "id": "w1q9",
+      "question": "Aşağıdakilerden hangisi Tarihin ilk sporlarından biridir?",
+      "options": ["Yüzme", "Kayak", "Futbol", "Okçuluk", "Voleybol"],
+      "correctIndex": 3,
+      "explanation": "Metinde Girit-Miken döneminde (MÖ 1600-1200) ideal insan tipinin savaşçılık ve avcılık kökenli disiplinlerle (araba yarışları, koşu, silahlı koşu, güreş, boks, okçuluk) ilişkilendirildiği belirtilir; okçuluk, insanlığın avcılık ve savaş ihtiyaçlarından doğan, tarihin en eski fiziksel faaliyetlerinden biri olarak metinde sayılmıştır. Diğer seçenekler metinde bu kadar eski bir kökenle anılmamaktadır.",
+      "optionNotes": [
+        "Yanlış - yüzme, metinde daha çok Yeni Çağ beden eğitimi önerileri bağlamında (John Locke) geçer, tarihin ilk sporları arasında özel olarak sayılmaz.",
+        "Yanlış - kayak, metinde tarihin ilk sporları bağlamında hiç anılmayan bir spor dalıdır.",
+        "Yanlış - futbol, 1863'te Futbol Birliği'nin kurulmasıyla anılan, modern/endüstri devrimi dönemi sporudur.",
+        "Doğru - okçuluk, Girit-Miken döneminde savaşçılık ve avcılık kökenli en eski disiplinler arasında metinde doğrudan sayılmıştır.",
+        "Yanlış - voleybol, metinde hiç geçmeyen, 19. yüzyıl sonunda ortaya çıkmış modern bir spor dalıdır."
+      ]
+    },
+    {
+      "id": "w1q10",
+      "question": "Bazı spor dallarında sporcuların ağırlıklarına göre sınırlandırılan kategoriye ne ad verilir?",
+      "options": ["Beden", "Fırsat eşitliği", "Fair play", "Siklet", "Formalite"],
+      "correctIndex": 3,
+      "explanation": "Metinde güreş, boks ve halter gibi branşlarda sporcuların ağırlıklarına göre sınırlandırılan kategorilere 'sıklet (ağırlık) kategorileri' dendiği açıkça belirtilmiştir; bu düzenleme fırsat eşitliğine hizmet eden bir uygulamadır ama kategorinin adı doğrudan 'siklet'tir.",
+      "optionNotes": [
+        "Yanlış - 'beden' genel bir kavramdır, ağırlığa göre sınırlandırılan kategoriyi ifade eden özel terim değildir.",
+        "Yanlış - fırsat eşitliği, sıklet uygulamasının hizmet ettiği ilkedir, kategorinin adı değildir.",
+        "Yanlış - fair play, genel bir sportmenlik ilkesidir, ağırlık kategorisini ifade etmez.",
+        "Doğru - metinde ağırlığa göre sınırlandırılan kategori doğrudan 'siklet' olarak adlandırılmıştır.",
+        "Yanlış - 'formalite' metinde bu bağlamda hiç geçmeyen, anlamsız bir seçenektir."
+      ]
+    },
+    {
+      "id": "w1q11",
+      "question": "Aşağıdakilerden hangisi İsveç jimnastiği dört ana bölümünden biri değildir?",
+      "options": ["Pedagojik", "Tıbbi", "Askeri", "Estetik jimnastik", "Yerli"],
+      "correctIndex": 4,
+      "explanation": "Metinde İsveç Jimnastiği'nin kurucusu Pehr Henrik Ling'in jimnastiği pedagojik, tıbbi, askeri ve estetik olmak üzere dört ana bölüme ayırdığı belirtilmiştir. 'Yerli' adlı bir bölüm bu dört ana bölüm arasında metinde hiç geçmemektedir, bu nedenle doğru cevap budur.",
+      "optionNotes": [
+        "Yanlış - pedagojik cimnastik, İsveç jimnastiğinin dört ana bölümünden biri olarak metinde doğrudan sayılmıştır.",
+        "Yanlış - tıbbi cimnastik, hastaların/sakatların tedavisine yönelik olan ve dört ana bölümden biri olarak sayılan bir uygulamadır.",
+        "Yanlış - askeri cimnastik, güreş ve eskrim gibi askeri alıştırma formlarını içeren dört ana bölümden biridir.",
+        "Yanlış - estetik jimnastik, dolaşım ve sinir sistemine yönelik serbest egzersizleri kapsayan dört ana bölümden biridir.",
+        "Doğru - 'yerli' adlı bir bölüm, İsveç jimnastiğinin dört ana bölümü arasında metinde hiç yer almaz."
+      ]
+    },
+    {
+      "id": "w1q12",
+      "question": "Aşağıdakilerden hangisi Fair play ilkelerine uygun bir yarışma ortamı için zorunlu şartlardan biri değildir?",
+      "options": ["Kurallara uyma", "Hakem kararlarını kabullenme", "Rakibe saygı", "Fırsat eşitliği", "Müsabakada kullanılan malzeme"],
+      "correctIndex": 4,
+      "explanation": "Metinde fair play ilkelerine uygun bir yarışma ortamı için beş asgari temel şart sayılmıştır: kurallara uyma, hakem kararlarını kabullenme, rakibe saygı, fırsat eşitliği ve yarışma şartlarının eşitliği. 'Müsabakada kullanılan malzeme' bu beş temel şart arasında ayrı bir madde olarak yer almaz; malzeme eşitliği ancak 'yarışma şartlarının eşitliği' kapsamında dolaylı olarak düşünülebilir, kendi başına sayılan bir şart değildir.",
+      "optionNotes": [
+        "Yanlış - kurallara uyma, metinde sayılan beş temel şarttan biridir.",
+        "Yanlış - hakem kararlarını kabullenme, metinde fair play'in vazgeçilmez bir unsuru olarak sayılan temel şartlardan biridir.",
+        "Yanlış - rakibe saygı, rakibin bir oyun partneri olarak görülmesini gerektiren beş temel şarttan biridir.",
+        "Yanlış - fırsat eşitliği, yarışma şartlarının biçimsel benzerliğini talep eden, metinde sayılan beş temel şarttan biridir.",
+        "Doğru - 'müsabakada kullanılan malzeme' metinde sayılan beş zorunlu şart arasında ayrı bir madde olarak yer almaz."
+      ]
+    },
+    {
+      "id": "w1q13",
+      "question": "Yaralanmaya neden olan yumruklamak, dövmek, tekmelemek, ısırmak ve yakmak gibi kasıtlı veya istenmeyen eylemler anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": ["Duygusal İstismar", "Cinsel İstismar", "Fiziksel İstismar", "İhmal", "Güvenli Spor"],
+      "correctIndex": 2,
+      "explanation": "Metinde IOC'ye göre fiziksel istismar, 'fiziksel travma veya yaralanmaya neden olan delme, dayak, tekme, ısırma, yanma gibi kasıtlı ve hoş olmayan eylemler' olarak tanımlanmıştır; sorudaki yumruklama, dövme, tekmeleme, ısırma ve yakma tanımı bu ifadeyle birebir örtüşmektedir.",
+      "optionNotes": [
+        "Yanlış - duygusal istismar, çoğunlukla temassız (sözel aşağılama, küçümseme) davranışları ifade eder, yaralanmaya neden olan fiziksel eylemleri kapsamaz.",
+        "Yanlış - cinsel istismar, çocuğun cinsel amaçlarla kullanılmasını ifade eder, dövme/tekmeleme gibi fiziksel şiddet eylemleriyle ilgili değildir.",
+        "Doğru - fiziksel istismar tanımı, metinde verilen dövme/tekmeleme/ısırma/yakma gibi kasıtlı yaralayıcı eylemlerle birebir örtüşür.",
+        "Yanlış - ihmal, bir eylemde bulunmamayı (gerekli özeni göstermemeyi) ifade eder; sorudaki aktif şiddet eylemleri ihmalin tanımına uymaz.",
+        "Yanlış - güvenli spor, istismara karşı alınan önlemler sistemidir, istismar türü değildir."
+      ]
+    },
+    {
+      "id": "w1q14",
+      "question": "Spora ilişkin olarak kullanılan “atlet”, “cimnastik” ve “egzersiz” terimlerinin kökeni hangi döneme dayanmaktadır?",
+      "options": ["Antik Çağ", "Orta Çağ", "Helenistik Dönem", "Yakın Çağ", "Yeni Çağ"],
+      "correctIndex": 0,
+      "explanation": "Metinde Antik Yunan'da yarışmacıya 'athletes', spor eğitmenine 'gymnastes' dendiği, Eski Roma'da ise askeri talim ve alıştırmaları ifade eden 'egzersiz' teriminin kullanıldığı belirtilmiştir; bu nedenle 'atlet', 'cimnastik' ve 'egzersiz' terimlerinin kökeni Antik Çağ'a (Antik Yunan ve Roma) dayanmaktadır.",
+      "optionNotes": [
+        "Doğru - metinde bu terimlerin kökeni doğrudan Antik Yunan ve Roma dönemine (Antik Çağ) bağlanmıştır.",
+        "Yanlış - Orta Çağ'da bu terimler değil, şövalyelik becerileri gibi farklı kavramlar ön plandaydı.",
+        "Yanlış - Helenistik Dönem, Antik Çağ'ın alt bir evresi olsa da terimlerin asıl kökeni daha eski Antik Yunan/Roma dönemine dayanır.",
+        "Yanlış - Yakın Çağ'da Alman ve İsveç cimnastik akımları gelişmiştir, ancak terimlerin kökeni bu döneme değil Antik Çağ'a dayanır.",
+        "Yanlış - Yeni Çağ'da (Rönesans-Aydınlanma) hümanist beden eğitimi fikirleri gelişmiştir, terimlerin kökeni değildir."
+      ]
+    },
+    {
+      "id": "w1q15",
+      "question": "Kültürle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": ["Kültür, öğrenilir", "Kültür, tarihidir ve süreklidir.", "Kültür, ‘sosyal’dir", "Kültür, ideal ya da idealleştirilmiş kurallar sistemidir", "Kültür, değişmez"],
+      "correctIndex": 4,
+      "explanation": "Metinde Tayfun Amman'a göre kültürün özellikleri arasında 'değişir ve birleştiricidir' ifadesi yer almaktadır; yani kültür zamanla değişen bir olgudur, sabit/değişmez değildir. Bu nedenle 'Kültür, değişmez' ifadesi metinle doğrudan çelişmektedir ve yanlış olan ifade budur.",
+      "optionNotes": [
+        "Doğru ifade - kültürün öğrenilir olması, metinde sayılan özelliklerden biridir.",
+        "Doğru ifade - kültürün tarihi ve sürekli olması, metinde sayılan özelliklerden biridir.",
+        "Doğru ifade - kültürün 'sosyal' olması, metinde sayılan özelliklerden biridir.",
+        "Doğru ifade - kültürün ideal/idealleştirilmiş bir kurallar sistemi olması, metinde sayılan özelliklerden biridir.",
+        "Yanlış ifade (bu nedenle doğru cevap) - metinde kültürün 'değişir' olduğu belirtilir, 'değişmez' ifadesi bunun tersidir ve metinle çelişir."
+      ]
+    },
+    {
+      "id": "w1q16",
+      "question": "Spor yapan insanların davranışları altında yatan nedenleri inceleyen bir alan olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": ["Spor sosyolojisi", "Spor psikolojisi", "Spor kültürü", "İletişim", "Fiziksel oyun"],
+      "correctIndex": 1,
+      "explanation": "Spor psikolojisi, psikolojinin ilke ve kurallarının spor ortamına uygulanmasıdır ve bu kapsamda spor yapan insanların davranışlarının altında yatan nedenleri (motivasyon, kaygı, kişilik vb.) inceler. Spor sosyolojisi ise sporu toplumsal bir olgu olarak ele alıp toplumla ilişkisini incelediğinden, bireysel davranışların altında yatan psikolojik nedenleri inceleme işlevi spor psikolojisine aittir.",
+      "optionNotes": [
+        "Yanlış - spor sosyolojisi, sporu toplumsal bir kurum ve olgu olarak inceler; bireysel davranışların psikolojik nedenlerini değil toplumsal ilişkileri ele alır.",
+        "Doğru - spor psikolojisi, psikoloji ilke ve kurallarının spor ortamına uygulanarak sporcu davranışlarının altındaki nedenlerin incelendiği alandır.",
+        "Yanlış - spor kültürü, bir toplumun spor anlayışının kendi kültürünün yansıması olmasıyla ilgilidir, davranışların psikolojik nedenlerini inceleyen bir disiplin değildir.",
+        "Yanlış - iletişim, spor psikolojisi içinde ele alınan bir konu başlığıdır ama davranışların altında yatan nedenleri inceleyen ayrı bir alan değildir.",
+        "Yanlış - 'fiziksel oyun' metinde tanımlanan bir bilim alanı değildir."
+      ]
+    },
+    {
+      "id": "w1q17",
+      "question": "Aşağıdakilerden hangisi Avrupa Fair Play Birliğinin verdiği ödüllerden biri değildir?",
+      "options": ["Fair Play Ruhu", "Fair Play’in Sesi", "Fair Play Alevi", "Fair Play Plaketi", "Fair Play Diploması"],
+      "correctIndex": 3,
+      "explanation": "Metinde Avrupa Fair Play Birliği'nin (EFPM) dört ana ödül kategorisi şöyle sıralanır: EOC himayesinde 'Avrupa Fair Play Ödülleri' (bu kategori Plaket ve Diploma olmak üzere iki alt sunum biçimi içerir), 'EFPM Fair Play Ruhu Ödülü', 'EFPM Fair Play Alevi Ödülü' ve AIPS-Avrupa himayesinde 'Fair Play'in Sesi (Vox) Ödülü'. Ruhu, Alevi ve Vox bağımsız/isimlendirilmiş üç ayrı ödül kategorisiyken, Plaket ve Diploma aynı tek kategorinin (Avrupa Fair Play Ödülleri) iki sunum biçimidir; bu soruda Plaket, bağımsız bir ödül adı olmaktan çok bir sunum/obje biçimi olarak değerlendirilip doğru cevap seçilmiştir. Not: Metinde Plaket ve Diploma'nın ikisi de EFPM'nin aynı kategorisinde geçtiğinden, bu ikisi arasındaki ayrım kesin değildir; bu soruda tam kesinlikle emin olunamamıştır, en mantıklı seçim yapılmıştır.",
+      "optionNotes": [
+        "Metinde EFPM'nin bağımsız ödül kategorilerinden biri olarak 'EFPM Fair Play Ruhu Ödülü' doğrudan sayılmıştır; bu nedenle EFPM'nin bir ödülüdür.",
+        "Metinde 'AIPS-Avrupa himayesinde EFPM Fair Play'in Sesi (Fair Play Vox) Ödülü' doğrudan EFPM'nin ödüllerinden biri olarak sayılmıştır.",
+        "Metinde 'EFPM Fair Play Alevi (Fair Play Flame) Ödülü' doğrudan bağımsız bir ödül kategorisi olarak sayılmıştır.",
+        "Doğru (emin olunamamıştır) - bu seçenek, metinde bağımsız bir ödül adı olarak değil, 'Avrupa Fair Play Ödülleri' kategorisinin iki sunum biçiminden biri (organizasyon/birey için verilen plaket) olarak geçer; bu nedenle en zayıf bağımsız 'ödül' adayı olarak seçilmiştir, ancak kesinlik düşüktür.",
+        "Metinde 'Avrupa Fair Play Diploması' da Plaket ile birlikte aynı kategorinin diğer sunum biçimi olarak geçer; bu soruda Plaket'in daha zayıf bağımsız ödül adı olduğu değerlendirilerek bu şık EFPM ödülü kabul edilmiştir."
+      ]
+    },
+    {
+      "id": "w1q18",
+      "question": "Aşağıdakilerden hangisi sporcuların teknik öğrenimlerini hızlandırmak ve müsabakaya hazırlanmalarını sağlamak amacıyla gerçekleştirilen çalışmalardan biridir?",
+      "options": ["Tükenme", "Çeşitli ruhsal sorunlar", "Müsabakalara yönelik hayal etme çalışmaları", "Müsabaka kaygısı", "Gerginlikler"],
+      "correctIndex": 2,
+      "explanation": "Metinde spor psikolojisinin ikinci işlevi, sporcuların teknik öğrenimlerini hızlandırmak ve müsabakaya hazırlanmalarını sağlamak amacıyla gerçekleştirilen çalışmalar olarak tanımlanır ve bu kapsamda 'beceri öğrenimi ağırlıklı zihinsel antrenmanlar, müsabakaya hazırlık amaçlı zihinsel antrenmanlar ve müsabakalara yönelik hayal etme (imgeleme) çalışmaları' sayılmıştır. Diğer seçenekler (tükenme, ruhsal sorunlar, kaygı, gerginlikler) ise performansa engel olan ve ortadan kaldırılmaya çalışılan üçüncü işlev kapsamındaki olumsuz durumlardır.",
+      "optionNotes": [
+        "Yanlış - tükenme, performansa engel olan ve ortadan kaldırılmaya çalışılan üçüncü işlev kapsamında ele alınan olumsuz bir durumdur, hazırlık çalışması değildir.",
+        "Yanlış - çeşitli ruhsal sorunlar da performansa engel olan etmenler arasında sayılır, teknik öğrenimi hızlandıran bir çalışma değildir.",
+        "Doğru - müsabakalara yönelik hayal etme (imgeleme) çalışmaları, metinde teknik öğrenimi hızlandırmak ve müsabakaya hazırlığı sağlamak amacıyla yapılan çalışmalar arasında doğrudan sayılmıştır.",
+        "Yanlış - müsabaka kaygısı, performansa engel olan ve giderilmeye çalışılan bir psikolojik etmendir, hazırlık çalışması değildir.",
+        "Yanlış - gerginlikler de performansa engel olan ve ortadan kaldırılması gereken olumsuz durumlar arasında sayılır."
+      ]
+    },
+    {
+      "id": "w1q19",
+      "question": "Aşağıdakilerden hangisi iletişim şekillerinden biri değildir?",
+      "options": ["Kişi-içi iletişim ve çatışma", "Kişilerarası iletişim ve çatışma", "Örgüt-içi iletişim ve çatışma", "Swot analizi ve çatışma", "Kitle iletişimi ve çatışma"],
+      "correctIndex": 3,
+      "explanation": "İletişim şekilleri; kişi-içi (birey içi) iletişim, kişilerarası iletişim, örgüt-içi iletişim ve kitle iletişimi gibi başlıklar altında ele alınır; metinde bireyler arası iletişim ve birey içi (kişi içi) iletişim ayrımı doğrudan yapılmaktadır. 'Swot analizi' ise bir iletişim şekli değil, kurumların/organizasyonların güçlü-zayıf yönlerini ve fırsat-tehditlerini değerlendirdiği stratejik bir planlama aracıdır; bu nedenle iletişim şekilleri arasında sayılamaz.",
+      "optionNotes": [
+        "Yanlış - kişi-içi (birey içi) iletişim, metinde doğrudan tanımlanan ve bireyin kendisiyle gerçekleştirdiği içsel iletişim biçimidir, geçerli bir iletişim şeklidir.",
+        "Yanlış - kişilerarası iletişim, metinde en az iki kişi arasında anlamlı mesaj değişimi olarak tanımlanan temel bir iletişim şeklidir.",
+        "Yanlış - örgüt-içi iletişim, bir organizasyon içindeki iletişim süreçlerini ifade eden bilinen bir iletişim şeklidir.",
+        "Doğru - Swot analizi, stratejik planlama için kullanılan bir yönetim aracıdır, bir iletişim şekli değildir; bu nedenle doğru cevap budur.",
+        "Yanlış - kitle iletişimi, medya aracılığıyla geniş kitlelere yönelik iletişimi ifade eden bilinen bir iletişim şeklidir."
+      ]
+    },
+    {
+      "id": "w1q20",
+      "question": "Aşağıdakilerden hangisi Spora İlişkin Kuramsal Yaklaşımlardan biri değildir?",
+      "options": ["Postmodernizm", "İşlevselci", "Çatışmacı", "Eleştirel", "Feminist"],
+      "correctIndex": 0,
+      "explanation": "Metinde spor sosyolojisinde en yaygın kullanılan yaklaşımlar işlevselci, çatışmacı ve eleştirel yaklaşımlar olarak sayılmış, bunların yanı sıra etkileşimci, feminist ve figürasyon yaklaşımlarının da kullanıldığı belirtilmiştir. 'Postmodernizm' bu kuramsal yaklaşımlar listesinde hiç geçmemektedir, bu nedenle doğru cevap budur.",
+      "optionNotes": [
+        "Doğru - postmodernizm, metinde sayılan spora ilişkin kuramsal yaklaşımlar arasında hiç yer almaz.",
+        "Yanlış - işlevselci yaklaşım, metinde sporun toplumsal düzene katkısını savunan temel kuramsal yaklaşımlardan biri olarak sayılmıştır.",
+        "Yanlış - çatışmacı yaklaşım, sporu ırk/cinsiyet/sınıf temelinde eleştiren, metinde sayılan temel yaklaşımlardan biridir.",
+        "Yanlış - eleştirel yaklaşım, sporu ideolojinin sürmesine katkıda bulunan bir mekanizma olarak gören, metinde sayılan temel yaklaşımlardan biridir.",
+        "Yanlış - feminist yaklaşım, metinde işlevselci/çatışmacı/eleştirel yaklaşımların yanı sıra kullanıldığı belirtilen yaklaşımlardan biridir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w3q1",
+      "question": "Çocuk ve gençlerde sürat, çeviklik ve yön değiştirme hızı antrenman örneklerine bakıldığında yeni başlayanlarda sürat yeteneği özellikle neşeli, eğlenceli küçük oyunlarla geliştirilir. Aşağıdakilerden hangisi bu oyunlardan biri değildir?",
+      "options": [
+        "Bayrak kapmaca",
+        "Yakartop",
+        "Köşe kapmaca",
+        "İstop oyunu",
+        "Uzun mesafe tempo koşusu"
+      ],
+      "correctIndex": 4,
+      "explanation": "Çocuk ve gençlerde sürat gelişimi, kısa süreli, patlayıcı ve ani yön değiştirme içeren eğlenceli küçük oyunlarla (bayrak kapmaca, yakartop, köşe kapmaca, istop gibi) sağlanır. Uzun mesafe tempo koşusu ise düşük-orta şiddette, uzun süreli bir dayanıklılık çalışmasıdır; sürat ve çeviklik gelişimine yönelik eğlenceli bir oyun niteliği taşımaz, bu nedenle listedeki diğerlerinden farklıdır.",
+      "optionNotes": [
+        "Kısa mesafede hızlı kaçma-kovalama içeren, sürat ve çevikliği eğlenceli biçimde geliştiren tipik bir çocuk oyunudur.",
+        "Ani yön değiştirme, hızlanma ve reaksiyon gerektiren, sürat gelişimi için kullanılan klasik bir oyundur.",
+        "Hızlı kaçma ve yakalama temelli, çocuklarda sürat ve çevikliği geliştiren eğlenceli bir oyundur.",
+        "Ani duruş ve hızlanma gerektiren, reaksiyon ve sürat gelişimine katkı sağlayan bir oyundur.",
+        "Doğru yanıt: Uzun mesafe tempo koşusu, kısa süreli hız oyunlarının aksine uzun süreli ve düşük-orta şiddetli bir dayanıklılık çalışmasıdır, eğlenceli bir sürat oyunu değildir."
+      ]
+    },
+    {
+      "id": "w3q2",
+      "question": "İskandinav ve Alman koşucuların 1920–1930 yılları arasında geliştirdiği, “hız oyunu” olarak da bilinen; sürekli antrenmanın kısa süreli yüksek şiddetteki aktivitelerle birleştirilmesine dayanan dayanıklılık antrenman türüne ne ad verilir?",
+      "options": [
+        "İnterval antrenman",
+        "Devamlı koşu yöntemi",
+        "Fartlek yöntemi",
+        "Piramidal antrenman",
+        "Dairesel (Circuit) antrenman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fartlek (İsveççede 'hız oyunu' anlamına gelir), 1920-1930'lu yıllarda İskandinav ve Alman koşucular tarafından geliştirilmiş, sürekli koşu temelli antrenmanın içine kısa süreli yüksek şiddetteki hızlanmaların serpiştirildiği bir dayanıklılık antrenman yöntemidir. Bu özgün tanım ve isimlendirme doğrudan Fartlek yöntemine karşılık gelir.",
+      "optionNotes": [
+        "İnterval antrenman, belirli şiddet ve dinlenme aralıklarının sistematik olarak tekrarlandığı farklı bir yöntemdir; 'hız oyunu' olarak anılmaz.",
+        "Devamlı koşu yöntemi, şiddetin sabit tutulduğu kesintisiz bir koşu biçimidir; içine yüksek şiddetli kısa aktiviteler serpiştirilmez.",
+        "Doğru yanıt: Fartlek, tam olarak bu tanıma uyan, İskandinav ve Alman kökenli 'hız oyunu' yöntemidir.",
+        "Piramidal antrenman, yükün ve tekrarın basamaklı biçimde artıp azaldığı bir kuvvet antrenman yöntemidir, bu tarihsel tanımla ilgisi yoktur.",
+        "Dairesel (Circuit) antrenman, farklı istasyonlarda art arda yapılan alıştırmaları ifade eder; Fartlek'in 'hız oyunu' tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "id": "w3q3",
+      "question": "Atletik gelişim aşaması için alıştırmalardan hangisi gelişmiş basit mekânsal oryantasyon ve kinestetik algı içerisinde yer almaz?",
+      "options": [
+        "Engel üzerinden yön değiştirerek koşu",
+        "Topu farklı yönlerden yakalama ve atma",
+        "Gözler kapalı denge yürüyüşü",
+        "İşaretlere göre sıçrama ve yön bulma",
+        "Maksimal ağırlıkla squat çalışması"
+      ],
+      "correctIndex": 4,
+      "explanation": "Mekânsal oryantasyon (boyutsal yön belirleme) ve kinestetik algı, sporcunun kendini ve çevresini üç boyutlu olarak algılaması, yön bulması ve vücut pozisyonunu hissetmesiyle ilgili beceri özellikleridir; bu nedenle yön değiştirerek koşu, farklı yönlerden top yakalama, gözler kapalı denge ve işaretlere göre yön bulma gibi alıştırmalar bu kategoriye girer. Maksimal ağırlıkla yapılan squat çalışması ise doğrudan maksimal kuvvet gelişimini hedefleyen bir kuvvet antrenmanıdır ve mekânsal oryantasyon/kinestetik algı becerisiyle ilgili değildir.",
+      "optionNotes": [
+        "Yön değiştirme gerektirdiği için mekânsal oryantasyon becerisini doğrudan çalıştıran bir alıştırmadır.",
+        "Farklı yönlerden gelen bir nesneyi algılayıp tepki vermeyi gerektirdiğinden kinestetik algı ve yön belirleme becerisine hizmet eder.",
+        "Görsel ipucu olmadan denge ve vücut pozisyonunu hissetmeyi gerektirdiğinden kinestetik algının tipik bir örneğidir.",
+        "İşaretlere göre karar verip yön bulmayı içerdiğinden mekânsal oryantasyon becerisini geliştiren bir alıştırmadır.",
+        "Doğru yanıt: Maksimal ağırlıkla squat, saf bir maksimal kuvvet çalışmasıdır; yön bulma veya kinestetik algıyla ilgili bir beceri bileşeni içermez."
+      ]
+    },
+    {
+      "id": "w3q4",
+      "question": "Kuvvet testlerinden biridir. Üst vücut kas kuvveti ve dayanıklılığını ölçer. 10 yaş ve üzerindeki katılımcılar uygulayabilir. Bacaklar uzatılmış, ayak parmakları yerde, sırt düz; eller omuz genişliğinde yerdeyken kollar 90° bükülüp tekrar açılır. Yukarıda bir bölümü açıklanan kuvvet testi aşağıdakilerden hangisidir?",
+      "options": [
+        "Mekik testi",
+        "Şınav (Push-up) testi",
+        "Durarak uzun atlama testi",
+        "El kavrama kuvveti testi",
+        "Barfiks testi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tarif edilen pozisyon ve hareket (bacaklar uzatılmış, ayak parmakları yerde, sırt düz, eller omuz genişliğinde yerde, kolların 90° bükülüp açılması) klasik şınav (push-up) testinin standart uygulama şeklidir. Bu test üst vücut (göğüs, omuz, kol) kas kuvveti ve dayanıklılığını ölçer ve genellikle 10 yaş ve üzerindeki katılımcılara uygulanabilir.",
+      "optionNotes": [
+        "Mekik testi karın kaslarının kuvvet ve dayanıklılığını ölçer; sırtüstü pozisyonda yapılır, tarif edilen push-up pozisyonuyla uyuşmaz.",
+        "Doğru yanıt: tarif edilen pozisyon ve hareket birebir şınav (push-up) testinin uygulanışıdır.",
+        "Durarak uzun atlama testi bacak kaslarının patlayıcı kuvvetini ölçer, üst vücutla ilgili değildir.",
+        "El kavrama kuvveti testi, bir dinamometreyle elin pençe kuvvetini ölçer; kolların 90° bükülüp açılmasıyla ilgisi yoktur.",
+        "Barfiks testi bir çubukta asılı kalarak çekilme hareketini içerir, yerde yapılan şınav pozisyonundan farklıdır."
+      ]
+    },
+    {
+      "id": "w3q5",
+      "question": "Antrenman planlaması, temel antrenman değişkenlerinin nispeten kısa zaman dilimi içinde yönetilmesini; antrenman periyotlaması ise sürecin daha uzun zaman dilimlerinde yönetilmesini kapsar. Buna göre aşağıdakilerden hangisi antrenman planlaması örneğinden biridir?",
+      "options": [
+        "4 yıllık olimpik hazırlık sürecinin belirlenmesi",
+        "Sezonun makro, mezo ve mikro döngülere ayrılması",
+        "Haftalık antrenmanda set, tekrar ve dinlenme sürelerinin belirlenmesi",
+        "Yarışma döneminin yıllık olarak yapılandırılması",
+        "Uzun vadeli performans gelişim modelinin oluşturulması"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soru kökünde antrenman planlamasının 'kısa zaman dilimi' içindeki değişkenlerin yönetimini kapsadığı belirtilmiştir. Haftalık bir antrenmanda set, tekrar ve dinlenme sürelerinin belirlenmesi, birim/haftalık antrenman düzeyinde yapılan kısa süreli, somut bir düzenlemedir; bu nedenle antrenman planlamasının tipik bir örneğidir. Diğer seçenekler (4 yıllık olimpik süreç, makro-mezo-mikro döngü ayrımı, yıllık yarışma yapılandırması, uzun vadeli gelişim modeli) uzun zaman dilimlerini kapsayan periyotlama örnekleridir.",
+      "optionNotes": [
+        "4 yıllık olimpik hazırlık süreci, çok yıllık ve uzun soluklu bir periyotlama örneğidir, kısa zaman dilimiyle ilgili değildir.",
+        "Sezonun makro-mezo-mikro döngülere ayrılması, periyotlamanın tanımının kendisidir; uzun süreçlerin yapılandırılmasıdır.",
+        "Doğru yanıt: haftalık antrenmanda set-tekrar-dinlenme sürelerinin belirlenmesi, kısa zaman dilimli, somut bir antrenman planlaması örneğidir.",
+        "Yarışma döneminin yıllık olarak yapılandırılması, bütün bir sezonu kapsayan periyotlama kararıdır, kısa süreli değildir.",
+        "Uzun vadeli performans gelişim modeli oluşturma, çok yıllık bir süreci ifade eder, antrenman planlamasının kısa zamanlı niteliğiyle örtüşmez."
+      ]
+    },
+    {
+      "id": "w3q6",
+      "question": "Kuvvet antrenman yöntemlerinden biridir. Egzersiz yoğunluğunun setten sete değişmesini ifade eder. En belirgin özelliği her basamakta yük artarken tekrar sayısının azalmasıdır. Yüklenme yoğunluğu çok yüksek olduğu için egzersiz sayısı seçiminde genellikle birkaç egzersiz tercih edilir. Yukarıda açıklanan kuvvet antrenman yöntemi aşağıdakilerden hangisidir?",
+      "options": [
+        "Devamlı yüklenme yöntemi",
+        "Piramidal (Piramid) yöntem",
+        "Dairesel (Circuit) yöntem",
+        "İnterval yöntem",
+        "Fartlek yöntemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tarif edilen özellikler (setten sete yoğunluk değişimi, yük artarken tekrar sayısının azalması, yüksek yoğunluk nedeniyle az sayıda egzersiz seçimi) piramidal (piramit) kuvvet antrenman yönteminin klasik tanımıdır. Bu yöntemde sporcu her basamakta daha ağır yükle daha az tekrar yaparak kuvvetini geliştirir.",
+      "optionNotes": [
+        "Devamlı yüklenme yönteminde yoğunluk sabit tutulur, setten sete değişen bir yük-tekrar ilişkisi yoktur.",
+        "Doğru yanıt: piramidal yöntem, yük arttıkça tekrar sayısının azaldığı, yüksek yoğunluk nedeniyle az egzersiz içeren yöntemdir.",
+        "Dairesel (circuit) yöntem, farklı istasyonlarda düşük-orta yoğunlukla art arda yapılan çok sayıda egzersizi içerir, tanımla uyuşmaz.",
+        "İnterval yöntem, yüklenme ve dinlenme sürelerinin sistematik olarak değiştirilmesine dayanır, setten sete yük-tekrar basamaklanmasını tanımlamaz.",
+        "Fartlek yöntemi bir dayanıklılık/koşu antrenman yöntemidir, kuvvet antrenmanı setleriyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w3q7",
+      "question": "Atletik gelişim aşaması için alıştırmalardan hangisi gelişmiş basit mekânsal oryantasyon ve kinestetik algı içerisinde yer almaz?",
+      "options": [
+        "Ribaunt topu yakalam",
+        "Çember",
+        "İp atlama",
+        "Geriye takla",
+        "Makaslı armut"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ribaunt (sekme) topunu yakalama, çemberle yapılan alıştırmalar, ip atlama ve geriye takla; sporcunun hareket halindeyken vücudunu ve çevresini üç boyutlu olarak algılamasını, yön ve zamanlama hissini (mekânsal oryantasyon/kinestetik algı) geliştiren genel, temel düzey koordinatif alıştırmalardır. 'Makaslı armut' ise -armut (kum) torbası üzerinde yapılan makaslı ayak çalışması- branşa özgü (örneğin boks) teknik bir alıştırma niteliğindedir ve genel mekânsal oryantasyon/kinestetik algı kategorisindeki temel egzersizlerle aynı grupta değerlendirilmez. Not: Bu soru için ders kaynaklarında doğrudan bir tablo bulunamadığından, cevap en mantıklı ayrıma dayanılarak seçilmiştir; kesinlik düzeyi diğer sorulara göre daha düşüktür.",
+      "optionNotes": [
+        "Sekerek gelen bir topu yakalamak, topun yönünü ve zamanlamasını önceden kestirmeyi gerektirdiğinden mekânsal oryantasyon/kinestetik algı becerisine hizmet eder.",
+        "Çemberle yapılan sıçrama/geçiş alıştırmaları, hedefe göre vücut konumunu ayarlamayı gerektiren temel bir oryantasyon çalışmasıdır.",
+        "İp atlama, zamanlama ve vücut-mekân ilişkisini (ritim ve kinestetik algı) geliştiren temel bir koordinasyon alıştırmasıdır.",
+        "Geriye takla, vücudun ters pozisyonda bile mekân içindeki konumunu hissetmesini gerektiren tipik bir kinestetik algı/denge alıştırmasıdır.",
+        "Düşük güvenilirlikle seçilen yanıt: makaslı armut çalışması, genel/temel mekânsal oryantasyon alıştırmalarından farklı olarak branşa özgü (boks benzeri) teknik bir ayak-vuruş koordinasyonu çalışmasıdır."
+      ]
+    },
+    {
+      "id": "w3q8",
+      "question": "Aşağıdakilerden hangisi sporculardaki iç yük değişkenine örnek olarak verilemez?",
+      "options": [
+        "Psiko-sosyal ölçekler",
+        "Kan laktat düzeyi",
+        "Telemetreler",
+        "Kalp atım/dk",
+        "Video hareket analizi"
+      ],
+      "correctIndex": 4,
+      "explanation": "İç yük (internal load), dış yüklenmenin (antrenmanın hacim, şiddet gibi nicel özelliklerinin) organizmada oluşturduğu fizyolojik ve psikolojik tepkileri ifade eder; kalp atım hızı, kan laktat düzeyi, psiko-sosyal/algılanan zorluk ölçekleri ve kalp atım hızını kablosuz olarak izleyen telemetrik cihazlar bu iç tepkilerin ölçümünde kullanılır. Video hareket analizi ise sporcunun kat ettiği mesafe, hız, ivmelenme gibi dışarıdan gözlemlenebilen hareket verilerini (dış yükü) ortaya koyan bir yöntemdir, organizmanın içsel fizyolojik/psikolojik tepkisini doğrudan ölçmez.",
+      "optionNotes": [
+        "Sporcunun antrenmana verdiği öznel/psikolojik tepkiyi ölçtüğü için iç yükün tipik bir göstergesidir.",
+        "Kan laktat düzeyi, yüklenmeye karşı organizmanın biyokimyasal tepkisini gösterdiğinden klasik bir iç yük değişkenidir.",
+        "Telemetreler, genellikle kalp atım hızını kablosuz olarak izlemek için kullanılır; bu yönüyle iç yükü (fizyolojik tepkiyi) ölçen bir araçtır.",
+        "Kalp atım hızı, organizmanın yüklenmeye verdiği fizyolojik tepkinin en klasik göstergesi olup doğrudan bir iç yük değişkenidir.",
+        "Doğru yanıt: video hareket analizi, sporcunun dışarıdan gözlemlenen hareket/mesafe verilerini (dış yükü) ortaya koyar; organizmanın içsel fizyolojik tepkisini ölçmediği için iç yük örneği olarak verilemez."
+      ]
+    },
+    {
+      "id": "w3q9",
+      "question": "Bacak kaslarının gücünü ölçmenin en basit ve en popüler yolu aşağıdakilerden hangisidir?",
+      "options": [
+        "Mekik testi",
+        "Şınav testi",
+        "Durarak uzun atlama testi",
+        "El kavrama kuvveti testi",
+        "12 dakika koşu testi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Durarak uzun atlama (standing long jump) testi, hiçbir özel ekipman gerektirmeden, sporcunun iki ayağıyla aynı anda sıçrayarak kat ettiği mesafenin ölçülmesiyle bacak kaslarının patlayıcı gücünü değerlendiren en basit ve en yaygın kullanılan saha testidir. Bu nedenle bacak kuvvetini ölçmede en popüler yöntem olarak kabul edilir.",
+      "optionNotes": [
+        "Mekik testi karın kaslarının kuvvet ve dayanıklılığını ölçer, bacak gücüyle ilgili değildir.",
+        "Şınav testi üst vücut (kol-göğüs) kas kuvvet ve dayanıklılığını ölçer, bacak gücünü değerlendirmez.",
+        "Doğru yanıt: durarak uzun atlama, ekipman gerektirmeyen, basit ve yaygın bir bacak gücü (patlayıcı kuvvet) testidir.",
+        "El kavrama kuvveti testi, elin pençe kuvvetini bir dinamometreyle ölçer, bacak kaslarıyla ilgisi yoktur.",
+        "12 dakika koşu testi (Cooper benzeri), aerobik dayanıklılık kapasitesini ölçer, bacak kuvvetinin doğrudan bir göstergesi değildir."
+      ]
+    },
+    {
+      "id": "w3q10",
+      "question": "Esneklik antrenman yöntemlerinden biri olan ve proprioseptörlerin uyarılmasıyla sinir-kas mekanizmasının hızlandırılması ya da desteklenmesini amaçlayan yönteme ne ad verilir?",
+      "options": [
+        "Statik germe yöntemi",
+        "Dinamik germe yöntemi",
+        "Balistik germe yöntemi",
+        "PNF (Proprioseptif Nöromüsküler Fasilitasyon) yöntemi",
+        "Aktif germe yöntemi"
+      ],
+      "correctIndex": 3,
+      "explanation": "PNF (Proprioseptif Nöromüsküler Fasilitasyon) yöntemi, kas ve tendonlardaki proprioseptörlerin (örneğin golgi tendon organı ve kas iğciklerinin) bilinçli olarak uyarılması yoluyla sinir-kas mekanizmasının desteklenmesini ve esneklik gelişiminin hızlandırılmasını amaçlayan bir germe tekniğidir. Bu yöntem genellikle bir yardımcı eşliğinde uygulanan germe-gevşeme-kasılma döngülerini içerir.",
+      "optionNotes": [
+        "Statik germe, bir pozisyonda hareketsiz olarak belirli bir süre beklemeyi içerir; proprioseptörlerin bilinçli uyarılmasına dayalı bir mekanizma değildir.",
+        "Dinamik germe, kontrollü ve tekrarlı hareketlerle eklem hareket genişliğini artırmayı hedefler, proprioseptif fasilitasyon mekanizmasına dayanmaz.",
+        "Balistik germe, sıçrayıcı/yaylanan hareketlerle eklem sınırının zorlanmasıdır, sakatlanma riski taşır ve proprioseptif fasilitasyonla tanımlanmaz.",
+        "Doğru yanıt: PNF yöntemi, tanımda belirtilen proprioseptör uyarımı yoluyla sinir-kas mekanizmasını destekleme ilkesine birebir karşılık gelir.",
+        "Aktif germe, sporcunun kendi kas kuvvetiyle dış yardım almadan yaptığı germedir, proprioseptif uyarım mekanizmasına özel olarak dayanmaz."
+      ]
+    },
+    {
+      "id": "w3q11",
+      "question": "Yetenek seçimi akış şemasında hangi bölüm bulunmaktadır?",
+      "options": [
+        "Ön değerlendirme ve tarama aşaması",
+        "Sadece müsabaka planlaması",
+        "Sponsorluk anlaşmaları",
+        "Tesis yönetimi planı",
+        "Hakem görevlendirme süreci"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yetenek seçimi süreci, çocukların geniş bir havuz içinden ön değerlendirme ve tarama testleriyle belirlenmesiyle başlar; bunu test-ölçüm, izleme-yeniden değerlendirme ve branşa yönlendirme aşamaları takip eder. Sponsorluk anlaşmaları, tesis yönetimi ve hakem görevlendirme gibi konular ise yetenek seçimi sürecinin bir parçası değil, sporun organizasyonel/idari yönetimiyle ilgili tamamen farklı konulardır.",
+      "optionNotes": [
+        "Doğru yanıt: ön değerlendirme ve tarama, yetenek seçimi sürecinin ilk ve temel aşamasıdır.",
+        "Müsabaka planlaması, antrenman periyotlamasıyla ilgili bir konudur; yetenek seçimi akış şemasının bir bölümü değildir.",
+        "Sponsorluk anlaşmaları, sporun ticari/idari yönetimiyle ilgilidir, yetenek seçimi sürecinin bir parçası değildir.",
+        "Tesis yönetimi planı, spor tesislerinin işletilmesiyle ilgili bir idari konudur, yetenek seçimi akışında yer almaz.",
+        "Hakem görevlendirme süreci, müsabaka organizasyonuna ait bir konudur; yetenek seçimiyle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w3q12",
+      "question": "Aşağıdakilerden hangisi koordinatif yetiler arasında yer almaz?",
+      "options": [
+        "Yabancı dil yeteneği",
+        "Ritim yeteneği",
+        "Reaksiyon yeteneği",
+        "Kinestetik ayrımlama yeteneği",
+        "Denge yeteneği"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koordinatif yetiler; ritim, reaksiyon, kinestetik ayrımlama, denge, mekânsal oryantasyon gibi merkezî sinir sistemi ile iskelet-kas sisteminin uyumlu çalışmasına dayanan motorik özelliklerdir. Yabancı dil yeteneği ise bilişsel/dilsel bir beceridir, motor koordinasyonla ilgisi olmayan tamamen farklı bir yetenek alanıdır.",
+      "optionNotes": [
+        "Doğru yanıt: yabancı dil yeteneği dilsel-bilişsel bir yetenektir, motorik koordinasyon yetileri arasında sayılmaz.",
+        "Ritim yeteneği, hareketlerin zaman ve dinamiğine uygun biçimde gerçekleştirilmesini sağlayan tanınmış bir koordinatif yetidir.",
+        "Reaksiyon yeteneği, bir uyarana hızlı ve doğru tepki verme becerisidir, koordinatif yetiler arasında açıkça sayılır.",
+        "Kinestetik ayrımlama yeteneği, hareketteki hassas farkları ve gereken kuvvet/hız miktarını hissetme becerisidir, koordinatif yetilerin temel bileşenlerindendir.",
+        "Denge yeteneği, vücudun ağırlık merkezini kontrol ederek pozisyonu koruma becerisidir, koordinatif yetiler arasında yer alan klasik bir özelliktir."
+      ]
+    },
+    {
+      "id": "w3q13",
+      "question": "Uzun süre devam eden müsabaka ya da antrenmanlarda tüm organizmanın yüklenmeye karşı dayanma ve sürdürme kapasitesini ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Sürat",
+        "Kuvvet",
+        "Dayanıklılık",
+        "Esneklik",
+        "Çeviklik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dayanıklılık, sporcunun fiziki ve fizyolojik yorgunluğa karşı direnme ve bu direnci uzun süre sürdürebilme gücü olarak tanımlanır; kalp-dolaşım, solunum ve sinir sistemiyle doğrudan ilişkilidir. Bu tanım, soruda belirtilen 'uzun süreli müsabaka/antrenmanda yüklenmeye dayanma ve sürdürme kapasitesi' ifadesiyle birebir örtüşür.",
+      "optionNotes": [
+        "Sürat, bir mesafeyi en kısa sürede kat etme yeteneğidir; uzun süreli yorgunluğa dayanmayla ilgili değildir.",
+        "Kuvvet, bir dirence karşı koyma ya da onu yenme yeteneğidir; uzun süreli dayanma kapasitesini değil anlık güç üretimini ifade eder.",
+        "Doğru yanıt: tanım birebir dayanıklılık kavramına aittir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir; yorgunluğa dayanma kapasitesini tanımlamaz.",
+        "Çeviklik, hızlı ve kontrollü yön değiştirme becerisidir; uzun süreli yüklenmeye dayanmayla ilgili bir kavram değildir."
+      ]
+    },
+    {
+      "id": "w3q14",
+      "question": "Aşağıdakilerden hangisi antrenman periyotlanmasının uygulamaya aktarılmasında dikkat edilecek hususlardan biri değildir?",
+      "options": [
+        "Yüklenme ve dinlenme dengesinin planlanması",
+        "Sporcunun bireysel özelliklerinin dikkate alınması",
+        "Yarışma takviminin göz önünde bulundurulması",
+        "Performansın düzenli izlenmesi ve değerlendirilmesi",
+        "Sporcunun antrenman yüklemeleri kadar dinlenme zamanlamalarının da takip edilmesi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Periyotlamanın uygulamaya aktarılmasında asıl odak; yüklenme-dinlenme dengesinin planlanması, sporcunun bireysel özelliklerinin (bireyselleştirme ilkesi) dikkate alınması, yarışma takvimine göre dönemlerin yapılandırılması ve dinlenme zamanlamalarının yüklenmeyle birlikte takip edilmesi gibi doğrudan planlama/uygulama unsurlarıdır. Performansın düzenli izlenmesi ve değerlendirilmesi ise daha çok ölçme-değerlendirme (test ve ölçüm) sürecine ait bir faaliyettir; periyotlamanın kendisinin uygulamaya aktarılmasına özgü bir husus olarak ayrıca sayılmaz. Not: Bu soru için net bir kaynak listesi bulunamadığından, cevap en mantıklı ayrıma dayanılarak seçilmiştir ve diğer sorulara kıyasla daha düşük bir kesinlik taşır.",
+      "optionNotes": [
+        "Yüklenme ve dinlenme dengesinin planlanması, periyotlamanın temel taşlarından biri olarak doğrudan uygulamaya aktarılması gereken bir husustur.",
+        "Sporcunun bireysel özelliklerinin dikkate alınması, bireyselleştirme ilkesi gereği periyotlama uygulamasında vazgeçilmez bir unsurdur.",
+        "Yarışma takviminin göz önünde bulundurulması, periyotlamanın (dönemlemenin) doğrudan yarışma takvimine göre şekillendirilmesi gerektiği için temel bir husustur.",
+        "Düşük güvenilirlikle seçilen yanıt: performansın düzenli izlenmesi/değerlendirilmesi, periyotlamanın uygulamaya aktarılmasından ayrı, ölçme-değerlendirme sürecine ait bir faaliyet olarak değerlendirilmiştir.",
+        "Dinlenme zamanlamasının antrenman yüklemeleri kadar takip edilmesi, yüklenme-dinlenme dengesinin pratikteki uzantısı olup periyotlama uygulamasının doğrudan bir parçasıdır."
+      ]
+    },
+    {
+      "id": "w3q15",
+      "question": "Yetenek seçimi akış şemasında aşağıdakilerden hangisi bulunmaz?",
+      "options": [
+        "Ön tarama ve değerlendirme",
+        "Test ve ölçümler",
+        "İzleme ve yeniden değerlendirme",
+        "Yetenek seçimi yöntemlerinin belirsizliği",
+        "Branşa yönlendirme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yetenek seçimi süreci; ön tarama ve değerlendirme, test ve ölçümler, izleme ve yeniden değerlendirme ile branşa yönlendirme gibi somut, sıralı uygulama basamaklarından oluşan bir akış şeması olarak kurgulanır. 'Yetenek seçimi yöntemlerinin belirsizliği' ise bir uygulama aşaması değil, sürecin eleştirisine/tartışmasına ait soyut bir ifadedir; bu nedenle akış şemasında yer alan somut bir bölüm değildir.",
+      "optionNotes": [
+        "Ön tarama ve değerlendirme, yetenek seçimi sürecinin ilk somut aşamasıdır, akış şemasında yer alır.",
+        "Test ve ölçümler, seçilen adayların bilimsel testlerle değerlendirildiği, akış şemasında açıkça bulunan bir aşamadır.",
+        "İzleme ve yeniden değerlendirme, sporcunun gelişiminin periyodik olarak takip edildiği, akış şemasının bir parçası olan bir aşamadır.",
+        "Doğru yanıt: 'yetenek seçimi yöntemlerinin belirsizliği' bir uygulama aşaması değil, sürece yönelik soyut bir eleştiridir; akış şemasında somut bir bölüm olarak yer almaz.",
+        "Branşa yönlendirme, sürecin sonunda sporcunun uygun spor dalına yönlendirildiği, akış şemasının son aşamasıdır."
+      ]
+    },
+    {
+      "id": "w3q16",
+      "question": "Belirli sayıda alıştırmanın çok az bir dinlenme aralığı verilerek arka arkaya uygulanması aşağıdakilerden hangisi ile ifade edilir?",
+      "options": [
+        "Interval antrenman",
+        "Piramidal antrenman",
+        "Dairesel (Circuit) antrenman",
+        "Fartlek antrenman",
+        "Devamlı antrenman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dairesel (circuit) antrenman, önceden belirlenmiş sayıda alıştırmanın (istasyonun) çok kısa dinlenme aralıklarıyla art arda, bir döngü (circuit) hâlinde uygulanmasıdır. Bu tanım soruda verilen 'belirli sayıda alıştırmanın çok az dinlenmeyle arka arkaya uygulanması' ifadesiyle birebir örtüşür.",
+      "optionNotes": [
+        "İnterval antrenman, yüklenme ve dinlenme sürelerinin planlı biçimde değiştiği bir yöntemdir, ama tanımlayıcı özelliği 'az dinlenmeyle art arda alıştırma' değil, yüklenme-dinlenme oranının sistematik kontrolüdür.",
+        "Piramidal antrenman, yük artarken tekrar sayısının azaldığı bir kuvvet yöntemidir, art arda az dinlenmeli alıştırma dizisini tanımlamaz.",
+        "Doğru yanıt: dairesel (circuit) antrenman, tam olarak az dinlenmeli, art arda uygulanan belirli sayıda alıştırmayı ifade eder.",
+        "Fartlek antrenman, sürekli koşuya kısa yüksek şiddetli bölümlerin eklenmesidir, istasyon tipi alıştırma dizisiyle ilgili değildir.",
+        "Devamlı antrenman, kesintisiz ve sabit şiddette uzun süreli bir çalışmadır, art arda farklı alıştırmaların dizilimini ifade etmez."
+      ]
+    },
+    {
+      "id": "w3q17",
+      "question": "Toparlanma önlemleri ve yöntemlerinden hangisi termoterapi (ısı terapisi) uygulamalarına örnektir?",
+      "options": [
+        "Buz banyosu",
+        "Kontrast duş",
+        "Sauna uygulaması",
+        "Kompresyon çorabı kullanımı",
+        "Aktif toparlanma koşusu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Termoterapi, vücuda sıcaklık/ısı uygulanarak yapılan toparlanma yöntemidir; sauna, bu tanıma birebir uyan klasik bir ısı terapisi örneğidir ve kas gevşemesini, kan akımını artırarak toparlanmaya yardımcı olur. Buz banyosu bunun tam tersi olan kriyoterapiye (soğuk terapi) örnektir.",
+      "optionNotes": [
+        "Buz banyosu, düşük sıcaklık uygulayan bir kriyoterapi (soğuk terapi) yöntemidir, termoterapinin tam tersidir.",
+        "Kontrast duş, sıcak ve soğuk suyun ardışık uygulanmasına dayanır; sadece ısı terapisi değil, soğuk ve sıcağın birleşimidir.",
+        "Doğru yanıt: sauna, vücuda yüksek ısı uygulayan tipik bir termoterapi yöntemidir.",
+        "Kompresyon çorabı kullanımı, basınç uygulayarak kan dolaşımını desteklemeye yönelik mekanik bir toparlanma yöntemidir, ısı terapisiyle ilgili değildir.",
+        "Aktif toparlanma koşusu, hafif tempolu hareketle laktik asidin uzaklaştırılmasını sağlayan aktif bir yöntemdir, ısı uygulaması değildir."
+      ]
+    },
+    {
+      "id": "w3q18",
+      "question": "Aşağıdakilerden hangisi maksimal oksijen tüketimi (VO₂ maks) kullanımını en iyi ifade eder?",
+      "options": [
+        "Kasın tek seferde üretebildiği maksimal kuvvet",
+        "Organizmanın birim zamanda kullanabildiği en yüksek oksijen miktarı",
+        "Eklem hareket açıklığının en üst düzeyi",
+        "Kısa sürede ulaşılan en yüksek koşu hızı",
+        "Kasın yorgunluğa karşı esneklik kapasitesi"
+      ],
+      "correctIndex": 1,
+      "explanation": "VO₂ maks (maksimal oksijen tüketimi), organizmanın birim zamanda (genellikle dakikada) kullanabildiği en yüksek oksijen miktarı olarak tanımlanır ve aerobik dayanıklılık kapasitesinin en önemli göstergesidir. Elit dayanıklılık sporcularında bu değer sedanter bireylere kıyasla çok daha yüksektir.",
+      "optionNotes": [
+        "Kasın tek seferde üretebildiği maksimal kuvvet, maksimal kuvvet tanımıdır, oksijen tüketimiyle ilgili değildir.",
+        "Doğru yanıt: VO₂ maks birim zamanda tüketilebilen en yüksek oksijen miktarını ifade eder.",
+        "Eklem hareket açıklığının en üst düzeyi esneklik kavramıyla ilgilidir, oksijen tüketimiyle bağlantısı yoktur.",
+        "Kısa sürede ulaşılan en yüksek koşu hızı maksimum sürat tanımıdır, VO₂ maks ile karıştırılmamalıdır.",
+        "Kasın yorgunluğa karşı esneklik kapasitesi anlamsız/karma bir ifadedir ve VO₂ maks tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "id": "w3q19",
+      "question": "Toparlanmayı etkilediği düşünülen etmenlerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Uyku süresi ve kalitesi toparlanmayı olumlu etkiler",
+        "Yetersiz beslenme toparlanmayı hızlandırır",
+        "Sürekli yüksek yoğunluklu antrenman toparlanmayı artırır",
+        "Dehidrasyon (sıvı kaybı) toparlanmayı iyileştirir",
+        "Dinlenme verilmeden yapılan antrenmanlar toparlanmayı geliştirir"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yeterli ve kaliteli uyku, organizmanın hormonal, sinirsel ve kas onarım süreçlerini desteklediğinden toparlanmayı olumlu etkileyen en temel etmenlerden biridir. Diğer seçenekler ise gerçekte toparlanmayı olumsuz etkileyen durumları (yetersiz beslenme, sürekli yüksek yoğunluklu antrenman, dehidrasyon, dinlenmeden yüklenme) tam tersi bir ifadeyle sunduğu için yanlıştır.",
+      "optionNotes": [
+        "Doğru yanıt: uyku süresi ve kalitesi, organizmanın onarım ve yenilenme süreçlerini desteklediğinden toparlanmayı olumlu etkiler.",
+        "Yetersiz beslenme, enerji ve besin eksikliği yaratarak toparlanmayı hızlandırmaz, tam tersine geciktirir.",
+        "Sürekli yüksek yoğunluklu antrenman, yeterli dinlenme olmadan uygulandığında sürantrenmana yol açarak toparlanmayı artırmaz, tam tersine zorlaştırır.",
+        "Dehidrasyon (sıvı kaybı), hücresel ve metabolik süreçleri bozarak toparlanmayı iyileştirmez, tam tersine olumsuz etkiler.",
+        "Dinlenme verilmeden yapılan antrenmanlar, yorgunluğun birikmesine ve sürantrenmana yol açarak toparlanmayı geliştirmez, tam tersine engeller."
+      ]
+    },
+    {
+      "id": "w3q20",
+      "question": "Ani bir uyarana karşı en kısa sürede verilen tepkinin süresine ..................... adı verilir? Bu süre belirli bir sınırın altına düşmez, yaşam boyunca değişiklik gösterebilir ve motivasyon, uyarılmışlık ile dikkat düzeyinden etkilenir. Paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": [
+        "Çeviklik",
+        "Dayanıklılık",
+        "Esneklik",
+        "Reaksiyon zamanı",
+        "Maksimal kuvvet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reaksiyon zamanı, bir uyarının duyu organlarından algılanıp merkezî sinir sistemine iletilmesi, orada işlenip bir emrin oluşması ve bu emrin kaslara ulaşarak harekete dönüşmesi arasında geçen süredir; bu süre genetik temelli olduğu için belirli bir sınırın altına düşmez ve motivasyon, uyarılmışlık (arousal) ile dikkat düzeyinden etkilenir. Paragrafta tarif edilen tüm özellikler reaksiyon zamanı kavramının tanımıyla birebir örtüşür.",
+      "optionNotes": [
+        "Çeviklik, yön değiştirme ve hızlanma-yavaşlama becerisidir; tek bir uyarana verilen tepki süresini tanımlamaz.",
+        "Dayanıklılık, uzun süreli yorgunluğa karşı direnme kapasitesidir, anlık tepki süresiyle ilgili değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir, uyarana tepki süresini tanımlamaz.",
+        "Doğru yanıt: tanımda geçen 'ani uyarana en kısa sürede verilen tepki süresi, genetik sınır, motivasyon ve dikkatten etkilenme' ifadeleri birebir reaksiyon zamanına aittir.",
+        "Maksimal kuvvet, kasın üretebildiği en yüksek kuvvet miktarıdır, bir uyarana tepki süresiyle ilgili bir kavram değildir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "id": "w2q1",
+      "question": "Vücutta en yaygın bulunan dokudur. Temel işlevi, vücudun diğer dokularını birbirine bağlamaktır. Genel olarak bu dokunun işlevleri; deri ve tendonlara destek, organlarda maddelerin depolanması, iskelet ağını oluşturmak, kan damarları ile maddelerinin taşınması, yağ depo etmek, bağışıklıkta görev almak, doku tamirine yardım etmektir. Temel hücre tipleri arasında mezenkim hücreleri, retikulum hücreleri, fibroblastlar yer alır. Doku düzeyinde organizasyonu araştıran bir araştırmacının hangi doku tipi üzerine çalıştığı çıkarımına varılır?",
+      "options": ["Epitel Doku", "Bağ Doku", "Kas Dokusu", "Kan Dokusu", "Sinir Dokusu"],
+      "correctIndex": 1,
+      "explanation": "Ünite içeriğinde bağ dokusunun vücutta en yaygın bulunan doku olduğu, diğer dokuları birbirine bağladığı, deri ve tendonlara destek verdiği, organlarda madde depolanmasını sağladığı, iskelet ağını oluşturduğu, kan damarlarıyla madde taşınmasına katkıda bulunduğu, yağ depoladığı, bağışıklıkta görev aldığı ve doku tamirine yardım ettiği açıkça belirtilmiştir. Ayrıca mezenkim hücreleri, retikulum hücreleri ve fibroblastların bağ dokusunun temel hücre tipleri olarak sayılması bu dokuyu kesin şekilde işaret eder.",
+      "optionNotes": [
+        "Epitel dokusu vücudun iç-dış yüzeylerini örten, salgı ve duyu fonksiyonu üstlenen bir dokudur; sorudaki bağlama, depolama ve taşıma işlevleriyle tanımlanmaz, bu nedenle yanlıştır.",
+        "Bağ dokusu, metinde belirtildiği gibi vücuttaki en yaygın dokudur ve sorudaki tüm işlevler (destek, depolama, iskelet oluşturma, madde taşınması, yağ depolama, bağışıklık, doku tamiri) ile hücre tipleri (mezenkim, retikulum, fibroblast) birebir bu dokuya aittir; doğru yanıt budur.",
+        "Kas dokusu, kontraksiyon (kasılma) yeteneğiyle hareketi sağlayan dokudur; sorudaki bağlama ve depolama işlevleriyle ilişkilendirilmez, bu seçenek yanlıştır.",
+        "Kan dokusu, metinde dört ana doku tipinden biri olarak ayrı sayılmaz ve sorudaki hücre tiplerinin (mezenkim, retikulum, fibroblast) tanımıyla örtüşmez, bu nedenle yanlıştır.",
+        "Sinir dokusu, uyarıları ileten nöron ve destekleyici glia hücrelerinden oluşur; sorudaki bağlama, destek ve depolama işlevleriyle hiçbir ilgisi yoktur, bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "id": "w2q2",
+      "question": "Hücrede ribozom faaliyeti artarsa aşağıdakilerden hangisi artar? A. Su miktarı B. Amino asit miktarı C. Ozmotik basınç D. Protein miktarı E. ATP üretim miktarı",
+      "options": ["Su miktarı", "Amino asit miktarı", "Ozmotik basınç", "Protein miktarı", "ATP üretim miktarı"],
+      "correctIndex": 3,
+      "explanation": "Ribozomlar hücrede protein sentezinin (translasyon) gerçekleştiği yapılardır; ribozom faaliyetinin artması doğrudan üretilen protein miktarının artması anlamına gelir. Amino asitler bu süreçte tüketilen yapı taşlarıdır, bu nedenle protein sentezi hızlandıkça amino asit miktarı artmaz, aksine tüketilerek azalır.",
+      "optionNotes": [
+        "Su miktarı hücrenin temel yapı taşlarından değildir ve ribozom faaliyetinin birincil, doğrudan sonucu olan bir değişken değildir; bu seçenek yanlıştır.",
+        "Amino asitler ribozomlarda protein sentezi için harcanan hammaddelerdir; faaliyet arttıkça tüketilirler, dolayısıyla miktarlarının artması beklenmez.",
+        "Ozmotik basınç hücre içi çözünen madde yoğunluğuna bağlıdır ve ribozom faaliyetinin doğrudan ya da birincil sonucu değildir.",
+        "Protein miktarı doğrudan artar; çünkü ribozomun temel görevi mRNA'daki bilgiyi kullanarak protein sentezlemektir, faaliyet arttıkça üretim de artar. Doğru yanıt budur.",
+        "ATP üretimi hücresel solunumla mitokondride gerçekleşir; ribozom faaliyeti ile doğrudan bir nedensellik ilişkisi yoktur."
+      ]
+    },
+    {
+      "id": "w2q3",
+      "question": "I. ATP-CP veya fosfojen sistemi, II. Laktik asit veya anaerobik glikoliz sistemi, III. Aerobik sistem veya oksijen sistemi Hangisi yada hangileri ATP sentezini sağlayan kimyasal reaksiyonlar arasında yer alır?",
+      "options": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "correctIndex": 4,
+      "explanation": "Ünite içeriğinde ATP sentezini sağlayan kimyasal reaksiyonların üç kategoride sınıflandırıldığı açıkça belirtilir: ATP-CP (fosfojen) sistemi, laktik asit (anaerobik glikoliz) sistemi ve aerobik (oksijen) sistemi. Fosfojen ve laktik asit sistemleri birlikte anaerobik sistemi, oksijen sistemi ise aerobik sistemi oluşturur ve bu üç sistem her fiziksel aktivitede farklı oranlarda birlikte çalışır; dolayısıyla üçü de ATP sentezini sağlayan reaksiyonlar arasındadır.",
+      "optionNotes": [
+        "Yalnız I seçeneği eksiktir; fosfojen sistemin yanında laktik asit ve aerobik sistem de ATP sentezini sağlayan reaksiyonlar arasında sayılır.",
+        "Yalnız III seçeneği eksiktir; aerobik sistemin yanı sıra fosfojen ve laktik asit sistemleri de ATP sentezleyen reaksiyonlardandır.",
+        "I ve II seçeneği eksiktir; bu ikisine ek olarak aerobik sistem de ATP sentezini sağlayan üçüncü temel reaksiyon kategorisidir.",
+        "II ve III seçeneği eksiktir; fosfojen (ATP-CP) sistemi de metinde ATP sentezleyen üç sistemden biri olarak sayılmıştır, dışarıda bırakılması yanlıştır.",
+        "Doğru yanıt: metinde ATP sentezini sağlayan kimyasal reaksiyonların üç kategorisi olarak fosfojen, laktik asit ve aerobik sistemlerin üçü birlikte sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q4",
+      "question": "Aşağıdakilerden hangisi frontal düzlemde gerçekleşen hareketlerden biri değildir?",
+      "options": ["Abduksiyon", "Lateral fleksiyon", "İnversiyon", "Adduksiyon", "Ekstansiyon"],
+      "correctIndex": 4,
+      "explanation": "Frontal (koronal) düzlemde gerçekleşen hareketler; orta hattan uzaklaşma ve yaklaşma olan abduksiyon-adduksiyon, gövdenin yana eğilmesi olan lateral fleksiyon ile ayağın eversiyon-inversiyon hareketleridir. Ekstansiyon ise fleksiyonla birlikte sagittal düzlemde gerçekleşen bir eklem hareketidir, bu nedenle frontal düzlem hareketleri arasında yer almaz.",
+      "optionNotes": [
+        "Abduksiyon, bir eklemin orta hattan uzaklaştırılması olup frontal düzlemde gerçekleşen tipik bir harekettir; bu yüzden soru kapsamı dışındadır.",
+        "Lateral fleksiyon, gövdenin sağa veya sola doğru eğilmesidir ve frontal düzlemde gerçekleşir; dolayısıyla doğru cevap değildir.",
+        "İnversiyon ayak tabanının içe (orta hatta) doğru döndürülmesidir ve frontal düzlemdeki hareketlerden biridir, bu nedenle yanlış seçenektir.",
+        "Adduksiyon, bir eklemin orta hatta yaklaştırılması olup frontal düzlemde gerçekleşen bir harekettir; bu yüzden doğru cevap değildir.",
+        "Ekstansiyon, eklem açıklığının sagittal düzlemde artması anlamına gelir; frontal düzlem hareketleri arasında sayılmadığından doğru cevap budur."
+      ]
+    },
+    {
+      "id": "w2q5",
+      "question": "Dünya Dopingle Mücadele Ajansı Yasaklılar Listesi hazırlanırken aşağıda verilen etkenlerden hangileri bir madde veya yöntemin yasaklanmasında dikkate alınan ölçütlerdendir? I. Sportif performansı arttırma veya artırma potansiyeline sahip olması II. Sporcunun sağlığına fiili veya potansiyel bir risk III. Sporun ruhuna aykırılık",
+      "options": ["Yalnız I", "Yalnız II", "I ve II", "I ve III", "I, II, III"],
+      "correctIndex": 4,
+      "explanation": "Metinde bir madde veya yöntemin Yasaklılar Listesi'ne alınabilmesi için üç değerlendirme ölçütünün tanımlandığı belirtilir: (1) sportif performansı artırma veya artırma potansiyeline sahip olması, (2) sporcunun sağlığına fiili veya potansiyel risk oluşturması, (3) kullanımının sporun ruhuna aykırılık teşkil etmesi. Soru bu üç ölçütün hangilerinin dikkate alınan kriterler arasında yer aldığını sorduğundan (sadece en az ikisinin birlikte karşılanması gerekliliğini değil), her üçü de (I, II, III) bu değerlendirme ölçütleri arasındadır.",
+      "optionNotes": [
+        "Yalnız I seçeneği eksiktir; performans artırma potansiyeli yanında sağlık riski ve sporun ruhuna aykırılık da listelenen ölçütler arasındadır.",
+        "Yalnız II seçeneği eksiktir; sağlık riskinin yanında performans artırma potansiyeli ve sporun ruhuna aykırılık da ölçütler arasında sayılmıştır.",
+        "I ve II seçeneği eksiktir; bu ikisine ek olarak sporun ruhuna aykırılık da metinde üçüncü değerlendirme ölçütü olarak açıkça belirtilmiştir.",
+        "I ve III seçeneği eksiktir; sporcunun sağlığına yönelik fiili veya potansiyel risk de metinde sayılan ölçütlerden biridir, dışarıda bırakılması yanlıştır.",
+        "Doğru yanıt: metinde performans artırma potansiyeli, sağlığa risk oluşturma ve sporun ruhuna aykırılık olmak üzere üç ölçütün tamamı Yasaklılar Listesi'ne alım değerlendirmesinde dikkate alınan kriterler olarak sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q6",
+      "question": "Kas kasılma tiplerinde üretilebilecek maksimum kas kuvvetlerinin büyükten küçüğe sıralanışı aşağıdakilerden hangisidir?",
+      "options": ["İzometrik – Eksantrik - Konsantrik", "Konsantrik – Eksantrik - İzometrik", "Eksantrik – Konsantrik - İzometrik", "Eksantrik – İzometrik -Konsantrik", "İzometrik – Konsantrik - Eksantrik"],
+      "correctIndex": 3,
+      "explanation": "Ünite içeriğinde belirtildiği gibi maksimal eksantrik kas kasılması, izometrik ve konsantrik kasılmaya göre daha fazla kuvvet üretir; dolayısıyla büyükten küçüğe sıralama eksantrik > izometrik > konsantrik şeklindedir. Bu sıralama, kasın gerilirken (eksantrik) kısalırken (konsantrik) üretebildiğinden daha fazla kuvvet üretebilmesinden kaynaklanır.",
+      "optionNotes": [
+        "İzometrik kasılma eksantrikten daha az kuvvet ürettiği için bu sıralamada izometrik en başa yazılamaz; bu seçenek yanlıştır.",
+        "Konsantrik kasılma kuvvet üretimi açısından en düşük kategoridir, bu nedenle sıralamanın başında olması yanlıştır.",
+        "Bu sıralamada izometrik en sonda yer alamaz çünkü konsantrikten daha fazla kuvvet üretir; dolayısıyla seçenek yanlıştır.",
+        "Doğru sıralama budur: eksantrik en fazla kuvveti üretir, onu izometrik takip eder, en az kuvvet konsantrik kasılmada üretilir.",
+        "İzometrik kasılma konsantrikten daha fazla kuvvet ürettiğinden izometriğin ortada, konsantriğin en sonda olduğu bu sıralama yanlıştır."
+      ]
+    },
+    {
+      "id": "w2q7",
+      "question": "Kemiği kemiğe bağlayan yapı aşağıdakilerden hangisidir?",
+      "options": ["Ligament", "Tendon", "Kartilaj", "Diyafiz", "Kıkırdak"],
+      "correctIndex": 0,
+      "explanation": "Metinde açıkça belirtildiği gibi ligamentler kemikleri kemiklere bağlayan yapılardır; temel fonksiyonları dış kuvvetlere direnç göstermek ve eklem hareket açıklığını sınırlamaktır. Tendon ise kası kemiğe bağladığından bu sorunun cevabı değildir.",
+      "optionNotes": [
+        "Ligament, tanım olarak kemiği kemiğe bağlayan bağ dokusu yapısıdır; bu nedenle doğru cevap budur.",
+        "Tendon kası kemiğe bağlar, kemiği kemiğe bağlamaz; bu yüzden bu seçenek yanlıştır.",
+        "Kartilaj (kıkırdak) eklem yüzeylerini kaplayan veya kemikler arası geçişi sağlayan bir doku olup kemikleri doğrudan birbirine bağlayan bir yapı değildir.",
+        "Diyafiz, bir kemiğin orta gövde kısmını ifade eden anatomik bir terimdir, bağlayıcı bir yapı değildir.",
+        "Kıkırdak, kartilaj ile aynı dokuyu ifade eder ve kemikleri birbirine doğrudan bağlayan bir yapı değildir, bu nedenle yanlıştır."
+      ]
+    },
+    {
+      "id": "w2q8",
+      "question": "Otonom sinir sistemi tarafından yönetilen kaslara ne ad verilmektedir?",
+      "options": ["Düz kas", "Sinir kası", "Beyin kası", "Kalp kası", "Çizgili İskelet Kası"],
+      "correctIndex": 0,
+      "explanation": "Ünite içeriğinde \"Otonom sinir sistemi tarafından yönetilen düz kasların kontraksiyonu istem dışı, yavaş ve dalgalı olarak gerçekleşir\" ifadesiyle düz kasın otonom sinir sistemi tarafından yönetildiği doğrudan ve açık şekilde belirtilmiştir. Düz kaslar iç organlarda ve kan damarlarında bulunur ve istemsiz çalışır.",
+      "optionNotes": [
+        "Düz kas, metinde otonom sinir sistemi tarafından yönetildiği doğrudan ifade edilen kas tipidir; bu nedenle doğru cevap budur.",
+        "\"Sinir kası\" anatomik olarak tanımlanmış bir kas tipi değildir, metinde böyle bir terim yer almaz.",
+        "\"Beyin kası\" da anatomik bir kas sınıflandırması değildir, metinde geçmeyen hatalı bir seçenektir.",
+        "Kalp kası istemsiz çalışsa da metinde otonom sinir sistemi tarafından yönetilen kas olarak özellikle düz kas tanımlanmıştır, kalp kası bu tanıma örnek verilmemiştir.",
+        "Çizgili iskelet kası somatik sinir sisteminin kontrolü altındadır ve kontraksiyonu istemlidir; otonom sinir sistemiyle yönetilmez."
+      ]
+    },
+    {
+      "id": "w2q9",
+      "question": "Uluslararası spor karşılaşmalarının yapılabilmesi için maksimum ortam sıcaklığı kaç santigrat derece olmalıdır?",
+      "options": ["26", "27", "25", "28", "29"],
+      "correctIndex": 2,
+      "explanation": "Ünite içeriğinde çevresel risk faktörleri arasında hava koşulları ele alınırken \"uluslararası karşılaşmalarda maksimum ortam sıcaklığı 25°C, minimum 16°C olarak belirlenmiştir\" ifadesi yer almaktadır. Bu nedenle uluslararası spor karşılaşmalarının yapılabilmesi için üst sıcaklık sınırı 25°C'dir.",
+      "optionNotes": [
+        "26 santigrat derece, metinde belirtilen 25°C üst sınırından farklı, hatalı bir değerdir.",
+        "27 santigrat derece de metinde belirtilen 25°C maksimum sınırından yüksektir, yanlıştır.",
+        "Doğru yanıt: metinde uluslararası karşılaşmalar için maksimum ortam sıcaklığı 25°C olarak açıkça belirtilmiştir.",
+        "28 santigrat derece, metindeki 25°C üst sınırının oldukça üzerinde olup yanlıştır.",
+        "29 santigrat derece, metinde verilen 25°C maksimum değerden belirgin şekilde yüksektir, yanlıştır."
+      ]
+    },
+    {
+      "id": "w2q10",
+      "question": "Uluslararası spor karşılaşmalarının yapılabilmesi için minimum ortam sıcaklığı kaç santigrat derece olmalıdır?",
+      "options": ["16", "10", "11", "18", "8"],
+      "correctIndex": 0,
+      "explanation": "Ünite içeriğinde aynı cümlede hem maksimum hem minimum sıcaklık sınırı birlikte verilir: \"uluslararası karşılaşmalarda maksimum ortam sıcaklığı 25°C, minimum 16°C olarak belirlenmiştir\". Bu nedenle uluslararası spor karşılaşmaları için alt sıcaklık sınırı 16°C'dir.",
+      "optionNotes": [
+        "Doğru yanıt: metinde uluslararası karşılaşmalar için minimum ortam sıcaklığı 16°C olarak açıkça belirtilmiştir.",
+        "10 santigrat derece, metinde belirtilen 16°C minimum sınırından düşüktür, yanlıştır.",
+        "11 santigrat derece de metindeki 16°C değerinden farklı ve düşük bir değerdir, yanlıştır.",
+        "18 santigrat derece, metinde belirtilen 16°C minimum sınırından yüksektir, yanlıştır.",
+        "8 santigrat derece, metindeki 16°C değerinden belirgin şekilde düşüktür, yanlıştır."
+      ]
+    },
+    {
+      "id": "w2q11",
+      "question": "Aşağıdakilerden hangisi sporculardaki nabız atım sayısıdır?",
+      "options": ["60-100", "80-100", "40-60", "60-80", "80-95"],
+      "correctIndex": 2,
+      "explanation": "Ünite içeriğinde hayati bulguların değerlendirilmesi anlatılırken nabız için \"yetişkinde 60-100, sporcuda 40-60/dk\" değerleri verilmiştir. Düzenli antrenmanla kalp daha verimli çalıştığından sporcularda dinlenim nabzı genel yetişkin popülasyonuna göre daha düşüktür; bu nedenle doğru aralık 40-60'tır.",
+      "optionNotes": [
+        "60-100 aralığı metinde genel yetişkin popülasyonu için verilen nabız değeridir, sporcuya özgü değer değildir.",
+        "80-100 aralığı metinde ne genel yetişkin ne de sporcu nabzı olarak geçen bir değerdir, yanlıştır.",
+        "Doğru yanıt: metinde sporcularda nabız atım sayısının 40-60/dk olduğu açıkça belirtilmiştir.",
+        "60-80 aralığı metinde verilen sporcu nabız değeriyle (40-60) örtüşmemektedir, yanlıştır.",
+        "80-95 aralığı metinde geçen bir nabız değeri değildir ve sporcu nabzı için verilen 40-60 aralığından yüksektir, yanlıştır."
+      ]
+    },
+    {
+      "id": "w2q12",
+      "question": "“Vücudumuzdaki eklemlerin birçoğu 3. tip kaldıraç olarak görev alırlar.” ifadesi hangi anlama gelir?",
+      "options": ["Mekanik avantaj sağlarlar.", "Kuvvet kolu yük kolundan daha uzundur.", "Kas tendonu yük ile eklem aksisi arasındadır.", "Kas tendonu eklemden uzak bir noktaya bağlanmıştır.", "Az kuvvetle fazla yük kaldırabilirler."],
+      "correctIndex": 2,
+      "explanation": "Ünite içeriğinde üçüncü tip kaldıraçta rotasyon merkezinin kemiğin bir ucunda konumlandığı ve kas tendonunun (kuvvet uygulama noktasının) bağlandığı yerin eklem aksisi ile yükün etki ettiği nokta arasında kaldığı belirtilir; bu yüzden yük kolu kuvvet kolundan daha uzundur. Örnek olarak biceps brachii ile dirsek fleksiyonu verilmiştir ve bu düzenleme mekanik dezavantaj yaratsa da hareket hızı avantajı sağlar.",
+      "optionNotes": [
+        "Üçüncü tip kaldıraçlar mekanik avantaj değil mekanik dezavantaj sağlar; bu nedenle bu seçenek metinle çelişir ve yanlıştır.",
+        "Üçüncü tip kaldıraçta kuvvet kolu yük kolundan daha kısadır, tam tersi değil; bu seçenek metnin tanımıyla çelişmektedir.",
+        "Bu, üçüncü tip kaldıracın tam tanımıdır: kasın kuvvet uyguladığı nokta (tendon), eklem aksisi ile yük arasında konumlanır; bu nedenle doğru cevap budur.",
+        "Tendonun eklemden uzak bir noktaya bağlanması tek başına kaldıraç tipini belirlemez; asıl belirleyici olan kuvvet ve yük kollarının göreli konumudur.",
+        "Az kuvvetle fazla yük kaldırma mekanik avantajı tanımlar, bu ise ikinci tip kaldıraçların özelliğidir; üçüncü tip kaldıraçta durum tersidir."
+      ]
+    },
+    {
+      "id": "w2q13",
+      "question": "Gerilmeye karşı en dirençli lif tipi aşağıdakilerden hangisidir?",
+      "options": ["Kollajen", "Elastin", "Retiküler", "Kas", "Kartilaj"],
+      "correctIndex": 0,
+      "explanation": "Metinde kollajen liflerin boyunun ancak %8'i kadar esneyebildiği ve gerilmeye karşı çok dirençli olduğu, 1 mm² kesitli kollajen lifinin 10-20 kg ağırlığı taşıyabildiği belirtilmiştir. Elastin ve retiküler lifler ise esneklik ve narinlik ile tanımlanır, kollajen kadar gerilme direnci göstermezler.",
+      "optionNotes": [
+        "Kollajen lifler düşük esneklik ve çok yüksek gerilme direncine sahiptir; metindeki 10-20 kg taşıma kapasitesi bu dayanıklılığı doğrular.",
+        "Elastin lifler uzunluklarının %150'si kadar gerilebilen esnek liflerdir, gerilmeye direnç göstermek yerine enerji depolamaya ve esnemeye uygundurlar.",
+        "Retiküler lifler insandaki en ince ve narin liflerdir, destek görevi görseler de kollajen kadar gerilme direnci göstermezler.",
+        "Kas, bir doku/lif tipi olarak gerilme direncinden çok kasılma yeteneği ile tanımlanır; bu nedenle gerilmeye direnç açısından doğru cevap değildir.",
+        "Kartilaj (kıkırdak) basınca karşı dirençli bir dokudur, gerilmeye karşı direnç konusunda kollajen liflerin gösterdiği performansı sergilemez."
+      ]
+    },
+    {
+      "id": "w2q14",
+      "question": "Aşağıdakilerden hangisi spor sahalarındaki ilk yardım çantasında bulunması gereken pansuman malzemelerindendir?",
+      "options": ["Splintler", "Makas", "Tansiyon aleti", "Oksijenli su", "Steril dikiş seti"],
+      "correctIndex": 3,
+      "explanation": "Ünite içeriğinde spor sahalarındaki ilk yardım çantası üç ana başlığa ayrılır: Pansuman Malzemeleri, Araç-gereçler ve İlaçlar. Pansuman Malzemeleri listesinde \"Batikon, oksijenli su, alkol\" açıkça yer alır; dolayısıyla oksijenli su pansuman malzemeleri kategorisine girer. Splintler, makas, tansiyon aleti ve steril dikiş seti ise metinde \"Araç-gereçler\" başlığı altında sayılmıştır, pansuman malzemesi değildir.",
+      "optionNotes": [
+        "Splintler metinde \"Araç-gereçler\" başlığı altında listelenmiştir, pansuman malzemesi kategorisinde değildir.",
+        "Makas (bistüri, makas, çengelli iğne) metinde \"Araç-gereçler\" kategorisinde yer alır, pansuman malzemesi değildir.",
+        "Tansiyon aleti (steteskop ile birlikte) metinde \"Araç-gereçler\" başlığı altında sayılmıştır, pansuman malzemesi değildir.",
+        "Doğru yanıt: metinde pansuman malzemeleri listesinde \"batikon, oksijenli su, alkol\" açıkça sayılmıştır, bu nedenle oksijenli su pansuman malzemesidir.",
+        "Steril dikiş seti metinde \"Araç-gereçler\" kategorisinde listelenmiştir, pansuman malzemesi değildir."
+      ]
+    },
+    {
+      "id": "w2q15",
+      "question": "Aşağıdakilerden hangisi \"Kontra-lateral\" kelime tanımıdır?",
+      "options": ["İlgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan.", "Arka arkada bulunan", "İç taraf median düzene yakın", "Merkez", "Yukarıda bulunan"],
+      "correctIndex": 0,
+      "explanation": "Ünite içeriğindeki anatomik terimler sözlüğünde \"Kontra-lateral\" doğrudan \"İlgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan\" şeklinde tanımlanmıştır; bunun karşıtı olan \"İpsi-lateral\" ise ilgilenilen yapı veya olayla aynı tarafta olan anlamına gelir.",
+      "optionNotes": [
+        "Doğru yanıt: metinde kontra-lateral tam olarak \"ilgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan\" şeklinde tanımlanmıştır.",
+        "\"Arka arkada bulunan\" tanımı kontra-lateral ile ilgili değildir, böyle bir eşleşme metinde yer almaz.",
+        "\"İç taraf median düzene yakın\" ifadesi medial teriminin tanımına yakındır, kontra-lateral ile ilgisi yoktur.",
+        "\"Merkez\" ifadesi kontra-lateral teriminin anatomik tanımıyla ilgisi olmayan genel bir kavramdır.",
+        "\"Yukarıda bulunan\" ifadesi superior teriminin tanımına karşılık gelir, kontra-lateral ile ilgili değildir."
+      ]
+    },
+    {
+      "id": "w2q16",
+      "question": "Kalsiyum ve fosforun vücutta kullanılabilmesi için hangi vitaminin yeterli miktarda bulunması şarttır ?",
+      "options": ["B vitaminleri", "D vitamini", "C vitamini", "E vitamini", "K vitamini"],
+      "correctIndex": 1,
+      "explanation": "Ünite içeriğinde \"D vitamini kalsiyum-fosfor emilimi, kemik gelişimi ve testosteron üretiminde görev alır\" şeklinde belirtilmiştir. Bu nedenle kalsiyum ve fosforun vücutta etkin şekilde kullanılabilmesi için yeterli miktarda D vitamininin bulunması gerekir.",
+      "optionNotes": [
+        "B grubu vitaminleri enerji metabolizması, sinir sistemi ve kan hücresi üretiminde rol oynar; kalsiyum-fosfor emiliminden sorumlu değildir.",
+        "Doğru yanıt: metinde D vitamininin kalsiyum-fosfor emilimi ve kemik gelişiminde görev aldığı açıkça belirtilmiştir.",
+        "C vitamini kolajen yapımı, bağışıklık ve antioksidan etkisiyle ilişkilidir; kalsiyum-fosfor kullanımıyla doğrudan bağlantısı metinde geçmez.",
+        "E vitamini güçlü bir antioksidandır; kalsiyum-fosfor emilimiyle ilgili bir görevi metinde belirtilmemiştir.",
+        "K vitamini kan pıhtılaşması ve kemik metabolizmasında (kalsiyumu kemik-dişlere yönlendirme) görev alır, ancak kalsiyum-fosfor emiliminin asıl sorumlusu olarak metinde D vitamini belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w2q17",
+      "question": "Radius ve humerus vücudun hangi bölgesindedir?",
+      "options": ["Aksiyel iskelet", "Üst ekstremite", "Alt ekstremite", "Sırasıyla alt ve üst ekstremite", "Toraks"],
+      "correctIndex": 1,
+      "explanation": "Metinde üst ekstremitenin omuz, üst kol, önkol ve elden oluştuğu ve kolu oluşturan kemiklerin humerus, radius ve ulna olduğu belirtilmiştir. Bu nedenle radius ve humerus üst ekstremite kemikleridir.",
+      "optionNotes": [
+        "Aksiyel iskelet kafatası, omurga ve toraks gibi vücudun eksenini oluşturan kemiklerden oluşur; radius ve humerus bu grupta değildir.",
+        "Üst ekstremite, metinde belirtildiği gibi humerus, radius ve ulna kemiklerini içerir; bu nedenle doğru cevap budur.",
+        "Alt ekstremite femur, tibia, fibula gibi kemiklerden oluşur; humerus ve radius bu bölgeye ait değildir.",
+        "Humerus ve radius ikisi de üst ekstremiteye aittir, ayrı bölgelerde (alt ve üst ekstremite) bulunmazlar; bu seçenek yanlıştır.",
+        "Toraks (göğüs kafesi) kaburgalar, göğüs omurları ve sternumdan oluşur; radius ve humerus toraksın bir parçası değildir."
+      ]
+    },
+    {
+      "id": "w2q18",
+      "question": "Aşağıdakilerden hangisinde kas komponentleri büyükten küçüğe doğru sıralanmıştır?",
+      "options": ["Kas fibrili - sarkomer - myofilament - myofibril", "Kas - fasikül - kas fibrili - myofibril", "Sarkomer - fasikül - myofibril - myofilament", "Kas - kas fibrili - myosin - myofibril", "Fasikül - myofilament - kas fibrili - sarkomer"],
+      "correctIndex": 1,
+      "explanation": "Metinde belirtilen paketlenme hiyerarşisine göre kas, fasiküllerin bir araya gelmesiyle; fasikül, kas liflerinin (kas fibrili) bir araya gelmesiyle; kas lifi de myofibrillerin bir araya gelmesiyle oluşur. Bu nedenle büyükten küçüğe doğru doğru sıralama kas - fasikül - kas fibrili - myofibril şeklindedir.",
+      "optionNotes": [
+        "Bu sıralamada sarkomer ve myofilament kas fibrilinden önce verilmiş olup hiyerarşiyi ters çevirir; kas fibrili sarkomerden büyüktür, bu seçenek yanlıştır.",
+        "Kas en büyük yapı, onu fasikül, ardından kas fibrili ve en küçüğü myofibril takip eder; bu sıralama metindeki paketlenme hiyerarşisiyle tam örtüşür, doğru cevap budur.",
+        "Sarkomer, myofibril içindeki en küçük işlevsel birimdir ve bu sıralamada fasikülden daha büyük gösterilmesi hiyerarşiyle çelişir, bu seçenek yanlıştır.",
+        "Myosin bir filament (myofilament) türüdür, kas fibrili ile myofibril arasına büyüklük sırasına göre doğru yerleştirilmemiştir; bu seçenek yanlıştır.",
+        "Bu sıralamada en büyük yapı olan kas ve en küçük yapılar yer almamış, ayrıca sıralama ters çevrilmiştir; bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "id": "w2q19",
+      "question": "Aşağıdakilerden hangisi \"Lateral fleksiyon\" tanımıdır?",
+      "options": ["Herhangi bir eklemin frontal planda orta hattan uzaklaştırılmasıdır.", "Herhangi bir eklemin frontal planda orta hatta yaklaştırılmasıdır.", "Dışa, vücut merkezinden uzağa doğru döndürme.", "Gövdenin frontal plandaki (sağa veya sola doğru) bükülme hareketine denir.", "Ayak tabanının içe (medial'e, orta hatta) doğru döndürülmesi"],
+      "correctIndex": 3,
+      "explanation": "Ünite içeriğinde lateral fleksiyonun gövdenin sağa veya sola doğru eğilmesi/bükülmesi olduğu ve frontal düzlemde gerçekleştiği açıkça belirtilmiştir. Diğer seçenekler sırasıyla abduksiyon, adduksiyon, eksternal rotasyon ve inversiyon tanımlarına karşılık gelir.",
+      "optionNotes": [
+        "Bu ifade abduksiyonun tanımıdır: bir eklemin frontal planda orta hattan uzaklaştırılması, lateral fleksiyon değildir.",
+        "Bu ifade adduksiyonun tanımıdır: bir eklemin frontal planda orta hatta yaklaştırılması, lateral fleksiyon değildir.",
+        "Bu ifade dışa doğru (eksternal) rotasyon tanımına yakındır, gövdenin yana eğilmesiyle ilgili değildir.",
+        "Doğru yanıt: metinde lateral fleksiyon, gövdenin frontal plandaki sağa veya sola doğru bükülme hareketi olarak tanımlanmıştır.",
+        "Bu ifade inversiyonun tanımıdır: ayak tabanının içe (medial'e) doğru döndürülmesi, gövdenin yana eğilmesiyle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w2q20",
+      "question": "14 yaşında 55 kg ağırlığında bazal metabolizma hızı 32.5, fiziksek aktivite standartı 1.78 olan erkek bir ergenin günlük enerji ihtiyacı kaç kkal dir?",
+      "options": ["1550 kkal/gün", "1755 kkal/gün", "2180 kkal/gün", "3182 kkal/gün", "3500 kkal/gün"],
+      "correctIndex": 3,
+      "explanation": "Çocuk ve ergenlerde günlük enerji ihtiyacı, kilogram başına bazal metabolizma hızı değerinin vücut ağırlığı ile çarpılıp ardından fiziksel aktivite standart katsayısıyla çarpılmasıyla hesaplanır. Bu sporcu için hesaplama 32.5 (kkal/kg) × 55 kg = 1787,5 kkal bazal enerji, bu değerin 1.78 fiziksel aktivite katsayısıyla çarpılması ile 1787,5 × 1.78 ≈ 3182 kkal/gün sonucunu verir; bu da seçenekler arasında tam olarak verilen değerle örtüşmektedir.",
+      "optionNotes": [
+        "1550 kkal/gün, hesaplanan 32.5×55×1.78≈3182 kkal değerinden belirgin şekilde düşüktür, doğru sonucu yansıtmaz.",
+        "1755 kkal/gün, sadece bazal metabolizma değerine (32.5×55=1787,5) yakın görünse de fiziksel aktivite katsayısı uygulanmadan hesaplanmış eksik bir değerdir.",
+        "2180 kkal/gün, verilen değerlerle yapılan çarpım işlemine karşılık gelmeyen ara bir değerdir.",
+        "Doğru yanıt: 32.5 kkal/kg bazal metabolizma hızı × 55 kg = 1787,5 kkal; bu değerin 1.78 fiziksel aktivite katsayısıyla çarpılması ≈ 3182 kkal/gün sonucunu verir.",
+        "3500 kkal/gün, hesaplanan 3182 kkal değerinden yüksek, verilen sayısal değerlerle tam örtüşmeyen bir sonuçtur."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w3q1",
+      "question": "Aşağıdakilerden hangisi dört ana dokudan biri değildir?",
+      "options": [
+        "Epitel doku",
+        "Bağ doku",
+        "Kas doku",
+        "Sinir doku",
+        "Kan doku"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 1'de insan vücudunda dört ana dokunun epitel dokusu, bağ ve destek dokusu, kas dokusu ve sinir dokusu olarak tanımlandığı belirtilmiştir. Kan, dolaşım sistemi içinde özel bir sıvı doku olarak değerlendirilse de, metinde sayılan dört ana doku sınıflandırmasında ayrı bir \"kan doku\" başlığı bulunmaz; bu nedenle doğru cevap budur.",
+      "optionNotes": [
+        "Epitel doku, metinde sayılan dört ana dokudan biridir; vücudun iç ve dış yüzeylerini örten görevi vardır.",
+        "Bağ doku, dört ana dokudan biridir; bedene sağlamlık verir, organların zeminini oluşturur ve suyu depolar.",
+        "Kas doku, dört ana dokudan biridir; kontraksiyon (kasılma) yeteneğiyle hareketi sağlar.",
+        "Sinir doku, dört ana dokudan biridir; nöronlar ve glia hücrelerinden oluşarak uyarıları iletir.",
+        "Kan doku, metinde tanımlanan dört ana doku (epitel, bağ-destek, kas, sinir) listesinde ayrı bir madde olarak yer almaz; bu nedenle doğru cevap budur."
+      ]
+    },
+    {
+      "id": "w3q2",
+      "question": "Retiküler bağ doku en çok hangi organların yapısal iskeletini oluşturur?",
+      "options": [
+        "Kalp ve akciğer",
+        "Karaciğer ve pankreas",
+        "Dalak, lenf düğümleri ve kemik iliği",
+        "Mide ve bağırsaklar",
+        "Kas ve tendonlar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'in tam metninde açıkça \"Retiküler bağ dokusu dalak, lenf düğümü ve kemik iliği gibi organların iskeletini oluşturur\" denilmektedir. Retikulum hücreleri ve retiküler lifler bu organlarda üç boyutlu, narin bir ağ yapısı oluşturarak organın yapısal desteğini sağlar.",
+      "optionNotes": [
+        "Kalp ve akciğer, elastin liflerinin yoğun olduğu elastik organlar olarak tanımlanır; retiküler dokunun iskelet oluşturduğu organlar bunlar değildir.",
+        "Karaciğer, retiküler liflerin bulunduğu organlardan biri olsa da pankreas metinde bu gruba dahil edilmemiştir; dolayısıyla tam eşleşme bu seçenek değildir.",
+        "Doğru yanıt: metinde birebir \"dalak, lenf düğümü ve kemik iliği\" retiküler bağ dokusunun iskeletini oluşturan organlar olarak sayılmıştır.",
+        "Mide ve bağırsaklar sindirim sistemi organlarıdır; retiküler doku iskeleti ile metinde ilişkilendirilmemiştir.",
+        "Kas ve tendonlar farklı doku/yapılardır (kas dokusu ve bağ dokusunun özel bir türü); retiküler bağ dokusunun iskelet oluşturduğu organlar değildir."
+      ]
+    },
+    {
+      "id": "w3q3",
+      "question": "Aşağıdakilerden hangisi müsabaka içinde kullanımı yasaklı maddelerden biri değildir?",
+      "options": [
+        "Uyarıcılar",
+        "Narkotikler",
+        "Kannabinoidler",
+        "Glukokortikosteroidler",
+        "Beta bloke ediciler"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 5'e göre Yasaklılar Listesi'nde müsabaka içinde yasaklı maddeler S6 (uyarıcılar), S7 (narkotikler), S8 (kannabinoidler) ve S9 (glukokortikosteroidler) olmak üzere dört grupta toplanır. Beta bloke ediciler ise bu dört müsabaka-içi gruptan ayrı olarak \"bazı sporlarda yasaklı maddeler\" kategorisinde (P1) yer alır; bu nedenle genel müsabaka içi yasaklı maddeler arasında sayılmaz.",
+      "optionNotes": [
+        "Uyarıcılar, metinde S6 kodu ile müsabaka içinde yasaklı maddeler grubunda sayılmıştır; bu seçenek aranan istisna değildir.",
+        "Narkotikler, metinde S7 kodu ile müsabaka içinde yasaklı maddeler grubunda yer alır; bu seçenek aranan istisna değildir.",
+        "Kannabinoidler, metinde S8 kodu ile müsabaka içinde yasaklı maddeler grubundadır; bu seçenek aranan istisna değildir.",
+        "Glukokortikosteroidler, metinde S9 kodu ile müsabaka içinde yasaklı maddeler grubunda sayılmıştır; bu seçenek aranan istisna değildir.",
+        "Doğru yanıt: beta bloke ediciler, müsabaka içi dört genel gruba değil, P1 koduyla \"bazı spor dallarında yasaklı maddeler\" adlı ayrı bir özel kategoriye dahildir."
+      ]
+    },
+    {
+      "id": "w3q4",
+      "question": "Aşağıdakilerden hangisi hücrenin yapı taşı olan “supramoleküler komplekslerden” biri değildir?",
+      "options": [
+        "Ribozom",
+        "Lizozom",
+        "Mikrotübül",
+        "Sentriyol",
+        "Enzim kompleksleri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'deki \"Hücrenin Yapı Taşları\" tablosuna göre hücrenin yapı taşları organeller (nukleus, mitokondriyum, golgi aygıtı, endoplazmik retikulum, lizozom vb.) ve supramoleküler kompleksler (ribozom, mikrotübül, sentriyol, enzim kompleksleri) olmak üzere iki ayrı grupta sınıflandırılır. Lizozom bu tabloda organeller sütununda yer aldığından, supramoleküler kompleks değildir.",
+      "optionNotes": [
+        "Ribozom, tabloda supramoleküler kompleksler grubunda sayılmıştır; bu nedenle aranan istisna değildir.",
+        "Doğru yanıt: lizozom, tabloda organeller grubunda sayılmıştır, supramoleküler komplekslerden biri değildir.",
+        "Mikrotübül, tabloda supramoleküler kompleksler grubunda yer almaktadır; bu nedenle aranan istisna değildir.",
+        "Sentriyol, tabloda supramoleküler kompleksler grubunda yer almaktadır; bu nedenle aranan istisna değildir.",
+        "Enzim kompleksleri, tabloda supramoleküler kompleksler grubunda sayılmıştır; bu nedenle aranan istisna değildir."
+      ]
+    },
+    {
+      "id": "w3q5",
+      "question": "Aşağıdakilerden hangisi tendonların temel görevi ile ilgilidir?",
+      "options": [
+        "Kasları birbirine bağlamak",
+        "Kemikleri birbirine bağlamak",
+        "Kasları kemiklere bağlamak",
+        "Eklemlere esneklik kazandırmak",
+        "Sinir iletimini sağlamak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'de tendonların kasları kemiklere bağladığı ve kas kuvvetini kemiğe iletirken elastik enerji depoladığı açıkça belirtilmiştir. Bu görev, kemikleri birbirine bağlayan ligamentlerin görevinden farklıdır.",
+      "optionNotes": [
+        "Tendonlar kasları birbirine değil, kası kemiğe bağlar; bu nedenle bu seçenek yanlıştır.",
+        "Kemikleri birbirine bağlamak ligamentlerin görevidir, tendonların değil; bu seçenek yanlıştır.",
+        "Doğru yanıt: metinde tendonların temel görevi kasları kemiklere bağlamak olarak tanımlanmıştır.",
+        "Eklemlere esneklik kazandırmak tendonun tanımlı bir görevi değildir; tendon kuvvet iletimi ve elastik enerji depolama ile ilişkilidir.",
+        "Sinir iletimi, sinir dokusunun görevidir; tendon bağ dokusu yapısıdır ve sinir iletimiyle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w3q6",
+      "question": "Aşağıdakilerden hangisi ligamentlerin temel görevi ile ilgilidir?",
+      "options": [
+        "Kasları kemiklere bağlamak",
+        "Kemikleri kemiklere bağlamak",
+        "Sinir iletimini sağlamak",
+        "Kas kasılmasını başlatmak",
+        "Kan dolaşımını düzenlemek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'de ligamentlerin kemikleri kemiklere bağladığı, dış kuvvetlere direnç gösterdiği ve eklem hareket açıklığını sınırladığı belirtilmiştir. Bu görev tanımı, kasları kemiklere bağlayan tendonlardan farklıdır.",
+      "optionNotes": [
+        "Kasları kemiklere bağlamak tendonların görevidir, ligamentlerin değil; bu seçenek yanlıştır.",
+        "Doğru yanıt: metinde ligamentlerin temel görevi kemikleri kemiklere bağlamak olarak tanımlanmıştır.",
+        "Sinir iletimi sinir dokusunun görevidir; ligament bağ dokusu yapısı olup sinir iletimiyle ilgisi yoktur.",
+        "Kas kasılmasını başlatmak motor nöronların ve kas liflerinin görevidir, ligamentlerin görevi değildir.",
+        "Kan dolaşımını düzenlemek dolaşım sistemi organlarının (kalp, damarlar) görevidir, ligamentlerle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w3q7",
+      "question": "Aşağıdakilerden hangisi kıkırdak dokunun özelliklerinden biridir?",
+      "options": [
+        "Mineral içeriği yüksek ve sert bir yapıya sahiptir",
+        "Kan damarlarından zengin bir dokudur",
+        "Yüksek kolajen içerir ancak mineralize değildir",
+        "Kasılma özelliği gösterir",
+        "Sinir iletimini sağlar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'e göre kıkırdak dokusu kondrosit hücrelerinden, amorf temel maddeden ve (lifli kıkırdakta yüksek oranda kolajen içeren) liflerden oluşur; kan damarı ve siniri bulunmaz, beslenmesini difüzyonla sağlar. Kemik dokusundan farklı olarak kıkırdak mineralize değildir; mineral birikimi (anorganik bileşikler) kemik dokusuna özgüdür ve kemiği kıkırdaktan yaklaşık 10 kat daha dayanıklı yapar.",
+      "optionNotes": [
+        "Yüksek mineral içeriği ve sertlik kemik dokusunun özelliğidir; kıkırdak dokusu mineralize değildir, bu seçenek yanlıştır.",
+        "Kıkırdak dokusu kan damarı içermez, beslenmesini difüzyonla sağlar; bu nedenle \"kan damarlarından zengin\" ifadesi yanlıştır.",
+        "Doğru yanıt: kıkırdak dokusu (özellikle lifli kıkırdakta) yüksek kolajen lif oranına sahiptir ancak kemik gibi mineralize değildir.",
+        "Kasılma özelliği kas dokusuna aittir; kıkırdak dokusu kasılma yeteneği göstermez.",
+        "Sinir iletimi sinir dokusunun görevidir; kıkırdak dokusunda sinir bulunmaz, bu nedenle bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "id": "w3q8",
+      "question": "Aşağıdakilerden hangisi plazmalemmanın (hücre zarının) temel özelliğidir?",
+      "options": [
+        "Hücre içinde enerji üretmek",
+        "Hücre sitoplazmasını çevreleyen yarı geçirgen bir yapı olmak",
+        "Protein sentezini gerçekleştirmek",
+        "Hücre bölünmesini başlatmak",
+        "DNA’yı depolamak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'de hücreyi çevreleyen ince, yarı geçirgen zarın plazmalemma (hücre zarı) olarak adlandırıldığı ve hücre içi ortamı dış ortamdan ayırarak özgül bir iç denge yarattığı belirtilmiştir. Bu nedenle plazmalemmanın temel özelliği, sitoplazmayı çevreleyen seçici/yarı geçirgen bir sınır oluşturmaktır.",
+      "optionNotes": [
+        "Enerji üretimi mitokondrinin görevidir, hücre zarının temel özelliği değildir.",
+        "Doğru yanıt: plazmalemma, hücre sitoplazmasını çevreleyen yarı geçirgen bir zar olarak tanımlanmıştır.",
+        "Protein sentezi ribozomlarda gerçekleşir, hücre zarının görevi değildir.",
+        "Hücre bölünmesini başlatmak çekirdek (nukleus) ile ilişkili bir süreçtir, hücre zarının temel özelliği değildir.",
+        "DNA'yı depolamak çekirdeğin görevidir, hücre zarının görevi değildir."
+      ]
+    },
+    {
+      "id": "w3q9",
+      "question": "Aşağıdakilerden hangisi fibroblast hücrelerinin temel görevidir?",
+      "options": [
+        "Sinir impulsu iletmek",
+        "Kas kasılmasını sağlamak",
+        "Bağ dokunun temel yapı elemanlarını sentezlemek",
+        "Oksijen taşımak",
+        "Hormon salgılamak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'de fibroblastın bağ dokusunun temel yapılarının (kollajen, elastin, retiküler lifler ve amorf temel madde) sentezlenmesinden sorumlu hücre olduğu belirtilmiştir. Bu nedenle fibroblastın temel görevi bağ dokunun yapı elemanlarını üretmektir.",
+      "optionNotes": [
+        "Sinir impulsu iletmek nöronların görevidir, fibroblastın görevi değildir.",
+        "Kas kasılmasını sağlamak kas liflerinin (aktin-miyozin) görevidir, fibroblastla ilgisi yoktur.",
+        "Doğru yanıt: fibroblast, bağ dokusunun temel yapı elemanlarını (lifler ve temel madde) sentezleyen hücredir.",
+        "Oksijen taşımak kandaki alyuvarların (eritrositlerin) görevidir, fibroblastın görevi değildir.",
+        "Hormon salgılamak endokrin bezlerin/hücrelerin görevidir, fibroblastla ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w3q10",
+      "question": "Aşağıdakilerden hangisi ossifikasyonun (kemikleşme) doğru tanımıdır?",
+      "options": [
+        "Kemik dokunun yıkımı sürecidir",
+        "Osteoklastların kemik erimesi yapmasıdır",
+        "Osteoblast hücreleri tarafından yeni kemik dokusu oluşturulmasıdır",
+        "Kıkırdak dokunun tamamen yok olmasıdır",
+        "Kas liflerinin sertleşmesi sürecidir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ossifikasyon (kemikleşme), kemik yapıcı hücreler olan osteoblastlar tarafından organik temel maddeye mineral (kalsiyum fosfat gibi anorganik bileşikler) yerleştirilerek yeni kemik dokusunun oluşturulması sürecidir. Bu süreç, kemiğin yıkımı veya erimesiyle ilgili olan osteoklast faaliyetinin tam tersidir.",
+      "optionNotes": [
+        "Kemik dokusunun yıkımı, ossifikasyonun tersi olan rezorpsiyon sürecini tanımlar; bu seçenek yanlıştır.",
+        "Osteoklastların kemik erimesi yapması, kemik yıkımı (rezorpsiyon) sürecidir; ossifikasyon ise kemik yapımıdır, bu seçenek yanlıştır.",
+        "Doğru yanıt: ossifikasyon, osteoblast hücreleri tarafından yeni kemik dokusunun oluşturulması sürecidir.",
+        "Kıkırdak dokunun tamamen yok olması tek başına ossifikasyonun tanımı değildir; embriyonik kemikleşmede kıkırdak model üzerinden kemik oluşur ama tanım osteoblast aktivitesine dayanır.",
+        "Kas liflerinin sertleşmesi, kas dokusuyla ilgili bir süreçtir ve ossifikasyon (kemikleşme) ile ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w3q11",
+      "question": "Aşağıdakilerden hangisi epitel dokunun temel özelliklerinden biridir?",
+      "options": [
+        "Hücreler arası madde miktarı fazladır",
+        "Kan damarları bakımından zengindir",
+        "Kasılma özelliği gösterir",
+        "Sinir iletimini sağlar",
+        "Hücreleri sıkı bir şekilde dizilmiş olup koruyucu görev yapar"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 2'de epitel dokunun vücudun iç ve dış yüzeylerini örten, hücrelerin birbirine çok yakın ve sıkı dizildiği, hücreler arasında çok az ara madde bulunan bir doku olduğu belirtilmiştir; bu sıkı dizilim epitelin koruma/örtme görevini sağlar. Epitel doku ayrıca kan damarları açısından zengin değildir, beslenmesini altındaki bağ dokudan difüzyonla sağlar.",
+      "optionNotes": [
+        "Metinde epitel dokuda hücreler arası madde miktarının \"çok az\" olduğu belirtilmiştir, \"fazla\" değil; bu seçenek yanlıştır.",
+        "Epitel doku kan damarları bakımından zengin değildir, avaskülerdir; bu seçenek yanlıştır.",
+        "Kasılma özelliği kas dokusuna aittir, epitel dokunun özelliği değildir.",
+        "Sinir iletimi sinir dokusunun görevidir, epitel dokunun temel özelliği değildir.",
+        "Doğru yanıt: epitel dokuyu oluşturan hücreler birbirine çok yakın ve sıkı dizilidir, bu sayede koruyucu/örtücü görev üstlenir."
+      ]
+    },
+    {
+      "id": "w3q12",
+      "question": "Aşağıdakilerden hangisi bağ ve destek dokunun temel görevlerinden biridir?",
+      "options": [
+        "Dokular arasında bağlantı kurmak ve destek sağlamak",
+        "Sinir impulsu iletmek",
+        "Kas kasılmasını sağlamak",
+        "Hormon üretmek",
+        "DNA’yı depolamak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'de bağ ve destek dokusunun bütün bedene yayıldığı, kemik, kıkırdak ve tendon şeklinde bedene sağlamlık verdiği, organların zeminini oluşturduğu ve suyu depoladığı belirtilmiştir. Bu nedenle bağ ve destek dokunun temel görevi dokular arasında bağlantı kurmak ve bedene destek/sağlamlık sağlamaktır.",
+      "optionNotes": [
+        "Doğru yanıt: bağ ve destek dokusu, dokular/organlar arasında bağlantı kurma ve bedene destek sağlama görevini üstlenir.",
+        "Sinir impulsu iletmek sinir dokusunun (nöronların) görevidir, bağ-destek dokusunun görevi değildir.",
+        "Kas kasılmasını sağlamak kas dokusunun görevidir, bağ-destek dokusuyla ilgisi yoktur.",
+        "Hormon üretmek endokrin bezlerin/hücrelerin görevidir, bağ-destek dokusunun temel görevi değildir.",
+        "DNA'yı depolamak hücre çekirdeğinin görevidir, bir doku tipinin genel görevi olarak tanımlanmaz."
+      ]
+    },
+    {
+      "id": "w3q13",
+      "question": "Otonom sinir sistemi tarafından yönetilen kaslara ne ad verilmektedir?",
+      "options": [
+        "Düz kas",
+        "Sinir kası",
+        "Beyin kası",
+        "Kalp kası",
+        "Çizgili iskelet kası"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'in tam metninde \"Otonom sinir sistemi tarafından yönetilen düz kasların kontraksiyonu istem dışı, yavaş ve dalgalı olarak gerçekleşir\" denilmektedir; düz kaslar iç organlarda ve kan damarlarında bulunur. Çizgili iskelet kası ise somatik sinir sisteminin kontrolü altındadır, otonom sinir sistemi tarafından yönetilmez.",
+      "optionNotes": [
+        "Doğru yanıt: metinde otonom sinir sistemi tarafından yönetilen kasların düz kaslar olduğu açıkça belirtilmiştir.",
+        "\"Sinir kası\" metinde geçen bir kas sınıflandırması değildir, uydurma bir terimdir.",
+        "\"Beyin kası\" diye bir kas türü yoktur, metinde geçmeyen bir ifadedir.",
+        "Kalp kası istemsiz çalışsa da otonom sinir sistemi tarafından \"yönetilen\" kas olarak metinde düz kastan ayrı şekilde tanımlanır; soru metnindeki ifadeyle doğrudan eşleşen düz kastır.",
+        "Çizgili iskelet kası somatik sinir sisteminin kontrolü altındadır, istemli çalışır; otonom sinir sistemiyle yönetilmez."
+      ]
+    },
+    {
+      "id": "w3q14",
+      "question": "Aşağıdakilerden hangisi glia hücrelerinin görevlerinden biridir?",
+      "options": [
+        "Sinir impulsunu doğrudan iletmek",
+        "Kas kasılmasını başlatmak",
+        "Hormon salgılamak",
+        "Nöronlara destek sağlamak ve sinir dokusunu korumak",
+        "Oksijen taşımak"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 1'de glia hücrelerinin uyarım iletiminde görev almadığı ancak nöronlara destek olduğu, besin ulaştırdığı ve atık maddeleri uzaklaştırdığı belirtilmiştir. Sinir impulsunun doğrudan iletimi ise nöronların görevidir, glia hücrelerinin değil.",
+      "optionNotes": [
+        "Sinir impulsunun doğrudan iletimi nöronların görevidir; metinde glia hücrelerinin uyarım iletiminde görev almadığı açıkça belirtilmiştir.",
+        "Kas kasılmasını başlatmak motor nöronlar ve kas liflerinin görevidir, glia hücreleriyle ilgisi yoktur.",
+        "Hormon salgılamak endokrin hücrelerin görevidir, glia hücrelerinin temel görevi değildir.",
+        "Doğru yanıt: glia hücreleri nöronlara destek sağlar, besin ulaştırır ve sinir dokusunu atık maddelerden koruyarak destekler.",
+        "Oksijen taşımak kandaki alyuvarların (eritrositlerin) görevidir, glia hücreleriyle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w3q15",
+      "question": "Aşağıda verilenlerden hangisi sindirim sistemini oluşturan organlardan değildir?",
+      "options": [
+        "Mide",
+        "İnce bağırsak",
+        "Karaciğer",
+        "Pankreas",
+        "Böbrek"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 2'nin tam metninde sindirim sisteminin \"ağız, yutak, yemek borusu, mide, ince ve kalın bağırsaklar, karaciğer, safra kesesi, pankreastan\" oluştuğu belirtilmiştir. Böbrek bu listede yer almaz; böbrek, üriner (boşaltım) sisteminin bir organıdır, sindirim sisteminin parçası değildir.",
+      "optionNotes": [
+        "Mide, metinde sindirim sistemini oluşturan organlar arasında açıkça sayılmıştır.",
+        "İnce bağırsak, metinde sindirim sistemi organları listesinde yer almaktadır.",
+        "Karaciğer, metinde sindirim sistemine ait organlar arasında sayılmıştır.",
+        "Pankreas, metinde sindirim sistemi organları listesinde açıkça yer almaktadır.",
+        "Doğru yanıt: böbrek, sindirim sistemine ait değildir; üriner sistemin bir organı olarak atık/sıvı dengesi ile ilgilidir."
+      ]
+    },
+    {
+      "id": "w3q16",
+      "question": "Aşağıdakilerden hangisi lateral fleksiyonun doğru tanımıdır?",
+      "options": [
+        "Ekstremitenin ekseni etrafında dönmesi",
+        "Gövdenin veya boynun yana doğru eğilme hareketi",
+        "Eklem açısının artması ile düzleşme hareketi",
+        "Uzvun vücuda yaklaştırılması hareketi",
+        "Uzvun vücuttan uzaklaştırılması hareketi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'de frontal düzlemde gerçekleşen hareketler arasında abduksiyon, adduksiyon ve lateral fleksiyon sayılmış; lateral fleksiyon, gövdenin veya boynun yana doğru (sağa ya da sola) eğilme hareketi olarak tanımlanmıştır. Bu hareket frontal (koronal) düzlemde gerçekleşir.",
+      "optionNotes": [
+        "Ekstremitenin ekseni etrafında dönmesi, transvers düzlemde gerçekleşen internal/eksternal rotasyonu tanımlar, lateral fleksiyonu değil.",
+        "Doğru yanıt: lateral fleksiyon, gövdenin veya boynun frontal düzlemde yana doğru eğilme hareketidir.",
+        "Eklem açısının artarak düzleşmesi ekstansiyonu tanımlar, sagittal düzlemde gerçekleşir; lateral fleksiyon değildir.",
+        "Uzvun vücuda yaklaştırılması adduksiyonu tanımlar, lateral fleksiyonla aynı hareket değildir.",
+        "Uzvun vücuttan uzaklaştırılması abduksiyonu tanımlar, lateral fleksiyonla aynı hareket değildir."
+      ]
+    },
+    {
+      "id": "w3q17",
+      "question": "Vücutta en yaygın bulunan doku aşağıdakilerden hangisidir?",
+      "options": [
+        "Epitel doku",
+        "Kas doku",
+        "Sinir doku",
+        "Bağ doku",
+        "Yağ doku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 2'de \"Bağ dokusu, vücuttaki en yaygın dokudur\" ifadesiyle bağ dokunun vücutta en çok bulunan doku tipi olduğu açıkça belirtilmiştir. Bağ dokusu diğer dokuları birbirine bağlar, organları destekler ve korur.",
+      "optionNotes": [
+        "Epitel doku yaygın olsa da metinde \"en yaygın doku\" olarak özel olarak tanımlanan doku bağ dokusudur, epitel değildir.",
+        "Kas doku vücut kütlesinin önemli bir kısmını oluşturur ancak metinde \"en yaygın doku\" unvanı bağ dokusuna verilmiştir.",
+        "Sinir doku vücutta görece sınırlı bir dağılıma sahiptir, en yaygın doku olarak tanımlanmaz.",
+        "Doğru yanıt: metinde bağ dokusu açıkça \"vücuttaki en yaygın doku\" olarak tanımlanmıştır.",
+        "Yağ doku bağ dokusunun bir alt türü olarak kabul edilir; metinde \"en yaygın doku\" unvanı genel olarak bağ dokusuna verilmiştir, yağ dokuya özel olarak değil."
+      ]
+    },
+    {
+      "id": "w3q18",
+      "question": "Vücudun iç ve dış kısımlarını örten doku aşağıdakilerden hangisidir?",
+      "options": [
+        "Epitel doku",
+        "Bağ doku",
+        "Kas doku",
+        "Sinir doku",
+        "Kemik doku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 2'nin tam metninde epitel dokunun \"vücudun iç ve dış kısımlarını örten bir doku\" olduğu açıkça belirtilmiştir; örnek olarak derinin üst yüzeyi ile sindirim sisteminin iç yüzeyini örten dokunun epitel doku olduğu verilmiştir.",
+      "optionNotes": [
+        "Doğru yanıt: metinde epitel doku, vücudun iç ve dış kısımlarını örten doku olarak tanımlanmıştır.",
+        "Bağ doku, dokuları birbirine bağlayan ve destek sağlayan dokudur; örtme/kaplama görevi epitel dokuya aittir.",
+        "Kas doku, kasılma yoluyla hareketi sağlayan dokudur; örtme görevi ile tanımlanmaz.",
+        "Sinir doku, uyarı iletimini sağlayan dokudur; vücudu örten bir doku değildir.",
+        "Kemik doku, bedene sertlik ve destek sağlayan bağ-destek dokusunun bir türüdür; örtme görevi epitel dokuya aittir."
+      ]
+    },
+    {
+      "id": "w3q19",
+      "question": "Aşağıdakilerden hangisi hücre zarının temel görevlerinden biridir?",
+      "options": [
+        "DNA’yı depolamak",
+        "Hücre içinde enerji üretmek",
+        "Maddelerin hücre içine giriş ve çıkışını düzenlemek",
+        "Protein sentezini gerçekleştirmek",
+        "Hücre bölünmesini başlatmak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 2'de hücre zarının (plazma membranının) yarı geçirgen yapısı sayesinde maddelerin hücre içine giriş ve çıkışını düzenlediği; bu geçişlerin pasif taşıma (difüzyon, ozmoz) ve aktif taşıma (ATP harcanarak, örn. sodyum-potasyum pompası, endositoz, ekzositoz) yoluyla gerçekleştiği anlatılmıştır. Bu düzenleme, hücre zarının en temel görevidir.",
+      "optionNotes": [
+        "DNA'yı depolamak çekirdeğin (nukleusun) görevidir, hücre zarının görevi değildir.",
+        "Enerji üretimi mitokondride gerçekleşir, hücre zarının temel görevi değildir.",
+        "Doğru yanıt: hücre zarı, seçici geçirgenliği sayesinde maddelerin hücre içine giriş ve çıkışını düzenler.",
+        "Protein sentezi ribozomlarda (granüllü endoplazmik retikulum üzerinde) gerçekleşir, hücre zarının görevi değildir.",
+        "Hücre bölünmesini başlatmak çekirdek ve ilgili hücresel mekanizmalarla ilişkilidir, hücre zarının temel görevi değildir."
+      ]
+    },
+    {
+      "id": "w3q20",
+      "question": "Aşağıdakilerden hangisi ATP sentezini sağlayan kimyasal reaksiyonların gerçekleştiği temel hücresel süreçtir?",
+      "options": [
+        "Fotosentez",
+        "Hücresel solunum",
+        "Difüzyon",
+        "Osmos",
+        "Aktif taşıma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 2'de ATP sentezini sağlayan kimyasal reaksiyonların (fosfojen sistem, laktik asit sistemi ve aerobik sistem olmak üzere) hücresel solunum kapsamında gerçekleştiği, bu reaksiyonların sitoplazma ve mitokondride meydana geldiği anlatılmıştır. Fotosentez bitkilere özgü bir süreçtir ve insan hücrelerinde ATP sentezini sağlamaz.",
+      "optionNotes": [
+        "Fotosentez, bitkilerde güneş enerjisinin kimyasal enerjiye dönüştürüldüğü bir süreçtir; insan hücrelerinde ATP sentezleyen süreç değildir.",
+        "Doğru yanıt: ATP sentezini sağlayan kimyasal reaksiyonlar (fosfojen, laktik asit ve aerobik sistemler) hücresel solunum kapsamında gerçekleşir.",
+        "Difüzyon, maddelerin yoğun bölgeden az yoğun bölgeye pasif taşınmasıdır; ATP sentezleyen bir reaksiyon süreci değildir.",
+        "Osmos, suyun yarı geçirgen zardan geçişidir; ATP sentezi ile ilgili bir kimyasal reaksiyon süreci değildir.",
+        "Aktif taşıma, ATP enerjisini kullanan bir madde taşıma sürecidir; ATP'yi sentezleyen bir süreç değil, tüketen bir süreçtir."
+      ]
+    }
+  ]
+}

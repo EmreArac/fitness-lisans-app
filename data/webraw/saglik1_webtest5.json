@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w5q1",
+      "question": "Egzersiz sırasında kalp atım hızının artmasının nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Kasların küçülmesi",
+        "Vücudun daha fazla oksijene ihtiyaç duyması",
+        "Kemiklerin büyümesi",
+        "Sinirlerin azalması",
+        "Damarların kapanması"
+      ],
+      "correctIndex": 1,
+      "explanation": "Egzersiz sırasında çalışan kaslar enerji (ATP) üretimi için normalden çok daha fazla oksijene ihtiyaç duyar. Kalp atım hızının artması, kalbin dakikada pompaladığı kan miktarını yükselterek bu artan oksijen talebinin kaslara daha hızlı taşınmasını sağlamaya yöneliktir.",
+      "optionNotes": [
+        "Egzersizde kaslar küçülmez; tam tersine kasılma için enerjiye ve oksijene duyulan ihtiyaç artar, bu da kalp atım hızı artışının nedeni değildir.",
+        "Doğru yanıt: kalp atım hızı, aktif kasların artan oksijen ihtiyacını karşılamak için dolaşımı hızlandırmak amacıyla artar.",
+        "Kemiklerin büyümesi egzersiz sırasında anlık olarak gerçekleşen bir süreç değildir ve kalp atım hızı artışıyla doğrudan ilişkili değildir.",
+        "Egzersiz sırasında sinir aktivitesi azalmaz, aksine sempatik sinir sistemi aktivasyonu artar; bu seçenek fizyolojik gerçeği yansıtmaz.",
+        "Egzersizde damarlar kapanmaz, aksine kaslara giden damarlar genişleyerek (vazodilatasyon) kan akışını artırır; bu seçenek tam tersini ifade eder."
+      ]
+    },
+    {
+      "id": "w5q2",
+      "question": "Aşağıdakilerden hangisi aerobik egzersize örnektir?",
+      "options": [
+        "Halter kaldırma",
+        "Uzun mesafe koşu",
+        "Gülle atma",
+        "100 m sprint",
+        "Disk atma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aerobik (oksijen) sistem, oksijenin kaslara ve mitokondriye ulaşması zaman aldığından yavaş çalışan ancak uzun süre enerji sağlayabilen bir sistemdir; bu nedenle uzun süreli, düşük-orta şiddetli aktivitelerde (maraton, uzun mesafe koşu gibi) baskın rol oynar. Diğer seçenekler ise kısa süreli ve yüksek şiddetli olup anaerobik (fosfojen) sistemle gerçekleştirilen hareketlerdir.",
+      "optionNotes": [
+        "Halter kaldırma kısa süreli ve maksimal şiddetli bir hareket olduğundan fosfojen (ATP-CP) sistemiyle, yani anaerobik yolla gerçekleştirilir.",
+        "Doğru yanıt: uzun mesafe koşu, enerjisinin büyük kısmını aerobik sistemden sağlayan tipik bir dayanıklılık (aerobik) egzersizidir.",
+        "Gülle atma, birkaç saniyede tamamlanan patlayıcı bir hareket olduğundan anaerobik fosfojen sistemle gerçekleştirilir, aerobik egzersiz değildir.",
+        "100 m sprint, 10-15 saniye süren maksimal şiddetli bir koşu olduğundan anaerobik fosfojen sistemle yapılır, aerobik örnek değildir.",
+        "Disk atma da gülle atma gibi kısa süreli, patlayıcı bir harekettir ve anaerobik sistemle gerçekleştirilir, aerobik egzersiz örneği değildir."
+      ]
+    },
+    {
+      "id": "w5q3",
+      "question": "Kısa süreli ve yüksek şiddetli egzersizler hangi enerji sistemiyle yapılır?",
+      "options": [
+        "Aerobik enerji sistemi",
+        "Anaerobik enerji sistemi",
+        "Sindirim sistemi",
+        "Lenf sistemi",
+        "Boşaltım sistemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kısa süreli ve yüksek şiddetli egzersizlerde (örneğin sıçrama, atma, sürat koşuları) enerji, oksijene gerek kalmadan hızlı çalışan anaerobik sistemlerden (fosfojen ve laktik asit sistemi) sağlanır. Aerobik sistem ise yavaş çalıştığından bu tür kısa ve patlayıcı hareketlerde yeterli olmaz.",
+      "optionNotes": [
+        "Aerobik sistem oksijenin kaslara ulaşması zaman aldığından yavaş çalışır; kısa süreli yüksek şiddetli egzersizlerde yeterli hızda enerji sağlayamaz.",
+        "Doğru yanıt: kısa süreli, yüksek şiddetli egzersizlerde enerji anaerobik (fosfojen ve laktik asit) sistemlerden hızlıca sağlanır.",
+        "Sindirim sistemi besinlerin parçalanmasıyla ilgilidir, egzersiz sırasında anlık enerji üretim sistemi değildir.",
+        "Lenf sistemi bağışıklık ve sıvı dengesiyle ilgilidir, enerji üretim sistemleri arasında yer almaz.",
+        "Boşaltım sistemi atık maddelerin uzaklaştırılmasıyla ilgilidir, egzersiz sırasında kullanılan bir enerji sistemi değildir."
+      ]
+    },
+    {
+      "id": "w5q4",
+      "question": "Spor öncesinde yapılan ısınma hareketlerinin temel amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Kasları yormak",
+        "Nabzı düşürmek",
+        "Kasları küçültmek",
+        "Sakatlık riskini azaltmak",
+        "Enerji tüketimini azaltmak"
+      ],
+      "correctIndex": 3,
+      "explanation": "Isınma, kas ve bağ dokusunun sıcaklığını ve kan akımını artırarak dokuların ani ve yüksek şiddetli yüklenmelere daha hazırlıklı olmasını sağlar; bu sayede spor yaralanmalarına zemin hazırlayan risk faktörlerinden biri olan yetersiz hazırlık ortadan kaldırılarak sakatlık riski azaltılır. Bu, metinde değinilen yaralanma önleme yaklaşımlarıyla da örtüşen temel bir amaçtır.",
+      "optionNotes": [
+        "Isınmanın amacı kasları yormak değildir; aksine kasları aktiviteye hazırlamaktır, aşırı yorgunluk sakatlık riskini artıran bir faktördür.",
+        "Isınma sırasında nabız düşmez, tam tersine artan kan akımı ve kas aktivitesiyle birlikte nabız yükselir.",
+        "Isınma hareketleri kasları küçültmez; kan akımını ve esnekliği artırarak kasları faaliyete hazırlar.",
+        "Doğru yanıt: ısınmanın temel amacı, dokuları aktiviteye hazırlayarak spor yaralanması riskini azaltmaktır.",
+        "Isınma enerji tüketimini azaltmayı hedeflemez; aksine kontrollü bir şekilde enerji harcanarak vücut ısıtılır ve dolaşım hızlandırılır."
+      ]
+    },
+    {
+      "id": "w5q5",
+      "question": "Aşağıdakilerden hangisi/hangileri ATP sentezini sağlayan kimyasal reaksiyonlar arasında yer alır? I. ATP-CP veya fosfojen sistemi, II. Laktik asit veya anaerobik glikoliz sistemi, III. Aerobik sistem veya oksijen sistemi",
+      "options": [
+        "I",
+        "III",
+        "I-II",
+        "II-III",
+        "I-II-III"
+      ],
+      "correctIndex": 4,
+      "explanation": "ATP sentezini sağlayan kimyasal reaksiyonlar üç kategoride sınıflandırılır: ATP-CP (fosfojen) sistemi, laktik asit (anaerobik glikoliz) sistemi ve aerobik (oksijen) sistemi. Bu üç sistem her fiziksel aktivitede farklı oranlarda birlikte çalışarak ATP'nin yeniden sentezlenmesini sağlar; dolayısıyla I, II ve III'ün tamamı doğrudur.",
+      "optionNotes": [
+        "Sadece I'i seçmek eksiktir; fosfojen sistem ATP sentezleyen sistemlerden biridir ama laktik asit ve aerobik sistemler de bu sürece dahildir.",
+        "Sadece III'ü seçmek eksiktir; aerobik sistem ATP sentezler ama fosfojen ve laktik asit sistemleri de aynı işlevi görür.",
+        "I-II kombinasyonu eksiktir; bu, anaerobik sistemin iki bileşenini kapsar ama aerobik sistemi dışarıda bırakır.",
+        "II-III kombinasyonu eksiktir; bu, fosfojen sistemini (I) dışarıda bırakır, oysa o da ATP sentezleyen sistemlerden biridir.",
+        "Doğru yanıt: fosfojen, laktik asit ve aerobik sistemlerin üçü de ATP sentezini sağlayan kimyasal reaksiyon gruplarıdır."
+      ]
+    },
+    {
+      "id": "w5q6",
+      "question": "Aşağıda doping analizi ile ilgili verilen bilgilerden hangileri doğrudur? I. Doping kontrolü sporcuların idrar veya kan örneklerinin incelenmesi ile yapılabilir. II. Doping kontrolleri sadece yarışma sırasında yapılır. III. Doping kontrolleri sporcuların performans artırıcı yasaklı maddeleri kullanıp kullanmadığını belirlemek amacıyla yapılır. IV. Sporcular yarışma dışı dönemlerde de doping kontrolüne tabi tutulabilir.",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "I, III ve IV",
+        "II ve III",
+        "I, II, III ve IV"
+      ],
+      "correctIndex": 2,
+      "explanation": "Doping kontrolü sporcudan alınan idrar ve/veya kan örneğinin analiz edilmesiyle yapılır (I doğru) ve amacı sporcuların yasaklı performans artırıcı madde kullanıp kullanmadığını belirlemektir (III doğru). Sporcular hem müsabaka içinde hem de müsabaka dışında, herhangi bir zamanda ve yerde doping kontrolüne tabi tutulabilir (IV doğru); dolayısıyla \"sadece yarışma sırasında yapılır\" ifadesi (II) yanlıştır.",
+      "optionNotes": [
+        "I ve II yanlıştır; I doğru olsa da II (kontrollerin sadece yarışma sırasında yapıldığı) yanlıştır, çünkü müsabaka dışı kontrol de uygulanır.",
+        "I ve III doğru ifadeler olsa da bu seçenek IV'ü dışarıda bırakır; oysa yarışma dışı kontrol de doğru bir bilgidir, bu nedenle eksik bir seçenektir.",
+        "Doğru yanıt: I, III ve IV doğru bilgilerdir; sadece II (kontrollerin yalnızca yarışma sırasında yapıldığı) yanlıştır çünkü kontroller yarışma dışında da yapılabilir.",
+        "II ve III yanlıştır; II ifadesi doğru değildir, kontroller yarışma dışında da gerçekleştirilebilir.",
+        "I, II, III ve IV hepsi doğru değildir; II ifadesi (sadece yarışma sırasında kontrol yapılması) metinle çelişmektedir, bu nedenle bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "id": "w5q7",
+      "question": "Uluslararası spor organizasyonlarının güvenli bir şekilde gerçekleştirilebilmesi için ortam sıcaklığının en fazla kaç °C olması önerilmektedir?",
+      "options": [
+        "25 °C",
+        "26 °C",
+        "27 °C",
+        "28 °C",
+        "30 °C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde uluslararası spor karşılaşmalarının güvenli şekilde yapılabilmesi için maksimum ortam sıcaklığının 25°C olması gerektiği açıkça belirtilmiştir. Bu sınırın üzerindeki sıcaklıklar sporcularda sıcak çarpması gibi ciddi sağlık sorunlarına yol açabilir.",
+      "optionNotes": [
+        "Doğru yanıt: metinde belirtilen maksimum ortam sıcaklığı tam olarak 25°C'dir.",
+        "26°C, metinde belirtilen 25°C'lik maksimum sınırın üzerindedir, bu nedenle yanlıştır.",
+        "27°C de metindeki 25°C üst sınırını aşan, hatalı bir değerdir.",
+        "28°C, önerilen maksimum sıcaklığın oldukça üzerinde olup metinle uyuşmamaktadır.",
+        "30°C, metinde belirtilen güvenli üst sınırdan belirgin şekilde yüksektir, bu nedenle doğru değildir."
+      ]
+    },
+    {
+      "id": "w5q8",
+      "question": "Uluslararası spor müsabakalarının güvenli ve sağlıklı bir şekilde gerçekleştirilebilmesi için ortam sıcaklığının belirli sınırlar içinde olması gerekir. Buna göre uluslararası spor karşılaşmalarının yapılabilmesi için minimum ortam sıcaklığı kaç °C olmalıdır?",
+      "options": [
+        "10 °C",
+        "12 °C",
+        "14 °C",
+        "16 °C",
+        "18 °C"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde uluslararası spor karşılaşmalarının yapılabilmesi için maksimum ortam sıcaklığının 25°C, minimum sıcaklığın ise 16°C olarak belirtildiği açıkça ifade edilmiştir. Bu sınırların dışına çıkıldığında sporcu sağlığı açısından risk oluşabilir.",
+      "optionNotes": [
+        "10°C, metinde belirtilen 16°C'lik minimum sınırın altında kalan, hatalı bir değerdir.",
+        "12°C de minimum sınır olan 16°C'nin altındadır, bu nedenle yanlıştır.",
+        "14°C, metindeki 16°C değerine yakın olsa da doğru minimum sınır değildir.",
+        "Doğru yanıt: metinde belirtilen minimum ortam sıcaklığı tam olarak 16°C'dir.",
+        "18°C, metinde belirtilen 16°C'lik minimum sınırın üzerinde olduğu için yanlıştır."
+      ]
+    },
+    {
+      "id": "w5q9",
+      "question": "Anatomi ve spor bilimlerinde kullanılan \"kontra-lateral\" terimi aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Aynı tarafta bulunan yapıları",
+        "Vücudun orta hattına yakın olan yapıları",
+        "Vücudun sağ ve sol bulunan yapıları",
+        "Üst tarafta bulunan yapıları",
+        "Alt tarafta bulunan yapıları"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anatomik terimler sözlüğünde kontra-lateral, \"ilgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan\" yapı olarak tanımlanır; yani vücudun karşılıklı sağ-sol taraflarından birindeki yapıyı diğer taraftaki bir yapıyla ilişkilendiren bir terimdir. Bu nedenle verilen seçenekler arasında sağ-sol taraflılığı ifade eden seçenek doğru kabul edilmiştir.",
+      "optionNotes": [
+        "Aynı tarafta bulunan yapıları ifade eden terim ipsi-lateraldir, kontra-lateral değildir; bu seçenek tanımın tam tersidir.",
+        "Vücudun orta hattına yakın olan yapılar \"medial\" terimiyle ifade edilir, kontra-lateral ile ilgisi yoktur.",
+        "Doğru yanıt: kontra-lateral terimi, bir yapının karşı tarafında (sağ veya solda) yer alan yapıyı belirtmek için kullanılır.",
+        "Üst tarafta bulunan yapılar \"superior\" terimiyle tanımlanır, bu kontra-lateral tanımıyla ilgili değildir.",
+        "Alt tarafta bulunan yapılar \"inferior\" terimiyle ifade edilir, kontra-lateral terimiyle doğrudan bir ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w5q10",
+      "question": "Metabolizma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Metabolizma, canlı organizmada gerçekleşen tüm kimyasal reaksiyonların bütünüdür.",
+        "Metabolizma anabolizma ve katabolizma olmak üzere ikiye ayrılır.",
+        "Metabolik faaliyetler vücutta enerji üretimi ve kullanımını içerir.",
+        "Metabolizma yalnızca sindirim sistemi ile sınırlı bir süreçtir.",
+        "Metabolik reaksiyonlar enzimler tarafından düzenlenir."
+      ],
+      "correctIndex": 3,
+      "explanation": "Metabolizma, canlı organizmada gerçekleşen tüm kimyasal reaksiyonların bütünü olarak tanımlanır ve anabolizma (yapım) ile katabolizma (yıkım) olmak üzere iki temel süreçten oluşur; bu süreçler enzimler tarafından düzenlenir ve vücudun her yerinde (sadece sindirim sisteminde değil) gerçekleşir. Bu nedenle \"metabolizma yalnızca sindirim sistemi ile sınırlı bir süreçtir\" ifadesi yanlıştır ve soru tarafından aranan cevaptır.",
+      "optionNotes": [
+        "Bu ifade doğrudur (aranan yanlış şık değil): metabolizma, canlı organizmadaki tüm kimyasal reaksiyonların bütününü tanımlar.",
+        "Bu ifade doğrudur: metabolizma, metnin de belirttiği gibi anabolizma ve katabolizma olmak üzere iki temel sürece ayrılır.",
+        "Bu ifade doğrudur: metabolik faaliyetler vücutta enerji üretimi ve kullanımını kapsayan süreçlerdir.",
+        "Doğru yanıt (yanlış olan ifade budur): metabolizma sadece sindirim sistemiyle sınırlı değildir, vücuttaki tüm hücre ve sistemlerde gerçekleşen kimyasal reaksiyonları kapsar.",
+        "Bu ifade doğrudur: metabolik reaksiyonlar enzimler tarafından katalizlenip düzenlenir."
+      ]
+    },
+    {
+      "id": "w5q11",
+      "question": "Metabolizma aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Sadece sindirim olaylarını",
+        "Vücuttaki tüm kimyasal reaksiyonların toplamını",
+        "Sadece enerji üretimini",
+        "Sadece kas faaliyetlerini",
+        "Sadece hormon üretimini"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metabolizma, canlı organizmada gerçekleşen tüm kimyasal reaksiyonların bütünü olarak tanımlanır; bu reaksiyonlar yapım (anabolizma) ve yıkım (katabolizma) süreçlerini kapsar ve vücudun her yerinde sürekli gerçekleşir, tek bir organ veya işlevle sınırlı değildir.",
+      "optionNotes": [
+        "Metabolizma sadece sindirim olaylarıyla sınırlı değildir; sindirim, metabolizmanın yalnızca bir parçası olabilecek süreçlerden biridir.",
+        "Doğru yanıt: metabolizma, vücuttaki tüm kimyasal reaksiyonların (yapım ve yıkım) toplamını ifade eder.",
+        "Enerji üretimi metabolizmanın (katabolizmanın) bir parçasıdır ama metabolizma bundan ibaret değildir, anabolik (yapım) süreçleri de içerir.",
+        "Metabolizma sadece kas faaliyetleriyle sınırlı değildir; vücuttaki tüm hücre ve dokularda gerçekleşen reaksiyonları kapsar.",
+        "Hormon üretimi metabolik faaliyetlerden biri olabilir ama metabolizmanın tanımı bununla sınırlı değildir, çok daha kapsamlı bir kavramdır."
+      ]
+    },
+    {
+      "id": "w5q12",
+      "question": "Metabolizma hangi iki temel süreçten oluşur?",
+      "options": [
+        "Aerobik – Anaerobik",
+        "Sindirim – Boşaltım",
+        "Anabolizma – Katabolizma",
+        "Oksidasyon – Redüksiyon",
+        "Kasılma – Gevşeme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metabolizma, basit moleküllerden karmaşık moleküllerin sentezlendiği yapım süreci olan anabolizma ile karmaşık moleküllerin basit moleküllere parçalandığı yıkım süreci olan katabolizma olmak üzere iki temel süreçten oluşur.",
+      "optionNotes": [
+        "Aerobik ve anaerobik, enerji sistemlerinin oksijen kullanımına göre sınıflandırılmasıdır; metabolizmanın iki temel sürecini tanımlamaz.",
+        "Sindirim ve boşaltım, besin alımı ve atık uzaklaştırma ile ilgili ayrı fizyolojik süreçlerdir, metabolizmanın tanımlayıcı iki bileşeni değildir.",
+        "Doğru yanıt: metabolizma anabolizma (yapım) ve katabolizma (yıkım) olmak üzere iki temel sürece ayrılır.",
+        "Oksidasyon ve redüksiyon kimyasal reaksiyon türleridir, metabolizmanın genel olarak ikiye ayrıldığı temel süreçleri ifade etmez.",
+        "Kasılma ve gevşeme kas fizyolojisiyle ilgili kavramlardır, metabolizmanın yapım-yıkım süreçlerini tanımlamaz."
+      ]
+    },
+    {
+      "id": "w5q13",
+      "question": "Vücutta enerji üretimi amacıyla büyük moleküllerin küçük moleküllere parçalanmasına ne ad verilir?",
+      "options": [
+        "Katabolizma",
+        "Anabolizma",
+        "Oksidasyon",
+        "Homeostaz",
+        "Difüzyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Katabolizma, karmaşık (büyük) moleküllerin enerji açığa çıkaracak şekilde basit (küçük) moleküllere parçalanması sürecidir; metabolizmanın yıkım yönünü oluşturur ve vücudun enerji ihtiyacını karşılamasında temel rol oynar.",
+      "optionNotes": [
+        "Doğru yanıt: büyük moleküllerin küçük moleküllere parçalanarak enerji açığa çıkarılması süreci katabolizma olarak adlandırılır.",
+        "Anabolizma tam tersidir; basit moleküllerden karmaşık (büyük) moleküllerin sentezlenmesi sürecidir, parçalanma değil yapım ifade eder.",
+        "Oksidasyon, bir maddenin elektron kaybetmesiyle gerçekleşen kimyasal bir reaksiyon türüdür, molekül parçalanmasının genel adı değildir.",
+        "Homeostaz, vücudun iç ortamının sabit koşullarda tutulmasıdır, molekül parçalanma süreciyle ilgili değildir.",
+        "Difüzyon, maddelerin yoğun bölgeden az yoğun bölgeye geçişini ifade eden bir taşınma şeklidir, molekül parçalanması değildir."
+      ]
+    },
+    {
+      "id": "w5q14",
+      "question": "Küçük moleküllerden daha büyük moleküllerin sentezlenmesi süreci aşağıdakilerden hangisidir?",
+      "options": [
+        "Katabolizma",
+        "Hidroliz",
+        "Oksidasyon",
+        "Solunum",
+        "Anabolizma"
+      ],
+      "correctIndex": 4,
+      "explanation": "Anabolizma, basit (küçük) moleküllerden karmaşık (büyük) moleküllerin sentezlendiği yapım sürecidir; örneğin amino asitlerden proteinlerin oluşturulması bu sürece örnektir. Metabolizmanın yapım yönünü temsil eder ve katabolizmanın tam tersidir.",
+      "optionNotes": [
+        "Katabolizma tam tersidir; karmaşık moleküllerin basit moleküllere parçalanmasını ifade eder, sentezleme değildir.",
+        "Hidroliz, su kullanılarak bir bağın parçalanması işlemidir; molekül sentezlemekten farklı, bir yıkım türüdür.",
+        "Oksidasyon, elektron kaybına bağlı bir kimyasal reaksiyon türüdür, küçük moleküllerden büyük molekül sentezlemeyi tanımlamaz.",
+        "Solunum, hücresel enerji üretimi sürecidir, molekül sentezleme (anabolizma) sürecinin genel adı değildir.",
+        "Doğru yanıt: küçük moleküllerden büyük moleküllerin sentezlenmesi süreci anabolizma olarak adlandırılır."
+      ]
+    },
+    {
+      "id": "w5q15",
+      "question": "Kasların doğrudan kullandığı enerji kaynağı aşağıdakilerden hangisidir?",
+      "options": [
+        "Glikoz",
+        "Protein",
+        "Vitamin",
+        "ATP",
+        "Yağ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vücudun doğrudan enerji kaynağı ATP'dir (adenozin trifosfat); kaslar kasılma için gereken enerjiyi doğrudan ATP'nin parçalanmasından elde eder. Glikoz, yağ ve protein gibi besin maddeleri ise dolaylı enerji kaynaklarıdır çünkü bu maddelerin önce metabolik yollarla parçalanarak ATP'ye dönüştürülmesi gerekir.",
+      "optionNotes": [
+        "Glikoz, karbonhidrat metabolizması yoluyla ATP üretiminde kullanılan dolaylı bir enerji kaynağıdır, kasların doğrudan kullandığı molekül değildir.",
+        "Protein de dolaylı bir enerji kaynağıdır ve öncelikli görevi büyüme-onarımdır, kaslar tarafından doğrudan kullanılan enerji molekülü değildir.",
+        "Vitaminler kalori içermez ve enerji üretimine yalnızca yardımcı olur, kasların doğrudan kullandığı bir enerji kaynağı değildir.",
+        "Doğru yanıt: vücudun ve kasların doğrudan enerji kaynağı ATP'dir; besinler ise bu ATP'nin dolaylı kaynaklarıdır.",
+        "Yağ, aerobik sistemde parçalanarak ATP üretiminde kullanılan dolaylı bir enerji kaynağıdır, kasların doğrudan kullandığı molekül değildir."
+      ]
+    },
+    {
+      "id": "w5q16",
+      "question": "ATP&#039;nin açılımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Adenozin trifosfat",
+        "Adenin trifosfat",
+        "Adenozin difosfat",
+        "Adenin difosfat",
+        "Adenozin monofosfat"
+      ],
+      "correctIndex": 0,
+      "explanation": "ATP, adenozin ve üç fosfat grubundan oluşan \"adenozin trifosfat\" kısaltmasıdır. Son iki fosfat bağı yüksek enerjili bağlardır; bu bağların parçalanmasıyla enerji açığa çıkar ve ADP (adenozin difosfat) ile serbest fosfat oluşur.",
+      "optionNotes": [
+        "Doğru yanıt: ATP, \"adenozin trifosfat\" ifadesinin kısaltmasıdır.",
+        "Adenin, adenozin molekülünün bir bileşenidir (baz kısmı) ama ATP'nin açılımındaki tam terim \"adenozin\"dir, \"adenin\" değildir.",
+        "Adenozin difosfat, ATP'nin bir fosfat grubu kaybetmesiyle oluşan ürün olan ADP'nin açılımıdır, ATP'nin kendisi değildir.",
+        "Adenin difosfat, doğru terminolojiye uymayan hatalı bir isimlendirmedir; böyle bir molekül standart olarak bu şekilde adlandırılmaz.",
+        "Adenozin monofosfat (AMP), tek fosfat grubu içeren farklı bir molekülün (ATP'nin daha fazla enerji kaybetmiş hâlinin) açılımıdır, ATP değildir."
+      ]
+    },
+    {
+      "id": "w5q17",
+      "question": "Kısa süreli ve yüksek şiddetli egzersizlerde kullanılan enerji sistemi aşağıdakilerden hangisidir?",
+      "options": [
+        "Aerobik sistem",
+        "Oksidatif sistem",
+        "Sindirim sistemi",
+        "Lenf sistemi",
+        "Anaerobik sistem"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kısa süreli ve yüksek şiddetli egzersizlerde (örneğin sıçrama, atma, kısa sürat koşuları) enerji oksijen kullanılmadan, hızlı çalışan anaerobik sistemden (fosfojen ve/veya laktik asit sistemleri) sağlanır. Aerobik (oksidatif) sistem ise oksijenin kaslara ulaşması zaman aldığından yavaş çalışır ve bu tür kısa, patlayıcı hareketler için uygun değildir.",
+      "optionNotes": [
+        "Aerobik sistem yavaş çalışır ve oksijen taşınımına bağlıdır; kısa süreli yüksek şiddetli egzersizlerin ani enerji talebini karşılayamaz.",
+        "Oksidatif sistem aerobik sistemle aynı anlama gelir ve aynı nedenle kısa süreli yüksek şiddetli egzersizler için uygun bir seçenek değildir.",
+        "Sindirim sistemi besinlerin parçalanmasıyla ilgilidir, egzersiz sırasında anlık enerji sağlayan bir sistem değildir.",
+        "Lenf sistemi bağışıklık ve sıvı dengesiyle ilgilidir, enerji üretim sistemleri arasında yer almaz.",
+        "Doğru yanıt: kısa süreli, yüksek şiddetli egzersizlerde enerji anaerobik sistemden hızlı bir şekilde sağlanır."
+      ]
+    },
+    {
+      "id": "w5q18",
+      "question": "Kasların kasılmasını sağlayan temel yapı aşağıdakilerden hangisidir?",
+      "options": [
+        "Sinir hücreleri",
+        "Kemik hücreleri",
+        "Miyofibriller",
+        "Kıkırdak hücreleri",
+        "Lenf hücreleri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kas lifi içindeki miyofibriller, kalın miyozin ve ince aktin filamentlerinden (miyofilamentlerden) oluşan sarkomerleri barındırır; kontraksiyon sırasında aktin filamentleri miyozin filamentlerinin ortasına doğru kayarak kasılmayı ve kuvvet üretimini sağlar. Bu nedenle kasılmayı doğrudan gerçekleştiren temel yapı miyofibrillerdir.",
+      "optionNotes": [
+        "Sinir hücreleri (nöronlar) kasa kasılma komutunu ileten uyarıyı taşır, ancak kasılmayı fiziksel olarak gerçekleştiren yapı değildir.",
+        "Kemik hücreleri (osteositler) kemik dokusunun yapı taşıdır, kas kasılmasıyla doğrudan bir ilgisi yoktur.",
+        "Doğru yanıt: miyofibriller, aktin ve miyozin filamentlerini içeren sarkomer yapıları aracılığıyla kasılmayı doğrudan gerçekleştirir.",
+        "Kıkırdak hücreleri (kondrositler) eklem yüzeylerinde ve destek dokusunda bulunur, kas kasılmasıyla ilgili bir yapı değildir.",
+        "Lenf hücreleri bağışıklık sistemiyle ilgilidir, kas kasılma mekanizmasında herhangi bir rol üstlenmez."
+      ]
+    },
+    {
+      "id": "w5q19",
+      "question": "Kaslarda enerji depolanmasında önemli rol oynayan karbonhidrat formu aşağıdakilerden hangisidir?",
+      "options": [
+        "Glikojen",
+        "Laktoz",
+        "Fruktoz",
+        "Galaktoz",
+        "Selüloz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karbonhidratlar kaslarda enerji deposu olarak glikojen formunda saklanır; kasta yaklaşık 300-400 gram glikojen bulunur ve bu depo, egzersiz sırasında ihtiyaç duyulduğunda glikoza parçalanarak enerji üretiminde kullanılır. Laktoz, früktoz ve galaktoz ise disakkarit/monosakkarit türü basit şekerlerdir ve kasta depolanan form değildir.",
+      "optionNotes": [
+        "Doğru yanıt: kaslarda enerji deposu olarak kullanılan karbonhidrat formu glikojendir.",
+        "Laktoz, süt ve süt ürünlerinde bulunan bir disakkarittir; kasta depolanan enerji formu değildir.",
+        "Früktoz, meyvelerde bulunan basit bir monosakkarittir; vücutta glikojen gibi kas içinde depolanan bir form değildir.",
+        "Galaktoz, laktozun bir bileşeni olan monosakkarittir; kas dokusunda depo karbonhidrat formu olarak kullanılmaz.",
+        "Selüloz, bitkisel bir polisakkarittir ve insan vücudunda sindirilemediği için enerji deposu olarak kullanılmaz."
+      ]
+    },
+    {
+      "id": "w5q20",
+      "question": "Egzersiz sonrasında yapılan hafif egzersizlerin temel amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Kasları yormak",
+        "Nabzı artırmak",
+        "Laktik asidin uzaklaştırılmasına yardımcı olmak",
+        "Kas kütlesini azaltmak",
+        "Enerji tüketimini artırmak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yüksek şiddetli egzersiz sırasında anaerobik glikoliz sonucu kaslarda laktik asit birikir ve bu birikim pH'ı düşürerek kas yorgunluğuna yol açar. Egzersiz sonrası yapılan hafif tempolu (aktif) egzersizler, kas kan akımını sürdürerek biriken laktik asidin dolaşım yoluyla uzaklaştırılmasına ve toparlanmanın hızlanmasına yardımcı olur. Not: Bu çıkarım, ünite metinlerinde laktik asit birikimi ve sonuçları hakkında verilen bilgilere dayanmaktadır; metinde doğrudan \"soğuma egzersizi\" başlığı altında bu ifadeyle yer almasa da diğer seçeneklerin açıkça yanlış olması nedeniyle en güçlü desteklenen seçenek budur.",
+      "optionNotes": [
+        "Egzersiz sonrası hafif egzersizin amacı kasları yormak değildir; aksine toparlanmayı desteklemektir, yorgunluğu azaltmaya yöneliktir.",
+        "Hafif tempolu soğuma egzersizleri nabzı artırmayı değil, kademeli olarak düşürerek dinlenim seviyesine döndürmeyi hedefler.",
+        "Doğru yanıt: egzersiz sonrası hafif aktivite, kas kan akımını sürdürerek biriken laktik asidin uzaklaştırılmasına yardımcı olur.",
+        "Hafif egzersizin amacı kas kütlesini azaltmak değildir; bu, toparlanma sürecinin bir hedefi olarak metinde yer almaz.",
+        "Egzersiz sonrası hafif aktivitenin amacı enerji tüketimini artırmak değildir; amaç kontrollü bir şekilde vücudu dinlenime hazırlamaktır."
+      ]
+    }
+  ]
+}

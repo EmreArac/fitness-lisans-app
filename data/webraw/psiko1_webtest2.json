@@ -1,0 +1,326 @@
+{
+  "questions": [
+    {
+      "id": "w2q1",
+      "question": "Çocuğa bakmakla yükümlü kişilerin; beslenme, barınma, eğitim, korunma, sevgi gibi temel fiziksel ve duygusal gereksinimlerinin karşılanması durumuna ne ad verilir?",
+      "options": ["İhmal", "İstismar", "Bakım", "Sosyalleşme", "Disiplin"],
+      "correctIndex": 0,
+      "explanation": "Ünite 5'te ihmal kavramı birebir şu şekilde tanımlanır: 'İhmal: Çocuğa bakmakla yükümlü kişilerin, çocuğun; beslenme, barınma, eğitim, korunma, sevilme gibi temel fiziksel ve duygusal gereksinimlerini karşılamaması durumudur.' Soru metninde 'karşılanması' ifadesi yer alsa da (muhtemelen kaynaktaki 'karşılanmaması' ifadesinin eksik yazılmış hâli), seçenek listesinin ve ifadenin (beslenme, barınma, eğitim, korunma, sevgi) ünitedeki ihmal tanımıyla kelimesi kelimesine örtüşmesi, sorunun kaynağının açıkça ihmal tanımı olduğunu göstermektedir; bu nedenle en güçlü destekli ve amaçlanan cevap İhmal'dir.",
+      "optionNotes": [
+        "Doğru: Ünite 5'teki ihmal tanımı, bu sorudaki beslenme/barınma/eğitim/korunma/sevgi ifadelerini birebir içerir; soru bu tanımdan türetilmiştir.",
+        "Yanlış: İstismar, çocuğa kasıtlı olarak fiziksel/duygusal/cinsel zarar verme ya da sömürme davranışlarını ifade eder, temel gereksinimlerin karşılanması/karşılanmaması durumunu tanımlamaz.",
+        "Yanlış: 'Bakım' metinde ayrı ve resmî bir tanım olarak geçmez; ünitede bu cümle doğrudan ihmal kavramının tanımı olarak verilmiştir.",
+        "Yanlış: Sosyalleşme, bireyin toplumun kültürünü öğrenme sürecidir; temel fiziksel/duygusal gereksinimlerin karşılanmasıyla ilgili bir tanım değildir.",
+        "Yanlış: Disiplin, davranış kontrolü ve kurallara uyumla ilgilidir; temel gereksinimlerin karşılanması durumunu tanımlamaz."
+      ]
+    },
+    {
+      "id": "w2q2",
+      "question": "Aşağıdakilerden hangisi Arkaik Çağ kutsal oyunlarından biri değildir?",
+      "options": ["Olympic oyunları", "Pythian oyunları", "Nemean oyunları", "Isthmian oyunları", "Gladiator oyunları"],
+      "correctIndex": 4,
+      "explanation": "Ünite 1'de Arkaik Çağ'daki Panhelenik kutsal oyunlar; Zeus adına Olimpiya'da düzenlenen Olimpiyat Oyunları, Delphi'de Apollon adına Pythia Oyunları, Korinth'te Poseidon adına İsthmia Oyunları ve Nemea'da Zeus adına Nemea Oyunları olarak sayılmıştır. Gladyatör oyunları ise Roma dönemine ait, dinsel bir kutsal oyun olmayan, tamamen farklı bir gösteri biçimidir ve Yunan Panhelenik oyunları arasında yer almaz.",
+      "optionNotes": [
+        "Yanlış - Olimpiyat Oyunları, Arkaik Çağ'ın en önemli Panhelenik kutsal oyunlarından biridir (Zeus/Olimpiya).",
+        "Yanlış - Pythia Oyunları, Delphi'de Apollon adına düzenlenen Panhelenik kutsal oyunlardan biridir.",
+        "Yanlış - Nemea Oyunları, Nemea'da Zeus adına düzenlenen Panhelenik kutsal oyunlardan biridir.",
+        "Yanlış - İsthmia Oyunları, Korinth'te Poseidon adına düzenlenen Panhelenik kutsal oyunlardan biridir.",
+        "Doğru - Gladyatör oyunları Roma dönemine ait bir gösteri biçimidir; Yunan Panhelenik kutsal oyunları arasında sayılmaz."
+      ]
+    },
+    {
+      "id": "w2q3",
+      "question": "Aşağıdakilerden hangisi cinsiyete duyarlı uygun olmayan kullanım örneklerinden biri değildir?",
+      "options": [
+        "“Kadın doktor” ifadesini gereksiz yere kullanmak",
+        "İş ilanında “sadece erkek adaylar” yazmak",
+        "Meslekleri belirli bir cinsiyetle özdeşleştirmek (ör: hemşire = kadın)",
+        "Erkekleri güçlü, kadınları duygusal olarak genellemek",
+        "Cinsiyetten bağımsız kapsayıcı dil kullanmak (ör: “öğretmen”, “çalışan”)"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 2'de toplumsal cinsiyete duyarlı dil kullanımı, cinsiyet içermeyen ve kapsayıcı ifadelerin ('sportmen' yerine 'sporcu', 'spor adamı' yerine 'spor insanı' gibi) tercih edilmesi olarak tanımlanır. Cinsiyetten bağımsız kapsayıcı dil kullanmak (örneğin 'öğretmen', 'çalışan') bu duyarlılığın doğru/örnek bir uygulamasıdır, dolayısıyla 'uygun olmayan kullanım' örneği değildir; diğer dört seçenek ise cinsiyet kalıp yargısı veya ayrımcılık içeren uygun olmayan kullanım örnekleridir.",
+      "optionNotes": [
+        "Yanlış - meslek önüne gereksiz cinsiyet sıfatı eklemek (kadın doktor), cinsiyete duyarsız/uygun olmayan bir dil kullanımı örneğidir.",
+        "Yanlış - iş ilanında cinsiyet şartı koşmak, metinde tanımlanan cinsiyete dayalı ayrımcılığın tipik bir örneğidir.",
+        "Yanlış - meslekleri belirli bir cinsiyetle özdeşleştirmek, toplumsal cinsiyet kalıp yargısının klasik bir örneğidir.",
+        "Yanlış - cinsiyetlere dayalı genellemeler yapmak (erkek=güçlü, kadın=duygusal), kalıp yargılı ve uygun olmayan bir kullanımdır.",
+        "Doğru - cinsiyetten bağımsız kapsayıcı dil kullanmak, metinde önerilen doğru/duyarlı dil kullanımı örneğidir; bu nedenle 'uygun olmayan kullanım' listesine girmez."
+      ]
+    },
+    {
+      "id": "w2q4",
+      "question": "Aşağıdakilerden hangisi spora ilişkin kuramsal yaklaşımlardan biri değildir?",
+      "options": ["İşlevselci yaklaşım", "Çatışmacı yaklaşım", "Sembolik etkileşimci yaklaşım", "Eleştirel yaklaşım", "Beslenme yaklaşımı"],
+      "correctIndex": 4,
+      "explanation": "Ünite 2'de spor sosyolojisinde en yaygın kullanılan yaklaşımlar işlevselci, çatışmacı ve eleştirel yaklaşımlar olarak sayılmış, bunların yanında etkileşimci (sembolik etkileşimci), feminist ve figürasyon yaklaşımlarının da kullanıldığı belirtilmiştir. 'Beslenme yaklaşımı' ise spor sosyolojisinde bir kuramsal yaklaşım olarak hiç geçmemektedir; bu tamamen ilgisiz/uydurma bir seçenektir.",
+      "optionNotes": [
+        "Yanlış - işlevselci yaklaşım, sporun toplumsal düzene katkısını inceleyen tanınmış bir kuramsal yaklaşımdır.",
+        "Yanlış - çatışmacı yaklaşım, sporu ırk/cinsiyet/sınıf temelinde eleştiren tanınmış bir kuramsal yaklaşımdır.",
+        "Yanlış - sembolik etkileşimci (etkileşimci) yaklaşım, metinde sayılan diğer kuramsal yaklaşımlardan biridir.",
+        "Yanlış - eleştirel yaklaşım, sporu ideolojinin sürmesine katkı veren bir mekanizma olarak gören tanınmış bir yaklaşımdır.",
+        "Doğru - 'beslenme yaklaşımı' metinde spor sosyolojisi kuramları arasında hiç sayılmaz; bu nedenle doğru cevap budur."
+      ]
+    },
+    {
+      "id": "w2q5",
+      "question": "Belirli bir sosyal mevki işgal eden kişinin, o mevkiye özgü eylem, davranış ve tutumları yerine getirmesine ne ad verilir?",
+      "options": ["Statü", "Norm", "Kültür", "Rol", "Değer"],
+      "correctIndex": 3,
+      "explanation": "Ünite 2'de bu tanım birebir şu şekilde yer alır: 'Toplumsal rol, belirli bir sosyal mevkii işgal eden kişinin o mevkiye özgü eylem, davranış ve tutumları yerine getirmesidir.' Statü ise bireyin toplumsal hiyerarşideki konumu ve bu konuma yüklenen saygınlıktır; rolden farklı bir kavramdır.",
+      "optionNotes": [
+        "Yanlış - statü, bireyin toplumsal hiyerarşideki konumu ve bu konuma yüklenen onur/saygınlıktır, eylem/davranış sergilemeyi değil konumu ifade eder.",
+        "Yanlış - norm, toplumun davranış standartlarını belirleyen kural ve beklentilerdir, belirli bir mevkiye özgü davranış sergilemeyi tanımlamaz.",
+        "Yanlış - kültür, bir toplumun düşünce, değer ve inançlar bütünüdür, bireysel mevki-davranış ilişkisini tanımlamaz.",
+        "Doğru - metinde bu tanım doğrudan 'toplumsal rol' kavramına atfedilmiştir.",
+        "Yanlış - değer, toplumun önemli saydığı ilke ve ölçütlerdir, mevkiye özgü davranış sergilemeyi tanımlamaz."
+      ]
+    },
+    {
+      "id": "w2q6",
+      "question": "Aşağıdakilerden hangisi genç sporcuların heyecan ihtiyacını karşılamaya yönelik spor ortamları oluşturma yöntemlerinden biridir?",
+      "options": [
+        "Tekrarlayan ve monoton antrenmanlar yapmak",
+        "Sporcuyu sürekli pasif bırakmak",
+        "Oyunlaştırma ve yarışma içeren etkinlikler düzenlemek",
+        "Sporcuyu sosyal ortamdan izole etmek",
+        "Sadece teorik anlatıma ağırlık vermek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 3'teki Tablo 3.1'de 'Heyecan İhtiyacını Karşılamaya Yönelik Yöntemler' başlığı altında antrenmana çeşitli oyunlar ve rutin dışı aktiviteler dahil etmek, tekdüze/monoton uygulamalardan kaçınmak önerilmektedir. Oyunlaştırma ve yarışma içeren etkinlikler düzenlemek bu önerilerle örtüşen, heyecan ihtiyacını karşılamaya yönelik somut bir yöntemdir; diğer seçenekler ise tam tersine tekdüzeliği, pasifliği, izolasyonu ve salt teorik anlatımı içerdiğinden heyecan ihtiyacını karşılamaz.",
+      "optionNotes": [
+        "Yanlış - metinde tam tersi önerilir: tekdüze/monoton uygulamalardan kaçınılması, heyecan ihtiyacını karşılamanın bir şartı olarak belirtilir.",
+        "Yanlış - sporcuyu pasif bırakmak, heyecan ihtiyacının karşılanmasına hizmet etmez; aktif ve çeşitli aktiviteler önerilir.",
+        "Doğru - oyunlaştırma ve yarışma içeren etkinlikler, Tablo 3.1'de önerilen 'antrenmana çeşitli oyunlar ve rutin dışı aktiviteler dahil etme' yöntemiyle örtüşür.",
+        "Yanlış - sosyal ortamdan izolasyon, heyecan ihtiyacıyla değil ilişkisellik/ait olma ihtiyacının karşılanmamasıyla ilişkilidir ve olumsuz bir uygulamadır.",
+        "Yanlış - sadece teorik anlatım, metinde önerilen aktif ve çeşitlilik içeren uygulamaların tam karşıtıdır."
+      ]
+    },
+    {
+      "id": "w2q7",
+      "question": "Aşağıdakilerden hangisi sporcuların öncelikli dört ihtiyacından biri değildir?",
+      "options": ["Fiziksel ihtiyaçlar", "Psikolojik ihtiyaçlar", "Sosyal ihtiyaçlar", "Güvenlik ihtiyacı", "Lüks tüketim ihtiyacı"],
+      "correctIndex": 4,
+      "explanation": "Ünite 3'te sporcuların (çocuk ve genç sporcuların) öncelikli dört ihtiyacı; eğlenmek ve heyecan deneyimlemek, bir gruba ait olduğunu ve kabul edildiğini hissetmek, davranışları üzerinde kontrol ve özerklik hissetmek ve yeterli hissetmek olarak sayılmıştır. Bu dört ihtiyaç içerik olarak psikolojik ve sosyal ihtiyaç kategorilerine karşılık gelir; 'lüks tüketim ihtiyacı' ise metinde hiç geçmeyen, sporcunun temel ihtiyaçlarıyla hiçbir ilgisi olmayan anlamsız/saçma bir seçenektir, dolayısıyla açıkça yanlış olan ve doğru cevap olan şıktır. Not: Bu sorunun seçenek ifadeleri (fiziksel, psikolojik, sosyal, güvenlik) ünite metnindeki dört ihtiyacın birebir isimlendirmesiyle aynı değildir; ancak 'lüks tüketim ihtiyacı' seçeneğinin açık biçimde uydurma ve konu dışı olması nedeniyle en güvenilir cevap budur.",
+      "optionNotes": [
+        "Belirsiz ama makul - fiziksel ihtiyaçlar, sporcunun temel ihtiyaç kategorilerinden biri olarak genel kabul görür; metinde bu isimle birebir geçmese de mantıken dört öncelikli ihtiyaç arasında sayılabilecek bir kategoridir.",
+        "Belirsiz ama makul - psikolojik ihtiyaçlar, ünite 3'te sayılan 'heyecan, özerklik, yeterlilik' gibi ihtiyaçları kapsayan geniş bir kategoridir.",
+        "Belirsiz ama makul - sosyal ihtiyaçlar, ünite 3'te sayılan 'bir gruba ait olma ve kabul edilme' ihtiyacını kapsayan bir kategoridir.",
+        "Belirsiz ama makul - güvenlik ihtiyacı, sporcuların temel ihtiyaçları arasında genel olarak kabul edilen bir kategoridir.",
+        "Doğru - lüks tüketim ihtiyacı, metinde sporcuların ihtiyaçları arasında hiç geçmeyen, bağlamla tamamen ilgisiz bir seçenektir; bu nedenle açıkça yanlış olan ve soruda aranan cevaptır."
+      ]
+    },
+    {
+      "id": "w2q8",
+      "question": "Aşağıdakilerden hangisi hak temelli yaklaşımın özelliklerinden biri değildir?",
+      "options": [
+        "Bireyin haklarını merkeze almak",
+        "Yardım ve lütuf anlayışına dayanmak",
+        "Hesap verebilirlik ve şeffaflığı önemsemek",
+        "Katılım ve güçlendirmeyi desteklemek",
+        "Eşitlik ve ayrımcılık yapmama ilkesini savunmak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 5'te hak temelli yaklaşım; çocuklar ve hakları üzerinde belirgin odaklanma, ayrımcılık gözetmeme, hesap verilebilirlik, katılım ve çocuğun yüksek yararı özellikleriyle tanımlanır. Ayrıca metinde açıkça hak sahiplerinin (çocukların) 'yasal haklarını elde etmeleri ve savunmaları için cesaretlendirilen bireyler' olduğu, 'hayır kurumlarının nesneleri olmadığı' belirtilir; bu nedenle hak temelli yaklaşım, yardım ve lütuf (hayırseverlik) anlayışının tam tersidir ve bu özelliği taşımaz.",
+      "optionNotes": [
+        "Yanlış - bireyin (çocuğun) haklarını merkeze almak, hak temelli yaklaşımın tanımındaki 'çocuklar ve hakları üzerinde belirgin odaklanma' ilkesiyle örtüşür.",
+        "Doğru - metinde hak temelli yaklaşımın, çocukları hayır kurumlarının nesnesi olarak gören eski 'yardım ve lütuf' anlayışının karşıtı olduğu açıkça belirtilir; bu nedenle bu özellik hak temelli yaklaşıma ait değildir.",
+        "Yanlış - hesap verebilirlik ve şeffaflık, metinde hak temelli yaklaşımın doğrudan sayılan özelliklerinden biridir.",
+        "Yanlış - katılım ve güçlendirme, metinde hak temelli yaklaşımın doğrudan sayılan özelliklerinden biridir.",
+        "Yanlış - eşitlik ve ayrımcılık yapmama, metinde hak temelli yaklaşımın doğrudan sayılan özelliklerinden biridir."
+      ]
+    },
+    {
+      "id": "w2q9",
+      "question": "Ödül çelengi çam dalı olan Arkaik Çağ kutsal oyunu aşağıdakilerden hangisidir?",
+      "options": ["Olympic", "Isthmian Games", "Nemean", "Pythian", "Panathenaia"],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'in tam metninde Panhelenik kutsal oyunların ödül çelengleri açıkça listelenmiştir: Olimpiyat Oyunları (zeytin dalı), Pythia Oyunları (defne yaprağı), İsthmia Oyunları (çam dalı) ve Nemea Oyunları (kereviz yaprağı). Dolayısıyla ödül çelengi çam dalı olan oyun, İsthmia (Isthmian) Oyunları'dır.",
+      "optionNotes": [
+        "Yanlış - Olimpiyat Oyunları'nın ödül çelengi zeytin dalıdır, çam dalı değildir.",
+        "Doğru - metinde İsthmia Oyunları'nın ödül çelenginin çam dalı olduğu açıkça belirtilmiştir.",
+        "Yanlış - Nemea Oyunları'nın ödül çelengi kereviz yaprağıdır, çam dalı değildir.",
+        "Yanlış - Pythia Oyunları'nın ödül çelengi defne yaprağıdır, çam dalı değildir.",
+        "Yanlış - Panathenaia, metinde ödül çelengiyle bu bağlamda anılan bir Arkaik Çağ kutsal oyunu olarak geçmez."
+      ]
+    },
+    {
+      "id": "w2q10",
+      "question": "Festivallerin parçası olarak düzenlenen Antik Olimpiyat Oyunlarında yarışmalar tanrılara sunulmuş bir tür ………dır. Boşluğa aşağıdakilerden hangisi gelmektedir?",
+      "options": ["Eğlence", "Ritüel", "Ticaret", "Reklam", "Eğitim"],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'de Antik Olimpiyat Oyunları'nın katılım kriterleri anlatılırken 'yarışmalar dinsel festivallerin bir parçası, tanrılara sunulan bir adaktı' denilmektedir. Tanrılara sunulan bir adak, dinsel bir tören/ritüel niteliği taşır; bu nedenle boşluğa 'ritüel' kelimesi gelmelidir.",
+      "optionNotes": [
+        "Yanlış - metinde yarışmaların bir eğlence biçimi olarak tanımlandığına dair bir ifade yoktur; aksine dinsel bir adak olduğu belirtilir.",
+        "Doğru - tanrılara sunulan bir adak, dinsel bir ritüel niteliği taşır; metindeki 'dinsel festivallerin bir parçası, tanrılara sunulan bir adak' ifadesiyle örtüşür.",
+        "Yanlış - metinde yarışmaların bir ticaret faaliyeti olduğuna dair herhangi bir bilgi yoktur.",
+        "Yanlış - metinde yarışmaların bir reklam aracı olduğuna dair herhangi bir bilgi yoktur.",
+        "Yanlış - metinde yarışmaların bir eğitim faaliyeti olarak tanımlandığına dair bir ifade yoktur; tanım dinsel niteliktedir."
+      ]
+    },
+    {
+      "id": "w2q11",
+      "question": "Aşağıdakilerden hangisi modern Olimpiyatların kuruluşuna yol açan faktörlerden biri değildir?",
+      "options": [
+        "Endüstriyel üretimi artırma amacı",
+        "Antik Yunan kültürüne duyulan ilginin artması",
+        "Beden eğitimi ve sporun eğitimde önem kazanması",
+        "Uluslararası barış ve dostluğu geliştirme düşüncesi",
+        "Pierre de Coubertin’in çalışmaları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'de modern Olimpiyatların yeniden canlandırılmasına yol açan altı temel faktör sayılmıştır: Rönesans eserlerinin antik olimpiyatlardan bahsetmesi, Mercurialis/Faber gibi eserlerin yarattığı farkındalık, İngiltere'deki yerel olimpiyat denemeleri, Aydınlanma seçkinlerinin ilgisi, Olimpia'nın arkeolojik olarak ortaya çıkarılması ve İngiltere'de sporun eğitimde ahlak/karakter gelişimi için kullanılması; ayrıca Coubertin'in bu sürecin kurucu ismi olduğu belirtilir. 'Endüstriyel üretimi artırma amacı' bu faktörler arasında hiç geçmemektedir ve modern olimpiyatların kuruluş amacıyla ilgisizdir.",
+      "optionNotes": [
+        "Doğru - metinde sayılan altı kuruluş faktörü arasında 'endüstriyel üretimi artırma amacı' hiç geçmez; bu nedenle doğru cevap budur.",
+        "Yanlış - antik Yunan kültürüne duyulan ilginin artması (Rönesans eserleri, arkeolojik kazılar vb.), metinde sayılan kuruluş faktörlerinden biridir.",
+        "Yanlış - beden eğitimi ve sporun eğitimde önem kazanması (Thomas Arnold'un okul sporu modeli), metinde sayılan kuruluş faktörlerinden biridir.",
+        "Yanlış - uluslararası barış ve dostluk düşüncesi, Coubertin'in olimpizmi bir barış hareketi olarak tanımlamasıyla doğrudan ilişkili bir kuruluş saikidir.",
+        "Yanlış - Pierre de Coubertin'in çalışmaları, modern olimpiyatların kuruluşunun doğrudan ve en belirleyici faktörüdür."
+      ]
+    },
+    {
+      "id": "w2q12",
+      "question": "Spor teriminin başlangıcı sayılan; sohbet, tartışma, dövüş, güç gösterileri, beceri oyunlarını kapsayan “limanda olmak” anlamına gelen argo kelime aşağıdakilerden hangisidir?",
+      "options": ["Disportare", "Deportare", "To disport", "De portu", "Desport"],
+      "correctIndex": 3,
+      "explanation": "Ünite 1'e göre 'spor' sözcüğü, Akdenizli denizcilerin limanda geçirdikleri keyifli yaşamı anlatmak için kullandıkları argo bir ifade olan 'de portu' (limanda olmak) kelimesinden türemiştir. Bu kelime daha sonra Orta Latincede disportare/deportare, Eski Fransızcada desport, İngilizcede to disport ve son olarak sport biçimine evrilmiştir; yani diğer seçenekler de portu'dan sonraki evrim aşamalarıdır.",
+      "optionNotes": [
+        "Yanlış - Disportare, de portu'dan sonra Orta Latincede ortaya çıkan bir sonraki evrim aşamasıdır, başlangıç kelimesi değildir.",
+        "Yanlış - Deportare de aynı şekilde de portu'nun Orta Latincedeki türevlerinden biridir, ilk argo kelime değildir.",
+        "Yanlış - To disport, Fransızca desport'un İngilizceye geçmiş biçimidir; zincirin sonraki bir halkasıdır.",
+        "Doğru - De portu, metinde açıkça belirtildiği gibi 'limanda olmak' anlamına gelen ve spor teriminin kökeni sayılan asıl argo ifadedir.",
+        "Yanlış - Desport, Eski Fransızcada kullanılan ara aşamadır, en eski kaynak değildir."
+      ]
+    },
+    {
+      "id": "w2q13",
+      "question": "“Sportif egzersiz, belirli bir hareket formunun veya kombinasyonunun uygulama öncesi bilinçli olarak tasarlanmış bir amaç doğrultusunda tekrarlanmasıdır.” Görüşünden hareket edildiğinde aşağıdaki fiziksel aktivitelerden hangisi sportif egzersizin başlangıcı sayılabilir? A. Koşma B. Tırmanma C. Yüzme D. Dans E. Bumerang atma",
+      "options": ["Koşma", "Tırmanma", "Yüzme", "Dans", "Bumerang atma"],
+      "correctIndex": 4,
+      "explanation": "Bu tanım Materyalist tarih anlayışının görüşüdür. Ünite 1'e göre bumerang atışı, her bumerangın geri dönüşte farklı bir eğri çizmesi nedeniyle kullanıcıdan önceden özenli bir alıştırma ve deneme evresi gerektirmekteydi; bu nedenle ilkel topluluklarda bilinçli, tasarlanmış tekrarlara dayanan bir fiziksel aktivite olarak değerlendirilmiştir.",
+      "optionNotes": [
+        "Yanlış - Koşma, insanın doğal ve kendiliğinden geliştirdiği bir hareket formudur; bilinçli tasarlanmış bir antrenman süreci gerektirmez.",
+        "Yanlış - Tırmanma da avlanma ve hayatta kalma güdüsüyle kendiliğinden gelişen doğal bir hareket formudur, planlı alıştırma gerektirmez.",
+        "Yanlış - Yüzme, günlük hayatta kendiliğinden kazanılan doğal hareketlerden biridir, metinde bilinçli egzersiz örneği olarak geçmez.",
+        "Yanlış - Dans, İdealist görüşe göre ilk bilinçli hareket formu sayılır; ancak soruda tanımlanan Materyalist/alet kullanımına dayalı görüşle ilişkilendirilmez.",
+        "Doğru - Bumerang atma, isabetli atış için önceden bilinçli alıştırma ve deneme gerektirdiğinden, Materyalist görüşün 'tasarlanmış amaç doğrultusunda tekrar' tanımına tam olarak uyar."
+      ]
+    },
+    {
+      "id": "w2q14",
+      "question": "Antik Olimpiyat Oyunları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Yarışmalar dinsel festivallerin bir parçasıydı.",
+        "Hakemlik hakkı politik tarafsızlıkla yükümlü soylulara aitti.",
+        "Evli kadınların aktif ve pasif katılımları yasaktı.",
+        "Katılımcılar ilk iki yüzyılda sadece soylularla sınırlıydı.",
+        "Oyunlar süresince ateşkes ilan ediliyordu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'e göre oyunların organizatörü Elis halkıydı ve hakemleri de politik tarafsızlıkla yükümlü olarak bu halk belirliyordu; hakemlik hakkı soylulara değil Elis halkına aitti. Diğer tüm ifadeler (dinsel festival parçası olma, evli kadınların yasaklı olması, ilk iki yüzyılda sadece soylularla sınırlı katılım, kutsal ateşkes) metinde doğru biçimde yer almaktadır.",
+      "optionNotes": [
+        "Doğru ifade - metinde yarışmaların tanrılara sunulan bir adak olduğu ve dinsel festivallerin en önemli parçası olduğu açıkça belirtilir.",
+        "Yanlış/hatalı ifade (bu nedenle doğru cevap budur) - hakemleri belirleyen ve politik tarafsızlıkla yükümlü olan taraf soylular değil, oyunların organizatörü olan Elis halkıydı.",
+        "Doğru ifade - metin, dinsel nedenlerle evli kadınların aktif ve pasif katılımının yasaklandığını açıkça söyler.",
+        "Doğru ifade - katılımcı çevresinin ilk iki yüzyılda zorunlu olarak soylularla sınırlı olduğu metinde belirtilir.",
+        "Doğru ifade - Kutsal Barış (Ekecheiria) oyunlar süresince silah bırakışmayı garanti ediyordu; bu bilgi metne uygundur."
+      ]
+    },
+    {
+      "id": "w2q15",
+      "question": "Aşağıdakilerden hangisi MS 4. yüzyılda Antik Olimpiyat Oyunlarının Romalılar tarafından sonlandırılmasının ana nedeni olarak gösterilebilir?",
+      "options": [
+        "Sert sporlardan hoşlanan Romalıların Yunan sporlarını hafif ve etkisiz bulması",
+        "Romalıların oyunların devamını siyasi bir tehdit olarak algılamaları",
+        "Hristiyanlığın Roma Devleti tarafından resmi din olarak kabulü",
+        "Oyunların düzenlendiği Olympiya bölgesinin askeri bölge ilan edilmesi",
+        "Ekonomik nedenlerle oyunların sürdürülebilir olmaması"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'e göre MS 380'de Hıristiyanlığı devlet dini olarak kabul eden Roma İmparatoru I. Theodosius, kısa süre sonra putperest uygulamalar olarak görülen olimpiyat oyunlarını MS 393'te yasaklamıştır. Dolayısıyla oyunların sonlandırılmasının doğrudan ve belgelenen nedeni, Hristiyanlığın resmi din olarak kabulüdür.",
+      "optionNotes": [
+        "Yanlış - metinde Romalıların Yunan sporlarını hafif bulmasından söz edilmez; aksine Romalılar da atlet olarak Olimpiya'da yer almıştır.",
+        "Yanlış - oyunların siyasi tehdit olarak algılandığına dair bir bilgi metinde geçmemektedir.",
+        "Doğru - metin, yasaklamanın doğrudan nedeninin Hristiyanlığın I. Theodosius tarafından devlet dini ilan edilmesi ve oyunların putperest sayılması olduğunu belirtir.",
+        "Yanlış - Olympiya'nın askeri bölge ilan edildiğine dair metinde herhangi bir bilgi yoktur.",
+        "Yanlış - metinde ekonomik sürdürülebilirlik sorunu yasaklanma nedeni olarak gösterilmez; neden dinseldir."
+      ]
+    },
+    {
+      "id": "w2q16",
+      "question": "Aşağıdakilerden hangisi 19. yüzyılda İngiltere’de doğan modern sporun başlangıcındaki prensiplerinden biri sayılamaz?",
+      "options": [
+        "Rekabetçi olması",
+        "Yüksek performans amaçlı yapılması",
+        "Bağlayıcı kurallarının olması",
+        "Kazanç güdülerek, profesyonelce yapılması",
+        "Rekor hedefli olması"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 1'de modern sporun 19. yüzyılda İngiltere'de 'rekabet yönelimli, yüksek performans ve rekor hedefli, bağlayıcı kurallı, kazanç güdülmeksizin -amatörce- yapılan fiziksel aktivitelere verilen genel bir ad haline geldiği' açıkça yazılıdır. Yani kazanç güdüsüyle profesyonelce yapılması, modern sporun başlangıç prensiplerine aykırıdır; tam tersine amatörlük esas alınmıştır.",
+      "optionNotes": [
+        "Bu bir prensiptir - metin modern sporu 'rekabet yönelimli' olarak tanımlar.",
+        "Bu bir prensiptir - 'yüksek performans' hedefi metinde doğrudan modern sporun tanımlayıcı özelliği olarak geçer.",
+        "Bu bir prensiptir - modern spor 'bağlayıcı kurallı' bir etkinlik olarak tanımlanmıştır.",
+        "Bu prensip değildir (doğru cevap budur) - metin modern sporun 'kazanç güdülmeksizin -amatörce- yapılan' bir etkinlik olduğunu belirtir; profesyonellik ve kazanç güdüsü başlangıç ilkelerine aykırıdır.",
+        "Bu bir prensiptir - 'rekor hedefli' olma metinde modern sporun temel niteliklerinden biri olarak sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q17",
+      "question": "Antik Yunan’da Olimpiyat Oyunları’nın hangi dönemde yapılmaya başlandığı kabul edilir? A. Girit-Miken Çağı B. Arkaik Çağ C. Klasik Çağ D. Helenistik Çağ E. Helen-Roma Dönemi",
+      "options": ["Girit-Miken Çağı", "Arkaik Çağ", "Klasik Çağ", "Helenistik Çağ", "Helen-Roma Dönemi"],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'e göre antik olimpiyat oyunlarının sayımı MÖ 776'da şampiyonların resmen listelenmeye başlanmasıyla başlamıştır ve bu tarih Arkaik Çağ'ın (MÖ 800-500) hemen başlarına denk gelir. Bu nedenle Arkaik Çağ, Olimpiyat Oyunları'nın başlangıç dönemi olarak kabul edilir.",
+      "optionNotes": [
+        "Yanlış - Girit-Miken döneminde (MÖ 1600-1200) Olimpiya dinsel festival alanıydı ama olimpiyat oyunlarının resmi sayımı bu dönemde başlamamıştır.",
+        "Doğru - metin, Arkaik Çağ'ın spor tarihindeki özel öneminin, olimpiyat oyunlarının bu çağın hemen başında (MÖ 776) sayılmaya başlanmasından geldiğini belirtir.",
+        "Yanlış - Klasik Çağ'da (MÖ 500-300) oyunlar zaten var olan ve gelişen bir kurumdu, başlangıç dönemi değildir.",
+        "Yanlış - Helenistik Çağ'da yarışmacı cimnastik ihmal edilmiş, oyunlar gösteri müsabakasına dönüşmeye başlamıştır; başlangıç dönemi değildir.",
+        "Yanlış - Helen-Roma döneminde oyunlar zayıflayıp sonunda yasaklanmıştır; bu dönem oyunların sonunu, başlangıcını değil temsil eder."
+      ]
+    },
+    {
+      "id": "w2q18",
+      "question": "Yüksek Ortaçağ’da bedensel faaliyetler yalnızca Hıristiyanlığın koruyucusu olarak kabul edilen ------- tarafından uygulanmıştır. Cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": ["Papazlar", "Soylular", "Şövalyeler", "Krallar", "Köylüler"],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'de Yüksek Ortaçağ'da (1000-1300) beden faaliyetlerinin yalnızca Hristiyanlığın koruyucusu olarak kabul edilen şövalyeler tarafından uygulandığı ve şövalyelerin ustalık düzeyinde bilmesi gereken 7 temel becerinin çoğunun bedensel faaliyetlerden (ata binme, yüzme, ok atma, tırmanma, güreşme, kılıç kullanma, mızrak dövüşü) oluştuğu açıkça belirtilir.",
+      "optionNotes": [
+        "Yanlış - papazlar dönemin tek eğitimcisi olan kiliseyi temsil eder, ancak Hristiyanlığın 'koruyucusu' olarak tanımlanan ve bedensel beceriler geliştiren grup papazlar değildir.",
+        "Yanlış - soylular kavramı metinde bu dönem için kullanılmaz; bu dönemin bedensel faaliyet uygulayıcısı özel olarak şövalyeler olarak adlandırılır.",
+        "Doğru - metin, Yüksek Ortaçağ'da beden faaliyetlerinin Hristiyanlığın koruyucusu kabul edilen şövalyeler tarafından uygulandığını doğrudan ifade eder.",
+        "Yanlış - krallardan bu bağlamda bahsedilmez; Hristiyanlığın koruyucusu unvanı metinde şövalyelere atfedilmiştir.",
+        "Yanlış - köylüler bu dönemde beden faaliyetlerinden uzak tutulan kesimdir, metinde bu rolle anılan grup değildir."
+      ]
+    },
+    {
+      "id": "w2q19",
+      "question": "Aşağıdakilerden hangisi İsveç jimnastiğinin uygulama alanlarından biri değildir?",
+      "options": ["Askeri Cimnastik", "Estetik Cimnastik", "Akrobatik Cimnastik", "Tıbbi Cimnastik", "Pedagojik Cimnastik"],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'e göre Ling'in felsefesi doğrultusunda İsveç jimnastiği dört ana bölüme ayrılır: pedagojik, tıbbi, askeri ve estetik cimnastik. Akrobatik cimnastik İsveç jimnastiğinin bu dört bölümünden biri değildir; bu kavram metinde Tunç Çağı'ndaki boğa üstü gösterilerle ilişkilendirilir, İsveç sistemiyle ilgisi yoktur.",
+      "optionNotes": [
+        "Bu bir uygulama alanıdır - metin askeri cimnastiği, güreş, eskrim ve askeri alıştırmaların formlarını içeren bir İsveç jimnastiği bölümü olarak tanımlar.",
+        "Bu bir uygulama alanıdır - estetik cimnastik, vücut sağlığı için dolaşım, sinir sistemi ve iç organlara yönelik serbest egzersizleri kapsayan bölümlerden biridir.",
+        "Bu bir uygulama alanı değildir (doğru cevap budur) - akrobatik cimnastik, metinde İsveç jimnastiğinin dört bölümü arasında sayılmaz.",
+        "Bu bir uygulama alanıdır - tıbbi cimnastik, hastaların ve sakatların tedavisi için uygulanan egzersizleri kapsayan bölümlerden biridir.",
+        "Bu bir uygulama alanıdır - pedagojik cimnastik, okul öğrencileri için gerekli serbest egzersizleri içeren ve Hjalmar Ling'in geliştirdiği bölümdür."
+      ]
+    },
+    {
+      "id": "w2q20",
+      "question": "Profesyonel oldukları halde “centilmen” olarak kabul edildikleri için başlangıçta olimpiyat oyunlarına katılım şartlarından olan sıkı amatörlük prensibi dışında bırakılan branş aşağıdakilerden hangisidir?",
+      "options": ["Tenis", "Güreş", "Boks", "Eskrim", "Cimnastik"],
+      "correctIndex": 3,
+      "explanation": "Ünite 1'e göre, 1894 statüsüne göre oyunlara eskrim hariç sadece amatör sporcuların katılacağı belirtilmiştir; çünkü dönemin eskrim öğretmenleri/ustaları profesyonel sayılsa da aynı zamanda 'centilmen' olarak kabul ediliyordu ve bu durum onların olimpiyat oyunlarına katılması için yeterli bir neden sayılmıştır.",
+      "optionNotes": [
+        "Yanlış - tenis, metinde amatörlük istisnası tanınan branş olarak geçmez.",
+        "Yanlış - güreş antik ve modern olimpiyat programlarında yer alır ama amatörlük istisnasıyla anılmaz.",
+        "Yanlış - boks de benzer şekilde metinde bu özel istisnayla ilişkilendirilmemiştir.",
+        "Doğru - metin açıkça eskrimin, öğretmenlerinin profesyonel sayılsa da centilmen kabul edilmesi nedeniyle amatörlük şartından istisna tutulduğunu belirtir.",
+        "Yanlış - cimnastik, metinde bu bağlamda amatörlük istisnasıyla anılan branş değildir."
+      ]
+    }
+  ]
+}
