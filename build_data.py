@@ -5,7 +5,19 @@ from pathlib import Path
 BASE = Path(__file__).parent
 RAW = BASE / "data" / "raw"
 RAW2 = BASE / "data" / "raw2"
+EXTRA = BASE / "data" / "extra_questions.json"
 OUT = BASE / "data" / "courses.js"
+
+extra_questions = json.loads(EXTRA.read_text(encoding="utf-8")) if EXTRA.exists() else {}
+
+
+def extra_for(course_id):
+    qs = extra_questions.get(course_id, [])
+    for q in qs:
+        assert len(q["options"]) == 5, f"{course_id} {q.get('id')}: options != 5"
+        assert 0 <= q["correctIndex"] <= 4, f"{course_id} {q.get('id')}: bad correctIndex"
+        assert len(q.get("optionNotes", [])) == 5, f"{course_id} {q.get('id')}: optionNotes != 5"
+    return qs
 
 
 def load_units(folder, prefix, count):
@@ -39,7 +51,7 @@ ogrenme_units = load_units(RAW2, "ogrenme_", 6)
 
 all_units = havb1_units + psiko_units + saglik_units + yonetim_units + ogrenme_units
 total_q = sum(len(u["questions"]) for u in all_units)
-print(f"TOTAL questions across all courses: {total_q}")
+print(f"TOTAL unit questions across all courses: {total_q}")
 
 courses = [
     {
@@ -49,6 +61,7 @@ courses = [
         "emoji": "\U0001F3CB️",
         "status": "active",
         "units": havb1_units,
+        "extraQuestions": extra_for("havb1"),
     },
     {
         "id": "psiko1",
@@ -57,6 +70,7 @@ courses = [
         "emoji": "\U0001F9E0",
         "status": "active",
         "units": psiko_units,
+        "extraQuestions": extra_for("psiko1"),
     },
     {
         "id": "saglik1",
@@ -65,6 +79,7 @@ courses = [
         "emoji": "\U0001FA7A",
         "status": "active",
         "units": saglik_units,
+        "extraQuestions": extra_for("saglik1"),
     },
     {
         "id": "yonetim1",
@@ -73,6 +88,7 @@ courses = [
         "emoji": "\U0001F4BC",
         "status": "active",
         "units": yonetim_units,
+        "extraQuestions": extra_for("yonetim1"),
     },
     {
         "id": "ogrenme1",
@@ -81,8 +97,13 @@ courses = [
         "emoji": "\U0001F4D8",
         "status": "active",
         "units": ogrenme_units,
+        "extraQuestions": extra_for("ogrenme1"),
     },
 ]
+
+total_extra = sum(len(c["extraQuestions"]) for c in courses)
+print(f"TOTAL extra (web-sourced) questions: {total_extra}")
+print(f"GRAND TOTAL questions: {total_q + total_extra}")
 
 js = "window.COURSES = " + json.dumps(courses, ensure_ascii=False, indent=2) + ";\n"
 OUT.write_text(js, encoding="utf-8")

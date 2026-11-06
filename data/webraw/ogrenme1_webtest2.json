@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w2q1",
+      "question": "I. Hiçbir ücret almaksızın, Antrenörlerin bulunmadığı ortamlarda bireylere Antrenörlük yapan kişilerdir. II. Sahip oldukları başka mesleklerin yanında kısmi zamanlı olarak bir kişiye veya gruba ücret karşılığında Antrenörlük yapan bireylerdir. III. Antrenörlük mesleğini, profesyonel bir meslek olarak yapan bireylerden oluşur. Yukarıda verilen Antrenörlerin çalışma kapsamlarının sıralaması hangisinde doğru verilmiştir?",
+      "options": [
+        "Gönüllü – kısmi zamanlı – ücretli",
+        "Ücretli – kısmi zamanlı – gönüllü",
+        "Kısmi zamanlı – gönüllü – ücretli",
+        "Gönüllü – ücretli – kısmi zamanlı",
+        "Kısmi zamanlı – ücretli – gönüllü"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1 metnine göre antrenörler çalışma biçimlerine göre üçe ayrılır: gönüllü (hiçbir ücret almaksızın çalışan), kısmi zamanlı (başka bir mesleğin yanında ücret karşılığı çalışan) ve ücretli (antrenörlüğü profesyonel meslek olarak icra eden). Sorudaki I, II, III ifadeleri sırasıyla bu üç tanıma karşılık gelir, dolayısıyla doğru sıralama Gönüllü-Kısmi zamanlı-Ücretli'dir.",
+      "optionNotes": [
+        "Doğru sıralama budur: I=Gönüllü (ücretsiz antrenörlük), II=Kısmi zamanlı (başka mesleğin yanında ücretli), III=Ücretli (profesyonel meslek) tanımlarıyla birebir örtüşür.",
+        "Yanlış sıralama; bu seçenek sırayı tam tersine çevirmiştir (Ücretli-Kısmi zamanlı-Gönüllü), metindeki I-II-III sırasıyla uyuşmaz.",
+        "Yanlış sıralama; burada kısmi zamanlı ilk sıraya alınmıştır, ancak I numaralı tanım (ücretsiz) gönüllü antrenörlüğe aittir.",
+        "Yanlış sıralama; II numaralı tanım (başka mesleğin yanında ücretli) kısmi zamanlı antrenörlüğe karşılık gelir, bu seçenekte ücretli olarak verilmiştir.",
+        "Yanlış sıralama; bu seçenek sırayı baştan yanlış başlatır, I numaralı tanım kısmi zamanlı değil gönüllü antrenörlüğü tanımlar."
+      ]
+    },
+    {
+      "id": "w2q2",
+      "question": "Sporcunun akranları ve spor ortamlarındaki diğer paydaşlara yönelik Empati geliştirmesi durumunu ifade eden unsur aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetkinlik",
+        "Özgüven",
+        "Bağ kurma",
+        "Karakter",
+        "Umursama – umursanma"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 1'e göre antrenörlüğün 5C amacından biri olan \"umursama-umursanma (caring)\", sporcunun akranlarına ve diğer paydaşlara yönelik empati geliştirmesi olarak tanımlanır; bunun için dinleme ve anlama becerilerinin geliştirilmesi gerektiği belirtilir.",
+      "optionNotes": [
+        "Yanlış; yetkinlik (competence) sporcunun teknik-taktik beceri ve fiziksel uygunluk düzeyiyle ilgilidir, empatiyle ilgili değildir.",
+        "Yanlış; özgüven (confidence) sporcunun başarılı olabileceğine yönelik olumlu öz değer hissidir, empati geliştirme değildir.",
+        "Yanlış; bağ kurma (connection) sporcunun antrenör, akran ve aileyle olumlu bağlar kurarak güven hissi kazanmasıdır, empati değildir.",
+        "Yanlış; karakter, doğru-yanlışı ayırt etme ve sorumluluk alma becerisidir, empati geliştirmeyi doğrudan tanımlamaz.",
+        "Doğru; metinde umursama-umursanma tam olarak akranlara ve diğer paydaşlara yönelik empati geliştirme olarak tanımlanır."
+      ]
+    },
+    {
+      "id": "w2q3",
+      "question": "Aşağıdakilerden hangisi Spora Katılım Piramidinde en alt sırada yer alır?",
+      "options": [
+        "Elit Yarışmalar",
+        "Ulusal Yarışmalar",
+        "Okul sporu - Beden Eğitim",
+        "Bölgesel Yarışmalar",
+        "Yerel Yarışmalar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'deki piramit modeline göre birey spora en yoğun şekilde okul sporu ve okul beden eğitimiyle başlar; bunu sırasıyla yerel, bölgesel ve ulusal yarışmalar izler, piramidin en tepesinde ise elit yarışmalar yer alır. Dolayısıyla piramidin en alt (taban) basamağı okul sporu-beden eğitimidir.",
+      "optionNotes": [
+        "Yanlış; elit yarışmalar piramidin en tepesinde, en üst sırada yer alır, en altta değildir.",
+        "Yanlış; ulusal yarışmalar piramidin üst sıralarına yakın bir basamaktır, en alt değildir.",
+        "Doğru; metinde birey spora en yoğun şekilde okul sporu ve beden eğitimiyle başlar, bu piramidin en alt (taban) basamağıdır.",
+        "Yanlış; bölgesel yarışmalar yerel ile ulusal arasında orta bir basamaktır, en alt değildir.",
+        "Yanlış; yerel yarışmalar okul sporundan sonraki basamaktır, piramidin en tabanı değildir."
+      ]
+    },
+    {
+      "id": "w2q4",
+      "question": "Bireyin alıştırma ve deneyim sonucu motor becerileri uygulama yeterliğindeki göreli ve kalıcı davranış değişikliğine ne ad verilir?",
+      "options": [
+        "Öğretme",
+        "Beceri",
+        "Reaksiyon",
+        "Öğrenme",
+        "Dikkat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 2'de öğrenme kavramı tam olarak şu şekilde tanımlanır: \"bireyin alıştırma ve deneyim sonucu motor becerileri uygulama yeterliliğinde ortaya çıkan göreli ve kalıcı davranış değişikliğine öğrenme denir.\" Soru bu tanımı birebir vermektedir.",
+      "optionNotes": [
+        "Yanlış; öğretme, öğrenmeyi sağlamak için düzenlenen etkinlikler sürecidir, davranış değişikliğinin kendisi değildir.",
+        "Yanlış; beceri, belirli bir sonuca ulaşma yeteneğidir, kalıcı davranış değişikliğinin tanımı değildir.",
+        "Yanlış; reaksiyon, bir uyarana karşı verilen bilinçli tepkidir, kalıcı davranış değişikliği tanımıyla ilgili değildir.",
+        "Doğru; metindeki öğrenme tanımı sorudaki ifadeyle birebir örtüşmektedir.",
+        "Yanlış; dikkat, düşünce silsilelerinden birinin zihin tarafından belirgin biçimde alınmasıdır, davranış değişikliği tanımı değildir."
+      ]
+    },
+    {
+      "id": "w2q5",
+      "question": "Aşağıdakilerden hangisi hareketin başlama ve bitiş netliğine göre beceri sınıflamasından biridir?",
+      "options": [
+        "Açık Beceri",
+        "Seri Beceriler",
+        "Kapalı Beceri",
+        "Motor Beceriler",
+        "Zihinsel Beceriler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 2'de \"hareketin başlama ve bitiş netliğine göre beceriler kesik, seri ve devamlı olmak üzere üçe ayrılır\" denilmektedir. Seçenekler arasında bu sınıflamaya ait olan tek seçenek Seri Beceriler'dir; Açık/Kapalı beceri ayrımı çevrenin tahmin edilebilirliğine, Motor/Zihinsel ayrımı ise motor-bilişsel öğelerin önemine göre yapılan farklı sınıflama eksenlerine aittir.",
+      "optionNotes": [
+        "Yanlış; açık beceri, çevre şartlarının tahmin edilebilirliğine göre yapılan sınıflamaya aittir, başlama-bitiş netliğiyle ilgili değildir.",
+        "Doğru; seri beceri, kesik ve devamlı ile birlikte hareketin başlama-bitiş netliğine göre yapılan üçlü sınıflamanın bir parçasıdır.",
+        "Yanlış; kapalı beceri de açık beceri gibi çevre tahmin edilebilirliğine göre yapılan sınıflamaya aittir.",
+        "Yanlış; motor beceri, motor-bilişsel öğelerin önemine göre yapılan ayrı bir sınıflamaya aittir.",
+        "Yanlış; zihinsel beceri de motor-bilişsel öğelerin önemine göre yapılan sınıflamanın bir parçasıdır, başlama-bitiş netliğiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w2q6",
+      "question": "Birden fazla uyaran ve her bir uyaran için belirlenen bir tepki durumuna ne ad verilir?",
+      "options": [
+        "Reaksiyon zamanı",
+        "Hareket zamanı",
+        "Seçici reaksiyon",
+        "Sezinleme",
+        "Dikkat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 2'de \"Birden fazla uyaran ve her bir uyaran için belirlenmiş ayrı bir tepki durumuna seçici reaksiyon zamanı denir\" ifadesiyle tanımlanır (örnek: trafik ışığının farklı renklerine farklı tepki verme).",
+      "optionNotes": [
+        "Yanlış; reaksiyon zamanı genel bir kavramdır (uyaran ile tepki başlangıcı arasındaki süre), birden fazla uyaran-tepki eşleşmesini özel olarak tanımlamaz.",
+        "Yanlış; hareket zamanı metinde bu soruda tanımlanan kavram değildir, tepkinin başlangıcından bitişine kadar olan süreyle ilgilidir.",
+        "Doğru; birden fazla uyaran ve her birine özgü ayrı bir tepki durumu tam olarak seçici reaksiyonun tanımıdır.",
+        "Yanlış; sezinleme, geçmiş deneyimlere dayanarak zamanlama/mekân konusunda tahmin yapmaktır, birden fazla uyaran-tepki eşleşmesini tanımlamaz.",
+        "Yanlış; dikkat, düşünce silsilelerinden birinin zihin tarafından belirgin alınmasıdır, bu soruda tanımlanan kavram değildir."
+      ]
+    },
+    {
+      "id": "w2q7",
+      "question": "“Oyun ya bir yarışmaya benzer ya da bir şeye en iyi benzemek için yarıştır’’ diyen fizyoloji profesörü kimdir?",
+      "options": [
+        "Huizinga",
+        "Gilliom",
+        "Kirchner",
+        "Russell",
+        "Stanley"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 3'te oyunun tanımı anlatılırken \"Huizinga'nın ifadesiyle 'Oyun ya bir yarışmaya benzer ya da bir şeye en iyi benzemek için yarıştır'\" alıntısı birebir verilir; diğer isimler (Gilliom, Kirchner, Russell, Stanley) hareket eğitimi alanındaki öncü isimler olarak anılır, bu alıntıyla ilişkilendirilmez.",
+      "optionNotes": [
+        "Doğru; bu alıntı metinde doğrudan Huizinga'ya atfedilmiştir.",
+        "Yanlış; Gilliom, hareket eğitimi alanında problem çözme ve keşfetme metodolojisiyle anılan bir isimdir, bu alıntıyla ilişkilendirilmez.",
+        "Yanlış; Kirchner, 1960-70'lerde hareket eğitimi alanında öncülük eden isimlerden biridir, bu alıntıyla ilgisi yoktur.",
+        "Yanlış; Russell, hareket eğitimi yaklaşımının gelişiminde anılan isimlerden biridir, oyun tanımı alıntısıyla ilişkilendirilmez.",
+        "Yanlış; Stanley de hareket eğitimi alanındaki öncü isimlerden biridir, bu alıntı ona ait değildir."
+      ]
+    },
+    {
+      "id": "w2q8",
+      "question": "Aşağıdakilerden hangisi Dengeleme Gerektiren Hareketlerinden biri değildir?",
+      "options": [
+        "Eğilme",
+        "Esnetme",
+        "Dönme",
+        "Salınım",
+        "Tırmanma"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 3'te dengeleme hareketleri \"eğilme, esnetme, dönme, salınım, ağırlık aktarma, atlama-konma, başlama-durma, dinamik-statik denge, duruş-oturuş, itme, çekme\" olarak sayılır; tırmanma ise \"yer değiştirme hareketleri\" (yürüme, koşma, atlama-sıçrama, adım al-sek, galop-kayma, yuvarlanma, tırmanma) grubunda yer alır, dolayısıyla dengeleme hareketi değildir.",
+      "optionNotes": [
+        "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+        "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+        "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+        "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+        "Doğru yanıt; tırmanma, metinde dengeleme hareketleri değil, yer değiştirme hareketleri grubunda sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q9",
+      "question": "Futbol, Roger Caillois’ın oyun sınıflandırılmasına göre hangi kapsamda yer alır?",
+      "options": [
+        "Fiziksel Beceri Oyunları",
+        "Strateji Oyunları",
+        "Fiziksel Beceri ve Strateji Oyunları",
+        "Strateji ve Şans İçeren Fiziksel Beceri Oyunları",
+        "Şans Oyunları"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 3'teki Roger Caillois sınıflamasına göre mücadele-yarışma oyunları (Agon), fiziksel beceri ile şans/strateji faktörlerinin bulunup bulunmamasına göre dörde ayrılır; futbol gibi takım oyunları metinde doğrudan \"Strateji ve Şans İçeren Fiziksel Beceri Oyunları\" örneği olarak verilmiştir.",
+      "optionNotes": [
+        "Yanlış; fiziksel beceri oyunları örneği olarak bovling, halter, koşu, stafet verilmiştir, futbol değil.",
+        "Yanlış; strateji oyunları dama, satranç gibi zekâya dayalı oyunlardır, futbol gibi fiziksel oyunları kapsamaz.",
+        "Yanlış; fiziksel beceri ve strateji oyunları örneği olarak mendil kapmaca, boks, güreş verilmiştir, futbol bu kategoride değildir.",
+        "Doğru; metinde futbol açıkça \"Strateji ve Şans İçeren Fiziksel Beceri Oyunları\" grubuna örnek olarak verilmiştir.",
+        "Yanlış; şans oyunları kadere/rastlantıya dayanır (kağıt, zar, rulet gibi), futbol gibi fiziksel beceri gerektiren bir oyun değildir."
+      ]
+    },
+    {
+      "id": "w2q10",
+      "question": "Aşağıdakilerden hangisi Oyunların Oynanma Düzenlerine Göre sınıflandırılan oyunlardan biridir?",
+      "options": [
+        "Sınıf oyunları",
+        "Daire oyunları",
+        "Salon oyunları",
+        "Bahçe veya kırsal alan oyunları",
+        "Kış oyunları"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 3'te eğitsel oyunlar \"oynanma düzenine göre: çizgi, daire ve dağınık düzen oyunları\" olarak sınıflandırılır; sınıf, salon, bahçe/kırsal alan ve kış oyunları ise \"oynandıkları alanlara göre\" yapılan ayrı bir sınıflamaya aittir.",
+      "optionNotes": [
+        "Yanlış; sınıf oyunları, \"oynandıkları alanlara göre\" sınıflamaya aittir, oynanma düzenine göre değil.",
+        "Doğru; daire oyunları, metinde \"oynanma düzenine göre\" sınıflamada (çizgi, daire, dağınık düzen) açıkça sayılmıştır.",
+        "Yanlış; salon oyunları, \"oynandıkları alanlara göre\" sınıflamaya aittir.",
+        "Yanlış; bahçe veya kırsal alan oyunları, \"oynandıkları alanlara göre\" sınıflamaya aittir.",
+        "Yanlış; kış oyunları da \"oynandıkları alanlara göre\" sınıflamaya aittir, oynanma düzeni sınıflaması değildir."
+      ]
+    },
+    {
+      "id": "w2q11",
+      "question": "Birden fazla hareketin, belirli bir düzen içerisinde yapılarak bir model oluşturmasına ne ad verilir?",
+      "options": [
+        "Beceri",
+        "Form",
+        "Deneyim",
+        "Gelişim",
+        "Öğrenme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 4'te form (hareket şekli) \"birden fazla hareketin belirli bir düzen içinde yapılarak bir model oluşturması\" olarak tanımlanır (örnek: voleybolcunun smaç vuruşundaki bacak-kol-gövde-baş düzeni).",
+      "optionNotes": [
+        "Yanlış; beceri, bir hedefe yönelik istemli hareket/göreve verilen addır, birden fazla hareketin model oluşturmasını tanımlamaz.",
+        "Doğru; metindeki form tanımı sorudaki ifadeyle birebir örtüşür.",
+        "Yanlış; deneyim, çevre tarafından sunulan ve öğrenmeye etki eden edinimlerdir, hareket modeli tanımı değildir.",
+        "Yanlış; gelişim, organizmanın yapısındaki olgunlaşma ve farklılaşma sürecidir, hareket modeli tanımı değildir.",
+        "Yanlış; öğrenme, alıştırma ve deneyim sonucu oluşan kalıcı davranış değişikliğidir, hareket modeli tanımı değildir."
+      ]
+    },
+    {
+      "id": "w2q12",
+      "question": "Aşağıdakilerden hangisi Çekinik Özelliklerden biri değildir?",
+      "options": [
+        "Uzun kafatası",
+        "Açıkgöz rengi",
+        "Beyaz ten rengi",
+        "Esmer ten rengi",
+        "Uzun boy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 4'te çekinik (resesif) genlerin heterozigot durumda fenotipte etkisini gösteremediği belirtilir. Klasik kalıtım tablosunda esmer ten rengi baskın (dominant) bir özellik olup beyaz ten rengi onun çekinik karşılığıdır; dolayısıyla listedeki diğer dört özellik (uzun kafatası, açık göz rengi, beyaz ten, uzun boy) çekinik iken esmer ten rengi çekinik değil baskın bir özelliktir. Not: Bu soruda kesinlik derecesi, ünite metninde doğrudan verilmeyen genel kalıtım bilgisine (standart baskın/çekinik özellik tablosuna) dayanmaktadır; bu nedenle tam emin olunamayan bir cevaptır.",
+      "optionNotes": [
+        "Çekinik bir özelliktir; kısa kafatasının baskın, uzun kafatasının çekinik olduğu kalıtım tablosunda yer alır.",
+        "Çekinik bir özelliktir; koyu (kahve/siyah) göz rengi baskın, açık göz rengi ise çekinik özellik olarak kabul edilir.",
+        "Çekinik bir özelliktir; esmer ten rengi baskın, beyaz ten rengi onun çekinik karşılığıdır.",
+        "Doğru yanıt (çekinik OLMAYAN özellik); esmer ten rengi klasik kalıtım tablosunda baskın (dominant) bir özelliktir, beyaz ten renginin çekinik karşılığıdır.",
+        "Çekinik bir özelliktir; kısa boyun baskın, uzun boyun çekinik olduğu kabul edilen kalıtım tablosunda yer alır."
+      ]
+    },
+    {
+      "id": "w2q13",
+      "question": "Bilişsel gelişim sürecini özümleme, uyma ve adaptasyon olarak 3 temel aşamaya ayıran kuramcı aşağıdakilerden hangisidir?",
+      "options": [
+        "Piaget",
+        "Maslow",
+        "Bruner",
+        "Watson",
+        "Vygotsky"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 4'te bilişsel gelişim sürecini \"özümleme, uyma ve adaptasyon\" olarak üç temel aşamaya ayıran kuramcının Piaget olduğu açıkça belirtilir.",
+      "optionNotes": [
+        "Doğru; metinde bu üçlü aşamalandırma doğrudan Piaget'in kuramına atfedilir.",
+        "Yanlış; Maslow ihtiyaçlar hiyerarşisiyle tanınan bir kuramcıdır, bilişsel gelişim aşamalarıyla ilgili değildir.",
+        "Yanlış; Bruner buluş yoluyla öğretme stratejisiyle anılır, özümleme-uyma-adaptasyon kuramıyla ilgili değildir.",
+        "Yanlış; Watson davranışçı öğrenme kuramcılarından biridir, bilişsel gelişim aşamalarını tanımlamaz.",
+        "Yanlış; Vygotsky sosyal yapılandırmacılıkla anılır, özümleme-uyma-adaptasyon üçlemesi Piaget'e aittir."
+      ]
+    },
+    {
+      "id": "w2q14",
+      "question": "Bir nesnenin belli bir özelliğe sahip olup olmadığının, sahipse sahip oluş derecesinin gözlenip gözlem sonuçlarının sayı, sıfat ve sembollerle ifade edilmesine ne ad verilir?",
+      "options": [
+        "Değerlendirme",
+        "Ölçüt",
+        "Ölçme kuralı",
+        "Değişken",
+        "Ölçme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 5'te ölçme, \"bir nesnenin belli bir özelliğe sahip olup olmadığının, sahipse sahip oluş derecesinin gözlenip gözlem sonuçlarının sayı, sıfat ve sembollerle ifade edilmesi\" olarak tanımlanır; soru bu tanımı birebir vermektedir.",
+      "optionNotes": [
+        "Yanlış; değerlendirme, ölçme sonuçlarının bir ölçütle karşılaştırılarak karara varılmasıdır, burada bir karşılaştırma/karar süreci tanımlanmamaktadır.",
+        "Yanlış; ölçüt, değerlendirmede ölçme sonuçlarının karşılaştırıldığı sabit değerdir, gözlem-ifade sürecini tanımlamaz.",
+        "Yanlış; ölçme kuralı, hangi sayı/sembolün hangi duruma verileceğini gösteren kuraldır, genel ölçme tanımı değildir.",
+        "Yanlış; değişken, en az iki değer alabilen özelliktir, gözlem sonuçlarının ifade edilme sürecini tanımlamaz.",
+        "Doğru; metindeki ölçme tanımı sorudaki ifadeyle birebir örtüşmektedir."
+      ]
+    },
+    {
+      "id": "w2q15",
+      "question": "I Nicel Değişken, değerleri sayılarla ifade edilebilen değişkenlerdir. II Nitel Değişken, sayısal olarak herhangi iki değer arasında daima başka değer bulunabilen değişkenlerdir. III Süreksiz Değişken, değişkenlere bağlı olarak farklı değerler alabilen değişkenlerdir. IV Bağımsız Değişken, başka bir değişkene bağlı olmadan değer alabilen değişkenlerdir. Yukarıdaki Değişken sınıflandırılmasından hangileri yanlıştır?",
+      "options": [
+        "I",
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 5 metnine göre I numaralı ifade (Nicel Değişken tanımı) doğrudur. II numaralı ifade ise aslında \"nitel\" değil \"sürekli değişken\" tanımını vermektedir (sayısal olarak iki değer arasında daima başka değer bulunması); bu nedenle yanlıştır. III numaralı ifade de süreksiz değişkenin tanımını doğru vermez; metindeki süreksiz değişken tanımı \"değerleri sınırlı sayıda sıfat/sembolle ifade edilen değişkenler\" şeklindedir, soru ifadesi bu tanıma uymamaktadır. IV numaralı ifade ise bağımsız değişken tanımıyla tam örtüşür ve doğrudur. Dolayısıyla yanlış olanlar II ve III'tür.",
+      "optionNotes": [
+        "Yanlış seçim; sadece I'in yanlış olduğunu söyler, ama I aslında metindeki nicel değişken tanımıyla tam örtüşen doğru bir ifadedir.",
+        "Yanlış seçim; I doğru bir ifadedir, bu seçenek onu hatalı olarak yanlışlar arasına katmaktadır.",
+        "Doğru yanıt; II ifadesi nitel değişkeni sürekli değişkenin tanımıyla karıştırmakta, III ifadesi de süreksiz değişkeni metindeki tanıma uygun biçimde vermemektedir; bu nedenle her ikisi de yanlıştır.",
+        "Yanlış seçim; I doğru bir ifade olduğu için I-II-III'ün tümünün yanlış olduğunu söylemek hatalıdır.",
+        "Yanlış seçim; IV ifadesi bağımsız değişkenin tanımıyla tam örtüşen doğru bir ifadedir, bu seçenek onu da yanlışlar arasına katmaktadır."
+      ]
+    },
+    {
+      "id": "w2q16",
+      "question": "I Vurulan smaç sayısı II Akademik başarı III Denklem problemleri Yukarıda verilen Ölçme türleri sırasıyla hangi seçenekte doğru verilmiştir?",
+      "options": [
+        "Doğrudan Ölçme – türetilmiş ölçme – dolaylı ölçme",
+        "Doğrudan Ölçme – dolaylı Ölçme – türetilmiş Ölçme",
+        "Dolaylı ölçme – türetilmiş ölçme – doğrudan ölçme",
+        "Dolaylı ölçme – doğrudan ölçme – türetilmiş ölçme",
+        "Türetilmiş ölçme – dolaylı ölçme – doğrudan ölçme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 5'te doğrudan ölçme örneği olarak \"vurulan smaç sayısı\" doğrudan verilmiştir; dolaylı ölçme örnekleri arasında \"akademik başarı\" açıkça sayılmıştır; türetilmiş ölçme ise iki değişken arasında matematiksel bir bağıntı (denklem) kurularak elde edilen ölçmedir (VKİ örneğindeki gibi), bu nedenle \"denklem problemleri\" türetilmiş ölçmeyle ilişkilendirilir. Doğru sıralama Doğrudan-Dolaylı-Türetilmiş'tir.",
+      "optionNotes": [
+        "Yanlış sıralama; bu seçenek dolaylı ve türetilmiş ölçmenin yerini değiştirmiştir, oysa II numaralı örnek (akademik başarı) dolaylı ölçmeye aittir.",
+        "Doğru; I=vurulan smaç sayısı (doğrudan), II=akademik başarı (dolaylı, metinde açıkça örnek verilmiştir), III=denklem problemleri (türetilmiş, matematiksel bağıntıya dayanır) sıralamasıyla örtüşür.",
+        "Yanlış sıralama; doğrudan ölçmeye ait olan smaç sayısı örneği burada dolaylı olarak verilmiştir, sıralama metinle uyuşmaz.",
+        "Yanlış sıralama; smaç sayısı örneği doğrudan ölçmeye aittir, bu seçenekte dolaylı olarak başa alınmıştır.",
+        "Yanlış sıralama; sıralama tamamen ters verilmiştir, doğrudan ölçmeye ait örnek en sona bırakılmıştır."
+      ]
+    },
+    {
+      "id": "w2q17",
+      "question": "I. Yazı yazma II. Araba kullanma III. Top sürme IV. Servis atma V. Işığa hassas olma Yukarıdaki hangisi sonradan kazanılan davranışlar kapsamında yer alır?",
+      "options": [
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 6'da insan davranışları doğuştan gelen (refleks/içgüdü), geçici ve sonradan kazanılan/öğrenme ürünü davranışlar olarak üçe ayrılır; yazı yazma, araba kullanma, top sürme ve servis atma (I-IV) alıştırma ve öğrenme yoluyla kazanılan davranışlardır. Işığa hassas olma (V) ise doğuştan gelen, refleks niteliğinde bir tepkidir, öğrenilmiş bir davranış değildir.",
+      "optionNotes": [
+        "Eksik; yazı yazma ve araba kullanma doğru şekilde öğrenilmiş davranışlar olarak sayılsa da, top sürme ve servis atma da öğrenilmiş davranışlar arasında olduğu için bu seçenek listeyi tam kapsamaz.",
+        "Eksik; araba kullanma ve top sürme öğrenilmiş davranışlar olsa da, yazı yazma ve servis atma da bu kapsama girdiğinden liste eksik kalmaktadır.",
+        "Eksik; yazı yazma, araba kullanma ve top sürme öğrenilmiş davranışlar olsa da, servis atma da bu kapsama girdiğinden liste eksiktir.",
+        "Doğru; yazı yazma, araba kullanma, top sürme ve servis atma hepsi alıştırma/deneyim yoluyla kazanılan öğrenilmiş davranışlardır; ışığa hassas olma ise doğuştan gelen bir reflekstir ve bu listeye dahil edilmemelidir.",
+        "Yanlış; ışığa hassas olma (V) doğuştan gelen bir refleks tepkisidir, öğrenilmiş bir davranış değildir, bu nedenle listeye dahil edilmemelidir."
+      ]
+    },
+    {
+      "id": "w2q18",
+      "question": "Aşağıdakilerden hangisi öğrenenle ilgili faktörlerden biri değildir?",
+      "options": [
+        "Türe özgü Hazır oluş",
+        "Olgunlaşma",
+        "Geribildirim",
+        "Genel Uyarılmışlık Düzeyi",
+        "Eski Yaşantılar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 6'da öğrenmeyi etkileyen faktörler üç grupta ele alınır: öğrenenle ilgili faktörler (türe özgü hazıroluş, olgunlaşma, genel uyarılmışlık düzeyi, eski yaşantılar, güdü, dikkat), öğretme yöntemiyle ilgili faktörler ve öğrenme malzemesiyle ilgili faktörler. Geribildirim (dönüt), metinde öğretme yöntemiyle ilgili faktörler arasında sayılmıştır, öğrenenle ilgili bir faktör değildir.",
+      "optionNotes": [
+        "Öğrenenle ilgili bir faktördür; metinde türe özgü hazıroluş, organizmanın biyolojik donanıma sahip olmasıyla ilgilidir ve öğrenenle ilgili faktörler arasında sayılır.",
+        "Öğrenenle ilgili bir faktördür; olgunlaşma, genetik olarak zamanı geldiğinde kendiliğinden oluşan biyolojik değişikliklerle ilgilidir ve bu başlık altında sayılır.",
+        "Doğru yanıt; geribildirim (dönüt), metinde öğrenenle ilgili faktörler arasında değil, öğretme yöntemiyle ilgili faktörler arasında sayılmıştır.",
+        "Öğrenenle ilgili bir faktördür; genel uyarılmışlık hali ve kaygı düzeyinin öğrenmeyi U şeklinde etkilediği, öğrenenle ilgili faktörler arasında anlatılır.",
+        "Öğrenenle ilgili bir faktördür; eski yaşantılar, öğrenmeyi transfer yoluyla etkileyen ve öğrenenle ilgili faktörler arasında sayılan bir unsurdur."
+      ]
+    },
+    {
+      "id": "w2q19",
+      "question": "Antrenörlerin, halk oyunları çalışmalarında sporcuya öncelikle kendi iline ait oyunları öğretmesi hangi öğretim ilkesi ile alakalıdır?",
+      "options": [
+        "Sporcuya görelik ilkesi",
+        "Etkin katılım ilkesi",
+        "Yaşama yakınlık ilkesi",
+        "Ekonomiklik ilkesi",
+        "Yakından uzağa ilkesi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 6'da \"yakından uzağa ilkesi, öğretimin sporcunun en yakın fiziksel/sosyal çevresinden başlamasını önerir\" şeklinde tanımlanır. Sporcuya önce kendi iline ait halk oyunlarının öğretilmesi, öğretimi sporcunun en yakın (bildik) çevresinden başlatmak anlamına geldiğinden bu ilkeyle doğrudan ilişkilidir.",
+      "optionNotes": [
+        "Yanlış; sporcuya görelik ilkesi, öğretimin sporcunun ilgi, ihtiyaç ve hazırbulunuşluk düzeyine göre yapılmasıyla ilgilidir, coğrafi/sosyal yakınlıkla ilgili değildir.",
+        "Yanlış; etkin katılım ilkesi, sporcunun sürece birden fazla duyu organıyla katılmasıyla ilgilidir, yakından uzağa ilkesini tanımlamaz.",
+        "Yanlış; yaşama yakınlık ilkesi, öğrenilenlerin gerçek yaşam koşullarında kullanılmasıyla ilgilidir (örn. sporcuları maça götürmek), coğrafi yakınlıkla ilgili değildir.",
+        "Yanlış; ekonomiklik ilkesi, en az maliyet ve çabayla en fazla verimi hedefler, bu durumla doğrudan ilgili değildir.",
+        "Doğru; metinde yakından uzağa ilkesi, öğretimin sporcunun en yakın çevresinden (kendi iline ait oyunlar gibi) başlamasını önerir şeklinde tanımlanır."
+      ]
+    },
+    {
+      "id": "w2q20",
+      "question": "Gerçek ve aktif öğrenmeyi sağlayarak, sporculara bir konuyu kavratmak ve o konuda uygulama yaptırmak amacıyla kullanılan öğrenme yöntemi aşağıdakilerden hangisidir?",
+      "options": [
+        "Örnek Olay",
+        "Gösteri",
+        "Soru-Cevap",
+        "Tartışma",
+        "Anlatma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 6'da gösteri (demonstrasyon) yönteminin, bir işin antrenör veya sporcu tarafından yapılarak gösterilmesi olduğu ve özellikle psikomotor davranışların öğretiminde sözel/yazılı anlatımdan daha etkili, uygulamaya dayalı ve aktif bir öğrenmeyi sağladığı belirtilir. Not: Ünite metninde bu sorudaki ifadeyle birebir örtüşen bir tanım bulunmadığından, seçim ünitede psikomotor beceri öğretiminde en etkili ve uygulamaya dayalı yöntem olarak tanımlanan gösteri yöntemine dayanarak yapılmıştır; bu cevapta bir derece belirsizlik vardır.",
+      "optionNotes": [
+        "Kısmen ilişkili fakat tam örtüşmüyor; örnek olay yöntemi gerçek yaşamdan bir problem durumu üzerinden çözüm üretmeye dayanır, doğrudan \"bir konuyu kavratıp uygulama yaptırma\" tanımıyla birebir örtüşmez.",
+        "En olası doğru yanıt; gösteri yöntemi, bir işin yapılarak gösterilmesine dayanır ve metinde özellikle psikomotor becerilerin öğretiminde sözel anlatımdan daha etkili, uygulamaya dönük bir yöntem olarak tanımlanır.",
+        "Yanlış; soru-cevap tekniği, antrenörün sorular sorarak öğretimi sürdürmesidir, uygulama yaptırmaya dayalı bir yöntem değildir.",
+        "Yanlış; tartışma yöntemi, görüş ve düşünce alışverişine dayanır, uygulamalı/psikomotor bir öğretim yöntemi değildir.",
+        "Yanlış; anlatma yöntemi, antrenörün sözel aktarımına dayanan pasif bir yöntemdir, metinde özellikle psikomotor hedeflerde etkisinin sınırlı olduğu belirtilir, bu nedenle \"aktif öğrenme ve uygulama\" tanımıyla çelişir."
+      ]
+    }
+  ]
+}

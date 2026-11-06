@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w7q1",
+      "question": "Basit ve karmaşık hareketlerin sergilenmesinden, postürün korunmasına kadar istemli olarak yapılan ve motor becerilerin temel bileşeni olarak kabul edilen kavrama ne ad verilir?",
+      "options": [
+        "Koordinasyon",
+        "Denge",
+        "Kuvvet",
+        "Hareket kontrolü",
+        "Esneklik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yentürk (2018)'e göre denge, postürü korumaktan karmaşık hareketleri sergilemeye kadar uzanan motor becerilerin temel bileşeni olarak tanımlanır. Bu tanım sorudaki ifadeyle birebir örtüşür; denge, merkezi sinir sistemi ile iskelet-kas sisteminin uyumlu etkileşimini içeren koordinasyonun bir parçası olarak görülür. Diğer seçenekler (koordinasyon, kuvvet, hareket kontrolü, esneklik) bu spesifik tanıma karşılık gelmez.",
+      "optionNotes": [
+        "Koordinasyon, karmaşık hareketlerin kısa sürede öğrenilip doğru uygulanmasıyla ilgilidir; postür korumaktan hareket sergilemeye uzanan bu tanım doğrudan dengeye aittir, koordinasyona değil.",
+        "Doğru yanıt; bu tanım Yentürk (2018)'in denge tanımıyla birebir örtüşür.",
+        "Kuvvet, bir dirence karşı koyma ya da kütleyi hareket ettirme yeteneğidir; postür koruma ve motor beceri temelinden bahseden bu tanımla ilgisi yoktur.",
+        "Hareket kontrolü, metinde ayrı ve standart bir kavram olarak bu şekilde tanımlanmaz; bu ifade dengeye özgüdür.",
+        "Esneklik, eklemlerin hareket genişliğiyle ilgilidir; postürün korunması ve motor becerilerin temel bileşeni olma tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "id": "w7q2",
+      "question": "Isınma sırasında kasların daha verimli çalışabilmesi ve sakatlık riskinin azaltılması için vücudun ulaşması gereken uygun sıcaklık düzeyi aşağıdakilerden hangisi ile ifade edilir?",
+      "options": [
+        "Maksimal ısı",
+        "Kritik ısı",
+        "İdeal ısı",
+        "Dinlenme ısısı",
+        "Normal ısı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Isınmanın amacı, kasların daha verimli çalışması ve sakatlık riskinin azaltılması için vücut ısısının belirli, optimum bir düzeye çıkarılmasıdır; literatürde bu hedef düzey ve bu düzeye ulaşmak için gereken süre 'ideal ısınma/ısı' olarak ifade edilir (Bompa'nın ideal ısınma süresi önerisiyle de uyumludur). Maksimal veya kritik ısı aşırı/zararlı düzeyleri çağrıştırırken, dinlenme ve normal ısı ısınma öncesi, henüz yükseltilmemiş durumu ifade eder.",
+      "optionNotes": [
+        "Maksimal ısı, vücudun dayanabileceği uç/aşırı bir sıcaklık düzeyini çağrıştırır; ısınmanın hedefi bu değildir, aşırı ısı sakatlığa yol açabilir.",
+        "Kritik ısı, metinde ısınma hedefi olarak kullanılan bir terim değildir; tehlike eşiğini çağrıştıran bir ifadedir.",
+        "Doğru yanıt; ısınmanın amacı vücudu performans ve güvenlik için en uygun (ideal) ısı düzeyine çıkarmaktır.",
+        "Dinlenme ısısı, ısınma öncesi, henüz yükseltilmemiş bazal durumu ifade eder; ısınmanın ulaşmaya çalıştığı düzey değildir.",
+        "Normal ısı da dinlenme durumundaki temel vücut ısısını ifade eder, ısınma ile yükseltilmiş hedef düzeyi karşılamaz."
+      ]
+    },
+    {
+      "id": "w7q3",
+      "question": "Kasın uzunluğunda herhangi bir değişiklik olmadan, sadece gerilim oluşturarak yapılan kasılma türü izometrik kas çalışması olarak adlandırılır. İzometrik kas çalışması sonucu ortaya çıkan kuvvete ne ad verilir?",
+      "options": [
+        "Dinamik kuvvet",
+        "Patlayıcı kuvvet",
+        "Statik kuvvet",
+        "Maksimal kuvvet",
+        "Çabuk kuvvet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde statik kuvvet, izometrik kasılma sırasında kasta gözle görülür bir kısalma/uzunluk değişikliği olmadan, sadece gerilim oluşturularak ortaya çıkan kuvvet olarak tanımlanır. Soruda tarif edilen 'kasın uzunluğunda değişiklik olmadan gerilim oluşturma' ifadesi doğrudan izometrik/statik kuvvetin tanımına karşılık gelir.",
+      "optionNotes": [
+        "Dinamik kuvvet, izotonik kasılmalarla, yani kasın boyu değişerek ortaya çıkan kuvvettir; soruda tarif edilen izometrik durumla çelişir.",
+        "Patlayıcı kuvvet (çabuk kuvvet), yüksek hızda dış dirençleri yenme yetisidir; kas uzunluğu değişmeden oluşan bir kuvvet değildir.",
+        "Doğru yanıt; statik kuvvet izometrik kasılmayla, kas uzunluğu değişmeden ortaya çıkan kuvvettir.",
+        "Maksimal kuvvet, kas-sinir sisteminin istemli kasılmayla ortaya çıkardığı en büyük kuvvettir; izometrik/izotonik ayrımını değil kuvvetin büyüklüğünü ifade eder.",
+        "Çabuk kuvvet, kuvvet ve süratin bir ürünüdür, hızlı hareketle ilgilidir; statik/izometrik durumu tanımlamaz."
+      ]
+    },
+    {
+      "id": "w7q4",
+      "question": "“Sporcunun fiziki ve fizyolojik yorgunluğa karşı koyabilme ve uzun süre performansını sürdürebilme gücü” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Sürat",
+        "Dayanıklılık",
+        "Kuvvet",
+        "Esneklik",
+        "Koordinasyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde dayanıklılık, 'sporcunun fiziki ve fizyolojik yorgunluğa dayanma gücü' olarak tanımlanır ve bu gücün uzun süre performansı sürdürebilmeyi sağladığı belirtilir. Soru metnindeki tanım, dayanıklılığın kitaptaki tanımıyla birebir örtüşmektedir.",
+      "optionNotes": [
+        "Sürat, bir mesafeyi en kısa sürede kat etme yeteneğidir; yorgunluğa karşı koyma ve uzun süre performans sürdürme tanımıyla ilgili değildir.",
+        "Doğru yanıt; tanım doğrudan dayanıklılığın kitaptaki tanımına aittir.",
+        "Kuvvet, bir dirence karşı koyma veya kütleyi hareket ettirme yeteneğidir; yorgunluğa karşı direnç değil, güç üretimiyle ilgilidir.",
+        "Esneklik, eklemlerin hareket genişliğini ifade eder; yorgunluğa dayanma gücüyle tanımlanmaz.",
+        "Koordinasyon, hareketlerin doğru ve çabuk uygulanmasıyla ilgilidir; fiziki/fizyolojik yorgunluğa karşı koyma tanımı değildir."
+      ]
+    },
+    {
+      "id": "w7q5",
+      "question": "Bir antrenman birimi genellikle ısınma, ana bölüm ve soğuma bölümlerinden oluşur. Buna göre antrenmanın ana bölümünde aşağıdakilerden hangisi uygulanır?",
+      "options": [
+        "Dinlenme ve toparlanma çalışmaları",
+        "Esneklik ve gevşeme çalışmaları",
+        "Branşa özgü teknik, taktik ve performans geliştirici çalışmalar",
+        "Nabız düşürme egzersizleri",
+        "afif tempolu yürüyüşler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde ana (temel) bölümün amacının sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel biyomotor yetileri ve psikolojik nitelikleri geliştirmek olduğu belirtilir; bu bölüm antrenmanın asıl kısmıdır. Dolayısıyla branşa özgü teknik, taktik ve performans geliştirici çalışmalar doğrudan ana bölümde uygulanır.",
+      "optionNotes": [
+        "Dinlenme ve toparlanma çalışmaları, antrenmanın soğuma (bitiriş) bölümüne aittir, ana bölümde değil.",
+        "Esneklik ve gevşeme çalışmaları da genellikle soğuma bölümünde (statik germe) yer alır, ana bölümün odağı değildir.",
+        "Doğru yanıt; ana bölüm, branşa özgü teknik, taktik ve performans geliştirici çalışmaların yapıldığı antrenmanın asıl kısmıdır.",
+        "Nabız düşürme egzersizleri, soğuma bölümünün aktif toparlanma (jog vb.) kısmına aittir, ana bölümde uygulanmaz.",
+        "Hafif tempolu yürüyüşler, ısınma veya soğuma bölümünde kullanılan düşük şiddetli hareketlerdir, ana bölümün içeriği değildir."
+      ]
+    },
+    {
+      "id": "w7q6",
+      "question": "Objeyle denge, sporcuların bir nesne (top, raket, sopa vb.) ile birlikte vücut dengesini kontrol edebilme becerisidir. Buna göre aşağıdakilerden hangisi objeyle denge türüne örnek değildir?",
+      "options": [
+        "Futbolcunun topu ayağında sektirmesi",
+        "Basketbolcunun top sürerken dengesini koruması",
+        "Cimnastikçinin denge tahtasında hareketsiz durması",
+        "Tenis oyuncusunun raketle topu kontrol etmesi",
+        "Hokey oyuncusunun sopayla topu sürmesi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Objeyle denge, sporcunun top, raket, sopa gibi bir nesneyle birlikte vücut dengesini kontrol edebilmesidir; bu nedenle bir ekipman/nesne kullanımı gerektirir. Cimnastikçinin denge tahtasında hareketsiz durması ise herhangi bir ek nesne kullanmadan sabit bir pozisyonu koruması olduğundan statik dengeye örnektir, objeyle dengeye değil.",
+      "optionNotes": [
+        "Futbolcunun topu ayağında sektirmesi, bir nesne (top) ile dengeyi kontrol etmeyi gerektirdiğinden objeyle dengeye örnektir.",
+        "Basketbolcunun top sürerken dengesini koruması da bir nesneyle (top) birlikte dengeyi sürdürmeyi içerdiğinden objeyle dengeye örnektir.",
+        "Doğru yanıt; denge tahtasında hareketsiz durma, ek bir nesne kullanılmadan sabit pozisyonu koruma gerektirdiğinden statik dengeye örnektir, objeyle denge değildir.",
+        "Tenis oyuncusunun raketle topu kontrol etmesi, bir ekipman (raket) ile dengeyi yönetmeyi içerdiğinden objeyle dengeye örnektir.",
+        "Hokey oyuncusunun sopayla topu sürmesi de bir nesne (sopa/top) ile dengeyi korumayı içerdiğinden objeyle dengeye örnektir."
+      ]
+    },
+    {
+      "id": "w7q7",
+      "question": "Spor eğitiminde kullanılan çok yönlü gelişim ilkesi piramidi, sporcuların aşamalı olarak gelişimini ifade eder. Buna göre bu piramidin en alt basamağını aşağıdakilerden hangisi oluşturur?",
+      "options": [
+        "Branşa özgü teknik çalışmalar",
+        "Yarışma performansı",
+        "Taktik gelişim",
+        "Üst düzey performans antrenmanları",
+        "Temel hareket eğitimi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Çok yönlü gelişim ilkesi piramidinde, tabanı çocukluk evresinde kazanılan çok yönlü/temel hareket eğitimi oluşturur; bunun üzerine branşa özgü çalışmalar, en tepede ise yarışma performansı/yüksek performans gelir. Bu nedenle piramidin en alt ve temel basamağı temel hareket eğitimidir.",
+      "optionNotes": [
+        "Branşa özgü teknik çalışmalar, piramidin orta/ikinci basamağıdır, temel hareket eğitiminin üzerine inşa edilir, en alt basamak değildir.",
+        "Yarışma performansı, piramidin en üst (son) basamağıdır; en alt basamak olarak doğru değildir.",
+        "Taktik gelişim, teknik hazırlığın geliştirilmesine bağlı olan, piramidin üst katmanlarına ait bir süreçtir, temel basamak değildir.",
+        "Üst düzey performans antrenmanları, piramidin tepe noktasına karşılık gelir, tabanı oluşturmaz.",
+        "Doğru yanıt; piramidin tabanını, çocukluk evresinde kazanılan temel hareket eğitimi oluşturur."
+      ]
+    },
+    {
+      "id": "w7q8",
+      "question": "1982 yılında Beden Terbiyesi Kanunu çerçevesinde, antrenör eğitimi, spor bilimleri araştırmaları ve sporcu sağlığı konularında çalışmalar yapmak amacıyla kurulan araştırma merkezi aşağıdakilerden hangisidir?",
+      "options": [
+        "Beden Terbiyesi ve Spor Araştırma Merkezi",
+        "Spor Eğitimi Araştırma Merkezi",
+        "Spor Bilimleri Araştırma Merkezi",
+        "Antrenman Bilimleri Araştırma Merkezi",
+        "Spor Sağlığı Araştırma Merkezi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaynakta, 1982'de Beden Terbiyesi Kanunu çerçevesinde antrenör eğitimi ve sporcu sağlığı ile ilgili çalışmalar yapmak amacıyla 'Ankara Sporcu Eğitim Sağlık ve Araştırma Merkezi' (SESAM) kurulduğu belirtilir. Verilen seçenekler arasında bu kurumun tam adıyla birebir örtüşen bir ifade bulunmadığından, kurumun adındaki 'Eğitim' vurgusuna en yakın seçenek olan 'Spor Eğitimi Araştırma Merkezi' işaretlenmiştir; bu seçim kesin bir kaynak eşleşmesi değil, en yakın/en makul seçenektir, bu konuda emin değilim.",
+      "optionNotes": [
+        "Beden Terbiyesi ve Spor Araştırma Merkezi, metindeki 'Beden Terbiyesi Kanunu' ifadesiyle karıştırılabilecek ama kurumun gerçek adıyla (Sporcu Eğitim Sağlık ve Araştırma Merkezi) örtüşmeyen bir seçenektir.",
+        "En yakın seçenek olarak işaretlendi; kurumun gerçek adındaki 'Eğitim' kelimesiyle kısmen örtüşür, ancak 'Sağlık' bileşenini içermez.",
+        "Spor Bilimleri Araştırma Merkezi, kurumun gerçek adında geçen 'Eğitim/Sağlık' ifadelerini içermediği için tam örtüşmeyen bir seçenektir.",
+        "Antrenman Bilimleri Araştırma Merkezi, metinde bu isimle anılan bir kurum geçmez, bu nedenle gerçek adla örtüşmez.",
+        "Spor Sağlığı Araştırma Merkezi, kurumun adındaki 'Sağlık' bileşenini içerse de 'Eğitim' bileşenini içermediğinden tam örtüşmez; B seçeneğiyle benzer düzeyde yakınlıkta bir alternatiftir."
+      ]
+    },
+    {
+      "id": "w7q9",
+      "question": "Sürantrenman (aşırı antrenman), sporcunun yeterli dinlenme olmadan aşırı yüklenmeye maruz kalması sonucu ortaya çıkan bir durumdur. Buna göre aşağıdakilerden hangisi sürantrenmanın belirtilerinden biri değildir?",
+      "options": [
+        "Performans düşüşü",
+        "Sürekli yorgunluk hissi",
+        "Uyku düzensizlikleri",
+        "Dinlenik nabzın artması",
+        "Performansın sürekli artması"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sürantrenman, yetersiz dinlenme ve aşırı yüklenme sonucu düşük performansla sonuçlanan bir durumdur; belirtileri arasında huzursuzluk, sürekli yorgunluk, uyku düzensizlikleri, dinlenik nabzın artması gibi olumsuz değişiklikler sayılır. 'Performansın sürekli artması' bu tabloya aykırıdır; sürantrenmanın tipik sonucu performans artışı değil, performans düşüşüdür.",
+      "optionNotes": [
+        "Performans düşüşü, sürantrenmanın en temel ve beklenen belirtilerinden biridir, metinde doğrudan sayılmıştır.",
+        "Sürekli yorgunluk hissi, sürantrenmanın genel belirtileri arasında metinde yer alır.",
+        "Uyku düzensizlikleri de sürantrenmanla ilişkilendirilen tipik belirtilerden biridir.",
+        "Dinlenik nabzın artması, sürantrenmanda görülen fizyolojik belirtilerden biri olarak bilinir ve metindeki genel çerçeveyle uyumludur.",
+        "Doğru yanıt; sürantrenman performansı düşürür, artırmaz, bu nedenle 'performansın sürekli artması' sürantrenmanın bir belirtisi olamaz."
+      ]
+    },
+    {
+      "id": "w7q10",
+      "question": "Esneklik; kas, tendon ve eklemlerin hareket genişliğini ifade eder ve çeşitli iç ve dış faktörlerden etkilenir. Buna göre aşağıdakilerden hangisi esnekliği etkileyen iç faktörlerden biridir?",
+      "options": [
+        "Ortam sıcaklığı",
+        "Yaş",
+        "Antrenman türü",
+        "Günün saati",
+        "Zemin yapısı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kaynak ünitede esnekliği etkileyen iç faktörler; eklem yapısı, kemik yapısı, kas-tendon-ligament elastikiyeti, derinin elastikiyeti, kasın gevşeme-kasılma yeteneği ve eklem ısısı olarak sayılır. Buna karşın ortam sıcaklığı, günün saati ve yaş aynı kaynakta açıkça dış (çevresel/dışsal) faktörler arasında sayılmıştır; bu nedenle verilen beş seçenek arasında 'antrenman türü' elenerek en mantıklı iç faktör adayı olarak işaretlenmiştir. Bu soruda net bir kaynak eşleşmesi bulunamadığından seçim, eleme yöntemiyle yapılmış şeffaf bir tahmindir.",
+      "optionNotes": [
+        "Ortam sıcaklığı, kaynak metinde esnekliği etkileyen dış faktörler arasında açıkça sayılmıştır, iç faktör değildir.",
+        "Yaş, bu özel kaynakta (ergenlik öncesi/sonrası karşılaştırmasıyla) dış faktörler listesinde yer alır; genel beklentinin aksine burada içsel değil dışsal bir etken olarak sınıflandırılmıştır.",
+        "Doğru yanıt olarak işaretlendi; diğer dört seçenek kaynakta açıkça dış/çevresel faktör olarak geçtiğinden, antrenman türü eleme yoluyla en makul iç faktör adayı olarak kalmıştır, ancak bu kesin bir kaynak eşleşmesi değildir.",
+        "Günün saati, kaynak metinde esnekliği etkileyen dış faktörler arasında doğrudan sayılmıştır (öğleden sonra daha iyi esneme örneği gibi).",
+        "Zemin yapısı da ortam/çevre kaynaklı bir etken olduğundan dış faktörler kategorisine girer, iç faktör olarak değerlendirilmez."
+      ]
+    },
+    {
+      "id": "w7q11",
+      "question": "Spor tekniklerinin öğrenilmesi genellikle belirli aşamalardan oluşur. Bu aşamalar sporcunun hareketi tanıması, geliştirmesi ve otomatik hale getirmesi süreçlerini kapsar. Buna göre aşağıdakilerden hangisi tekniğin öğrenim safhalarından biri değildir?",
+      "options": [
+        "Kaba koordinasyon aşaması",
+        "İnce koordinasyon aşaması",
+        "Stabilizasyon (ustalaşma) aşaması",
+        "Otomatikleşme aşaması",
+        "Sürat geliştirme aşaması"
+      ],
+      "correctIndex": 4,
+      "explanation": "Tekniğin öğrenim safhaları kaba koordinasyon, ince koordinasyon, stabilizasyon (sağlamlaştırma/ustalaşma) ve otomatikleşme aşamalarından oluşur; bu aşamalar sporcunun hareketi tanıyıp geliştirip otomatik hâle getirmesini kapsar. 'Sürat geliştirme aşaması' bu safhalar arasında sayılmaz; sürat, teknik öğrenim safhalarından değil, ayrı bir biyomotor özelliktir.",
+      "optionNotes": [
+        "Kaba koordinasyon aşaması, tekniğin öğrenim safhalarından biri olarak metinde açıkça sayılmıştır.",
+        "İnce koordinasyon aşaması da tekniğin öğrenim safhalarından biridir, ayrıntılı koordinasyonun geliştirildiği evreyi ifade eder.",
+        "Stabilizasyon (ustalaşma) aşaması, tekniğin sağlamlaştırılıp pekiştirildiği, öğrenim safhalarından biri olarak metinde yer alır.",
+        "Otomatikleşme aşaması, tekniğin öğrenim sürecinin son ve en üst safhasıdır, metinde sayılan safhalardan biridir.",
+        "Doğru yanıt; sürat geliştirme, tekniğin öğrenim safhası değil, ayrı bir biyomotor özelliğin (sürat) geliştirilmesiyle ilgilidir."
+      ]
+    },
+    {
+      "id": "w7q12",
+      "question": "Bir spor kulübünün küçük yaşlarda yetenekli sporcuları tespit ederek altyapısına kazandırması ve bu sporcuları geliştirerek kendi üst düzey sporcularını yetiştirmesi süreci aşağıdaki kavramlardan hangisi ile ifade edilir?",
+      "options": [
+        "Transfer politikası",
+        "Yetenek seçimi ve geliştirme",
+        "Rekreasyonel spor",
+        "Spor pazarlaması",
+        "Sponsorluk sistemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Küçük yaşlarda yetenekli sporcuların tespit edilip altyapıya kazandırılması, geliştirilmesi ve üst düzey sporcu olarak yetiştirilmesi süreci, yetenek seçimi ve yönlendirme/geliştirme kavramıyla ifade edilir. Bu süreç, bireyin antropometrik, genetik ve motorik özelliklerinin değerlendirilip sistematik biçimde spora yönlendirilmesini ve geliştirilmesini kapsar.",
+      "optionNotes": [
+        "Transfer politikası, zaten yetişmiş sporcuların bir kulüpten diğerine kazandırılmasıyla ilgilidir, küçük yaşta yetenek tespiti ve geliştirmeyle ilgili değildir.",
+        "Doğru yanıt; küçük yaşta yetenekli sporcuları tespit edip geliştirme süreci, yetenek seçimi ve geliştirme kavramıyla tanımlanır.",
+        "Rekreasyonel spor, performans veya üst düzey sporcu yetiştirme amacı taşımayan, sağlık/sosyalleşme odaklı bir katılım türüdür.",
+        "Spor pazarlaması, sporun ticari ve tanıtım boyutuyla ilgilidir, sporcu geliştirme süreciyle ilgili değildir.",
+        "Sponsorluk sistemi, kulüplerin finansman kaynaklarıyla ilgilidir, yetenekli sporcuların tespiti ve geliştirilmesi sürecini tanımlamaz."
+      ]
+    },
+    {
+      "id": "w7q13",
+      "question": "Spor eğitiminde kullanılan çok yönlü gelişim ilkesi piramidi, sporcuların gelişimini aşamalı bir şekilde açıklar. Buna göre piramitte gelişim evreleri aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
+      "options": [
+        "Yarışma performansı → Temel hareket eğitimi → Branşa özgü çalışmalar",
+        "Branşa özgü çalışmalar → Temel hareket eğitimi → Yarışma performansı",
+        "Temel hareket eğitimi → Branşa özgü çalışmalar → Yarışma performansı",
+        "Yarışma performansı → Branşa özgü çalışmalar → Temel hareket eğitimi",
+        "Branşa özgü çalışmalar → Yarışma performansı → Temel hareket eğitimi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Çok yönlü gelişim ilkesi piramidinde gelişim evreleri, tabandan tepeye doğru sırasıyla temel hareket eğitimi, branşa özgü çalışmalar ve yarışma performansı şeklinde ilerler. Bu sıralama, piramidin en genel (taban) düzeyden en özelleşmiş (tepe) düzeye doğru aşamalı gelişimi yansıtır.",
+      "optionNotes": [
+        "Bu seçenekte sıralama tam tersine çevrilmiştir; yarışma performansı piramidin tepesinde, temel hareket eğitimi ise tabanında olmalıdır.",
+        "Bu seçenek, branşa özgü çalışmaları en başa koyarak piramidin taban-tepe mantığını bozar; doğru sıralamada önce temel hareket eğitimi gelir.",
+        "Doğru yanıt; piramidin doğru sıralaması temel hareket eğitimi → branşa özgü çalışmalar → yarışma performansıdır.",
+        "Bu seçenek piramidi tamamen tersten sıralar, yarışma performansını en başa, temel hareket eğitimini en sona koyar.",
+        "Bu seçenek de yanlış bir sıralama sunar; branşa özgü çalışmaları başa, temel hareket eğitimini en sona koyarak piramidin mantığını bozar."
+      ]
+    },
+    {
+      "id": "w7q14",
+      "question": "Spor bilimlerinde sporcuların planlı ve sistemli şekilde gelişimini açıklayan sporcu gelişim modeli, belirli aşamalardan oluşmaktadır. Buna göre sporcu gelişimi kaç aşamaya ayrılır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde en bilinen sporcu gelişim modeli olan Uzun Vadeli Sporcu Gelişimi (LTAD/UVSG) modelinin yedi aşamadan (Aktif Başlangıç, Temel Eğitim, Antrenman Yapmayı Öğrenme, Antrenman İçin Antrenman, Yarışma İçin Antrenman, Kazanmak İçin Antrenman, Aktif Yaşam İçin Antrenman) oluştuğu açıkça belirtilmiştir. Bu nedenle sporcu gelişimi bu modele göre 7 aşamaya ayrılır.",
+      "optionNotes": [
+        "3 aşama, LTAD modelini tamamlayan DMSP modelinin (örnekleme, uzmanlaşma, yatırım) aşama sayısıdır, LTAD'ın kendisi için doğru değildir.",
+        "4 aşama, metinde sporcu gelişim modeli için belirtilen sayı değildir.",
+        "5 aşama da metinde LTAD için verilen sayı değildir.",
+        "6 aşama, LTAD modelinin yedi evresinden bir eksiktir, metindeki sayıyla uyuşmaz.",
+        "Doğru yanıt; metinde UVSG (LTAD) modelinin yedi aşamadan oluştuğu açıkça ifade edilmiştir."
+      ]
+    },
+    {
+      "id": "w7q15",
+      "question": "“Kas-sinir sisteminin istemli bir kasılma ile ortaya çıkarabildiği en büyük kuvvet” aşağıdaki kavramlardan hangisinin tanımıdır?",
+      "options": [
+        "Çabuk kuvvet",
+        "Patlayıcı kuvvet",
+        "Statik kuvvet",
+        "Maksimal kuvvet",
+        "Dayanıklılık kuvveti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde maksimal kuvvet, 'kas-sinir sisteminin istemli bir kasılmayla ortaya çıkarabildiği en büyük kuvvet' olarak tanımlanır; bu tanım soru metniyle birebir örtüşmektedir. Maksimal kuvvet, sporcunun bir denemede kaldırabileceği en yüksek yük değeri olarak da ifade edilir.",
+      "optionNotes": [
+        "Çabuk kuvvet, kuvvet ve süratin bir ürünü olarak yüksek hızda dirençleri yenme yetisidir, 'en büyük kuvvet' tanımı değildir.",
+        "Patlayıcı kuvvet, çabuk kuvvetle ilişkili bir terimdir ve hız bileşenini içerir, istemli kasılmayla ortaya çıkan en büyük kuvveti tanımlamaz.",
+        "Statik kuvvet, izometrik kasılmada kas uzunluğu değişmeden oluşan kuvvettir, 'en büyük kuvvet' tanımına karşılık gelmez.",
+        "Doğru yanıt; tanım birebir maksimal kuvvete aittir.",
+        "Dayanıklılık kuvveti (kuvvette devamlılık), uzun süre direnci yenebilme kapasitesidir, en büyük anlık kuvveti değil sürekliliği ifade eder."
+      ]
+    },
+    {
+      "id": "w7q16",
+      "question": "Modern anlamda planlı ilk fiziksel aktivite programı, bireylerin sağlık ve fiziksel uygunluk düzeylerini geliştirmek amacıyla belirli bir tarihte oluşturulmuştur. Buna göre ilk fiziksel aktivite programı kaç yılında ve nerede oluşturulmuştur?",
+      "options": [
+        "1890 – Almanya",
+        "1916 – Amerika Birleşik Devletleri",
+        "1905 – İngiltere",
+        "1924 – Fransa",
+        "1932 - Türkiye"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaynak ünitede, ilk fiziksel aktivite programlarının Amerika'da, sağlıklı olmak için yoğun fiziksel aktivite gerektiği görüşüyle oluşturulduğu belirtilir (metinde tarih 1860 olarak geçer). Verilen seçenekler arasında ülke eşleşmesi (Amerika Birleşik Devletleri) açıkça örtüştüğü için '1916 – Amerika Birleşik Devletleri' seçeneği işaretlenmiştir; ancak kaynaktaki tarih (1860) ile sorudaki yıl (1916) tam örtüşmediğinden bu seçim netlik içermemektedir, şeffaflıkla not ediliyor.",
+      "optionNotes": [
+        "1890 – Almanya, kaynak metinde ilk fiziksel aktivite programıyla ilişkilendirilen ülke (Amerika) ile örtüşmez.",
+        "En yakın seçenek olarak işaretlendi; kaynakta ilk fiziksel aktivite programının Amerika'da oluşturulduğu belirtilir, ülke eşleşmesi bu seçeneği destekler, ancak kaynaktaki yıl (1860) ile burada verilen yıl (1916) birebir örtüşmemektedir.",
+        "1905 – İngiltere, kaynak metindeki ülke (Amerika) ile uyuşmamaktadır.",
+        "1924 – Fransa, kaynakta belirtilen ülke ve döneme karşılık gelmez.",
+        "1932 – Türkiye, kaynakta ilk fiziksel aktivite programı için anılan ülke değildir; metinde bu program Amerika'ya atfedilir."
+      ]
+    },
+    {
+      "id": "w7q17",
+      "question": "Tekniğin öğrenilmesinde ilk aşama aşağıdakilerden hangisidir?",
+      "options": [
+        "Stabilizasyon",
+        "İnce koordinasyon",
+        "Kaba koordinasyon",
+        "Otomatikleşme",
+        "Yarışma uygulaması"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tekniğin öğrenim safhaları sırasıyla kaba koordinasyon, ince koordinasyon, stabilizasyon (ustalaşma) ve otomatikleşme şeklinde ilerler. Bu nedenle tekniğin öğrenilmesindeki ilk aşama kaba koordinasyon aşamasıdır; sporcu önce hareketin genel/kaba yapısını kazanır, sonra inceltir ve otomatikleştirir.",
+      "optionNotes": [
+        "Stabilizasyon, öğrenim sürecinin sonlarına doğru gelen, sağlamlaştırma/ustalaşma aşamasıdır, ilk aşama değildir.",
+        "İnce koordinasyon, kaba koordinasyondan sonra gelen ikinci aşamadır, ilk aşama değildir.",
+        "Doğru yanıt; tekniğin öğrenilmesindeki ilk aşama kaba koordinasyondur.",
+        "Otomatikleşme, öğrenim sürecinin son ve en üst aşamasıdır, ilk aşama olamaz.",
+        "Yarışma uygulaması, tekniğin öğrenim safhaları arasında sayılan bir aşama değildir, bu bir çeldiricidir."
+      ]
+    },
+    {
+      "id": "w7q18",
+      "question": "Antrenman planlamasında yıllık plan aşağıdakilerden hangisidir?",
+      "options": [
+        "Mikro plan",
+        "Günlük plan",
+        "Haftalık plan",
+        "Birim plan",
+        "Makro plan"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenman planlaması hiyerarşik olarak birim (günlük), mikro (haftalık), makro (aylık/daha uzun döngü) ve yıllık plan şeklinde büyüyen zaman dilimlerinden oluşur. Verilen seçenekler arasında en büyük/en kapsamlı zaman dilimini temsil eden ve klasik periyotlama terminolojisinde uzun süreli (yıllık ölçekte de kullanılabilen) döngüyü ifade eden 'makro plan', bu beş seçenek arasında yıllık plana en yakın olan kavramdır.",
+      "optionNotes": [
+        "Mikro plan, haftalık antrenman planını ifade eder; yıllık planın çok daha küçük bir alt birimidir.",
+        "Günlük plan, birim antrenmanın diğer bir adıdır; planlamanın en küçük parçasıdır, yıllık ölçekle ilgisi yoktur.",
+        "Haftalık plan, mikro planın diğer adıdır; birkaç haftalık döngüleri kapsar, yıllık ölçeğe denk gelmez.",
+        "Birim plan, tek bir günlük antrenman programıdır; planlamanın en küçük parçasıdır, yıllık planla karıştırılmamalıdır.",
+        "Doğru yanıt olarak işaretlendi; verilen seçenekler arasında en büyük/en kapsamlı zaman birimini temsil eden ve klasik periyotlamada uzun süreli döngüyü ifade eden kavram makro plandır."
+      ]
+    },
+    {
+      "id": "w7q19",
+      "question": "Bir haftalık antrenman planına ne ad verilir?",
+      "options": [
+        "Mikro döngü",
+        "Makro döngü",
+        "Mezo döngü",
+        "Yıllık plan",
+        "Performans planı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mikro antrenman planlaması (mikro döngü), haftalık yapılacak birim antrenman sayısının belirlenmesini ifade eder ve genellikle haftada 3-6 antrenman biriminden oluşur. Bu nedenle bir haftalık antrenman planına mikro döngü adı verilir.",
+      "optionNotes": [
+        "Doğru yanıt; bir haftalık antrenman planı mikro döngü olarak adlandırılır.",
+        "Makro döngü, birkaç haftayı (2-7 hafta) kapsayan daha büyük bir zaman dilimidir, tek bir haftayı değil.",
+        "Mezo döngü, bu ünite kapsamında ayrı ve öne çıkan bir kategori olarak kullanılmaz; haftalık plan için kullanılan terim mikro döngüdür.",
+        "Yıllık plan, bir yılı/sezonu kapsayan çok daha büyük bir planlama birimidir, bir haftayı ifade etmez.",
+        "Performans planı, metinde tanımlanan standart bir planlama birimi değildir, haftalık planı karşılamaz."
+      ]
+    },
+    {
+      "id": "w7q20",
+      "question": "Dayanıklılık antrenmanları organizmada fizyolojik ve fonksiyonel bazı değişikliklere neden olur. Buna göre aşağıdakilerden hangisi dayanıklılık antrenmanlarının organizma üzerindeki etkilerinden biridir?",
+      "options": [
+        "Dinlenik nabzın azalması",
+        "Kas esnekliğinin tamamen kaybolması",
+        "Kemik yoğunluğunun azalması",
+        "Solunum kapasitesinin düşmesi",
+        "Yorgunluk eşiğinin azalması"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dayanıklılık antrenmanları organizmada birçok olumlu etki yaratır: vücudun daha kısa sürede toparlanması, vital (solunum) kapasitenin artması, kalbin güçlenmesi ve enerji kapasitesinin yükselmesi gibi; kalbin güçlenmesiyle birlikte dinlenik nabız da azalır (bradikardi). Diğer seçenekler ise bu olumlu etkilerin tam tersini, yani olumsuz/yanlış değişiklikleri ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt; dayanıklılık antrenmanı sonucunda kalp güçlenir ve dinlenik nabız azalır, bu olumlu bir adaptasyondur.",
+        "Kas esnekliğinin tamamen kaybolması, dayanıklılık antrenmanının bilinen bir etkisi değildir; bu abartılı ve gerçek dışı bir ifadedir.",
+        "Kemik yoğunluğunun azalması, dayanıklılık antrenmanının etkisi değildir; düzenli antrenman genellikle kemik yoğunluğunu korur veya artırır, azaltmaz.",
+        "Solunum kapasitesinin düşmesi yanlıştır; metinde tam tersine vital kapasitenin arttığı belirtilir.",
+        "Yorgunluk eşiğinin azalması da yanlıştır; dayanıklılık antrenmanı yorgunluğa karşı direnci artırarak yorgunluk eşiğini yükseltir, düşürmez."
+      ]
+    }
+  ]
+}

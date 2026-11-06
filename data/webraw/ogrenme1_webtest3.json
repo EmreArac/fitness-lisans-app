@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w3q1",
+      "question": "Antrenörlerin bulunmadığı ortamlarda bireylere spor öğretimi veya antrenman konusunda yardımcı olan kişilere ne ad verilir?",
+      "options": [
+        "Gönüllü lider (veya gönüllü spor lideri)",
+        "Ücretli antrenör",
+        "Kısmi zamanlı antrenör",
+        "Yardımcı antrenör",
+        "Profesyonel antrenör"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1 metninde bu tanım birebir şu şekilde verilir: 'Gönüllü antrenörler, hiçbir ücret almaksızın, antrenörlerin bulunmadığı ortamlarda bireylere antrenörlük yapan kişilerdir.' Bu kişiler genellikle sporcuların yakınları, ebeveynleri veya göreceli spor deneyimine sahip kişilerdir; sorudaki 'gönüllü lider' ifadesi bu role karşılık gelir.",
+      "optionNotes": [
+        "Doğru: metin, antrenörlerin bulunmadığı ortamlarda ücretsiz antrenörlük/liderlik yapan bu kişileri 'gönüllü antrenör/lider' olarak tanımlar.",
+        "Yanlış: ücretli antrenörler profesyonel, önceden belirlenmiş bir prosedürle işe alınan kişilerdir; antrenörün bulunmadığı ortamla ilgisi yoktur.",
+        "Yanlış: kısmi zamanlı antrenörler başka bir meslekleri yanında ücret karşılığı antrenörlük yapan kişilerdir, ücretsiz gönüllü yardım değildir.",
+        "Yanlış: yardımcı antrenör, baş antrenöre bağlı çalışan bir rol tanımıdır, metinde tanımlanan gönüllü-ücretsiz yapıyla örtüşmez.",
+        "Yanlış: profesyonel antrenörler antrenörlüğü meslek olarak icra eder ve ücret alır; tanımdaki ücretsiz ve antrenörsüz ortam vurgusuyla çelişir."
+      ]
+    },
+    {
+      "id": "w3q2",
+      "question": "Aşağıdakilerden hangisi spora katılım süreçlerinden biri değildir?",
+      "options": [
+        "Elit yarışmalar",
+        "Ulusal yarışmalar",
+        "Bölgesel yarışmalar",
+        "Yerel yarışmalar",
+        "Akran yarışmaları"
+      ],
+      "correctIndex": 4,
+      "explanation": "Piramit modeline göre spora katılım süreci sırasıyla okul sporu/beden eğitimi, yerel yarışmalar, bölgesel şampiyonalar, ulusal şampiyonalar ve en tepede elit yarışmalar şeklinde ilerler. 'Akran yarışmaları' bu modelde tanımlanan resmi bir aşama değildir, dolayısıyla spora katılım süreçlerinden biri değildir.",
+      "optionNotes": [
+        "Piramidin en tepesinde yer alan aşamadır, metinde açıkça sayılmıştır.",
+        "Piramit modelinin dördüncü aşamasıdır, metinde açıkça sayılmıştır.",
+        "Piramit modelinin üçüncü aşamasıdır, metinde açıkça sayılmıştır.",
+        "Piramit modelinin ikinci aşamasıdır (okul sporundan sonra), metinde açıkça sayılmıştır.",
+        "Doğru: piramit modelinde tanımlanan resmi aşamalar arasında 'akran yarışmaları' diye bir basamak yer almaz."
+      ]
+    },
+    {
+      "id": "w3q3",
+      "question": "Sporda öğrenme kavramı en doğru şekilde aşağıdakilerden hangisiyle açıklanır?",
+      "options": [
+        "Kısa süreli davranış değişikliği",
+        "Kalıcı davranış değişikliği",
+        "Doğuştan gelen becerilerin gelişmesi",
+        "Sadece fiziksel gelişim",
+        "Anlık performans artışı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Öğrenme, ünite metinlerinde 'yaşantı/deneyim ve alıştırma sonucu davranışta meydana gelen nispeten kalıcı izli bir değişme' olarak tanımlanır. Bu nedenle sporda öğrenme kavramı en doğru şekilde 'kalıcı davranış değişikliği' ile açıklanır; kısa süreli veya anlık değişiklikler öğrenmeye değil performansa aittir.",
+      "optionNotes": [
+        "Yanlış: kısa süreli değişiklik performansın değişken doğasını tanımlar, öğrenmeyi değil.",
+        "Doğru: metinlerde öğrenme birebir 'nispeten kalıcı izli değişme' olarak tanımlanır.",
+        "Yanlış: doğuştan gelen becerilerin gelişmesi olgunlaşma kavramıyla ilgilidir, deneyim yoluyla kazanılan öğrenmeyle karıştırılmamalıdır.",
+        "Yanlış: öğrenme sadece fiziksel değil bilişsel ve duyuşsal boyutları da kapsar.",
+        "Yanlış: anlık performans artışı geçici bir durumdur, kalıcı olmadığından öğrenme sayılmaz."
+      ]
+    },
+    {
+      "id": "w3q4",
+      "question": "Bir spor becerisinin öğrenilmesi sırasında yapılan tekrarların temel amacı nedir?",
+      "options": [
+        "Sporcuya dinlenme sağlamak",
+        "Hareketin kalıcı hale gelmesini sağlamak",
+        "Sporcu sayısını artırmak",
+        "Antrenman süresini uzatmak",
+        "Sporcuları motive etmek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motor becerilerin öğrenilmesinde tekrarın temel amacı, hareketin otomatikleşmesi ve kalıcı hale gelmesidir; psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır. Diğer seçenekler tekrarın asıl işlevini değil, ilgisiz veya yan sonuçları ifade eder.",
+      "optionNotes": [
+        "Yanlış: tekrarın amacı dinlenme sağlamak değildir, aksine beceriyi geliştirmektir.",
+        "Doğru: metinlerde tekrarın, hareketin kalıcı ve otomatik hale gelmesini sağladığı vurgulanır.",
+        "Yanlış: tekrar sporcu sayısıyla ilgili bir kavram değildir.",
+        "Yanlış: tekrarın amacı süreyi uzatmak değil, beceriyi kalıcı kılmaktır; süre bir araçtır, amaç değildir.",
+        "Yanlış: motivasyon sağlamak tekrarın temel amacı değildir, bu daha çok geri bildirim ve pekiştirmeyle ilişkilidir."
+      ]
+    },
+    {
+      "id": "w3q5",
+      "question": "Aşağıdakilerden hangisi öğrenmeyi etkileyen bireysel faktörlerden biridir?",
+      "options": [
+        "Sporcunun güdülenme düzeyi",
+        "Tesislerin büyüklüğü",
+        "Seyirci sayısı",
+        "Müsabaka takvimi",
+        "Hakem kararları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 6'da öğrenmeyi etkileyen öğrenenle ilgili (bireysel) faktörler arasında güdü (motivasyon), dikkat, eski yaşantılar, olgunlaşma ve genel uyarılmışlık hali sayılır. Tesis büyüklüğü, seyirci sayısı, müsabaka takvimi ve hakem kararları ise bireysel değil çevresel/dışsal unsurlardır.",
+      "optionNotes": [
+        "Doğru: güdü (motivasyon), metinde öğrenenle ilgili bireysel faktörler arasında açıkça sayılmıştır.",
+        "Yanlış: tesislerin büyüklüğü bireysel bir özellik değil, fiziksel çevreye ait dışsal bir unsurdur.",
+        "Yanlış: seyirci sayısı bireyin kendisine ait bir özellik değildir, dışsal/çevresel bir faktördür.",
+        "Yanlış: müsabaka takvimi organizasyonel bir unsurdur, bireysel öğrenme faktörü değildir.",
+        "Yanlış: hakem kararları bireyin kendisine ait bir özellik olmayıp dışsal bir etkendir."
+      ]
+    },
+    {
+      "id": "w3q6",
+      "question": "Spor becerilerinin öğretiminde antrenörün sporcuya yaptığı düzeltici bilgilendirmeye ne ad verilir?",
+      "options": [
+        "Transfer",
+        "Pekiştirme",
+        "Modelleme",
+        "Geri bildirim",
+        "Motivasyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenörün sporcuya performansı hakkında verdiği, doğruluğu veya hatasını bildiren bilgiye 'geri bildirim (dönüt)' denir; metinde dönüt, 'öğrenene öğrenme sonucunun bildirilmesi' olarak tanımlanmıştır.",
+      "optionNotes": [
+        "Yanlış: transfer, önceden öğrenilen bir becerinin yeni öğrenmeyi kolaylaştırması veya zorlaştırmasıdır, düzeltici bilgi verme değildir.",
+        "Yanlış: pekiştirme, davranışı güçlendiren hoşa giden/gitmeyen bir uyarıcı sunmaktır, bilgi vermekle aynı değildir.",
+        "Yanlış: modelleme, bir hareketin gösterilerek öğretilmesidir, performans hakkında bilgi vermekle ilgili değildir.",
+        "Doğru: geri bildirim, sporcunun performansının doğru/hatalı olduğuna dair bilgi verilmesidir.",
+        "Yanlış: motivasyon, bireyi harekete geçiren içsel/dışsal bir güçtür, düzeltici bilgi verme süreci değildir."
+      ]
+    },
+    {
+      "id": "w3q7",
+      "question": "Aşağıdakilerden hangisi motor öğrenmenin özelliklerinden biri değildir?",
+      "options": [
+        "Uygulama gerektirir",
+        "Kalıcıdır",
+        "Performans değişikliği oluşturur",
+        "Sadece teorik bilgiye dayanır",
+        "Deneyim sonucu oluşur"
+      ],
+      "correctIndex": 3,
+      "explanation": "Motor öğrenme (beceri öğrenimi), alıştırma ve deneyim sonucu oluşan, kalıcı ve performans değişikliği yaratan, uygulama gerektiren bir süreçtir; sadece teorik bilgiye dayanmaz, aksine fiili uygulama ve deneyim şarttır. Bu nedenle 'sadece teorik bilgiye dayanır' ifadesi motor öğrenmenin bir özelliği değildir.",
+      "optionNotes": [
+        "Doğru bir özelliktir: motor öğrenme uygulama/pratik gerektirir.",
+        "Doğru bir özelliktir: motor öğrenme nispeten kalıcıdır.",
+        "Doğru bir özelliktir: motor öğrenme performansta değişiklik oluşturur, performans üzerinden çıkarım yapılır.",
+        "Bu özellik DOĞRU DEĞİLDİR: motor öğrenme sadece teorik bilgiye değil, uygulama ve deneyime dayanır.",
+        "Doğru bir özelliktir: motor öğrenme deneyim sonucu oluşur."
+      ]
+    },
+    {
+      "id": "w3q8",
+      "question": "Spor öğretiminde hareketin bir sporcu tarafından gösterilerek diğer sporcuların onu taklit etmesi yöntemine ne ad verilir?",
+      "options": [
+        "Komut yöntemi",
+        "Model alma (gözlem yoluyla öğrenme)",
+        "Tartışma yöntemi",
+        "Problem çözme yöntemi",
+        "Bireysel çalışma yöntemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bir hareketin bir sporcu tarafından gösterilip diğerlerinin bunu taklit etmesi, Bandura'nın sosyal-bilişsel öğrenme kuramında tanımlanan 'model alma' (gözlem yoluyla öğrenme) sürecidir; birey başkalarını gözleyerek ve pekiştirilen davranışları taklit ederek öğrenir.",
+      "optionNotes": [
+        "Yanlış: komut yöntemi, antrenörün doğrudan talimat/komut vererek yönlendirdiği bir yöntemdir, taklit temelli değildir.",
+        "Doğru: model alma/gözlem yoluyla öğrenme, bir hareketin gösterilip taklit edilmesi sürecidir.",
+        "Yanlış: tartışma yöntemi, görüş alışverişine dayanır, hareketi gösterip taklit ettirme değildir.",
+        "Yanlış: problem çözme yöntemi, sporcunun kendi çözümünü bulmasına dayanır, taklit değildir.",
+        "Yanlış: bireysel çalışma yöntemi, sporcunun tek başına çalışmasını ifade eder, model gösterme ile ilgili değildir."
+      ]
+    },
+    {
+      "id": "w3q9",
+      "question": "Aşağıdakilerden hangisi etkili bir öğretim ortamının özelliklerinden biri değildir?",
+      "options": [
+        "Güvenli ortam sağlanması",
+        "Öğrenci seviyesine uygunluk",
+        "Öğrenme hedeflerinin belirlenmesi",
+        "Sporcuların tamamen pasif olması",
+        "Etkili iletişim kurulması"
+      ],
+      "correctIndex": 3,
+      "explanation": "Etkili bir öğretim ortamı güvenli olmalı, öğrenci seviyesine uygun olmalı, hedefler belirlenmeli ve etkili iletişim kurulmalıdır; ayrıca 'etkin katılım ilkesi' gereği sporcunun sürece aktif katılması öğrenmeyi güçlendirir. Sporcuların tamamen pasif olması bu ilkeyle doğrudan çelişir ve etkili bir öğretim ortamının özelliği değildir.",
+      "optionNotes": [
+        "Doğru bir özelliktir: güvenli ortam, etkili öğretimin temel koşullarından biridir.",
+        "Doğru bir özelliktir: öğretim, sporcunun seviyesine uygun (sporcuya görelik ilkesi) olmalıdır.",
+        "Doğru bir özelliktir: öğrenme hedeflerinin belirlenmesi, planlı ve programlı bir öğretim sürecinin gerekliliğidir.",
+        "Bu özellik DOĞRU DEĞİLDİR: etkin katılım ilkesine göre sporcunun aktif katılımı gereklidir, tamamen pasif olması öğrenmeyi zayıflatır.",
+        "Doğru bir özelliktir: etkili iletişim, öğretim ortamının temel bileşenlerinden biridir."
+      ]
+    },
+    {
+      "id": "w3q10",
+      "question": "Bir spor becerisinin parçalara ayrılarak öğretilmesine ne ad verilir?",
+      "options": [
+        "Bütün yöntem",
+        "Tekrar yöntemi",
+        "Parça yöntemi",
+        "Komut yöntemi",
+        "Gösterip yaptırma yöntemi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kompleks becerilerin (örneğin smaç) öğretiminde beceri parçalara ayrılarak öğretilir; bu yaklaşıma 'parça yöntemi' denir. Basit beceriler ise genellikle bütün halinde öğretilir.",
+      "optionNotes": [
+        "Yanlış: bütün yöntem, becerinin parçalara ayrılmadan tek bir bütün olarak öğretilmesidir, tam tersidir.",
+        "Yanlış: tekrar yöntemi, bir hareketin defalarca uygulanmasıyla ilgilidir, parçalara ayırmakla ilgili değildir.",
+        "Doğru: kompleks beceriler parçalara bölünerek öğretilir; bu yönteme parça yöntemi denir.",
+        "Yanlış: komut yöntemi, antrenörün talimat vererek yönlendirdiği bir öğretim şeklidir, parçalama ile ilgili değildir.",
+        "Yanlış: gösterip yaptırma yöntemi, hareketin gösterilip ardından uygulatılmasıdır, parçalara ayırmakla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w3q11",
+      "question": "Spor öğretiminde sporcuların aktif katılımını artıran en önemli faktör aşağıdakilerden hangisidir?",
+      "options": [
+        "Sürekli eleştiri yapmak",
+        "Uzun teorik anlatımlar yapmak",
+        "Sporcuları uygulamaya aktif katmak",
+        "Sadece elit sporcularla çalışmak",
+        "Antrenman süresini kısaltmak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde 'sporcunun aktif katılımı arttıkça öğrenme de güçlenir, çünkü psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır' denilerek etkin katılımın önemi vurgulanır. Bu nedenle sporcuları uygulamaya aktif katmak, aktif katılımı artıran en önemli faktördür.",
+      "optionNotes": [
+        "Yanlış: sürekli eleştiri, sporcunun motivasyonunu ve katılım isteğini olumsuz etkiler, artırmaz.",
+        "Yanlış: uzun teorik anlatımlar sporcuyu pasif bırakır, aktif katılımı azaltır.",
+        "Doğru: sporcuyu uygulamaya aktif katmak, etkin katılım ilkesinin özüdür ve öğrenmeyi güçlendirir.",
+        "Yanlış: sadece elit sporcularla çalışmak, genel katılımı artıran bir faktör değildir, kapsamı sınırlar.",
+        "Yanlış: antrenman süresini kısaltmak, pratik/tekrar fırsatını azaltır, aktif katılımı artırmaz."
+      ]
+    },
+    {
+      "id": "w3q12",
+      "question": "Sporda öğrenme aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Geçici performans değişikliği",
+        "Deneyim ve uygulama sonucu oluşan kalıcı davranış değişikliği",
+        "Yalnızca fiziksel gelişim",
+        "Sporcunun yarışma kazanması",
+        "Sadece teorik bilgi edinme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sporda öğrenme, deneyim ve uygulama (alıştırma) sonucu davranışta oluşan kalıcı değişikliktir; bu tanım metinlerde birebir yer alır. Diğer seçenekler geçici, kısmi veya öğrenmeyle ilgisiz durumları tanımlar.",
+      "optionNotes": [
+        "Yanlış: geçici performans değişikliği öğrenmeyi değil, performansın değişken doğasını tanımlar.",
+        "Doğru: öğrenme, deneyim ve uygulama sonucu oluşan kalıcı davranış değişikliği olarak tanımlanır.",
+        "Yanlış: öğrenme sadece fiziksel gelişimle sınırlı değildir, bilişsel ve duyuşsal boyutları da kapsar.",
+        "Yanlış: yarışma kazanmak bir sonuç/başarıdır, öğrenmenin tanımı değildir.",
+        "Yanlış: öğrenme sadece teorik bilgi edinmekle sınırlı değildir, uygulama ve deneyimi de gerektirir."
+      ]
+    },
+    {
+      "id": "w3q13",
+      "question": "Aşağıdakilerden hangisi spora katılım sürecinin aşamalarından biridir?",
+      "options": [
+        "Spora başlama",
+        "Sporcu transferi",
+        "Sponsorluk",
+        "Profesyonelleşme",
+        "Spor yöneticiliği"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spora katılım sürecinde birey 'spora başlama' ile sürece dahil olur ve bu aşamadan sonra katılım veya performans sporu ortamlarında ilerler. Diğer seçenekler (sporcu transferi, sponsorluk, profesyonelleşme, spor yöneticiliği) spora katılım sürecinin aşamaları olarak tanımlanmamış, idari/ticari kavramlardır.",
+      "optionNotes": [
+        "Doğru: spora katılım süreci bireyin spora başlamasıyla başlar; metinde katılım sporu ortamı da 'spora başlama yaşından' itibaren tanımlanır.",
+        "Yanlış: sporcu transferi, spora katılım sürecinin bir aşaması olarak tanımlanmaz, kulüpler arası idari bir işlemdir.",
+        "Yanlış: sponsorluk, spora katılım sürecinin aşamalarından biri değildir, finansal bir destek mekanizmasıdır.",
+        "Yanlış: profesyonelleşme spora katılım sürecinin tanımlı bir aşaması değildir, meslekleşme sürecini ifade eder.",
+        "Yanlış: spor yöneticiliği bir meslek alanıdır, spora katılım sürecinin bir aşaması olarak tanımlanmamıştır."
+      ]
+    },
+    {
+      "id": "w3q14",
+      "question": "Bir spor becerisinin tekrar edilmesinin temel amacı nedir?",
+      "options": [
+        "Sporcuları yormak",
+        "Hareketin otomatikleşmesini sağlamak",
+        "Antrenman süresini uzatmak",
+        "Yarışmaya hazırlanmak",
+        "Taktik öğretmek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bir spor becerisinin tekrar edilmesinin temel amacı, hareketin otomatikleşmesini ve kalıcı hale gelmesini sağlamaktır; psikomotor becerilerin öğrenilmesi doğru tekrar sayısına bağlıdır.",
+      "optionNotes": [
+        "Yanlış: tekrarın amacı sporcuları yormak değildir, bu yan bir etki olabilir ama hedef değildir.",
+        "Doğru: tekrar, hareketin otomatikleşmesini (kalıcı ve akıcı hale gelmesini) sağlamak için yapılır.",
+        "Yanlış: antrenman süresini uzatmak tekrarın amacı değil, olası bir sonucudur.",
+        "Yanlış: yarışmaya hazırlanmak genel bir antrenman hedefi olabilir ama tekrarın spesifik/temel amacı değildir.",
+        "Yanlış: taktik öğretmek genellikle ayrı bir süreçtir, tekrarın temel amacı beceri otomasyonu sağlamaktır."
+      ]
+    },
+    {
+      "id": "w3q15",
+      "question": "Spor öğretiminde antrenörün sporcunun yaptığı hareket hakkında verdiği bilgiye ne ad verilir?",
+      "options": [
+        "Transfer",
+        "Motivasyon",
+        "Modelleme",
+        "Pekiştirme",
+        "Geri bildirim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenörün sporcunun yaptığı hareket hakkında, performansının doğruluğu/hatası konusunda verdiği bilgiye geri bildirim (dönüt) denir; metinde dönüt, 'öğrenene öğrenme sonucunun bildirilmesi' olarak tanımlanmıştır.",
+      "optionNotes": [
+        "Yanlış: transfer, önceki öğrenmenin yeni öğrenmeyi etkilemesidir, hareket hakkında bilgi verme değildir.",
+        "Yanlış: motivasyon, bireyi harekete geçiren içsel/dışsal bir güçtür, performans bilgisi verme süreci değildir.",
+        "Yanlış: modelleme, hareketin gösterilerek öğretilmesidir, performans hakkında bilgi verme değildir.",
+        "Yanlış: pekiştirme, davranışı güçlendiren bir uyarıcı sunmaktır, doğrudan bilgi verme sürecinin kendisi değildir.",
+        "Doğru: geri bildirim, sporcunun yaptığı hareket hakkında bilgi verilmesidir."
+      ]
+    },
+    {
+      "id": "w3q16",
+      "question": "Aşağıdakilerden hangisi motor öğrenmenin özelliklerinden biri değildir?",
+      "options": [
+        "Kalıcıdır",
+        "Deneyimle oluşur",
+        "Uygulama gerektirir",
+        "Sadece teorik bilgiye dayanır",
+        "Performans değişikliği oluşturur"
+      ],
+      "correctIndex": 3,
+      "explanation": "Motor öğrenme (beceri öğrenimi), alıştırma ve deneyim sonucu oluşan, kalıcı ve performans değişikliği yaratan, uygulama gerektiren bir süreçtir; sadece teorik bilgiye dayanmaz, uygulama ve deneyim şarttır. Bu nedenle 'sadece teorik bilgiye dayanır' motor öğrenmenin bir özelliği değildir.",
+      "optionNotes": [
+        "Doğru bir özelliktir: motor öğrenme nispeten kalıcıdır.",
+        "Doğru bir özelliktir: motor öğrenme deneyim sonucu oluşur.",
+        "Doğru bir özelliktir: motor öğrenme uygulama/pratik gerektirir.",
+        "Bu özellik DOĞRU DEĞİLDİR: motor öğrenme sadece teorik bilgiye değil, uygulama ve deneyime dayanır.",
+        "Doğru bir özelliktir: motor öğrenme performansta değişiklik oluşturur, performans üzerinden çıkarım yapılır."
+      ]
+    },
+    {
+      "id": "w3q17",
+      "question": "Spor öğretiminde hareketin bir sporcu veya antrenör tarafından gösterilerek öğretilmesi hangi yöntemdir?",
+      "options": [
+        "Tartışma yöntemi",
+        "Problem çözme yöntemi",
+        "Bireysel çalışma yöntemi",
+        "Komut yöntemi",
+        "Model alma yöntemi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hareketin bir sporcu veya antrenör tarafından gösterilerek öğretilmesi, Bandura'nın sosyal-bilişsel öğrenme kuramında tanımlanan 'model alma' (gözlem yoluyla öğrenme) yöntemidir.",
+      "optionNotes": [
+        "Yanlış: tartışma yöntemi, görüş alışverişine dayanır, hareketi gösterip öğretme değildir.",
+        "Yanlış: problem çözme yöntemi, sporcunun kendi çözümünü bulmasına dayanır, gösterim temelli değildir.",
+        "Yanlış: bireysel çalışma yöntemi, sporcunun tek başına çalışmasını ifade eder, model gösterme ile ilgili değildir.",
+        "Yanlış: komut yöntemi, antrenörün doğrudan talimat/komut vererek yönlendirdiği bir yöntemdir, gösterip taklit ettirme değildir.",
+        "Doğru: model alma yöntemi, bir hareketin gösterilip gözlemlenerek öğrenilmesi sürecidir."
+      ]
+    },
+    {
+      "id": "w3q18",
+      "question": "Bir hareketin bütün olarak öğretilmesine ne ad verilir?",
+      "options": [
+        "Bütün yöntemi",
+        "Parça yöntemi",
+        "Karma yöntem",
+        "Tekrar yöntemi",
+        "Gösterip yaptırma yöntemi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde 'basit beceriler bütün halinde (ip atlama gibi) ... öğretilmelidir' ifadesiyle desteklendiği üzere, bir hareketin parçalara ayrılmadan tek bir bütün olarak öğretilmesine 'bütün yöntemi' denir.",
+      "optionNotes": [
+        "Doğru: basit beceriler parçalara ayrılmadan tek bütün halinde öğretilir; bu yönteme bütün yöntemi denir.",
+        "Yanlış: parça yöntemi, kompleks becerilerin parçalara bölünerek öğretilmesidir, tam tersidir.",
+        "Yanlış: karma yöntem metinde tanımlanan ayrı bir yöntem değildir; bu soruda sorulan tanıma karşılık gelmez.",
+        "Yanlış: tekrar yöntemi, bir hareketin defalarca uygulanmasıyla ilgilidir, bütün/parça ayrımıyla ilgili değildir.",
+        "Yanlış: gösterip yaptırma yöntemi, hareketin gösterilip ardından uygulatılmasıdır, bütün halinde öğretim kavramıyla aynı değildir."
+      ]
+    },
+    {
+      "id": "w3q19",
+      "question": "Bir spor becerisinin parçalara ayrılarak öğretilmesine ne ad verilir?",
+      "options": [
+        "Parça yöntemi",
+        "Bütün yöntemi",
+        "Gösteri yöntemi",
+        "Komut yöntemi",
+        "Transfer yöntemi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kompleks becerilerin (örneğin smaç) öğretiminde beceri parçalara ayrılarak öğretilir; bu yaklaşıma 'parça yöntemi' denir.",
+      "optionNotes": [
+        "Doğru: kompleks beceriler parçalara bölünerek öğretilir; bu yönteme parça yöntemi denir.",
+        "Yanlış: bütün yöntemi, becerinin parçalara ayrılmadan tek bir bütün olarak öğretilmesidir, tam tersidir.",
+        "Yanlış: gösteri yöntemi, bir işin antrenör veya sporcu tarafından yapılarak gösterilmesidir, parçalara ayırmakla ilgili değildir.",
+        "Yanlış: komut yöntemi, antrenörün talimat vererek yönlendirdiği bir öğretim şeklidir, parçalama ile ilgili değildir.",
+        "Yanlış: transfer yöntemi diye tanımlı bir öğretim yöntemi yoktur; transfer, önceki öğrenmenin yeni öğrenmeyi etkilemesiyle ilgili ayrı bir kavramdır."
+      ]
+    },
+    {
+      "id": "w3q20",
+      "question": "Aşağıdakilerden hangisi öğrenmeyi etkileyen bireysel faktörlerden biridir?",
+      "options": [
+        "Tesis sayısı",
+        "Sporcunun motivasyonu",
+        "Seyirci sayısı",
+        "Spor kulübü bütçesi",
+        "Hakem sayısı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Öğrenmeyi etkileyen öğrenenle ilgili (bireysel) faktörler arasında güdü (motivasyon), dikkat, eski yaşantılar ve olgunlaşma sayılır. Tesis sayısı, seyirci sayısı, kulüp bütçesi ve hakem sayısı bireysel değil çevresel/dışsal unsurlardır.",
+      "optionNotes": [
+        "Yanlış: tesis sayısı bireysel bir özellik değil, fiziksel çevreye ait dışsal bir unsurdur.",
+        "Doğru: sporcunun motivasyonu (güdü), metinde öğrenenle ilgili bireysel faktörler arasında açıkça sayılmıştır.",
+        "Yanlış: seyirci sayısı bireyin kendisine ait bir özellik değildir, dışsal/çevresel bir faktördür.",
+        "Yanlış: spor kulübü bütçesi organizasyonel bir unsurdur, bireysel öğrenme faktörü değildir.",
+        "Yanlış: hakem sayısı bireyin kendisine ait bir özellik olmayıp dışsal bir etkendir."
+      ]
+    }
+  ]
+}

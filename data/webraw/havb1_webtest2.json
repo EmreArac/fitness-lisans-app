@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w2q1",
+      "question": "Ülkemizde antrenman bilimindeki ilk çalışmalar hangi üniversite tarafından başlatılmıştır?",
+      "options": [
+        "İstanbul Üniversitesi",
+        "Orta Doğu Teknik Üniversitesi",
+        "Atatürk Üniversitesi",
+        "Ege Üniversitesi",
+        "Anadolu Üniversitesi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 1'e göre antrenman bilimi ülkemizde 1973'te Ege Üniversitesi Spor Hekimliği Enstitüsü'nün kurulmasıyla kurumsallaşmaya başlamıştır; bu nedenle ilk çalışmalar Ege Üniversitesi tarafından başlatılmıştır. 1975'te Spor Akademilerinin kurulması bu süreci takip eden bir diğer önemli adımdır.",
+      "optionNotes": [
+        "İstanbul Üniversitesi, metinde antrenman biliminin ülkemizdeki kurumsallaşma sürecinde ilk adım olarak anılan kurum değildir.",
+        "Orta Doğu Teknik Üniversitesi, bu alandaki ilk çalışmalarla ilişkilendirilen bir kurum olarak metinde geçmez.",
+        "Atatürk Üniversitesi, antrenman biliminin ülkemizde başlatıldığı kurum olarak kaynaklarda belirtilmemiştir.",
+        "Doğru yanıt: Metne göre 1973'te Ege Üniversitesi Spor Hekimliği Enstitüsü'nün kurulması, antrenman bilimindeki ilk çalışmaların başlangıcı olarak kabul edilir.",
+        "Anadolu Üniversitesi, antrenman biliminin ülkemizdeki ilk kurumsal çalışmalarıyla ilişkilendirilen kurum değildir."
+      ]
+    },
+    {
+      "id": "w2q2",
+      "question": "Planlı ve programlı olarak gerçekleştirilen, fiziksel uygunluğun bir veya daha fazla ögesini geliştirmeye ya da korumaya yönelik olarak yapılan tekrarlayıcı vücut hareketlerini ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Fiziksel Aktivite",
+        "Performans",
+        "Spor",
+        "Antrenman",
+        "Egzersiz"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bu tanım, Biddle (1995)'in egzersiz tanımıyla birebir örtüşür: egzersiz, fiziksel uygunluğun bir veya daha fazla ögesini geliştirmeye ya da korumaya yönelik olarak planlı ve programlı şekilde yapılan tekrarlayıcı vücut hareketleridir. Antrenman bu tanımdan farklı olarak sporcunun çok daha kapsamlı, teknik-taktik-psikolojik hazırlığını da içeren bir süreçtir.",
+      "optionNotes": [
+        "Fiziksel aktivite, iskelet kasları yoluyla oluşan enerji harcamasıdır; bu tanımda planlılık/programlılık vurgusu yoktur.",
+        "Performans, sporcunun ortaya koyduğu somut verim düzeyidir, tekrarlayıcı vücut hareketlerini tanımlayan bir kavram değildir.",
+        "Spor, kurallara bağlı ve rekabetçi bir insan davranışıdır; bu tanımda kurallara bağlılık veya rekabet unsuru yoktur.",
+        "Antrenman, sporcunun en yüksek sporsal verime ulaşmasını sağlayan tüm sistematik hazırlanma yöntemlerini kapsar; bu, egzersizden daha geniş ve hedefe yönelik bir kavramdır.",
+        "Doğru yanıt: Tanım, Biddle (1995)'e göre egzersiz kavramına birebir karşılık gelir."
+      ]
+    },
+    {
+      "id": "w2q3",
+      "question": "Aşağıdakilerden hangisi LTAD modelinde yer alan hem erken hem de geç özelleşen spor dallarından biridir? A. Atletizm B. Güreş C. Boks D. Jimnastik E. Futbol",
+      "options": [
+        "Atletizm",
+        "Güreş",
+        "Boks",
+        "Jimnastik",
+        "Futbol"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1'deki Tablo 1.1'de (LTAD modeline göre erken ve geç özelleşilen spor dalları) atletizm, hem 'Geç Özelleşilen Sporlar' hem de 'Erken Özelleşilen Sporlar' listesinde birlikte yer alan tek branştır. Güreş, boks ve futbol sadece geç özelleşilen sporlar arasında, jimnastik ise sadece erken özelleşilen sporlar arasında sayılmıştır.",
+      "optionNotes": [
+        "Doğru yanıt: Tablo 1.1'de atletizm, hem geç özelleşilen hem de erken özelleşilen spor dalları sütununda ayrı ayrı listelenmiştir.",
+        "Güreş, tabloda sadece geç özelleşilen sporlar arasında yer alır, erken özelleşilen sporlar listesinde geçmez.",
+        "Boks, tabloda hem erken hem geç özelleşilen sporlar listesinde birlikte gösterilmemiştir.",
+        "Jimnastik, tabloda sadece erken özelleşilen sporlar arasında sayılır; geç özelleşilen sporlar listesinde yer almaz.",
+        "Futbol, tabloda sadece geç özelleşilen sporlar arasında yer alır, erken özelleşilen sporlar listesinde bulunmaz."
+      ]
+    },
+    {
+      "id": "w2q4",
+      "question": "Antrenmana akut ve kronik uyum ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Vücudun özellikle iskelet, kalp ve solunum sisteminde fizyolojik değişiklikler yaratır.",
+        "Önceden yapılan antrenman, sonradan yapılan antrenmanların uyumunu belirgin biçimde etkiler.",
+        "Antrenmana bağlı değişiklikler genetiğe, sıklığa, süreye ve özellikle antrenmanın şiddetine bağlıdır.",
+        "Antrenmanın etkileri, antrenman kesildikten birkaç hafta sonra kaybolur.",
+        "Antrenmanın etkileri haftada bir ya da iki kez yapılan yüklenmeler ile korunabilir."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1'in 'Antrenmana Akut ve Kronik Uyum' bölümünde (Günay, Şıktar vd., 2017) açıkça belirtildiği üzere 'önceden yapılan antrenman, sonradan yapılan antrenmanların yarattığı antrenman uyumunu belirgin biçimde ETKİLEMEZ.' Soruda verilen ifade bu gerçeği tersine çevirerek 'etkiler' demektedir, bu nedenle yanlıştır. Diğer dört ifade ise metinde birebir aynı şekilde doğru olarak yer almaktadır.",
+      "optionNotes": [
+        "Doğru bir ifadedir: Metinde antrenmanın vücudun iskelet, kalp ve solunum sisteminde fizyolojik değişiklikler yarattığı birebir aynı cümleyle belirtilir.",
+        "Doğru yanıt (yanlış ifade budur): Metin, önceden yapılan antrenmanın sonraki antrenmanların uyumunu belirgin biçimde ETKİLEMEDİĞİNİ söyler; bu seçenek bu ilişkiyi tam tersine çevirmiştir.",
+        "Doğru bir ifadedir: Metinde antrenmana bağlı değişikliklerin genetiğe, sıklığa, süreye ve özellikle şiddete bağlı olduğu aynen belirtilir.",
+        "Doğru bir ifadedir: Metinde antrenmanın etkilerinin, antrenman kesildikten birkaç hafta sonra kaybolacağı birebir ifade edilmiştir.",
+        "Doğru bir ifadedir: Metinde antrenmanın etkilerinin haftada bir ya da iki kez yapılan yüklenmelerle korunabileceği aynen yer alır."
+      ]
+    },
+    {
+      "id": "w2q5",
+      "question": "Aşağıdaki taktik sınıflandırmasından hangisi, müsabakada bir sporcunun amaca yönelik davranışlarını içerir?",
+      "options": [
+        "Genel taktik",
+        "Özel taktik",
+        "Bireysel taktik",
+        "Kolektif taktik",
+        "Grup taktiği"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 2'de taktik sınıflandırması açıklanırken 'Bireysel Taktik: Müsabakada bir sporcunun amaca yönelik davranışlarını içerir' ifadesiyle birebir tanımlanmıştır (örneğin şut atan bir sporcuya karşı savunma yapan oyuncunun ne zaman, nasıl davranacağı bireysel taktiktir). Kolektif taktik ise iki ya da daha çok sporcunun işbirliğiyle ortaya koyduğu taktiktir, tek bir sporcunun davranışını ifade etmez.",
+      "optionNotes": [
+        "Genel taktik, tüm spor dallarına uygulanabilen ortak taktik ilkelerini ifade eder, tek bir sporcunun amaca yönelik davranışını tanımlamaz.",
+        "Özel taktik, belirli bir spor dalına özgü taktik anlayışı ifade eder, bireysel davranış tanımı değildir.",
+        "Doğru yanıt: Metinde bu tanım birebir 'Bireysel Taktik' için verilmiştir.",
+        "Kolektif taktik, iki ya da daha fazla sporcunun işbirliği içinde ortaya koyduğu taktiktir, tek bir sporcunun davranışıyla sınırlı değildir.",
+        "Grup taktiği, bireysel-grup-takım taktiği ayrımında bireyden daha büyük bir birimi (grup) ifade eder, tek bir sporcunun davranışını tanımlamaz."
+      ]
+    },
+    {
+      "id": "w2q6",
+      "question": "Aşağıdakilerden hangisi sportif tekniğin dinamik özelliklerinden biri değildir?",
+      "options": [
+        "Optimal ivmeleme",
+        "Frenleme",
+        "Kuvvet vuruşu",
+        "Döndürme momenti",
+        "Zamanlandırma"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 2'de sportif tekniğin iki temel özelliği ayrılır: kinematik özellikler (zamanlandırma, uzunluk-mesafe, hızlanma) ve dinamik özellikler (optimal ivmeleme, frenleme, kuvvet vuruşu, döndürme momenti). Zamanlandırma metinde açıkça kinematik özellikler arasında sayılmıştır, dinamik özellik değildir.",
+      "optionNotes": [
+        "Optimal ivmeleme, metinde dinamik özellikler arasında açıkça sayılmıştır.",
+        "Frenleme, dinamik özellikler listesinde metinde yer alır.",
+        "Kuvvet vuruşu, metinde dinamik özellikler arasında sayılan bir unsurdur.",
+        "Döndürme momenti, metinde dinamik özellikler arasında açıkça belirtilmiştir.",
+        "Doğru yanıt: Zamanlandırma, metinde dinamik değil kinematik özellikler arasında (uzunluk-mesafe ve hızlanmayla birlikte) sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q7",
+      "question": "Erkeklerin Jimnastik sporunda branşlaşma yaşı aşağıdakilerden hangisidir?",
+      "options": [
+        "6-7",
+        "7-8",
+        "10-11",
+        "12-14",
+        "15-16"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 3'teki Tablo 3.1'de (Spor dallarına göre spora başlama ve branşlaşma yaşları, Sevim 2001) 'Cimnastik (Erkek)' için branşlaşma yaşı 12-14 olarak verilmiştir; aynı tabloda kadınlar için bu yaş 10-11'dir. Bu nedenle erkeklerde branşlaşma yaşı 12-14'tür.",
+      "optionNotes": [
+        "6-7, tabloda bazı branşlar için spora başlama yaşı olarak verilen bir aralıktır, erkek cimnastikte branşlaşma yaşı değildir.",
+        "7-8, tabloda kadın cimnastik için spora başlama yaşı olarak geçer, erkek branşlaşma yaşı değildir.",
+        "10-11, tabloda kadın cimnastik için branşlaşma yaşı olarak verilmiştir, erkekler için değildir.",
+        "Doğru yanıt: Tablo 3.1'de erkek cimnastik için branşlaşma yaşı 12-14 olarak belirtilmiştir.",
+        "15-16, tabloda güreş ve boks gibi farklı branşlar için branşlaşma yaşı olarak geçer, cimnastikle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w2q8",
+      "question": "Aşağıdakilerden hangisi Yüklenmenin Ana öğelerinden biri değildir?",
+      "options": [
+        "Yüklenme türü",
+        "Yüklenme kapsamı",
+        "Yüklenme şiddeti",
+        "Yüklenme şiddeti D. Yüklenme süresi",
+        "Yüklenme sıklığı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 3'e göre yüklenme, nicelik ve nitelik bakımından incelendiğinde dört ana ögeden oluşur: yüklenmenin şiddeti, süresi, sıklığı ve kapsamı. 'Yüklenme türü' bu dört ana ögenin arasında sayılmaz; yüklenme yaklaşımları (standart, doğrusal, basamaklı vb.) ayrı bir konu olup ana ögeler listesine dahil değildir.",
+      "optionNotes": [
+        "Doğru yanıt: Metinde yüklenmenin dört ana ögesi şiddet, süre, sıklık ve kapsam olarak sayılmıştır; 'yüklenme türü' bu listede yer almaz.",
+        "Yüklenme kapsamı, metinde dört ana ögeden biri olarak açıkça sayılmıştır.",
+        "Yüklenme şiddeti, metinde dört ana ögeden biri olarak açıkça belirtilmiştir.",
+        "Bu seçenek kaynak metinde tekrarlanan/bozuk bir ifade içerse de, içerdiği 'yüklenme şiddeti' ve 'yüklenme süresi' kavramlarının her ikisi de metinde ana öge olarak sayılmıştır.",
+        "Yüklenme sıklığı, metinde dört ana ögeden biri olarak açıkça sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q9",
+      "question": "Aşağıdakilerden hangisi Dayanıklılık antrenmanlarının organizmada yarattığı etkilerden biri değildir?",
+      "options": [
+        "Vücut çok kısa sürede toparlanır",
+        "Vital kapasite artar",
+        "Organizmanın enerji kapasitesi azalır",
+        "Kalp güçlenir",
+        "Aktif kılcal damarlar sayısı artar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 4'e göre dayanıklılık antrenmanları organizmada birçok olumlu etki yaratır: vücudun daha kısa sürede toparlanması, vital kapasitenin artması, kalbin güçlenmesi, aktif kılcal damar sayısının artması ve organizmanın enerji kapasitesinin YÜKSELMESİ. 'Organizmanın enerji kapasitesinin azalması' bu olumlu etkilerin tam tersi olduğu için dayanıklılık antrenmanının bir sonucu değildir.",
+      "optionNotes": [
+        "Vücudun çok kısa sürede toparlanması, metinde dayanıklılık antrenmanının olumlu etkilerinden biri olarak sayılmıştır.",
+        "Vital kapasitenin artması, metinde dayanıklılık antrenmanının etkilerinden biri olarak açıkça belirtilmiştir.",
+        "Doğru yanıt: Metinde dayanıklılık antrenmanlarının organizmanın enerji kapasitesini YÜKSELTTİĞİ belirtilir, azalttığı değil; bu seçenek ifadeyi tersine çevirir.",
+        "Kalbin güçlenmesi, metinde dayanıklılık antrenmanının etkilerinden biri olarak sayılmıştır.",
+        "Aktif kılcal damar sayısının artması, metinde dayanıklılık antrenmanının etkilerinden biri olarak açıkça yer alır."
+      ]
+    },
+    {
+      "id": "w2q10",
+      "question": "Bir sporcunun minimum zamanda maksimum hıza erişmeye izin veren hızdaki değişim oranı aşağıdakilerden hangisi ile ifade edilir?",
+      "options": [
+        "Sürat",
+        "İvme",
+        "Hareket",
+        "Sprint",
+        "Reaksiyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 4'te sürat türleri arasında 'ivme (minimum zamanda maksimum hıza erişme)' olarak tanımlanmıştır; bu tanım soruda verilen 'minimum zamanda maksimum hıza erişmeye izin veren hızdaki değişim oranı' ifadesiyle birebir örtüşür. Sürat daha genel bir kavramdır ve bir mesafeyi en kısa sürede kat etme yeteneğini ifade eder, hızdaki değişim oranını özel olarak tanımlamaz.",
+      "optionNotes": [
+        "Sürat, sporcunun belirli bir mesafeyi en kısa sürede kat edebilme yeteneğidir; hızdaki değişim oranını özel olarak ifade eden ivme kavramından farklıdır.",
+        "Doğru yanıt: İvme, metinde minimum zamanda maksimum hıza erişme olarak tanımlanmıştır, bu da hızdaki değişim oranına karşılık gelir.",
+        "Hareket, süratin türleri arasında bu şekilde özel bir tanımla geçmez, çok genel bir terimdir.",
+        "Sprint sürati, yaklaşık 30 metrelik mesafede oluşturulan süreyi ifade eder, hızdaki değişim oranını tanımlamaz.",
+        "Reaksiyon (sürati), bir uyarana karşı algılama ve tepki gösterme yeteneğidir, hız değişim oranıyla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w2q11",
+      "question": "Aşağıdakilerden hangisi esnekliği etkileyen iç faktörlerden biri değildir?",
+      "options": [
+        "Eklemin yapısı, tipi ve formu",
+        "Sakatlanma sonrası eklemin ya da kasın toparlanması safhası",
+        "Hareketi sınırlayan kemik yapısı",
+        "Derinin elastikiyeti",
+        "Eklem ve ekleme birleşen dokuların ısısı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 4'te esnekliğin sınırlarını etkileyen iç faktörler; eklemin yapısı/tipi/formu, hareketi sınırlayan kemik yapısı, kas-tendon-ligament elastikiyeti, derinin elastikiyeti, kasın gevşeme-kasılma yeteneği ve eklem ısısı olarak sayılmıştır. 'Sakatlanma sonrası toparlanma süreci' ise metinde dış (çevresel) faktörler arasında sayılmıştır, iç faktör değildir.",
+      "optionNotes": [
+        "Eklemin yapısı, tipi ve formu, metinde iç faktörler arasında açıkça sayılmıştır.",
+        "Doğru yanıt: Sakatlanma sonrası toparlanma süreci, metinde dış faktörler arasında sayılmıştır, iç faktör değildir.",
+        "Hareketi sınırlayan kemik yapısı, metinde iç faktörler arasında açıkça belirtilmiştir.",
+        "Derinin elastikiyeti, metinde iç faktörler arasında sayılan bir unsurdur.",
+        "Eklem ve ekleme birleşen dokuların ısısı, metinde iç faktörler arasında açıkça sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q12",
+      "question": "Sporcunun bir veya birden fazla uyarana çabuk ve uygun cevap verebilme yeteneğine ne ad verilir?",
+      "options": [
+        "Hareket Sürati",
+        "Hareket dakikliği",
+        "Reaksiyon Zamanı",
+        "Zaman ayarlama",
+        "Denge"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu tanım reaksiyon zamanının (sürati) kitaptaki tanımına birebir karşılık gelir: bir veya birden fazla uyarana çabuk ve uygun cevap verebilme yeteneği. Ünite 4'te reaksiyon sürati, uyaranın duyu organlarınca algılanmasından kasta mekanik olayın gerçekleşmesine kadar süren bir süreç olarak açıklanmıştır.",
+      "optionNotes": [
+        "Hareket sürati, ilk ve bitiş hareketi arasındaki süreyi ifade eder, uyarana cevap verme yeteneğini değil hareketin kendisinin hızını tanımlar.",
+        "Hareket dakikliği, koordinasyonu etkileyen faktörler arasında geçen, göz-kas koordinasyonuna dayalı bir kavramdır, uyarana cevap verme yeteneğinin tanımı değildir.",
+        "Doğru yanıt: Reaksiyon zamanı, bir veya birden fazla uyarana çabuk ve uygun cevap verebilme yeteneği olarak tanımlanır.",
+        "Zaman ayarlama (zamanlama), hareketin kinematik bir özelliğidir, uyarana tepki verme yeteneğini tanımlamaz.",
+        "Denge, vücudun ağırlık merkezini kontrol ederek istenen pozisyonu koruma becerisidir, uyarana tepki hızıyla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w2q13",
+      "question": "Sporcuların dışarıdan uygulanan kuvvet ile geliştirdiği esneklik olarak tanımlanan hareketlilik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel Hareketlilik",
+        "Özel Hareketlilik",
+        "Aktif Hareketlilik",
+        "Pasif Hareketlilik",
+        "Statik Hareketlilik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 5'te hareketlilik sınıflandırmasında pasif hareketlilik, 'dışarıdan uygulanan kuvvetle geliştirilen esneklik' olarak tanımlanır (Sevim, 1997); bu, soruda verilen tanımla birebir örtüşür. Aktif hareketlilik ise tam tersine, kasın kendi kuvvetiyle dış yardım almadan ulaştığı en büyük açıyı ifade eder.",
+      "optionNotes": [
+        "Genel hareketlilik, büyük eklem sistemlerindeki (omurga, kalça, omuz) salınım genişliğini ifade eder, dış kuvvet ayrımına dayanmaz.",
+        "Özel hareketlilik, belirli branşların gerektirdiği özel eklemlerin çalışmasıyla ilgilidir, dış kuvvetle geliştirilen esneklik tanımı değildir.",
+        "Aktif hareketlilik, kasın kendi kuvvetiyle dış yardım almadan ulaştığı en büyük açıdır; bu, dışarıdan uygulanan kuvvetle geliştirilen esnekliğin tam tersidir.",
+        "Doğru yanıt: Pasif hareketlilik, dışarıdan uygulanan kuvvetle geliştirilen esneklik olarak tanımlanır.",
+        "Statik hareketlilik, eklemin belirli bir pozisyonda süreli korunmasıyla ilgilidir, dış kuvvet ayrımına dayalı bir tanım değildir."
+      ]
+    },
+    {
+      "id": "w2q14",
+      "question": "Aşağıdakilerden hangisi ‘’Reaktif Çeviklik Antrenmanı’’ alıştırma türlerinden biridir?",
+      "options": [
+        "Yön değiştirmeli sürat alıştırmaları",
+        "Düşük hızda yapılan hızlanma",
+        "Yön değiştirmeli sürat alıştırmaları",
+        "Yanlara adım çalışmaları",
+        "Ayna ve gölge alıştırmaları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 5'teki Tablo 5.1'de (Sheppard ve Young, 2006) çeviklik antrenman gruplarından 'Reaktif Çeviklik Antrenmanı' kapsamında sayılan alıştırma türlerinden biri 'Yön değiştirmeli sürat alıştırmaları'dır. 'Düşük hızda yapılan hızlanma' ve 'yanlara adım çalışmaları' ise tabloda yön değiştirme tekniğine yönelik alıştırmalar/kapalı beceri alıştırmaları grubunda; 'ayna ve gölge alıştırmaları' ise açık beceri alıştırmaları başlığında yer alır.",
+      "optionNotes": [
+        "Doğru yanıt: Tabloda 'yön değiştirmeli sürat alıştırmaları' reaktif çeviklik antrenmanı kapsamında sayılan bir alıştırma türüdür.",
+        "Düşük hızda yapılan hızlanma, yavaşlama ve yön değiştirme alıştırmaları, tabloda yön değiştirme tekniğine yönelik/kapalı beceri alıştırmaları grubuna aittir, reaktif çeviklik antrenmanı değildir.",
+        "Bu seçenek ilk seçenekle aynı metni (yön değiştirmeli sürat alıştırmaları) tekrar etmektedir; kaynakta bu ifade reaktif çeviklik antrenmanına aittir, ancak soruda doğru yanıt olarak ilk seçenek (A) işaretlenmiştir.",
+        "Öne, geriye ve yanlara adım çalışmaları, tabloda 'yön değiştirme tekniğine yönelik alıştırmalar' grubuna aittir, reaktif çeviklik antrenmanı değildir.",
+        "Ayna ve gölge alıştırmaları, tabloda 'açık beceri alıştırmaları' başlığı altında sayılır; bu, reaktif çeviklik antrenmanından farklı bir alt kategori olarak değerlendirilmiştir."
+      ]
+    },
+    {
+      "id": "w2q15",
+      "question": "Aşağıdakilerden hangisi Denge türlerinden biri değildir?",
+      "options": [
+        "Aktif Denge",
+        "Motorsal Denge",
+        "Statik Denge",
+        "Dinamik Denge",
+        "Objeyle Denge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 5'te denge dört şekilde sınıflandırılır: motorsal denge, statik denge, dinamik denge ve objeyle denge. 'Aktif denge' adıyla ayrı bir denge türü/sınıflandırma kategorisi metinde tanımlanmamıştır; bu nedenle denge türleri arasında sayılmaz.",
+      "optionNotes": [
+        "Doğru yanıt: Metinde 'aktif denge' adıyla ayrı bir denge sınıflandırma kategorisi tanımlanmamıştır.",
+        "Motorsal denge, metinde denge türlerinden biri olarak (farklı ortamlarda kazanılan denge yeterliliği) açıkça sayılmıştır.",
+        "Statik denge, metinde denge türlerinden biri olarak (sabit pozisyonda dengede kalabilme) açıkça sayılmıştır.",
+        "Dinamik denge, metinde denge türlerinden biri olarak (ağırlık merkezinin hareket sırasında adapte edilmesi) açıkça sayılmıştır.",
+        "Objeyle denge, metinde denge türlerinden biri olarak (top, çubuk gibi ekipmanla sağlanan denge) açıkça sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q16",
+      "question": "‘’Her şeyde mükemmel olmak 10 yıllık kapsamlı bir çalışma gerektirir’’ diyen Nobel ödüllü yazar kimdir?",
+      "options": [
+        "Reinhard Selten",
+        "T. J. Sargent",
+        "Gerard Debreu",
+        "Hebert Simon",
+        "John Harsanyi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 6'da (çok yıllık antrenman planlaması bölümünde, Balyi 2001 kaynaklı) bu söz birebir 'Herbert Simon, Nobel Ödülü Sahibi' olarak alıntılanmıştır: 'Her şeyde mükemmel olmak 10 yıllık kapsamlı bir çalışma gerektirir.' Diğer isimler de Nobel ödüllü ekonomistler olsa da bu alıntıyla ilişkilendirilen kişi metinde Herbert Simon'dur.",
+      "optionNotes": [
+        "Reinhard Selten, Nobel ödüllü bir ekonomisttir ancak metinde bu sözle ilişkilendirilen kişi değildir.",
+        "T. J. Sargent, Nobel ödüllü bir ekonomisttir ancak bu alıntıyla metinde ilişkilendirilmemiştir.",
+        "Gerard Debreu, Nobel ödüllü bir ekonomisttir ancak metinde bu sözün sahibi olarak gösterilmemiştir.",
+        "Doğru yanıt: Metinde bu söz doğrudan 'Herbert Simon, Nobel Ödülü Sahibi' olarak kaynak gösterilmiştir (Balyi, 2001).",
+        "John Harsanyi, Nobel ödüllü bir ekonomisttir ancak metinde bu alıntıyla ilişkilendirilen kişi değildir."
+      ]
+    },
+    {
+      "id": "w2q17",
+      "question": "Denge tahtasının uzunluğu kaç metredir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 7'deki koordinasyon test parkurunda, sporcunun üzerinden geçtiği denge tahtasının 3 metrelik bir alet olduğu (Şekil 7.3) açıkça belirtilmiştir.",
+      "optionNotes": [
+        "2 metre, metinde verilen denge tahtası uzunluğuyla uyuşmamaktadır.",
+        "Doğru yanıt: Metinde denge tahtasının 3 metre uzunluğunda olduğu açıkça belirtilmiştir.",
+        "4 metre, metinde verilen ölçüyle uyuşmayan bir değerdir.",
+        "5 metre, metinde verilen denge tahtası uzunluğundan farklıdır.",
+        "6 metre, metinde belirtilen 3 metrelik ölçüyle örtüşmemektedir."
+      ]
+    },
+    {
+      "id": "w2q18",
+      "question": "Koşarak engeller arası slalom testinde engeller arası mesafe kaç cm’dir?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 7'de 'Koşarak engeller arası slalom' testinin açıklamasında gerekli malzemeler arasında 'Dört adet dikey engel. Engeller arası mesafe 80 cm'dir.' ifadesiyle bu değer açıkça belirtilmiştir.",
+      "optionNotes": [
+        "60 cm, metinde bu test için değil başka bir koordinasyon parkuru alıştırmasında (örneğin çember çapı) geçen bir ölçüdür.",
+        "70 cm, metinde koşarak engeller arası slalom testi için verilen mesafe değildir.",
+        "Doğru yanıt: Metinde koşarak engeller arası slalom testinde engeller arası mesafenin 80 cm olduğu açıkça belirtilmiştir.",
+        "90 cm, metinde bu test için verilen 80 cm'lik mesafeyle uyuşmamaktadır.",
+        "100 cm, metinde bu testte belirtilen mesafe değildir, başka parkur ölçümleriyle karıştırılmaya yöneliktir."
+      ]
+    },
+    {
+      "id": "w2q19",
+      "question": "Aşağıdaki yetenek seçiminde etkili faktörlerden hangisi spor çevresi ile ilgilidir?",
+      "options": [
+        "Öğrenciler",
+        "Öğretmenler",
+        "Yöneticiler",
+        "Fiziki Yapı",
+        "Medya"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 8'deki Şekil 8.5'te (Yetenek seçiminde etkili faktörler, Müniroğlu ve Özen 2017) faktörler aile, okul, yönetim, spor çevresi ve coğrafya başlıkları altında gruplanmıştır. 'Spor çevresi' başlığı altında antrenörler, hakemler, seyirciler ve medya sayılırken; öğrenciler, öğretmenler, yöneticiler ve fiziki yapı 'okul' başlığı altında yer alır. Bu nedenle verilen seçeneklerden sadece medya spor çevresiyle ilgilidir.",
+      "optionNotes": [
+        "Öğrenciler, şekildeki sınıflandırmada 'okul' başlığı altında sayılmıştır, spor çevresiyle ilgili değildir.",
+        "Öğretmenler, şekildeki sınıflandırmada 'okul' başlığı altında yer alır, spor çevresi kategorisine ait değildir.",
+        "Yöneticiler, şekildeki sınıflandırmada 'okul' başlığı altında sayılmıştır, spor çevresiyle ilişkilendirilmemiştir.",
+        "Fiziki yapı, şekildeki sınıflandırmada 'okul' başlığı altında yer alır, spor çevresi kategorisinde değildir.",
+        "Doğru yanıt: Medya, şekildeki sınıflandırmada antrenörler, hakemler ve seyircilerle birlikte 'spor çevresi' başlığı altında sayılmıştır."
+      ]
+    },
+    {
+      "id": "w2q20",
+      "question": "Basit ve karmaşık hareketlerin sergilenmesinden, postürü korumaya kadar istenerek yapılan ve motor becerilerin temel bileşeni olarak değerlendiren kavrama ne ad verilir? A. Denge B. Çeviklik C. Hareketlilik D. Koordinasyon E. Ritim",
+      "options": [
+        "Denge",
+        "Çeviklik",
+        "Hareketlilik",
+        "Koordinasyon",
+        "Ritim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 5'te Yentürk (2018)'in tanımına göre denge, 'postürü korumaktan karmaşık hareketleri sergilemeye kadar uzanan motor becerilerin temel bileşeni' olarak tanımlanır. Soruda verilen ifade bu tanımla aynı içeriği (postür korumaktan hareket sergilemeye, motor becerilerin temel bileşeni) farklı sırayla ifade etmektedir, dolayısıyla doğru cevap dengedir.",
+      "optionNotes": [
+        "Doğru yanıt: Bu tanım, Yentürk (2018)'in denge tanımına birebir karşılık gelir.",
+        "Çeviklik, yavaşlama-hızlanma-yön değiştirme hareketlerinin verimli uygulanmasını ifade eder, postür koruma ve motor becerilerin temel bileşeni tanımıyla örtüşmez.",
+        "Hareketlilik, eklemlerin geniş açıda hareket edebilme yeteneğidir, burada tanımlanan postür koruma/motor beceri bileşeni kavramıyla ilgili değildir.",
+        "Koordinasyon, karmaşık hareketlerin kısa sürede öğrenilip uygulanmasıyla ilgilidir, postürü koruma vurgusunu içeren bu tanımla birebir örtüşmez.",
+        "Ritim, hareketin zaman ve dinamiğine uygun davranabilme yeteneğidir, burada tanımlanan genel motor beceri bileşeni/denge tanımı değildir."
+      ]
+    }
+  ]
+}

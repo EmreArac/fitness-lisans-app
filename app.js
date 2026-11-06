@@ -123,7 +123,9 @@ function renderHome() {
 }
 
 function totalQuestionCount(course) {
-  return course.units.reduce((sum, u) => sum + (u.questions ? u.questions.length : 0), 0);
+  const unitTotal = course.units.reduce((sum, u) => sum + (u.questions ? u.questions.length : 0), 0);
+  const extraTotal = course.extraQuestions ? course.extraQuestions.length : 0;
+  return unitTotal + extraTotal;
 }
 
 // ---------- COURSE HOME ----------
@@ -287,6 +289,7 @@ function startGeneralQuiz(courseId, count) {
   if (!course) return;
   let all = [];
   course.units.forEach((u) => { all = all.concat(u.questions || []); });
+  all = all.concat(course.extraQuestions || []);
   const picked = shuffle(all).slice(0, count).map(shuffleQuestionOptions);
   quizSession = {
     courseId, title: 'Genel Test', questions: picked, index: 0, score: 0,

@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w1q1",
+      "question": "Hareket eğitimi, kim tarafından ortaya atılmıştır?",
+      "options": [
+        "Rudolf Laban",
+        "Roger Caillois",
+        "Jean Piaget",
+        "Abraham Maslow",
+        "John Dewey"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 3 metninde hareket eğitimi yaklaşımının doğrudan \"Rudolf Laban tarafından geliştirilen\" bir yaklaşım olduğu belirtilir. Diğer isimler (Caillois oyun sınıflaması, Piaget bilişsel gelişim, Maslow ihtiyaçlar hiyerarşisi, Dewey araştırma-inceleme yöntemi) hareket eğitiminin kurucusu değil, farklı alanlarla ilişkili düşünürlerdir.",
+      "optionNotes": [
+        "Doğru: Metinde hareket eğitimi yaklaşımı açıkça Rudolf Laban'a atfedilmiştir.",
+        "Yanlış: Roger Caillois oyunların sınıflandırılmasıyla (Agon, Alea, Mimicr, İlinx) ilişkilidir, hareket eğitimiyle değil.",
+        "Yanlış: Jean Piaget bilişsel gelişim dönemleriyle (duyusal motor, işlem öncesi vb.) ilişkilidir, hareket eğitiminin kurucusu değildir.",
+        "Yanlış: Abraham Maslow ihtiyaçlar hiyerarşisiyle tanınan bir psikologdur, hareket eğitimiyle ilgisi metinde geçmez.",
+        "Yanlış: John Dewey araştırma-inceleme yoluyla öğretme stratejisiyle ilişkilendirilir, hareket eğitiminin kurucusu değildir."
+      ]
+    },
+    {
+      "id": "w1q2",
+      "question": "Uyaranın verilmesi ile tepkinin başlangıcı arasındaki zaman aşağıdakilerden hangisidir?",
+      "options": [
+        "Seçici reaksiyon",
+        "Dikkat",
+        "Reaksiyon zamanı",
+        "Öğrenme",
+        "Motor Beceri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 2 metninde bu tanım birebir verilir: \"Uyaranın verilmesi ile tepkinin başlangıcı arasındaki süreye reaksiyon zamanı denir.\" Seçici reaksiyon zamanı bunun özel bir türüdür (birden fazla uyaran-tepki eşleşmesi), ama sorudaki genel tanım doğrudan reaksiyon zamanına aittir.",
+      "optionNotes": [
+        "Yanlış: Seçici reaksiyon zamanı, birden fazla uyaran ve her birine özgü ayrı tepki durumunu tanımlar; bu sorudaki genel tanımdan daha spesifiktir.",
+        "Yanlış: Dikkat, birkaç düşünce/nesneden birinin zihin tarafından belirgin şekilde alınmasıdır, zamanla ilgili bir ölçüm değildir.",
+        "Doğru: Metindeki tanım birebir reaksiyon zamanına karşılık gelir.",
+        "Yanlış: Öğrenme, deneyim sonucu davranışta oluşan kalıcı değişikliktir, bir zaman aralığı tanımı değildir.",
+        "Yanlış: Motor beceri, bir amaca yönelik istemli davranış/görevdir, uyaran-tepki arasındaki süreyi tanımlamaz."
+      ]
+    },
+    {
+      "id": "w1q3",
+      "question": "2 yaşında olan deniz, bopopter' dediğinde aslında helikopterden bahsediyorsa içinde bulunduğu gelişim dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "Duyusal Motor",
+        "İşlem Öncesi",
+        "Somut İşlemler",
+        "Soyut İşlemler",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piaget'in bilişsel gelişim dönemlerine göre İşlem Öncesi Dönem (2-6 yaş) sembolik/dil kullanımının geliştiği dönemdir; çocuğun bir kelimeyi kendi haliyle (bopopter) üretip nesneye (helikopter) karşılık gelecek şekilde kullanması, sembolik düşüncenin ve dil gelişiminin bir göstergesidir. Duyusal Motor Dönem (0-2 yaş) ise henüz dil öncesi, refleks ve duyu-hareket temelli bir dönem olduğundan, 2 yaşındaki bir çocuğun kelime türetmesi İşlem Öncesi Döneme girmeye başladığını gösterir.",
+      "optionNotes": [
+        "Yanlış: Duyusal Motor Dönem (0-2 yaş) refleksler ve duyu-hareket etkileşimiyle tanımlanır, henüz sembolik dil kullanımı bu dönemin karakteristiği değildir.",
+        "Doğru: İşlem Öncesi Dönem (2-6 yaş), sembolik düşünce ve dil gelişiminin öne çıktığı dönemdir; 2 yaşındaki bir çocuğun kendi kelimesini türetmesi bu döneme işaret eder.",
+        "Yanlış: Somut İşlemler Dönemi (7-11 yaş) mantıksal işlemler ve nesne korunumu ile ilgilidir, 2 yaşındaki bir çocuk için uygun değildir.",
+        "Yanlış: Soyut İşlemler Dönemi (12 yaş ve üzeri) yetişkin düzeyinde soyut düşünceyi kapsar, bu yaşla uyuşmaz.",
+        "Yanlış: \"Erken Çocukluk\" Piaget'in bilişsel gelişim dönemlerinden biri değildir; metinde bu terim psikomotor/duyuşsal gelişim bağlamında (2-5 yaş) kullanılır, soru ise bilişsel gelişim dönemini sormaktadır."
+      ]
+    },
+    {
+      "id": "w1q4",
+      "question": "Aşağıdakilerden hangisi Sosyal Bilişsel Öğrenme Kuramcılarından biridir? A. Ausubel B. Bruner C. Gagne D. Bandura E. Skinner",
+      "options": [
+        "Ausubel",
+        "Bruner",
+        "Gagne",
+        "Bandura",
+        "Skinner"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 6 metninde sosyal-bilişsel öğrenme kuramı doğrudan \"Bandura'nın sosyal-bilişsel öğrenme kuramı\" olarak tanımlanır ve gözlem yoluyla öğrenme (dikkat, hatırda tutma, davranışı meydana getirme, güdüleme) bu kurama atfedilir.",
+      "optionNotes": [
+        "Yanlış: Ausubel, sunuş yoluyla öğretme stratejisiyle ilişkilendirilir, sosyal-bilişsel kuramcı değildir.",
+        "Yanlış: Bruner, buluş (keşfetme) yoluyla öğretme stratejisiyle ilişkilendirilir, sosyal-bilişsel kuramcı değildir.",
+        "Yanlış: Gagne metinde öğretme stratejileri/kuramları arasında sosyal-bilişsel kuramla ilişkilendirilmemiştir.",
+        "Doğru: Bandura, metinde sosyal-bilişsel öğrenme kuramının kurucusu olarak doğrudan belirtilir.",
+        "Yanlış: Skinner, edimsel koşullama ile davranışçı öğrenme kuramcıları arasında sayılır, sosyal-bilişsel kuramcı değildir."
+      ]
+    },
+    {
+      "id": "w1q5",
+      "question": "I. Yetkinlik II. Özgüven III. Bağ kurma IV. Umursama – umursanma V. Karakter Yukarıdakilerden hangileri bireylerin spor ortamında edineceği kazanımlar arasında yer alır?",
+      "options": [
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I – II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 1 metninde antrenörlüğün amaçları olan \"5C\" modeli tam olarak bu beş kazanımı sayar: Yetkinlik (competence), Özgüven (confidence), Bağ kurma (connection), Karakter (character) ve Umursama-umursanma (caring). Bu nedenle beşi birlikte sporcuların bütünsel gelişiminin kazanımlarıdır.",
+      "optionNotes": [
+        "Yetersiz: Yalnızca iki kazanımı içerir, metinde beşi birlikte sayılmıştır.",
+        "Yetersiz: Yetkinlik ve Karakter'i dışarıda bırakır, metindeki 5C modelinin tamamını kapsamaz.",
+        "Yetersiz: Çok fazla kazanımı (Yetkinlik, Özgüven, Karakter) dışarıda bırakır.",
+        "Yetersiz: Karakter (V) eksiktir; metinde 5C modelinin beşinci unsuru olarak açıkça sayılmıştır.",
+        "Doğru: Metinde tanımlanan 5C modeli (Yetkinlik, Özgüven, Bağ kurma, Karakter, Umursama-umursanma) tam olarak bu beş kazanımı kapsar."
+      ]
+    },
+    {
+      "id": "w1q6",
+      "question": "Aşağıdakilerden hangisi Süreksiz(Kesikli) Değişkenler arasında yer alır?",
+      "options": [
+        "Medeni durum",
+        "Kilo",
+        "Yıllık gelir",
+        "Sınav puanı",
+        "Boy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 5 metninde süreksiz (kesikli) değişken örnekleri doğrudan \"diploma derecesi, cinsiyet, medeni durum\" olarak verilir. Kilo, yıllık gelir, sınav puanı ve boy ise değerleri arasında sonsuz ara değer bulunabilen, dolayısıyla sürekli (nicel) değişkenlerdir.",
+      "optionNotes": [
+        "Doğru: Metinde medeni durum açıkça süreksiz (kesikli) değişken örneği olarak verilmiştir.",
+        "Yanlış: Kilo, metinde sürekli değişken örneği (boy uzunluğu, ağırlık gibi) olarak sayılmıştır.",
+        "Yanlış: Yıllık gelir, sayısal ve sonsuz ara değer alabilen nicel/sürekli bir değişkendir.",
+        "Yanlış: Sınav puanı, metinde \"akademik başarı puanı\" olarak nicel/sürekli değişken örneği arasında sayılmıştır.",
+        "Yanlış: Boy, metinde doğrudan sürekli değişken örneği (uzunluk) olarak verilmiştir."
+      ]
+    },
+    {
+      "id": "w1q7",
+      "question": "Aşağıdakilerden hangisi Öğrenme Yöntemi İle İlgili Faktörlerden biridir?",
+      "options": [
+        "Olgunlaşma",
+        "Geribildirim",
+        "Genel Uyarılmışlık Düzeyi",
+        "Kavramsal gruplandırma",
+        "Algısal ayırt edilebilirlik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 6 metninde öğretme yöntemiyle ilgili faktörler arasında geribildirim (dönüt) açıkça sayılır: \"Geribildirim (dönüt), öğrenene öğrenme sonucunun bildirilmesidir.\" Olgunlaşma ve genel uyarılmışlık düzeyi öğrenenle ilgili faktörler arasında, kavramsal gruplandırma ve algısal ayırt edilebilirlik ise öğrenme malzemesiyle ilgili faktörler arasında sayılmıştır.",
+      "optionNotes": [
+        "Yanlış: Olgunlaşma, metinde öğrenenle ilgili faktörler arasında sayılmıştır, öğrenme yöntemiyle ilgili değildir.",
+        "Doğru: Geribildirim, metinde doğrudan öğretme yöntemiyle ilgili faktörler arasında sayılmıştır.",
+        "Yanlış: Genel uyarılmışlık düzeyi, metinde öğrenenle ilgili faktörler arasında sayılmıştır.",
+        "Yanlış: Kavramsal gruplandırma, metinde öğrenme malzemesiyle (içerikle) ilgili faktörler arasında sayılmıştır.",
+        "Yanlış: Algısal ayırt edilebilirlik, metinde öğrenme malzemesiyle ilgili faktörler arasında sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q8",
+      "question": "Bir amaca yönelik olarak yapılan ve öğrenilmesi gereken istemli davranış veya görev aşağıdakilerden hangisidir?",
+      "options": [
+        "Seçici reaksiyon",
+        "Zihinsel Beceriler",
+        "Reaksiyon zamanı",
+        "Kesik Beceri",
+        "Motor Beceri"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 2 metninde bu tanım birebir motor beceriye aittir: \"bir amaca yönelik olarak yapılan ve öğrenilmesi gereken istemli davranış veya göreve motor beceri denir.\" Motor beceriyi reflekslerden ayıran temel özellik de istemli olmasıdır.",
+      "optionNotes": [
+        "Yanlış: Seçici reaksiyon, birden fazla uyarana karşı farklı tepkiler verme durumudur, bu genel tanımla ilgili değildir.",
+        "Yanlış: Zihinsel beceriler, başarıyı NE yapıldığının belirlediği beceri türüdür (satranç gibi), bu genel tanımın kendisi değildir.",
+        "Yanlış: Reaksiyon zamanı, uyaran ile tepki arasındaki süredir, bir davranış/görev tanımı değildir.",
+        "Yanlış: Kesik beceri, başı ve sonu belli kısa süreli bir beceri türüdür, bu genel motor beceri tanımının bir alt kategorisidir.",
+        "Doğru: Metindeki tanım birebir motor beceriye karşılık gelir."
+      ]
+    },
+    {
+      "id": "w1q9",
+      "question": "Çoğunlukla genler yoluyla belirlenen yani, genotipte bulunan ve çevrenin de etkisiyle canlının dış görünüşüne yansıyan özelliklere ne ad verilir?",
+      "options": [
+        "Fenotip",
+        "Genotip",
+        "Homozigot",
+        "Heterozigot",
+        "Filogeni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 4 metninde bu tanım birebir fenotipe aittir: \"Fenotip (dışyapı), genotipte bulunan ve çevrenin etkisiyle dış görünüşe yansıyan özelliklerdir.\" Genotip ise canlının taşıdığı baskın ve çekinik genlerin tümüdür, dış görünüşe yansımayı değil genetik yapının kendisini ifade eder.",
+      "optionNotes": [
+        "Doğru: Metindeki tanım birebir fenotipe karşılık gelir.",
+        "Yanlış: Genotip, canlının taşıdığı baskın/çekinik genlerin tümüdür; sorudaki tanım ise genotipin çevreyle etkileşerek dışa yansımasını anlatır, bu da fenotiptir.",
+        "Yanlış: Homozigot, iki alel genin baskın ya da çekinik olma özelliğinin aynı olmasıdır (AA, aa), dış görünüşe yansımayla ilgili bir tanım değildir.",
+        "Yanlış: Heterozigot, alel genlerin farklı olmasıdır (Aa), sorudaki tanımla ilgisi yoktur.",
+        "Yanlış: Filogeni, türün genetik/evrimsel geçmişiyle ilgili bir kavramdır (filogenetik beceriler), bu tanımla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w1q10",
+      "question": "Aşağıdakilerden hangisi becerilerin tek boyutlu sınıflandırmasında yer almaz?",
+      "options": [
+        "Kullanılan kas büyüklüğü",
+        "Hareketin başlama ve bitiş netliği",
+        "Hareket Gereklilikleri",
+        "Çevrenin tahmin edilebilirlik düzeyi",
+        "Motor ve bilişsel öğelerin önemi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 2 metninde tek boyutlu sınıflama dört özelliğe göre yapılır: kullanılan kas büyüklüğü, hareketin başlama-bitiş netliği, çevrenin tahmin edilebilirlik düzeyi ve motor-bilişsel öğelerin önemi. \"Hareket Gereklilikleri\" ise Gentile'nin çok boyutlu sınıflamasının iki ana boyutundan biridir (diğeri Düzenleyici Şartlar), tek boyutlu sınıflamaya ait değildir.",
+      "optionNotes": [
+        "Yanlış: Kas büyüklüğü, tek boyutlu sınıflamanın dört kriterinden biridir (kaba/ince beceri ayrımı).",
+        "Yanlış: Başlama-bitiş netliği, tek boyutlu sınıflamanın bir kriteridir (kesik/seri/devamlı beceri ayrımı).",
+        "Doğru: Hareket Gereklilikleri, tek boyutlu değil Gentile'nin çok boyutlu sınıflamasının ana boyutlarından biridir.",
+        "Yanlış: Çevrenin tahmin edilebilirlik düzeyi, tek boyutlu sınıflamanın bir kriteridir (açık/kapalı beceri ayrımı).",
+        "Yanlış: Motor ve bilişsel öğelerin önemi, tek boyutlu sınıflamanın bir kriteridir (motor/zihinsel beceri ayrımı)."
+      ]
+    },
+    {
+      "id": "w1q11",
+      "question": "Yüzme öğrenen kişinin daha sonra teknik olarak (kelebek,kurbağalama vb.) yüzmeyi öğrenmesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Hazır bulunuşluk",
+        "Olgunlaşma",
+        "Davranışın yeniden düzenlenmesi",
+        "Hareket",
+        "Büyüme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 4 metninde bu durum doğrudan örneklendirilir: \"yüzmeyi bilen birinin farklı teknikleri (kelebek, kurbağalama vb.) öğrenmesi ise davranışın yeniden düzenlenmesine örnektir.\" Burada yüzmeyi ilk öğrenme kalıcı davranış değişikliği (öğrenme) olurken, var olan beceriyi yeni tekniklerle geliştirmek davranışın yeniden düzenlenmesidir.",
+      "optionNotes": [
+        "Yanlış: Hazırbulunuşluk, bir davranışı gerçekleştirebilecek ön bilgi/beceri/tutuma sahip olma durumudur, burada anlatılan beceri geliştirme süreci değildir.",
+        "Yanlış: Olgunlaşma, genetik olarak zamanla kendiliğinden oluşan biyolojik değişikliktir, teknik öğrenmeyle ilgili değildir.",
+        "Doğru: Metinde bu tam örnekle (kelebek, kurbağalama) davranışın yeniden düzenlenmesi olarak tanımlanmıştır.",
+        "Yanlış: Hareket, vücudun yer değiştirmesidir, burada anlatılan beceri gelişim sürecinin kendisi değildir.",
+        "Yanlış: Büyüme, boyca/kiloca niceliksel artıştır, teknik beceri öğrenmeyle ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w1q12",
+      "question": "Katılımcıların yarısı yüzme bilen, diğer yarısı ise yüzme bilmeyen bir gruba yüzme dersi vermek oldukça zor olduğu için eğitimin gruplara göre verilmesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Yerleştirme",
+        "Tanı(Teşhis)",
+        "Başarının değerlendirilmesi",
+        "Tahmin(Kestirim)",
+        "Program değerlendirme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 5 metninde ölçme ve değerlendirmenin altı amacından biri \"Yerleştirme - yetenekli sporcuların uygun gruplara yerleştirilmesi\" olarak tanımlanır. Katılımcıların yüzme bilme durumuna göre ayrı gruplara bölünüp eğitim verilmesi, mevcut beceri düzeylerine göre uygun gruba yerleştirme işlemidir.",
+      "optionNotes": [
+        "Doğru: Metinde tanımlanan \"yetenekli sporcuların uygun gruplara yerleştirilmesi\" amacı, bu senaryoyla birebir örtüşür.",
+        "Yanlış: Tanı (Teşhis), sporcunun mevcut zayıf/güçlü yanlarının belirlenmesidir; burada asıl amaç belirleme değil gruplara göre eğitim düzenlemedir.",
+        "Yanlış: Başarının değerlendirilmesi, belirlenen amaçlara ulaşılıp ulaşılmadığını saptamakla ilgilidir, gruplama kararıyla ilgili değildir.",
+        "Yanlış: Tahmin (Kestirim), ölçüm sonuçlarının gelecekteki başarıyı öngörmede kullanılmasıdır, burada söz konusu olan bu değildir.",
+        "Yanlış: Program değerlendirme, uygulanan bir programın hedeflerine ulaşıp ulaşmadığını belirlemekle ilgilidir, gruplara ayırma kararı değildir."
+      ]
+    },
+    {
+      "id": "w1q13",
+      "question": "Sporcuların içlerinden gelerek ve severek katıldıkları, asıl amacı eğlenmek olan, sporda beceri gelişimine de katkı sağlayacak etkinliklere ne ad verilir?",
+      "options": [
+        "Amaçlı oyun etkinlikleri",
+        "Gelişmekte olan etkinlikler",
+        "Amaçlı alıştırma etkinlikleri",
+        "Performans etkinlikleri",
+        "Bölgesel etkinlikler"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 1 metninde \"amaçlı oyun\" (Deliberate Play) tam olarak bu şekilde tanımlanır: \"eğlenmek amaçlı, kuralların katılımcıların isteğine göre esnetildiği, yetişkin etkisinin az olduğu etkinlikler.\" Bu etkinlikler sporcuların içten gelen istekle katıldığı, asıl amacın eğlence olduğu ama beceri gelişimine de katkı sağlayan etkinliklerdir.",
+      "optionNotes": [
+        "Doğru: Metinde \"amaçlı oyun\" tam olarak eğlenmek amaçlı, içten gelen katılıma dayalı etkinlik olarak tanımlanmıştır.",
+        "Yanlış: \"Gelişmekte olan etkinlikler\" metinde ayrı bir kavram olarak tanımlanmaz; \"gelişmekte olan sporcu\" bir antrenörlük aşamasıdır, etkinlik türü değildir.",
+        "Yanlış: \"Amaçlı alıştırma\" (Deliberate Practice), beceri ve performans gelişimini doğrudan hedefleyen etkinliklerdir, eğlenceyi asıl amaç olarak almaz.",
+        "Yanlış: \"Performans etkinlikleri\" metinde bu isimle tanımlı bir kavram değildir.",
+        "Yanlış: \"Bölgesel etkinlikler\" spora katılım piramidindeki bir yarışma kademesidir (bölgesel şampiyonalar), eğlence amaçlı etkinlik türü değildir."
+      ]
+    },
+    {
+      "id": "w1q14",
+      "question": "Küçük bir çocuğun bardaktan suyu dökmeden içebilmesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Farklılaşma",
+        "Büyüme Hızı",
+        "Bütünleşme",
+        "Ontogeni",
+        "Kalıtım"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 4 metninde bu örnek birebir verilir: \"Bütünleşme ise duyu sistemlerinin ve çeşitli kas gruplarının koordineli bir şekilde çalışmasıdır; örneğin bir çocuğun bardaktan suyu dökmeden içebilmesi ... el-göz koordinasyonu gerektiren bütünleşme örnekleridir.\"",
+      "optionNotes": [
+        "Yanlış: Farklılaşma, basit hareket kalıplarından daha fonksiyonel/becerili hareketlere ilerlemeyi ifade eder, bu spesifik koordinasyon örneği değildir.",
+        "Yanlış: Büyüme hızı, boy-kilo artışının hızıyla ilgili bir kavramdır, koordinasyon becerisiyle ilgili değildir.",
+        "Doğru: Metinde bu örnek birebir bütünleşme kavramıyla ilişkilendirilmiştir.",
+        "Yanlış: Ontogeni (ontogenetik beceri), çevre ve öğrenme yoluyla kazanılan özelleşmiş becerilerdir (örn. hentbolda şut atma), bardaktan su içme gibi temel bir koordinasyon örneği değildir.",
+        "Yanlış: Kalıtım, genetik özelliklerin ebeveynden aktarılmasıdır, bu motor koordinasyon örneğiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w1q15",
+      "question": "I. Hareket eğitimi bireysel bir keşiftir II. Hareket eğitiminin öğrenci merkezlidir III. Hareket analizini destekler IV. Temelinde problem çözme bulunur Yukarıdakilerden hangileri Hareket eğitiminin özellikleri arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 3 metninde hareket eğitiminin özellikleri sıralanırken bu dört ifade de birebir yer alır: \"bireysel bir keşiftir, öğrenci merkezlidir, temelinde problem çözme bulunur, ... hareket analizini destekler...\" Bu nedenle I, II, III ve IV'ün hepsi hareket eğitiminin özellikleri arasındadır.",
+      "optionNotes": [
+        "Yetersiz: Sadece bir özelliği içerir, metinde dört özellik de birlikte sayılmıştır.",
+        "Yetersiz: III ve IV'ü dışarıda bırakır, metinde hepsi özellikler listesinde yer alır.",
+        "Yetersiz: I ve IV'ü dışarıda bırakır, oysa metinde ikisi de özellikler arasında sayılmıştır.",
+        "Yetersiz: IV'ü (problem çözme) dışarıda bırakır, ancak metin bunu da özellikler listesinde açıkça sayar.",
+        "Doğru: Metindeki özellikler listesinde bu dört ifade (bireysel keşif, öğrenci merkezlilik, problem çözme, hareket analizini destekleme) birebir yer almaktadır."
+      ]
+    },
+    {
+      "id": "w1q16",
+      "question": "Spora Katılım Piramidinin ilk basamağı aşağıdakilerden hangisidir?",
+      "options": [
+        "Yerel Yarışmalar",
+        "Bölgesel Yarışmalar",
+        "Beden Eğitimi",
+        "Ulusal Yarışmalar",
+        "Elit Yarışmalar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1 metninde piramit modelinin basamakları şu sırayla verilir: \"birey spora en yoğun şekilde okul sporu ve okul beden eğitimiyle başlar; bunu sırasıyla yerel yarışmalar, bölgesel şampiyonalar ve ulusal şampiyonalar izler, piramidin en tepesinde ise elit yarışmalar yer alır.\" Dolayısıyla piramidin ilk/taban basamağı beden eğitimidir.",
+      "optionNotes": [
+        "Yanlış: Yerel yarışmalar, beden eğitiminden sonra gelen ikinci basamaktır, ilk basamak değildir.",
+        "Yanlış: Bölgesel yarışmalar, yerel yarışmaların ardından gelen üçüncü basamaktır.",
+        "Doğru: Metinde piramidin taban/ilk basamağı olarak okul sporu ve beden eğitimi belirtilmiştir.",
+        "Yanlış: Ulusal yarışmalar, bölgesel yarışmaların ardından gelen dördüncü basamaktır, ilk basamak değildir.",
+        "Yanlış: Elit yarışmalar, piramidin en tepesinde yer alan son basamaktır, ilk basamak değildir."
+      ]
+    },
+    {
+      "id": "w1q17",
+      "question": "Birey korktuğu nesneye yavaş yavaş yaklaştırılması ve bu süreç ile korkunun ortadan kaldırılması aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Sistematik duyarsızlaştırma",
+        "İnformal öğrenme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bireyin korktuğu nesneye kademeli olarak, küçük adımlarla yaklaştırılarak korkunun azaltılması, davranışçı yaklaşımda klasik koşullama ilkelerine dayanan \"sistematik duyarsızlaştırma\" tekniğinin tanımıdır. Ünite 6'da işlenen davranışçı koşullama ilkeleri (alışma, duyarlılık kazanma vb.) bu tekniğin dayandığı teorik çerçeveyle uyumludur; diğer seçenekler (pekiştirme türleri, Premack ilkesi, informal öğrenme) farklı davranış değiştirme mekanizmalarını tanımlar ve korkuyla kademeli yüzleştirme sürecini karşılamaz.",
+      "optionNotes": [
+        "Yanlış: Olumlu pekiştirme, hoşa giden bir uyarıcının verilerek davranışın güçlendirilmesidir (örn. \"bravo\" demek), korkuyu kademeli olarak ortadan kaldırma süreciyle ilgili değildir.",
+        "Yanlış: Olumsuz pekiştirme, hoş olmayan bir durumdan kaçınmanın sağlanmasıyla davranışın güçlendirilmesidir, korkuya kademeli yaklaştırma tekniği değildir.",
+        "Yanlış: Premack ilkesi, az istenen bir etkinliğin daha çok istenen bir etkinliğe bağlanmasıdır (örn. antrenman sonunda maç yaptırmak), korku giderme tekniği değildir.",
+        "Doğru: Sistematik duyarsızlaştırma, korkulan nesneye/durumla kademeli ve kontrollü yüzleştirme yoluyla korkunun azaltılması tekniğidir; soruda tarif edilen süreç tam olarak budur.",
+        "Yanlış: İnformal öğrenme, planlı/yapılandırılmış olmayan, günlük yaşam içinde kendiliğinden gerçekleşen öğrenmeyi ifade eder, korku giderme tekniği değildir."
+      ]
+    },
+    {
+      "id": "w1q18",
+      "question": "Aşağıdakilerden hangisi Nesne Kontrolü Gerektiren Hareketlerden biridir?",
+      "options": [
+        "Esnetme",
+        "Dönme",
+        "Salınım",
+        "Çekme",
+        "Atma"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 3 metninde nesne kontrolü gerektiren hareketler \"topa alıştırma, atma, tutma, yakalama, ayakla vurma, yuvarlama, durdurma-kontrol, top sürme, raketle vurma, uzun saplı araçla vurma\" olarak sayılır. Esnetme, dönme, salınım ve çekme ise dengeleme hareketleri grubuna (eğilme, esnetme, dönme, salınım, ağırlık aktarma, itme, çekme vb.) aittir.",
+      "optionNotes": [
+        "Yanlış: Esnetme, metinde dengeleme hareketleri grubunda sayılmıştır, nesne kontrolü değildir.",
+        "Yanlış: Dönme, metinde dengeleme hareketleri grubunda sayılmıştır.",
+        "Yanlış: Salınım, metinde dengeleme hareketleri grubunda sayılmıştır.",
+        "Yanlış: Çekme, metinde dengeleme hareketleri grubunda sayılmıştır (itme-çekme).",
+        "Doğru: Atma, metinde nesne kontrolü gerektiren hareketler arasında açıkça sayılmıştır."
+      ]
+    },
+    {
+      "id": "w1q19",
+      "question": "Katılım spor ortamlarındaki çocukların, haftalık antrenman etkinlikleri en fazla kaç saat olmalıdır?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 1 metninde çocuklara yönelik katılım sporu antrenörlüğü (6-12 yaş) tanımlanırken şu bilgi açıkça verilir: \"haftalık antrenman etkinlikleri dört saati aşmamalıdır.\"",
+      "optionNotes": [
+        "Yanlış: Metinde belirtilen üst sınır 2 saat değil 4 saattir.",
+        "Doğru: Metinde çocuk katılım sporu ortamında haftalık antrenman etkinliklerinin en fazla dört saat olması gerektiği açıkça belirtilmiştir.",
+        "Yanlış: Metinde belirtilen üst sınır 6 saat değil 4 saattir.",
+        "Yanlış: Metinde belirtilen üst sınır 8 saat değil 4 saattir.",
+        "Yanlış: Metinde belirtilen üst sınır 10 saat değil 4 saattir."
+      ]
+    },
+    {
+      "id": "w1q20",
+      "question": "I. Sınıflama Ölçeği II. Sıralama Ölçeği III. Eşit Aralıklı Ölçek IV. Bağıl Ölçek Yukarıda verilenlerden hangileri Ölçek türleri arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 5 metninde ölçek türleri dört düzeyde sınıflandırılır: sınıflama (nominal), sıralama (dereceleme), eşit aralıklı ve eşit oranlı ölçek. \"Bağıl Ölçek\" metinde tanımlı bir ölçek türü değildir; \"bağıl\" terimi metinde ölçüt (mutlak/bağıl ölçüt) ve sıfır (mutlak/bağıl sıfır) kavramlarıyla ilgili olarak geçer, ayrı bir ölçek türü olarak değil. Bu nedenle doğru cevap sadece I, II ve III'ü içerir.",
+      "optionNotes": [
+        "Yetersiz: Sadece sınıflama ölçeğini içerir, sıralama ve eşit aralıklı ölçek de metindeki ölçek türleri arasındadır.",
+        "Yetersiz: Eşit aralıklı ölçeği dışarıda bırakır, oysa metinde bu da dört ölçek türünden biridir.",
+        "Yetersiz: Sınıflama ölçeğini dışarıda bırakır, oysa metinde bu da dört ölçek türünden biridir.",
+        "Doğru: Metinde tanımlanan dört ölçek türünden (sınıflama, sıralama, eşit aralıklı, eşit oranlı) üçü olan sınıflama, sıralama ve eşit aralıklı ölçek burada doğru sayılmıştır; \"eşit oranlı\" seçeneklerde yer almadığından ve \"bağıl ölçek\" diye bir tür metinde tanımlı olmadığından I-II-III en doğru kombinasyondur.",
+        "Yanlış: \"Bağıl Ölçek\" metinde tanımlanan dört ölçek türünden (sınıflama, sıralama, eşit aralıklı, eşit oranlı) biri değildir; bağıllık metinde ölçüt ve sıfır kavramlarıyla ilişkilidir, ayrı bir ölçek türü değildir."
+      ]
+    }
+  ]
+}

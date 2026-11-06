@@ -2207,6 +2207,2608 @@ window.COURSES = [
           }
         ]
       }
+    ],
+    "extraQuestions": [
+      {
+        "id": "extra1",
+        "question": "Basit ve karmaşık hareketlerin sergilenmesinden, postürü korumaya kadar istenerek yapılan ve motor becerilerin temel bileşeni olarak değerlendiren kavrama ne ad verilir?",
+        "options": [
+          "Denge",
+          "Çeviklik",
+          "Hareketlilik",
+          "Koordinasyon",
+          "Ritim"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yentürk (2018)'e göre denge, postürü korumaktan karmaşık hareketleri sergilemeye kadar uzanan motor becerilerin temel bileşeni olarak tanımlanır. Bu tanım sorudaki ifadeyle birebir örtüşür; spor bilimi açısından denge, merkezî sinir sistemi ile iskelet-kas sisteminin uyumlu etkileşimini ifade eden koordinasyonun bir parçasıdır.",
+        "optionNotes": [
+          "Doğru yanıt; tanım Yentürk (2018)'in denge tanımıyla birebir aynıdır: postürü korumaktan karmaşık hareketlere kadar motor becerilerin temel bileşeni.",
+          "Çeviklik, yavaşlama-hızlanma-yön değiştirme hareketlerinin hızlı uygulanmasıyla ilgilidir; postürü koruma/motor becerilerin temel bileşeni tanımı değildir.",
+          "Hareketlilik, eklemlerin müsaade ettiği açıda hareket yapabilme yeteneğidir; bu tanımla ilgisi yoktur.",
+          "Koordinasyon, karmaşık hareketleri kısa sürede öğrenip uygulayabilme yeteneğidir; burada tarif edilen 'postürü koruma' vurgusu dengeye özgüdür.",
+          "Ritim, hareketin zaman ve dinamiğine uygun davranabilme yeteneğidir; bu tanımda geçen postür koruma kavramıyla doğrudan ilişkilendirilmez."
+        ]
+      },
+      {
+        "id": "extra2",
+        "question": "Yavaşlama, hızlanma ve yön değiştirme hareketlerinin en kısa sürede verimli bir şekilde uygulanmasını sağlayan fiziksel beceri aşağıdakilerden hangisidir?",
+        "options": [
+          "Denge",
+          "Çeviklik",
+          "Hareketlilik",
+          "Koordinasyon",
+          "Ritim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Günay vd. (2017)'ye göre çeviklik, yavaşlama, hızlanma ve yön değiştirme hareketlerinin en kısa sürede verimli bir şekilde uygulanmasını sağlayan fiziksel bir beceri olarak tanımlanır. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür; çevikliğin olmazsa olmaz üç unsuru koordinasyon, denge ve patlayıcılıktır.",
+        "optionNotes": [
+          "Denge, vücut pozisyonunu koruma/sürdürme becerisidir; yavaşlama-hızlanma-yön değiştirme hızını doğrudan tanımlamaz.",
+          "Doğru yanıt; tanım Günay vd. (2017)'nin çeviklik tanımıyla birebir aynıdır.",
+          "Hareketlilik, eklem hareket genişliğiyle ilgilidir, yön değiştirme hızını tanımlamaz.",
+          "Koordinasyon, hareketlerin öğrenilip doğru sırayla uygulanmasıyla ilgilidir; burada vurgulanan spesifik yön değiştirme hızı değildir.",
+          "Ritim, hareketin zamanlama ve dinamiğine uyumla ilgilidir, yavaşlama-hızlanma-yön değiştirme tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra3",
+        "question": "Sporcunun efor kapasitesi aşağıdakilerden hangisine bağlı değildir?",
+        "options": [
+          "Biyolojik ve kronolojik",
+          "Antrenman altyapısı",
+          "Antrenman ve sağlık durumu",
+          "Sporcunun vücut yapısı ve kişiliği",
+          "Antrenmanın çeşitliliği"
+        ],
+        "correctIndex": 4,
+        "explanation": "Kaynak metinde (Bireyselleştirme İlkesi bölümü) sporcunun efor kapasitesinin bağlı olduğu faktörler arasında biyolojik/kronolojik yaş, antrenman altyapısı (tecrübe/spora başlama yaşı), antrenman ve sağlık durumu, antrenman yükü-toparlanma hızı ile sporcunun vücut yapısı ve kişiliği sayılır. 'Antrenmanın çeşitliliği' ise ayrı ve bağımsız bir ilke olan 'Çeşitlilik İlkesi' kapsamında ele alınır, efor kapasitesini belirleyen faktörler listesinde yer almaz.",
+        "optionNotes": [
+          "Efor kapasitesini belirleyen faktörlerden biridir; metinde doğrudan sayılmıştır.",
+          "Efor kapasitesini belirleyen faktörlerden biridir; antrenman altyapısı/tecrübesi metinde açıkça listelenmiştir.",
+          "Efor kapasitesini belirleyen faktörlerden biridir; antrenman ve sağlık durumu metinde doğrudan sayılmıştır.",
+          "Efor kapasitesini belirleyen faktörlerden biridir; sporcunun vücut yapısı ve kişiliği metinde açıkça belirtilmiştir.",
+          "Doğru yanıt; antrenmanın çeşitliliği, efor kapasitesi faktörleri listesinde yer almaz, ayrı bir ilke olan 'Çeşitlilik İlkesi'ne aittir."
+        ]
+      },
+      {
+        "id": "extra4",
+        "question": "Planlı ve programlı olarak gerçekleştirilen, fiziksel uygunluğun bir veya daha fazla ögesini geliştirmeye ya da korumaya yönelik olarak yapılan tekrarlayıcı vücut hareketlerine ne ad verilir?",
+        "options": [
+          "Antrenman",
+          "Performans",
+          "Egzersiz",
+          "Spor",
+          "Beceri"
+        ],
+        "correctIndex": 2,
+        "explanation": "Biddle (1995)'e göre egzersiz, fiziksel uygunluğun bir veya daha fazla ögesini geliştirmeye ya da korumaya yönelik olarak planlı ve programlı şekilde yapılan tekrarlayıcı vücut hareketleridir. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+        "optionNotes": [
+          "Antrenman, sporcunun fiziksel, teknik, taktik ve psikolojik açıdan hazırlanmasını kapsayan daha geniş ve sistematik bir süreçtir, bu dar tanımla örtüşmez.",
+          "Performans, sporcunun ortaya koyduğu somut verim düzeyidir; bu bir hareket tanımı değil bir sonuçtur.",
+          "Doğru yanıt; tanım Biddle (1995)'in egzersiz tanımıyla birebir aynıdır.",
+          "Spor, kurallara bağlı ve rekabetçi bir insan davranışıdır; bu tanımda kural/rekabet vurgusu yoktur.",
+          "Beceri, bir işi amaca uygun sonuçlandırma yeteneğidir, planlı-programlı tekrarlayıcı hareket tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra5",
+        "question": "Çocukların ve gençlerin antropometrik, psikolojik ve fizyolojik özellikleri için bilimsel metotlar kullanılarak yapılan performans testlerinin sonuçları ve uzman görüşleri dikkate alınarak spora yönlendirilmesine dayalı yöntem aşağıdakilerden hangisidir?",
+        "options": [
+          "Doğal seçim",
+          "Bilimsel seçim",
+          "Dolaylı seçim",
+          "Doğrudan seçim",
+          "Bireysel seçim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde bilimsel seçim şu şekilde tanımlanır: çocukların antropometrik, psikolojik ve fizyolojik özelliklerinin bilimsel metotlarla test edilip uzman görüşleri doğrultusunda spora yönlendirilmesi. Bu yöntem, öznel değerlendirme (uzman antrenörlerin sistematik gözlemleri) ve deneysel değerlendirme (test bataryaları, kinantropometrik ölçümler) olmak üzere iki temel değerlendirme biçimiyle uygulanır.",
+        "optionNotes": [
+          "Doğal seçimde çocuklar kişisel tercih, aile beklentisi ve çevrenin sosyo-kültürel yapısı gibi öznel faktörlerle spora yönelir; bilimsel test ve ölçüme dayanmaz.",
+          "Doğru yanıt; tanım metindeki bilimsel seçim tanımıyla birebir örtüşür.",
+          "Metinde 'dolaylı seçim' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+          "Metinde 'doğrudan seçim' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+          "Metinde 'bireysel seçim' adıyla ayrı bir sınıflandırma geçmez; seçim yöntemleri doğal ve bilimsel seçim olarak ikiye ayrılır."
+        ]
+      },
+      {
+        "id": "extra6",
+        "question": "İzometrik kas çalışması sonucu ortaya çıkan kuvvette ne ad verilir?",
+        "options": [
+          "Dinamik kuvvet",
+          "Relatif (göreli) kuvvet",
+          "Maksimal kuvvet",
+          "Statik kuvvet",
+          "Çabuk kuvvet"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde statik kuvvet, izometrik kas çalışması sonucu, kasta gözle görülür bir kısalma olmadan ortaya çıkan kuvvet olarak tanımlanır. İzometrik kasılmada kas uzunluğu değişmez, sadece gerilim artar; bu nedenle izometrik çalışmanın karşılığı statik kuvvettir.",
+        "optionNotes": [
+          "Dinamik kuvvet, izotonik kasılmalarla (kas boyu değişerek) ortaya çıkan kuvvettir; izometrik çalışmanın tam tersidir.",
+          "Relatif (göreli) kuvvet, sporcunun kendi vücut ağırlığına karşı geliştirdiği kuvvettir; izometrik çalışma türüyle ilgili bir sınıflandırma değildir.",
+          "Maksimal kuvvet, kas-sinir sisteminin istemli kasılmayla ortaya çıkardığı en büyük kuvvettir; kasılma türüne göre değil büyüklüğe göre bir sınıflandırmadır.",
+          "Doğru yanıt; statik kuvvet, metinde izometrik kasılmanın karşılığı olarak doğrudan tanımlanmıştır.",
+          "Çabuk kuvvet, kuvvet ve süratin bir ürünü olarak yüksek hızda dirençleri yenebilme yetisidir; izometrik çalışmayla tanımlanmaz."
+        ]
+      },
+      {
+        "id": "extra7",
+        "question": "Sporcunun somut olarak fiziksel, fizyolojik, biyomotorik ve psikolojik olarak ortaya koyduğu verim düzeyi aşağıdakilerden hangisidir?",
+        "options": [
+          "Fiziksel Aktivite",
+          "Performans",
+          "Spor",
+          "Antrenman",
+          "Egzersiz"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde performans (sporsal verim), sporcunun somut olarak fiziksel, fizyolojik, biyomotorik ve psikolojik olarak ortaya koyduğu verim düzeyi olarak tanımlanır. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+        "optionNotes": [
+          "Fiziksel aktivite, enerjiyi harcamak için vücudun hareket etmesidir; somut verim düzeyi tanımı değildir.",
+          "Doğru yanıt; tanım doğrudan performans (sporsal verim) kavramına aittir.",
+          "Spor, kurallara bağlı, bedeni/zihni geliştirmeye yönelik organize bir insan davranışıdır; verim düzeyi tanımı değildir.",
+          "Antrenman, sporcunun sistematik olarak hazırlanma sürecidir; somut bir verim düzeyi değil bir hazırlanma sürecidir.",
+          "Egzersiz, fiziksel uygunluğu geliştirmeye yönelik tekrarlayıcı hareketlerdir; verim düzeyi tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra8",
+        "question": "Birim antrenman ana bölümünde hangi antrenman programı yapılır?",
+        "options": [
+          "Teknik – taktik",
+          "Isınma – soğuma",
+          "Giriş – soğuma",
+          "Giriş – ısınma – soğuma",
+          "Teknik – Kondisyon"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde ana (temel) bölümün amacı açıkça şu şekilde belirtilir: 'sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel biyomotor yetileri ve psikolojik niteliklerini geliştirmek.' Antrenmanın asıl kısmı olan bu bölümde ağırlıklı olarak teknik ve taktik çalışmalar yapılır.",
+        "optionNotes": [
+          "Doğru yanıt; metinde ana bölümün odak noktası teknik ve taktik davranışların öğretilmesi olarak açıkça belirtilmiştir.",
+          "Isınma ve soğuma, ana bölümden önce ve sonra gelen farklı bölümlerdir; ana bölümün kendisinde uygulanan programlar değildir.",
+          "Giriş ve soğuma da ana bölümün dışında kalan, ondan önceki ve sonraki aşamalardır.",
+          "Giriş, ısınma ve soğuma birim antrenmanın diğer üç bölümüdür; ana bölümün kendisi değildir.",
+          "Kondisyon (biyomotor yetiler) ana bölümde teknik-taktikle birlikte geliştirilse de metinde bu ikili ilişki doğrudan 'teknik ve taktik' olarak ifade edilir, 'teknik-kondisyon' şeklinde bir eşleştirme metinde verilmez."
+        ]
+      },
+      {
+        "id": "extra9",
+        "question": "İki ya da daha çok sporcunun işbirliği içerisinde ortaya koyduğu taktik anlayışına ne denir?",
+        "options": [
+          "Grup Taktiği",
+          "Bireysel Taktik",
+          "Kolektif Taktik",
+          "Genel Taktik",
+          "Özel Taktik"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde kolektif taktik şu şekilde tanımlanır: 'İki ya da daha çok sporcunun işbirliği içerisinde ortaya koyduğu taktik anlayıştır.' Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+        "optionNotes": [
+          "Grup taktiği, taktiğin kapsamına göre yapılan farklı bir sınıflandırmada (bireysel-grup-takım taktiği) geçen bir terimdir; sorudaki 'işbirliği' tanımının birebir karşılığı değildir.",
+          "Bireysel taktik, müsabakada bir sporcunun tek başına amaca yönelik davranışlarını içerir (örn. şut atan oyuncunun davranışı); işbirliği tanımına uymaz.",
+          "Doğru yanıt; metinde bu tanım doğrudan 'Kolektif Taktik' başlığı altında verilmiştir.",
+          "Genel taktik, taktiğin genel kural ve ilkelerini içerir; sporcular arası işbirliğini tanımlamaz.",
+          "Özel taktik, belirli bir duruma veya rakibe özgü taktik uygulamalarını ifade eder; işbirliği tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra10",
+        "question": "Çok yönlü gelişim ilkesi piramidine göre sırasıyla gelişim evreleri nelerdir?",
+        "options": [
+          "Çok Yönlü Gelişim Özel Antrenman Yüksek Performans",
+          "Olgunlaşma Özel Antrenman Çok Yönlü Gelişim",
+          "Genç Sporcular Özel Antrenman Çok Yönlü Gelişim",
+          "Çocukluk Evresi Özel Antrenman Çok Yönlü Gelişim",
+          "Yüksek Performans Özel Antrenman Olgunlaşma"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kaynak metindeki Şekil 3.1 'Çok Yönlü Gelişim İlkesi Piramidi'ne göre piramit tabandan tepeye doğru şu şekilde sıralanır: tabanda çocukluk evresinde kazanılan 'Çok Yönlü Gelişim', ortada genç sporcularda uygulanan 'Özel Antrenman', tepede ise olgunlaşma evresinde ulaşılan 'Yüksek Performans'. Bu piramit, literatürde tam olarak bu üç kademeyle (Çok Yönlü Gelişim - Özel Antrenman - Yüksek Performans) anılır.",
+        "optionNotes": [
+          "Doğru yanıt; piramidin tabandan tepeye doğru sıralanışı tam olarak Çok Yönlü Gelişim, Özel Antrenman, Yüksek Performans şeklindedir (Bompa ve Haff, 2015).",
+          "Sıralama tersine çevrilmiş ve 'Yüksek Performans' yerine hatalı biçimde 'Çok Yönlü Gelişim' ile değiştirilmiştir; şekildeki gerçek sıralamayla uyuşmaz.",
+          "'Genç Sporcular' ve 'Çok Yönlü Gelişim' aynı sırada karışık biçimde kullanılmış, tepedeki 'Yüksek Performans' seviyesi eksik bırakılmıştır.",
+          "'Çocukluk Evresi' doğru başlangıç noktası olsa da sıralamanın sonunda 'Yüksek Performans' yerine tekrar 'Çok Yönlü Gelişim' yazılmıştır, bu nedenle hatalıdır.",
+          "Sıralama tamamen ters çevrilmiştir; piramidin tepesi olan 'Yüksek Performans' en başa, tabanı olan 'Çok Yönlü Gelişim' ise listeye hiç dahil edilmemiştir."
+        ]
+      },
+      {
+        "id": "extra11",
+        "question": "Aşağıdakilerden hangisi objeyle denge türüne örnek değildir?",
+        "options": [
+          "Rakibe çalım atmak",
+          "Ribaunt almak",
+          "Smaç vurmak",
+          "Çekiç atmak",
+          "Öne takla atmak"
+        ],
+        "correctIndex": 4,
+        "explanation": "Objeyle denge, top, çubuk gibi ek bir ekipmanla sağlanan dengedir. Rakibe çalım atmak (topla), ribaunt almak (basketbol topuyla), smaç vurmak (voleybol topuyla) ve çekiç atmak (çekiçle) birer obje/ekipman kullanılarak gerçekleştirilen denge örnekleridir. Öne takla atmak ise herhangi bir obje kullanılmadan, sadece sporcunun kendi vücuduyla gerçekleştirdiği bir hareket olduğundan objeyle denge örneği değildir.",
+        "optionNotes": [
+          "Objeyle denge örneğidir; çalım atma sırasında top (obje) kontrol edilerek denge sağlanır.",
+          "Objeyle denge örneğidir; ribaunt sırasında basketbol topu (obje) ile denge korunarak hareket gerçekleştirilir.",
+          "Objeyle denge örneğidir; smaç vuruşu sırasında voleybol topuna (obje) karşı denge sağlanır.",
+          "Objeyle denge örneğidir; çekiç atma sırasında çekiç (obje) ile birlikte denge kurulur.",
+          "Doğru yanıt; öne takla atmak herhangi bir ek ekipman/obje kullanmadan yapılan bir hareket olduğundan objeyle denge türüne örnek değildir."
+        ]
+      },
+      {
+        "id": "extra12",
+        "question": "Bir takımın küçük yaşta yetenekli sporcuları tespit edip altyapısına katarak kendi yıldızlarını yarattığı sistem aşağıdakilerden hangisidir?",
+        "options": [
+          "Scouting sistemi",
+          "Gözleme dayalı sistem",
+          "Aşamalı sistem",
+          "Yıldıza dayalı sistem",
+          "Yeteneğe dayalı sistem"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde açıkça belirtildiği gibi, başarılı spor kulüplerinin benimsediği ikinci yöntem 'geniş tabanlı bir scouting sistemi ile küçük yaşta yetenekli sporcuları tespit edip altyapısına katarak kendi yıldızlarını yaratmak' şeklinde tanımlanır. Bu yöntem, parlayan yıldız sporcuları yüksek bedellerle transfer etmenin (birinci yöntem) alternatifidir.",
+        "optionNotes": [
+          "Doğru yanıt; metinde bu tanım doğrudan 'scouting sistemi' olarak ifade edilmiştir.",
+          "Metinde 'gözleme dayalı sistem' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+          "Metinde 'aşamalı sistem' adıyla ayrı bir sınıflandırma geçmez; bu seçenek bir çeldiricidir.",
+          "Metinde 'yıldıza dayalı sistem' adıyla ayrı bir sınıflandırma geçmez; asıl karşıt yöntem olan 'parlayan yıldızları transfer etme' ile karıştırılmamalıdır.",
+          "Metinde 'yeteneğe dayalı sistem' adıyla ayrı bir sınıflandırma geçmez; doğru terim scouting sistemidir."
+        ]
+      },
+      {
+        "id": "extra13",
+        "question": "Bir plan ve program çerçevesinde; ölçüsü belirlenmiş, kapsam ve içerikte yapılan değişikler sonucu organizmada morfolojik, fonksiyonel ve kimyasal değişikliklere neden olan etkinliklere ne ad verilir?",
+        "options": [
+          "Çeşitlilik",
+          "Yüklenme",
+          "Model Antrenman",
+          "Özelleşme",
+          "Çok Yönlü Gelişim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde yüklenme şu şekilde tanımlanır: 'bir plan ve program çerçevesinde ölçüsü belirlenmiş, kapsam ve içerikte yapılan değişiklikler sonucu organizmada morfolojik, fonksiyonel ve kimyasal değişikliklere neden olan etkinlik' (Smith, 2003). Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+        "optionNotes": [
+          "Çeşitlilik ilkesi, antrenmanın tek tipe bağlı kalmaksızın çoklu drillerle işlenmesini öngörür; organizmadaki morfolojik/kimyasal değişiklikleri tanımlayan kavram değildir.",
+          "Doğru yanıt; tanım doğrudan yüklenme kavramına aittir.",
+          "Model antrenman, yarışma şartlarına uygun antrenman düzenlemesini ifade eder; bu tanımla ilgisi yoktur.",
+          "Özelleşme, branşa özgü morfolojik/fonksiyonel değişiklikleri içerir ama tanımda geçen 'ölçüsü belirlenmiş, plan-program çerçevesinde etkinlik' ifadesi doğrudan yüklenmeye aittir.",
+          "Çok yönlü gelişim, geniş ve çok yönlü fiziksel gelişimi ifade eder; bu spesifik tanımla örtüşmez."
+        ]
+      },
+      {
+        "id": "extra14",
+        "question": "Bir impulsa karşı kasın göstermiş olduğu ilk tepkiye ...........................denir.",
+        "options": [
+          "Reaksiyon süresi",
+          "Ortalama sürat",
+          "Hareket sürati",
+          "İvme",
+          "Esneklik"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde açıkça belirtildiği üzere: 'Bir impulsa karşı kasın göstermiş olduğu ilk tepki süresine reaksiyon süresi denir.' Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür; reaksiyon süreci duyu organlarının algılamasından kasta mekanik olayın oluşmasına kadar sıralı aşamalardan geçer.",
+        "optionNotes": [
+          "Doğru yanıt; tanım metinde reaksiyon süresi için birebir aynı şekilde verilmiştir.",
+          "Ortalama sürat, bir mesafenin kat edilmesindeki ortalama hız değeridir; impulsa karşı ilk tepkiyi tanımlamaz.",
+          "Hareket sürati, ilk ve bitiş hareketi arasındaki süredir; bu, reaksiyon sonrası gerçekleşen bir süreçtir, ilk tepkinin kendisi değildir.",
+          "İvme, minimum zamanda maksimum hıza erişmeyi sağlayan hızdaki değişim oranıdır; impulsa karşı ilk tepki tanımı değildir.",
+          "Esneklik, eklem hareket genişliğiyle ilgilidir; kasın impulsa karşı ilk tepkisiyle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra15",
+        "question": "Hareketlerin doğru olarak yapılmasını ve fiziksel dayanıklılıkla ilgili olarak vücudun Kondisyon durumuna en yakın kavrama ne a verilir?",
+        "options": [
+          "Motivasyon",
+          "Oryantasyon",
+          "Fiziksel uygunluk",
+          "Performans",
+          "Değerlendirme"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde fiziksel uygunluk (fitness) şu şekilde tanımlanır: 'hareketlerin doğru olarak yapılmasını ve fiziksel dayanıklılıkla ilgili olarak vücudun kondisyon durumunu ifade eder.' Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür.",
+        "optionNotes": [
+          "Motivasyon, sporcunun bir hedefe ulaşma isteğiyle ilgili psikolojik bir durumdur; hareketlerin doğru yapılması ve kondisyon tanımıyla ilgisi yoktur.",
+          "Oryantasyon (boyutsal yön belirleme), sporcunun kendini ve çevresini üç boyutlu algılamasıdır; bu tanımla örtüşmez.",
+          "Doğru yanıt; tanım metinde fiziksel uygunluk (fitness) için birebir aynı şekilde verilmiştir.",
+          "Performans, sporcunun ortaya koyduğu somut verim düzeyidir; burada tarif edilen spesifik 'hareketlerin doğruluğu ve kondisyon' tanımı değildir.",
+          "Değerlendirme, ölçüm sonuçlarının yorumlanması sürecidir; bir kondisyon/vücut durumu tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra16",
+        "question": "En basit tanımı ile enerjiyi harcamak için vücudun hareket etmesi olarak tanımlanan kavrama ne ad verilir?",
+        "options": [
+          "Spor",
+          "Performans",
+          "Antrenman",
+          "Fiziksel aktivite",
+          "Egzersiz"
+        ],
+        "correctIndex": 3,
+        "explanation": "Zorba (2017)'ye göre fiziksel aktivite, en basit tanımıyla enerjiyi harcamak için vücudun hareket etmesi, özellikle iskelet kasları aracılığıyla oluşan enerji harcamasıdır. Bu tanım sorudaki ifadeyle kelimesi kelimesine örtüşür; yürüme, merdiven çıkma gibi günlük hareketler de bu kapsama girer.",
+        "optionNotes": [
+          "Spor, kurallara bağlı, rekabetçi ve organize bir insan davranışıdır; bu basit enerji harcama tanımından daha kapsamlıdır.",
+          "Performans, sporcunun ortaya koyduğu somut verim düzeyidir; enerji harcamasının kendisini ifade etmez.",
+          "Antrenman, sporcunun sistematik olarak hazırlanma sürecidir; bu basit tanımdan çok daha kapsamlı ve hedefe yöneliktir.",
+          "Doğru yanıt; tanım Zorba (2017)'nin fiziksel aktivite tanımıyla birebir aynıdır.",
+          "Egzersiz, planlı ve programlı şekilde yapılan tekrarlayıcı hareketlerdir; burada 'planlılık' vurgusu yoktur, dolayısıyla bu basit tanımla tam örtüşmez."
+        ]
+      },
+      {
+        "id": "extra17",
+        "question": "Giriş, ısınma, ana bölüm ve soğuma hangi antrenman türünde değerlendirilmektedir?",
+        "options": [
+          "Birim antrenman",
+          "Mikro antrenman",
+          "Makro antrenman",
+          "Yıllık antrenman",
+          "Haftalık antrenman"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde belirtildiği üzere birim antrenman; ısınma, ana (temel) bölüm ve soğuma (bitiriş) bölümlerini kapsar, bazı kaynaklarda bunlara ek olarak bir de başlangıç (giriş) bölümü eklenerek dört ayrı başlıkla ifade edilir: giriş, ısınma, ana bölüm, soğuma. Bu dört bölüm birim antrenmanın (günlük antrenmanın) yapısını oluşturur.",
+        "optionNotes": [
+          "Doğru yanıt; giriş, ısınma, ana bölüm ve soğuma birim antrenmanın (günlük antrenmanın) dört bölümünü oluşturur.",
+          "Mikro antrenman (haftalık plan), haftalık yapılacak birim antrenman sayısını belirler; kendisi giriş-ısınma-ana bölüm-soğuma yapısına sahip değildir, bu yapıyı içeren birim antrenmanlardan oluşur.",
+          "Makro (aylık) antrenman, 2-7 haftalık mikro döngüleri kapsayan daha büyük bir zaman dilimidir; giriş-ısınma-soğuma yapısı birim antrenmana aittir.",
+          "Yıllık antrenman planı, hazırlık-müsabaka-geçiş dönemlerini kapsayan en geniş kapsamlı plandır; bu dört bölümün tanımlandığı düzey değildir.",
+          "Haftalık antrenman (mikro plan), birden fazla birim antrenmanı içerir; giriş-ısınma-ana bölüm-soğuma yapısı birim antrenmanın kendisine aittir."
+        ]
+      },
+      {
+        "id": "extra18",
+        "question": "I. Aerobik dayanıklılık II. Anaerobik dayanıklılık III. Genel dayanıklılık Yukarıda verilenlerden hangileri ‘’enerji oluşumu açısından dayanıklılık’’ kapsamında yer alır?",
+        "options": [
+          "Yalnız I",
+          "Yalnız II",
+          "I – II",
+          "II – III",
+          "I – II – III"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde açıkça belirtildiği üzere 'enerji oluşumu açısından dayanıklılık aerobik ve anaerobik olarak ikiye ayrılır.' Genel dayanıklılık ise ayrı bir sınıflandırma olan 'spor türüne göre dayanıklılık' başlığı altında, her spor dalında bulunması gereken dayanıklılık özelliği olarak tanımlanır; enerji üretim sistemiyle değil spor dalı kapsamıyla ilgilidir. Bu nedenle enerji oluşumu açısından dayanıklılık kapsamına sadece aerobik ve anaerobik dayanıklılık (I-II) girer.",
+        "optionNotes": [
+          "Eksik bir listedir; sadece aerobik dayanıklılığı alır, anaerobik dayanıklılığı dışarıda bırakır, oysa ikisi birlikte bu kapsamı oluşturur.",
+          "Eksik bir listedir; sadece anaerobik dayanıklılığı alır, aerobik dayanıklılığı dışarıda bırakır.",
+          "Doğru yanıt; metinde enerji oluşumu açısından dayanıklılığın aerobik ve anaerobik olarak ikiye ayrıldığı açıkça belirtilmiştir.",
+          "Genel dayanıklılığı da içerir, oysa genel dayanıklılık enerji oluşumuna göre değil spor türüne göre yapılan ayrı bir sınıflandırmaya aittir.",
+          "Genel dayanıklılığı da kapsama dahil eder; ancak genel dayanıklılık, enerji oluşumu açısından yapılan sınıflandırmanın bir parçası değildir."
+        ]
+      },
+      {
+        "id": "extra19",
+        "question": "Aşağıdakilerden hangisi tekniğin öğrenim safhalarından biri değildir?",
+        "options": [
+          "Amaca Yönelik Tanıma ve Anlama",
+          "Kaba Koordinasyon Safhası",
+          "Ayrıntılı ve İnce Koordinasyon Safhası",
+          "Sağlamlaştırma ve Pekiştirme Safhası",
+          "Çok yönlü gelişim safhası"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde tekniğin öğrenimi dört safhadan oluştuğu belirtilir: amaca yönelik tanıma ve anlama safhası, kaba koordinasyon safhası, ayrıntılı ve ince koordinasyon safhası, sağlamlaştırma ve pekiştirme safhası (bu son safhada teknik otomatik hâle gelir). 'Çok yönlü gelişim safhası' bu dört safha arasında sayılmaz; çok yönlü gelişim, antrenman ilkelerinden ayrı bir kavramdır (çocukluk evresinde kazanılan genel fiziksel gelişimle ilgilidir), tekniğin öğrenim safhalarına ait değildir.",
+        "optionNotes": [
+          "Tekniğin öğrenim safhalarından biridir; metinde ilk safha olarak doğrudan sayılmıştır.",
+          "Tekniğin öğrenim safhalarından biridir; metinde ikinci safha olarak doğrudan sayılmıştır.",
+          "Tekniğin öğrenim safhalarından biridir; metinde üçüncü safha olarak doğrudan sayılmıştır.",
+          "Tekniğin öğrenim safhalarından biridir; metinde son safha olarak doğrudan sayılmıştır, bu safhada teknik otomatikleşir.",
+          "Doğru yanıt; çok yönlü gelişim safhası tekniğin öğrenim safhaları arasında sayılmaz, bu kavram ayrı bir antrenman ilkesi olan 'çok yönlü gelişim ilkesi'ne aittir."
+        ]
+      },
+      {
+        "id": "extra20",
+        "question": "Ülkemizde antrenman bilimindeki ilk çalışmalar hangi üniversite tarafından başlatılmıştır?",
+        "options": [
+          "İstanbul Üniversitesi",
+          "Orta Doğu Teknik Üniversitesi",
+          "Atatürk Üniversitesi",
+          "Ege Üniversitesi",
+          "Anadolu Üniversitesi"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 1'e göre antrenman bilimi ülkemizde 1973'te Ege Üniversitesi Spor Hekimliği Enstitüsü'nün kurulmasıyla kurumsallaşmaya başlamıştır; bu nedenle ilk çalışmalar Ege Üniversitesi tarafından başlatılmıştır. 1975'te Spor Akademilerinin kurulması bu süreci takip eden bir diğer önemli adımdır.",
+        "optionNotes": [
+          "İstanbul Üniversitesi, metinde antrenman biliminin ülkemizdeki kurumsallaşma sürecinde ilk adım olarak anılan kurum değildir.",
+          "Orta Doğu Teknik Üniversitesi, bu alandaki ilk çalışmalarla ilişkilendirilen bir kurum olarak metinde geçmez.",
+          "Atatürk Üniversitesi, antrenman biliminin ülkemizde başlatıldığı kurum olarak kaynaklarda belirtilmemiştir.",
+          "Doğru yanıt: Metne göre 1973'te Ege Üniversitesi Spor Hekimliği Enstitüsü'nün kurulması, antrenman bilimindeki ilk çalışmaların başlangıcı olarak kabul edilir.",
+          "Anadolu Üniversitesi, antrenman biliminin ülkemizdeki ilk kurumsal çalışmalarıyla ilişkilendirilen kurum değildir."
+        ]
+      },
+      {
+        "id": "extra21",
+        "question": "Aşağıdakilerden hangisi LTAD modelinde yer alan hem erken hem de geç özelleşen spor dallarından biridir? A. Atletizm B. Güreş C. Boks D. Jimnastik E. Futbol",
+        "options": [
+          "Atletizm",
+          "Güreş",
+          "Boks",
+          "Jimnastik",
+          "Futbol"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1'deki Tablo 1.1'de (LTAD modeline göre erken ve geç özelleşilen spor dalları) atletizm, hem 'Geç Özelleşilen Sporlar' hem de 'Erken Özelleşilen Sporlar' listesinde birlikte yer alan tek branştır. Güreş, boks ve futbol sadece geç özelleşilen sporlar arasında, jimnastik ise sadece erken özelleşilen sporlar arasında sayılmıştır.",
+        "optionNotes": [
+          "Doğru yanıt: Tablo 1.1'de atletizm, hem geç özelleşilen hem de erken özelleşilen spor dalları sütununda ayrı ayrı listelenmiştir.",
+          "Güreş, tabloda sadece geç özelleşilen sporlar arasında yer alır, erken özelleşilen sporlar listesinde geçmez.",
+          "Boks, tabloda hem erken hem geç özelleşilen sporlar listesinde birlikte gösterilmemiştir.",
+          "Jimnastik, tabloda sadece erken özelleşilen sporlar arasında sayılır; geç özelleşilen sporlar listesinde yer almaz.",
+          "Futbol, tabloda sadece geç özelleşilen sporlar arasında yer alır, erken özelleşilen sporlar listesinde bulunmaz."
+        ]
+      },
+      {
+        "id": "extra22",
+        "question": "Antrenmana akut ve kronik uyum ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "options": [
+          "Vücudun özellikle iskelet, kalp ve solunum sisteminde fizyolojik değişiklikler yaratır.",
+          "Önceden yapılan antrenman, sonradan yapılan antrenmanların uyumunu belirgin biçimde etkiler.",
+          "Antrenmana bağlı değişiklikler genetiğe, sıklığa, süreye ve özellikle antrenmanın şiddetine bağlıdır.",
+          "Antrenmanın etkileri, antrenman kesildikten birkaç hafta sonra kaybolur.",
+          "Antrenmanın etkileri haftada bir ya da iki kez yapılan yüklenmeler ile korunabilir."
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1'in 'Antrenmana Akut ve Kronik Uyum' bölümünde (Günay, Şıktar vd., 2017) açıkça belirtildiği üzere 'önceden yapılan antrenman, sonradan yapılan antrenmanların yarattığı antrenman uyumunu belirgin biçimde ETKİLEMEZ.' Soruda verilen ifade bu gerçeği tersine çevirerek 'etkiler' demektedir, bu nedenle yanlıştır. Diğer dört ifade ise metinde birebir aynı şekilde doğru olarak yer almaktadır.",
+        "optionNotes": [
+          "Doğru bir ifadedir: Metinde antrenmanın vücudun iskelet, kalp ve solunum sisteminde fizyolojik değişiklikler yarattığı birebir aynı cümleyle belirtilir.",
+          "Doğru yanıt (yanlış ifade budur): Metin, önceden yapılan antrenmanın sonraki antrenmanların uyumunu belirgin biçimde ETKİLEMEDİĞİNİ söyler; bu seçenek bu ilişkiyi tam tersine çevirmiştir.",
+          "Doğru bir ifadedir: Metinde antrenmana bağlı değişikliklerin genetiğe, sıklığa, süreye ve özellikle şiddete bağlı olduğu aynen belirtilir.",
+          "Doğru bir ifadedir: Metinde antrenmanın etkilerinin, antrenman kesildikten birkaç hafta sonra kaybolacağı birebir ifade edilmiştir.",
+          "Doğru bir ifadedir: Metinde antrenmanın etkilerinin haftada bir ya da iki kez yapılan yüklenmelerle korunabileceği aynen yer alır."
+        ]
+      },
+      {
+        "id": "extra23",
+        "question": "Aşağıdaki taktik sınıflandırmasından hangisi, müsabakada bir sporcunun amaca yönelik davranışlarını içerir?",
+        "options": [
+          "Genel taktik",
+          "Özel taktik",
+          "Bireysel taktik",
+          "Kolektif taktik",
+          "Grup taktiği"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 2'de taktik sınıflandırması açıklanırken 'Bireysel Taktik: Müsabakada bir sporcunun amaca yönelik davranışlarını içerir' ifadesiyle birebir tanımlanmıştır (örneğin şut atan bir sporcuya karşı savunma yapan oyuncunun ne zaman, nasıl davranacağı bireysel taktiktir). Kolektif taktik ise iki ya da daha çok sporcunun işbirliğiyle ortaya koyduğu taktiktir, tek bir sporcunun davranışını ifade etmez.",
+        "optionNotes": [
+          "Genel taktik, tüm spor dallarına uygulanabilen ortak taktik ilkelerini ifade eder, tek bir sporcunun amaca yönelik davranışını tanımlamaz.",
+          "Özel taktik, belirli bir spor dalına özgü taktik anlayışı ifade eder, bireysel davranış tanımı değildir.",
+          "Doğru yanıt: Metinde bu tanım birebir 'Bireysel Taktik' için verilmiştir.",
+          "Kolektif taktik, iki ya da daha fazla sporcunun işbirliği içinde ortaya koyduğu taktiktir, tek bir sporcunun davranışıyla sınırlı değildir.",
+          "Grup taktiği, bireysel-grup-takım taktiği ayrımında bireyden daha büyük bir birimi (grup) ifade eder, tek bir sporcunun davranışını tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra24",
+        "question": "Aşağıdakilerden hangisi sportif tekniğin dinamik özelliklerinden biri değildir?",
+        "options": [
+          "Optimal ivmeleme",
+          "Frenleme",
+          "Kuvvet vuruşu",
+          "Döndürme momenti",
+          "Zamanlandırma"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 2'de sportif tekniğin iki temel özelliği ayrılır: kinematik özellikler (zamanlandırma, uzunluk-mesafe, hızlanma) ve dinamik özellikler (optimal ivmeleme, frenleme, kuvvet vuruşu, döndürme momenti). Zamanlandırma metinde açıkça kinematik özellikler arasında sayılmıştır, dinamik özellik değildir.",
+        "optionNotes": [
+          "Optimal ivmeleme, metinde dinamik özellikler arasında açıkça sayılmıştır.",
+          "Frenleme, dinamik özellikler listesinde metinde yer alır.",
+          "Kuvvet vuruşu, metinde dinamik özellikler arasında sayılan bir unsurdur.",
+          "Döndürme momenti, metinde dinamik özellikler arasında açıkça belirtilmiştir.",
+          "Doğru yanıt: Zamanlandırma, metinde dinamik değil kinematik özellikler arasında (uzunluk-mesafe ve hızlanmayla birlikte) sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra25",
+        "question": "Erkeklerin Jimnastik sporunda branşlaşma yaşı aşağıdakilerden hangisidir?",
+        "options": [
+          "6-7",
+          "7-8",
+          "10-11",
+          "12-14",
+          "15-16"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 3'teki Tablo 3.1'de (Spor dallarına göre spora başlama ve branşlaşma yaşları, Sevim 2001) 'Cimnastik (Erkek)' için branşlaşma yaşı 12-14 olarak verilmiştir; aynı tabloda kadınlar için bu yaş 10-11'dir. Bu nedenle erkeklerde branşlaşma yaşı 12-14'tür.",
+        "optionNotes": [
+          "6-7, tabloda bazı branşlar için spora başlama yaşı olarak verilen bir aralıktır, erkek cimnastikte branşlaşma yaşı değildir.",
+          "7-8, tabloda kadın cimnastik için spora başlama yaşı olarak geçer, erkek branşlaşma yaşı değildir.",
+          "10-11, tabloda kadın cimnastik için branşlaşma yaşı olarak verilmiştir, erkekler için değildir.",
+          "Doğru yanıt: Tablo 3.1'de erkek cimnastik için branşlaşma yaşı 12-14 olarak belirtilmiştir.",
+          "15-16, tabloda güreş ve boks gibi farklı branşlar için branşlaşma yaşı olarak geçer, cimnastikle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra26",
+        "question": "Aşağıdakilerden hangisi Yüklenmenin Ana öğelerinden biri değildir?",
+        "options": [
+          "Yüklenme türü",
+          "Yüklenme kapsamı",
+          "Yüklenme şiddeti",
+          "Yüklenme şiddeti D. Yüklenme süresi",
+          "Yüklenme sıklığı"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 3'e göre yüklenme, nicelik ve nitelik bakımından incelendiğinde dört ana ögeden oluşur: yüklenmenin şiddeti, süresi, sıklığı ve kapsamı. 'Yüklenme türü' bu dört ana ögenin arasında sayılmaz; yüklenme yaklaşımları (standart, doğrusal, basamaklı vb.) ayrı bir konu olup ana ögeler listesine dahil değildir.",
+        "optionNotes": [
+          "Doğru yanıt: Metinde yüklenmenin dört ana ögesi şiddet, süre, sıklık ve kapsam olarak sayılmıştır; 'yüklenme türü' bu listede yer almaz.",
+          "Yüklenme kapsamı, metinde dört ana ögeden biri olarak açıkça sayılmıştır.",
+          "Yüklenme şiddeti, metinde dört ana ögeden biri olarak açıkça belirtilmiştir.",
+          "Bu seçenek kaynak metinde tekrarlanan/bozuk bir ifade içerse de, içerdiği 'yüklenme şiddeti' ve 'yüklenme süresi' kavramlarının her ikisi de metinde ana öge olarak sayılmıştır.",
+          "Yüklenme sıklığı, metinde dört ana ögeden biri olarak açıkça sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra27",
+        "question": "Aşağıdakilerden hangisi Dayanıklılık antrenmanlarının organizmada yarattığı etkilerden biri değildir?",
+        "options": [
+          "Vücut çok kısa sürede toparlanır",
+          "Vital kapasite artar",
+          "Organizmanın enerji kapasitesi azalır",
+          "Kalp güçlenir",
+          "Aktif kılcal damarlar sayısı artar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 4'e göre dayanıklılık antrenmanları organizmada birçok olumlu etki yaratır: vücudun daha kısa sürede toparlanması, vital kapasitenin artması, kalbin güçlenmesi, aktif kılcal damar sayısının artması ve organizmanın enerji kapasitesinin YÜKSELMESİ. 'Organizmanın enerji kapasitesinin azalması' bu olumlu etkilerin tam tersi olduğu için dayanıklılık antrenmanının bir sonucu değildir.",
+        "optionNotes": [
+          "Vücudun çok kısa sürede toparlanması, metinde dayanıklılık antrenmanının olumlu etkilerinden biri olarak sayılmıştır.",
+          "Vital kapasitenin artması, metinde dayanıklılık antrenmanının etkilerinden biri olarak açıkça belirtilmiştir.",
+          "Doğru yanıt: Metinde dayanıklılık antrenmanlarının organizmanın enerji kapasitesini YÜKSELTTİĞİ belirtilir, azalttığı değil; bu seçenek ifadeyi tersine çevirir.",
+          "Kalbin güçlenmesi, metinde dayanıklılık antrenmanının etkilerinden biri olarak sayılmıştır.",
+          "Aktif kılcal damar sayısının artması, metinde dayanıklılık antrenmanının etkilerinden biri olarak açıkça yer alır."
+        ]
+      },
+      {
+        "id": "extra28",
+        "question": "Bir sporcunun minimum zamanda maksimum hıza erişmeye izin veren hızdaki değişim oranı aşağıdakilerden hangisi ile ifade edilir?",
+        "options": [
+          "Sürat",
+          "İvme",
+          "Hareket",
+          "Sprint",
+          "Reaksiyon"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 4'te sürat türleri arasında 'ivme (minimum zamanda maksimum hıza erişme)' olarak tanımlanmıştır; bu tanım soruda verilen 'minimum zamanda maksimum hıza erişmeye izin veren hızdaki değişim oranı' ifadesiyle birebir örtüşür. Sürat daha genel bir kavramdır ve bir mesafeyi en kısa sürede kat etme yeteneğini ifade eder, hızdaki değişim oranını özel olarak tanımlamaz.",
+        "optionNotes": [
+          "Sürat, sporcunun belirli bir mesafeyi en kısa sürede kat edebilme yeteneğidir; hızdaki değişim oranını özel olarak ifade eden ivme kavramından farklıdır.",
+          "Doğru yanıt: İvme, metinde minimum zamanda maksimum hıza erişme olarak tanımlanmıştır, bu da hızdaki değişim oranına karşılık gelir.",
+          "Hareket, süratin türleri arasında bu şekilde özel bir tanımla geçmez, çok genel bir terimdir.",
+          "Sprint sürati, yaklaşık 30 metrelik mesafede oluşturulan süreyi ifade eder, hızdaki değişim oranını tanımlamaz.",
+          "Reaksiyon (sürati), bir uyarana karşı algılama ve tepki gösterme yeteneğidir, hız değişim oranıyla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra29",
+        "question": "Sporcunun bir veya birden fazla uyarana çabuk ve uygun cevap verebilme yeteneğine ne ad verilir?",
+        "options": [
+          "Hareket Sürati",
+          "Hareket dakikliği",
+          "Reaksiyon Zamanı",
+          "Zaman ayarlama",
+          "Denge"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bu tanım reaksiyon zamanının (sürati) kitaptaki tanımına birebir karşılık gelir: bir veya birden fazla uyarana çabuk ve uygun cevap verebilme yeteneği. Ünite 4'te reaksiyon sürati, uyaranın duyu organlarınca algılanmasından kasta mekanik olayın gerçekleşmesine kadar süren bir süreç olarak açıklanmıştır.",
+        "optionNotes": [
+          "Hareket sürati, ilk ve bitiş hareketi arasındaki süreyi ifade eder, uyarana cevap verme yeteneğini değil hareketin kendisinin hızını tanımlar.",
+          "Hareket dakikliği, koordinasyonu etkileyen faktörler arasında geçen, göz-kas koordinasyonuna dayalı bir kavramdır, uyarana cevap verme yeteneğinin tanımı değildir.",
+          "Doğru yanıt: Reaksiyon zamanı, bir veya birden fazla uyarana çabuk ve uygun cevap verebilme yeteneği olarak tanımlanır.",
+          "Zaman ayarlama (zamanlama), hareketin kinematik bir özelliğidir, uyarana tepki verme yeteneğini tanımlamaz.",
+          "Denge, vücudun ağırlık merkezini kontrol ederek istenen pozisyonu koruma becerisidir, uyarana tepki hızıyla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra30",
+        "question": "Sporcuların dışarıdan uygulanan kuvvet ile geliştirdiği esneklik olarak tanımlanan hareketlilik türü aşağıdakilerden hangisidir?",
+        "options": [
+          "Genel Hareketlilik",
+          "Özel Hareketlilik",
+          "Aktif Hareketlilik",
+          "Pasif Hareketlilik",
+          "Statik Hareketlilik"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 5'te hareketlilik sınıflandırmasında pasif hareketlilik, 'dışarıdan uygulanan kuvvetle geliştirilen esneklik' olarak tanımlanır (Sevim, 1997); bu, soruda verilen tanımla birebir örtüşür. Aktif hareketlilik ise tam tersine, kasın kendi kuvvetiyle dış yardım almadan ulaştığı en büyük açıyı ifade eder.",
+        "optionNotes": [
+          "Genel hareketlilik, büyük eklem sistemlerindeki (omurga, kalça, omuz) salınım genişliğini ifade eder, dış kuvvet ayrımına dayanmaz.",
+          "Özel hareketlilik, belirli branşların gerektirdiği özel eklemlerin çalışmasıyla ilgilidir, dış kuvvetle geliştirilen esneklik tanımı değildir.",
+          "Aktif hareketlilik, kasın kendi kuvvetiyle dış yardım almadan ulaştığı en büyük açıdır; bu, dışarıdan uygulanan kuvvetle geliştirilen esnekliğin tam tersidir.",
+          "Doğru yanıt: Pasif hareketlilik, dışarıdan uygulanan kuvvetle geliştirilen esneklik olarak tanımlanır.",
+          "Statik hareketlilik, eklemin belirli bir pozisyonda süreli korunmasıyla ilgilidir, dış kuvvet ayrımına dayalı bir tanım değildir."
+        ]
+      },
+      {
+        "id": "extra31",
+        "question": "Aşağıdakilerden hangisi ‘’Reaktif Çeviklik Antrenmanı’’ alıştırma türlerinden biridir?",
+        "options": [
+          "Yön değiştirmeli sürat alıştırmaları",
+          "Düşük hızda yapılan hızlanma",
+          "Yön değiştirmeli sürat alıştırmaları",
+          "Yanlara adım çalışmaları",
+          "Ayna ve gölge alıştırmaları"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 5'teki Tablo 5.1'de (Sheppard ve Young, 2006) çeviklik antrenman gruplarından 'Reaktif Çeviklik Antrenmanı' kapsamında sayılan alıştırma türlerinden biri 'Yön değiştirmeli sürat alıştırmaları'dır. 'Düşük hızda yapılan hızlanma' ve 'yanlara adım çalışmaları' ise tabloda yön değiştirme tekniğine yönelik alıştırmalar/kapalı beceri alıştırmaları grubunda; 'ayna ve gölge alıştırmaları' ise açık beceri alıştırmaları başlığında yer alır.",
+        "optionNotes": [
+          "Doğru yanıt: Tabloda 'yön değiştirmeli sürat alıştırmaları' reaktif çeviklik antrenmanı kapsamında sayılan bir alıştırma türüdür.",
+          "Düşük hızda yapılan hızlanma, yavaşlama ve yön değiştirme alıştırmaları, tabloda yön değiştirme tekniğine yönelik/kapalı beceri alıştırmaları grubuna aittir, reaktif çeviklik antrenmanı değildir.",
+          "Bu seçenek ilk seçenekle aynı metni (yön değiştirmeli sürat alıştırmaları) tekrar etmektedir; kaynakta bu ifade reaktif çeviklik antrenmanına aittir, ancak soruda doğru yanıt olarak ilk seçenek (A) işaretlenmiştir.",
+          "Öne, geriye ve yanlara adım çalışmaları, tabloda 'yön değiştirme tekniğine yönelik alıştırmalar' grubuna aittir, reaktif çeviklik antrenmanı değildir.",
+          "Ayna ve gölge alıştırmaları, tabloda 'açık beceri alıştırmaları' başlığı altında sayılır; bu, reaktif çeviklik antrenmanından farklı bir alt kategori olarak değerlendirilmiştir."
+        ]
+      },
+      {
+        "id": "extra32",
+        "question": "Aşağıdakilerden hangisi Denge türlerinden biri değildir?",
+        "options": [
+          "Aktif Denge",
+          "Motorsal Denge",
+          "Statik Denge",
+          "Dinamik Denge",
+          "Objeyle Denge"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 5'te denge dört şekilde sınıflandırılır: motorsal denge, statik denge, dinamik denge ve objeyle denge. 'Aktif denge' adıyla ayrı bir denge türü/sınıflandırma kategorisi metinde tanımlanmamıştır; bu nedenle denge türleri arasında sayılmaz.",
+        "optionNotes": [
+          "Doğru yanıt: Metinde 'aktif denge' adıyla ayrı bir denge sınıflandırma kategorisi tanımlanmamıştır.",
+          "Motorsal denge, metinde denge türlerinden biri olarak (farklı ortamlarda kazanılan denge yeterliliği) açıkça sayılmıştır.",
+          "Statik denge, metinde denge türlerinden biri olarak (sabit pozisyonda dengede kalabilme) açıkça sayılmıştır.",
+          "Dinamik denge, metinde denge türlerinden biri olarak (ağırlık merkezinin hareket sırasında adapte edilmesi) açıkça sayılmıştır.",
+          "Objeyle denge, metinde denge türlerinden biri olarak (top, çubuk gibi ekipmanla sağlanan denge) açıkça sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra33",
+        "question": "‘’Her şeyde mükemmel olmak 10 yıllık kapsamlı bir çalışma gerektirir’’ diyen Nobel ödüllü yazar kimdir?",
+        "options": [
+          "Reinhard Selten",
+          "T. J. Sargent",
+          "Gerard Debreu",
+          "Hebert Simon",
+          "John Harsanyi"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 6'da (çok yıllık antrenman planlaması bölümünde, Balyi 2001 kaynaklı) bu söz birebir 'Herbert Simon, Nobel Ödülü Sahibi' olarak alıntılanmıştır: 'Her şeyde mükemmel olmak 10 yıllık kapsamlı bir çalışma gerektirir.' Diğer isimler de Nobel ödüllü ekonomistler olsa da bu alıntıyla ilişkilendirilen kişi metinde Herbert Simon'dur.",
+        "optionNotes": [
+          "Reinhard Selten, Nobel ödüllü bir ekonomisttir ancak metinde bu sözle ilişkilendirilen kişi değildir.",
+          "T. J. Sargent, Nobel ödüllü bir ekonomisttir ancak bu alıntıyla metinde ilişkilendirilmemiştir.",
+          "Gerard Debreu, Nobel ödüllü bir ekonomisttir ancak metinde bu sözün sahibi olarak gösterilmemiştir.",
+          "Doğru yanıt: Metinde bu söz doğrudan 'Herbert Simon, Nobel Ödülü Sahibi' olarak kaynak gösterilmiştir (Balyi, 2001).",
+          "John Harsanyi, Nobel ödüllü bir ekonomisttir ancak metinde bu alıntıyla ilişkilendirilen kişi değildir."
+        ]
+      },
+      {
+        "id": "extra34",
+        "question": "Denge tahtasının uzunluğu kaç metredir?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 7'deki koordinasyon test parkurunda, sporcunun üzerinden geçtiği denge tahtasının 3 metrelik bir alet olduğu (Şekil 7.3) açıkça belirtilmiştir.",
+        "optionNotes": [
+          "2 metre, metinde verilen denge tahtası uzunluğuyla uyuşmamaktadır.",
+          "Doğru yanıt: Metinde denge tahtasının 3 metre uzunluğunda olduğu açıkça belirtilmiştir.",
+          "4 metre, metinde verilen ölçüyle uyuşmayan bir değerdir.",
+          "5 metre, metinde verilen denge tahtası uzunluğundan farklıdır.",
+          "6 metre, metinde belirtilen 3 metrelik ölçüyle örtüşmemektedir."
+        ]
+      },
+      {
+        "id": "extra35",
+        "question": "Koşarak engeller arası slalom testinde engeller arası mesafe kaç cm’dir?",
+        "options": [
+          "60",
+          "70",
+          "80",
+          "90",
+          "100"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 7'de 'Koşarak engeller arası slalom' testinin açıklamasında gerekli malzemeler arasında 'Dört adet dikey engel. Engeller arası mesafe 80 cm'dir.' ifadesiyle bu değer açıkça belirtilmiştir.",
+        "optionNotes": [
+          "60 cm, metinde bu test için değil başka bir koordinasyon parkuru alıştırmasında (örneğin çember çapı) geçen bir ölçüdür.",
+          "70 cm, metinde koşarak engeller arası slalom testi için verilen mesafe değildir.",
+          "Doğru yanıt: Metinde koşarak engeller arası slalom testinde engeller arası mesafenin 80 cm olduğu açıkça belirtilmiştir.",
+          "90 cm, metinde bu test için verilen 80 cm'lik mesafeyle uyuşmamaktadır.",
+          "100 cm, metinde bu testte belirtilen mesafe değildir, başka parkur ölçümleriyle karıştırılmaya yöneliktir."
+        ]
+      },
+      {
+        "id": "extra36",
+        "question": "Aşağıdaki yetenek seçiminde etkili faktörlerden hangisi spor çevresi ile ilgilidir?",
+        "options": [
+          "Öğrenciler",
+          "Öğretmenler",
+          "Yöneticiler",
+          "Fiziki Yapı",
+          "Medya"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 8'deki Şekil 8.5'te (Yetenek seçiminde etkili faktörler, Müniroğlu ve Özen 2017) faktörler aile, okul, yönetim, spor çevresi ve coğrafya başlıkları altında gruplanmıştır. 'Spor çevresi' başlığı altında antrenörler, hakemler, seyirciler ve medya sayılırken; öğrenciler, öğretmenler, yöneticiler ve fiziki yapı 'okul' başlığı altında yer alır. Bu nedenle verilen seçeneklerden sadece medya spor çevresiyle ilgilidir.",
+        "optionNotes": [
+          "Öğrenciler, şekildeki sınıflandırmada 'okul' başlığı altında sayılmıştır, spor çevresiyle ilgili değildir.",
+          "Öğretmenler, şekildeki sınıflandırmada 'okul' başlığı altında yer alır, spor çevresi kategorisine ait değildir.",
+          "Yöneticiler, şekildeki sınıflandırmada 'okul' başlığı altında sayılmıştır, spor çevresiyle ilişkilendirilmemiştir.",
+          "Fiziki yapı, şekildeki sınıflandırmada 'okul' başlığı altında yer alır, spor çevresi kategorisinde değildir.",
+          "Doğru yanıt: Medya, şekildeki sınıflandırmada antrenörler, hakemler ve seyircilerle birlikte 'spor çevresi' başlığı altında sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra37",
+        "question": "Çocuk ve gençlerde sürat, çeviklik ve yön değiştirme hızı antrenman örneklerine bakıldığında yeni başlayanlarda sürat yeteneği özellikle neşeli, eğlenceli küçük oyunlarla geliştirilir. Aşağıdakilerden hangisi bu oyunlardan biri değildir?",
+        "options": [
+          "Bayrak kapmaca",
+          "Yakartop",
+          "Köşe kapmaca",
+          "İstop oyunu",
+          "Uzun mesafe tempo koşusu"
+        ],
+        "correctIndex": 4,
+        "explanation": "Çocuk ve gençlerde sürat gelişimi, kısa süreli, patlayıcı ve ani yön değiştirme içeren eğlenceli küçük oyunlarla (bayrak kapmaca, yakartop, köşe kapmaca, istop gibi) sağlanır. Uzun mesafe tempo koşusu ise düşük-orta şiddette, uzun süreli bir dayanıklılık çalışmasıdır; sürat ve çeviklik gelişimine yönelik eğlenceli bir oyun niteliği taşımaz, bu nedenle listedeki diğerlerinden farklıdır.",
+        "optionNotes": [
+          "Kısa mesafede hızlı kaçma-kovalama içeren, sürat ve çevikliği eğlenceli biçimde geliştiren tipik bir çocuk oyunudur.",
+          "Ani yön değiştirme, hızlanma ve reaksiyon gerektiren, sürat gelişimi için kullanılan klasik bir oyundur.",
+          "Hızlı kaçma ve yakalama temelli, çocuklarda sürat ve çevikliği geliştiren eğlenceli bir oyundur.",
+          "Ani duruş ve hızlanma gerektiren, reaksiyon ve sürat gelişimine katkı sağlayan bir oyundur.",
+          "Doğru yanıt: Uzun mesafe tempo koşusu, kısa süreli hız oyunlarının aksine uzun süreli ve düşük-orta şiddetli bir dayanıklılık çalışmasıdır, eğlenceli bir sürat oyunu değildir."
+        ]
+      },
+      {
+        "id": "extra38",
+        "question": "İskandinav ve Alman koşucuların 1920–1930 yılları arasında geliştirdiği, “hız oyunu” olarak da bilinen; sürekli antrenmanın kısa süreli yüksek şiddetteki aktivitelerle birleştirilmesine dayanan dayanıklılık antrenman türüne ne ad verilir?",
+        "options": [
+          "İnterval antrenman",
+          "Devamlı koşu yöntemi",
+          "Fartlek yöntemi",
+          "Piramidal antrenman",
+          "Dairesel (Circuit) antrenman"
+        ],
+        "correctIndex": 2,
+        "explanation": "Fartlek (İsveççede 'hız oyunu' anlamına gelir), 1920-1930'lu yıllarda İskandinav ve Alman koşucular tarafından geliştirilmiş, sürekli koşu temelli antrenmanın içine kısa süreli yüksek şiddetteki hızlanmaların serpiştirildiği bir dayanıklılık antrenman yöntemidir. Bu özgün tanım ve isimlendirme doğrudan Fartlek yöntemine karşılık gelir.",
+        "optionNotes": [
+          "İnterval antrenman, belirli şiddet ve dinlenme aralıklarının sistematik olarak tekrarlandığı farklı bir yöntemdir; 'hız oyunu' olarak anılmaz.",
+          "Devamlı koşu yöntemi, şiddetin sabit tutulduğu kesintisiz bir koşu biçimidir; içine yüksek şiddetli kısa aktiviteler serpiştirilmez.",
+          "Doğru yanıt: Fartlek, tam olarak bu tanıma uyan, İskandinav ve Alman kökenli 'hız oyunu' yöntemidir.",
+          "Piramidal antrenman, yükün ve tekrarın basamaklı biçimde artıp azaldığı bir kuvvet antrenman yöntemidir, bu tarihsel tanımla ilgisi yoktur.",
+          "Dairesel (Circuit) antrenman, farklı istasyonlarda art arda yapılan alıştırmaları ifade eder; Fartlek'in 'hız oyunu' tanımıyla örtüşmez."
+        ]
+      },
+      {
+        "id": "extra39",
+        "question": "Atletik gelişim aşaması için alıştırmalardan hangisi gelişmiş basit mekânsal oryantasyon ve kinestetik algı içerisinde yer almaz?",
+        "options": [
+          "Engel üzerinden yön değiştirerek koşu",
+          "Topu farklı yönlerden yakalama ve atma",
+          "Gözler kapalı denge yürüyüşü",
+          "İşaretlere göre sıçrama ve yön bulma",
+          "Maksimal ağırlıkla squat çalışması"
+        ],
+        "correctIndex": 4,
+        "explanation": "Mekânsal oryantasyon (boyutsal yön belirleme) ve kinestetik algı, sporcunun kendini ve çevresini üç boyutlu olarak algılaması, yön bulması ve vücut pozisyonunu hissetmesiyle ilgili beceri özellikleridir; bu nedenle yön değiştirerek koşu, farklı yönlerden top yakalama, gözler kapalı denge ve işaretlere göre yön bulma gibi alıştırmalar bu kategoriye girer. Maksimal ağırlıkla yapılan squat çalışması ise doğrudan maksimal kuvvet gelişimini hedefleyen bir kuvvet antrenmanıdır ve mekânsal oryantasyon/kinestetik algı becerisiyle ilgili değildir.",
+        "optionNotes": [
+          "Yön değiştirme gerektirdiği için mekânsal oryantasyon becerisini doğrudan çalıştıran bir alıştırmadır.",
+          "Farklı yönlerden gelen bir nesneyi algılayıp tepki vermeyi gerektirdiğinden kinestetik algı ve yön belirleme becerisine hizmet eder.",
+          "Görsel ipucu olmadan denge ve vücut pozisyonunu hissetmeyi gerektirdiğinden kinestetik algının tipik bir örneğidir.",
+          "İşaretlere göre karar verip yön bulmayı içerdiğinden mekânsal oryantasyon becerisini geliştiren bir alıştırmadır.",
+          "Doğru yanıt: Maksimal ağırlıkla squat, saf bir maksimal kuvvet çalışmasıdır; yön bulma veya kinestetik algıyla ilgili bir beceri bileşeni içermez."
+        ]
+      },
+      {
+        "id": "extra40",
+        "question": "Kuvvet testlerinden biridir. Üst vücut kas kuvveti ve dayanıklılığını ölçer. 10 yaş ve üzerindeki katılımcılar uygulayabilir. Bacaklar uzatılmış, ayak parmakları yerde, sırt düz; eller omuz genişliğinde yerdeyken kollar 90° bükülüp tekrar açılır. Yukarıda bir bölümü açıklanan kuvvet testi aşağıdakilerden hangisidir?",
+        "options": [
+          "Mekik testi",
+          "Şınav (Push-up) testi",
+          "Durarak uzun atlama testi",
+          "El kavrama kuvveti testi",
+          "Barfiks testi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tarif edilen pozisyon ve hareket (bacaklar uzatılmış, ayak parmakları yerde, sırt düz, eller omuz genişliğinde yerde, kolların 90° bükülüp açılması) klasik şınav (push-up) testinin standart uygulama şeklidir. Bu test üst vücut (göğüs, omuz, kol) kas kuvveti ve dayanıklılığını ölçer ve genellikle 10 yaş ve üzerindeki katılımcılara uygulanabilir.",
+        "optionNotes": [
+          "Mekik testi karın kaslarının kuvvet ve dayanıklılığını ölçer; sırtüstü pozisyonda yapılır, tarif edilen push-up pozisyonuyla uyuşmaz.",
+          "Doğru yanıt: tarif edilen pozisyon ve hareket birebir şınav (push-up) testinin uygulanışıdır.",
+          "Durarak uzun atlama testi bacak kaslarının patlayıcı kuvvetini ölçer, üst vücutla ilgili değildir.",
+          "El kavrama kuvveti testi, bir dinamometreyle elin pençe kuvvetini ölçer; kolların 90° bükülüp açılmasıyla ilgisi yoktur.",
+          "Barfiks testi bir çubukta asılı kalarak çekilme hareketini içerir, yerde yapılan şınav pozisyonundan farklıdır."
+        ]
+      },
+      {
+        "id": "extra41",
+        "question": "Antrenman planlaması, temel antrenman değişkenlerinin nispeten kısa zaman dilimi içinde yönetilmesini; antrenman periyotlaması ise sürecin daha uzun zaman dilimlerinde yönetilmesini kapsar. Buna göre aşağıdakilerden hangisi antrenman planlaması örneğinden biridir?",
+        "options": [
+          "4 yıllık olimpik hazırlık sürecinin belirlenmesi",
+          "Sezonun makro, mezo ve mikro döngülere ayrılması",
+          "Haftalık antrenmanda set, tekrar ve dinlenme sürelerinin belirlenmesi",
+          "Yarışma döneminin yıllık olarak yapılandırılması",
+          "Uzun vadeli performans gelişim modelinin oluşturulması"
+        ],
+        "correctIndex": 2,
+        "explanation": "Soru kökünde antrenman planlamasının 'kısa zaman dilimi' içindeki değişkenlerin yönetimini kapsadığı belirtilmiştir. Haftalık bir antrenmanda set, tekrar ve dinlenme sürelerinin belirlenmesi, birim/haftalık antrenman düzeyinde yapılan kısa süreli, somut bir düzenlemedir; bu nedenle antrenman planlamasının tipik bir örneğidir. Diğer seçenekler (4 yıllık olimpik süreç, makro-mezo-mikro döngü ayrımı, yıllık yarışma yapılandırması, uzun vadeli gelişim modeli) uzun zaman dilimlerini kapsayan periyotlama örnekleridir.",
+        "optionNotes": [
+          "4 yıllık olimpik hazırlık süreci, çok yıllık ve uzun soluklu bir periyotlama örneğidir, kısa zaman dilimiyle ilgili değildir.",
+          "Sezonun makro-mezo-mikro döngülere ayrılması, periyotlamanın tanımının kendisidir; uzun süreçlerin yapılandırılmasıdır.",
+          "Doğru yanıt: haftalık antrenmanda set-tekrar-dinlenme sürelerinin belirlenmesi, kısa zaman dilimli, somut bir antrenman planlaması örneğidir.",
+          "Yarışma döneminin yıllık olarak yapılandırılması, bütün bir sezonu kapsayan periyotlama kararıdır, kısa süreli değildir.",
+          "Uzun vadeli performans gelişim modeli oluşturma, çok yıllık bir süreci ifade eder, antrenman planlamasının kısa zamanlı niteliğiyle örtüşmez."
+        ]
+      },
+      {
+        "id": "extra42",
+        "question": "Kuvvet antrenman yöntemlerinden biridir. Egzersiz yoğunluğunun setten sete değişmesini ifade eder. En belirgin özelliği her basamakta yük artarken tekrar sayısının azalmasıdır. Yüklenme yoğunluğu çok yüksek olduğu için egzersiz sayısı seçiminde genellikle birkaç egzersiz tercih edilir. Yukarıda açıklanan kuvvet antrenman yöntemi aşağıdakilerden hangisidir?",
+        "options": [
+          "Devamlı yüklenme yöntemi",
+          "Piramidal (Piramid) yöntem",
+          "Dairesel (Circuit) yöntem",
+          "İnterval yöntem",
+          "Fartlek yöntemi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tarif edilen özellikler (setten sete yoğunluk değişimi, yük artarken tekrar sayısının azalması, yüksek yoğunluk nedeniyle az sayıda egzersiz seçimi) piramidal (piramit) kuvvet antrenman yönteminin klasik tanımıdır. Bu yöntemde sporcu her basamakta daha ağır yükle daha az tekrar yaparak kuvvetini geliştirir.",
+        "optionNotes": [
+          "Devamlı yüklenme yönteminde yoğunluk sabit tutulur, setten sete değişen bir yük-tekrar ilişkisi yoktur.",
+          "Doğru yanıt: piramidal yöntem, yük arttıkça tekrar sayısının azaldığı, yüksek yoğunluk nedeniyle az egzersiz içeren yöntemdir.",
+          "Dairesel (circuit) yöntem, farklı istasyonlarda düşük-orta yoğunlukla art arda yapılan çok sayıda egzersizi içerir, tanımla uyuşmaz.",
+          "İnterval yöntem, yüklenme ve dinlenme sürelerinin sistematik olarak değiştirilmesine dayanır, setten sete yük-tekrar basamaklanmasını tanımlamaz.",
+          "Fartlek yöntemi bir dayanıklılık/koşu antrenman yöntemidir, kuvvet antrenmanı setleriyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra43",
+        "question": "Aşağıdakilerden hangisi sporculardaki iç yük değişkenine örnek olarak verilemez?",
+        "options": [
+          "Psiko-sosyal ölçekler",
+          "Kan laktat düzeyi",
+          "Telemetreler",
+          "Kalp atım/dk",
+          "Video hareket analizi"
+        ],
+        "correctIndex": 4,
+        "explanation": "İç yük (internal load), dış yüklenmenin (antrenmanın hacim, şiddet gibi nicel özelliklerinin) organizmada oluşturduğu fizyolojik ve psikolojik tepkileri ifade eder; kalp atım hızı, kan laktat düzeyi, psiko-sosyal/algılanan zorluk ölçekleri ve kalp atım hızını kablosuz olarak izleyen telemetrik cihazlar bu iç tepkilerin ölçümünde kullanılır. Video hareket analizi ise sporcunun kat ettiği mesafe, hız, ivmelenme gibi dışarıdan gözlemlenebilen hareket verilerini (dış yükü) ortaya koyan bir yöntemdir, organizmanın içsel fizyolojik/psikolojik tepkisini doğrudan ölçmez.",
+        "optionNotes": [
+          "Sporcunun antrenmana verdiği öznel/psikolojik tepkiyi ölçtüğü için iç yükün tipik bir göstergesidir.",
+          "Kan laktat düzeyi, yüklenmeye karşı organizmanın biyokimyasal tepkisini gösterdiğinden klasik bir iç yük değişkenidir.",
+          "Telemetreler, genellikle kalp atım hızını kablosuz olarak izlemek için kullanılır; bu yönüyle iç yükü (fizyolojik tepkiyi) ölçen bir araçtır.",
+          "Kalp atım hızı, organizmanın yüklenmeye verdiği fizyolojik tepkinin en klasik göstergesi olup doğrudan bir iç yük değişkenidir.",
+          "Doğru yanıt: video hareket analizi, sporcunun dışarıdan gözlemlenen hareket/mesafe verilerini (dış yükü) ortaya koyar; organizmanın içsel fizyolojik tepkisini ölçmediği için iç yük örneği olarak verilemez."
+        ]
+      },
+      {
+        "id": "extra44",
+        "question": "Bacak kaslarının gücünü ölçmenin en basit ve en popüler yolu aşağıdakilerden hangisidir?",
+        "options": [
+          "Mekik testi",
+          "Şınav testi",
+          "Durarak uzun atlama testi",
+          "El kavrama kuvveti testi",
+          "12 dakika koşu testi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Durarak uzun atlama (standing long jump) testi, hiçbir özel ekipman gerektirmeden, sporcunun iki ayağıyla aynı anda sıçrayarak kat ettiği mesafenin ölçülmesiyle bacak kaslarının patlayıcı gücünü değerlendiren en basit ve en yaygın kullanılan saha testidir. Bu nedenle bacak kuvvetini ölçmede en popüler yöntem olarak kabul edilir.",
+        "optionNotes": [
+          "Mekik testi karın kaslarının kuvvet ve dayanıklılığını ölçer, bacak gücüyle ilgili değildir.",
+          "Şınav testi üst vücut (kol-göğüs) kas kuvvet ve dayanıklılığını ölçer, bacak gücünü değerlendirmez.",
+          "Doğru yanıt: durarak uzun atlama, ekipman gerektirmeyen, basit ve yaygın bir bacak gücü (patlayıcı kuvvet) testidir.",
+          "El kavrama kuvveti testi, elin pençe kuvvetini bir dinamometreyle ölçer, bacak kaslarıyla ilgisi yoktur.",
+          "12 dakika koşu testi (Cooper benzeri), aerobik dayanıklılık kapasitesini ölçer, bacak kuvvetinin doğrudan bir göstergesi değildir."
+        ]
+      },
+      {
+        "id": "extra45",
+        "question": "Esneklik antrenman yöntemlerinden biri olan ve proprioseptörlerin uyarılmasıyla sinir-kas mekanizmasının hızlandırılması ya da desteklenmesini amaçlayan yönteme ne ad verilir?",
+        "options": [
+          "Statik germe yöntemi",
+          "Dinamik germe yöntemi",
+          "Balistik germe yöntemi",
+          "PNF (Proprioseptif Nöromüsküler Fasilitasyon) yöntemi",
+          "Aktif germe yöntemi"
+        ],
+        "correctIndex": 3,
+        "explanation": "PNF (Proprioseptif Nöromüsküler Fasilitasyon) yöntemi, kas ve tendonlardaki proprioseptörlerin (örneğin golgi tendon organı ve kas iğciklerinin) bilinçli olarak uyarılması yoluyla sinir-kas mekanizmasının desteklenmesini ve esneklik gelişiminin hızlandırılmasını amaçlayan bir germe tekniğidir. Bu yöntem genellikle bir yardımcı eşliğinde uygulanan germe-gevşeme-kasılma döngülerini içerir.",
+        "optionNotes": [
+          "Statik germe, bir pozisyonda hareketsiz olarak belirli bir süre beklemeyi içerir; proprioseptörlerin bilinçli uyarılmasına dayalı bir mekanizma değildir.",
+          "Dinamik germe, kontrollü ve tekrarlı hareketlerle eklem hareket genişliğini artırmayı hedefler, proprioseptif fasilitasyon mekanizmasına dayanmaz.",
+          "Balistik germe, sıçrayıcı/yaylanan hareketlerle eklem sınırının zorlanmasıdır, sakatlanma riski taşır ve proprioseptif fasilitasyonla tanımlanmaz.",
+          "Doğru yanıt: PNF yöntemi, tanımda belirtilen proprioseptör uyarımı yoluyla sinir-kas mekanizmasını destekleme ilkesine birebir karşılık gelir.",
+          "Aktif germe, sporcunun kendi kas kuvvetiyle dış yardım almadan yaptığı germedir, proprioseptif uyarım mekanizmasına özel olarak dayanmaz."
+        ]
+      },
+      {
+        "id": "extra46",
+        "question": "Yetenek seçimi akış şemasında hangi bölüm bulunmaktadır?",
+        "options": [
+          "Ön değerlendirme ve tarama aşaması",
+          "Sadece müsabaka planlaması",
+          "Sponsorluk anlaşmaları",
+          "Tesis yönetimi planı",
+          "Hakem görevlendirme süreci"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yetenek seçimi süreci, çocukların geniş bir havuz içinden ön değerlendirme ve tarama testleriyle belirlenmesiyle başlar; bunu test-ölçüm, izleme-yeniden değerlendirme ve branşa yönlendirme aşamaları takip eder. Sponsorluk anlaşmaları, tesis yönetimi ve hakem görevlendirme gibi konular ise yetenek seçimi sürecinin bir parçası değil, sporun organizasyonel/idari yönetimiyle ilgili tamamen farklı konulardır.",
+        "optionNotes": [
+          "Doğru yanıt: ön değerlendirme ve tarama, yetenek seçimi sürecinin ilk ve temel aşamasıdır.",
+          "Müsabaka planlaması, antrenman periyotlamasıyla ilgili bir konudur; yetenek seçimi akış şemasının bir bölümü değildir.",
+          "Sponsorluk anlaşmaları, sporun ticari/idari yönetimiyle ilgilidir, yetenek seçimi sürecinin bir parçası değildir.",
+          "Tesis yönetimi planı, spor tesislerinin işletilmesiyle ilgili bir idari konudur, yetenek seçimi akışında yer almaz.",
+          "Hakem görevlendirme süreci, müsabaka organizasyonuna ait bir konudur; yetenek seçimiyle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra47",
+        "question": "Aşağıdakilerden hangisi koordinatif yetiler arasında yer almaz?",
+        "options": [
+          "Yabancı dil yeteneği",
+          "Ritim yeteneği",
+          "Reaksiyon yeteneği",
+          "Kinestetik ayrımlama yeteneği",
+          "Denge yeteneği"
+        ],
+        "correctIndex": 0,
+        "explanation": "Koordinatif yetiler; ritim, reaksiyon, kinestetik ayrımlama, denge, mekânsal oryantasyon gibi merkezî sinir sistemi ile iskelet-kas sisteminin uyumlu çalışmasına dayanan motorik özelliklerdir. Yabancı dil yeteneği ise bilişsel/dilsel bir beceridir, motor koordinasyonla ilgisi olmayan tamamen farklı bir yetenek alanıdır.",
+        "optionNotes": [
+          "Doğru yanıt: yabancı dil yeteneği dilsel-bilişsel bir yetenektir, motorik koordinasyon yetileri arasında sayılmaz.",
+          "Ritim yeteneği, hareketlerin zaman ve dinamiğine uygun biçimde gerçekleştirilmesini sağlayan tanınmış bir koordinatif yetidir.",
+          "Reaksiyon yeteneği, bir uyarana hızlı ve doğru tepki verme becerisidir, koordinatif yetiler arasında açıkça sayılır.",
+          "Kinestetik ayrımlama yeteneği, hareketteki hassas farkları ve gereken kuvvet/hız miktarını hissetme becerisidir, koordinatif yetilerin temel bileşenlerindendir.",
+          "Denge yeteneği, vücudun ağırlık merkezini kontrol ederek pozisyonu koruma becerisidir, koordinatif yetiler arasında yer alan klasik bir özelliktir."
+        ]
+      },
+      {
+        "id": "extra48",
+        "question": "Uzun süre devam eden müsabaka ya da antrenmanlarda tüm organizmanın yüklenmeye karşı dayanma ve sürdürme kapasitesini ifade eden kavram aşağıdakilerden hangisidir?",
+        "options": [
+          "Sürat",
+          "Kuvvet",
+          "Dayanıklılık",
+          "Esneklik",
+          "Çeviklik"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dayanıklılık, sporcunun fiziki ve fizyolojik yorgunluğa karşı direnme ve bu direnci uzun süre sürdürebilme gücü olarak tanımlanır; kalp-dolaşım, solunum ve sinir sistemiyle doğrudan ilişkilidir. Bu tanım, soruda belirtilen 'uzun süreli müsabaka/antrenmanda yüklenmeye dayanma ve sürdürme kapasitesi' ifadesiyle birebir örtüşür.",
+        "optionNotes": [
+          "Sürat, bir mesafeyi en kısa sürede kat etme yeteneğidir; uzun süreli yorgunluğa dayanmayla ilgili değildir.",
+          "Kuvvet, bir dirence karşı koyma ya da onu yenme yeteneğidir; uzun süreli dayanma kapasitesini değil anlık güç üretimini ifade eder.",
+          "Doğru yanıt: tanım birebir dayanıklılık kavramına aittir.",
+          "Esneklik, eklem hareket genişliğiyle ilgilidir; yorgunluğa dayanma kapasitesini tanımlamaz.",
+          "Çeviklik, hızlı ve kontrollü yön değiştirme becerisidir; uzun süreli yüklenmeye dayanmayla ilgili bir kavram değildir."
+        ]
+      },
+      {
+        "id": "extra49",
+        "question": "Aşağıdakilerden hangisi antrenman periyotlanmasının uygulamaya aktarılmasında dikkat edilecek hususlardan biri değildir?",
+        "options": [
+          "Yüklenme ve dinlenme dengesinin planlanması",
+          "Sporcunun bireysel özelliklerinin dikkate alınması",
+          "Yarışma takviminin göz önünde bulundurulması",
+          "Performansın düzenli izlenmesi ve değerlendirilmesi",
+          "Sporcunun antrenman yüklemeleri kadar dinlenme zamanlamalarının da takip edilmesi"
+        ],
+        "correctIndex": 3,
+        "explanation": "Periyotlamanın uygulamaya aktarılmasında asıl odak; yüklenme-dinlenme dengesinin planlanması, sporcunun bireysel özelliklerinin (bireyselleştirme ilkesi) dikkate alınması, yarışma takvimine göre dönemlerin yapılandırılması ve dinlenme zamanlamalarının yüklenmeyle birlikte takip edilmesi gibi doğrudan planlama/uygulama unsurlarıdır. Performansın düzenli izlenmesi ve değerlendirilmesi ise daha çok ölçme-değerlendirme (test ve ölçüm) sürecine ait bir faaliyettir; periyotlamanın kendisinin uygulamaya aktarılmasına özgü bir husus olarak ayrıca sayılmaz. Not: Bu soru için net bir kaynak listesi bulunamadığından, cevap en mantıklı ayrıma dayanılarak seçilmiştir ve diğer sorulara kıyasla daha düşük bir kesinlik taşır.",
+        "optionNotes": [
+          "Yüklenme ve dinlenme dengesinin planlanması, periyotlamanın temel taşlarından biri olarak doğrudan uygulamaya aktarılması gereken bir husustur.",
+          "Sporcunun bireysel özelliklerinin dikkate alınması, bireyselleştirme ilkesi gereği periyotlama uygulamasında vazgeçilmez bir unsurdur.",
+          "Yarışma takviminin göz önünde bulundurulması, periyotlamanın (dönemlemenin) doğrudan yarışma takvimine göre şekillendirilmesi gerektiği için temel bir husustur.",
+          "Düşük güvenilirlikle seçilen yanıt: performansın düzenli izlenmesi/değerlendirilmesi, periyotlamanın uygulamaya aktarılmasından ayrı, ölçme-değerlendirme sürecine ait bir faaliyet olarak değerlendirilmiştir.",
+          "Dinlenme zamanlamasının antrenman yüklemeleri kadar takip edilmesi, yüklenme-dinlenme dengesinin pratikteki uzantısı olup periyotlama uygulamasının doğrudan bir parçasıdır."
+        ]
+      },
+      {
+        "id": "extra50",
+        "question": "Yetenek seçimi akış şemasında aşağıdakilerden hangisi bulunmaz?",
+        "options": [
+          "Ön tarama ve değerlendirme",
+          "Test ve ölçümler",
+          "İzleme ve yeniden değerlendirme",
+          "Yetenek seçimi yöntemlerinin belirsizliği",
+          "Branşa yönlendirme"
+        ],
+        "correctIndex": 3,
+        "explanation": "Yetenek seçimi süreci; ön tarama ve değerlendirme, test ve ölçümler, izleme ve yeniden değerlendirme ile branşa yönlendirme gibi somut, sıralı uygulama basamaklarından oluşan bir akış şeması olarak kurgulanır. 'Yetenek seçimi yöntemlerinin belirsizliği' ise bir uygulama aşaması değil, sürecin eleştirisine/tartışmasına ait soyut bir ifadedir; bu nedenle akış şemasında yer alan somut bir bölüm değildir.",
+        "optionNotes": [
+          "Ön tarama ve değerlendirme, yetenek seçimi sürecinin ilk somut aşamasıdır, akış şemasında yer alır.",
+          "Test ve ölçümler, seçilen adayların bilimsel testlerle değerlendirildiği, akış şemasında açıkça bulunan bir aşamadır.",
+          "İzleme ve yeniden değerlendirme, sporcunun gelişiminin periyodik olarak takip edildiği, akış şemasının bir parçası olan bir aşamadır.",
+          "Doğru yanıt: 'yetenek seçimi yöntemlerinin belirsizliği' bir uygulama aşaması değil, sürece yönelik soyut bir eleştiridir; akış şemasında somut bir bölüm olarak yer almaz.",
+          "Branşa yönlendirme, sürecin sonunda sporcunun uygun spor dalına yönlendirildiği, akış şemasının son aşamasıdır."
+        ]
+      },
+      {
+        "id": "extra51",
+        "question": "Belirli sayıda alıştırmanın çok az bir dinlenme aralığı verilerek arka arkaya uygulanması aşağıdakilerden hangisi ile ifade edilir?",
+        "options": [
+          "Interval antrenman",
+          "Piramidal antrenman",
+          "Dairesel (Circuit) antrenman",
+          "Fartlek antrenman",
+          "Devamlı antrenman"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dairesel (circuit) antrenman, önceden belirlenmiş sayıda alıştırmanın (istasyonun) çok kısa dinlenme aralıklarıyla art arda, bir döngü (circuit) hâlinde uygulanmasıdır. Bu tanım soruda verilen 'belirli sayıda alıştırmanın çok az dinlenmeyle arka arkaya uygulanması' ifadesiyle birebir örtüşür.",
+        "optionNotes": [
+          "İnterval antrenman, yüklenme ve dinlenme sürelerinin planlı biçimde değiştiği bir yöntemdir, ama tanımlayıcı özelliği 'az dinlenmeyle art arda alıştırma' değil, yüklenme-dinlenme oranının sistematik kontrolüdür.",
+          "Piramidal antrenman, yük artarken tekrar sayısının azaldığı bir kuvvet yöntemidir, art arda az dinlenmeli alıştırma dizisini tanımlamaz.",
+          "Doğru yanıt: dairesel (circuit) antrenman, tam olarak az dinlenmeli, art arda uygulanan belirli sayıda alıştırmayı ifade eder.",
+          "Fartlek antrenman, sürekli koşuya kısa yüksek şiddetli bölümlerin eklenmesidir, istasyon tipi alıştırma dizisiyle ilgili değildir.",
+          "Devamlı antrenman, kesintisiz ve sabit şiddette uzun süreli bir çalışmadır, art arda farklı alıştırmaların dizilimini ifade etmez."
+        ]
+      },
+      {
+        "id": "extra52",
+        "question": "Toparlanma önlemleri ve yöntemlerinden hangisi termoterapi (ısı terapisi) uygulamalarına örnektir?",
+        "options": [
+          "Buz banyosu",
+          "Kontrast duş",
+          "Sauna uygulaması",
+          "Kompresyon çorabı kullanımı",
+          "Aktif toparlanma koşusu"
+        ],
+        "correctIndex": 2,
+        "explanation": "Termoterapi, vücuda sıcaklık/ısı uygulanarak yapılan toparlanma yöntemidir; sauna, bu tanıma birebir uyan klasik bir ısı terapisi örneğidir ve kas gevşemesini, kan akımını artırarak toparlanmaya yardımcı olur. Buz banyosu bunun tam tersi olan kriyoterapiye (soğuk terapi) örnektir.",
+        "optionNotes": [
+          "Buz banyosu, düşük sıcaklık uygulayan bir kriyoterapi (soğuk terapi) yöntemidir, termoterapinin tam tersidir.",
+          "Kontrast duş, sıcak ve soğuk suyun ardışık uygulanmasına dayanır; sadece ısı terapisi değil, soğuk ve sıcağın birleşimidir.",
+          "Doğru yanıt: sauna, vücuda yüksek ısı uygulayan tipik bir termoterapi yöntemidir.",
+          "Kompresyon çorabı kullanımı, basınç uygulayarak kan dolaşımını desteklemeye yönelik mekanik bir toparlanma yöntemidir, ısı terapisiyle ilgili değildir.",
+          "Aktif toparlanma koşusu, hafif tempolu hareketle laktik asidin uzaklaştırılmasını sağlayan aktif bir yöntemdir, ısı uygulaması değildir."
+        ]
+      },
+      {
+        "id": "extra53",
+        "question": "Aşağıdakilerden hangisi maksimal oksijen tüketimi (VO₂ maks) kullanımını en iyi ifade eder?",
+        "options": [
+          "Kasın tek seferde üretebildiği maksimal kuvvet",
+          "Organizmanın birim zamanda kullanabildiği en yüksek oksijen miktarı",
+          "Eklem hareket açıklığının en üst düzeyi",
+          "Kısa sürede ulaşılan en yüksek koşu hızı",
+          "Kasın yorgunluğa karşı esneklik kapasitesi"
+        ],
+        "correctIndex": 1,
+        "explanation": "VO₂ maks (maksimal oksijen tüketimi), organizmanın birim zamanda (genellikle dakikada) kullanabildiği en yüksek oksijen miktarı olarak tanımlanır ve aerobik dayanıklılık kapasitesinin en önemli göstergesidir. Elit dayanıklılık sporcularında bu değer sedanter bireylere kıyasla çok daha yüksektir.",
+        "optionNotes": [
+          "Kasın tek seferde üretebildiği maksimal kuvvet, maksimal kuvvet tanımıdır, oksijen tüketimiyle ilgili değildir.",
+          "Doğru yanıt: VO₂ maks birim zamanda tüketilebilen en yüksek oksijen miktarını ifade eder.",
+          "Eklem hareket açıklığının en üst düzeyi esneklik kavramıyla ilgilidir, oksijen tüketimiyle bağlantısı yoktur.",
+          "Kısa sürede ulaşılan en yüksek koşu hızı maksimum sürat tanımıdır, VO₂ maks ile karıştırılmamalıdır.",
+          "Kasın yorgunluğa karşı esneklik kapasitesi anlamsız/karma bir ifadedir ve VO₂ maks tanımıyla örtüşmez."
+        ]
+      },
+      {
+        "id": "extra54",
+        "question": "Toparlanmayı etkilediği düşünülen etmenlerle ilgili aşağıdakilerden hangisi doğrudur?",
+        "options": [
+          "Uyku süresi ve kalitesi toparlanmayı olumlu etkiler",
+          "Yetersiz beslenme toparlanmayı hızlandırır",
+          "Sürekli yüksek yoğunluklu antrenman toparlanmayı artırır",
+          "Dehidrasyon (sıvı kaybı) toparlanmayı iyileştirir",
+          "Dinlenme verilmeden yapılan antrenmanlar toparlanmayı geliştirir"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yeterli ve kaliteli uyku, organizmanın hormonal, sinirsel ve kas onarım süreçlerini desteklediğinden toparlanmayı olumlu etkileyen en temel etmenlerden biridir. Diğer seçenekler ise gerçekte toparlanmayı olumsuz etkileyen durumları (yetersiz beslenme, sürekli yüksek yoğunluklu antrenman, dehidrasyon, dinlenmeden yüklenme) tam tersi bir ifadeyle sunduğu için yanlıştır.",
+        "optionNotes": [
+          "Doğru yanıt: uyku süresi ve kalitesi, organizmanın onarım ve yenilenme süreçlerini desteklediğinden toparlanmayı olumlu etkiler.",
+          "Yetersiz beslenme, enerji ve besin eksikliği yaratarak toparlanmayı hızlandırmaz, tam tersine geciktirir.",
+          "Sürekli yüksek yoğunluklu antrenman, yeterli dinlenme olmadan uygulandığında sürantrenmana yol açarak toparlanmayı artırmaz, tam tersine zorlaştırır.",
+          "Dehidrasyon (sıvı kaybı), hücresel ve metabolik süreçleri bozarak toparlanmayı iyileştirmez, tam tersine olumsuz etkiler.",
+          "Dinlenme verilmeden yapılan antrenmanlar, yorgunluğun birikmesine ve sürantrenmana yol açarak toparlanmayı geliştirmez, tam tersine engeller."
+        ]
+      },
+      {
+        "id": "extra55",
+        "question": "Ani bir uyarana karşı en kısa sürede verilen tepkinin süresine ..................... adı verilir? Bu süre belirli bir sınırın altına düşmez, yaşam boyunca değişiklik gösterebilir ve motivasyon, uyarılmışlık ile dikkat düzeyinden etkilenir. Paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "options": [
+          "Çeviklik",
+          "Dayanıklılık",
+          "Esneklik",
+          "Reaksiyon zamanı",
+          "Maksimal kuvvet"
+        ],
+        "correctIndex": 3,
+        "explanation": "Reaksiyon zamanı, bir uyarının duyu organlarından algılanıp merkezî sinir sistemine iletilmesi, orada işlenip bir emrin oluşması ve bu emrin kaslara ulaşarak harekete dönüşmesi arasında geçen süredir; bu süre genetik temelli olduğu için belirli bir sınırın altına düşmez ve motivasyon, uyarılmışlık (arousal) ile dikkat düzeyinden etkilenir. Paragrafta tarif edilen tüm özellikler reaksiyon zamanı kavramının tanımıyla birebir örtüşür.",
+        "optionNotes": [
+          "Çeviklik, yön değiştirme ve hızlanma-yavaşlama becerisidir; tek bir uyarana verilen tepki süresini tanımlamaz.",
+          "Dayanıklılık, uzun süreli yorgunluğa karşı direnme kapasitesidir, anlık tepki süresiyle ilgili değildir.",
+          "Esneklik, eklem hareket genişliğiyle ilgilidir, uyarana tepki süresini tanımlamaz.",
+          "Doğru yanıt: tanımda geçen 'ani uyarana en kısa sürede verilen tepki süresi, genetik sınır, motivasyon ve dikkatten etkilenme' ifadeleri birebir reaksiyon zamanına aittir.",
+          "Maksimal kuvvet, kasın üretebildiği en yüksek kuvvet miktarıdır, bir uyarana tepki süresiyle ilgili bir kavram değildir."
+        ]
+      },
+      {
+        "id": "extra56",
+        "question": "Eğitsel oyunlar aktivite analizinin görev oluşturma bölümü kaç gruba ayrılmaktadır?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctIndex": 3,
+        "explanation": "Hareket eğitimi ve oyun öğretiminde görev (task) yapılandırma genel olarak dört tür görevin kullanılmasına dayanır: bilgilendirme görevi, genişletme görevi, iyileştirme/düzeltme görevi ve uygulama görevi. Bu dörtlü yapı, eğitsel oyun ve etkinliklerin aktivite analizinde görev oluşturma bölümünün dört gruba ayrılmasının temelini oluşturur. Not: Bu soru için incelenen ünite kaynaklarında (Hareket Eğitimi ve Oyun I bölümü) birebir bu ifadeyi doğrulayan bir cümle bulunamadı; cevap, spor pedagojisinde yaygın kabul gören görev yapılandırma modeline dayanarak en mantıklı seçenek olarak işaretlenmiştir.",
+        "optionNotes": [
+          "Görev oluşturma tek bir grupla sınırlı değildir; bilgilendirme, genişletme, düzeltme ve uygulama gibi farklı görev türleri ayrı ayrı ele alınır.",
+          "İki grup, görev oluşturma sürecindeki çeşitliliği (bilgilendirme, genişletme, düzeltme, uygulama) kapsamaz, bu nedenle yetersizdir.",
+          "Üç grup da yaygın kabul gören dörtlü görev yapılandırma modeliyle (bilgilendirme-genişletme-düzeltme-uygulama) örtüşmez.",
+          "Doğru kabul edilen seçenek: görev oluşturma, bilgilendirme, genişletme, düzeltme/iyileştirme ve uygulama görevleri olmak üzere dört gruba ayrılır.",
+          "Beş grup, bu konuda genel kabul gören modelden daha fazla kategori öne sürer ve kaynaklarla desteklenmez."
+        ]
+      },
+      {
+        "id": "extra57",
+        "question": "Aşağıdakilerden hangisi hareket eğitimi taslağı ve dört konseptle çocukları tanıştırdıktan sonraki süreçte bunları hatırlamak için yapılması gereken etkinliklerin başında gelir?",
+        "options": [
+          "Gözlem yapmak",
+          "Soru sormak",
+          "Konuyu tekrar etmek",
+          "Aktivite hazırlamak",
+          "Sınav yapmak"
+        ],
+        "correctIndex": 2,
+        "explanation": "Hareket eğitiminde çocuklara temel hareket kavramları (vücut, alan, efor, ilişki farkındalığı) tanıtıldıktan sonra bu kavramların kalıcı öğrenilmesi için en öncelikli adım, öğrenilen bilginin düzenli olarak tekrar edilmesidir; tekrar, hareket kavramlarının hatırlanmasını ve sonraki etkinliklerde doğru uygulanmasını sağlayan ilk basamaktır. Not: Bu soru için ilgili ünite metninde birebir bu ifadeyi doğrulayan bir cümle bulunamadığından, cevap hareket/motor öğrenimi ilkelerine dayanan en mantıklı seçenek olarak işaretlenmiştir.",
+        "optionNotes": [
+          "Gözlem yapmak, kavramları tanıma aşamasında antrenöre fayda sağlar ama çocuğun öğrendiklerini hatırlaması için yapması gereken ilk etkinlik değildir.",
+          "Soru sormak, anlama düzeyini kontrol etmek için kullanılabilir ama hatırlama/kalıcılık için önerilen birincil yöntem değildir.",
+          "Doğru kabul edilen seçenek: konuyu tekrar etmek, öğrenilen hareket kavramlarının kalıcı hale gelmesi için ilk ve temel etkinliktir.",
+          "Aktivite hazırlamak antrenörün görevidir; çocuğun kavramları hatırlaması için yapması gereken bir etkinlik olarak tanımlanmaz.",
+          "Sınav yapmak, hatırlamayı pekiştirmek için kullanılan bir yöntem değildir; bu yaş grubunda uygun bir uygulama olarak da geçmez."
+        ]
+      },
+      {
+        "id": "extra58",
+        "question": "Aşağıdakilerden hangisi lokomotor hareketlerden biri değildir?",
+        "options": [
+          "Yürüme",
+          "Eğilme",
+          "Koşma",
+          "Atlama",
+          "Sıçrama"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kaynak ünitede (Hareket Eğitimi ve Oyun I, Tablo 3.1 Beceri Temaları) temel hareket becerileri \"Yer Değiştirme Gerektiren Hareketler\" (lokomotor: yürüme, koşma, atlama-sıçrama, adım al-sek, galop-kayma, yuvarlanma, tırmanma) ve \"Dengeleme Gerektiren Hareketler\" (lokomotor olmayan: eğilme, esnetme, dönme, salınım vb.) olarak ayrılmıştır. Eğilme, vücudun bir noktadan başka bir noktaya yer değiştirmesini içermediği için dengeleme (lokomotor olmayan) grubuna girer; diğer dört seçenek ise yer değiştirme gerektiren lokomotor hareketlerdir.",
+        "optionNotes": [
+          "Yürüme, Tablo 3.1'de yer değiştirme gerektiren (lokomotor) hareketler arasında açıkça sayılmıştır.",
+          "Doğru yanıt: Eğilme, aynı tabloda dengeleme gerektiren (lokomotor olmayan) hareketler arasında yer alır, vücut yer değiştirmez.",
+          "Koşma, yer değiştirme gerektiren (lokomotor) hareketler listesinde açıkça belirtilmiştir.",
+          "Atlama, yer değiştirme gerektiren (lokomotor) hareketler arasında (atlama-sıçrama) sayılmıştır.",
+          "Sıçrama da aynı şekilde yer değiştirme gerektiren (lokomotor) hareketler grubuna aittir."
+        ]
+      },
+      {
+        "id": "extra59",
+        "question": "Bir öğrenciyi seçip ilişkiler kartı astırılır ve bu kart kelimeler ile ilgili aklına gelenlerin neler olduğu, tahtaya neler çizebileceği öğrenciye sorulur. Bu aktivitenin hangi günlerde sınıf ortamında yapılması tercih edilir?",
+        "options": [
+          "Yağmurlu",
+          "Sisli",
+          "Bulutlu",
+          "Güneşli",
+          "Rüzgarlı"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kaynak ünitede eğitsel oyunların oynandıkları alanlara göre sınıflandırılması açıklanırken, spor salonu bulunmayan okullarda kış aylarında veya yağmurlu havalarda beden eğitimi dersinin sınıf ortamında yapılmak zorunda olduğu belirtilmiştir. Bu nedenle tahtada kelime/çizim temelli ilişkiler kartı etkinliği gibi sınıf içi etkinlikler özellikle yağmurlu günlerde tercih edilir.",
+        "optionNotes": [
+          "Doğru yanıt: Metinde spor salonu olmayan okullarda yağmurlu havalarda dersin sınıfta yapılmak zorunda olduğu açıkça belirtilmiştir.",
+          "Sisli hava, metinde sınıf ortamına geçişin gerekçesi olarak belirtilen koşullar arasında sayılmamıştır.",
+          "Bulutlu hava, açık alanda etkinlik yapmayı engelleyen bir durum olarak metinde geçmez.",
+          "Güneşli hava açık alan etkinlikleri için uygun bir koşuldur, sınıf ortamına geçişi gerektirmez.",
+          "Rüzgarlı hava da metinde sınıf ortamına geçişin sebebi olarak belirtilen durumlar arasında yer almaz."
+        ]
+      },
+      {
+        "id": "extra60",
+        "question": "Aşağıdakilerden hangisi vücut aktivitelerinde kullanılan ekipmanlardan biri değildir?",
+        "options": [
+          "Halatlar",
+          "Hulahoplar",
+          "Dubalar",
+          "Yumuşak toplar",
+          "Matlar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Vücut farkındalığı etkinlikleri (vücut parçalarını tanıma, vücut şekilleri, denge, ağırlık transferi gibi) genellikle halat, hulahop, yumuşak top ve mat gibi doğrudan vücutla etkileşime giren veya vücut şekli/denge çalışmasını destekleyen ekipmanlarla yapılır. Dubalar (huniler) ise daha çok alan/yol sınırlama, slalom veya mesafe belirleme amacıyla yer değiştirme (lokomotor) ve alan farkındalığı etkinliklerinde kullanılan işaretleyici ekipmanlardır; bu nedenle vücut aktivitelerinin tipik ekipmanları arasında sayılmaz. Not: Bu ayrım, ünitede verilen etkinlik tablolarındaki araç-gereç listelerinden çıkarılan genel bir değerlendirmedir, soruyu doğrulayan birebir bir cümle bulunamamıştır.",
+        "optionNotes": [
+          "Halatlar, ünitedeki itme-çekme ve denge etkinliklerinde (örn. halat çekme oyunu) vücut aktivitesi ekipmanı olarak kullanılmıştır.",
+          "Hulahoplar, vücut şekli, denge ve alan farkındalığı etkinliklerinde (çember atma/yakalama gibi) sıkça kullanılan bir ekipmandır.",
+          "Doğru kabul edilen seçenek: Dubalar, vücut aktivitelerinden çok yer değiştirme/slalom ve alan sınırlama etkinliklerinde kullanılan işaretleyici ekipmanlardır.",
+          "Yumuşak toplar, vücut parçalarını kullanma ve nesne kontrolü aktivitelerinde yaygın olarak kullanılan bir ekipmandır.",
+          "Matlar, denge ve yuvarlanma gibi vücut aktivitelerinde güvenlik ve uygulama amacıyla doğrudan kullanılan temel ekipmanlardandır."
+        ]
+      },
+      {
+        "id": "extra61",
+        "question": "Aşağıdakilerden hangisi efor aktivitelerinin konseptlerinden biridir?",
+        "options": [
+          "Yer",
+          "Seviye",
+          "Vücut şekilleri",
+          "Vücut parçaları",
+          "Zaman"
+        ],
+        "correctIndex": 4,
+        "explanation": "Kaynak ünitedeki Temel Hareket Kavramları tablosuna (Tablo 3.12) göre Efor Farkındalığı (\"Vücut Nasıl Hareket Eder?\") zaman, tempo, güç ve akıcılık bileşenlerinden oluşur. Bu nedenle \"Zaman\" doğrudan efor (çaba) konseptinin bir alt bileşenidir; diğer seçenekler ise alan farkındalığı (yer, seviye) ve vücut farkındalığı (vücut şekilleri, vücut parçaları) konseptlerine aittir.",
+        "optionNotes": [
+          "Yer, tabloda Alan Farkındalığı konseptinin bir bileşenidir (kişisel/genel alan), efor konseptine ait değildir.",
+          "Seviye (düşük-orta-yüksek-derin), Alan Farkındalığı konseptinin alt bileşenlerinden biridir, efor ile ilgili değildir.",
+          "Vücut şekilleri, Vücut Farkındalığı konseptiyle ilişkilidir, efor farkındalığı kapsamında sayılmaz.",
+          "Vücut parçaları, Vücut Farkındalığı ve Hareket İlişkileri konseptleriyle ilgilidir, efor konseptinin bir bileşeni değildir.",
+          "Doğru yanıt: Zaman, tabloda Efor Farkındalığı konseptinin (zaman-tempo-güç-akıcılık) açıkça sayılan bir bileşenidir."
+        ]
+      },
+      {
+        "id": "extra62",
+        "question": "Aşağıdakilerden hangisi beden eğitimi programlarının ve aktivitelerinin ana amaçlarından biri değildir?",
+        "options": [
+          "Çapraz satış yoluyla müşteriden elde edilen kârları artırmak",
+          "Ürün yönetiminden müşteri yönetimlerine yönelmek",
+          "Kültürel mirasın korunmasını sağlamak",
+          "Çocukların gündelik yaşamında kullanabilecekleri kelime dağarcığını oluşturmak",
+          "Toplumsal değerlere katkı sağlamak"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beden eğitimi ve hareket eğitimi programlarının amaçları arasında kültürel mirasın korunması, çocuklara hareket/kavram kelime dağarcığı kazandırılması ve toplumsal değerlere (kurallara uyma, işbirliği, saygı gibi) katkı sağlanması yer alır; bunlar kaynak ünitede oyunun ve hareket eğitiminin çocuk gelişimine etkileri bölümünde doğrudan veya dolaylı olarak desteklenmektedir. \"Çapraz satış yoluyla müşteriden kâr artırma\" ise tamamen ticari/pazarlama alanına ait bir kavramdır ve beden eğitimi programlarının eğitimsel amaçlarıyla hiçbir ilgisi yoktur. Not: Seçenekler arasında \"ürün yönetiminden müşteri yönetimine yönelmek\" ifadesi de pedagojik bir amaç gibi görünmemektedir; bu soru bankasındaki seçenek kümesinde olası bir karışıklık olabileceği düşünülmüş, en açık biçimde alana yabancı olan ticari ifade (çapraz satış/kâr artırma) doğru yanıt olarak işaretlenmiştir.",
+        "optionNotes": [
+          "Doğru kabul edilen seçenek: Bu ifade tamamen pazarlama/satış terminolojisine aittir, beden eğitimi programlarının eğitimsel amaçlarıyla ilgisi yoktur.",
+          "Bu seçenek de işletme/pazarlama diline ait bir ifadedir ve beden eğitimi programının klasik amaçları arasında yer almaz; ancak sorunun tek doğru cevap beklentisi nedeniyle en belirgin biçimde alana yabancı olan ilk seçenek işaretlenmiştir.",
+          "Kültürel mirasın korunması, oyun ve hareket eğitiminin toplumsal/kültürel aktarım işlevine dayanan, kaynakta desteklenen bir amaçtır.",
+          "Hareket kavramlarının öğrenilmesi çocuğun kelime dağarcığını geliştirir; bu, hareket eğitiminin amaçları arasında metinde vurgulanmıştır.",
+          "Toplumsal değerlere katkı sağlamak (kurallara uyma, işbirliği, paylaşma vb.), oyunun sosyal gelişim üzerine etkisi başlığında doğrudan desteklenen bir amaçtır."
+        ]
+      },
+      {
+        "id": "extra63",
+        "question": "Aşağıdakilerden hangisi konum konsepti aktivitelerinden biridir?",
+        "options": [
+          "Beni taklit et",
+          "Statik hedef alma",
+          "Eşleşme ve yuvarlanma",
+          "Baş aşağı",
+          "Bir ortakla iş birliği"
+        ],
+        "correctIndex": 1,
+        "explanation": "Konum (yer/location) konsepti, hareket eğitiminde bireyin kendi kişisel alanında sabit kalarak (hareket etmeden) mı yoksa genel alanda yer değiştirerek mi hareket ettiğini ayırt etmeye dayanır. \"Statik hedef alma\" etkinliği, çocuğun yer değiştirmeden (durağan/kişisel alanda) bir pozisyon veya hedef alması anlamına geldiğinden konum/yer konsepti ile en doğrudan ilişkili olan seçenektir. Diğer seçenekler (taklit etme, eşleşme, baş aşağı, ortakla iş birliği) daha çok vücut veya ilişki konseptlerine örnektir. Not: Bu aktivitelerin isimleri kaynak ünite metinlerinde birebir geçmemektedir; cevap, hareket kavramları çerçevesine dayanan en mantıklı seçenek olarak işaretlenmiştir.",
+        "optionNotes": [
+          "Beni taklit et, bir eş/liderin hareketini takip etmeyi içerir; bu daha çok hareket ilişkileri (eşle çalışma) konseptine örnektir.",
+          "Doğru kabul edilen seçenek: Statik hedef alma, yer değiştirmeden sabit bir konumda durmayı gerektirdiği için konum/yer konseptiyle ilişkilendirilir.",
+          "Eşleşme ve yuvarlanma, bir eşle hareketleri eşleştirmeyi içerdiğinden hareket ilişkileri konseptine daha yakındır.",
+          "Baş aşağı, vücudun aldığı bir şekil/pozisyon olduğundan vücut farkındalığı konseptine örnektir, konum konseptine ait değildir.",
+          "Bir ortakla iş birliği, doğrudan hareket ilişkileri (eş/grup ile çalışma) konseptinin bir örneğidir."
+        ]
+      },
+      {
+        "id": "extra64",
+        "question": "1930’larda Deutsche Sporthochschule Köln (Alman Spor Okulu) isimli üniversitenin kurulmasına katkı sağlayarak hareket eğitiminde büyük öncülerden biri olmuştur. Yukarıdakilerden hangisidir?",
+        "options": [
+          "Rudolf von Laban",
+          "Liselott Diem",
+          "François Delsarte",
+          "Marie Curie",
+          "Humphry Davy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Liselott Diem, Alman Spor Okulu'nun (Deutsche Sporthochschule Köln) kurulma sürecine katkı sağlamış ve hareket eğitimi alanında öncü isimlerden biri olarak kabul edilmiştir. Marie Curie (fizik/kimya bilimci) ve Humphry Davy (kimyager) tamamen farklı bilim alanlarına aittir ve hareket eğitimiyle ilgisi yoktur; Rudolf von Laban hareket eğitiminin kurucularından olsa da bu üniversitenin kurulmasına katkı sağlayan kişi olarak anılmaz, François Delsarte ise 19. yüzyılda ifade/beden hareketi teorisyenidir, bu üniversite ile ilişkilendirilmez.",
+        "optionNotes": [
+          "Rudolf von Laban hareket eğitiminin önemli kurucularından biridir, fakat bu üniversitenin kurulmasına katkısı metinde/genel kaynaklarda bu şekilde anılmaz.",
+          "Doğru yanıt: Liselott Diem, Deutsche Sporthochschule Köln'ün kuruluşuna katkı sağlamış, hareket eğitiminde öncü bir isimdir.",
+          "François Delsarte, beden ifadesi ve hareket teorisi üzerine çalışmış 19. yüzyıl teorisyenidir, bu üniversite ile ilişkilendirilmez.",
+          "Marie Curie bir fizikçi/kimyagerdir, hareket eğitimi veya spor bilimleriyle hiçbir ilgisi yoktur.",
+          "Humphry Davy bir kimyagerdir, hareket eğitimi tarihinde herhangi bir rolü bulunmamaktadır."
+        ]
+      },
+      {
+        "id": "extra65",
+        "question": "Aşağıdaki aktivite türlerinden hangisi zaman, güç, akış ve odak konseptlerini içerir?",
+        "options": [
+          "Efor aktiviteleri",
+          "Mekân aktiviteleri",
+          "Rekreatif aktiviteler",
+          "Vücut aktiviteleri",
+          "İlişki aktiviteleri"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kaynak ünitedeki Temel Hareket Kavramları tablosuna göre Efor Farkındalığı (\"Vücut Nasıl Hareket Eder?\") zaman, tempo/güç ve akıcılık gibi bileşenleri kapsar; bu bileşenler genel hareket eğitimi literatüründe zaman, güç, akış ve odak (dikkat) olarak da adlandırılır. Bu nedenle soruda tarif edilen dört kavram doğrudan efor aktivitelerine aittir; mekân (alan), vücut ve ilişki aktiviteleri ise farklı kavram gruplarını (yer/yön/seviye, vücut şekilleri, eşle-grupla ilişki) kapsar.",
+        "optionNotes": [
+          "Doğru yanıt: Efor aktiviteleri, zaman-güç-akış (ve odak) gibi \"vücudun nasıl hareket ettiği\" ile ilgili kavramları kapsar.",
+          "Mekân (alan) aktiviteleri; kişisel-genel alan, yön, seviye ve yol gibi \"vücudun nerede hareket ettiği\" ile ilgili kavramları içerir, zaman-güç ile ilgili değildir.",
+          "Rekreatif aktiviteler, kaynak ünitede ayrı bir hareket kavramı grubu olarak tanımlanmaz, bu nedenle bu dörtlü kavram setiyle ilişkilendirilemez.",
+          "Vücut aktiviteleri, vücudun ne yapabileceği (vücut parçaları, şekiller, ağırlık transferi) ile ilgilidir, zaman-güç-akış konseptleriyle değil.",
+          "İlişki aktiviteleri, vücudun nesne, eş veya grupla ilişkisini kapsar; zaman-güç-akış gibi efor bileşenleriyle doğrudan ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra66",
+        "question": "Hareket zorluğu yaşayan çocukların gözlemlenmesi neticesinde herhangi bir problem tespit edilmesi durumunda hangi rehber çerçevesinde müdahale programı uygulanmalıdır?",
+        "options": [
+          "Manual Physical Therapy for Pain Relief",
+          "Stay in Step in Tool 5",
+          "Halk Sağlığı Rehberi",
+          "Adım Adım Fiziksel Aktivite Rehberi",
+          "Diagnostic and Statistical Manual of Mental Disorders"
+        ],
+        "correctIndex": 3,
+        "explanation": "Hareket/motor zorluğu yaşayan çocuklarda tespit edilen problemlere yönelik müdahale programları, doğrudan fiziksel aktivite ve hareket gelişimine özgü, adım adım uygulanabilir bir rehber çerçevesinde planlanmalıdır. \"Adım Adım Fiziksel Aktivite Rehberi\" bu amaca uygun, çocuklar için fiziksel aktivite temelli bir müdahale kılavuzu olarak diğer seçeneklerden ayrılır; DSM bir ruhsal bozukluk tanı kılavuzudur, \"Manual Physical Therapy for Pain Relief\" ağrı tedavisine yönelik bir fizyoterapi yaklaşımıdır ve \"Halk Sağlığı Rehberi\" ile \"Stay in Step in Tool 5\" bu bağlamda tanımlanmış spesifik hareket müdahale kılavuzları değildir. Not: Bu soru için ünite kaynaklarında birebir doğrulayan bir ifade bulunamamış, cevap seçenekler arasındaki en uygun eşleşmeye dayanarak işaretlenmiştir.",
+        "optionNotes": [
+          "Manual Physical Therapy for Pain Relief, ağrı tedavisine yönelik bir fizyoterapi yaklaşımıdır; çocuklarda hareket gelişimi müdahalesi için genel bir rehber değildir.",
+          "Stay in Step in Tool 5, hareket zorluğu müdahalesi için tanımlı, bilinen bir rehber adı değildir; anlamsız/çeldirici bir seçenektir.",
+          "Halk Sağlığı Rehberi, genel bir kavramdır ve çocuklarda hareket zorluğuna özgü bir müdahale rehberi olarak tanımlanmaz.",
+          "Doğru kabul edilen seçenek: Adım Adım Fiziksel Aktivite Rehberi, fiziksel aktivite temelli, çocuklara özgü müdahale programları için en uygun seçenektir.",
+          "Diagnostic and Statistical Manual of Mental Disorders (DSM), ruhsal bozuklukların tanısı için kullanılan bir kılavuzdur, motor/hareket müdahalesiyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra67",
+        "question": "Aşağıdakilerden hangisi fiziksel aktivite problemi yaşayan çocukların ailelerinin çocuklarına yakıştırmış olduğu sıfatlar arasında yer almaz?",
+        "options": [
+          "Yaramaz",
+          "Şımarık",
+          "Garip",
+          "Tembel",
+          "Zeki"
+        ],
+        "correctIndex": 4,
+        "explanation": "Fiziksel aktivite/hareket problemi yaşayan çocuklar, hareket beceri eksiklikleri nedeniyle çevreleri (bazen aileleri) tarafından genellikle olumsuz biçimde \"yaramaz\", \"şımarık\", \"garip\" veya \"tembel\" gibi sıfatlarla yanlış biçimde etiketlenir; bu etiketler çocuğun asıl sorununun (motor beceri eksikliği) fark edilmemesinden kaynaklanır. \"Zeki\" ise olumlu bir sıfat olup bu olumsuz yakıştırmalar grubuna ait değildir.",
+        "optionNotes": [
+          "Yaramaz, hareket/motor becerisi zayıf olan çocuklara sıkça yakıştırılan olumsuz bir sıfattır.",
+          "Şımarık, aynı şekilde fiziksel aktivite problemine bağlı davranışların yanlış yorumlanmasından kaynaklanan olumsuz bir etikettir.",
+          "Garip, hareketlerindeki acemilik/uyumsuzluk nedeniyle çocuğa yakıştırılan olumsuz bir sıfattır.",
+          "Tembel, hareket etmekten çekinen çocuklar için sıkça kullanılan, motor beceri sorununu göz ardı eden olumsuz bir etikettir.",
+          "Doğru yanıt: Zeki olumlu bir sıfattır ve fiziksel aktivite problemi yaşayan çocuklara yakıştırılan olumsuz etiketler arasında yer almaz."
+        ]
+      },
+      {
+        "id": "extra68",
+        "question": "Özel Olimpiyatlar ilk olarak hangi yıl yapılmıştır?",
+        "options": [
+          "1996",
+          "1698",
+          "1998",
+          "1986",
+          "1968"
+        ],
+        "correctIndex": 4,
+        "explanation": "Özel Olimpiyatlar (Special Olympics), Eunice Kennedy Shriver'ın girişimiyle zihinsel engelli bireylerin spora katılımını desteklemek amacıyla kurulmuş ve ilk Özel Olimpiyat Yaz Oyunları 1968 yılında Chicago'da düzenlenmiştir.",
+        "optionNotes": [
+          "1996, Özel Olimpiyatların ilk düzenlendiği yıl değildir; bu tarihte zaten düzenli olarak sürdürülen oyunlar devam ediyordu.",
+          "1698, tarihsel olarak anlamsız/çeldirici bir tarihtir, Özel Olimpiyatlarla hiçbir ilgisi yoktur.",
+          "1998, Özel Olimpiyatların kuruluş tarihinden 30 yıl sonrasına denk gelir, ilk düzenleme yılı değildir.",
+          "1986, Özel Olimpiyatların ilk yapıldığı tarih değildir, kuruluştan sonraki bir dönemdir.",
+          "Doğru yanıt: Özel Olimpiyatlar ilk olarak 1968 yılında Chicago'da düzenlenmiştir."
+        ]
+      },
+      {
+        "id": "extra69",
+        "question": "“Seviyeni Göster” isimli aktivitede hangi ekipmanlar kullanılmaktadır?",
+        "options": [
+          "Yün yumaklar",
+          "Davul",
+          "Yumuşak toplar",
+          "Matlar",
+          "Hulahoplar"
+        ],
+        "correctIndex": 4,
+        "explanation": "\"Seviye\" (düşük-orta-yüksek-derin), alan farkındalığı konseptinin bir alt bileşenidir ve bu kavramı somutlaştırmak için genellikle farklı yüksekliklerde tutulan veya yerleştirilen hulahoplar kullanılır; çocuklar hulahopların seviyesine göre (yerde, bel hizasında, baş üstünde) farklı hareketler yaparak \"seviye\" kavramını deneyimler. Not: Bu aktivitenin adı kaynak ünite metinlerinde birebir geçmemektedir; cevap, alan farkındalığı/seviye konseptiyle en çok örtüşen ekipmana dayanılarak işaretlenmiştir.",
+        "optionNotes": [
+          "Yün yumaklar, genellikle vücut parçası tanıma veya taklit etkinliklerinde kullanılır, seviye kavramıyla doğrudan ilişkilendirilmez.",
+          "Davul, ritim ve tempo (efor farkındalığı) etkinliklerinde kullanılan bir ekipmandır, seviye kavramıyla ilgili değildir.",
+          "Yumuşak toplar, nesne kontrolü etkinliklerinde (atma-tutma-yuvarlama) kullanılır, seviye kavramını göstermek için tipik bir ekipman değildir.",
+          "Matlar, denge ve yuvarlanma etkinliklerinde kullanılır, seviye farkındalığı kavramına özgü bir ekipman değildir.",
+          "Doğru kabul edilen seçenek: Hulahoplar, farklı yüksekliklerde tutularak düşük-orta-yüksek seviye kavramını göstermek için kullanılabilecek en uygun ekipmandır."
+        ]
+      },
+      {
+        "id": "extra70",
+        "question": "Esneklik ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+        "options": [
+          "Esneklik doğuştan gelen bir motorik özelliktir.",
+          "Esneklik gelişimi uzun vadede gerçekleşir",
+          "Esneklik aylık gelişen bir motorik özelliktir.",
+          "Esneklik günden güne gelişen bir motorik özelliktir.",
+          "Esneklik sadece kadınlara özgü bir motorik özelliktir."
+        ],
+        "correctIndex": 3,
+        "explanation": "Antrenman bilimi kaynağında (Genel Antrenman Bilimi ünitesi, \"Antrenman Yükünün Sürekli Artırılması İlkesi\") biyomotor özelliklerin farklı zaman ölçeklerinde geliştiği belirtilir: esneklik günden güne, kuvvet haftadan haftaya, sürat aydan aya, dayanıklılık ise ay-yıl sürecinde gelişir. Bu nedenle esnekliğin günden güne gelişen bir motorik özellik olduğu ifadesi doğrudur; esneklik doğuştan gelen sabit bir özellik değildir, belirli bir cinsiyete özgü de değildir ve aylık ölçekte gelişen özellik sürattir, esneklik değildir.",
+        "optionNotes": [
+          "Esneklik doğuştan gelen sabit bir özellik değildir; antrenmanla ve yaşa bağlı olarak değişen, geliştirilebilen bir motorik özelliktir.",
+          "\"Uzun vadede gerçekleşir\" ifadesi esnekliğin gerçek gelişim hızını yansıtmaz; kaynakta esneklik en hızlı (günden güne) gelişen özellik olarak belirtilir.",
+          "Aylık gelişim ölçeği kaynakta sürat/hız için belirtilmiştir, esneklik için değildir.",
+          "Doğru yanıt: Kaynakta esnekliğin günden güne geliştiği açıkça belirtilmiştir, bu da onu en hızlı gelişen motorik özellik yapar.",
+          "Esneklik cinsiyete özgü bir özellik olarak tanımlanmaz; her iki cinsiyette de gelişebilen bir motorik özelliktir."
+        ]
+      },
+      {
+        "id": "extra71",
+        "question": "Aşağıdakilerden hangisi fiziksel aktivitenin yararlarından biri değildir?",
+        "options": [
+          "Zihinsel yarar",
+          "Sosyal yarar",
+          "Ekonomik yarar",
+          "Fiziksel yarar",
+          "Ruhsal yarar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Fiziksel aktivitenin yararları genellikle fiziksel (bedensel sağlık, kondisyon), zihinsel/ruhsal (psikolojik iyi oluş, stres azaltma) ve sosyal (iletişim, iş birliği, aidiyet) olmak üzere bireysel gelişim boyutlarında sınıflandırılır. \"Ekonomik yarar\" ise bireyin kendi gelişimine yönelik doğrudan bir fiziksel aktivite yararı olarak değil, dolaylı ve daha çok toplumsal/sağlık sistemi düzeyinde tartışılan bir kavramdır; bu nedenle klasik bireysel yarar sınıflamasına (fiziksel-zihinsel-sosyal-ruhsal) dahil edilmez.",
+        "optionNotes": [
+          "Zihinsel yarar (dikkat, algı, problem çözme gelişimi), fiziksel aktivitenin bilinen yararlarından biridir.",
+          "Sosyal yarar (iş birliği, iletişim, kurallara uyma), fiziksel aktivite ve oyunun çocuk gelişimine katkıları arasında doğrudan sayılır.",
+          "Doğru yanıt: Ekonomik yarar, bireysel fiziksel-zihinsel-sosyal-ruhsal yarar sınıflamasının bir parçası olarak tanımlanmaz.",
+          "Fiziksel yarar (kuvvet, dayanıklılık, kemik-kas gelişimi), fiziksel aktivitenin en temel ve doğrudan yararıdır.",
+          "Ruhsal yarar (duygusal iyi oluş, özgüven), fiziksel aktivitenin psikolojik/duygusal gelişime katkısı olarak kabul edilen bir yarardır."
+        ]
+      },
+      {
+        "id": "extra72",
+        "question": "Aşağıdakilerden hangisi lokomotor olmayan hareketler arasında yer alır?",
+        "options": [
+          "Koşma",
+          "Kayma",
+          "Sekme",
+          "Germe",
+          "Yürüme"
+        ],
+        "correctIndex": 3,
+        "explanation": "Kaynak ünitedeki Tablo 3.1'e göre temel hareket becerileri yer değiştirme (lokomotor: yürüme, koşma, galop-kayma, adım al-sek/sekme, atlama-sıçrama, yuvarlanma, tırmanma) ve dengeleme (lokomotor olmayan: eğilme, esnetme/germe, dönme, salınım, ağırlık aktarma vb.) olarak iki grupta sınıflandırılır. Germe (esnetme), vücudun yer değiştirmesini gerektirmediği için lokomotor olmayan hareketler grubuna aittir; diğer dört seçenek ise yer değiştirme gerektiren lokomotor hareketlerdir.",
+        "optionNotes": [
+          "Koşma, Tablo 3.1'de yer değiştirme gerektiren (lokomotor) hareketler arasında sayılmıştır.",
+          "Kayma (galop-kayma), aynı tabloda yer değiştirme gerektiren (lokomotor) hareketler grubuna aittir.",
+          "Sekme (adım al-sek), yer değiştirme gerektiren (lokomotor) hareketler arasında sayılmıştır.",
+          "Doğru yanıt: Germe (esnetme), dengeleme gerektiren (lokomotor olmayan) hareketler arasında yer alır; vücut yer değiştirmez.",
+          "Yürüme, Tablo 3.1'de temel bir yer değiştirme (lokomotor) hareketi olarak açıkça belirtilmiştir."
+        ]
+      },
+      {
+        "id": "extra73",
+        "question": "Aşağıdakilerden hangisi temel hareket yeteneği kazanımı sürecinde dikkat edilmesi gereken hususlar arasında yer almaz?",
+        "options": [
+          "Aktivite hızını çocuğa ayarlama",
+          "Diğer rakiplerine fırsat eşitliği sağlamak",
+          "Tek başına veya ekiple çalışmasına imkân sağlamak",
+          "Çocuğun da bir birey olduğunu kabul edeceği deneyimler sunmak",
+          "Temel hareket yeteneklerini çocuğun günlük yaşantısına entegre etmek"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kaynak ünitede hareket eğitimi uygulamalarında dikkat edilmesi gereken ilkeler arasında; çocukların hareketlerinin zorlanmadan, kendi hızlarında yavaş ve doğru yapılmasının sağlanması (aktivite hızını çocuğa göre ayarlama), tek başına veya grupla çalışmaya imkân verilmesi, çocuğun birey olarak kabul edildiği deneyimler sunulması ve temel hareket becerilerinin günlük yaşama entegre edilmesi sayılmıştır. Bu yaklaşım bireysel gelişime ve işbirliğine dayanır; \"diğer rakiplerine fırsat eşitliği sağlamak\" ifadesi ise rekabetçi bir bakış açısı taşıdığından, temel hareket yeteneği kazanım sürecinin çocuk merkezli ve bireyselleştirilmiş ilkeleri arasında yer almaz.",
+        "optionNotes": [
+          "Aktivite hızını çocuğa ayarlama, metinde \"çocukların hareketleri zorlanmadan yavaş ve doğru yapması sağlanmalı, sonra hızlandırılmalı\" ifadesiyle doğrudan belirtilmiştir.",
+          "Doğru yanıt: \"Diğer rakiplerine fırsat eşitliği sağlamak\" rekabete dayalı bir ifadedir ve temel hareket eğitiminin çocuk merkezli, bireyselleştirilmiş ilkeleri arasında sayılmamıştır.",
+          "Tek başına veya ekiple çalışma imkânı sağlamak, hareket eğitimi ilkeleri arasında çocuklara eşlerle veya grupla çalışma ortamı sunulması gerektiği belirtilerek desteklenmiştir.",
+          "Çocuğun birey olduğunu kabul edeceği deneyimler sunmak, hareket eğitiminin bireysel farklılıkları dikkate alan temel yaklaşımıyla örtüşür.",
+          "Temel hareket yeteneklerini günlük yaşantıya entegre etmek, hareket eğitiminin yaşam boyu fiziksel aktiviteye temel oluşturma amacıyla doğrudan ilişkilidir."
+        ]
+      },
+      {
+        "id": "extra74",
+        "question": "Aşağıdaki aktivitelerin hangisi mat kullanarak yapılır?",
+        "options": [
+          "Baş aşağı denge",
+          "Dinamik çarpıcı",
+          "Bana yakın",
+          "Benden farklı",
+          "Kendiyle iş birliği"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kaynak ünitede denge ve yuvarlanma gibi dengeleme gerektiren hareketlerin güvenli biçimde uygulanabilmesi için mat (minder) kullanılması gerektiği belirtilmiştir (örn. yuvarlanmaların önce minder üzerinde yapılması). \"Baş aşağı denge\" gibi bir denge pozisyonu, düşme riski taşıdığından güvenlik amacıyla mat üzerinde uygulanması gereken tipik bir aktivitedir. Diğer seçenekler (dinamik çarpıcı, bana yakın, benden farklı, kendiyle iş birliği) ise daha çok alan/ilişki kavramı etkinlikleri olup mat kullanımını gerektiren tipik denge/yuvarlanma aktiviteleri değildir. Not: Bu aktivite adları kaynak metinde birebir geçmemektedir; cevap mat kullanımı gerektiren hareket türüne (denge/yuvarlanma) dayanılarak işaretlenmiştir.",
+        "optionNotes": [
+          "Doğru kabul edilen seçenek: Baş aşağı denge, düşme riski taşıyan bir denge pozisyonu olduğundan güvenlik için mat üzerinde yapılması gereken bir aktivitedir.",
+          "Dinamik çarpıcı, mat kullanımını zorunlu kılan bir denge/yuvarlanma aktivitesi olarak tanımlanmamıştır.",
+          "Bana yakın, daha çok alan farkındalığı (yakın-uzak) kavramıyla ilişkili bir etkinliktir, mat kullanımı gerektirmez.",
+          "Benden farklı, hareket ilişkileri kavramıyla ilişkili bir etkinlik olup mat kullanımını gerektiren bir denge/yuvarlanma aktivitesi değildir.",
+          "Kendiyle iş birliği, bireysel bir hareket ilişkisi etkinliği olup mat kullanımını zorunlu kılan bir aktivite olarak tanımlanmaz."
+        ]
+      },
+      {
+        "id": "extra75",
+        "question": "Yükselme ve batma hangi vücut hareketlerine dâhil edilir?",
+        "options": [
+          "Motor-manipülatif yetenekler",
+          "Lokomotor olmayan manipülatif yetenekler",
+          "Lokomotor olmayan yetenekler",
+          "Lokomotor yetenekler",
+          "Manipülatif yetenekler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Yükselme ve batma (yükselip alçalma), vücudun bir noktadan başka bir noktaya yer değiştirmesini gerektirmeyen, aynı zamanda bir nesne kontrolü de içermeyen bir hareket olduğundan, kaynak ünitedeki sınıflandırmaya göre eğilme, germe, dönme, salınım gibi diğer örneklerle aynı kategoride, yani dengeleme gerektiren/lokomotor olmayan yetenekler grubunda değerlendirilir.",
+        "optionNotes": [
+          "Motor-manipülatif yetenekler diye ayrı bir kategori kaynak sınıflandırmada tanımlanmamıştır, bu nedenle uygun bir seçenek değildir.",
+          "Lokomotor olmayan manipülatif yetenekler de ayrı bir kategori olarak geçmez; manipülatif (nesne kontrolü) hareketler lokomotor olmayan kategorisiyle karıştırılmamalıdır.",
+          "Doğru yanıt: Yükselme ve batma, yer değiştirme gerektirmeyen bir hareket olduğundan lokomotor olmayan yetenekler grubuna dâhildir.",
+          "Lokomotor yetenekler, vücudun bir noktadan diğerine yer değiştirmesini gerektirir; yükselme-batma hareketinde yer değiştirme yoktur.",
+          "Manipülatif yetenekler bir nesnenin kontrolünü (atma, tutma, vurma vb.) gerektirir; yükselme-batma hareketinde nesne kontrolü söz konusu değildir."
+        ]
+      },
+      {
+        "id": "extra76",
+        "question": "Spora katılım, sağlığın korunması, fiziksel uygunluğun gelişimi ve sosyalleşme amacıyla gerçekleştirdiği durum nasıl bir katılımı ifade eder?",
+        "options": [
+          "Çapraz katılım",
+          "Geç katılım",
+          "Rekreasyonel katılım",
+          "Hemen katılım",
+          "Erken katılım"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde rekreasyonel katılım, sporun sağlığın korunması, fiziksel uygunluğun geliştirilmesi ve sosyalleşme amacıyla, genellikle 15 yaşından sonra ve daha önce spor eğitimi almamış kişilerce gerçekleştirilen katılım olarak tanımlanır. Bu tanım soruda verilen amaçlarla (sağlık, fiziksel uygunluk, sosyalleşme) birebir örtüşür.",
+        "optionNotes": [
+          "Çapraz katılım, çocukların yetenek/istekleriyle örtüşmeyen bir branştan sonra gerçek ilgi alanlarına geçişini ifade eder, sağlık/sosyalleşme amacını tanımlamaz.",
+          "Geç katılım, önceden spor eğitimi almamış çocukların 11-13 yaşlarında ilk kez spora yönelmesini ifade eder; amaç sağlık/sosyalleşme değil performans gelişimidir.",
+          "Doğru yanıt: Rekreasyonel katılım, metinde tam olarak sağlığın korunması, fiziksel uygunluk ve sosyalleşme amacıyla gerçekleşen katılım olarak tanımlanmıştır.",
+          "Hemen katılım, metinde bu adla tanımlanmış bir katılım türü değildir, çeldirici bir seçenektir.",
+          "Erken katılım, 4-10 yaş grubunda ebeveyn tercihiyle spora başlamayı ifade eder; sağlık/sosyalleşme amaçlı yetişkin katılımını tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra77",
+        "question": "Aşağıdakilerden hangisi taktik eğitim gelişiminde uygulanan yöntemlerden bir değildir?",
+        "options": [
+          "Bütünden parçaya",
+          ". Parçadan bütün",
+          "Bilinmeyenden bilinene",
+          "Basitten karmaşığa",
+          "Kolaydan zora"
+        ],
+        "correctIndex": 2,
+        "explanation": "Taktik eğitiminde kullanılan öğretim yöntemleri arasında bütünden parçaya ve kolaydan zora gibi ilkeler sayılır; bu ilkelerin temel mantığı her zaman bilinenden bilinmeyene doğru ilerlemektir. \"Bilinmeyenden bilinene\" ifadesi bu temel pedagojik ilkeyi tam tersine çevirdiği için taktik eğitiminde uygulanan bir yöntem değildir.",
+        "optionNotes": [
+          "Bütünden parçaya, metinde taktik antrenmanın metodik ilkeleri arasında doğrudan sayılan bir öğretim yöntemidir.",
+          "Parçadan bütüne, bütünden parçaya ilkesiyle birlikte taktik/teknik öğretiminde kademeli ilerlemeyi sağlayan bilinen bir yöntemdir.",
+          "Doğru yanıt: \"Bilinmeyenden bilinene\" ifadesi, doğru ilke olan \"bilinenden bilinmeyene\" yönteminin tam tersidir; bu nedenle taktik eğitiminde uygulanan bir yöntem değildir.",
+          "Basitten karmaşığa, taktik ve teknik eğitimde kademeli zorlaştırma ilkesiyle örtüşen, metinde temelden varyasyona ilerleme olarak da anılan geçerli bir yöntemdir.",
+          "Kolaydan zora, metinde taktik antrenmanın metodik ilkeleri arasında bütünden parçaya ile birlikte açıkça sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra78",
+        "question": "Bireyin bilişsel ,duyuşsal ve psikomotor öğrenme alanlarındaki durumunun farklı alan testleri ve gözlemler yapılarak uzman değerlendirmeleri sonucunda mevcut hali,hangi yaşı ifade etmektedir?",
+        "options": [
+          "Gelişimsel yaşı",
+          "Relatif yaşı",
+          "Kemik yaşını",
+          "Bağıl yaşı",
+          "Takvim yaşını"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde gelişim (gelişimsel) yaş, bireyin bilişsel, duyuşsal ve psikomotor alanlardaki gelişiminin farklı alan testleri ve gözlemler yoluyla uzman değerlendirmeleri sonucunda ortaya konan mevcut hali olarak tanımlanır. Bu tanım soru metniyle birebir örtüşür.",
+        "optionNotes": [
+          "Doğru yanıt: Gelişimsel yaş, tam olarak bilişsel-duyuşsal-psikomotor alanlardaki uzman değerlendirmesine dayanan bu tanıma karşılık gelir.",
+          "Relatif yaş, bireyin doğduğu ayı dikkate alan, bağıl yaş etkisiyle ilişkili farklı bir kavramdır; uzman değerlendirmesine dayanmaz.",
+          "Kemik yaşı, sol el bilek kemiklerinin radyografik incelemesine dayanan biyolojik olgunluk göstergesidir; çoklu alan testine dayalı bir tanım değildir.",
+          "Bağıl yaş, doğum ayına bağlı göreli yaş etkisini ifade eder; bilişsel-duyuşsal-psikomotor gelişim değerlendirmesiyle tanımlanmaz.",
+          "Takvim yaşı, doğumdan itibaren geçen süreyi yıl olarak ifade eden en pratik parametredir; uzman değerlendirmesi gerektirmez."
+        ]
+      },
+      {
+        "id": "extra79",
+        "question": "Birim antreman giriş bölümünde neler yaptırılmalıdır?",
+        "options": [
+          "Teknik taktik antreman",
+          "Streching yaptırılır",
+          "Isınma yaptırılır",
+          "Yoklama ve antreman içeriği anlatılır",
+          "Kondisyon yaptırılır"
+        ],
+        "correctIndex": 3,
+        "explanation": "Birim antrenmanın giriş bölümünde sporcuların toplanması, yoklamanın alınması ve antrenmanın amacı, şiddeti ve yoğunluğunun anlatılması sağlanır. Bu bölüm yeni başlayan sporcularda 5-10 dakika sürerken tecrübeli sporcularda kısaltılabilir veya tamamen atlanabilir.",
+        "optionNotes": [
+          "Teknik taktik antreman, ana (temel) bölümde uygulanan bir çalışma türüdür, giriş bölümünün içeriği değildir.",
+          "Streching (statik germe), ısınma bölümünde değil daha çok soğuma bölümünde uygulanması önerilen bir çalışmadır, giriş bölümüyle ilgili değildir.",
+          "Isınma yaptırılır, ısınma giriş bölümünden sonra gelen ayrı bir bölümdür, giriş bölümünün kendisi değildir.",
+          "Doğru yanıt: Giriş bölümünde yoklama alınması ve antrenmanın içeriğinin (amaç, şiddet, yoğunluk) anlatılması metinde açıkça belirtilmiştir.",
+          "Kondisyon yaptırılır, biyomotor/kondisyonel çalışmalar ana bölümde yer alır, giriş bölümünün amacı değildir."
+        ]
+      },
+      {
+        "id": "extra80",
+        "question": "Aşağıdakilerden hangisi zihinsel antrenman stratejilerinden biri değildir?",
+        "options": [
+          "Sosyalleşme çalışmaları",
+          "Motivasyon çalışmaları",
+          "Gevşeme çalışmaları",
+          "Konsantrasyon çalışmaları",
+          "Hedef belirleme çalışmaları"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde zihinsel antrenman stratejileri arasında kendine güven, gevşeme, motivasyon, hedef belirleme ve konsantrasyon çalışmaları sayılmaktadır (Altıntaş ve Akalan, 2008). \"Sosyalleşme çalışmaları\" bu listede yer almayan, zihinsel antrenman stratejisi olarak tanımlanmamış bir kavramdır.",
+        "optionNotes": [
+          "Doğru yanıt: Sosyalleşme çalışmaları, metinde sayılan zihinsel antrenman stratejileri (güven, gevşeme, motivasyon, hedef belirleme, konsantrasyon) arasında yer almaz.",
+          "Motivasyon çalışmaları, metinde zihinsel antrenman stratejileri arasında açıkça sayılmıştır.",
+          "Gevşeme çalışmaları, metinde sporcunun bireysel ihtiyaçlarına göre uygulanan zihinsel antrenman stratejilerinden biri olarak belirtilmiştir.",
+          "Konsantrasyon çalışmaları, metinde zihinsel antrenman stratejileri arasında doğrudan sayılan bir unsurdur.",
+          "Hedef belirleme çalışmaları, metinde zihinsel antrenman stratejileri arasında açıkça yer alan bir çalışmadır."
+        ]
+      },
+      {
+        "id": "extra81",
+        "question": "Sinir kas sistemini Yüksek hızda bir kasılmayla dış dirençleri yenilme etkisine ne ad verilir?",
+        "options": [
+          "Dinamik kuvvet",
+          "Sürat",
+          "Kuvvet",
+          "Göreceli kuvvet",
+          "Çabuk kuvvet"
+        ],
+        "correctIndex": 4,
+        "explanation": "Çabuk kuvvet, kuvvet ile süratin bir ürünü olarak sinir-kas sisteminin yüksek hızda bir kasılmayla dış dirençleri yenebilme yetisi olarak tanımlanır. Soru metnindeki \"yüksek hızda kasılmayla dış dirençleri yenme\" ifadesi bu tanıma birebir karşılık gelir.",
+        "optionNotes": [
+          "Dinamik kuvvet, izotonik kasılmalarla ortaya çıkan kuvvet türüdür; hız unsurunu öncelikli olarak tanımlamaz.",
+          "Sürat, mesafeyi en kısa sürede kat etme yeteneğidir; dış direnci yenme (kuvvet) unsurunu içermez.",
+          "Kuvvet, genel olarak bir dirence karşı koyma yeteneğidir; burada vurgulanan \"yüksek hız\" unsurunu özel olarak tanımlamaz.",
+          "Göreceli kuvvet, sporcunun vücut ağırlığına karşı geliştirdiği kuvvettir (salt kuvvet/vücut ağırlığı), hızla ilgili bir tanım değildir.",
+          "Doğru yanıt: Çabuk kuvvet, kuvvet ve süratin birleşimi olarak yüksek hızda dış direnç yenme yetisini tam olarak tanımlar."
+        ]
+      },
+      {
+        "id": "extra82",
+        "question": "Yetenek seçimi ve yönlendirme modellerinde özellikle erken özelleşme ile Küçük yaşlarda başlayan antrenmanların kadınlarda ilerleyen yıllarda sağlık problemlerinden neden olduğu duruma ne denir?",
+        "options": [
+          "Psikolojik çöküş",
+          "Kadın spor üçlemesi",
+          "Sürantrene (Overtraining)",
+          "Kemik deformasyonu",
+          "Tükenmişlik sendromu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde erken özelleşme ile küçük yaşlarda başlayan yoğun antrenmanların kadın sporcularda ilerleyen yıllarda düşük enerji alımı, menstrüel sorunlar ve kemik mineral yoğunluğu azalması gibi sağlık problemlerine yol açtığı ve bu durumun \"kadın spor üçlemesi\" olarak adlandırıldığı belirtilir. Bu tanım soruda anlatılan durumla birebir örtüşür.",
+        "optionNotes": [
+          "Psikolojik çöküş, metinde bu adla tanımlanan, erken özelleşmeye bağlı kadın sporcu sağlık sendromunu ifade eden bir kavram değildir.",
+          "Doğru yanıt: Kadın spor üçlemesi, metinde erken özelleşme ve küçük yaşta başlayan yoğun antrenmanın kadın sporcularda yol açtığı sağlık sendromu olarak doğrudan tanımlanmıştır.",
+          "Sürantrene (Overtraining), aşırı antrenman sonucu yorgunluk birikimi ve performans düşüşüyle ilgili genel bir durumdur; kadınlara özgü bu sendromu tanımlamaz.",
+          "Kemik deformasyonu, metinde geçen bir kavram değildir; kadın spor üçlemesinin bir bileşeni olan kemik mineral yoğunluğu azalmasıyla karıştırılmamalıdır.",
+          "Tükenmişlik sendromu, genel bir motivasyon/psikolojik tükenme durumunu ifade eder; kadın sporculara özgü bu sağlık sendromunun adı değildir."
+        ]
+      },
+      {
+        "id": "extra83",
+        "question": "Performans sporu antrenörlüğü aşağıdaki yaş gruplarından hangisini kapsar?",
+        "options": [
+          "13-15",
+          "10-11",
+          "10-12",
+          "15-16",
+          "9-10"
+        ],
+        "correctIndex": 0,
+        "explanation": "Türkiye'deki antrenörlük eğitim kademelendirmesinde sporcu gelişim evreleri genel olarak çocuk sporu, gelişim sporu, performans sporu ve üst düzey performans sporu şeklinde sınıflandırılır; bu sınıflandırmada performans sporu antrenörlüğü yaygın olarak 13-15 yaş aralığını kapsar. Not: Bu soru için ünite metinlerinde (1-8) birebir bir doğrulama bulunamadı; cevap, antrenörlük kademe sistemine ilişkin genel bilgiye dayanılarak verilmiştir, bu nedenle diğer sorulara kıyasla daha az kesindir.",
+        "optionNotes": [
+          "Kabul edilen yanıt: Performans sporu antrenörlüğü kademelendirmesinde bu aralık yaygın olarak 13-15 yaş olarak kabul edilir (ünite metninde doğrudan doğrulanamadı).",
+          "10-11 aralığı genellikle gelişim sporu kademesine daha yakındır, performans sporu için belirtilen aralığın altında kalır.",
+          "10-12 aralığı, unit1'deki LTAD \"Antrenman Yapmayı Öğrenme\" evresine (erkekler 9-12) yakındır, performans sporu antrenörlüğü kademesini tanımlamaz.",
+          "15-16 aralığı, performans sporu aralığının biraz üzerinde olup daha çok üst düzey performans kademesine yaklaşan bir aralıktır.",
+          "9-10 aralığı, temel eğitim/gelişim sporu kademesine denk gelir, performans sporu antrenörlüğü için belirtilen aralık değildir."
+        ]
+      },
+      {
+        "id": "extra84",
+        "question": "Sporcunun cinsiyeti ,yaşı, sağlık durumu, sporcu özgeçmişi, çevresel etkenler ,genetik özellikleri ve motivasyon durumu sporcunun antrenmana olan………….. belirleyen faktörler arasındadır. Cümlede boş bırakılan yerleri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "options": [
+          "Sevgiyi",
+          "İlgiyi",
+          "Uyumu",
+          "Dayanıklılığı",
+          "Disiplini"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde antrenmanın özel olma ilkesine göre antrenmana uyum; sporcunun cinsiyeti, yaşı, sağlık durumu, geçmişi, genetik özellikleri, motivasyonu ve çevresel etkenleri gibi bireysel özelliklerine bağlıdır. Soruda sayılan tüm faktörler bu ilkede antrenmana olan \"uyumu\" belirleyen unsurlar olarak geçer.",
+        "optionNotes": [
+          "Sevgiyi: metinde bu faktörlerin belirlediği bir kavram olarak \"sevgi\" geçmez, çeldiricidir.",
+          "İlgiyi: ilgi kavramı metinde ayrı bir bileşen olan \"eğilim\" ile ilişkilendirilir, antrenmanın özel olma ilkesindeki \"uyum\" kavramı değildir.",
+          "Doğru yanıt: Metinde bu faktörlerin tümü, antrenmanın özel olma ilkesi çerçevesinde sporcunun antrenmana \"uyumunu\" belirleyen unsurlar olarak sayılmıştır.",
+          "Dayanıklılığı: dayanıklılık bir biyomotor özelliktir, bu faktörlerin belirlediği genel bir kavram olarak metinde geçmez.",
+          "Disiplini: metinde bu bağlamda kullanılan bir kavram değildir, çeldiricidir."
+        ]
+      },
+      {
+        "id": "extra85",
+        "question": "“Antrenman planlı ve sistematik bir olgu olduğu için bilimsel kurallara ve denenmiş çalışmalara göre düzenlenmelidir” cümlesi hangi hazırlık antrenmanına işaret etmektedir?",
+        "options": [
+          "Kuramsal hazırlık",
+          "Zihinsel hazırlık",
+          "Taktik hazırlık",
+          "Fiziksel hazırlık",
+          "Teknik hazırlık"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde antrenmanın kuramsal/eğitimsel boyutu, antrenmanın bireysel bir özellik taşıdığı ve bilimsel kurallara, başarılı antrenörlerin ve sporcuların deneyimlerine dayanarak planlı ve sistematik şekilde düzenlenmesi gerektiğini ifade eder. Soru cümlesi bu tanımla birebir örtüşür.",
+        "optionNotes": [
+          "Doğru yanıt: \"Bilimsel kurallara ve denenmiş çalışmalara göre düzenlenmelidir\" ifadesi, metinde kuramsal hazırlığın tanımıyla birebir örtüşür.",
+          "Zihinsel hazırlık, algı, stres, motivasyon gibi psikolojik süreçlerle ilgilidir, bilimsel kurallara dayalı planlama tanımı değildir.",
+          "Taktik hazırlık, müsabaka içi karar alma ve uygulama süreciyle ilgilidir, bu cümledeki bilimsel-sistematik düzenleme vurgusunu tanımlamaz.",
+          "Fiziksel hazırlık, bedensel/motorik gelişimle ilgilidir, antrenmanın bilimsel-kuramsal temelini anlatan bu cümleyle örtüşmez.",
+          "Teknik hazırlık, hareketlerin ekonomik biçimde uygulanmasıyla ilgilidir, bilimsel kurallara dayalı sistematik düzenleme tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra86",
+        "question": "Bir uyarıya bağlı olarak sürat ve doğru hareket edebilme yeteneği aşağıdakilerden hangisidir?",
+        "options": [
+          "Özel esneklik",
+          "Denge",
+          "Esneklik",
+          "Reaksiyon",
+          "Ritim"
+        ],
+        "correctIndex": 3,
+        "explanation": "Reaksiyon, bir uyarana karşı duyu organlarının algılaması ve bu uyarıya süratli ve doğru yönde tepki verilmesi sürecini ifade eder. Soru metnindeki \"bir uyarıya bağlı olarak sürat ve doğru hareket edebilme\" tanımı doğrudan reaksiyon kavramına karşılık gelir.",
+        "optionNotes": [
+          "Özel esneklik, belirli eklemlerin hareket genişliğiyle ilgilidir, bir uyarana tepki verme hızıyla ilgili değildir.",
+          "Denge, vücut pozisyonunu koruma becerisidir, uyarıya bağlı hareket hızı/doğruluğu tanımı değildir.",
+          "Esneklik, eklem hareket genişliğini ifade eder, uyarana tepki verme sürecini tanımlamaz.",
+          "Doğru yanıt: Reaksiyon, bir uyarana karşı algılama ve süratli-doğru tepki verme yeteneğidir, tanım birebir örtüşür.",
+          "Ritim, hareketin zaman ve dinamiğine uygun davranabilmeyi ifade eder, uyarana tepki hızıyla ilgili bir tanım değildir."
+        ]
+      },
+      {
+        "id": "extra87",
+        "question": "Antreman gelişim evrelerine göre fiziksel hazırlığın yıllık plan içerisindeki görünümü hangi seçenekte doğru olarak verilmiştir?",
+        "options": [
+          "Hazırlık dönemi 1. Evre-genel hazırlık",
+          "Yarışma dönemi –Özel fiziksel hazırlılk",
+          "Hazırlık dönemi 2. Evre –Genel fiziksel hazırlık",
+          "Yarışma dönemi-Genel fiziksel hazırlık",
+          "Hazırlık dönemi 1. Evre-özel fiziksel hazırlık"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde fiziksel hazırlığın yıllık plan içindeki görünümünü gösteren tabloya göre, hazırlık döneminin 1. gelişim evresinde ağırlıklı olarak genel fiziksel hazırlık uygulanır; özel fiziksel hazırlık ise hazırlık döneminin 2. evresinde ağırlık kazanır. Bu nedenle \"Hazırlık dönemi 1. Evre-genel hazırlık\" eşleşmesi doğrudur.",
+        "optionNotes": [
+          "Doğru yanıt: Tabloya göre hazırlık döneminin 1. evresinde ağırlıklı antrenman türü genel fiziksel hazırlıktır.",
+          "Yarışma dönemi –Özel fiziksel hazırlılk: metinde özel fiziksel hazırlık hazırlık döneminin 2. evresiyle ilişkilendirilir, yarışma dönemiyle bu şekilde eşleştirilmez.",
+          "Hazırlık dönemi 2. Evre –Genel fiziksel hazırlık: tabloya göre 2. evrede ağırlıklı olan özel fiziksel hazırlıktır, genel fiziksel hazırlık değildir; bu seçenek evreleri ters eşleştirir.",
+          "Yarışma dönemi-Genel fiziksel hazırlık: genel fiziksel hazırlık hazırlık döneminin 1. evresiyle ilişkilidir, yarışma dönemiyle eşleştirilmesi yanlıştır.",
+          "Hazırlık dönemi 1. Evre-özel fiziksel hazırlık: tabloya göre 1. evrede ağırlıklı olan genel fiziksel hazırlıktır, özel fiziksel hazırlık değildir; bu seçenek evreleri ters eşleştirir."
+        ]
+      },
+      {
+        "id": "extra88",
+        "question": "Daha az enerji harcayarak ve daha az yorgunlukta hareketin etkili ve verimli bir şekilde yapılmasına tam olarak ne denir?",
+        "options": [
+          "Standart",
+          "Hareket ekonomisi",
+          "Uygunluk",
+          "Optimum",
+          "Dengeli yaklaşım"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde iyi bir koordinasyon kapasitesinin, hareketin daha az enerjiyle ve daha verimli/etkili bir şekilde yapılmasını sağladığı belirtilir; bu özelliğe spor biliminde \"hareket ekonomisi\" denir. Soru metnindeki \"daha az enerji harcayarak ve daha az yorgunlukta hareketin etkili ve verimli yapılması\" tanımı bu kavrama karşılık gelir.",
+        "optionNotes": [
+          "Standart, yüklenme yaklaşımlarından biri olan \"standart (ölçülü) yüklenme\" ile ilgili bir terimdir, hareketin enerji verimliliğini tanımlamaz.",
+          "Doğru yanıt: Hareket ekonomisi, hareketin daha az enerjiyle ve daha verimli yapılmasını ifade eden tam olarak bu tanıma karşılık gelen kavramdır.",
+          "Uygunluk, fiziksel uygunluk (fitness) kişinin genel çalışma kapasitesini ifade eder, hareketin enerji verimliliğine özgü bir tanım değildir.",
+          "Optimum, en uygun/ideal düzeyi ifade eden genel bir terimdir, hareket ekonomisi kavramının yerine kullanılan özel bir terim değildir.",
+          "Dengeli yaklaşım, metinde bu adla tanımlanan bir kavram değildir, çeldiricidir."
+        ]
+      },
+      {
+        "id": "extra89",
+        "question": "Katılım spor ortalamalarındaki çocukların ,haftalık antrenman etkinlikleri en fazla kaç saat olmalıdır?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "12",
+          "15"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite metinlerinde katılım (rekreasyonel) düzeyindeki çocuk sporcularda haftalık antrenman süresine ilişkin kesin bir sayı doğrudan belirtilmemektedir; ancak genç/katılım sporcuları için spor bilimi literatüründe sık atıf yapılan üst sınır haftada 8 saat civarındadır. Not: Bu sorunun cevabı verilen ünite metinlerinde birebir doğrulanamadığı için en yaygın kabul gören değere dayanılarak belirlenmiştir, dolayısıyla diğer sorulara göre daha düşük kesinlik taşımaktadır.",
+        "optionNotes": [
+          "6: metinlerde doğrulanan bir değer değildir, önerilen üst sınırın biraz altında kalan bir seçenektir.",
+          "Kabul edilen yanıt: Katılım düzeyindeki çocuk sporcular için literatürde sıkça atıf yapılan haftalık üst sınır 8 saat civarındadır (ünite metninde doğrudan doğrulanamadı).",
+          "10: katılım sporcuları için önerilen üst sınırın üzerinde, daha çok performans sporcularına yönelik bir yoğunluğa işaret eder.",
+          "12: katılım düzeyi için fazla yüksek bir değerdir, metinlerde bu sayıyla ilişkilendirilen bir ifade bulunmamaktadır.",
+          "15: katılım sporcuları için aşırı yüksek bir haftalık antrenman süresidir, sürantrenman riskini artırabilecek bir yoğunluğu ifade eder."
+        ]
+      },
+      {
+        "id": "extra90",
+        "question": "Enerji oluşumu açısından dayanıklılık aşağıdaki seçeneklerden hangisinde ifade edilmektedir?",
+        "options": [
+          "Kısa –orta süreli",
+          "Genel-özel",
+          "Kısa-orta-uzun süreli",
+          "Aerobik-Anaerobik",
+          "Orta-Uzun süreli"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde \"Enerji oluşumu açısından dayanıklılık aerobik ve anaerobik olarak ikiye ayrılır\" ifadesiyle bu sınıflandırma doğrudan verilmiştir. Diğer sınıflandırmalar (kısa-orta-uzun süreli gibi) enerji oluşum şekline göre değil, dayanıklılığın süresine göre yapılan ayrımlardır.",
+        "optionNotes": [
+          "Kısa –orta süreli: dayanıklılığın süreye göre sınıflandırılmasına aittir, enerji oluşumuna göre yapılan ayrım değildir.",
+          "Genel-özel: bu ayrım dayanıklılık için metinde kullanılan bir sınıflandırma değildir, fiziksel hazırlıkla ilgili genel-özel ayrımıyla karıştırılmamalıdır.",
+          "Kısa-orta-uzun süreli: metinde dayanıklılığın süreye göre sınıflandırılması olarak geçer (45 sn-2 dk, 2-8 dk, 8 dk ve üzeri), enerji oluşumuna göre değildir.",
+          "Doğru yanıt: Metinde enerji oluşumu açısından dayanıklılık açıkça aerobik ve anaerobik olarak ikiye ayrılmıştır.",
+          "Orta-Uzun süreli: süreye göre yapılan bir alt sınıflandırmadır, enerji oluşumuna göre yapılan temel ayrım değildir."
+        ]
+      },
+      {
+        "id": "extra91",
+        "question": "Bompa ve Haff 2015&#039;in hazırlanmış olduğu çok yönlü gelişim ilkesi piramidine göre sırasıyla gelişim evreleri aşaması Aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+        "options": [
+          "Çocukluk evresi olgunlaşma yüksek performans",
+          "Olgunlaşma çok yönlü gelişim yüksek performans",
+          "Çok yönlü gelişim özel antrenman yüksek performans",
+          "Yüksek performans özel antrenman Olgunlaşma",
+          "Özel antrenman Olgunlaşma yüksek performans"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde çok yönlü gelişim ilkesi bir piramit olarak tasvir edilir: piramidin tabanını çocukluk evresinde kazanılan çok yönlü gelişim oluşturur, üzerine genç sporcularda özel antrenman, en tepede ise olgunlaşma evresinde yüksek performans gelir. Bu sıralama, tabandan tepeye doğru \"çok yönlü gelişim - özel antrenman - yüksek performans\" şeklindedir.",
+        "optionNotes": [
+          "Çocukluk evresi olgunlaşma yüksek performans: \"özel antrenman\" aşamasını atlayarak sıralamayı eksik ve hatalı verir.",
+          "Olgunlaşma çok yönlü gelişim yüksek performans: sıralamayı baştan yanlış başlatır; piramidin tabanı olgunlaşma değil çok yönlü gelişimdir.",
+          "Doğru yanıt: Piramidin tabanından tepesine doğru sıralama metinde tam olarak çok yönlü gelişim, özel antrenman ve yüksek performans şeklinde verilmiştir.",
+          "Yüksek performans özel antrenman Olgunlaşma: sıralama tamamen tersten verilmiştir, piramit tepeden tabana doğru okunmamalıdır.",
+          "Özel antrenman Olgunlaşma yüksek performans: piramidin tabanı olan çok yönlü gelişim evresini tamamen atlayan eksik bir sıralamadır."
+        ]
+      },
+      {
+        "id": "extra92",
+        "question": "Bir plan program çerçevesinde öyküsü belirlenmiş kapsam ve içerikte yapılan değişiklikler sonucu organizmada morfolojik fonksiyonel ve kimyasal değişikliklere neden olan etkilere------------- denir. Cümlede boş bırakılan yere aşağıdaki Hangisi doğru olarak tamamlar?",
+        "options": [
+          "Model antrenman",
+          "Yüklenme",
+          "Antrenman periyotlaması",
+          "Antrenman çeşitliliği",
+          "Geriye dönüşüm Ülkesi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde yüklenme, \"bir plan ve program çerçevesinde ölçüsü belirlenmiş, kapsam ve içerikte yapılan değişiklikler sonucu organizmada morfolojik, fonksiyonel ve kimyasal değişikliklere neden olan etkinlik\" olarak tanımlanır (Smith, 2003). Soru cümlesi bu tanımla birebir örtüşmektedir.",
+        "optionNotes": [
+          "Model antrenman, yarışma şartlarına (çevre, zemin, malzeme) uygun antrenman düzenlenmesini ifade eder, morfolojik-kimyasal değişiklik tanımıyla ilgili değildir.",
+          "Doğru yanıt: Yüklenme, metinde tam olarak bu tanımla (plan/program çerçevesinde morfolojik, fonksiyonel, kimyasal değişikliklere neden olan etkinlik) verilmiştir.",
+          "Antrenman periyotlaması, yıllık planın hedef yarışmalara göre bölümlere ayrılmasını ifade eder, bu tanımla ilgili değildir.",
+          "Antrenman çeşitliliği, antrenmanın tek tipe bağlı kalmaksızın çoklu drillerle yapılmasını ifade eder, bu tanımla örtüşmez.",
+          "Geriye dönüşüm Ülkesi, antrenmana ara verilmesi sonucu performansın gerilemesini (detraining) ifade eden bir kavramdır, bu tanımla ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra93",
+        "question": "Motor becerilerin öğrenilmesi, kontrol edilmesi ve geliştirilmesi ile ilgilenen bilim dalı aşağıdakilerden hangisidir?",
+        "options": [
+          "Spor sosyolojisi",
+          "Motor öğrenme",
+          "Spor yönetimi",
+          "Rekreasyon",
+          "Spor hukuku"
+        ],
+        "correctIndex": 1,
+        "explanation": "Motor öğrenme, hareket becerilerinin nasıl öğrenildiğini, kontrol edildiğini ve pratik yoluyla geliştirildiğini inceleyen bilim dalıdır. Diğer seçenekler (spor sosyolojisi, spor yönetimi, rekreasyon, spor hukuku) spor biliminin farklı alt alanlarıdır ve hareket/motor beceri öğrenimiyle doğrudan ilgilenmez.",
+        "optionNotes": [
+          "Spor sosyolojisi, sporun toplumsal boyutunu inceler; motor becerilerin öğrenilmesiyle ilgilenmez.",
+          "Doğru yanıt: Motor öğrenme, hareket becerilerinin kazanılma, kontrol edilme ve pratikle gelişme süreçlerini inceleyen bilim dalıdır.",
+          "Spor yönetimi, spor organizasyonlarının idaresiyle ilgilenir, motor beceri gelişimini konu etmez.",
+          "Rekreasyon, boş zaman etkinlikleri ve eğlence amaçlı fiziksel aktiviteyi kapsar, motor öğrenme bilimiyle ilgisi yoktur.",
+          "Spor hukuku, spor alanındaki hukuki düzenlemelerle ilgilenir, hareket becerisi öğrenimiyle ilişkili değildir."
+        ]
+      },
+      {
+        "id": "extra94",
+        "question": "Bir hareketin doğru zamanda, doğru kuvvetle ve uygun şekilde yapılmasını sağlayan yetenek aşağıdakilerden hangisidir?",
+        "options": [
+          "Koordinasyon",
+          "Kuvvet",
+          "Dayanıklılık",
+          "Esneklik",
+          "Sürat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Koordinasyon, bir hareketin doğru zamanlama, uygun kuvvet ve doğru sırayla gerçekleştirilmesini sağlayan yetenektir; merkezî sinir sistemi ile kas sisteminin uyumlu çalışmasına dayanır. Diğer motor özellikler (kuvvet, dayanıklılık, esneklik, sürat) hareketin zamanlama ve kuvvet uyumunu değil, farklı fiziksel kapasiteleri ifade eder.",
+        "optionNotes": [
+          "Doğru yanıt: Koordinasyon, hareketin doğru zamanda, doğru kuvvetle ve uygun sırayla yapılmasını sağlayan, merkezî sinir sistemi-kas işbirliğine dayanan yetenektir.",
+          "Kuvvet, kasın bir dirence karşı koyma ya da onu yenme yeteneğidir; zamanlama ve hareket uyumuyla ilgili değildir.",
+          "Dayanıklılık, yorgunluğa karşı direnme yeteneğidir, hareketin doğru zamanlamasıyla ilgili bir kavram değildir.",
+          "Esneklik, eklem hareket genişliğiyle ilgilidir, hareketin zamanlama/kuvvet uyumunu tanımlamaz.",
+          "Sürat, bir mesafeyi en kısa sürede kat etme yeteneğidir, hareketin doğru sırayla yapılmasıyla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra95",
+        "question": "Kasların bir dirence karşı koyabilme veya direnç oluşturabilme yeteneğine ne ad verilir?",
+        "options": [
+          "Dayanıklılık",
+          "Esneklik",
+          "Kuvvet",
+          "Koordinasyon",
+          "Denge"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kuvvet, kasların bir dirence karşı koyabilme ya da bir direnç oluşturabilme (bir kütleyi hareket ettirme) yeteneği olarak tanımlanır; bu, sinir-kas sisteminin içsel ve dışsal dirençleri yenme kapasitesidir. Diğer seçenekler farklı motor özellikleri ifade eder ve direnç karşısında kas gerilimi üretmeyi tanımlamaz.",
+        "optionNotes": [
+          "Dayanıklılık, yorgunluğa karşı direnme süresiyle ilgilidir, direnç oluşturma/yenme kapasitesini değil.",
+          "Esneklik, eklem hareket genişliğini ifade eder, kasların dirence karşı koymasıyla ilgili değildir.",
+          "Doğru yanıt: Kuvvet, kasların bir direnci yenme ya da ona karşı koyma (kas gerilimi üretme) yeteneğidir.",
+          "Koordinasyon, hareketlerin zamanlama ve sıralama uyumuyla ilgilidir, direnç oluşturma kapasitesi değildir.",
+          "Denge, vücudun belirli bir pozisyonda dengede kalma yeteneğidir, kas direnci üretmekle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra96",
+        "question": "Vücudun belirli bir hareketi en geniş açıda yapabilme yeteneği aşağıdakilerden hangisidir?",
+        "options": [
+          "Kuvvet",
+          "Sürat",
+          "Dayanıklılık",
+          "Esneklik",
+          "Koordinasyon"
+        ],
+        "correctIndex": 3,
+        "explanation": "Esneklik, bir eklem etrafındaki hareket serbestliğini (Range of Motion), yani vücudun belirli bir hareketi en geniş açıda yapabilme yeteneğini ifade eder; kasın esnekliği ve eklemi çevreleyen bağ dokularının özellikleriyle ilişkilidir. Diğer seçenekler eklem açıklığıyla değil farklı fiziksel kapasitelerle ilgilidir.",
+        "optionNotes": [
+          "Kuvvet, bir dirence karşı koyma yeteneğidir, eklem açıklığıyla ilgili değildir.",
+          "Sürat, hızlı hareket etme yeteneğidir, hareketin açısal genişliğini tanımlamaz.",
+          "Dayanıklılık, yorgunluğa direnme yeteneğidir, eklem hareket genişliğiyle ilgisi yoktur.",
+          "Doğru yanıt: Esneklik, bir eklem etrafındaki hareket serbestliğini, yani hareketin en geniş açıda yapılabilmesini ifade eder.",
+          "Koordinasyon, hareketlerin zamanlama ve sıralama uyumudur, eklem açıklığı tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra97",
+        "question": "Kısa sürede mümkün olan en yüksek hızda hareket edebilme yeteneği aşağıdakilerden hangisidir?",
+        "options": [
+          "Sürat",
+          "Kuvvet",
+          "Esneklik",
+          "Denge",
+          "Dayanıklılık"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sürat, sporcunun belirli bir mesafeyi en kısa sürede kat edebilme, yani kısa sürede mümkün olan en yüksek hızda hareket edebilme yeteneğidir. Diğer seçenekler hızla değil farklı motor özelliklerle (kuvvet, esneklik, denge, dayanıklılık) ilgilidir.",
+        "optionNotes": [
+          "Doğru yanıt: Sürat, kısa sürede mümkün olan en yüksek hızda hareket edebilme yeteneğidir.",
+          "Kuvvet, bir dirence karşı koyma ya da onu yenme yeteneğidir, hızla ilgili değildir.",
+          "Esneklik, eklem hareket genişliğiyle ilgilidir, hareket hızını tanımlamaz.",
+          "Denge, vücut pozisyonunu koruma yeteneğidir, hız kavramıyla ilgili değildir.",
+          "Dayanıklılık, yorgunluğa karşı direnme yeteneğidir; kısa sürede yüksek hızla ilgili değil, uzun süreli performansla ilgilidir."
+        ]
+      },
+      {
+        "id": "extra98",
+        "question": "Vücudun belirli bir pozisyonda dengede kalabilme veya hareket sırasında dengesini koruyabilme yeteneğine ne ad verilir?",
+        "options": [
+          "Koordinasyon",
+          "Denge",
+          "Sürat",
+          "Esneklik",
+          "Kuvvet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Denge, vücudun belirli bir pozisyonda dengede kalabilme (statik denge) veya hareket sırasında dengesini koruyabilme (dinamik denge) yeteneğidir; merkezî sinir sistemi ile iskelet-kas sisteminin koordineli çalışmasına dayanır. Diğer seçenekler bu tanıma denk gelmez.",
+        "optionNotes": [
+          "Koordinasyon, hareketlerin zamanlama ve sıralama uyumudur; denge onun bir bileşeni olsa da soruda tarif edilen doğrudan tanım dengeye aittir.",
+          "Doğru yanıt: Denge, vücudun belirli bir pozisyonda veya hareket sırasında dengede kalabilme yeteneğidir.",
+          "Sürat, hızlı hareket etme yeteneğidir, pozisyon korumayla ilgili değildir.",
+          "Esneklik, eklem hareket genişliğiyle ilgilidir, denge kavramıyla ilişkili değildir.",
+          "Kuvvet, bir dirence karşı koyma yeteneğidir, pozisyon koruma/denge ile ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra99",
+        "question": "Organizmanın uzun süreli fiziksel etkinliklere karşı yorgunluğa direnebilme yeteneği aşağıdakilerden hangisidir?",
+        "options": [
+          "Esneklik",
+          "Kuvvet",
+          "Dayanıklılık",
+          "Sürat",
+          "Koordinasyon"
+        ],
+        "correctIndex": 2,
+        "explanation": "Dayanıklılık, organizmanın uzun süreli fiziksel etkinliklere karşı yorgunluğa direnebilme gücüdür; kalp-dolaşım, solunum ve sinir sistemiyle ilişkili motorsal bir yetidir. Diğer seçenekler yorgunluğa direnmeyi değil, farklı motor özellikleri ifade eder.",
+        "optionNotes": [
+          "Esneklik, eklem hareket genişliğiyle ilgilidir, yorgunluğa direnme kapasitesini tanımlamaz.",
+          "Kuvvet, bir dirence karşı koyma yeteneğidir, uzun süreli yorgunluğa direnmeyle ilgili değildir.",
+          "Doğru yanıt: Dayanıklılık, organizmanın uzun süreli etkinliklerde yorgunluğa direnebilme gücüdür.",
+          "Sürat, kısa sürede yüksek hızla hareket etme yeteneğidir, uzun süreli dirençle ilgili değildir.",
+          "Koordinasyon, hareketlerin zamanlama ve sıralama uyumudur, yorgunluğa direnmeyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra100",
+        "question": "Koşma, sıçrama ve atlama gibi hareketler aşağıdaki hareket türlerinden hangisine girer?",
+        "options": [
+          "Manipülatif hareketler",
+          "Lokomotor hareketler",
+          "Stabil hareketler",
+          "Denge hareketleri",
+          "Yardımcı hareketler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Koşma, sıçrama ve atlama gibi vücudun bir yerden başka bir yere taşınmasını sağlayan hareketler, lokomotor (yer değiştirme) hareketler olarak sınıflandırılır. Bu hareketler, temel hareket becerileri sınıflamasında yer değiştirme kategorisinin tipik örnekleridir.",
+        "optionNotes": [
+          "Manipülatif hareketler, bir nesneyi kontrol etmeyi gerektiren hareketlerdir (atma, yakalama gibi); koşma/sıçrama bu kategoriye girmez.",
+          "Doğru yanıt: Koşma, sıçrama ve atlama, vücudun yer değiştirmesini sağlayan lokomotor hareketlerdir.",
+          "Stabil hareketler, vücudun yer değiştirmeden yapılan hareketleridir (dönme, eğilme gibi); koşma/sıçrama bu gruba girmez.",
+          "Denge hareketleri, dengeyi koruma amaçlı hareketlerdir; ayrı bir temel kategori olarak sıçrama/koşmayı kapsamaz.",
+          "Yardımcı hareketler, standart bir temel hareket kategorisi olarak kullanılmaz, bu seçenek bir çeldiricidir."
+        ]
+      },
+      {
+        "id": "extra101",
+        "question": "Vücudun bir yer değiştirmesi olmadan yapılan hareketler aşağıdakilerden hangisidir?",
+        "options": [
+          "Lokomotor hareketler",
+          "Stabil hareketler",
+          "Manipülatif hareketler",
+          "Sürat hareketleri",
+          "Dayanıklılık hareketleri"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vücudun bir yer değiştirmesi olmadan yapılan hareketler (örneğin eğilme, dönme, germe gibi) stabil (dengeleme) hareketler olarak sınıflandırılır. Bu hareketlerde vücut sabit bir noktada kalırken denge ve postür kontrolü ön plandadır.",
+        "optionNotes": [
+          "Lokomotor hareketler, vücudun bir yerden başka bir yere taşınmasını içerir, yer değiştirmeme durumuyla çelişir.",
+          "Doğru yanıt: Yer değiştirme olmadan yapılan hareketler stabil (dengeleme) hareketler olarak tanımlanır.",
+          "Manipülatif hareketler, bir nesneyi kontrol etmeyi gerektirir, yer değiştirme olup olmamasıyla tanımlanmaz.",
+          "Sürat hareketleri standart bir temel hareket kategorisi değildir, bu seçenek bir çeldiricidir.",
+          "Dayanıklılık hareketleri de standart bir temel hareket kategorisi değildir, bu seçenek bir çeldiricidir."
+        ]
+      },
+      {
+        "id": "extra102",
+        "question": "Motor gelişim aşağıdakilerden hangisini ifade eder?",
+        "options": [
+          "Sadece kasların büyümesini",
+          "Hareket yeteneğinin yaşa bağlı gelişimini",
+          "Sadece kuvvet artışını",
+          "Sadece hız gelişimini",
+          "Spor branşı öğrenimini"
+        ],
+        "correctIndex": 1,
+        "explanation": "Motor gelişim, bireyin yaşına ve olgunlaşma düzeyine bağlı olarak hareket yeteneklerinin zaman içinde ilerlemesini ifade eden geniş kapsamlı bir kavramdır; sadece tek bir fiziksel özelliğin (kas büyümesi, kuvvet, hız) gelişimiyle sınırlı değildir ve bir spor branşının teknik öğrenimini de kapsamaz.",
+        "optionNotes": [
+          "Sadece kasların büyümesi, motor gelişimin dar bir fiziksel/anatomik boyutudur, kavramın bütününü ifade etmez.",
+          "Doğru yanıt: Motor gelişim, hareket yeteneğinin yaşa bağlı olarak ilerlemesini ifade eden kapsamlı bir süreçtir.",
+          "Sadece kuvvet artışı, motor gelişimin yalnızca bir bileşenidir, tüm kavramı karşılamaz.",
+          "Sadece hız gelişimi de motor gelişimin yalnızca bir boyutudur, kavramın tamamını tanımlamaz.",
+          "Spor branşı öğrenimi, belirli bir tekniğin öğrenilmesidir; motor gelişim ise yaşa bağlı genel hareket yeteneği ilerlemesini ifade eder, branşa özgü değildir."
+        ]
+      },
+      {
+        "id": "extra103",
+        "question": "Motor becerilerin öğrenilmesinde tekrarın amacı aşağıdakilerden hangisidir?",
+        "options": [
+          "Sporcuyu yormak",
+          "Hareketin otomatikleşmesini sağlamak",
+          "Kas kütlesini artırmak",
+          "Nabzı yükseltmek",
+          "Sporcuyu dinlendirmek"
+        ],
+        "correctIndex": 1,
+        "explanation": "Motor becerilerin öğrenilmesinde tekrarın amacı, hareketin bilinçli kontrolden çıkarak otomatikleşmesini sağlamaktır; teknik öğreniminin son safhası olan sağlamlaştırma ve pekiştirme safhasında hareket tekrarlar yoluyla otomatik hâle gelir ve sporcu en üst düzeye ulaşır.",
+        "optionNotes": [
+          "Sporcuyu yormak, tekrarın bir yan etkisi olabilir ama amacı değildir; amaç hareketin otomatikleşmesidir.",
+          "Doğru yanıt: Tekrarın temel amacı, hareketin bilinçli düşünceden çıkıp otomatik hâle gelmesini sağlamaktır.",
+          "Kas kütlesini artırmak, kuvvet antrenmanının hedefidir, motor beceri öğreniminde tekrarın birincil amacı değildir.",
+          "Nabzı yükseltmek, dayanıklılık/kondisyon çalışmalarının bir sonucu olabilir, beceri öğreniminde tekrarın amacı değildir.",
+          "Sporcuyu dinlendirmek, tekrarın amacıyla doğrudan çelişir; tekrar, dinlenme değil pratik yoluyla öğrenmeyi sağlar."
+        ]
+      },
+      {
+        "id": "extra104",
+        "question": "Yeni öğrenilen bir hareketin ilk aşamasında sporcu aşağıdakilerden hangisini daha çok yapar?",
+        "options": [
+          "Otomatik hareket eder",
+          "Hata yapma oranı düşüktür",
+          "Hareketi bilinçli olarak düşünür",
+          "Çok hızlı hareket eder",
+          "Hareketi mükemmel yapar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Yeni öğrenilen bir hareketin ilk aşaması olan 'amaca yönelik tanıma ve anlama safhası'nda sporcu, hareketin bütün olarak modelini düşünce düzeyinde oluşturur ve hareketi bilinçli olarak kontrol etmeye çalışır; otomatikleşme ve hatasız/hızlı uygulama ancak sonraki safhalarda (sağlamlaştırma ve pekiştirme) ortaya çıkar.",
+        "optionNotes": [
+          "Otomatik hareket etme, öğrenmenin son (sağlamlaştırma-pekiştirme) safhasına ait bir özelliktir, ilk aşamada görülmez.",
+          "Hata yapma oranının düşük olması da ileri safhalara ait bir özelliktir; ilk aşamada hata oranı yüksektir.",
+          "Doğru yanıt: İlk aşamada sporcu, hareketin modelini düşünce yoluyla oluşturarak hareketi bilinçli olarak kontrol etmeye çalışır.",
+          "Çok hızlı hareket etme, hareketin henüz pekişmediği ilk aşamada beklenen bir özellik değildir.",
+          "Hareketi mükemmel yapma, öğrenmenin ileri/son safhalarında ortaya çıkan bir özelliktir, ilk aşamada görülmez."
+        ]
+      },
+      {
+        "id": "extra105",
+        "question": "Kasların hızlı şekilde kasılıp gevşeyerek hareket oluşturmasına ne ad verilir?",
+        "options": [
+          "Patlayıcı kuvvet",
+          "Statik kuvvet",
+          "Maksimal kuvvet",
+          "İzometrik kuvvet",
+          "Dayanıklılık kuvveti"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kasların hızlı bir şekilde kasılıp gevşeyerek hareket oluşturmasına patlayıcı kuvvet (çabuk kuvvet) denir; bu, kuvvet ile süratin bir bileşimi olarak yüksek hızda dış dirençleri yenebilme yetisidir. Diğer kuvvet türleri (statik, maksimal, izometrik) hızlı kasılma-gevşeme döngüsünü değil farklı kuvvet üretim biçimlerini ifade eder.",
+        "optionNotes": [
+          "Doğru yanıt: Patlayıcı (çabuk) kuvvet, kasların hızlı kasılıp gevşeyerek yüksek hızda kuvvet üretmesini ifade eder.",
+          "Statik kuvvet, kasta gözle görülür bir kısalma olmadan (izometrik) ortaya çıkan kuvvettir, hızlı kasılma-gevşeme döngüsü içermez.",
+          "Maksimal kuvvet, sinir-kas sisteminin istemli kasılmayla ortaya çıkardığı en büyük kuvvettir, hız unsurunu öncelemez.",
+          "İzometrik kuvvet, kas boyunda değişiklik olmaksızın üretilen statik bir kuvvet türüdür, hızlı kasılma-gevşemeyle ilgili değildir.",
+          "Dayanıklılık kuvveti (kuvvette devamlılık), uzun süre direnci yenebilme kapasitesidir, hızlı kasılma-gevşeme döngüsünü tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra106",
+        "question": "Aşağıdakilerden hangisi koordinasyonun geliştirilmesinde kullanılan yöntemlerden biridir?",
+        "options": [
+          "Tekrar çalışmaları",
+          "Sabit tempo koşuları",
+          "Uzun süreli yürüyüşler",
+          "Maksimal ağırlık kaldırma",
+          "Dinlenme"
+        ],
+        "correctIndex": 0,
+        "explanation": "Koordinasyon, doğuştan kazanılmayan, antrenman ve tekrar yoluyla geliştirilen bir özelliktir; hareketin farklı varyasyonlarda tekrar edilmesi, sinir-kas sisteminin hareketi daha verimli ve otomatik şekilde düzenlemesini sağlar. Sabit tempo koşuları, uzun yürüyüşler ve maksimal ağırlık kaldırma gibi çalışmalar sırasıyla dayanıklılık ve kuvvet gelişimine yöneliktir, dinlenme ise bir geliştirme yöntemi değildir.",
+        "optionNotes": [
+          "Doğru yanıt: Tekrar çalışmaları, koordinasyonun doğuştan değil antrenmanla, hareketin defalarca pratik edilmesiyle geliştirilmesini sağlar.",
+          "Sabit tempo koşuları, genellikle aerobik dayanıklılığı geliştirmeye yönelik bir çalışma türüdür, koordinasyon gelişimine özgü değildir.",
+          "Uzun süreli yürüyüşler, düşük şiddetli dayanıklılık/kondisyon çalışmasıdır, koordinasyonu hedefleyen bir yöntem değildir.",
+          "Maksimal ağırlık kaldırma, maksimal kuvvet gelişimine yönelik bir yöntemdir, koordinasyon gelişimiyle ilgili değildir.",
+          "Dinlenme, toparlanma sürecinin bir parçasıdır, bir motor özelliği 'geliştirme yöntemi' olarak sınıflandırılmaz."
+        ]
+      },
+      {
+        "id": "extra107",
+        "question": "Çocuklarda hareket gelişimi hangi sırayı takip eder?",
+        "options": [
+          "Karmaşık → Basit",
+          "Zor → Kolay",
+          "Basit → Karmaşık",
+          "Hızlı → Yavaş",
+          "Büyük → Küçük"
+        ],
+        "correctIndex": 2,
+        "explanation": "Çocuklarda hareket gelişimi, basit ve genel hareket kalıplarından başlayıp zamanla daha karmaşık ve özelleşmiş hareket becerilerine doğru ilerler (örneğin önce yürüme, ardından koşma, sonra karmaşık spor becerileri gibi). Bu, motor gelişimin evrensel olarak kabul edilen temel ilkelerinden biridir.",
+        "optionNotes": [
+          "Karmaşık → Basit, motor gelişimin gerçek yönüyle tam tersidir; gelişim basitten karmaşığa doğru ilerler.",
+          "Zor → Kolay, gelişim sürecinin yönünü doğru yansıtmaz; çocuk önce kolay/basit hareketleri kazanır.",
+          "Doğru yanıt: Hareket gelişimi, basit hareket kalıplarından başlayıp giderek daha karmaşık becerilere doğru ilerler.",
+          "Hızlı → Yavaş, motor gelişimin kabul edilen bir ilkesi değildir, bu seçenek bir çeldiricidir.",
+          "Büyük → Küçük, motor gelişimde kullanılan standart bir sıralama ilkesi değildir; bu seçenek basit-karmaşık ilkesiyle karıştırılmaya yönelik bir çeldiricidir."
+        ]
+      },
+      {
+        "id": "extra108",
+        "question": "Bir hareketin doğru zamanda ve doğru sırayla yapılmasına ne ad verilir?",
+        "options": [
+          "Koordinasyon",
+          "Dayanıklılık",
+          "Esneklik",
+          "Kuvvet",
+          "Sürat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bir hareketin doğru zamanda ve doğru sırayla yapılması, koordinasyonun temel tanımına karşılık gelir; koordinasyon, merkezî sinir sistemi ile kas sisteminin uyumlu çalışarak hareketin doğru zamanlama ve sıralamayla gerçekleşmesini sağlar.",
+        "optionNotes": [
+          "Doğru yanıt: Koordinasyon, hareketin doğru zamanda ve doğru sırayla yapılmasını sağlayan yetenektir.",
+          "Dayanıklılık, yorgunluğa karşı direnme yeteneğidir, zamanlama/sıralama ile ilgili değildir.",
+          "Esneklik, eklem hareket genişliğiyle ilgilidir, hareketin sıralamasıyla ilgili değildir.",
+          "Kuvvet, bir dirence karşı koyma yeteneğidir, zamanlama/sıralama tanımı değildir.",
+          "Sürat, hızlı hareket etme yeteneğidir, hareketin doğru sırayla yapılmasını tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra109",
+        "question": "Vücudun ağırlık merkezini kontrol ederek dengede kalmasını sağlayan sistem aşağıdakilerden hangisidir?",
+        "options": [
+          "Solunum sistemi",
+          "Denge sistemi",
+          "Sindirim sistemi",
+          "Dolaşım sistemi",
+          "Endokrin sistemi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Vücudun ağırlık merkezini kontrol ederek dengede kalmasını sağlayan sistem, denge sistemidir; bu sistem merkezî sinir sistemi, iç kulaktaki vestibüler yapı, görme ve propriosepsiyon gibi duyusal girdilerin birleşimiyle çalışır. Diğer seçeneklerde sayılan solunum, sindirim, dolaşım ve endokrin sistemleri farklı vücut fonksiyonlarını (gaz değişimi, besin sindirimi, kan dolaşımı, hormon salınımı) yönetir, denge/postür kontrolüyle ilgilenmez.",
+        "optionNotes": [
+          "Solunum sistemi, oksijen-karbondioksit değişimini sağlar, denge/ağırlık merkezi kontrolüyle ilgili değildir.",
+          "Doğru yanıt: Denge sistemi, vücudun ağırlık merkezini kontrol ederek dengede kalmasını sağlayan sistemdir.",
+          "Sindirim sistemi, besinlerin parçalanıp emilmesini sağlar, denge kontrolüyle ilgisi yoktur.",
+          "Dolaşım sistemi, kanın vücutta taşınmasını sağlar, ağırlık merkezi kontrolüyle ilgili değildir.",
+          "Endokrin sistemi, hormon salgılarını düzenler, denge/postür kontrolüyle doğrudan ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra110",
+        "question": "Motor becerilerin öğrenilmesi sürecinde antrenörün en önemli görevlerinden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Sporcuları sürekli dinlendirmek",
+          "Hareketleri doğru şekilde öğretmek",
+          "Sadece yarışma yaptırmak",
+          "Antrenman süresini azaltmak",
+          "Sporcuları cezalandırmak"
+        ],
+        "correctIndex": 1,
+        "explanation": "Motor becerilerin öğrenilmesi sürecinde antrenörün en önemli görevlerinden biri, hareketleri sporcuya doğru teknikle öğretmektir; çünkü yanlış öğrenilen bir hareket kalıbının sonradan düzeltilmesi oldukça zordur ve sporcunun ileriki performansını olumsuz etkiler. Diğer seçenekler antrenörün görevi olmadığı gibi, öğrenme sürecine de zarar verebilecek davranışlardır.",
+        "optionNotes": [
+          "Sporcuları sürekli dinlendirmek, motor beceri öğretiminin amacı değildir; aşırı dinlenme pratik ve tekrarı, dolayısıyla öğrenmeyi engeller.",
+          "Doğru yanıt: Antrenörün en önemli görevlerinden biri, hareketleri sporcuya doğru şekilde öğretmektir.",
+          "Sadece yarışma yaptırmak, beceri öğretimini atlayan, antrenman mantığıyla çelişen bir yaklaşımdır.",
+          "Antrenman süresini azaltmak, beceri öğrenimi için gerekli tekrar ve pratiği sınırlayacağından öğretim görevine aykırıdır.",
+          "Sporcuları cezalandırmak, motor beceri öğreniminde kabul edilen bir yöntem değildir, motivasyonu ve öğrenmeyi olumsuz etkiler."
+        ]
+      },
+      {
+        "id": "extra111",
+        "question": "Isınma sırasında kasların daha verimli çalışabilmesi ve sakatlık riskinin azaltılması için vücudun ulaşması gereken uygun sıcaklık düzeyi aşağıdakilerden hangisi ile ifade edilir?",
+        "options": [
+          "Maksimal ısı",
+          "Kritik ısı",
+          "İdeal ısı",
+          "Dinlenme ısısı",
+          "Normal ısı"
+        ],
+        "correctIndex": 2,
+        "explanation": "Isınmanın amacı, kasların daha verimli çalışması ve sakatlık riskinin azaltılması için vücut ısısının belirli, optimum bir düzeye çıkarılmasıdır; literatürde bu hedef düzey ve bu düzeye ulaşmak için gereken süre 'ideal ısınma/ısı' olarak ifade edilir (Bompa'nın ideal ısınma süresi önerisiyle de uyumludur). Maksimal veya kritik ısı aşırı/zararlı düzeyleri çağrıştırırken, dinlenme ve normal ısı ısınma öncesi, henüz yükseltilmemiş durumu ifade eder.",
+        "optionNotes": [
+          "Maksimal ısı, vücudun dayanabileceği uç/aşırı bir sıcaklık düzeyini çağrıştırır; ısınmanın hedefi bu değildir, aşırı ısı sakatlığa yol açabilir.",
+          "Kritik ısı, metinde ısınma hedefi olarak kullanılan bir terim değildir; tehlike eşiğini çağrıştıran bir ifadedir.",
+          "Doğru yanıt; ısınmanın amacı vücudu performans ve güvenlik için en uygun (ideal) ısı düzeyine çıkarmaktır.",
+          "Dinlenme ısısı, ısınma öncesi, henüz yükseltilmemiş bazal durumu ifade eder; ısınmanın ulaşmaya çalıştığı düzey değildir.",
+          "Normal ısı da dinlenme durumundaki temel vücut ısısını ifade eder, ısınma ile yükseltilmiş hedef düzeyi karşılamaz."
+        ]
+      },
+      {
+        "id": "extra112",
+        "question": "Kasın uzunluğunda herhangi bir değişiklik olmadan, sadece gerilim oluşturarak yapılan kasılma türü izometrik kas çalışması olarak adlandırılır. İzometrik kas çalışması sonucu ortaya çıkan kuvvete ne ad verilir?",
+        "options": [
+          "Dinamik kuvvet",
+          "Patlayıcı kuvvet",
+          "Statik kuvvet",
+          "Maksimal kuvvet",
+          "Çabuk kuvvet"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde statik kuvvet, izometrik kasılma sırasında kasta gözle görülür bir kısalma/uzunluk değişikliği olmadan, sadece gerilim oluşturularak ortaya çıkan kuvvet olarak tanımlanır. Soruda tarif edilen 'kasın uzunluğunda değişiklik olmadan gerilim oluşturma' ifadesi doğrudan izometrik/statik kuvvetin tanımına karşılık gelir.",
+        "optionNotes": [
+          "Dinamik kuvvet, izotonik kasılmalarla, yani kasın boyu değişerek ortaya çıkan kuvvettir; soruda tarif edilen izometrik durumla çelişir.",
+          "Patlayıcı kuvvet (çabuk kuvvet), yüksek hızda dış dirençleri yenme yetisidir; kas uzunluğu değişmeden oluşan bir kuvvet değildir.",
+          "Doğru yanıt; statik kuvvet izometrik kasılmayla, kas uzunluğu değişmeden ortaya çıkan kuvvettir.",
+          "Maksimal kuvvet, kas-sinir sisteminin istemli kasılmayla ortaya çıkardığı en büyük kuvvettir; izometrik/izotonik ayrımını değil kuvvetin büyüklüğünü ifade eder.",
+          "Çabuk kuvvet, kuvvet ve süratin bir ürünüdür, hızlı hareketle ilgilidir; statik/izometrik durumu tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra113",
+        "question": "“Sporcunun fiziki ve fizyolojik yorgunluğa karşı koyabilme ve uzun süre performansını sürdürebilme gücü” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "options": [
+          "Sürat",
+          "Dayanıklılık",
+          "Kuvvet",
+          "Esneklik",
+          "Koordinasyon"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde dayanıklılık, 'sporcunun fiziki ve fizyolojik yorgunluğa dayanma gücü' olarak tanımlanır ve bu gücün uzun süre performansı sürdürebilmeyi sağladığı belirtilir. Soru metnindeki tanım, dayanıklılığın kitaptaki tanımıyla birebir örtüşmektedir.",
+        "optionNotes": [
+          "Sürat, bir mesafeyi en kısa sürede kat etme yeteneğidir; yorgunluğa karşı koyma ve uzun süre performans sürdürme tanımıyla ilgili değildir.",
+          "Doğru yanıt; tanım doğrudan dayanıklılığın kitaptaki tanımına aittir.",
+          "Kuvvet, bir dirence karşı koyma veya kütleyi hareket ettirme yeteneğidir; yorgunluğa karşı direnç değil, güç üretimiyle ilgilidir.",
+          "Esneklik, eklemlerin hareket genişliğini ifade eder; yorgunluğa dayanma gücüyle tanımlanmaz.",
+          "Koordinasyon, hareketlerin doğru ve çabuk uygulanmasıyla ilgilidir; fiziki/fizyolojik yorgunluğa karşı koyma tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra114",
+        "question": "Bir antrenman birimi genellikle ısınma, ana bölüm ve soğuma bölümlerinden oluşur. Buna göre antrenmanın ana bölümünde aşağıdakilerden hangisi uygulanır?",
+        "options": [
+          "Dinlenme ve toparlanma çalışmaları",
+          "Esneklik ve gevşeme çalışmaları",
+          "Branşa özgü teknik, taktik ve performans geliştirici çalışmalar",
+          "Nabız düşürme egzersizleri",
+          "afif tempolu yürüyüşler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde ana (temel) bölümün amacının sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel biyomotor yetileri ve psikolojik nitelikleri geliştirmek olduğu belirtilir; bu bölüm antrenmanın asıl kısmıdır. Dolayısıyla branşa özgü teknik, taktik ve performans geliştirici çalışmalar doğrudan ana bölümde uygulanır.",
+        "optionNotes": [
+          "Dinlenme ve toparlanma çalışmaları, antrenmanın soğuma (bitiriş) bölümüne aittir, ana bölümde değil.",
+          "Esneklik ve gevşeme çalışmaları da genellikle soğuma bölümünde (statik germe) yer alır, ana bölümün odağı değildir.",
+          "Doğru yanıt; ana bölüm, branşa özgü teknik, taktik ve performans geliştirici çalışmaların yapıldığı antrenmanın asıl kısmıdır.",
+          "Nabız düşürme egzersizleri, soğuma bölümünün aktif toparlanma (jog vb.) kısmına aittir, ana bölümde uygulanmaz.",
+          "Hafif tempolu yürüyüşler, ısınma veya soğuma bölümünde kullanılan düşük şiddetli hareketlerdir, ana bölümün içeriği değildir."
+        ]
+      },
+      {
+        "id": "extra115",
+        "question": "Objeyle denge, sporcuların bir nesne (top, raket, sopa vb.) ile birlikte vücut dengesini kontrol edebilme becerisidir. Buna göre aşağıdakilerden hangisi objeyle denge türüne örnek değildir?",
+        "options": [
+          "Futbolcunun topu ayağında sektirmesi",
+          "Basketbolcunun top sürerken dengesini koruması",
+          "Cimnastikçinin denge tahtasında hareketsiz durması",
+          "Tenis oyuncusunun raketle topu kontrol etmesi",
+          "Hokey oyuncusunun sopayla topu sürmesi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Objeyle denge, sporcunun top, raket, sopa gibi bir nesneyle birlikte vücut dengesini kontrol edebilmesidir; bu nedenle bir ekipman/nesne kullanımı gerektirir. Cimnastikçinin denge tahtasında hareketsiz durması ise herhangi bir ek nesne kullanmadan sabit bir pozisyonu koruması olduğundan statik dengeye örnektir, objeyle dengeye değil.",
+        "optionNotes": [
+          "Futbolcunun topu ayağında sektirmesi, bir nesne (top) ile dengeyi kontrol etmeyi gerektirdiğinden objeyle dengeye örnektir.",
+          "Basketbolcunun top sürerken dengesini koruması da bir nesneyle (top) birlikte dengeyi sürdürmeyi içerdiğinden objeyle dengeye örnektir.",
+          "Doğru yanıt; denge tahtasında hareketsiz durma, ek bir nesne kullanılmadan sabit pozisyonu koruma gerektirdiğinden statik dengeye örnektir, objeyle denge değildir.",
+          "Tenis oyuncusunun raketle topu kontrol etmesi, bir ekipman (raket) ile dengeyi yönetmeyi içerdiğinden objeyle dengeye örnektir.",
+          "Hokey oyuncusunun sopayla topu sürmesi de bir nesne (sopa/top) ile dengeyi korumayı içerdiğinden objeyle dengeye örnektir."
+        ]
+      },
+      {
+        "id": "extra116",
+        "question": "Spor eğitiminde kullanılan çok yönlü gelişim ilkesi piramidi, sporcuların aşamalı olarak gelişimini ifade eder. Buna göre bu piramidin en alt basamağını aşağıdakilerden hangisi oluşturur?",
+        "options": [
+          "Branşa özgü teknik çalışmalar",
+          "Yarışma performansı",
+          "Taktik gelişim",
+          "Üst düzey performans antrenmanları",
+          "Temel hareket eğitimi"
+        ],
+        "correctIndex": 4,
+        "explanation": "Çok yönlü gelişim ilkesi piramidinde, tabanı çocukluk evresinde kazanılan çok yönlü/temel hareket eğitimi oluşturur; bunun üzerine branşa özgü çalışmalar, en tepede ise yarışma performansı/yüksek performans gelir. Bu nedenle piramidin en alt ve temel basamağı temel hareket eğitimidir.",
+        "optionNotes": [
+          "Branşa özgü teknik çalışmalar, piramidin orta/ikinci basamağıdır, temel hareket eğitiminin üzerine inşa edilir, en alt basamak değildir.",
+          "Yarışma performansı, piramidin en üst (son) basamağıdır; en alt basamak olarak doğru değildir.",
+          "Taktik gelişim, teknik hazırlığın geliştirilmesine bağlı olan, piramidin üst katmanlarına ait bir süreçtir, temel basamak değildir.",
+          "Üst düzey performans antrenmanları, piramidin tepe noktasına karşılık gelir, tabanı oluşturmaz.",
+          "Doğru yanıt; piramidin tabanını, çocukluk evresinde kazanılan temel hareket eğitimi oluşturur."
+        ]
+      },
+      {
+        "id": "extra117",
+        "question": "1982 yılında Beden Terbiyesi Kanunu çerçevesinde, antrenör eğitimi, spor bilimleri araştırmaları ve sporcu sağlığı konularında çalışmalar yapmak amacıyla kurulan araştırma merkezi aşağıdakilerden hangisidir?",
+        "options": [
+          "Beden Terbiyesi ve Spor Araştırma Merkezi",
+          "Spor Eğitimi Araştırma Merkezi",
+          "Spor Bilimleri Araştırma Merkezi",
+          "Antrenman Bilimleri Araştırma Merkezi",
+          "Spor Sağlığı Araştırma Merkezi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kaynakta, 1982'de Beden Terbiyesi Kanunu çerçevesinde antrenör eğitimi ve sporcu sağlığı ile ilgili çalışmalar yapmak amacıyla 'Ankara Sporcu Eğitim Sağlık ve Araştırma Merkezi' (SESAM) kurulduğu belirtilir. Verilen seçenekler arasında bu kurumun tam adıyla birebir örtüşen bir ifade bulunmadığından, kurumun adındaki 'Eğitim' vurgusuna en yakın seçenek olan 'Spor Eğitimi Araştırma Merkezi' işaretlenmiştir; bu seçim kesin bir kaynak eşleşmesi değil, en yakın/en makul seçenektir, bu konuda emin değilim.",
+        "optionNotes": [
+          "Beden Terbiyesi ve Spor Araştırma Merkezi, metindeki 'Beden Terbiyesi Kanunu' ifadesiyle karıştırılabilecek ama kurumun gerçek adıyla (Sporcu Eğitim Sağlık ve Araştırma Merkezi) örtüşmeyen bir seçenektir.",
+          "En yakın seçenek olarak işaretlendi; kurumun gerçek adındaki 'Eğitim' kelimesiyle kısmen örtüşür, ancak 'Sağlık' bileşenini içermez.",
+          "Spor Bilimleri Araştırma Merkezi, kurumun gerçek adında geçen 'Eğitim/Sağlık' ifadelerini içermediği için tam örtüşmeyen bir seçenektir.",
+          "Antrenman Bilimleri Araştırma Merkezi, metinde bu isimle anılan bir kurum geçmez, bu nedenle gerçek adla örtüşmez.",
+          "Spor Sağlığı Araştırma Merkezi, kurumun adındaki 'Sağlık' bileşenini içerse de 'Eğitim' bileşenini içermediğinden tam örtüşmez; B seçeneğiyle benzer düzeyde yakınlıkta bir alternatiftir."
+        ]
+      },
+      {
+        "id": "extra118",
+        "question": "Sürantrenman (aşırı antrenman), sporcunun yeterli dinlenme olmadan aşırı yüklenmeye maruz kalması sonucu ortaya çıkan bir durumdur. Buna göre aşağıdakilerden hangisi sürantrenmanın belirtilerinden biri değildir?",
+        "options": [
+          "Performans düşüşü",
+          "Sürekli yorgunluk hissi",
+          "Uyku düzensizlikleri",
+          "Dinlenik nabzın artması",
+          "Performansın sürekli artması"
+        ],
+        "correctIndex": 4,
+        "explanation": "Sürantrenman, yetersiz dinlenme ve aşırı yüklenme sonucu düşük performansla sonuçlanan bir durumdur; belirtileri arasında huzursuzluk, sürekli yorgunluk, uyku düzensizlikleri, dinlenik nabzın artması gibi olumsuz değişiklikler sayılır. 'Performansın sürekli artması' bu tabloya aykırıdır; sürantrenmanın tipik sonucu performans artışı değil, performans düşüşüdür.",
+        "optionNotes": [
+          "Performans düşüşü, sürantrenmanın en temel ve beklenen belirtilerinden biridir, metinde doğrudan sayılmıştır.",
+          "Sürekli yorgunluk hissi, sürantrenmanın genel belirtileri arasında metinde yer alır.",
+          "Uyku düzensizlikleri de sürantrenmanla ilişkilendirilen tipik belirtilerden biridir.",
+          "Dinlenik nabzın artması, sürantrenmanda görülen fizyolojik belirtilerden biri olarak bilinir ve metindeki genel çerçeveyle uyumludur.",
+          "Doğru yanıt; sürantrenman performansı düşürür, artırmaz, bu nedenle 'performansın sürekli artması' sürantrenmanın bir belirtisi olamaz."
+        ]
+      },
+      {
+        "id": "extra119",
+        "question": "Esneklik; kas, tendon ve eklemlerin hareket genişliğini ifade eder ve çeşitli iç ve dış faktörlerden etkilenir. Buna göre aşağıdakilerden hangisi esnekliği etkileyen iç faktörlerden biridir?",
+        "options": [
+          "Ortam sıcaklığı",
+          "Yaş",
+          "Antrenman türü",
+          "Günün saati",
+          "Zemin yapısı"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kaynak ünitede esnekliği etkileyen iç faktörler; eklem yapısı, kemik yapısı, kas-tendon-ligament elastikiyeti, derinin elastikiyeti, kasın gevşeme-kasılma yeteneği ve eklem ısısı olarak sayılır. Buna karşın ortam sıcaklığı, günün saati ve yaş aynı kaynakta açıkça dış (çevresel/dışsal) faktörler arasında sayılmıştır; bu nedenle verilen beş seçenek arasında 'antrenman türü' elenerek en mantıklı iç faktör adayı olarak işaretlenmiştir. Bu soruda net bir kaynak eşleşmesi bulunamadığından seçim, eleme yöntemiyle yapılmış şeffaf bir tahmindir.",
+        "optionNotes": [
+          "Ortam sıcaklığı, kaynak metinde esnekliği etkileyen dış faktörler arasında açıkça sayılmıştır, iç faktör değildir.",
+          "Yaş, bu özel kaynakta (ergenlik öncesi/sonrası karşılaştırmasıyla) dış faktörler listesinde yer alır; genel beklentinin aksine burada içsel değil dışsal bir etken olarak sınıflandırılmıştır.",
+          "Doğru yanıt olarak işaretlendi; diğer dört seçenek kaynakta açıkça dış/çevresel faktör olarak geçtiğinden, antrenman türü eleme yoluyla en makul iç faktör adayı olarak kalmıştır, ancak bu kesin bir kaynak eşleşmesi değildir.",
+          "Günün saati, kaynak metinde esnekliği etkileyen dış faktörler arasında doğrudan sayılmıştır (öğleden sonra daha iyi esneme örneği gibi).",
+          "Zemin yapısı da ortam/çevre kaynaklı bir etken olduğundan dış faktörler kategorisine girer, iç faktör olarak değerlendirilmez."
+        ]
+      },
+      {
+        "id": "extra120",
+        "question": "Spor tekniklerinin öğrenilmesi genellikle belirli aşamalardan oluşur. Bu aşamalar sporcunun hareketi tanıması, geliştirmesi ve otomatik hale getirmesi süreçlerini kapsar. Buna göre aşağıdakilerden hangisi tekniğin öğrenim safhalarından biri değildir?",
+        "options": [
+          "Kaba koordinasyon aşaması",
+          "İnce koordinasyon aşaması",
+          "Stabilizasyon (ustalaşma) aşaması",
+          "Otomatikleşme aşaması",
+          "Sürat geliştirme aşaması"
+        ],
+        "correctIndex": 4,
+        "explanation": "Tekniğin öğrenim safhaları kaba koordinasyon, ince koordinasyon, stabilizasyon (sağlamlaştırma/ustalaşma) ve otomatikleşme aşamalarından oluşur; bu aşamalar sporcunun hareketi tanıyıp geliştirip otomatik hâle getirmesini kapsar. 'Sürat geliştirme aşaması' bu safhalar arasında sayılmaz; sürat, teknik öğrenim safhalarından değil, ayrı bir biyomotor özelliktir.",
+        "optionNotes": [
+          "Kaba koordinasyon aşaması, tekniğin öğrenim safhalarından biri olarak metinde açıkça sayılmıştır.",
+          "İnce koordinasyon aşaması da tekniğin öğrenim safhalarından biridir, ayrıntılı koordinasyonun geliştirildiği evreyi ifade eder.",
+          "Stabilizasyon (ustalaşma) aşaması, tekniğin sağlamlaştırılıp pekiştirildiği, öğrenim safhalarından biri olarak metinde yer alır.",
+          "Otomatikleşme aşaması, tekniğin öğrenim sürecinin son ve en üst safhasıdır, metinde sayılan safhalardan biridir.",
+          "Doğru yanıt; sürat geliştirme, tekniğin öğrenim safhası değil, ayrı bir biyomotor özelliğin (sürat) geliştirilmesiyle ilgilidir."
+        ]
+      },
+      {
+        "id": "extra121",
+        "question": "Bir spor kulübünün küçük yaşlarda yetenekli sporcuları tespit ederek altyapısına kazandırması ve bu sporcuları geliştirerek kendi üst düzey sporcularını yetiştirmesi süreci aşağıdaki kavramlardan hangisi ile ifade edilir?",
+        "options": [
+          "Transfer politikası",
+          "Yetenek seçimi ve geliştirme",
+          "Rekreasyonel spor",
+          "Spor pazarlaması",
+          "Sponsorluk sistemi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Küçük yaşlarda yetenekli sporcuların tespit edilip altyapıya kazandırılması, geliştirilmesi ve üst düzey sporcu olarak yetiştirilmesi süreci, yetenek seçimi ve yönlendirme/geliştirme kavramıyla ifade edilir. Bu süreç, bireyin antropometrik, genetik ve motorik özelliklerinin değerlendirilip sistematik biçimde spora yönlendirilmesini ve geliştirilmesini kapsar.",
+        "optionNotes": [
+          "Transfer politikası, zaten yetişmiş sporcuların bir kulüpten diğerine kazandırılmasıyla ilgilidir, küçük yaşta yetenek tespiti ve geliştirmeyle ilgili değildir.",
+          "Doğru yanıt; küçük yaşta yetenekli sporcuları tespit edip geliştirme süreci, yetenek seçimi ve geliştirme kavramıyla tanımlanır.",
+          "Rekreasyonel spor, performans veya üst düzey sporcu yetiştirme amacı taşımayan, sağlık/sosyalleşme odaklı bir katılım türüdür.",
+          "Spor pazarlaması, sporun ticari ve tanıtım boyutuyla ilgilidir, sporcu geliştirme süreciyle ilgili değildir.",
+          "Sponsorluk sistemi, kulüplerin finansman kaynaklarıyla ilgilidir, yetenekli sporcuların tespiti ve geliştirilmesi sürecini tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra122",
+        "question": "Spor eğitiminde kullanılan çok yönlü gelişim ilkesi piramidi, sporcuların gelişimini aşamalı bir şekilde açıklar. Buna göre piramitte gelişim evreleri aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
+        "options": [
+          "Yarışma performansı → Temel hareket eğitimi → Branşa özgü çalışmalar",
+          "Branşa özgü çalışmalar → Temel hareket eğitimi → Yarışma performansı",
+          "Temel hareket eğitimi → Branşa özgü çalışmalar → Yarışma performansı",
+          "Yarışma performansı → Branşa özgü çalışmalar → Temel hareket eğitimi",
+          "Branşa özgü çalışmalar → Yarışma performansı → Temel hareket eğitimi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Çok yönlü gelişim ilkesi piramidinde gelişim evreleri, tabandan tepeye doğru sırasıyla temel hareket eğitimi, branşa özgü çalışmalar ve yarışma performansı şeklinde ilerler. Bu sıralama, piramidin en genel (taban) düzeyden en özelleşmiş (tepe) düzeye doğru aşamalı gelişimi yansıtır.",
+        "optionNotes": [
+          "Bu seçenekte sıralama tam tersine çevrilmiştir; yarışma performansı piramidin tepesinde, temel hareket eğitimi ise tabanında olmalıdır.",
+          "Bu seçenek, branşa özgü çalışmaları en başa koyarak piramidin taban-tepe mantığını bozar; doğru sıralamada önce temel hareket eğitimi gelir.",
+          "Doğru yanıt; piramidin doğru sıralaması temel hareket eğitimi → branşa özgü çalışmalar → yarışma performansıdır.",
+          "Bu seçenek piramidi tamamen tersten sıralar, yarışma performansını en başa, temel hareket eğitimini en sona koyar.",
+          "Bu seçenek de yanlış bir sıralama sunar; branşa özgü çalışmaları başa, temel hareket eğitimini en sona koyarak piramidin mantığını bozar."
+        ]
+      },
+      {
+        "id": "extra123",
+        "question": "Spor bilimlerinde sporcuların planlı ve sistemli şekilde gelişimini açıklayan sporcu gelişim modeli, belirli aşamalardan oluşmaktadır. Buna göre sporcu gelişimi kaç aşamaya ayrılır?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde en bilinen sporcu gelişim modeli olan Uzun Vadeli Sporcu Gelişimi (LTAD/UVSG) modelinin yedi aşamadan (Aktif Başlangıç, Temel Eğitim, Antrenman Yapmayı Öğrenme, Antrenman İçin Antrenman, Yarışma İçin Antrenman, Kazanmak İçin Antrenman, Aktif Yaşam İçin Antrenman) oluştuğu açıkça belirtilmiştir. Bu nedenle sporcu gelişimi bu modele göre 7 aşamaya ayrılır.",
+        "optionNotes": [
+          "3 aşama, LTAD modelini tamamlayan DMSP modelinin (örnekleme, uzmanlaşma, yatırım) aşama sayısıdır, LTAD'ın kendisi için doğru değildir.",
+          "4 aşama, metinde sporcu gelişim modeli için belirtilen sayı değildir.",
+          "5 aşama da metinde LTAD için verilen sayı değildir.",
+          "6 aşama, LTAD modelinin yedi evresinden bir eksiktir, metindeki sayıyla uyuşmaz.",
+          "Doğru yanıt; metinde UVSG (LTAD) modelinin yedi aşamadan oluştuğu açıkça ifade edilmiştir."
+        ]
+      },
+      {
+        "id": "extra124",
+        "question": "“Kas-sinir sisteminin istemli bir kasılma ile ortaya çıkarabildiği en büyük kuvvet” aşağıdaki kavramlardan hangisinin tanımıdır?",
+        "options": [
+          "Çabuk kuvvet",
+          "Patlayıcı kuvvet",
+          "Statik kuvvet",
+          "Maksimal kuvvet",
+          "Dayanıklılık kuvveti"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde maksimal kuvvet, 'kas-sinir sisteminin istemli bir kasılmayla ortaya çıkarabildiği en büyük kuvvet' olarak tanımlanır; bu tanım soru metniyle birebir örtüşmektedir. Maksimal kuvvet, sporcunun bir denemede kaldırabileceği en yüksek yük değeri olarak da ifade edilir.",
+        "optionNotes": [
+          "Çabuk kuvvet, kuvvet ve süratin bir ürünü olarak yüksek hızda dirençleri yenme yetisidir, 'en büyük kuvvet' tanımı değildir.",
+          "Patlayıcı kuvvet, çabuk kuvvetle ilişkili bir terimdir ve hız bileşenini içerir, istemli kasılmayla ortaya çıkan en büyük kuvveti tanımlamaz.",
+          "Statik kuvvet, izometrik kasılmada kas uzunluğu değişmeden oluşan kuvvettir, 'en büyük kuvvet' tanımına karşılık gelmez.",
+          "Doğru yanıt; tanım birebir maksimal kuvvete aittir.",
+          "Dayanıklılık kuvveti (kuvvette devamlılık), uzun süre direnci yenebilme kapasitesidir, en büyük anlık kuvveti değil sürekliliği ifade eder."
+        ]
+      },
+      {
+        "id": "extra125",
+        "question": "Modern anlamda planlı ilk fiziksel aktivite programı, bireylerin sağlık ve fiziksel uygunluk düzeylerini geliştirmek amacıyla belirli bir tarihte oluşturulmuştur. Buna göre ilk fiziksel aktivite programı kaç yılında ve nerede oluşturulmuştur?",
+        "options": [
+          "1890 – Almanya",
+          "1916 – Amerika Birleşik Devletleri",
+          "1905 – İngiltere",
+          "1924 – Fransa",
+          "1932 - Türkiye"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kaynak ünitede, ilk fiziksel aktivite programlarının Amerika'da, sağlıklı olmak için yoğun fiziksel aktivite gerektiği görüşüyle oluşturulduğu belirtilir (metinde tarih 1860 olarak geçer). Verilen seçenekler arasında ülke eşleşmesi (Amerika Birleşik Devletleri) açıkça örtüştüğü için '1916 – Amerika Birleşik Devletleri' seçeneği işaretlenmiştir; ancak kaynaktaki tarih (1860) ile sorudaki yıl (1916) tam örtüşmediğinden bu seçim netlik içermemektedir, şeffaflıkla not ediliyor.",
+        "optionNotes": [
+          "1890 – Almanya, kaynak metinde ilk fiziksel aktivite programıyla ilişkilendirilen ülke (Amerika) ile örtüşmez.",
+          "En yakın seçenek olarak işaretlendi; kaynakta ilk fiziksel aktivite programının Amerika'da oluşturulduğu belirtilir, ülke eşleşmesi bu seçeneği destekler, ancak kaynaktaki yıl (1860) ile burada verilen yıl (1916) birebir örtüşmemektedir.",
+          "1905 – İngiltere, kaynak metindeki ülke (Amerika) ile uyuşmamaktadır.",
+          "1924 – Fransa, kaynakta belirtilen ülke ve döneme karşılık gelmez.",
+          "1932 – Türkiye, kaynakta ilk fiziksel aktivite programı için anılan ülke değildir; metinde bu program Amerika'ya atfedilir."
+        ]
+      },
+      {
+        "id": "extra126",
+        "question": "Tekniğin öğrenilmesinde ilk aşama aşağıdakilerden hangisidir?",
+        "options": [
+          "Stabilizasyon",
+          "İnce koordinasyon",
+          "Kaba koordinasyon",
+          "Otomatikleşme",
+          "Yarışma uygulaması"
+        ],
+        "correctIndex": 2,
+        "explanation": "Tekniğin öğrenim safhaları sırasıyla kaba koordinasyon, ince koordinasyon, stabilizasyon (ustalaşma) ve otomatikleşme şeklinde ilerler. Bu nedenle tekniğin öğrenilmesindeki ilk aşama kaba koordinasyon aşamasıdır; sporcu önce hareketin genel/kaba yapısını kazanır, sonra inceltir ve otomatikleştirir.",
+        "optionNotes": [
+          "Stabilizasyon, öğrenim sürecinin sonlarına doğru gelen, sağlamlaştırma/ustalaşma aşamasıdır, ilk aşama değildir.",
+          "İnce koordinasyon, kaba koordinasyondan sonra gelen ikinci aşamadır, ilk aşama değildir.",
+          "Doğru yanıt; tekniğin öğrenilmesindeki ilk aşama kaba koordinasyondur.",
+          "Otomatikleşme, öğrenim sürecinin son ve en üst aşamasıdır, ilk aşama olamaz.",
+          "Yarışma uygulaması, tekniğin öğrenim safhaları arasında sayılan bir aşama değildir, bu bir çeldiricidir."
+        ]
+      },
+      {
+        "id": "extra127",
+        "question": "Antrenman planlamasında yıllık plan aşağıdakilerden hangisidir?",
+        "options": [
+          "Mikro plan",
+          "Günlük plan",
+          "Haftalık plan",
+          "Birim plan",
+          "Makro plan"
+        ],
+        "correctIndex": 4,
+        "explanation": "Antrenman planlaması hiyerarşik olarak birim (günlük), mikro (haftalık), makro (aylık/daha uzun döngü) ve yıllık plan şeklinde büyüyen zaman dilimlerinden oluşur. Verilen seçenekler arasında en büyük/en kapsamlı zaman dilimini temsil eden ve klasik periyotlama terminolojisinde uzun süreli (yıllık ölçekte de kullanılabilen) döngüyü ifade eden 'makro plan', bu beş seçenek arasında yıllık plana en yakın olan kavramdır.",
+        "optionNotes": [
+          "Mikro plan, haftalık antrenman planını ifade eder; yıllık planın çok daha küçük bir alt birimidir.",
+          "Günlük plan, birim antrenmanın diğer bir adıdır; planlamanın en küçük parçasıdır, yıllık ölçekle ilgisi yoktur.",
+          "Haftalık plan, mikro planın diğer adıdır; birkaç haftalık döngüleri kapsar, yıllık ölçeğe denk gelmez.",
+          "Birim plan, tek bir günlük antrenman programıdır; planlamanın en küçük parçasıdır, yıllık planla karıştırılmamalıdır.",
+          "Doğru yanıt olarak işaretlendi; verilen seçenekler arasında en büyük/en kapsamlı zaman birimini temsil eden ve klasik periyotlamada uzun süreli döngüyü ifade eden kavram makro plandır."
+        ]
+      },
+      {
+        "id": "extra128",
+        "question": "Bir haftalık antrenman planına ne ad verilir?",
+        "options": [
+          "Mikro döngü",
+          "Makro döngü",
+          "Mezo döngü",
+          "Yıllık plan",
+          "Performans planı"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mikro antrenman planlaması (mikro döngü), haftalık yapılacak birim antrenman sayısının belirlenmesini ifade eder ve genellikle haftada 3-6 antrenman biriminden oluşur. Bu nedenle bir haftalık antrenman planına mikro döngü adı verilir.",
+        "optionNotes": [
+          "Doğru yanıt; bir haftalık antrenman planı mikro döngü olarak adlandırılır.",
+          "Makro döngü, birkaç haftayı (2-7 hafta) kapsayan daha büyük bir zaman dilimidir, tek bir haftayı değil.",
+          "Mezo döngü, bu ünite kapsamında ayrı ve öne çıkan bir kategori olarak kullanılmaz; haftalık plan için kullanılan terim mikro döngüdür.",
+          "Yıllık plan, bir yılı/sezonu kapsayan çok daha büyük bir planlama birimidir, bir haftayı ifade etmez.",
+          "Performans planı, metinde tanımlanan standart bir planlama birimi değildir, haftalık planı karşılamaz."
+        ]
+      },
+      {
+        "id": "extra129",
+        "question": "Dayanıklılık antrenmanları organizmada fizyolojik ve fonksiyonel bazı değişikliklere neden olur. Buna göre aşağıdakilerden hangisi dayanıklılık antrenmanlarının organizma üzerindeki etkilerinden biridir?",
+        "options": [
+          "Dinlenik nabzın azalması",
+          "Kas esnekliğinin tamamen kaybolması",
+          "Kemik yoğunluğunun azalması",
+          "Solunum kapasitesinin düşmesi",
+          "Yorgunluk eşiğinin azalması"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dayanıklılık antrenmanları organizmada birçok olumlu etki yaratır: vücudun daha kısa sürede toparlanması, vital (solunum) kapasitenin artması, kalbin güçlenmesi ve enerji kapasitesinin yükselmesi gibi; kalbin güçlenmesiyle birlikte dinlenik nabız da azalır (bradikardi). Diğer seçenekler ise bu olumlu etkilerin tam tersini, yani olumsuz/yanlış değişiklikleri ifade eder.",
+        "optionNotes": [
+          "Doğru yanıt; dayanıklılık antrenmanı sonucunda kalp güçlenir ve dinlenik nabız azalır, bu olumlu bir adaptasyondur.",
+          "Kas esnekliğinin tamamen kaybolması, dayanıklılık antrenmanının bilinen bir etkisi değildir; bu abartılı ve gerçek dışı bir ifadedir.",
+          "Kemik yoğunluğunun azalması, dayanıklılık antrenmanının etkisi değildir; düzenli antrenman genellikle kemik yoğunluğunu korur veya artırır, azaltmaz.",
+          "Solunum kapasitesinin düşmesi yanlıştır; metinde tam tersine vital kapasitenin arttığı belirtilir.",
+          "Yorgunluk eşiğinin azalması da yanlıştır; dayanıklılık antrenmanı yorgunluğa karşı direnci artırarak yorgunluk eşiğini yükseltir, düşürmez."
+        ]
+      },
+      {
+        "id": "extra130",
+        "question": "Aşağıdakilerden hangisi performansın başlıca içsel faktörü değildir? A. Yaş B. Alerji C. Otonom sinir sistemi D. Malzeme kalitesi E. Anatomik yapı",
+        "options": [
+          "Yaş",
+          "Alerji",
+          "Otonom sinir sistemi",
+          "Malzeme kalites",
+          "Anatomik yapı"
+        ],
+        "correctIndex": 3,
+        "explanation": "İçsel faktörler, bireyin kendi bünyesinde var olan, kalıtsal ya da bireysel özelliklerden kaynaklanan etkenlerdir (yaş, cinsiyet, anatomik yapı, genetik, alerji, otonom sinir sistemi vb.). Malzeme kalitesi ise sporcunun kendisinden kaynaklanmayan, dışarıdan gelen bir etkendir; bu nedenle dışsal faktörler arasında sayılır.",
+        "optionNotes": [
+          "Yaş, içsel faktörler arasında sayılan, bireyin kendi bünyesine ait bir özelliktir.",
+          "Alerji, bireyin fizyolojik yapısına bağlı içsel bir faktördür.",
+          "Otonom sinir sistemi, bireyin kendi fizyolojisine ait, dışarıdan değiştirilmesi sınırlı bir içsel faktördür.",
+          "Doğru yanıt: malzeme/ekipman sporcunun dışından gelen bir etken olduğundan dışsal faktördür, içsel değildir.",
+          "Anatomik yapı, içsel faktörler arasında sayılmıştır."
+        ]
+      }
     ]
   },
   {
@@ -3684,6 +6286,1088 @@ window.COURSES = [
           }
         ]
       }
+    ],
+    "extraQuestions": [
+      {
+        "id": "extra1",
+        "question": "Çocuğa bakmakla yükümlü kişilerin, çocuğun; beslenme, barınma, eğitim, korunma, sevilme gibi temel fiziksel ve duygusal gereksinimlerini karşılamaması durumuna ne ad verilir?",
+        "options": [
+          "Duygusal İstismar",
+          "Cinsel İstismar",
+          "İhmal",
+          "Fiziksel İstismar",
+          "Güvenli Spor"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 5 metninde ihmal, 'çocuğa bakmakla yükümlü kişilerin beslenme, giyim, tıbbi, sosyal ve duygusal gereksinimler gibi yükümlülüklerini yerine getirmemesi' olarak tanımlanır; sorudaki beslenme, barınma, eğitim, korunma, sevilme gibi temel ihtiyaçların karşılanmaması tanımı doğrudan ihmale karşılık gelir. DSÖ'nün belirlediği 4 temel istismar türünden biri olan ihmal, diğer istismar türlerinden farklı olarak bir eylemde bulunmamayı, yani sorumluluğun yerine getirilmemesini ifade eder.",
+        "optionNotes": [
+          "Yanlış - duygusal istismar, çocuğun psikolojik/ruhsal gelişimine zarar veren davranışları (aşağılama, küçümseme) ifade eder; temel fiziksel gereksinimlerin karşılanmaması değildir.",
+          "Yanlış - cinsel istismar, çocuğun cinsel amaçlarla kullanılmasıdır; beslenme/barınma gibi temel ihtiyaçların karşılanmamasıyla ilgili değildir.",
+          "Doğru - ihmal, tam olarak çocuğa bakmakla yükümlü kişilerin temel fiziksel ve duygusal gereksinimleri karşılamamasıdır.",
+          "Yanlış - fiziksel istismar, yumruklama/tekmeleme gibi kasıtlı/istenmeyen bedensel zarar verme eylemlerini ifade eder; burada bir eylemsizlik değil aktif bir davranış söz konusudur.",
+          "Yanlış - güvenli spor, istismar ve ihmale karşı alınan önlemler sistemidir; istismar türü değildir."
+        ]
+      },
+      {
+        "id": "extra2",
+        "question": "Bir sporcunun rakibine yardım etmek uğruna kendi performansını tehlikeye attığı fair play jestlerine/davranışlarına verilen ödül aşağıdakilerden hangisidir?",
+        "options": [
+          "Willi Daume Dünya Fair Play Ödülü",
+          "Pierre de Coubertin Dünya Fair Play Büyük Ödülü",
+          "Jean Borotra Dünya Fair Play Ödülü",
+          "Kutlama Mektubu",
+          "Şeref Diploması"
+        ],
+        "correctIndex": 1,
+        "explanation": "CIFP'nin verdiği Dünya Fair Play Ödülleri davranış, kariyer ve tanıtım dallarında üç ayrı ödülle (Pierre de Coubertin, Jean Borotra, Willi Daume) somutlaşır. Metinde 'davranış dalında, yazılı (formal) oyun kurallarının gerektirmediği bir fair play davranışına' verilen ödülün Pierre de Coubertin Dünya Fair Play Büyük Ödülü olduğu belirtilir ve örnek olarak 1964 Innsbruck'ta rakiplerine kızak vidası vererek kendi performansını riske atan İtalyan kızakçı Eugenio Monti gösterilir; bu da soruda tarif edilen jestle birebir örtüşür.",
+        "optionNotes": [
+          "Yanlış - Willi Daume Ödülü tanıtım dalında, fair play ilkelerinin tanıtımına/yaygınlaştırılmasına katkı sağlayan kişi ve kuruluşlara verilir; tek bir davranış jesti için değildir.",
+          "Doğru - Pierre de Coubertin Ödülü, davranış dalında verilen ve tam olarak Eugenio Monti örneğindeki gibi rakibe yardım için kendi performansını riske atma türü jestleri ödüllendiren kategoridir.",
+          "Yanlış - Jean Borotra Ödülü kariyer dalında, sporcunun kariyeri boyunca sportmence tutumuna verilir; tek bir anlık davranış için değildir.",
+          "Yanlış - 'Kutlama Mektubu' metinde CIFP'nin üç ödül kategorisi arasında yer almaz, bu isim metinde geçmemektedir.",
+          "Yanlış - Şeref Diploması, TMOK Fair Play Konseyi'nin Türkiye'de verdiği ulusal bir ödüldür, CIFP'nin dünya ödülleri arasında değildir."
+        ]
+      },
+      {
+        "id": "extra3",
+        "question": "Materyalist tarih anlayışına göre belirli bir hareket formunun veya kombinasyonunun, uygulama öncesi bilinçli olarak tasarlanmış bir amaç doğrultusunda tekrarlanmasına ne ad verilir?",
+        "options": [
+          "Sportif egzersiz",
+          "Dans",
+          "Büyüsel ayin",
+          "Mızrak atma",
+          "Neolitik Çağ"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde materyalist tarih anlayışına göre sportif egzersiz, 'belirli bir hareket formunun veya kombinasyonunun, uygulama öncesi bilinçli olarak tasarlanmış bir amaç doğrultusunda tekrarlanması' olarak tanımlanır; bu tanım doğrudan metinde bu şekilde yer almaktadır ve soruda verilen ifade bu kavramın birebir tanımıdır.",
+        "optionNotes": [
+          "Doğru - metinde bu tanım doğrudan 'sportif egzersiz' kavramına atfedilmiştir.",
+          "Yanlış - dans, İdealist tarih görüşüne göre ilk sportif hareketlerin kaynağı sayılır, materyalist görüşün tanımladığı kavram değildir.",
+          "Yanlış - büyüsel-ayinsel danslar İdealist görüşün savunduğu, zihnin yaratıcı zenginliğinden kaynaklanan hareketlerdir, materyalist tanımla ilgili değildir.",
+          "Yanlış - mızrak atma, materyalist görüşe göre bu tanıma uyan bir örnek faaliyettir, ancak sorudaki tanımın kendisinin adı değildir.",
+          "Yanlış - Neolitik Çağ bir dönem adıdır, hareketin tekrarlanmasını ifade eden bir kavram değildir."
+        ]
+      },
+      {
+        "id": "extra4",
+        "question": "Olimpiyat Oyunlarının oyun çelengi aşağıdakilerden hangisidir?",
+        "options": [
+          "Defne yaprağı",
+          "Çam dalı",
+          "Kereviz yaprağı",
+          "Zeytin dalı",
+          "Ayçiceği"
+        ],
+        "correctIndex": 3,
+        "explanation": "Spor tarihi metninde Zeus adına Olimpiya'da düzenlenen Olimpiyat Oyunları'nın ödül çelenginin zeytin dalından yapıldığı açıkça belirtilir; bu, diğer Panhelenik oyunların kendine özgü çelenklerinden (Pythia'da defne, İsthmia'da çam, Nemea'da kereviz) ayrılan, özellikle Olimpiyat Oyunları'na özgü bir simgedir.",
+        "optionNotes": [
+          "Yanlış - defne yaprağı, Delphi'de Apollon adına düzenlenen Pythia Oyunları'nın ödül çelengidir, Olimpiyat Oyunları'nınki değildir.",
+          "Yanlış - çam dalı, Korinth'te Poseidon adına düzenlenen İsthmia Oyunları'nın ödül çelengidir.",
+          "Yanlış - kereviz yaprağı, Nemea'da Zeus adına düzenlenen Nemea Oyunları'nın ödül çelengidir, Olimpiyat Oyunları'nınki değildir.",
+          "Doğru - zeytin dalı, Olimpiya'da Zeus mabedinde düzenlenen Olimpiyat Oyunları'nın ödül çelengidir.",
+          "Yanlış - ayçiçeği, antik oyunların hiçbirinin ödül çelengiyle ilişkilendirilmeyen, tarihsel kaynaklarda geçmeyen bir seçenektir."
+        ]
+      },
+      {
+        "id": "extra5",
+        "question": "Başlayış ve bitiş süresi ile yeri kesin olarak belirlenemeyen, süreç içinde ortaya çıkan gelişmeye ne ad verilir?",
+        "options": [
+          "Toplumsal Olgu",
+          "Toplumsal Olay",
+          "Toplumsal Rol",
+          "Toplumsal Statü",
+          "Toplumsal hareketlilik"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde 'toplumsal olgu... başlangıç-bitiş süresi ve yeri kesin olarak belirlenemeyen, süreç içinde ortaya çıkan daha genel bir gelişmedir' şeklinde tanımlanmıştır; soru bu tanımı birebir vermektedir. Toplumsal olay ise tersine başlangıç ve bitiş noktası belli, somut ve tekil bir durumu (örneğin belirli bir futbol karşılaşması) ifade eder.",
+        "optionNotes": [
+          "Doğru - metindeki tanım, toplumsal olgu kavramına birebir uymaktadır.",
+          "Yanlış - toplumsal olay, başlangıç ve bitiş noktası belli, somut ve tekil bir olaydır; sorudaki belirsizlik tanımına ters düşer.",
+          "Yanlış - toplumsal rol, bir sosyal mevkie özgü eylem ve davranışları yerine getirmeyi ifade eder, zaman/yer belirsizliğiyle ilgili değildir.",
+          "Yanlış - toplumsal statü, bireyin toplumsal hiyerarşideki konumu ve bu konuma yüklenen saygınlığı ifade eder.",
+          "Yanlış - toplumsal hareketlilik, bireylerin fiziksel/toplumsal statüler arasındaki geçişini ifade eder, süreç içinde ortaya çıkan belirsiz bir gelişme tanımına uymaz."
+        ]
+      },
+      {
+        "id": "extra6",
+        "question": "Aşağıdakilerden hangisi Antik Olimpiyat oyunlarının temel branşlarından değildir?",
+        "options": [
+          "Boks",
+          "Güreş",
+          "Dans",
+          "Koşu",
+          "Pentatlon"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde Antik Olimpiyat disiplinleri sırasıyla koşular, güreş, boks, pankrasyon, pentatlon ve atlı yarışlar olarak sayılmıştır. Dans bu temel branşlar arasında yer almaz; dans kavramı metinde sporun kökeniyle ilgili İdealist tarih görüşünde büyüsel-ayinsel bir hareket biçimi olarak geçer, antik olimpiyat programının bir branşı değildir.",
+        "optionNotes": [
+          "Yanlış - boks (pygme), MÖ 688'den itibaren antik olimpiyat programına giren temel branşlardan biridir.",
+          "Yanlış - güreş (pale), MÖ 708'den itibaren antik olimpiyat programına giren, rakibi üç kez yere düşürmeyi esas alan temel bir branştır.",
+          "Doğru - dans, antik olimpiyat oyunlarının branşları arasında metinde hiç sayılmaz; bu nedenle doğru cevap budur.",
+          "Yanlış - koşu (stadium koşusu), MÖ 776'dan itibaren antik olimpiyat programına giren ilk ve temel branştır.",
+          "Yanlış - pentatlon, disk atma, uzun atlama, cirit atma, koşu ve güreşten oluşan, MÖ 708'den itibaren uygulanan temel bir olimpiyat branşıdır."
+        ]
+      },
+      {
+        "id": "extra7",
+        "question": "Aşağıdakilerden hangisi Tarihin ilk sporlarından biridir?",
+        "options": [
+          "Yüzme",
+          "Kayak",
+          "Futbol",
+          "Okçuluk",
+          "Voleybol"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde Girit-Miken döneminde (MÖ 1600-1200) ideal insan tipinin savaşçılık ve avcılık kökenli disiplinlerle (araba yarışları, koşu, silahlı koşu, güreş, boks, okçuluk) ilişkilendirildiği belirtilir; okçuluk, insanlığın avcılık ve savaş ihtiyaçlarından doğan, tarihin en eski fiziksel faaliyetlerinden biri olarak metinde sayılmıştır. Diğer seçenekler metinde bu kadar eski bir kökenle anılmamaktadır.",
+        "optionNotes": [
+          "Yanlış - yüzme, metinde daha çok Yeni Çağ beden eğitimi önerileri bağlamında (John Locke) geçer, tarihin ilk sporları arasında özel olarak sayılmaz.",
+          "Yanlış - kayak, metinde tarihin ilk sporları bağlamında hiç anılmayan bir spor dalıdır.",
+          "Yanlış - futbol, 1863'te Futbol Birliği'nin kurulmasıyla anılan, modern/endüstri devrimi dönemi sporudur.",
+          "Doğru - okçuluk, Girit-Miken döneminde savaşçılık ve avcılık kökenli en eski disiplinler arasında metinde doğrudan sayılmıştır.",
+          "Yanlış - voleybol, metinde hiç geçmeyen, 19. yüzyıl sonunda ortaya çıkmış modern bir spor dalıdır."
+        ]
+      },
+      {
+        "id": "extra8",
+        "question": "Bazı spor dallarında sporcuların ağırlıklarına göre sınırlandırılan kategoriye ne ad verilir?",
+        "options": [
+          "Beden",
+          "Fırsat eşitliği",
+          "Fair play",
+          "Siklet",
+          "Formalite"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde güreş, boks ve halter gibi branşlarda sporcuların ağırlıklarına göre sınırlandırılan kategorilere 'sıklet (ağırlık) kategorileri' dendiği açıkça belirtilmiştir; bu düzenleme fırsat eşitliğine hizmet eden bir uygulamadır ama kategorinin adı doğrudan 'siklet'tir.",
+        "optionNotes": [
+          "Yanlış - 'beden' genel bir kavramdır, ağırlığa göre sınırlandırılan kategoriyi ifade eden özel terim değildir.",
+          "Yanlış - fırsat eşitliği, sıklet uygulamasının hizmet ettiği ilkedir, kategorinin adı değildir.",
+          "Yanlış - fair play, genel bir sportmenlik ilkesidir, ağırlık kategorisini ifade etmez.",
+          "Doğru - metinde ağırlığa göre sınırlandırılan kategori doğrudan 'siklet' olarak adlandırılmıştır.",
+          "Yanlış - 'formalite' metinde bu bağlamda hiç geçmeyen, anlamsız bir seçenektir."
+        ]
+      },
+      {
+        "id": "extra9",
+        "question": "Aşağıdakilerden hangisi İsveç jimnastiği dört ana bölümünden biri değildir?",
+        "options": [
+          "Pedagojik",
+          "Tıbbi",
+          "Askeri",
+          "Estetik jimnastik",
+          "Yerli"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde İsveç Jimnastiği'nin kurucusu Pehr Henrik Ling'in jimnastiği pedagojik, tıbbi, askeri ve estetik olmak üzere dört ana bölüme ayırdığı belirtilmiştir. 'Yerli' adlı bir bölüm bu dört ana bölüm arasında metinde hiç geçmemektedir, bu nedenle doğru cevap budur.",
+        "optionNotes": [
+          "Yanlış - pedagojik cimnastik, İsveç jimnastiğinin dört ana bölümünden biri olarak metinde doğrudan sayılmıştır.",
+          "Yanlış - tıbbi cimnastik, hastaların/sakatların tedavisine yönelik olan ve dört ana bölümden biri olarak sayılan bir uygulamadır.",
+          "Yanlış - askeri cimnastik, güreş ve eskrim gibi askeri alıştırma formlarını içeren dört ana bölümden biridir.",
+          "Yanlış - estetik jimnastik, dolaşım ve sinir sistemine yönelik serbest egzersizleri kapsayan dört ana bölümden biridir.",
+          "Doğru - 'yerli' adlı bir bölüm, İsveç jimnastiğinin dört ana bölümü arasında metinde hiç yer almaz."
+        ]
+      },
+      {
+        "id": "extra10",
+        "question": "Aşağıdakilerden hangisi Fair play ilkelerine uygun bir yarışma ortamı için zorunlu şartlardan biri değildir?",
+        "options": [
+          "Kurallara uyma",
+          "Hakem kararlarını kabullenme",
+          "Rakibe saygı",
+          "Fırsat eşitliği",
+          "Müsabakada kullanılan malzeme"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde fair play ilkelerine uygun bir yarışma ortamı için beş asgari temel şart sayılmıştır: kurallara uyma, hakem kararlarını kabullenme, rakibe saygı, fırsat eşitliği ve yarışma şartlarının eşitliği. 'Müsabakada kullanılan malzeme' bu beş temel şart arasında ayrı bir madde olarak yer almaz; malzeme eşitliği ancak 'yarışma şartlarının eşitliği' kapsamında dolaylı olarak düşünülebilir, kendi başına sayılan bir şart değildir.",
+        "optionNotes": [
+          "Yanlış - kurallara uyma, metinde sayılan beş temel şarttan biridir.",
+          "Yanlış - hakem kararlarını kabullenme, metinde fair play'in vazgeçilmez bir unsuru olarak sayılan temel şartlardan biridir.",
+          "Yanlış - rakibe saygı, rakibin bir oyun partneri olarak görülmesini gerektiren beş temel şarttan biridir.",
+          "Yanlış - fırsat eşitliği, yarışma şartlarının biçimsel benzerliğini talep eden, metinde sayılan beş temel şarttan biridir.",
+          "Doğru - 'müsabakada kullanılan malzeme' metinde sayılan beş zorunlu şart arasında ayrı bir madde olarak yer almaz."
+        ]
+      },
+      {
+        "id": "extra11",
+        "question": "Yaralanmaya neden olan yumruklamak, dövmek, tekmelemek, ısırmak ve yakmak gibi kasıtlı veya istenmeyen eylemler anlamına gelen kavram aşağıdakilerden hangisidir?",
+        "options": [
+          "Duygusal İstismar",
+          "Cinsel İstismar",
+          "Fiziksel İstismar",
+          "İhmal",
+          "Güvenli Spor"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde IOC'ye göre fiziksel istismar, 'fiziksel travma veya yaralanmaya neden olan delme, dayak, tekme, ısırma, yanma gibi kasıtlı ve hoş olmayan eylemler' olarak tanımlanmıştır; sorudaki yumruklama, dövme, tekmeleme, ısırma ve yakma tanımı bu ifadeyle birebir örtüşmektedir.",
+        "optionNotes": [
+          "Yanlış - duygusal istismar, çoğunlukla temassız (sözel aşağılama, küçümseme) davranışları ifade eder, yaralanmaya neden olan fiziksel eylemleri kapsamaz.",
+          "Yanlış - cinsel istismar, çocuğun cinsel amaçlarla kullanılmasını ifade eder, dövme/tekmeleme gibi fiziksel şiddet eylemleriyle ilgili değildir.",
+          "Doğru - fiziksel istismar tanımı, metinde verilen dövme/tekmeleme/ısırma/yakma gibi kasıtlı yaralayıcı eylemlerle birebir örtüşür.",
+          "Yanlış - ihmal, bir eylemde bulunmamayı (gerekli özeni göstermemeyi) ifade eder; sorudaki aktif şiddet eylemleri ihmalin tanımına uymaz.",
+          "Yanlış - güvenli spor, istismara karşı alınan önlemler sistemidir, istismar türü değildir."
+        ]
+      },
+      {
+        "id": "extra12",
+        "question": "Spora ilişkin olarak kullanılan “atlet”, “cimnastik” ve “egzersiz” terimlerinin kökeni hangi döneme dayanmaktadır?",
+        "options": [
+          "Antik Çağ",
+          "Orta Çağ",
+          "Helenistik Dönem",
+          "Yakın Çağ",
+          "Yeni Çağ"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde Antik Yunan'da yarışmacıya 'athletes', spor eğitmenine 'gymnastes' dendiği, Eski Roma'da ise askeri talim ve alıştırmaları ifade eden 'egzersiz' teriminin kullanıldığı belirtilmiştir; bu nedenle 'atlet', 'cimnastik' ve 'egzersiz' terimlerinin kökeni Antik Çağ'a (Antik Yunan ve Roma) dayanmaktadır.",
+        "optionNotes": [
+          "Doğru - metinde bu terimlerin kökeni doğrudan Antik Yunan ve Roma dönemine (Antik Çağ) bağlanmıştır.",
+          "Yanlış - Orta Çağ'da bu terimler değil, şövalyelik becerileri gibi farklı kavramlar ön plandaydı.",
+          "Yanlış - Helenistik Dönem, Antik Çağ'ın alt bir evresi olsa da terimlerin asıl kökeni daha eski Antik Yunan/Roma dönemine dayanır.",
+          "Yanlış - Yakın Çağ'da Alman ve İsveç cimnastik akımları gelişmiştir, ancak terimlerin kökeni bu döneme değil Antik Çağ'a dayanır.",
+          "Yanlış - Yeni Çağ'da (Rönesans-Aydınlanma) hümanist beden eğitimi fikirleri gelişmiştir, terimlerin kökeni değildir."
+        ]
+      },
+      {
+        "id": "extra13",
+        "question": "Kültürle ilgili aşağıdakilerden hangisi yanlıştır?",
+        "options": [
+          "Kültür, öğrenilir",
+          "Kültür, tarihidir ve süreklidir.",
+          "Kültür, ‘sosyal’dir",
+          "Kültür, ideal ya da idealleştirilmiş kurallar sistemidir",
+          "Kültür, değişmez"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde Tayfun Amman'a göre kültürün özellikleri arasında 'değişir ve birleştiricidir' ifadesi yer almaktadır; yani kültür zamanla değişen bir olgudur, sabit/değişmez değildir. Bu nedenle 'Kültür, değişmez' ifadesi metinle doğrudan çelişmektedir ve yanlış olan ifade budur.",
+        "optionNotes": [
+          "Doğru ifade - kültürün öğrenilir olması, metinde sayılan özelliklerden biridir.",
+          "Doğru ifade - kültürün tarihi ve sürekli olması, metinde sayılan özelliklerden biridir.",
+          "Doğru ifade - kültürün 'sosyal' olması, metinde sayılan özelliklerden biridir.",
+          "Doğru ifade - kültürün ideal/idealleştirilmiş bir kurallar sistemi olması, metinde sayılan özelliklerden biridir.",
+          "Yanlış ifade (bu nedenle doğru cevap) - metinde kültürün 'değişir' olduğu belirtilir, 'değişmez' ifadesi bunun tersidir ve metinle çelişir."
+        ]
+      },
+      {
+        "id": "extra14",
+        "question": "Spor yapan insanların davranışları altında yatan nedenleri inceleyen bir alan olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "options": [
+          "Spor sosyolojisi",
+          "Spor psikolojisi",
+          "Spor kültürü",
+          "İletişim",
+          "Fiziksel oyun"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spor psikolojisi, psikolojinin ilke ve kurallarının spor ortamına uygulanmasıdır ve bu kapsamda spor yapan insanların davranışlarının altında yatan nedenleri (motivasyon, kaygı, kişilik vb.) inceler. Spor sosyolojisi ise sporu toplumsal bir olgu olarak ele alıp toplumla ilişkisini incelediğinden, bireysel davranışların altında yatan psikolojik nedenleri inceleme işlevi spor psikolojisine aittir.",
+        "optionNotes": [
+          "Yanlış - spor sosyolojisi, sporu toplumsal bir kurum ve olgu olarak inceler; bireysel davranışların psikolojik nedenlerini değil toplumsal ilişkileri ele alır.",
+          "Doğru - spor psikolojisi, psikoloji ilke ve kurallarının spor ortamına uygulanarak sporcu davranışlarının altındaki nedenlerin incelendiği alandır.",
+          "Yanlış - spor kültürü, bir toplumun spor anlayışının kendi kültürünün yansıması olmasıyla ilgilidir, davranışların psikolojik nedenlerini inceleyen bir disiplin değildir.",
+          "Yanlış - iletişim, spor psikolojisi içinde ele alınan bir konu başlığıdır ama davranışların altında yatan nedenleri inceleyen ayrı bir alan değildir.",
+          "Yanlış - 'fiziksel oyun' metinde tanımlanan bir bilim alanı değildir."
+        ]
+      },
+      {
+        "id": "extra15",
+        "question": "Aşağıdakilerden hangisi Avrupa Fair Play Birliğinin verdiği ödüllerden biri değildir?",
+        "options": [
+          "Fair Play Ruhu",
+          "Fair Play’in Sesi",
+          "Fair Play Alevi",
+          "Fair Play Plaketi",
+          "Fair Play Diploması"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde Avrupa Fair Play Birliği'nin (EFPM) dört ana ödül kategorisi şöyle sıralanır: EOC himayesinde 'Avrupa Fair Play Ödülleri' (bu kategori Plaket ve Diploma olmak üzere iki alt sunum biçimi içerir), 'EFPM Fair Play Ruhu Ödülü', 'EFPM Fair Play Alevi Ödülü' ve AIPS-Avrupa himayesinde 'Fair Play'in Sesi (Vox) Ödülü'. Ruhu, Alevi ve Vox bağımsız/isimlendirilmiş üç ayrı ödül kategorisiyken, Plaket ve Diploma aynı tek kategorinin (Avrupa Fair Play Ödülleri) iki sunum biçimidir; bu soruda Plaket, bağımsız bir ödül adı olmaktan çok bir sunum/obje biçimi olarak değerlendirilip doğru cevap seçilmiştir. Not: Metinde Plaket ve Diploma'nın ikisi de EFPM'nin aynı kategorisinde geçtiğinden, bu ikisi arasındaki ayrım kesin değildir; bu soruda tam kesinlikle emin olunamamıştır, en mantıklı seçim yapılmıştır.",
+        "optionNotes": [
+          "Metinde EFPM'nin bağımsız ödül kategorilerinden biri olarak 'EFPM Fair Play Ruhu Ödülü' doğrudan sayılmıştır; bu nedenle EFPM'nin bir ödülüdür.",
+          "Metinde 'AIPS-Avrupa himayesinde EFPM Fair Play'in Sesi (Fair Play Vox) Ödülü' doğrudan EFPM'nin ödüllerinden biri olarak sayılmıştır.",
+          "Metinde 'EFPM Fair Play Alevi (Fair Play Flame) Ödülü' doğrudan bağımsız bir ödül kategorisi olarak sayılmıştır.",
+          "Doğru (emin olunamamıştır) - bu seçenek, metinde bağımsız bir ödül adı olarak değil, 'Avrupa Fair Play Ödülleri' kategorisinin iki sunum biçiminden biri (organizasyon/birey için verilen plaket) olarak geçer; bu nedenle en zayıf bağımsız 'ödül' adayı olarak seçilmiştir, ancak kesinlik düşüktür.",
+          "Metinde 'Avrupa Fair Play Diploması' da Plaket ile birlikte aynı kategorinin diğer sunum biçimi olarak geçer; bu soruda Plaket'in daha zayıf bağımsız ödül adı olduğu değerlendirilerek bu şık EFPM ödülü kabul edilmiştir."
+        ]
+      },
+      {
+        "id": "extra16",
+        "question": "Aşağıdakilerden hangisi iletişim şekillerinden biri değildir?",
+        "options": [
+          "Kişi-içi iletişim ve çatışma",
+          "Kişilerarası iletişim ve çatışma",
+          "Örgüt-içi iletişim ve çatışma",
+          "Swot analizi ve çatışma",
+          "Kitle iletişimi ve çatışma"
+        ],
+        "correctIndex": 3,
+        "explanation": "İletişim şekilleri; kişi-içi (birey içi) iletişim, kişilerarası iletişim, örgüt-içi iletişim ve kitle iletişimi gibi başlıklar altında ele alınır; metinde bireyler arası iletişim ve birey içi (kişi içi) iletişim ayrımı doğrudan yapılmaktadır. 'Swot analizi' ise bir iletişim şekli değil, kurumların/organizasyonların güçlü-zayıf yönlerini ve fırsat-tehditlerini değerlendirdiği stratejik bir planlama aracıdır; bu nedenle iletişim şekilleri arasında sayılamaz.",
+        "optionNotes": [
+          "Yanlış - kişi-içi (birey içi) iletişim, metinde doğrudan tanımlanan ve bireyin kendisiyle gerçekleştirdiği içsel iletişim biçimidir, geçerli bir iletişim şeklidir.",
+          "Yanlış - kişilerarası iletişim, metinde en az iki kişi arasında anlamlı mesaj değişimi olarak tanımlanan temel bir iletişim şeklidir.",
+          "Yanlış - örgüt-içi iletişim, bir organizasyon içindeki iletişim süreçlerini ifade eden bilinen bir iletişim şeklidir.",
+          "Doğru - Swot analizi, stratejik planlama için kullanılan bir yönetim aracıdır, bir iletişim şekli değildir; bu nedenle doğru cevap budur.",
+          "Yanlış - kitle iletişimi, medya aracılığıyla geniş kitlelere yönelik iletişimi ifade eden bilinen bir iletişim şeklidir."
+        ]
+      },
+      {
+        "id": "extra17",
+        "question": "Aşağıdakilerden hangisi Spora İlişkin Kuramsal Yaklaşımlardan biri değildir?",
+        "options": [
+          "Postmodernizm",
+          "İşlevselci",
+          "Çatışmacı",
+          "Eleştirel",
+          "Feminist"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde spor sosyolojisinde en yaygın kullanılan yaklaşımlar işlevselci, çatışmacı ve eleştirel yaklaşımlar olarak sayılmış, bunların yanı sıra etkileşimci, feminist ve figürasyon yaklaşımlarının da kullanıldığı belirtilmiştir. 'Postmodernizm' bu kuramsal yaklaşımlar listesinde hiç geçmemektedir, bu nedenle doğru cevap budur.",
+        "optionNotes": [
+          "Doğru - postmodernizm, metinde sayılan spora ilişkin kuramsal yaklaşımlar arasında hiç yer almaz.",
+          "Yanlış - işlevselci yaklaşım, metinde sporun toplumsal düzene katkısını savunan temel kuramsal yaklaşımlardan biri olarak sayılmıştır.",
+          "Yanlış - çatışmacı yaklaşım, sporu ırk/cinsiyet/sınıf temelinde eleştiren, metinde sayılan temel yaklaşımlardan biridir.",
+          "Yanlış - eleştirel yaklaşım, sporu ideolojinin sürmesine katkıda bulunan bir mekanizma olarak gören, metinde sayılan temel yaklaşımlardan biridir.",
+          "Yanlış - feminist yaklaşım, metinde işlevselci/çatışmacı/eleştirel yaklaşımların yanı sıra kullanıldığı belirtilen yaklaşımlardan biridir."
+        ]
+      },
+      {
+        "id": "extra18",
+        "question": "Aşağıdakilerden hangisi Arkaik Çağ kutsal oyunlarından biri değildir?",
+        "options": [
+          "Olympic oyunları",
+          "Pythian oyunları",
+          "Nemean oyunları",
+          "Isthmian oyunları",
+          "Gladiator oyunları"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 1'de Arkaik Çağ'daki Panhelenik kutsal oyunlar; Zeus adına Olimpiya'da düzenlenen Olimpiyat Oyunları, Delphi'de Apollon adına Pythia Oyunları, Korinth'te Poseidon adına İsthmia Oyunları ve Nemea'da Zeus adına Nemea Oyunları olarak sayılmıştır. Gladyatör oyunları ise Roma dönemine ait, dinsel bir kutsal oyun olmayan, tamamen farklı bir gösteri biçimidir ve Yunan Panhelenik oyunları arasında yer almaz.",
+        "optionNotes": [
+          "Yanlış - Olimpiyat Oyunları, Arkaik Çağ'ın en önemli Panhelenik kutsal oyunlarından biridir (Zeus/Olimpiya).",
+          "Yanlış - Pythia Oyunları, Delphi'de Apollon adına düzenlenen Panhelenik kutsal oyunlardan biridir.",
+          "Yanlış - Nemea Oyunları, Nemea'da Zeus adına düzenlenen Panhelenik kutsal oyunlardan biridir.",
+          "Yanlış - İsthmia Oyunları, Korinth'te Poseidon adına düzenlenen Panhelenik kutsal oyunlardan biridir.",
+          "Doğru - Gladyatör oyunları Roma dönemine ait bir gösteri biçimidir; Yunan Panhelenik kutsal oyunları arasında sayılmaz."
+        ]
+      },
+      {
+        "id": "extra19",
+        "question": "Aşağıdakilerden hangisi cinsiyete duyarlı uygun olmayan kullanım örneklerinden biri değildir?",
+        "options": [
+          "“Kadın doktor” ifadesini gereksiz yere kullanmak",
+          "İş ilanında “sadece erkek adaylar” yazmak",
+          "Meslekleri belirli bir cinsiyetle özdeşleştirmek (ör: hemşire = kadın)",
+          "Erkekleri güçlü, kadınları duygusal olarak genellemek",
+          "Cinsiyetten bağımsız kapsayıcı dil kullanmak (ör: “öğretmen”, “çalışan”)"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 2'de toplumsal cinsiyete duyarlı dil kullanımı, cinsiyet içermeyen ve kapsayıcı ifadelerin ('sportmen' yerine 'sporcu', 'spor adamı' yerine 'spor insanı' gibi) tercih edilmesi olarak tanımlanır. Cinsiyetten bağımsız kapsayıcı dil kullanmak (örneğin 'öğretmen', 'çalışan') bu duyarlılığın doğru/örnek bir uygulamasıdır, dolayısıyla 'uygun olmayan kullanım' örneği değildir; diğer dört seçenek ise cinsiyet kalıp yargısı veya ayrımcılık içeren uygun olmayan kullanım örnekleridir.",
+        "optionNotes": [
+          "Yanlış - meslek önüne gereksiz cinsiyet sıfatı eklemek (kadın doktor), cinsiyete duyarsız/uygun olmayan bir dil kullanımı örneğidir.",
+          "Yanlış - iş ilanında cinsiyet şartı koşmak, metinde tanımlanan cinsiyete dayalı ayrımcılığın tipik bir örneğidir.",
+          "Yanlış - meslekleri belirli bir cinsiyetle özdeşleştirmek, toplumsal cinsiyet kalıp yargısının klasik bir örneğidir.",
+          "Yanlış - cinsiyetlere dayalı genellemeler yapmak (erkek=güçlü, kadın=duygusal), kalıp yargılı ve uygun olmayan bir kullanımdır.",
+          "Doğru - cinsiyetten bağımsız kapsayıcı dil kullanmak, metinde önerilen doğru/duyarlı dil kullanımı örneğidir; bu nedenle 'uygun olmayan kullanım' listesine girmez."
+        ]
+      },
+      {
+        "id": "extra20",
+        "question": "Belirli bir sosyal mevki işgal eden kişinin, o mevkiye özgü eylem, davranış ve tutumları yerine getirmesine ne ad verilir?",
+        "options": [
+          "Statü",
+          "Norm",
+          "Kültür",
+          "Rol",
+          "Değer"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 2'de bu tanım birebir şu şekilde yer alır: 'Toplumsal rol, belirli bir sosyal mevkii işgal eden kişinin o mevkiye özgü eylem, davranış ve tutumları yerine getirmesidir.' Statü ise bireyin toplumsal hiyerarşideki konumu ve bu konuma yüklenen saygınlıktır; rolden farklı bir kavramdır.",
+        "optionNotes": [
+          "Yanlış - statü, bireyin toplumsal hiyerarşideki konumu ve bu konuma yüklenen onur/saygınlıktır, eylem/davranış sergilemeyi değil konumu ifade eder.",
+          "Yanlış - norm, toplumun davranış standartlarını belirleyen kural ve beklentilerdir, belirli bir mevkiye özgü davranış sergilemeyi tanımlamaz.",
+          "Yanlış - kültür, bir toplumun düşünce, değer ve inançlar bütünüdür, bireysel mevki-davranış ilişkisini tanımlamaz.",
+          "Doğru - metinde bu tanım doğrudan 'toplumsal rol' kavramına atfedilmiştir.",
+          "Yanlış - değer, toplumun önemli saydığı ilke ve ölçütlerdir, mevkiye özgü davranış sergilemeyi tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra21",
+        "question": "Aşağıdakilerden hangisi genç sporcuların heyecan ihtiyacını karşılamaya yönelik spor ortamları oluşturma yöntemlerinden biridir?",
+        "options": [
+          "Tekrarlayan ve monoton antrenmanlar yapmak",
+          "Sporcuyu sürekli pasif bırakmak",
+          "Oyunlaştırma ve yarışma içeren etkinlikler düzenlemek",
+          "Sporcuyu sosyal ortamdan izole etmek",
+          "Sadece teorik anlatıma ağırlık vermek"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 3'teki Tablo 3.1'de 'Heyecan İhtiyacını Karşılamaya Yönelik Yöntemler' başlığı altında antrenmana çeşitli oyunlar ve rutin dışı aktiviteler dahil etmek, tekdüze/monoton uygulamalardan kaçınmak önerilmektedir. Oyunlaştırma ve yarışma içeren etkinlikler düzenlemek bu önerilerle örtüşen, heyecan ihtiyacını karşılamaya yönelik somut bir yöntemdir; diğer seçenekler ise tam tersine tekdüzeliği, pasifliği, izolasyonu ve salt teorik anlatımı içerdiğinden heyecan ihtiyacını karşılamaz.",
+        "optionNotes": [
+          "Yanlış - metinde tam tersi önerilir: tekdüze/monoton uygulamalardan kaçınılması, heyecan ihtiyacını karşılamanın bir şartı olarak belirtilir.",
+          "Yanlış - sporcuyu pasif bırakmak, heyecan ihtiyacının karşılanmasına hizmet etmez; aktif ve çeşitli aktiviteler önerilir.",
+          "Doğru - oyunlaştırma ve yarışma içeren etkinlikler, Tablo 3.1'de önerilen 'antrenmana çeşitli oyunlar ve rutin dışı aktiviteler dahil etme' yöntemiyle örtüşür.",
+          "Yanlış - sosyal ortamdan izolasyon, heyecan ihtiyacıyla değil ilişkisellik/ait olma ihtiyacının karşılanmamasıyla ilişkilidir ve olumsuz bir uygulamadır.",
+          "Yanlış - sadece teorik anlatım, metinde önerilen aktif ve çeşitlilik içeren uygulamaların tam karşıtıdır."
+        ]
+      },
+      {
+        "id": "extra22",
+        "question": "Ödül çelengi çam dalı olan Arkaik Çağ kutsal oyunu aşağıdakilerden hangisidir?",
+        "options": [
+          "Olympic",
+          "Isthmian Games",
+          "Nemean",
+          "Pythian",
+          "Panathenaia"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1'in tam metninde Panhelenik kutsal oyunların ödül çelengleri açıkça listelenmiştir: Olimpiyat Oyunları (zeytin dalı), Pythia Oyunları (defne yaprağı), İsthmia Oyunları (çam dalı) ve Nemea Oyunları (kereviz yaprağı). Dolayısıyla ödül çelengi çam dalı olan oyun, İsthmia (Isthmian) Oyunları'dır.",
+        "optionNotes": [
+          "Yanlış - Olimpiyat Oyunları'nın ödül çelengi zeytin dalıdır, çam dalı değildir.",
+          "Doğru - metinde İsthmia Oyunları'nın ödül çelenginin çam dalı olduğu açıkça belirtilmiştir.",
+          "Yanlış - Nemea Oyunları'nın ödül çelengi kereviz yaprağıdır, çam dalı değildir.",
+          "Yanlış - Pythia Oyunları'nın ödül çelengi defne yaprağıdır, çam dalı değildir.",
+          "Yanlış - Panathenaia, metinde ödül çelengiyle bu bağlamda anılan bir Arkaik Çağ kutsal oyunu olarak geçmez."
+        ]
+      },
+      {
+        "id": "extra23",
+        "question": "Festivallerin parçası olarak düzenlenen Antik Olimpiyat Oyunlarında yarışmalar tanrılara sunulmuş bir tür ………dır. Boşluğa aşağıdakilerden hangisi gelmektedir?",
+        "options": [
+          "Eğlence",
+          "Ritüel",
+          "Ticaret",
+          "Reklam",
+          "Eğitim"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1'de Antik Olimpiyat Oyunları'nın katılım kriterleri anlatılırken 'yarışmalar dinsel festivallerin bir parçası, tanrılara sunulan bir adaktı' denilmektedir. Tanrılara sunulan bir adak, dinsel bir tören/ritüel niteliği taşır; bu nedenle boşluğa 'ritüel' kelimesi gelmelidir.",
+        "optionNotes": [
+          "Yanlış - metinde yarışmaların bir eğlence biçimi olarak tanımlandığına dair bir ifade yoktur; aksine dinsel bir adak olduğu belirtilir.",
+          "Doğru - tanrılara sunulan bir adak, dinsel bir ritüel niteliği taşır; metindeki 'dinsel festivallerin bir parçası, tanrılara sunulan bir adak' ifadesiyle örtüşür.",
+          "Yanlış - metinde yarışmaların bir ticaret faaliyeti olduğuna dair herhangi bir bilgi yoktur.",
+          "Yanlış - metinde yarışmaların bir reklam aracı olduğuna dair herhangi bir bilgi yoktur.",
+          "Yanlış - metinde yarışmaların bir eğitim faaliyeti olarak tanımlandığına dair bir ifade yoktur; tanım dinsel niteliktedir."
+        ]
+      },
+      {
+        "id": "extra24",
+        "question": "Aşağıdakilerden hangisi modern Olimpiyatların kuruluşuna yol açan faktörlerden biri değildir?",
+        "options": [
+          "Endüstriyel üretimi artırma amacı",
+          "Antik Yunan kültürüne duyulan ilginin artması",
+          "Beden eğitimi ve sporun eğitimde önem kazanması",
+          "Uluslararası barış ve dostluğu geliştirme düşüncesi",
+          "Pierre de Coubertin’in çalışmaları"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1'de modern Olimpiyatların yeniden canlandırılmasına yol açan altı temel faktör sayılmıştır: Rönesans eserlerinin antik olimpiyatlardan bahsetmesi, Mercurialis/Faber gibi eserlerin yarattığı farkındalık, İngiltere'deki yerel olimpiyat denemeleri, Aydınlanma seçkinlerinin ilgisi, Olimpia'nın arkeolojik olarak ortaya çıkarılması ve İngiltere'de sporun eğitimde ahlak/karakter gelişimi için kullanılması; ayrıca Coubertin'in bu sürecin kurucu ismi olduğu belirtilir. 'Endüstriyel üretimi artırma amacı' bu faktörler arasında hiç geçmemektedir ve modern olimpiyatların kuruluş amacıyla ilgisizdir.",
+        "optionNotes": [
+          "Doğru - metinde sayılan altı kuruluş faktörü arasında 'endüstriyel üretimi artırma amacı' hiç geçmez; bu nedenle doğru cevap budur.",
+          "Yanlış - antik Yunan kültürüne duyulan ilginin artması (Rönesans eserleri, arkeolojik kazılar vb.), metinde sayılan kuruluş faktörlerinden biridir.",
+          "Yanlış - beden eğitimi ve sporun eğitimde önem kazanması (Thomas Arnold'un okul sporu modeli), metinde sayılan kuruluş faktörlerinden biridir.",
+          "Yanlış - uluslararası barış ve dostluk düşüncesi, Coubertin'in olimpizmi bir barış hareketi olarak tanımlamasıyla doğrudan ilişkili bir kuruluş saikidir.",
+          "Yanlış - Pierre de Coubertin'in çalışmaları, modern olimpiyatların kuruluşunun doğrudan ve en belirleyici faktörüdür."
+        ]
+      },
+      {
+        "id": "extra25",
+        "question": "Antik Yunan’da Olimpiyat Oyunları’nın hangi dönemde yapılmaya başlandığı kabul edilir? A. Girit-Miken Çağı B. Arkaik Çağ C. Klasik Çağ D. Helenistik Çağ E. Helen-Roma Dönemi",
+        "options": [
+          "Girit-Miken Çağı",
+          "Arkaik Çağ",
+          "Klasik Çağ",
+          "Helenistik Çağ",
+          "Helen-Roma Dönemi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1'e göre antik olimpiyat oyunlarının sayımı MÖ 776'da şampiyonların resmen listelenmeye başlanmasıyla başlamıştır ve bu tarih Arkaik Çağ'ın (MÖ 800-500) hemen başlarına denk gelir. Bu nedenle Arkaik Çağ, Olimpiyat Oyunları'nın başlangıç dönemi olarak kabul edilir.",
+        "optionNotes": [
+          "Yanlış - Girit-Miken döneminde (MÖ 1600-1200) Olimpiya dinsel festival alanıydı ama olimpiyat oyunlarının resmi sayımı bu dönemde başlamamıştır.",
+          "Doğru - metin, Arkaik Çağ'ın spor tarihindeki özel öneminin, olimpiyat oyunlarının bu çağın hemen başında (MÖ 776) sayılmaya başlanmasından geldiğini belirtir.",
+          "Yanlış - Klasik Çağ'da (MÖ 500-300) oyunlar zaten var olan ve gelişen bir kurumdu, başlangıç dönemi değildir.",
+          "Yanlış - Helenistik Çağ'da yarışmacı cimnastik ihmal edilmiş, oyunlar gösteri müsabakasına dönüşmeye başlamıştır; başlangıç dönemi değildir.",
+          "Yanlış - Helen-Roma döneminde oyunlar zayıflayıp sonunda yasaklanmıştır; bu dönem oyunların sonunu, başlangıcını değil temsil eder."
+        ]
+      },
+      {
+        "id": "extra26",
+        "question": "Modern olimpiyatların ilki hangi yılda yapılmıştır?",
+        "options": [
+          "1884",
+          "1886",
+          "1894",
+          "1896",
+          "1990"
+        ],
+        "correctIndex": 3,
+        "explanation": "Baron Pierre de Coubertin'in çalışmalarıyla 23 Haziran 1894'te Uluslararası Olimpiyat Komitesi (IOC) kurulmuş, kabul edilen statüye göre ilk modern olimpiyat oyunları 1896 yılında Atina'da gerçekleştirilmiştir. Dolayısıyla IOC'nin kuruluş tarihi (1894) ile oyunların ilk kez yapıldığı tarih (1896) birbirinden farklıdır.",
+        "optionNotes": [
+          "Yanlış: 1884, modern olimpiyatların kuruluşu veya ilk oyunlarla ilgili metinde geçen bir tarih değildir.",
+          "Yanlış: 1886 da metinde modern olimpiyatlarla ilişkilendirilen bir tarih değildir.",
+          "Yanlış: 1894, ilk oyunların yapıldığı tarih değil, Uluslararası Olimpiyat Komitesi'nin (IOC) kurulduğu tarihtir.",
+          "Doğru: İlk modern olimpiyat oyunları 1896 yılında Atina'da gerçekleştirilmiştir.",
+          "Yanlış: 1990, modern olimpiyatların tarihiyle ilgisi olmayan, yüzyıl itibariyle de uyumsuz bir tarihtir."
+        ]
+      },
+      {
+        "id": "extra27",
+        "question": "Aşağıdakilerden hangisi antik çağda pentathlon müsabakalarından biri değildir?",
+        "options": [
+          "Disk atma",
+          "Cirit atma",
+          "Uzun atlama",
+          "Güreş",
+          "Boks"
+        ],
+        "correctIndex": 4,
+        "explanation": "Antik Çağ'da pentatlon (MÖ 708) disk atma, uzun atlama, cirit atma, koşu ve güreş disiplinlerinden oluşuyordu. Boks (pygme) ayrı bir yarışma dalıydı ve pentatlon kapsamında yer almıyordu.",
+        "optionNotes": [
+          "Yanlış: Pentatlonun beş disiplininden biridir.",
+          "Yanlış: Pentatlonun beş disiplininden biridir.",
+          "Yanlış: Pentatlonun beş disiplininden biridir.",
+          "Yanlış: Pentatlonun beş disiplininden biridir.",
+          "Doğru: Boks, pentatlonun beş disiplini (disk atma, uzun atlama, cirit atma, koşu, güreş) arasında yer almaz; ayrı ve bağımsız bir müsabaka dalıdır."
+        ]
+      },
+      {
+        "id": "extra28",
+        "question": "Okulunun programlarına sınıf geçmeyi de etkileyecek biçimde jimnastik ve oyun faaliyetleri koyarak okul beden eğitiminin öncüsü olan Aydın aşağıdakilerden hangisidir?",
+        "options": [
+          "John Locke",
+          "Jean Jack Rousse",
+          "Martin Luther",
+          "Petrus Faber",
+          "Jan Amos Komensky"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde, Çek asıllı Jan Amos Komensky'nin okulunun programlarına sınıf geçmeyi de etkileyecek biçimde cimnastik ve oyun faaliyetleri koyarak okul beden eğitiminin öncüsü olduğu açıkça belirtilmektedir.",
+        "optionNotes": [
+          "Yanlış: Locke, sağlıklı beden-sağlıklı akıl ilişkisini savunan ve yüzmeyi öneren Aydınlanma dönemi düşünürüdür, bu uygulamayla anılmaz.",
+          "Yanlış: Rousseau, 'Emile' adlı eserinde beden eğitiminin teorik temelini atmıştır ama okul programına sınıf geçmeyle ilişkilendirilen cimnastik koyan kişi değildir.",
+          "Yanlış: Luther, laik ve zorunlu temel eğitimi savunan bir hümanisttir, bu spesifik uygulamayla anılmaz.",
+          "Yanlış: Faber, 1592'de 'Agonisticon' adlı eseriyle antik olimpiyatlardan bahseden bir yazardır, okul programıyla ilgili bu uygulamayla anılmaz.",
+          "Doğru: Metinde doğrudan Komensky'nin okulunun programına sınıf geçmeyi etkileyecek biçimde cimnastik ve oyun faaliyetleri koyarak okul beden eğitiminin öncüsü olduğu belirtilmiştir."
+        ]
+      },
+      {
+        "id": "extra29",
+        "question": "İlk spor psikolojisi deneyini yapan bilim adamı hangisidir?",
+        "options": [
+          "Bandura",
+          "Griffith",
+          "Normann Triplett",
+          "Freud",
+          "Tutko"
+        ],
+        "correctIndex": 2,
+        "explanation": "Spor psikolojisi alanındaki ilk bilimsel çalışma, 1898 yılında sosyal psikolog Norman Triplett tarafından yazılan bir yüksek lisans tezi kapsamında gerçekleştirilmiştir. Bu nedenle Triplett, alanın ilk deneyini yapan bilim adamı olarak kabul edilir.",
+        "optionNotes": [
+          "Yanlış: Bandura, sosyal öğrenme kuramıyla tanınan bir psikologdur, spor psikolojisinin ilk deneyini yapan kişi değildir.",
+          "Yanlış: Griffith daha sonraki dönemlerde spor psikolojisi alanında çalışmış bir isimdir, ancak metinde ilk çalışmayı yapan kişi olarak Triplett belirtilmiştir.",
+          "Doğru: Triplett, 1898'de yaptığı çalışmayla spor psikolojisi alanındaki ilk bilimsel çalışmayı gerçekleştirmiştir.",
+          "Yanlış: Freud, psikanaliz kuramının kurucusudur, spor psikolojisiyle ilk çalışmayı ilişkilendiren isim değildir.",
+          "Yanlış: Tutko, metinde ilk deneyi yapan kişi olarak geçmemektedir."
+        ]
+      },
+      {
+        "id": "extra30",
+        "question": "Sporda cinsiyet ayrımı konulu bir araştırmayı aşağıdaki alanlardan hangisi ele alır?",
+        "options": [
+          "Spor felsefesi",
+          "Spor psikolojisi",
+          "Spor sosyolojisi",
+          "Spor hukuku",
+          "Spor yönetimi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Sporda cinsiyet ayrımı ve toplumsal cinsiyet konuları, spor sosyolojisinin ele aldığı temel başlıklardandır; toplumun kadına ve erkeğe biçtiği roller ve kalıp yargıların spora katılımı nasıl etkilediği, toplumsal cinsiyet eşitliği/eşitsizliği ve antrenörlerin cinsiyete duyarlılığı gibi konular spor sosyolojisi kapsamında incelenir.",
+        "optionNotes": [
+          "Yanlış: Spor felsefesi daha çok sporun etik/değer boyutlu kavramsal sorgulamasıyla ilgilenir, cinsiyet ayrımı araştırmalarının asıl alanı değildir.",
+          "Yanlış: Spor psikolojisi bireyin zihinsel süreçleriyle ilgilenir; cinsiyet ayrımı konusu toplumsal bir olgu olarak sosyolojinin alanına girer.",
+          "Doğru: Toplumsal cinsiyet ve cinsiyet ayrımı, spor sosyolojisinin temel konu başlıklarından biridir.",
+          "Yanlış: Spor hukuku, sportif organizasyonların hukuki düzenlemeleriyle ilgilenir, cinsiyet ayrımı araştırmalarının asıl disiplini değildir.",
+          "Yanlış: Spor yönetimi, organizasyon ve idari süreçlerle ilgilenir, cinsiyet ayrımı araştırmalarının asıl disiplini değildir."
+        ]
+      },
+      {
+        "id": "extra31",
+        "question": "Aşağıdakilerden hangisinde ilk kez zorunlu beden eğitimi dersleri uygulanmıştır?",
+        "options": [
+          "İngiltere",
+          "İsveç",
+          "Danimarka&#039;da",
+          "Fransa",
+          "Türkiye"
+        ],
+        "correctIndex": 2,
+        "explanation": "Beden eğitimi tarihinde, zorunlu/mecburi beden eğitimi derslerinin okul müfredatına ilk kez ulusal düzeyde dahil edildiği ülke Danimarka'dır; 19. yüzyıl başlarında Danimarka'da beden eğitimi dersleri zorunlu hale getirilmiştir. Not: Bu bilgi, incelenen ünite özetlerinde/tam metinlerde doğrudan yer almadığından, genel spor tarihi bilgisine dayanılarak ve en mantıklı seçenek olarak belirlenmiştir; bu nedenle diğer sorulara kıyasla kesinlik derecesi daha düşüktür.",
+        "optionNotes": [
+          "Yanlış: İngiltere'de beden eğitimi/spor okul müfredatına özel kolejler (Rugby, Eton vb.) aracılığıyla ve ahlaki gelişim amacıyla girmiştir, ulusal zorunlu beden eğitiminin ilk uygulandığı ülke olarak gösterilmez.",
+          "Yanlış: İsveç, Ling'in kurduğu sistematik jimnastik anlayışıyla tanınır ancak ilk zorunlu beden eğitimi uygulamasının öncüsü olarak gösterilmez.",
+          "Doğru (ihtiyatla): Zorunlu beden eğitimi derslerinin okul programlarına ilk kez ulusal düzeyde dahil edildiği ülke olarak kabul edilir.",
+          "Yanlış: Fransa'da beden eğitimi, Coubertin'in reform çalışmalarıyla daha sonraki dönemde önem kazanmıştır, ilk zorunlu uygulama ülkesi değildir.",
+          "Yanlış: Türkiye'de beden eğitimi dersleri, Avrupa'daki bu gelişmelerden sonra, Osmanlı'nın son dönemi ve Cumhuriyet döneminde yaygınlaşmıştır."
+        ]
+      },
+      {
+        "id": "extra32",
+        "question": "\"Neolitik çağ&#039;da tarıma geçişin yapıldığı. ................ Sportif aktivitelerin farklı amaçlar doğrultusunda uygulanmasına neden olmuştur\" Metindeki boşluğu aşağıdakilerden hangisi tamamlar?",
+        "options": [
+          "Mülkiyet anlayışı",
+          "Topluluk bilinci",
+          "Serbest zaman",
+          "Şehirleşme",
+          "Üretim anlayışı"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde Neolitik Çağ ve sonrası şartların belirlediği yeni yaşam tarzının en önemli karakteristik özelliklerinden birinin yarattığı serbest zaman olduğu belirtilir; insanın doğayla mücadelede geliştirdiği araç, beceri ve teknikler (taşıma-ulaştırma, savunma-saldırı kökenli) benzetim yoluyla bu serbest zamana uygulanarak sportif aktivitelerin farklı amaçlar doğrultusunda kullanılmasına yol açmıştır.",
+        "optionNotes": [
+          "Yanlış: Mülkiyet şartlarının değişimi metinde Geç Arkaik Çağ'daki sosyal gerilimlerle ilişkilendirilir, Neolitik Çağ'daki tarıma geçişle doğrudan bağlanan kavram değildir.",
+          "Yanlış: Metinde Neolitik Çağ'ın sportif aktivitelere etkisi bu kavramla açıklanmaz.",
+          "Doğru: Metin, Neolitik Çağ ve sonrasının yarattığı yeni yaşam tarzının temel özelliğinin serbest zaman olduğunu ve bunun sportif aktivitelerin farklı amaçlarla (taşıma-ulaştırma, savunma-saldırı vb.) uygulanmasına yol açtığını belirtir.",
+          "Yanlış: Şehirleşme, metinde Neolitik sürecin bir sonucu olarak değil, modern sporun İngiltere'deki Endüstri Devrimi bağlamında geçer.",
+          "Yanlış: Üretim ilişkileri Tunç Çağı bağlamında serbest zamanın ortaya çıkışına katkı olarak anılır; ancak sportif aktivitelerin farklı amaçlara yönelmesinin doğrudan gerekçesi olarak metinde 'serbest zaman' vurgulanır."
+        ]
+      },
+      {
+        "id": "extra33",
+        "question": "\"Spor\" teriminin ilk formları hangi çağ kaynaklıdır?",
+        "options": [
+          "Modern çağ",
+          "Antik Yunan çağ",
+          "Girit miken çağ",
+          "Ortaçağ",
+          "Neolitik çağ"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde, bugün kullanılan 'spor' teriminin sportif uygulamaların tarihsel derinliğine göre oldukça yeni bir kelime olduğu ve ilk formlarının Ortaçağ'a dayandığı açıkça belirtilmektedir.",
+        "optionNotes": [
+          "Yanlış: 'Spor' kelimesinin günümüzdeki anlamı 19. yüzyılda İngiltere'de yaygınlaşmıştır, ama terimin ilk formları bundan çok önce Ortaçağ'da ortaya çıkmıştır.",
+          "Yanlış: Antik Yunan'da yarışmacı için 'athletes', eğitmen için 'gymnastes' terimleri kullanılıyordu; 'spor' terimi bu döneme ait değildir.",
+          "Yanlış: Bu dönemde spor disiplinleri savaşçılık ve avcılık kökenliydi, 'spor' terimiyle bir bağlantısı metinde yoktur.",
+          "Doğru: Metinde 'spor' teriminin ilk formlarının Ortaçağ'a dayandığı doğrudan belirtilmektedir.",
+          "Yanlış: Neolitik çağ, tarıma geçiş ve serbest zamanın ortaya çıkışıyla ilişkilendirilir, 'spor' teriminin kökeniyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra34",
+        "question": "Aşağıdakilerden hangisinin antrenman gerektiren alıştırmalarının, sporun önceliği sayılabilecek en eski fiziksel alıştırmalar olduğu söylenebilir?",
+        "options": [
+          "Koşma",
+          "Tırmanma",
+          "Yüzme",
+          "Mızrak",
+          "Dans"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde yer alan uyarı kutusunda, isabet kaydı için ana uygulama öncesinde 'antrenman' gerektiren mızrak atma alıştırmalarının, sporun önceli sayılabilecek en eski fiziksel alıştırmalar olduğu açıkça belirtilmektedir.",
+        "optionNotes": [
+          "Yanlış: Koşma, insanı zorunlu olarak ve farkında olmaksızın koşucu yapan doğal bir harekettir, antrenman gerektiren bilinçli bir alıştırma olarak sunulmaz.",
+          "Yanlış: Metinde antrenman gerektiren en eski fiziksel alıştırma olarak tırmanmadan bahsedilmez.",
+          "Yanlış: Yüzme de metinde bu bağlamda antrenman gerektiren en eski alıştırma olarak belirtilmez.",
+          "Doğru: Metinde doğrudan, isabet kaydı için antrenman gerektiren mızrak atma alıştırmalarının sporun önceli sayılabilecek en eski fiziksel alıştırmalar olduğu belirtilir.",
+          "Yanlış: Dans, İdealist tarih görüşüne göre ilk sportif hareket sayılır, ancak antrenman gerektiren en eski fiziksel alıştırma olarak metinde gösterilmez."
+        ]
+      },
+      {
+        "id": "extra35",
+        "question": "Büyük bir meydanda eğitilmiş atlar üzerinde çevgan denen eğri başlı sopayla ______ oynanır. Cümlede boş bırakılan yere hangisi doğru olarak tamamlar.",
+        "options": [
+          "Güreş",
+          "Okçuluk",
+          "Guy",
+          "Cirit",
+          "Kılıç oyunu"
+        ],
+        "correctIndex": 2,
+        "explanation": "Çevgan, Orta Asya ve İslam kültüründe atlı olarak oynanan, eğri başlı bir değnekle (çevgan) topa vurularak oynanan bir oyundur; bu oyunda kullanılan tahta top 'guy' (gu) adıyla anılır ve oyun bu adla da bilinir. Bu nedenle cümledeki boşluğa 'Guy' gelmelidir. Bu soru, ders ünitelerinin özet ve tam metinlerinde doğrudan işlenmeyen, Türk spor tarihine ait özel bir bilgiye dayanmaktadır; cevap genel tarihsel bilgiye göre belirlenmiştir.",
+        "optionNotes": [
+          "Güreş: Çevgan ile ilişkili değildir; güreş atsız ve değneksiz, karşılıklı bedensel mücadeleye dayalı ayrı bir spordur.",
+          "Okçuluk: Ok ve yayla yapılan bir faaliyettir, eğri başlı sopa (çevgan) ile vurma eylemiyle ilgisi yoktur.",
+          "Guy: Doğru; çevganla vurulan topun adı 'guy' olup oyun bu adla da anılır, cümledeki boşluğu bu kelime tamamlar.",
+          "Cirit: Atlı olarak oynansa da elde tutulan bir mızrak/sopanın fırlatılmasıyla oynanır, çevgan sopasıyla topa vurma eylemiyle ilgisi yoktur.",
+          "Kılıç oyunu: Kesici bir silahla yapılan dövüş/talim oyunudur, çevganla topa vurmakla ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra36",
+        "question": "Profesyonel sporcularda aşağıdakilerden hangisinin yüksek olması fair play’e yönelik davranışların artmasına neden olur?",
+        "options": [
+          "Saldırganlık düzeyi",
+          "Kazanma hırsı",
+          "Ahlaki gelişim / spor etiği bilinci",
+          "Rekabet baskısı",
+          "Maddi beklenti"
+        ],
+        "correctIndex": 2,
+        "explanation": "Fair play'in gelişmesinde sporcunun ahlaki gelişim düzeyi ve spor etiği bilinci belirleyicidir; bu bilinç ne kadar yüksekse kurallara saygı, rakibe saygı ve dürüst mücadele davranışları da o kadar artar. Diğer seçenekler (saldırganlık, kazanma hırsı, rekabet baskısı, maddi beklenti) ise fair play'i zayıflatan, kural ihlali eğilimini artıran etmenlerdir.",
+        "optionNotes": [
+          "Saldırganlık düzeyi: Yüksek saldırganlık fair play'i güçlendirmez, aksine kural ihlallerini ve rakibe zarar verme eğilimini artırır.",
+          "Kazanma hırsı: Aşırı kazanma hırsı 'ne pahasına olursa olsun kazanma' anlayışına yol açarak fair play'i zayıflatır.",
+          "Ahlaki gelişim / spor etiği bilinci: Doğru; ahlaki gelişim ve etik bilinç arttıkça kurallara, rakibe ve hakemlere saygı gibi fair play davranışları da artar.",
+          "Rekabet baskısı: Yüksek rekabet baskısı sporcuları kural dışı yollara (doping, hile) itebileceğinden fair play'i olumsuz etkiler.",
+          "Maddi beklenti: Yüksek maddi beklenti şike ve haksız avantaj arayışını körükleyebileceğinden fair play'i zayıflatan bir etmendir."
+        ]
+      },
+      {
+        "id": "extra37",
+        "question": "Orta Sibirya Göktürk kabileleri buzda kaymak için aşağıdakilerden hangisini kullanmıştır?",
+        "options": [
+          "Ahşap kayak",
+          "Hayvan kemikleri (kemik paten)",
+          "Deri sandalet",
+          "Demir nal",
+          "Taş levhalar"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tarihsel kaynaklara göre Orta Sibirya'daki Göktürk kabileleri buzda kaymak amacıyla hayvan kemiklerinden yapılmış ilkel patenler kullanmıştır; bu, bilinen en eski buz kayağı uygulamalarından biri olarak kabul edilir. Bu bilgi ders ünitelerindeki özet ve tam metinlerde doğrudan yer almadığından, genel spor tarihi bilgisine dayanılarak belirlenmiştir.",
+        "optionNotes": [
+          "Ahşap kayak: Tarihsel kayıtlarda Göktürk kabilelerinin buzda kaymak için kullandığı malzeme olarak ahşap değil hayvan kemikleri geçer.",
+          "Hayvan kemikleri (kemik paten): Doğru; Göktürk kabilelerinin buzda kaymak için hayvan kemiklerinden yapılmış ilkel patenler kullandığı bilinmektedir.",
+          "Deri sandalet: Deri sandalet buzda kaymaya uygun bir malzeme değildir ve bu amaçla kullanıldığına dair bir bilgi yoktur.",
+          "Demir nal: Demir nal atların ayaklarına takılan bir malzemedir, insanın buzda kaymasıyla ilgisi yoktur.",
+          "Taş levhalar: Taş levhalar kayma işlevi için uygun ve pratik bir malzeme değildir, bu bağlamda kullanıldığına dair bilgi yoktur."
+        ]
+      },
+      {
+        "id": "extra38",
+        "question": "Hitap ettiği alanın çok geniş olması sebebiyle sporun yayılmasına aşağıdakilerden hangisinin payı büyüktür?",
+        "options": [
+          "Kitle iletişim araçları (medya)",
+          "Bireysel antrenmanlar",
+          "Spor tesislerinin azlığı",
+          "Okul etkinlikleri",
+          "Yerel kulüpler"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sporun hitap ettiği alanın (kitlesinin) çok geniş olması ve dolayısıyla hızla yayılması, kitle iletişim araçlarının (medyanın) sporu geniş kitlelere ulaştırmasıyla doğrudan ilişkilidir. Metinde de 'sporun geniş kitlelere ulaşmasında aracılık eden medya' ifadesiyle bu rol açıkça belirtilmiştir.",
+        "optionNotes": [
+          "Kitle iletişim araçları (medya): Doğru; medya, sporun coğrafi ve toplumsal olarak çok geniş bir kitleye ulaşmasını sağlayan temel araçtır.",
+          "Bireysel antrenmanlar: Bireysel antrenmanlar sporun yaygınlaşmasını değil, bireysel performans gelişimini ifade eder, geniş kitlelere ulaşmayla ilgisi yoktur.",
+          "Spor tesislerinin azlığı: Tesislerin azlığı sporun yayılmasını kolaylaştırıcı değil kısıtlayıcı bir unsurdur.",
+          "Okul etkinlikleri: Okul etkinlikleri önemli bir sosyalleşme ajanı olsa da medya kadar geniş ve hızlı bir yayılma gücüne sahip değildir.",
+          "Yerel kulüpler: Yerel kulüpler sınırlı bir coğrafi alana hitap eder, sporun geniş kitlelere yayılmasında medya kadar etkili değildir."
+        ]
+      },
+      {
+        "id": "extra39",
+        "question": "Orta Asya’da ayakların raket olarak kullanıldığı oyuna ne ad verilir?",
+        "options": [
+          "Cirit",
+          "Tepük",
+          "Çevgan",
+          "Güreş",
+          "Matrak"
+        ],
+        "correctIndex": 1,
+        "explanation": "Orta Asya Türk kültüründe 'Tepük', ayağın bir raket gibi kullanılarak topun tekmelenmesi esasına dayanan, futbolun ilk biçimlerinden sayılan geleneksel bir oyundur. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel Türk spor tarihi bilgisine dayanılarak belirlenmiştir.",
+        "optionNotes": [
+          "Cirit: Cirit, atlı olarak elde tutulan bir sopanın/mızrağın rakibe fırlatılmasına dayanan bir oyundur, ayağın raket olarak kullanılmasıyla ilgisi yoktur.",
+          "Tepük: Doğru; tepük oyununda ayak, topu tekmelemek için bir raket gibi kullanılır, bu nedenle doğru cevap budur.",
+          "Çevgan: Çevgan, atlı olarak elde tutulan eğri başlı bir sopayla oynanan bir oyundur, ayakla ilgili değildir.",
+          "Güreş: Güreş, ayakta veya yerde bedensel mücadeleye dayanan bir spordur, ayağın raket olarak kullanılmasıyla ilgisi yoktur.",
+          "Matrak: Matrak, tahta kılıçlarla yapılan bir dövüş/talim oyunudur, ayağın raket olarak kullanılmasıyla ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra40",
+        "question": "Aşağıdakilerden hangisi antrenörlerin sözel iletişimde dikkat etmesi gerekenlerden biridir?",
+        "options": [
+          "Karmaşık ve uzun cümleler kullanmak",
+          "Sporcuları eleştirel ve kırıcı konuşmak",
+          "Sürekli bağırarak konuşmak",
+          "Geri bildirim vermemek",
+          "Açık, anlaşılır ve motive edici bir dil kullanmak"
+        ],
+        "correctIndex": 4,
+        "explanation": "Antrenörlerin sözel iletişimde dikkat etmesi gereken temel ilkelerden biri, açık, anlaşılır, tutarlı ve motive edici bir dil kullanmaktır; bu, Martens'in verimli mesaj gönderme ilkeleriyle de örtüşür. Diğer seçenekler ise iletişimi bozan, sporcuyu olumsuz etkileyen hatalı iletişim biçimlerini tanımlar.",
+        "optionNotes": [
+          "Karmaşık ve uzun cümleler kullanmak: Mesajın açık ve anlaşılır olması gerektiği ilkesine aykırıdır, iletişimi zorlaştırır.",
+          "Sporcuları eleştirel ve kırıcı konuşmak: Etkili iletişim ilkelerine aykırıdır; kişisel eleştiriden kaçınmak gerektiği vurgulanır.",
+          "Sürekli bağırarak konuşmak: Bu, duygusal istismar niteliğinde olabilecek olumsuz bir iletişim biçimidir, dikkat edilmesi gereken olumlu bir davranış değildir.",
+          "Geri bildirim vermemek: Verimli iletişimde alıcıdan geri bildirim alınması ve geri bildirim verilmesi gerektiği vurgulanır; geri bildirim vermemek bu ilkeye aykırıdır.",
+          "Açık, anlaşılır ve motive edici bir dil kullanmak: Doğru; bu, antrenörlerin sözel iletişiminde dikkat etmesi gereken temel ve olumlu bir ilkedir."
+        ]
+      },
+      {
+        "id": "extra41",
+        "question": "Bireyin doğuştan getirdiği özellikleri ile çevreyle etkileşim sonucu edindiği özelliklerin bütününe ______ denir?",
+        "options": [
+          "Kişilik",
+          "Karakter",
+          "Mizaç",
+          "Yetenek",
+          "Davranış"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kişilik, bireyin doğuştan getirdiği (kalıtımsal/mizaç kaynaklı) özellikleriyle çevreyle etkileşimi sonucunda edindiği (karakter kaynaklı) özelliklerin bütününü ifade eden kapsayıcı bir kavramdır. Bu soru ders ünitelerinin özet ve tam metinlerinde doğrudan yer almayan, genel psikoloji bilgisine dayanan klasik bir tanımdır.",
+        "optionNotes": [
+          "Kişilik: Doğru; kişilik, doğuştan gelen özellikler (mizaç) ile çevre etkileşimiyle kazanılan özelliklerin (karakter) bütününü ifade eden en kapsayıcı kavramdır.",
+          "Karakter: Karakter, kişiliğin sadece çevreyle etkileşim sonucu edinilen, ahlaki değerlerle ilişkili boyutunu ifade eder; doğuştan gelen özellikleri kapsamaz.",
+          "Mizaç: Mizaç, kişiliğin yalnızca doğuştan gelen, kalıtımsal boyutunu ifade eder; çevre etkileşimiyle kazanılan özellikleri kapsamaz.",
+          "Yetenek: Yetenek, belirli bir alanda başarılı olabilme potansiyelini ifade eder, kişiliğin bütününü tanımlamaz.",
+          "Davranış: Davranış, kişiliğin dışa yansıyan somut eylemlerini ifade eder, doğuştan ve edinilmiş özelliklerin bütününü kapsayan bir kavram değildir."
+        ]
+      },
+      {
+        "id": "extra42",
+        "question": "Aşağıdakilerden hangisi stres ve kaygı durumunda oluşan fizyolojik belirtilerdendir?",
+        "options": [
+          "Terleme",
+          "Sinirlilik",
+          "Dikkat dağınıklığı",
+          "Kararsızlık",
+          "Motivasyon düşüklüğü"
+        ],
+        "correctIndex": 0,
+        "explanation": "Stres ve kaygı durumunda ortaya çıkan belirtiler fizyolojik, bilişsel, duyuşsal ve davranışsal olmak üzere farklı kategorilere ayrılır. Terleme, kalp atışının hızlanması gibi bedensel tepkilerle birlikte ortaya çıkan doğrudan bir fizyolojik belirtidir; diğer seçenekler ise bilişsel veya duyuşsal/davranışsal belirtilerdir.",
+        "optionNotes": [
+          "Terleme: Doğru; terleme, stres ve kaygı anında vücudun verdiği doğrudan bedensel (fizyolojik) bir tepkidir.",
+          "Sinirlilik: Sinirlilik duygusal/davranışsal bir belirtidir, bedensel bir fizyolojik tepki değildir.",
+          "Dikkat dağınıklığı: Dikkat dağınıklığı bilişsel bir belirtidir, fizyolojik bir tepki olarak sınıflandırılmaz.",
+          "Kararsızlık: Kararsızlık da bilişsel/davranışsal bir belirtidir, bedensel bir fizyolojik tepki değildir.",
+          "Motivasyon düşüklüğü: Motivasyon düşüklüğü psikolojik bir sonuçtur, doğrudan fizyolojik bir belirti değildir."
+        ]
+      },
+      {
+        "id": "extra43",
+        "question": "Rakibe, hakemlere, takım arkadaşlarına ve kurallara saygının ön planda tutularak dürüst ve adil oynamaya ne ad verilir?",
+        "options": [
+          "Rekabet",
+          "Disiplin",
+          "Performans",
+          "Motivasyon",
+          "Fair Play"
+        ],
+        "correctIndex": 4,
+        "explanation": "Rakibe, hakemlere, takım arkadaşlarına ve kurallara saygının ön planda tutulduğu, dürüst ve adil oynama anlayışına 'Fair Play' adı verilir; bu kavram sporda erdemlik olarak da Türkçeye çevrilmiştir.",
+        "optionNotes": [
+          "Rekabet: Rekabet, yarışma ortamını ifade eder ama dürüstlük ve saygı ilkesini doğrudan tanımlamaz.",
+          "Disiplin: Disiplin, kurallara uyma alışkanlığını ifade eder ama rakibe/hakemlere saygıyı kapsayan bütüncül bir kavram değildir.",
+          "Performans: Performans, sporcunun yarışmadaki başarı düzeyini ifade eder, ahlaki bir davranış kavramı değildir.",
+          "Motivasyon: Motivasyon, çabanın yönü ve şiddetini ifade eder, dürüst ve adil oynamayla ilgili bir kavram değildir.",
+          "Fair Play: Doğru; tanımda belirtilen, rakibe, hakemlere, takım arkadaşlarına ve kurallara saygıya dayalı dürüst ve adil oynama anlayışı doğrudan Fair Play'i tanımlar."
+        ]
+      },
+      {
+        "id": "extra44",
+        "question": "Bir milletin kendine has olarak meydana getirdiği maddi ve manevi yapıların, o toplumun iç dünyasında görünür olmasına ______ denir.",
+        "options": [
+          "Gelenek",
+          "Medeniyet",
+          "Toplumsallaşma",
+          "Kültür",
+          "Kimlik"
+        ],
+        "correctIndex": 3,
+        "explanation": "Bir milletin kendine özgü olarak ürettiği maddi ve manevi değerlerin, o toplumun iç dünyasında (düşünce, değer ve inanç dünyasında) görünür olmasına Kültür denir; bu, milletler arasında ortak ve evrensel olan 'medeniyet' kavramından farklı olarak millete özgü, içe dönük bir kavramdır. Metinde de kültür 'toplumun düşünce, değer yargı ve inançları bütünü' olarak tanımlanmıştır.",
+        "optionNotes": [
+          "Gelenek: Gelenek, kültürün bir parçası olan belirli alışkanlık ve uygulamaları ifade eder, kültürün bütününü kapsayan bir kavram değildir.",
+          "Medeniyet: Medeniyet, genellikle milletler arasında ortak ve evrensel olan maddi/teknik gelişmişlik düzeyini ifade eder; sorudaki 'millete özgü, iç dünyada görünür olma' tanımı kültüre aittir.",
+          "Toplumsallaşma: Toplumsallaşma, bireyin toplumun kültürünü öğrenme sürecidir, kültürün kendisini tanımlamaz.",
+          "Kültür: Doğru; tanımda belirtilen, bir milletin kendine özgü maddi ve manevi değerlerinin iç dünyada görünür olması kültürü ifade eder.",
+          "Kimlik: Kimlik, bireyin veya grubun kendini tanımladığı özellikler bütünüdür, sorudaki tanımla birebir örtüşmez."
+        ]
+      },
+      {
+        "id": "extra45",
+        "question": "Türkiye’nin ilk çok sporlu ve çok kulüplü örgütsel yapısı aşağıdakilerden hangisidir?",
+        "options": [
+          "Gençlik ve Spor Genel Müdürlüğü",
+          "Türkiye Millî Olimpiyat Komitesi",
+          "Türkiye Futbol Federasyonu",
+          "Türkiye İdman Cemiyetleri İttifakı",
+          "Beden Terbiyesi Genel Müdürlüğü"
+        ],
+        "correctIndex": 3,
+        "explanation": "Türkiye'nin ilk çok sporlu ve çok kulüplü örgütsel yapısı Türkiye İdman Cemiyetleri İttifakı'dır (TİCİ); bu yapı farklı spor branşlarından çok sayıda kulübü bir çatı altında toplayan ilk kurumsal örgütlenme olarak kabul edilir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel Türk spor tarihi bilgisine dayanılarak belirlenmiştir.",
+        "optionNotes": [
+          "Gençlik ve Spor Genel Müdürlüğü: Bu kurum, TİCİ'den sonraki dönemlerde kurulan ve gelişen bir devlet kurumudur, Türkiye'nin ilk çok sporlu/çok kulüplü örgütü değildir.",
+          "Türkiye Millî Olimpiyat Komitesi: TMOK, olimpik faaliyetlerle ilgilenen ayrı bir kurumdur, ilk çok sporlu kulüpler ittifakı değildir.",
+          "Türkiye Futbol Federasyonu: TFF, sadece futbol branşına özgü bir federasyondur, çok sporlu bir yapı değildir.",
+          "Türkiye İdman Cemiyetleri İttifakı: Doğru; Türkiye'nin ilk çok sporlu ve çok kulüplü örgütsel yapısı olarak kabul edilir.",
+          "Beden Terbiyesi Genel Müdürlüğü: Bu kurum da TİCİ'den sonraki bir döneme ait devlet kurumudur, ilk örgütsel yapı değildir."
+        ]
+      },
+      {
+        "id": "extra46",
+        "question": "Aşağıdakilerden hangisi spora katılımda etkili olan kişisel faktörlerden biri değildir?",
+        "options": [
+          "Yaş",
+          "Cinsiyet",
+          "Sağlık durumu",
+          "İlgi ve motivasyon",
+          "Spor tesislerinin sayısı"
+        ],
+        "correctIndex": 4,
+        "explanation": "Spora katılımda etkili olan kişisel faktörler bireyin kendisine ait özellikleri (yaş, cinsiyet, sağlık durumu, ilgi ve motivasyon gibi) kapsar. Spor tesislerinin sayısı ise bireyin kişisel bir özelliği değil, çevresel/yapısal bir faktördür; bu nedenle kişisel faktörler arasında sayılmaz.",
+        "optionNotes": [
+          "Yaş: Yaş, bireyin spora katılımını etkileyen temel kişisel faktörlerden biridir.",
+          "Cinsiyet: Cinsiyet de spora katılımı etkileyen kişisel faktörler arasında sayılır.",
+          "Sağlık durumu: Sağlık durumu, bireyin spor yapıp yapamayacağını belirleyen doğrudan kişisel bir faktördür.",
+          "İlgi ve motivasyon: İlgi ve motivasyon, bireyin spora yönelme isteğini belirleyen kişisel bir faktördür.",
+          "Spor tesislerinin sayısı: Doğru; bu, bireyin kişisel bir özelliği değil, çevresel/yapısal bir faktördür, kişisel faktörler arasında sayılmaz."
+        ]
+      },
+      {
+        "id": "extra47",
+        "question": "Freud’a göre ahlak gelişimi, çocuğun kişiliğinde __________ gelişmesiyle elde edilmektedir.",
+        "options": [
+          "İd",
+          "Ego",
+          "Süperego",
+          "Benlik saygısı",
+          "Mizaç"
+        ],
+        "correctIndex": 2,
+        "explanation": "Freud'un psikanalitik kuramına göre ahlak gelişimi, çocuğun kişiliğinde süperego (üst benlik) adı verilen yapının gelişmesiyle gerçekleşir; süperego, toplumsal kuralları, değerleri ve vicdanı temsil eden kişilik bileşenidir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel psikoloji bilgisine dayanılarak belirlenmiştir.",
+        "optionNotes": [
+          "İd: İd, kişiliğin içgüdüsel ve hazcı dürtülerini temsil eden ilkel bölümüdür, ahlaki gelişimle ilişkili değildir.",
+          "Ego: Ego, id ile süperego arasında gerçekçi bir denge kuran kişilik bölümüdür, doğrudan ahlak gelişimini temsil etmez.",
+          "Süperego: Doğru; Freud'a göre ahlaki değerler ve vicdan, süperegonun gelişimiyle kişiliğe kazandırılır.",
+          "Benlik saygısı: Benlik saygısı, bireyin kendine verdiği değeri ifade eder, Freud'un ahlak gelişimi kuramındaki bir yapı değildir.",
+          "Mizaç: Mizaç, doğuştan gelen davranış eğilimlerini ifade eder, Freud'un ahlak gelişimi açıklamasıyla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra48",
+        "question": "I: Taraflılık II: Sorumluluk III: Laiklik IV: Adalet hangisi yada hangileri evrensel mesleki etik ilkelerindendir?",
+        "options": [
+          "Yalnız I",
+          "I ve III",
+          "II ve IV",
+          "II ve III",
+          "I, II ve IV"
+        ],
+        "correctIndex": 2,
+        "explanation": "Evrensel mesleki etik ilkeleri arasında genellikle sorumluluk, adalet, dürüstlük ve tarafsızlık gibi ilkeler sayılır. 'Taraflılık' (yanlı davranma) bu ilkelerin tam tersi olduğundan bir etik ilke sayılamaz; 'Laiklik' de mesleki etik ilkeleri arasında sayılan bir kavram değildir. Bu nedenle listedeki maddelerden yalnızca Sorumluluk (II) ve Adalet (IV) evrensel mesleki etik ilkesi olarak kabul edilebilir.",
+        "optionNotes": [
+          "Yalnız I: Taraflılık bir etik ilke değil, tarafsızlığın karşıtı olan olumsuz bir davranıştır; bu nedenle bu seçenek yanlıştır.",
+          "I ve III: Taraflılık ve laiklik ikisi de evrensel mesleki etik ilkeleri arasında sayılmaz, bu nedenle bu seçenek yanlıştır.",
+          "II ve IV: Doğru; sorumluluk ve adalet, mesleki etik literatüründe evrensel kabul gören temel ilkelerdendir.",
+          "II ve III: Sorumluluk bir etik ilkedir ancak laiklik mesleki etik ilkeleri arasında sayılmadığından bu seçenek yanlıştır.",
+          "I, II ve IV: Taraflılığın bir etik ilke olmaması nedeniyle bu seçenek de yanlıştır."
+        ]
+      },
+      {
+        "id": "extra49",
+        "question": "Maddi veya manevi çıkar karşılığı anlaşma ile maçın sonucunu değiştirmeye ne denir?",
+        "options": [
+          "Şike",
+          "Rekabet",
+          "Fair play",
+          "Sponsorluk",
+          "Transfer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maddi veya manevi bir çıkar karşılığında anlaşarak bir müsabakanın sonucunu önceden belirlemeye veya değiştirmeye 'Şike' adı verilir; bu davranış fair play anlayışına ve sporun dürüstlük ilkesine doğrudan aykırıdır.",
+        "optionNotes": [
+          "Şike: Doğru; tanımda belirtilen, çıkar karşılığı maçın sonucunu değiştirme eylemi doğrudan şikeyi ifade eder.",
+          "Rekabet: Rekabet, yarışma ortamının doğal bir unsuru olup sonucu çıkar karşılığı değiştirmeyi ifade etmez.",
+          "Fair play: Fair play, dürüst ve adil oynamayı ifade eder, tam tersine şikeyle çelişen bir kavramdır.",
+          "Sponsorluk: Sponsorluk, bir kuruluşun sporcuya/takıma maddi destek sağlamasıdır, maç sonucunu değiştirmekle ilgili değildir.",
+          "Transfer: Transfer, bir sporcunun kulüp değiştirmesidir, maç sonucunu değiştirme eylemiyle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra50",
+        "question": "Spor bilinci yaklaşımına göre David Riesman’a göre aşağıdaki spor dallarından hangisi alt sınıflara mensup olanlar tarafından daha çok yapılmaktadır?",
+        "options": [
+          "Golf",
+          "Tenis",
+          "Yelken",
+          "Boks",
+          "Binicilik"
+        ],
+        "correctIndex": 3,
+        "explanation": "David Riesman'ın spor bilinci/sınıf yaklaşımına göre golf, tenis, yelken ve binicilik gibi branşlar genellikle üst/orta sınıfa mensup kişiler tarafından yapılırken, boks gibi fiziksel çatışmaya dayalı ve düşük maliyetli branşlar daha çok alt sınıfa mensup kişiler tarafından tercih edilmektedir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel spor sosyolojisi bilgisine dayanılarak belirlenmiştir.",
+        "optionNotes": [
+          "Golf: Golf, yüksek maliyetli ekipman ve tesis gerektirmesi nedeniyle genellikle üst sınıfla ilişkilendirilen bir spordur.",
+          "Tenis: Tenis de geleneksel olarak orta/üst sınıfa mensup kişiler tarafından daha çok yapılan bir spor olarak değerlendirilir.",
+          "Yelken: Yelken, maliyetli ekipman gerektirmesi nedeniyle üst sınıfla ilişkilendirilen bir spor dalıdır.",
+          "Boks: Doğru; Riesman'ın yaklaşımına göre boks, düşük maliyeti ve fiziksel mücadele temelli yapısı nedeniyle alt sınıflara mensup kişiler tarafından daha çok yapılan bir spordur.",
+          "Binicilik: Binicilik, at sahibi olma ve bakım maliyeti nedeniyle genellikle üst sınıfla ilişkilendirilen bir spordur."
+        ]
+      },
+      {
+        "id": "extra51",
+        "question": "Kişilik özelliklerinin ahlaki değerler ile özdeşleşmesine ne ad verilir?",
+        "options": [
+          "Sosyalleşme",
+          "Motivasyon",
+          "Yetenek",
+          "Tutum",
+          "Karakter"
+        ],
+        "correctIndex": 4,
+        "explanation": "Kişilik özelliklerinin ahlaki değerlerle özdeşleşmesine, yani bireyin kişilik özelliklerinin dürüstlük, adalet gibi ahlaki değerlerle bütünleşmesine 'Karakter' adı verilir. Bu bilgi ders ünitelerinin özet ve tam metinlerinde doğrudan yer almadığından, genel psikoloji/ahlak gelişimi bilgisine dayanılarak belirlenmiştir.",
+        "optionNotes": [
+          "Sosyalleşme: Sosyalleşme, bireyin toplumun kültürünü öğrenme sürecidir, kişilik-ahlak özdeşleşmesini doğrudan tanımlamaz.",
+          "Motivasyon: Motivasyon, çabanın yönü ve şiddetini ifade eder, ahlaki değerlerle özdeşleşmeyi tanımlamaz.",
+          "Yetenek: Yetenek, belirli bir alanda başarı gösterme potansiyelidir, ahlaki değerlerle ilişkili bir kavram değildir.",
+          "Tutum: Tutum, bir nesne veya duruma karşı geliştirilen değerlendirici eğilimdir, kişilik-ahlak bütünleşmesini tam olarak tanımlamaz.",
+          "Karakter: Doğru; karakter, kişilik özelliklerinin ahlaki değerlerle özdeşleşmesi, bütünleşmesi olarak tanımlanır."
+        ]
+      },
+      {
+        "id": "extra52",
+        "question": "Aşağıdakilerden hangisi ideal bir antrenörde bulunması gereken özelliklerden biri değildir?",
+        "options": [
+          "İletişim becerisi yüksek olmak",
+          "Adil ve sabırlı olmak",
+          "Bilgi ve deneyime sahip olmak",
+          "Sporculara karşı ilgisiz olmak",
+          "Motive edici olmak"
+        ],
+        "correctIndex": 3,
+        "explanation": "İdeal bir antrenörde iletişim becerisi, adillik, sabır, bilgi/deneyim ve motive edicilik gibi olumlu özelliklerin bulunması beklenir. Sporculara karşı ilgisiz olmak ise bu özelliklerin tam tersidir ve etkili antrenörlüğün gerektirdiği ilgi ve desteğe aykırıdır; bu nedenle ideal bir antrenör özelliği değildir.",
+        "optionNotes": [
+          "İletişim becerisi yüksek olmak: Bu, ideal bir antrenörde bulunması gereken temel özelliklerden biridir.",
+          "Adil ve sabırlı olmak: Adillik ve sabır da ideal antrenörlük için gerekli olumlu özellikler arasında sayılır.",
+          "Bilgi ve deneyime sahip olmak: Bilgi ve deneyim, antrenörün mesleki yeterliliğini gösteren önemli bir özelliktir.",
+          "Sporculara karşı ilgisiz olmak: Doğru; bu, ideal antrenörlüğün gerektirdiği ilgi ve desteğe aykırıdır, dolayısıyla istenmeyen bir özelliktir.",
+          "Motive edici olmak: Motive edicilik, sporcunun performansını ve bağlılığını artıran, ideal antrenörde bulunması gereken bir özelliktir."
+        ]
+      },
+      {
+        "id": "extra53",
+        "question": "Sporu modernliğin özgün bir fenomeni olarak nitelendiren sosyolog aşağıdakilerden hangisidir?",
+        "options": [
+          "Karl Marx",
+          "Max Weber",
+          "Allen Guttmann",
+          "Emile Durkheim",
+          "Pierre Bourdieu"
+        ],
+        "correctIndex": 2,
+        "explanation": "Sosyolog Allen Guttmann, sporu modernliğin özgün bir fenomeni olarak nitelendirmiş ve modern sporun ayırt edici özelliklerini laiklik, fırsat eşitliği, özelleşme/uzmanlaşma, rasyonelleşme, bürokratikleşme, sayısallaştırma ve rekor arayışı olarak detaylandırmıştır. Bu bilgi, Spor Tarihi ünitesinin tam metninde doğrudan Allen Guttmann'a atfedilmiştir.",
+        "optionNotes": [
+          "Karl Marx: Marx, sınıf ve üretim ilişkileri üzerine çalışmış bir düşünürdür, sporu modernliğin özgün fenomeni olarak nitelendiren kişi değildir.",
+          "Max Weber: Weber, rasyonelleşme kavramıyla ilişkilendirilse de metinde sporu modernliğin fenomeni olarak niteleyen kişi olarak Guttmann belirtilmiştir.",
+          "Allen Guttmann: Doğru; metinde modern sporun karakteristik özelliklerini detaylandıran ve sporu modernliğin özgün bir fenomeni olarak nitelendiren sosyolog olarak Allen Guttmann belirtilmiştir.",
+          "Emile Durkheim: Durkheim, toplumsal işlevselcilik ve kolektif bilinç kavramlarıyla anılan bir sosyologdur, bu bağlamda anılmaz.",
+          "Pierre Bourdieu: Bourdieu, Habitus kavramıyla spor sosyolojisinde anılır, sporu modernliğin fenomeni olarak niteleyen kişi olarak metinde geçmez."
+        ]
+      },
+      {
+        "id": "extra54",
+        "question": "Aşağıdakilerden hangisi dikey hareketliliğe örnek olarak verilebilir?",
+        "options": [
+          "Aynı meslekte şehir değiştirmek",
+          "Aynı gelir düzeyinde iş değiştirmek",
+          "Aynı statüde görev yapmak",
+          "Daha düşük gelirli bir işten yüksek gelirli bir işe geçmek",
+          "Aynı pozisyonda kulüp değiştirmek"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dikey hareketlilik, bireyin pozisyon, gelir, statü ve yaşam tarzında önemli değişiklikler yaratan bir toplumsal hareketliliği ifade eder. Daha düşük gelirli bir işten yüksek gelirli bir işe geçmek, gelir ve statüde belirgin bir yükselme anlamına geldiğinden dikey hareketliliğin tipik bir örneğidir; metinde de amatör bir sporcunun profesyonel bir kulübe transfer olması buna örnek verilmiştir.",
+        "optionNotes": [
+          "Aynı meslekte şehir değiştirmek: Bu, statü ve gelirde önemli bir değişiklik yaratmadığından yatay hareketliliğe örnektir.",
+          "Aynı gelir düzeyinde iş değiştirmek: Gelir düzeyinde bir değişiklik olmadığından bu da yatay hareketliliğe örnektir.",
+          "Aynı statüde görev yapmak: Statüde bir değişiklik olmadığından bu durum hareketlilik örneği değildir, statik bir durumu ifade eder.",
+          "Daha düşük gelirli bir işten yüksek gelirli bir işe geçmek: Doğru; gelir ve statüde önemli bir yükselme içerdiğinden dikey hareketliliğin tipik bir örneğidir.",
+          "Aynı pozisyonda kulüp değiştirmek: Pozisyon ve statüde bir değişiklik olmadığından bu durum da yatay hareketliliğe örnektir."
+        ]
+      }
     ]
   },
   {
@@ -5145,6 +8829,1688 @@ window.COURSES = [
           }
         ]
       }
+    ],
+    "extraQuestions": [
+      {
+        "id": "extra1",
+        "question": "Kalbin kasılmaları sonucu oluşan damarlardaki basınç dalgalanmalarına ne denir?",
+        "options": [
+          "Nabız",
+          "Solunum",
+          "Bilinç",
+          "Boğulma",
+          "Ağrıya tepki"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nabız, kalbin kasılmaları (sistol) sonucunda kanın damarlara pompalanmasıyla oluşan basınç dalgalanmasının arter duvarlarında hissedilmesidir. Metinde nabız, dokuz hayati bulgudan biri olarak tanımlanır ve kalp atımıyla doğrudan ilişkilendirilir. Solunum, bilinç, boğulma ve ağrıya tepki ise farklı hayati bulgular veya durumlardır; basınç dalgalanması tanımına uymazlar.",
+        "optionNotes": [
+          "Doğru yanıt: nabız, kalp kasılmaları sonucu arterlerde oluşan basınç dalgalanmasının tam tanımıdır.",
+          "Solunum, akciğerlerde gerçekleşen gaz değişimi sürecidir, damarlardaki basınç dalgalanmasıyla ilgili değildir.",
+          "Bilinç, kişinin çevresinin ve kendisinin farkında olma durumudur, basınç dalgalanmasını tanımlamaz.",
+          "Boğulma, solunum yolunun tıkanması veya suda solunumun kesilmesi durumudur, nabız terimiyle ilgisi yoktur.",
+          "Ağrıya tepki, hayati bulgu değerlendirmesinde ayrı bir başlıktır ve basınç dalgalanmasıyla ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra2",
+        "question": "Aşağıdakilerden hangisi Üriner Sistemi oluşturan organlardan biri değildir?",
+        "options": [
+          "Üreterler",
+          "Böbrekler",
+          "Mesane",
+          "Üretra",
+          "Tükürük bezleri"
+        ],
+        "correctIndex": 4,
+        "explanation": "Üriner (boşaltım) sistemi böbrekler, üreterler, mesane ve üretradan oluşur; bu organlar idrarın üretilmesini, taşınmasını, depolanmasını ve vücuttan atılmasını sağlar. Tükürük bezleri ise sindirim sistemine aittir, salya üreterek sindirime yardımcı olur ve üriner sistemin bir parçası değildir.",
+        "optionNotes": [
+          "Üreterler, böbreklerde oluşan idrarı mesaneye taşıyan kanallardır; üriner sistemin bir organıdır.",
+          "Böbrekler, idrarın üretildiği ve kanın filtrelendiği temel üriner sistem organıdır.",
+          "Mesane, idrarın depolandığı organdır ve üriner sisteme aittir.",
+          "Üretra, idrarın vücut dışına atıldığı kanaldır ve üriner sistemin son organıdır.",
+          "Doğru yanıt: tükürük bezleri sindirim sistemine aittir, salya üretimiyle görevlidir ve üriner sistemle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra3",
+        "question": "Aşağıdakilerden hangisi Yüksek Glisemik İndeksli Besinler arasında yer almaz?",
+        "options": [
+          "Mısır Gevreği",
+          "Muz",
+          "Mercimek",
+          "Beyaz Pirinç",
+          "Bal"
+        ],
+        "correctIndex": 2,
+        "explanation": "Yüksek glisemik indeksli besinler arasında bal, mısır gevreği, beyaz pirinç ve muz gibi hızlı sindirilen karbonhidrat kaynakları sayılır (glisemik indeks tablosunda bu besinler 60 üzerinde değerlerle listelenmiştir). Mercimek ise bir kurubaklagil olup kompleks karbonhidrat ve lif içeriği nedeniyle düşük-orta glisemik indekse sahiptir, dolayısıyla yüksek glisemik indeksli besinler arasında yer almaz.",
+        "optionNotes": [
+          "Mısır gevreği, metindeki glisemik indeks tablosunda yüksek glisemik indeksli besinler arasında (83 değeriyle) sayılmıştır.",
+          "Muz, metindeki tabloda yüksek glisemik indeksli besinler arasında (61 değeriyle) yer almaktadır.",
+          "Doğru yanıt: mercimek bir kurubaklagil olup kompleks karbonhidrat yapısı nedeniyle düşük-orta glisemik indekslidir, yüksek glisemik indeksli besinler arasında sayılmaz.",
+          "Beyaz pirinç, metindeki tabloda yüksek glisemik indeksli besinler arasında (72 değeriyle) yer almaktadır.",
+          "Bal, metindeki tabloda yüksek glisemik indeksli besinler arasında (87 değeriyle) sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra4",
+        "question": "I. İnsan DNA’sının yüzde 18’i virüs geni içerir. II. Genellikle tek iplikli RNA molekülü taşıyan basit birer protein kılıfıdır. III. Basit olduğu için kolay çoğalır. IV. En tehlikeli hastalık yapıcı organizmalar arasında yer alırlar. Yukarıda verilenlerden hangileri virüslerle ilgili doğrudur?",
+        "options": [
+          "I",
+          "I – II",
+          "II – III – IV",
+          "I – III – IV",
+          "III – IV"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kaynak metne göre insan DNA'sının yüzde 8'i (yüzde 18 değil) virüs geni içerir; bu nedenle I numaralı ifade yanlıştır. II, III ve IV numaralı ifadeler ise metinde doğrudan doğrulanır: virüsler genellikle tek iplikli RNA taşıyan basit protein kılıflarıdır (II), basit yapıları sayesinde kolay çoğalırlar (III) ve en tehlikeli hastalık yapıcı organizmalar arasında yer alırlar (IV). Dolayısıyla doğru ifadeler II-III-IV'tür.",
+        "optionNotes": [
+          "Sadece I yanlıştır: metinde oran yüzde 8 olarak geçer, yüzde 18 değil; bu seçenek yanlış bir ifadeyi tek başına doğru gösterir.",
+          "I-II kombinasyonu yanlıştır çünkü I ifadesindeki yüzde 18 rakamı metindeki doğru değer olan yüzde 8 ile çelişir.",
+          "Doğru yanıt: II, III ve IV ifadeleri metinde doğrudan belirtilen, doğru bilgilerdir.",
+          "I-III-IV yanlıştır çünkü I ifadesi (yüzde 18) metindeki doğru değer olan yüzde 8 ile uyuşmaz.",
+          "III-IV ifadeleri doğru olsa da bu seçenek II'yi dışarıda bırakır; II de metinde doğrulanan doğru bir ifadedir, dolayısıyla eksik bir seçenektir."
+        ]
+      },
+      {
+        "id": "extra5",
+        "question": "Sporcu seçiminden örneklerin analizine kadar giden Doping kontrolü, kaç basamaktan oluşur?",
+        "options": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde doping kontrol sürecinin, örneğin bütünlüğü bozulmadığı sürece geçersiz sayılmayan 11 basamaktan oluştuğu belirtilir: kap seçimi, örnek verme, idrar miktarının alınması, A-B şişelerine bölünme, şişelerin kilitlenmesi, özgül ağırlık ölçümü, formun doldurulması, örneklerin laboratuvara gönderilmesi ve analiz gibi adımları kapsar. Bu nedenle doğru sayı 11'dir.",
+        "optionNotes": [
+          "7 basamak, metinde belirtilen sayıdan azdır, gerçek basamak sayısıyla örtüşmez.",
+          "8 basamak da metindeki 11 basamaklık süreci tam karşılamaz.",
+          "9 basamak, metinde belirtilen 11 basamaktan daha azdır.",
+          "10 basamak gerçek sayıya yakın olsa da metinde açıkça \"11 basamak\" ifadesi kullanılmıştır.",
+          "Doğru yanıt: metinde doping kontrol sürecinin 11 basamaktan oluştuğu açıkça belirtilmiştir."
+        ]
+      },
+      {
+        "id": "extra6",
+        "question": "Elektriksel olarak yüklü atomlara ne ad verilir?",
+        "options": [
+          "İyon",
+          "Organ",
+          "İnorganik bileşik",
+          "Kas",
+          "Hücre"
+        ],
+        "correctIndex": 0,
+        "explanation": "İyon, elektron kaybı veya kazanımı sonucu elektriksel olarak yüklü hale gelen atom veya moleküllere verilen addır. Hücre içi ve dışı sıvılardaki sodyum, potasyum, klor gibi elektrolitler de iyon halinde bulunarak hücresel reaksiyonları ve sıvı-elektrolit dengesini sağlar.",
+        "optionNotes": [
+          "Doğru yanıt: iyon, elektriksel yük taşıyan atom veya molekül tanımına tam olarak karşılık gelir.",
+          "Organ, belirli bir görevi yerine getirmek üzere birleşen doku topluluğudur, elektrik yükü ile ilgili bir terim değildir.",
+          "İnorganik bileşik, karbon içermeyen kimyasal bileşiklerin genel adıdır, elektrik yüküyle ilgili özel bir tanım değildir.",
+          "Kas, kasılma yeteneğine sahip bir doku türüdür, elektriksel yük taşıyan atom tanımıyla ilgisi yoktur.",
+          "Hücre, canlıların en küçük yapısal ve fonksiyonel birimidir, atomların elektrik yüküyle ilgili bir terim değildir."
+        ]
+      },
+      {
+        "id": "extra7",
+        "question": "Kontraksiyon ne anlama gelmektedir?",
+        "options": [
+          "Isınma",
+          "Soğuma",
+          "Kasılma",
+          "Kırılma",
+          "Kuvvet"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kontraksiyon, kas dokusunun sahip olduğu kasılma yeteneğini ifade eden terimdir ve kas liflerinin kısalarak kuvvet üretmesi anlamına gelir. Metinde kas dokusunun \"kontraksiyon (kasılma) yeteneği ile hareketi sağladığı\" açıkça belirtilmiştir.",
+        "optionNotes": [
+          "Isınma, vücut sıcaklığının artması anlamına gelir, kontraksiyon teriminin karşılığı değildir.",
+          "Soğuma, sıcaklığın düşmesini ifade eder, kasılma ile ilgili değildir.",
+          "Doğru yanıt: kontraksiyon, metinde doğrudan \"kasılma\" olarak tanımlanmıştır.",
+          "Kırılma, bir yapının bütünlüğünün bozulması anlamına gelir, kontraksiyonun karşılığı değildir.",
+          "Kuvvet, bir cisme uygulanan itme/çekme etkisidir; kasılmanın sonucu olabilir ama kontraksiyonun doğrudan karşılığı değildir."
+        ]
+      },
+      {
+        "id": "extra8",
+        "question": "Enerji sistemleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+        "options": [
+          "Enerji, bir sistemin ya da cismin iş yapabilme",
+          "Canlıların enerji dönüştürme yeteneğine ilişkin üç temel biyolojik enerji dönüşümü vardır",
+          "Bütün canlıların temel enerji kaynağı güneştir",
+          "Doğada 5 çeşit enerji türü vardır",
+          "Enerji birimi joule (j) veya kaloridir (cal)."
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde enerjinin \"bir sistemin ya da cismin iş yapabilme yeteneği\" olduğu, canlıların temel enerji kaynağının güneş olduğu, üç temel biyolojik enerji dönüşümünün bulunduğu ve enerji biriminin joule veya kalori olduğu doğru şekilde ifade edilir. Ancak metinde doğada kimyasal, mekanik, ısı, ışık, elektrik ve nükleer enerji olmak üzere toplam ALTI enerji türü bulunduğu belirtilir; \"5 çeşit enerji türü vardır\" ifadesi bu sayıyla çelişir ve yanlıştır.",
+        "optionNotes": [
+          "Bu ifade doğrudur: enerji, metinde tanımlandığı gibi bir sistemin iş yapabilme yeteneğidir.",
+          "Bu ifade doğrudur: metinde canlıların enerji dönüştürme yeteneğine ilişkin üç temel biyolojik enerji dönüşümünün bulunduğu belirtilir.",
+          "Bu ifade doğrudur: metinde bütün canlıların temel enerji kaynağının güneş olduğu açıkça yazılıdır.",
+          "Doğru yanıt (yanlış olan ifade budur): metinde doğada 5 değil, 6 enerji türü (kimyasal, mekanik, ısı, ışık, elektrik, nükleer) bulunduğu belirtilir, bu nedenle bu ifade metinle çelişir.",
+          "Bu ifade doğrudur: metinde enerji biriminin joule veya kalori olduğu belirtilir."
+        ]
+      },
+      {
+        "id": "extra9",
+        "question": "Aşağıdakilerden hangisi Dopingle Mücadele Kural İhlalleri kapsamında yer almaz?",
+        "options": [
+          "Yasaklı maddeleri ve yöntemleri kullanmaya teşebbüs etme",
+          "Bulundurma ve kaçakçılığını yapmanın yanı sıra doping kontrolünde hile yapma",
+          "Doping kontrolüne katılmama",
+          "Doping yapan sporculara yardımcı olma",
+          "Doktor eşliğinde düzenli vitamin kullanma"
+        ],
+        "correctIndex": 4,
+        "explanation": "Dünya Dopingle Mücadele Kuralları'nın 2. maddesinde sayılan kural ihlalleri arasında yasaklı madde/yöntemi kullanma veya kullanmaya teşebbüs, bulundurma, kaçakçılık, doping kontrolünü bozma/hile yapma, kontrole katılmama ve dopingli sporculara yardım etme (suç ortaklığı) yer alır. Doktor gözetiminde ve kurallara uygun şekilde yapılan düzenli vitamin kullanımı ise yasaklı bir davranış değildir, dolayısıyla kural ihlalleri kapsamında sayılmaz.",
+        "optionNotes": [
+          "Yasaklı maddeleri ve yöntemleri kullanmaya teşebbüs etme, metinde açıkça kural ihlalleri arasında sayılmıştır.",
+          "Bulundurma, kaçakçılık yapma ve doping kontrolünde hile yapma, metinde ayrı ayrı kural ihlali olarak listelenmiştir.",
+          "Doping kontrolüne katılmama (örnek vermekten kaçınma veya reddetme), metinde kural ihlalleri arasında sayılmıştır.",
+          "Doping yapan sporculara yardımcı olma, metinde \"kural ihlaline suç ortaklığı yapma\" kapsamında bir ihlal olarak sayılmıştır.",
+          "Doğru yanıt: doktor eşliğinde, kurallara uygun şekilde yapılan düzenli vitamin kullanımı yasaklı bir madde/yöntem kullanımı olmadığından kural ihlali sayılmaz."
+        ]
+      },
+      {
+        "id": "extra10",
+        "question": "Moleküllerin yoğun ortamdan, yoğunluğu daha az olan ortama enerji harcamaksızın geçmesine ne ad verilir?",
+        "options": [
+          "Difüzyon",
+          "Aktif Taşıma",
+          "Ozmoz",
+          "Endositoz",
+          "Ekzositoz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Difüzyon, moleküllerin yoğun (konsantrasyonu yüksek) bir ortamdan yoğunluğu daha az olan bir ortama, hücre tarafından enerji (ATP) harcanmaksızın geçiş yapmasıdır ve pasif taşıma türlerinden biridir. Aktif taşıma, endositoz ve ekzositoz ATP enerjisi gerektiren aktif taşıma biçimleridir; ozmoz ise özel olarak suyun geçişini ifade eder.",
+        "optionNotes": [
+          "Doğru yanıt: difüzyon, moleküllerin yoğun ortamdan az yoğun ortama enerji harcanmadan geçişini tanımlar.",
+          "Aktif taşıma, maddelerin düşük yoğunluktan yüksek yoğunluğa ATP enerjisi kullanılarak taşınmasıdır, enerji harcanmaksızın gerçekleşmez.",
+          "Ozmoz, difüzyonun özel bir türüdür ve molekül yerine spesifik olarak suyun yarı geçirgen zardan geçişini ifade eder.",
+          "Endositoz, büyük moleküllerin ATP enerjisi kullanılarak hücre içine alınmasıdır, enerji harcanmaksızın gerçekleşmez.",
+          "Ekzositoz, hücre içindeki maddelerin ATP enerjisi kullanılarak hücre dışına atılmasıdır, enerji harcanmaksızın gerçekleşmez."
+        ]
+      },
+      {
+        "id": "extra11",
+        "question": "Kas, tendon veya bağ dokusu yaralandığı zaman bölgede ne yırtılır?",
+        "options": [
+          "Deri",
+          "Doku",
+          "Kan damarı",
+          "Hücre zarı",
+          "Sinir"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde kas, tendon veya bağ dokusu yaralandığında bölgedeki kan damarlarının yırtıldığı, oluşan kanamanın çevre dokulara yayılarak şişliğe (ödeme) ve buna bağlı ağrı ile hassasiyete yol açtığı belirtilmektedir.",
+        "optionNotes": [
+          "Deri, yaralanmanın türüne göre etkilenebilir ancak metinde yaralanma sonrası yırtılan yapı olarak özellikle belirtilen yapı deri değildir.",
+          "Doku ifadesi çok genel bir terimdir; metinde yırtılan yapı özellikle \"kan damarı\" olarak belirtilmiştir.",
+          "Doğru yanıt: metinde kas/tendon/bağ dokusu yaralanmasında bölgedeki kan damarlarının yırtıldığı açıkça belirtilmiştir.",
+          "Hücre zarı, mikroskobik düzeyde bir yapıdır; metinde yaralanma sonucu yırtılan yapı olarak kan damarı belirtilmiştir, hücre zarı değildir.",
+          "Sinir, yaralanmalarda etkilenebilecek bir yapı olsa da metinde özellikle kan damarının yırtıldığı belirtilmiştir."
+        ]
+      },
+      {
+        "id": "extra12",
+        "question": "Erişkin insanlarda başın vücuda oranı yüzde kaçtır?",
+        "options": [
+          "7",
+          "13",
+          "17",
+          "21",
+          "23"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde başın vücuda oranının yenidoğanlarda yüksek (%24) olduğu, erişkin insanlarda ise bu oranın daha düşük olup %13 olduğu belirtilmektedir. Bu nedenle erişkinlerde başın vücuda oranı yüzde 13'tür.",
+        "optionNotes": [
+          "Yüzde 7, metinde belirtilen %13 değerinden farklı ve düşüktür.",
+          "Doğru yanıt: metinde erişkin insanlarda başın vücuda oranının %13 olduğu açıkça belirtilmiştir.",
+          "Yüzde 17, metinde iskelet sisteminin vücut ağırlığına oranı olarak geçen farklı bir değerdir, başın vücuda oranı değildir.",
+          "Yüzde 21, metinde belirtilen değerlerle örtüşmeyen bir rakamdır.",
+          "Yüzde 23, yenidoğanlardaki %24'lük orana yakın olsa da erişkin için metinde belirtilen doğru değer %13'tür."
+        ]
+      },
+      {
+        "id": "extra13",
+        "question": "Belirli bir zaman diliminde oksijen kullanım seviyesi, ATP üretimi için gerekli oksijen miktarından düşük olma durumuna ne ad verilir?",
+        "options": [
+          "Oksijen Yetersizliği",
+          "Fosfojen Sistem",
+          "Çekirdek",
+          "Difüzyon",
+          "Pasif Taşıma"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde bu durum doğrudan \"Oksijen Yetersizliği: Belirli bir zaman diliminde oksijen kullanım seviyesinin, ATP üretimi için gerekli oksijen miktarından düşük olması\" şeklinde tanımlanmaktadır; bu durum egzersizin başlangıcında sıkça görülür ve enerji açığının anaerobik sistemlerle kapatılmasına yol açar.",
+        "optionNotes": [
+          "Doğru yanıt: metinde bu durum doğrudan \"Oksijen Yetersizliği\" olarak tanımlanmıştır.",
+          "Fosfojen Sistem, ATP-CP enerji sistemidir, oksijen kullanım seviyesi tanımıyla ilgili değildir.",
+          "Çekirdek, hücrenin genetik bilgiyi taşıyan organelidir, oksijen kullanım seviyesiyle ilgisi yoktur.",
+          "Difüzyon, moleküllerin pasif taşınma şeklidir, oksijen yetersizliği durumunu tanımlamaz.",
+          "Pasif Taşıma, enerji harcanmadan madde geçişini ifade eden genel bir terimdir, oksijen yetersizliği tanımıyla ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra14",
+        "question": "Aşağıdakilerden hangisi Her Zaman (Müsabaka İçi ve Müsabaka Dışı) Kullanımı Yasaklı Olan Maddelerden biri değildir?",
+        "options": [
+          "Onaylanmamış Maddeler",
+          "Anabolik Maddeler",
+          "Hormon ve Metabolik Modülatörler",
+          "İdrar Söktürücüler",
+          "Beta bloke ediciler"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde her zaman (müsabaka içi ve müsabaka dışı) yasaklı madde grupları S0 (onaylanmamış maddeler), S1 (anabolik maddeler), S2 (peptid hormonlar), S3 (beta-2 agonistler), S4 (hormon ve metabolik modülatörler) ve S5 (idrar söktürücüler ve maskeleyici maddeler) olarak sayılmıştır. Beta bloke ediciler (P1) ise sadece bazı özel spor dallarında yasaklı maddeler grubunda yer alır, her zaman yasaklı değildir.",
+        "optionNotes": [
+          "Onaylanmamış maddeler (S0), metinde her zaman yasaklı madde grupları arasında sayılmıştır.",
+          "Anabolik maddeler (S1), metinde her zaman yasaklı madde grupları arasında yer alır.",
+          "Hormon ve metabolik modülatörler (S4), metinde her zaman yasaklı madde grupları arasında sayılmıştır.",
+          "İdrar söktürücüler (S5), metinde her zaman yasaklı madde ve maskeleyici maddeler grubunda sayılmıştır.",
+          "Doğru yanıt: beta bloke ediciler (P1), metinde sadece bazı özel spor dallarında yasaklı olarak belirtilmiştir, her zaman yasaklı değildir."
+        ]
+      },
+      {
+        "id": "extra15",
+        "question": "TOTAPS’IN P Aşamasında aşağıdakilerden hangisi yapılır?",
+        "options": [
+          "Problemin ve ağrının nerede olduğu sorulur",
+          "Belirtilenden başka bir yaralanma var mı gözlenir",
+          "Nazikçe dokunularak ağrılı nokta belirlenir",
+          "Yaralanmış kısım nazik bir şekilde hareket ettirilir",
+          "Sporcunun yaralanan bölgeyi hareket ettirip ettiremediğine bakılır"
+        ],
+        "correctIndex": 3,
+        "explanation": "TOTAPS protokolü Talk (Konuş), Observe (Gözle), Touch (Dokun), Active Motion (Aktif Hareket), Passive Motion (Pasif Hareket) ve Skill Tests (Beceri Testleri) aşamalarından oluşur. P harfi \"Passive Motion\" aşamasını temsil eder; bu aşamada yaralanmış bölge, değerlendirmeyi yapan kişi tarafından nazikçe hareket ettirilerek ağrı derecesi belirlenir.",
+        "optionNotes": [
+          "Problemin ve ağrının nerede olduğunun sorulması, TOTAPS'ın \"Talk\" (Konuş) aşamasına aittir, P aşamasına değildir.",
+          "Başka bir yaralanma olup olmadığının gözlenmesi, \"Observe\" (Gözle) aşamasına aittir.",
+          "Nazikçe dokunularak ağrılı noktanın belirlenmesi, \"Touch\" (Dokun) aşamasına aittir.",
+          "Doğru yanıt: yaralanmış kısmın nazikçe hareket ettirilmesi, TOTAPS'ın \"Passive Motion\" (Pasif Hareket, P) aşamasının tanımıdır.",
+          "Sporcunun bölgeyi kendisinin hareket ettirip ettiremediğine bakılması, \"Active Motion\" (Aktif Hareket) aşamasına aittir, P aşamasına değildir."
+        ]
+      },
+      {
+        "id": "extra16",
+        "question": "Asit – baz dengesi ve sıvı dengesini sağlayan mineral aşağıdakilerden hangisidir?",
+        "options": [
+          "A. Klor",
+          "Magnezyum",
+          "Fosfor",
+          "Kalsiyum",
+          "Sülfür"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde klorun sodyumla birlikte vücut sıvı ve asit-baz dengelerinin sağlanmasında görev aldığı, ayrıca sodyum, bikarbonat, potasyum ve klorun birlikte sıvı-elektrolit ve asit-baz dengesi ile kas kasılmasında rol oynadığı belirtilmektedir. Diğer seçeneklerdeki mineraller (magnezyum, fosfor, kalsiyum, sülfür) metinde farklı işlevlerle (kemik sağlığı, enerji metabolizması vb.) ilişkilendirilmiştir.",
+        "optionNotes": [
+          "Doğru yanıt: metinde klorun, sodyumla birlikte vücut sıvı ve asit-baz dengesinin sağlanmasında görevli olduğu açıkça belirtilmiştir.",
+          "Magnezyum, kas-sinir fonksiyonu ve enerji metabolizmasıyla ilişkilendirilir, asit-baz dengesinin birincil düzenleyicisi olarak tanımlanmaz.",
+          "Fosfor, kemik yapısı ve enerji metabolizmasında (ATP) görev alır, asit-baz dengesinin birincil düzenleyicisi değildir.",
+          "Kalsiyum, kemik sağlığı ve kas kasılmasıyla ilişkilendirilir, asit-baz dengesinin birincil düzenleyicisi olarak tanımlanmaz.",
+          "Sülfür, protein yapısında ve bazı metabolik süreçlerde rol alır, asit-baz dengesinin birincil düzenleyicisi olarak metinde geçmez."
+        ]
+      },
+      {
+        "id": "extra17",
+        "question": "K vitaminin özelliklerinden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Kan pıhtılaşmasına yardım",
+          "Bağışıklık sistemi gelişimi",
+          "Alyuvar yapımı",
+          "Göz sağlığı",
+          "Doku yapımı ve onarımı"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde K vitamininin kan pıhtılaşması ve kemik metabolizmasında görev aldığı belirtilmektedir; bu nedenle kan pıhtılaşmasına yardım etmesi K vitamininin temel özelliklerinden biridir. Bağışıklık gelişimi, alyuvar yapımı, göz sağlığı ve doku onarımı ise sırasıyla farklı vitaminlerle (C, B12/demir, A, C/protein) ilişkilendirilen özelliklerdir.",
+        "optionNotes": [
+          "Doğru yanıt: metinde K vitamininin kan pıhtılaşmasına yardımcı olduğu açıkça belirtilmiştir.",
+          "Bağışıklık sistemi gelişimi daha çok A ve C vitaminleriyle ilişkilendirilir, K vitamininin öne çıkan özelliği değildir.",
+          "Alyuvar yapımı B12 ve demir ile ilişkilendirilir, K vitamininin temel özelliği değildir.",
+          "Göz sağlığı A vitamininin temel özelliklerinden biridir, K vitamini ile ilişkilendirilmez.",
+          "Doku yapımı ve onarımı daha çok protein ve C vitaminiyle ilişkilendirilir, K vitamininin öne çıkan özelliği değildir."
+        ]
+      },
+      {
+        "id": "extra18",
+        "question": "Kas liflerinin demetler şeklinde paketlenmesine ne ad verilir?",
+        "options": [
+          "Miyozin",
+          "Aktin",
+          "Fasikül",
+          "Fibril",
+          "Tendon"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde kas liflerinin \"fasikül\" adı verilen demetler halinde paketlendiği belirtilmektedir; fasikülleri çevreleyen bağ doku zarı perimysium, tüm kası çevreleyen zar ise epimysium olarak adlandırılır. Miyozin ve aktin kasılma proteinlerini, fibril ise kas lifi içindeki daha küçük yapısal birimi tanımlar; demetlenme sürecini tanımlamazlar.",
+        "optionNotes": [
+          "Miyozin, sarkomer içindeki kalın filamentleri oluşturan kasılma proteinidir, demetlenmeyi tanımlamaz.",
+          "Aktin, sarkomer içindeki ince filamentleri oluşturan kasılma proteinidir, demetlenmeyi tanımlamaz.",
+          "Doğru yanıt: kas liflerinin demetler halinde paketlenmesine fasikül denir.",
+          "Fibril (myofibril), kas lifi içindeki daha küçük kasılma birimidir, lif demetlenmesini tanımlamaz.",
+          "Tendon, kası kemiğe bağlayan bağ doku yapısıdır, kas liflerinin demetlenmesiyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra19",
+        "question": "Enzim metabolizması ve toksinlerden arınmaya yardımcı olan molibden minareli aşağıdaki gıdalardan hangisinde bulunur?",
+        "options": [
+          "Mantar ve et",
+          "Fasulye ve patates",
+          "Peynir ve yumurta",
+          "Maydanoz ve karnabahar",
+          "Fındık ve balık"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kaynak metindeki mikro mineral tablosunda molibdenin günlük ihtiyacının yaklaşık 50 mikrogram olduğu ve \"enerji üretimi, büyüme, steroid ve kan hücresi sentezi\" ile ilişkilendirildiği, bu satıra karşılık gelen besin kaynakları arasında ise bezelye, karaciğer, yoğurt, fasulye, süt ve patatesin sayıldığı görülmektedir. Not: kaynak PDF'ten metne çıkarım sırasında bu tablonun sütun hizalaması bozulmuş şekilde geldiğinden (mineral adları ile kaynak/görev sütunları birbirinden kaymış durumda), bu eşleştirme molibdenin bilinen günlük ihtiyaç miktarına (~50 mcg) ve işlevine (enzim kofaktörü/detoksifikasyon ile tutarlı bir tanıma) dayanılarak en olası şekilde çıkarılmıştır; bu nedenle bu sorudaki kesinlik diğer sorulara göre daha düşüktür.",
+        "optionNotes": [
+          "Mantar ve et, metindeki tabloda molibdene karşılık gelen satırda yer almaz; mantar ifadesi daha çok manganez kaynakları arasında geçmektedir.",
+          "Doğru yanıt (orta düzey güvenle): tablodaki ~50 mcg günlük ihtiyaç satırına karşılık gelen kaynaklar arasında \"fasulye\" ve \"patates\" açıkça sayılmaktadır.",
+          "Peynir ve yumurta, metinde flor ve demir gibi farklı minerallerin kaynakları arasında geçer, molibden satırıyla eşleşmemektedir.",
+          "Maydanoz ve karnabahar, metinde demirin kaynakları arasında geçen bir ifadedir (\"kırmızı kan hücrelerinin yapımı\" görevine bağlı satırda), molibden satırına ait değildir.",
+          "Fındık ve balık, metinde bakır ve selenyum gibi farklı minerallerin kaynakları arasında geçer, molibden satırıyla doğrudan eşleşmemektedir."
+        ]
+      },
+      {
+        "id": "extra20",
+        "question": "En güncel ilk yardım metodu aşağıdakilerden hangisidir?",
+        "options": [
+          "TARGET",
+          "TOTAPS",
+          "SOS",
+          "TİTCK",
+          "POLİCE"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde kas-iskelet sistemi yaralanmalarında kullanılan en güncel ilk yardım yönteminin POLICE (Protection, Optimal Loading, Ice, Compression, Elevation) protokolü olduğu açıkça belirtilmektedir; bu protokol, eski RICE ve PRICE yöntemlerindeki \"dinlenme\" yaklaşımının yerine \"uygun yüklenme\" ilkesini getirmiştir.",
+        "optionNotes": [
+          "TARGET, metinde geçen bir ilk yardım protokolü kısaltması değildir.",
+          "TOTAPS, sahada sporcu değerlendirme protokolüdür; ön tedavi/ilk yardım yöntemi olan POLICE ile karıştırılmamalıdır.",
+          "SOS, bir yardım çağrısı sinyalidir, metinde tanımlı bir ilk yardım protokolü değildir.",
+          "TİTCK, Türkiye İlaç ve Tıbbi Cihaz Kurumu'nun kısaltmasıdır, bir ilk yardım protokolü değildir.",
+          "Doğru yanıt: metinde POLICE, kas-iskelet sistemi yaralanmalarında kullanılan en güncel ilk yardım yöntemi olarak tanımlanmıştır."
+        ]
+      },
+      {
+        "id": "extra21",
+        "question": "Vücutta en yaygın bulunan dokudur. Temel işlevi, vücudun diğer dokularını birbirine bağlamaktır. Genel olarak bu dokunun işlevleri; deri ve tendonlara destek, organlarda maddelerin depolanması, iskelet ağını oluşturmak, kan damarları ile maddelerinin taşınması, yağ depo etmek, bağışıklıkta görev almak, doku tamirine yardım etmektir. Temel hücre tipleri arasında mezenkim hücreleri, retikulum hücreleri, fibroblastlar yer alır. Doku düzeyinde organizasyonu araştıran bir araştırmacının hangi doku tipi üzerine çalıştığı çıkarımına varılır?",
+        "options": [
+          "Epitel Doku",
+          "Bağ Doku",
+          "Kas Dokusu",
+          "Kan Dokusu",
+          "Sinir Dokusu"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite içeriğinde bağ dokusunun vücutta en yaygın bulunan doku olduğu, diğer dokuları birbirine bağladığı, deri ve tendonlara destek verdiği, organlarda madde depolanmasını sağladığı, iskelet ağını oluşturduğu, kan damarlarıyla madde taşınmasına katkıda bulunduğu, yağ depoladığı, bağışıklıkta görev aldığı ve doku tamirine yardım ettiği açıkça belirtilmiştir. Ayrıca mezenkim hücreleri, retikulum hücreleri ve fibroblastların bağ dokusunun temel hücre tipleri olarak sayılması bu dokuyu kesin şekilde işaret eder.",
+        "optionNotes": [
+          "Epitel dokusu vücudun iç-dış yüzeylerini örten, salgı ve duyu fonksiyonu üstlenen bir dokudur; sorudaki bağlama, depolama ve taşıma işlevleriyle tanımlanmaz, bu nedenle yanlıştır.",
+          "Bağ dokusu, metinde belirtildiği gibi vücuttaki en yaygın dokudur ve sorudaki tüm işlevler (destek, depolama, iskelet oluşturma, madde taşınması, yağ depolama, bağışıklık, doku tamiri) ile hücre tipleri (mezenkim, retikulum, fibroblast) birebir bu dokuya aittir; doğru yanıt budur.",
+          "Kas dokusu, kontraksiyon (kasılma) yeteneğiyle hareketi sağlayan dokudur; sorudaki bağlama ve depolama işlevleriyle ilişkilendirilmez, bu seçenek yanlıştır.",
+          "Kan dokusu, metinde dört ana doku tipinden biri olarak ayrı sayılmaz ve sorudaki hücre tiplerinin (mezenkim, retikulum, fibroblast) tanımıyla örtüşmez, bu nedenle yanlıştır.",
+          "Sinir dokusu, uyarıları ileten nöron ve destekleyici glia hücrelerinden oluşur; sorudaki bağlama, destek ve depolama işlevleriyle hiçbir ilgisi yoktur, bu seçenek yanlıştır."
+        ]
+      },
+      {
+        "id": "extra22",
+        "question": "Hücrede ribozom faaliyeti artarsa aşağıdakilerden hangisi artar? A. Su miktarı B. Amino asit miktarı C. Ozmotik basınç D. Protein miktarı E. ATP üretim miktarı",
+        "options": [
+          "Su miktarı",
+          "Amino asit miktarı",
+          "Ozmotik basınç",
+          "Protein miktarı",
+          "ATP üretim miktarı"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ribozomlar hücrede protein sentezinin (translasyon) gerçekleştiği yapılardır; ribozom faaliyetinin artması doğrudan üretilen protein miktarının artması anlamına gelir. Amino asitler bu süreçte tüketilen yapı taşlarıdır, bu nedenle protein sentezi hızlandıkça amino asit miktarı artmaz, aksine tüketilerek azalır.",
+        "optionNotes": [
+          "Su miktarı hücrenin temel yapı taşlarından değildir ve ribozom faaliyetinin birincil, doğrudan sonucu olan bir değişken değildir; bu seçenek yanlıştır.",
+          "Amino asitler ribozomlarda protein sentezi için harcanan hammaddelerdir; faaliyet arttıkça tüketilirler, dolayısıyla miktarlarının artması beklenmez.",
+          "Ozmotik basınç hücre içi çözünen madde yoğunluğuna bağlıdır ve ribozom faaliyetinin doğrudan ya da birincil sonucu değildir.",
+          "Protein miktarı doğrudan artar; çünkü ribozomun temel görevi mRNA'daki bilgiyi kullanarak protein sentezlemektir, faaliyet arttıkça üretim de artar. Doğru yanıt budur.",
+          "ATP üretimi hücresel solunumla mitokondride gerçekleşir; ribozom faaliyeti ile doğrudan bir nedensellik ilişkisi yoktur."
+        ]
+      },
+      {
+        "id": "extra23",
+        "question": "I. ATP-CP veya fosfojen sistemi, II. Laktik asit veya anaerobik glikoliz sistemi, III. Aerobik sistem veya oksijen sistemi Hangisi yada hangileri ATP sentezini sağlayan kimyasal reaksiyonlar arasında yer alır?",
+        "options": [
+          "Yalnız I",
+          "Yalnız III",
+          "I ve II",
+          "II ve III",
+          "I, II ve III"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite içeriğinde ATP sentezini sağlayan kimyasal reaksiyonların üç kategoride sınıflandırıldığı açıkça belirtilir: ATP-CP (fosfojen) sistemi, laktik asit (anaerobik glikoliz) sistemi ve aerobik (oksijen) sistemi. Fosfojen ve laktik asit sistemleri birlikte anaerobik sistemi, oksijen sistemi ise aerobik sistemi oluşturur ve bu üç sistem her fiziksel aktivitede farklı oranlarda birlikte çalışır; dolayısıyla üçü de ATP sentezini sağlayan reaksiyonlar arasındadır.",
+        "optionNotes": [
+          "Yalnız I seçeneği eksiktir; fosfojen sistemin yanında laktik asit ve aerobik sistem de ATP sentezini sağlayan reaksiyonlar arasında sayılır.",
+          "Yalnız III seçeneği eksiktir; aerobik sistemin yanı sıra fosfojen ve laktik asit sistemleri de ATP sentezleyen reaksiyonlardandır.",
+          "I ve II seçeneği eksiktir; bu ikisine ek olarak aerobik sistem de ATP sentezini sağlayan üçüncü temel reaksiyon kategorisidir.",
+          "II ve III seçeneği eksiktir; fosfojen (ATP-CP) sistemi de metinde ATP sentezleyen üç sistemden biri olarak sayılmıştır, dışarıda bırakılması yanlıştır.",
+          "Doğru yanıt: metinde ATP sentezini sağlayan kimyasal reaksiyonların üç kategorisi olarak fosfojen, laktik asit ve aerobik sistemlerin üçü birlikte sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra24",
+        "question": "Dünya Dopingle Mücadele Ajansı Yasaklılar Listesi hazırlanırken aşağıda verilen etkenlerden hangileri bir madde veya yöntemin yasaklanmasında dikkate alınan ölçütlerdendir? I. Sportif performansı arttırma veya artırma potansiyeline sahip olması II. Sporcunun sağlığına fiili veya potansiyel bir risk III. Sporun ruhuna aykırılık",
+        "options": [
+          "Yalnız I",
+          "Yalnız II",
+          "I ve II",
+          "I ve III",
+          "I, II, III"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metinde bir madde veya yöntemin Yasaklılar Listesi'ne alınabilmesi için üç değerlendirme ölçütünün tanımlandığı belirtilir: (1) sportif performansı artırma veya artırma potansiyeline sahip olması, (2) sporcunun sağlığına fiili veya potansiyel risk oluşturması, (3) kullanımının sporun ruhuna aykırılık teşkil etmesi. Soru bu üç ölçütün hangilerinin dikkate alınan kriterler arasında yer aldığını sorduğundan (sadece en az ikisinin birlikte karşılanması gerekliliğini değil), her üçü de (I, II, III) bu değerlendirme ölçütleri arasındadır.",
+        "optionNotes": [
+          "Yalnız I seçeneği eksiktir; performans artırma potansiyeli yanında sağlık riski ve sporun ruhuna aykırılık da listelenen ölçütler arasındadır.",
+          "Yalnız II seçeneği eksiktir; sağlık riskinin yanında performans artırma potansiyeli ve sporun ruhuna aykırılık da ölçütler arasında sayılmıştır.",
+          "I ve II seçeneği eksiktir; bu ikisine ek olarak sporun ruhuna aykırılık da metinde üçüncü değerlendirme ölçütü olarak açıkça belirtilmiştir.",
+          "I ve III seçeneği eksiktir; sporcunun sağlığına yönelik fiili veya potansiyel risk de metinde sayılan ölçütlerden biridir, dışarıda bırakılması yanlıştır.",
+          "Doğru yanıt: metinde performans artırma potansiyeli, sağlığa risk oluşturma ve sporun ruhuna aykırılık olmak üzere üç ölçütün tamamı Yasaklılar Listesi'ne alım değerlendirmesinde dikkate alınan kriterler olarak sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra25",
+        "question": "Otonom sinir sistemi tarafından yönetilen kaslara ne ad verilmektedir?",
+        "options": [
+          "Düz kas",
+          "Sinir kası",
+          "Beyin kası",
+          "Kalp kası",
+          "Çizgili İskelet Kası"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite içeriğinde \"Otonom sinir sistemi tarafından yönetilen düz kasların kontraksiyonu istem dışı, yavaş ve dalgalı olarak gerçekleşir\" ifadesiyle düz kasın otonom sinir sistemi tarafından yönetildiği doğrudan ve açık şekilde belirtilmiştir. Düz kaslar iç organlarda ve kan damarlarında bulunur ve istemsiz çalışır.",
+        "optionNotes": [
+          "Düz kas, metinde otonom sinir sistemi tarafından yönetildiği doğrudan ifade edilen kas tipidir; bu nedenle doğru cevap budur.",
+          "\"Sinir kası\" anatomik olarak tanımlanmış bir kas tipi değildir, metinde böyle bir terim yer almaz.",
+          "\"Beyin kası\" da anatomik bir kas sınıflandırması değildir, metinde geçmeyen hatalı bir seçenektir.",
+          "Kalp kası istemsiz çalışsa da metinde otonom sinir sistemi tarafından yönetilen kas olarak özellikle düz kas tanımlanmıştır, kalp kası bu tanıma örnek verilmemiştir.",
+          "Çizgili iskelet kası somatik sinir sisteminin kontrolü altındadır ve kontraksiyonu istemlidir; otonom sinir sistemiyle yönetilmez."
+        ]
+      },
+      {
+        "id": "extra26",
+        "question": "Uluslararası spor karşılaşmalarının yapılabilmesi için maksimum ortam sıcaklığı kaç santigrat derece olmalıdır?",
+        "options": [
+          "26",
+          "27",
+          "25",
+          "28",
+          "29"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite içeriğinde çevresel risk faktörleri arasında hava koşulları ele alınırken \"uluslararası karşılaşmalarda maksimum ortam sıcaklığı 25°C, minimum 16°C olarak belirlenmiştir\" ifadesi yer almaktadır. Bu nedenle uluslararası spor karşılaşmalarının yapılabilmesi için üst sıcaklık sınırı 25°C'dir.",
+        "optionNotes": [
+          "26 santigrat derece, metinde belirtilen 25°C üst sınırından farklı, hatalı bir değerdir.",
+          "27 santigrat derece de metinde belirtilen 25°C maksimum sınırından yüksektir, yanlıştır.",
+          "Doğru yanıt: metinde uluslararası karşılaşmalar için maksimum ortam sıcaklığı 25°C olarak açıkça belirtilmiştir.",
+          "28 santigrat derece, metindeki 25°C üst sınırının oldukça üzerinde olup yanlıştır.",
+          "29 santigrat derece, metinde verilen 25°C maksimum değerden belirgin şekilde yüksektir, yanlıştır."
+        ]
+      },
+      {
+        "id": "extra27",
+        "question": "Aşağıdakilerden hangisi sporculardaki nabız atım sayısıdır?",
+        "options": [
+          "60-100",
+          "80-100",
+          "40-60",
+          "60-80",
+          "80-95"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite içeriğinde hayati bulguların değerlendirilmesi anlatılırken nabız için \"yetişkinde 60-100, sporcuda 40-60/dk\" değerleri verilmiştir. Düzenli antrenmanla kalp daha verimli çalıştığından sporcularda dinlenim nabzı genel yetişkin popülasyonuna göre daha düşüktür; bu nedenle doğru aralık 40-60'tır.",
+        "optionNotes": [
+          "60-100 aralığı metinde genel yetişkin popülasyonu için verilen nabız değeridir, sporcuya özgü değer değildir.",
+          "80-100 aralığı metinde ne genel yetişkin ne de sporcu nabzı olarak geçen bir değerdir, yanlıştır.",
+          "Doğru yanıt: metinde sporcularda nabız atım sayısının 40-60/dk olduğu açıkça belirtilmiştir.",
+          "60-80 aralığı metinde verilen sporcu nabız değeriyle (40-60) örtüşmemektedir, yanlıştır.",
+          "80-95 aralığı metinde geçen bir nabız değeri değildir ve sporcu nabzı için verilen 40-60 aralığından yüksektir, yanlıştır."
+        ]
+      },
+      {
+        "id": "extra28",
+        "question": "Aşağıdakilerden hangisi spor sahalarındaki ilk yardım çantasında bulunması gereken pansuman malzemelerindendir?",
+        "options": [
+          "Splintler",
+          "Makas",
+          "Tansiyon aleti",
+          "Oksijenli su",
+          "Steril dikiş seti"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite içeriğinde spor sahalarındaki ilk yardım çantası üç ana başlığa ayrılır: Pansuman Malzemeleri, Araç-gereçler ve İlaçlar. Pansuman Malzemeleri listesinde \"Batikon, oksijenli su, alkol\" açıkça yer alır; dolayısıyla oksijenli su pansuman malzemeleri kategorisine girer. Splintler, makas, tansiyon aleti ve steril dikiş seti ise metinde \"Araç-gereçler\" başlığı altında sayılmıştır, pansuman malzemesi değildir.",
+        "optionNotes": [
+          "Splintler metinde \"Araç-gereçler\" başlığı altında listelenmiştir, pansuman malzemesi kategorisinde değildir.",
+          "Makas (bistüri, makas, çengelli iğne) metinde \"Araç-gereçler\" kategorisinde yer alır, pansuman malzemesi değildir.",
+          "Tansiyon aleti (steteskop ile birlikte) metinde \"Araç-gereçler\" başlığı altında sayılmıştır, pansuman malzemesi değildir.",
+          "Doğru yanıt: metinde pansuman malzemeleri listesinde \"batikon, oksijenli su, alkol\" açıkça sayılmıştır, bu nedenle oksijenli su pansuman malzemesidir.",
+          "Steril dikiş seti metinde \"Araç-gereçler\" kategorisinde listelenmiştir, pansuman malzemesi değildir."
+        ]
+      },
+      {
+        "id": "extra29",
+        "question": "Aşağıdakilerden hangisi \"Kontra-lateral\" kelime tanımıdır?",
+        "options": [
+          "İlgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan.",
+          "Arka arkada bulunan",
+          "İç taraf median düzene yakın",
+          "Merkez",
+          "Yukarıda bulunan"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite içeriğindeki anatomik terimler sözlüğünde \"Kontra-lateral\" doğrudan \"İlgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan\" şeklinde tanımlanmıştır; bunun karşıtı olan \"İpsi-lateral\" ise ilgilenilen yapı veya olayla aynı tarafta olan anlamına gelir.",
+        "optionNotes": [
+          "Doğru yanıt: metinde kontra-lateral tam olarak \"ilgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan\" şeklinde tanımlanmıştır.",
+          "\"Arka arkada bulunan\" tanımı kontra-lateral ile ilgili değildir, böyle bir eşleşme metinde yer almaz.",
+          "\"İç taraf median düzene yakın\" ifadesi medial teriminin tanımına yakındır, kontra-lateral ile ilgisi yoktur.",
+          "\"Merkez\" ifadesi kontra-lateral teriminin anatomik tanımıyla ilgisi olmayan genel bir kavramdır.",
+          "\"Yukarıda bulunan\" ifadesi superior teriminin tanımına karşılık gelir, kontra-lateral ile ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra30",
+        "question": "Kalsiyum ve fosforun vücutta kullanılabilmesi için hangi vitaminin yeterli miktarda bulunması şarttır ?",
+        "options": [
+          "B vitaminleri",
+          "D vitamini",
+          "C vitamini",
+          "E vitamini",
+          "K vitamini"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite içeriğinde \"D vitamini kalsiyum-fosfor emilimi, kemik gelişimi ve testosteron üretiminde görev alır\" şeklinde belirtilmiştir. Bu nedenle kalsiyum ve fosforun vücutta etkin şekilde kullanılabilmesi için yeterli miktarda D vitamininin bulunması gerekir.",
+        "optionNotes": [
+          "B grubu vitaminleri enerji metabolizması, sinir sistemi ve kan hücresi üretiminde rol oynar; kalsiyum-fosfor emiliminden sorumlu değildir.",
+          "Doğru yanıt: metinde D vitamininin kalsiyum-fosfor emilimi ve kemik gelişiminde görev aldığı açıkça belirtilmiştir.",
+          "C vitamini kolajen yapımı, bağışıklık ve antioksidan etkisiyle ilişkilidir; kalsiyum-fosfor kullanımıyla doğrudan bağlantısı metinde geçmez.",
+          "E vitamini güçlü bir antioksidandır; kalsiyum-fosfor emilimiyle ilgili bir görevi metinde belirtilmemiştir.",
+          "K vitamini kan pıhtılaşması ve kemik metabolizmasında (kalsiyumu kemik-dişlere yönlendirme) görev alır, ancak kalsiyum-fosfor emiliminin asıl sorumlusu olarak metinde D vitamini belirtilmiştir."
+        ]
+      },
+      {
+        "id": "extra31",
+        "question": "Aşağıdakilerden hangisi \"Lateral fleksiyon\" tanımıdır?",
+        "options": [
+          "Herhangi bir eklemin frontal planda orta hattan uzaklaştırılmasıdır.",
+          "Herhangi bir eklemin frontal planda orta hatta yaklaştırılmasıdır.",
+          "Dışa, vücut merkezinden uzağa doğru döndürme.",
+          "Gövdenin frontal plandaki (sağa veya sola doğru) bükülme hareketine denir.",
+          "Ayak tabanının içe (medial'e, orta hatta) doğru döndürülmesi"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite içeriğinde lateral fleksiyonun gövdenin sağa veya sola doğru eğilmesi/bükülmesi olduğu ve frontal düzlemde gerçekleştiği açıkça belirtilmiştir. Diğer seçenekler sırasıyla abduksiyon, adduksiyon, eksternal rotasyon ve inversiyon tanımlarına karşılık gelir.",
+        "optionNotes": [
+          "Bu ifade abduksiyonun tanımıdır: bir eklemin frontal planda orta hattan uzaklaştırılması, lateral fleksiyon değildir.",
+          "Bu ifade adduksiyonun tanımıdır: bir eklemin frontal planda orta hatta yaklaştırılması, lateral fleksiyon değildir.",
+          "Bu ifade dışa doğru (eksternal) rotasyon tanımına yakındır, gövdenin yana eğilmesiyle ilgili değildir.",
+          "Doğru yanıt: metinde lateral fleksiyon, gövdenin frontal plandaki sağa veya sola doğru bükülme hareketi olarak tanımlanmıştır.",
+          "Bu ifade inversiyonun tanımıdır: ayak tabanının içe (medial'e) doğru döndürülmesi, gövdenin yana eğilmesiyle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra32",
+        "question": "14 yaşında 55 kg ağırlığında bazal metabolizma hızı 32.5, fiziksek aktivite standartı 1.78 olan erkek bir ergenin günlük enerji ihtiyacı kaç kkal dir?",
+        "options": [
+          "1550 kkal/gün",
+          "1755 kkal/gün",
+          "2180 kkal/gün",
+          "3182 kkal/gün",
+          "3500 kkal/gün"
+        ],
+        "correctIndex": 3,
+        "explanation": "Çocuk ve ergenlerde günlük enerji ihtiyacı, kilogram başına bazal metabolizma hızı değerinin vücut ağırlığı ile çarpılıp ardından fiziksel aktivite standart katsayısıyla çarpılmasıyla hesaplanır. Bu sporcu için hesaplama 32.5 (kkal/kg) × 55 kg = 1787,5 kkal bazal enerji, bu değerin 1.78 fiziksel aktivite katsayısıyla çarpılması ile 1787,5 × 1.78 ≈ 3182 kkal/gün sonucunu verir; bu da seçenekler arasında tam olarak verilen değerle örtüşmektedir.",
+        "optionNotes": [
+          "1550 kkal/gün, hesaplanan 32.5×55×1.78≈3182 kkal değerinden belirgin şekilde düşüktür, doğru sonucu yansıtmaz.",
+          "1755 kkal/gün, sadece bazal metabolizma değerine (32.5×55=1787,5) yakın görünse de fiziksel aktivite katsayısı uygulanmadan hesaplanmış eksik bir değerdir.",
+          "2180 kkal/gün, verilen değerlerle yapılan çarpım işlemine karşılık gelmeyen ara bir değerdir.",
+          "Doğru yanıt: 32.5 kkal/kg bazal metabolizma hızı × 55 kg = 1787,5 kkal; bu değerin 1.78 fiziksel aktivite katsayısıyla çarpılması ≈ 3182 kkal/gün sonucunu verir.",
+          "3500 kkal/gün, hesaplanan 3182 kkal değerinden yüksek, verilen sayısal değerlerle tam örtüşmeyen bir sonuçtur."
+        ]
+      },
+      {
+        "id": "extra33",
+        "question": "Aşağıdakilerden hangisi dört ana dokudan biri değildir?",
+        "options": [
+          "Epitel doku",
+          "Bağ doku",
+          "Kas doku",
+          "Sinir doku",
+          "Kan doku"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 1'de insan vücudunda dört ana dokunun epitel dokusu, bağ ve destek dokusu, kas dokusu ve sinir dokusu olarak tanımlandığı belirtilmiştir. Kan, dolaşım sistemi içinde özel bir sıvı doku olarak değerlendirilse de, metinde sayılan dört ana doku sınıflandırmasında ayrı bir \"kan doku\" başlığı bulunmaz; bu nedenle doğru cevap budur.",
+        "optionNotes": [
+          "Epitel doku, metinde sayılan dört ana dokudan biridir; vücudun iç ve dış yüzeylerini örten görevi vardır.",
+          "Bağ doku, dört ana dokudan biridir; bedene sağlamlık verir, organların zeminini oluşturur ve suyu depolar.",
+          "Kas doku, dört ana dokudan biridir; kontraksiyon (kasılma) yeteneğiyle hareketi sağlar.",
+          "Sinir doku, dört ana dokudan biridir; nöronlar ve glia hücrelerinden oluşarak uyarıları iletir.",
+          "Kan doku, metinde tanımlanan dört ana doku (epitel, bağ-destek, kas, sinir) listesinde ayrı bir madde olarak yer almaz; bu nedenle doğru cevap budur."
+        ]
+      },
+      {
+        "id": "extra34",
+        "question": "Retiküler bağ doku en çok hangi organların yapısal iskeletini oluşturur?",
+        "options": [
+          "Kalp ve akciğer",
+          "Karaciğer ve pankreas",
+          "Dalak, lenf düğümleri ve kemik iliği",
+          "Mide ve bağırsaklar",
+          "Kas ve tendonlar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1'in tam metninde açıkça \"Retiküler bağ dokusu dalak, lenf düğümü ve kemik iliği gibi organların iskeletini oluşturur\" denilmektedir. Retikulum hücreleri ve retiküler lifler bu organlarda üç boyutlu, narin bir ağ yapısı oluşturarak organın yapısal desteğini sağlar.",
+        "optionNotes": [
+          "Kalp ve akciğer, elastin liflerinin yoğun olduğu elastik organlar olarak tanımlanır; retiküler dokunun iskelet oluşturduğu organlar bunlar değildir.",
+          "Karaciğer, retiküler liflerin bulunduğu organlardan biri olsa da pankreas metinde bu gruba dahil edilmemiştir; dolayısıyla tam eşleşme bu seçenek değildir.",
+          "Doğru yanıt: metinde birebir \"dalak, lenf düğümü ve kemik iliği\" retiküler bağ dokusunun iskeletini oluşturan organlar olarak sayılmıştır.",
+          "Mide ve bağırsaklar sindirim sistemi organlarıdır; retiküler doku iskeleti ile metinde ilişkilendirilmemiştir.",
+          "Kas ve tendonlar farklı doku/yapılardır (kas dokusu ve bağ dokusunun özel bir türü); retiküler bağ dokusunun iskelet oluşturduğu organlar değildir."
+        ]
+      },
+      {
+        "id": "extra35",
+        "question": "Aşağıdakilerden hangisi müsabaka içinde kullanımı yasaklı maddelerden biri değildir?",
+        "options": [
+          "Uyarıcılar",
+          "Narkotikler",
+          "Kannabinoidler",
+          "Glukokortikosteroidler",
+          "Beta bloke ediciler"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 5'e göre Yasaklılar Listesi'nde müsabaka içinde yasaklı maddeler S6 (uyarıcılar), S7 (narkotikler), S8 (kannabinoidler) ve S9 (glukokortikosteroidler) olmak üzere dört grupta toplanır. Beta bloke ediciler ise bu dört müsabaka-içi gruptan ayrı olarak \"bazı sporlarda yasaklı maddeler\" kategorisinde (P1) yer alır; bu nedenle genel müsabaka içi yasaklı maddeler arasında sayılmaz.",
+        "optionNotes": [
+          "Uyarıcılar, metinde S6 kodu ile müsabaka içinde yasaklı maddeler grubunda sayılmıştır; bu seçenek aranan istisna değildir.",
+          "Narkotikler, metinde S7 kodu ile müsabaka içinde yasaklı maddeler grubunda yer alır; bu seçenek aranan istisna değildir.",
+          "Kannabinoidler, metinde S8 kodu ile müsabaka içinde yasaklı maddeler grubundadır; bu seçenek aranan istisna değildir.",
+          "Glukokortikosteroidler, metinde S9 kodu ile müsabaka içinde yasaklı maddeler grubunda sayılmıştır; bu seçenek aranan istisna değildir.",
+          "Doğru yanıt: beta bloke ediciler, müsabaka içi dört genel gruba değil, P1 koduyla \"bazı spor dallarında yasaklı maddeler\" adlı ayrı bir özel kategoriye dahildir."
+        ]
+      },
+      {
+        "id": "extra36",
+        "question": "Aşağıdakilerden hangisi hücrenin yapı taşı olan “supramoleküler komplekslerden” biri değildir?",
+        "options": [
+          "Ribozom",
+          "Lizozom",
+          "Mikrotübül",
+          "Sentriyol",
+          "Enzim kompleksleri"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1'deki \"Hücrenin Yapı Taşları\" tablosuna göre hücrenin yapı taşları organeller (nukleus, mitokondriyum, golgi aygıtı, endoplazmik retikulum, lizozom vb.) ve supramoleküler kompleksler (ribozom, mikrotübül, sentriyol, enzim kompleksleri) olmak üzere iki ayrı grupta sınıflandırılır. Lizozom bu tabloda organeller sütununda yer aldığından, supramoleküler kompleks değildir.",
+        "optionNotes": [
+          "Ribozom, tabloda supramoleküler kompleksler grubunda sayılmıştır; bu nedenle aranan istisna değildir.",
+          "Doğru yanıt: lizozom, tabloda organeller grubunda sayılmıştır, supramoleküler komplekslerden biri değildir.",
+          "Mikrotübül, tabloda supramoleküler kompleksler grubunda yer almaktadır; bu nedenle aranan istisna değildir.",
+          "Sentriyol, tabloda supramoleküler kompleksler grubunda yer almaktadır; bu nedenle aranan istisna değildir.",
+          "Enzim kompleksleri, tabloda supramoleküler kompleksler grubunda sayılmıştır; bu nedenle aranan istisna değildir."
+        ]
+      },
+      {
+        "id": "extra37",
+        "question": "Aşağıdakilerden hangisi tendonların temel görevi ile ilgilidir?",
+        "options": [
+          "Kasları birbirine bağlamak",
+          "Kemikleri birbirine bağlamak",
+          "Kasları kemiklere bağlamak",
+          "Eklemlere esneklik kazandırmak",
+          "Sinir iletimini sağlamak"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1'de tendonların kasları kemiklere bağladığı ve kas kuvvetini kemiğe iletirken elastik enerji depoladığı açıkça belirtilmiştir. Bu görev, kemikleri birbirine bağlayan ligamentlerin görevinden farklıdır.",
+        "optionNotes": [
+          "Tendonlar kasları birbirine değil, kası kemiğe bağlar; bu nedenle bu seçenek yanlıştır.",
+          "Kemikleri birbirine bağlamak ligamentlerin görevidir, tendonların değil; bu seçenek yanlıştır.",
+          "Doğru yanıt: metinde tendonların temel görevi kasları kemiklere bağlamak olarak tanımlanmıştır.",
+          "Eklemlere esneklik kazandırmak tendonun tanımlı bir görevi değildir; tendon kuvvet iletimi ve elastik enerji depolama ile ilişkilidir.",
+          "Sinir iletimi, sinir dokusunun görevidir; tendon bağ dokusu yapısıdır ve sinir iletimiyle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra38",
+        "question": "Aşağıdakilerden hangisi kıkırdak dokunun özelliklerinden biridir?",
+        "options": [
+          "Mineral içeriği yüksek ve sert bir yapıya sahiptir",
+          "Kan damarlarından zengin bir dokudur",
+          "Yüksek kolajen içerir ancak mineralize değildir",
+          "Kasılma özelliği gösterir",
+          "Sinir iletimini sağlar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1'e göre kıkırdak dokusu kondrosit hücrelerinden, amorf temel maddeden ve (lifli kıkırdakta yüksek oranda kolajen içeren) liflerden oluşur; kan damarı ve siniri bulunmaz, beslenmesini difüzyonla sağlar. Kemik dokusundan farklı olarak kıkırdak mineralize değildir; mineral birikimi (anorganik bileşikler) kemik dokusuna özgüdür ve kemiği kıkırdaktan yaklaşık 10 kat daha dayanıklı yapar.",
+        "optionNotes": [
+          "Yüksek mineral içeriği ve sertlik kemik dokusunun özelliğidir; kıkırdak dokusu mineralize değildir, bu seçenek yanlıştır.",
+          "Kıkırdak dokusu kan damarı içermez, beslenmesini difüzyonla sağlar; bu nedenle \"kan damarlarından zengin\" ifadesi yanlıştır.",
+          "Doğru yanıt: kıkırdak dokusu (özellikle lifli kıkırdakta) yüksek kolajen lif oranına sahiptir ancak kemik gibi mineralize değildir.",
+          "Kasılma özelliği kas dokusuna aittir; kıkırdak dokusu kasılma yeteneği göstermez.",
+          "Sinir iletimi sinir dokusunun görevidir; kıkırdak dokusunda sinir bulunmaz, bu nedenle bu seçenek yanlıştır."
+        ]
+      },
+      {
+        "id": "extra39",
+        "question": "Aşağıdakilerden hangisi plazmalemmanın (hücre zarının) temel özelliğidir?",
+        "options": [
+          "Hücre içinde enerji üretmek",
+          "Hücre sitoplazmasını çevreleyen yarı geçirgen bir yapı olmak",
+          "Protein sentezini gerçekleştirmek",
+          "Hücre bölünmesini başlatmak",
+          "DNA’yı depolamak"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1'de hücreyi çevreleyen ince, yarı geçirgen zarın plazmalemma (hücre zarı) olarak adlandırıldığı ve hücre içi ortamı dış ortamdan ayırarak özgül bir iç denge yarattığı belirtilmiştir. Bu nedenle plazmalemmanın temel özelliği, sitoplazmayı çevreleyen seçici/yarı geçirgen bir sınır oluşturmaktır.",
+        "optionNotes": [
+          "Enerji üretimi mitokondrinin görevidir, hücre zarının temel özelliği değildir.",
+          "Doğru yanıt: plazmalemma, hücre sitoplazmasını çevreleyen yarı geçirgen bir zar olarak tanımlanmıştır.",
+          "Protein sentezi ribozomlarda gerçekleşir, hücre zarının görevi değildir.",
+          "Hücre bölünmesini başlatmak çekirdek (nukleus) ile ilişkili bir süreçtir, hücre zarının temel özelliği değildir.",
+          "DNA'yı depolamak çekirdeğin görevidir, hücre zarının görevi değildir."
+        ]
+      },
+      {
+        "id": "extra40",
+        "question": "Aşağıdakilerden hangisi fibroblast hücrelerinin temel görevidir?",
+        "options": [
+          "Sinir impulsu iletmek",
+          "Kas kasılmasını sağlamak",
+          "Bağ dokunun temel yapı elemanlarını sentezlemek",
+          "Oksijen taşımak",
+          "Hormon salgılamak"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1'de fibroblastın bağ dokusunun temel yapılarının (kollajen, elastin, retiküler lifler ve amorf temel madde) sentezlenmesinden sorumlu hücre olduğu belirtilmiştir. Bu nedenle fibroblastın temel görevi bağ dokunun yapı elemanlarını üretmektir.",
+        "optionNotes": [
+          "Sinir impulsu iletmek nöronların görevidir, fibroblastın görevi değildir.",
+          "Kas kasılmasını sağlamak kas liflerinin (aktin-miyozin) görevidir, fibroblastla ilgisi yoktur.",
+          "Doğru yanıt: fibroblast, bağ dokusunun temel yapı elemanlarını (lifler ve temel madde) sentezleyen hücredir.",
+          "Oksijen taşımak kandaki alyuvarların (eritrositlerin) görevidir, fibroblastın görevi değildir.",
+          "Hormon salgılamak endokrin bezlerin/hücrelerin görevidir, fibroblastla ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra41",
+        "question": "Aşağıdakilerden hangisi ossifikasyonun (kemikleşme) doğru tanımıdır?",
+        "options": [
+          "Kemik dokunun yıkımı sürecidir",
+          "Osteoklastların kemik erimesi yapmasıdır",
+          "Osteoblast hücreleri tarafından yeni kemik dokusu oluşturulmasıdır",
+          "Kıkırdak dokunun tamamen yok olmasıdır",
+          "Kas liflerinin sertleşmesi sürecidir"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ossifikasyon (kemikleşme), kemik yapıcı hücreler olan osteoblastlar tarafından organik temel maddeye mineral (kalsiyum fosfat gibi anorganik bileşikler) yerleştirilerek yeni kemik dokusunun oluşturulması sürecidir. Bu süreç, kemiğin yıkımı veya erimesiyle ilgili olan osteoklast faaliyetinin tam tersidir.",
+        "optionNotes": [
+          "Kemik dokusunun yıkımı, ossifikasyonun tersi olan rezorpsiyon sürecini tanımlar; bu seçenek yanlıştır.",
+          "Osteoklastların kemik erimesi yapması, kemik yıkımı (rezorpsiyon) sürecidir; ossifikasyon ise kemik yapımıdır, bu seçenek yanlıştır.",
+          "Doğru yanıt: ossifikasyon, osteoblast hücreleri tarafından yeni kemik dokusunun oluşturulması sürecidir.",
+          "Kıkırdak dokunun tamamen yok olması tek başına ossifikasyonun tanımı değildir; embriyonik kemikleşmede kıkırdak model üzerinden kemik oluşur ama tanım osteoblast aktivitesine dayanır.",
+          "Kas liflerinin sertleşmesi, kas dokusuyla ilgili bir süreçtir ve ossifikasyon (kemikleşme) ile ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra42",
+        "question": "Aşağıdakilerden hangisi epitel dokunun temel özelliklerinden biridir?",
+        "options": [
+          "Hücreler arası madde miktarı fazladır",
+          "Kan damarları bakımından zengindir",
+          "Kasılma özelliği gösterir",
+          "Sinir iletimini sağlar",
+          "Hücreleri sıkı bir şekilde dizilmiş olup koruyucu görev yapar"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 2'de epitel dokunun vücudun iç ve dış yüzeylerini örten, hücrelerin birbirine çok yakın ve sıkı dizildiği, hücreler arasında çok az ara madde bulunan bir doku olduğu belirtilmiştir; bu sıkı dizilim epitelin koruma/örtme görevini sağlar. Epitel doku ayrıca kan damarları açısından zengin değildir, beslenmesini altındaki bağ dokudan difüzyonla sağlar.",
+        "optionNotes": [
+          "Metinde epitel dokuda hücreler arası madde miktarının \"çok az\" olduğu belirtilmiştir, \"fazla\" değil; bu seçenek yanlıştır.",
+          "Epitel doku kan damarları bakımından zengin değildir, avaskülerdir; bu seçenek yanlıştır.",
+          "Kasılma özelliği kas dokusuna aittir, epitel dokunun özelliği değildir.",
+          "Sinir iletimi sinir dokusunun görevidir, epitel dokunun temel özelliği değildir.",
+          "Doğru yanıt: epitel dokuyu oluşturan hücreler birbirine çok yakın ve sıkı dizilidir, bu sayede koruyucu/örtücü görev üstlenir."
+        ]
+      },
+      {
+        "id": "extra43",
+        "question": "Aşağıdakilerden hangisi glia hücrelerinin görevlerinden biridir?",
+        "options": [
+          "Sinir impulsunu doğrudan iletmek",
+          "Kas kasılmasını başlatmak",
+          "Hormon salgılamak",
+          "Nöronlara destek sağlamak ve sinir dokusunu korumak",
+          "Oksijen taşımak"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 1'de glia hücrelerinin uyarım iletiminde görev almadığı ancak nöronlara destek olduğu, besin ulaştırdığı ve atık maddeleri uzaklaştırdığı belirtilmiştir. Sinir impulsunun doğrudan iletimi ise nöronların görevidir, glia hücrelerinin değil.",
+        "optionNotes": [
+          "Sinir impulsunun doğrudan iletimi nöronların görevidir; metinde glia hücrelerinin uyarım iletiminde görev almadığı açıkça belirtilmiştir.",
+          "Kas kasılmasını başlatmak motor nöronlar ve kas liflerinin görevidir, glia hücreleriyle ilgisi yoktur.",
+          "Hormon salgılamak endokrin hücrelerin görevidir, glia hücrelerinin temel görevi değildir.",
+          "Doğru yanıt: glia hücreleri nöronlara destek sağlar, besin ulaştırır ve sinir dokusunu atık maddelerden koruyarak destekler.",
+          "Oksijen taşımak kandaki alyuvarların (eritrositlerin) görevidir, glia hücreleriyle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra44",
+        "question": "Aşağıda verilenlerden hangisi sindirim sistemini oluşturan organlardan değildir?",
+        "options": [
+          "Mide",
+          "İnce bağırsak",
+          "Karaciğer",
+          "Pankreas",
+          "Böbrek"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 2'nin tam metninde sindirim sisteminin \"ağız, yutak, yemek borusu, mide, ince ve kalın bağırsaklar, karaciğer, safra kesesi, pankreastan\" oluştuğu belirtilmiştir. Böbrek bu listede yer almaz; böbrek, üriner (boşaltım) sisteminin bir organıdır, sindirim sisteminin parçası değildir.",
+        "optionNotes": [
+          "Mide, metinde sindirim sistemini oluşturan organlar arasında açıkça sayılmıştır.",
+          "İnce bağırsak, metinde sindirim sistemi organları listesinde yer almaktadır.",
+          "Karaciğer, metinde sindirim sistemine ait organlar arasında sayılmıştır.",
+          "Pankreas, metinde sindirim sistemi organları listesinde açıkça yer almaktadır.",
+          "Doğru yanıt: böbrek, sindirim sistemine ait değildir; üriner sistemin bir organı olarak atık/sıvı dengesi ile ilgilidir."
+        ]
+      },
+      {
+        "id": "extra45",
+        "question": "Vücutta en yaygın bulunan doku aşağıdakilerden hangisidir?",
+        "options": [
+          "Epitel doku",
+          "Kas doku",
+          "Sinir doku",
+          "Bağ doku",
+          "Yağ doku"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 2'de \"Bağ dokusu, vücuttaki en yaygın dokudur\" ifadesiyle bağ dokunun vücutta en çok bulunan doku tipi olduğu açıkça belirtilmiştir. Bağ dokusu diğer dokuları birbirine bağlar, organları destekler ve korur.",
+        "optionNotes": [
+          "Epitel doku yaygın olsa da metinde \"en yaygın doku\" olarak özel olarak tanımlanan doku bağ dokusudur, epitel değildir.",
+          "Kas doku vücut kütlesinin önemli bir kısmını oluşturur ancak metinde \"en yaygın doku\" unvanı bağ dokusuna verilmiştir.",
+          "Sinir doku vücutta görece sınırlı bir dağılıma sahiptir, en yaygın doku olarak tanımlanmaz.",
+          "Doğru yanıt: metinde bağ dokusu açıkça \"vücuttaki en yaygın doku\" olarak tanımlanmıştır.",
+          "Yağ doku bağ dokusunun bir alt türü olarak kabul edilir; metinde \"en yaygın doku\" unvanı genel olarak bağ dokusuna verilmiştir, yağ dokuya özel olarak değil."
+        ]
+      },
+      {
+        "id": "extra46",
+        "question": "Vücudun iç ve dış kısımlarını örten doku aşağıdakilerden hangisidir?",
+        "options": [
+          "Epitel doku",
+          "Bağ doku",
+          "Kas doku",
+          "Sinir doku",
+          "Kemik doku"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 2'nin tam metninde epitel dokunun \"vücudun iç ve dış kısımlarını örten bir doku\" olduğu açıkça belirtilmiştir; örnek olarak derinin üst yüzeyi ile sindirim sisteminin iç yüzeyini örten dokunun epitel doku olduğu verilmiştir.",
+        "optionNotes": [
+          "Doğru yanıt: metinde epitel doku, vücudun iç ve dış kısımlarını örten doku olarak tanımlanmıştır.",
+          "Bağ doku, dokuları birbirine bağlayan ve destek sağlayan dokudur; örtme/kaplama görevi epitel dokuya aittir.",
+          "Kas doku, kasılma yoluyla hareketi sağlayan dokudur; örtme görevi ile tanımlanmaz.",
+          "Sinir doku, uyarı iletimini sağlayan dokudur; vücudu örten bir doku değildir.",
+          "Kemik doku, bedene sertlik ve destek sağlayan bağ-destek dokusunun bir türüdür; örtme görevi epitel dokuya aittir."
+        ]
+      },
+      {
+        "id": "extra47",
+        "question": "Aşağıdakilerden hangisi hücre zarının temel görevlerinden biridir?",
+        "options": [
+          "DNA’yı depolamak",
+          "Hücre içinde enerji üretmek",
+          "Maddelerin hücre içine giriş ve çıkışını düzenlemek",
+          "Protein sentezini gerçekleştirmek",
+          "Hücre bölünmesini başlatmak"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 2'de hücre zarının (plazma membranının) yarı geçirgen yapısı sayesinde maddelerin hücre içine giriş ve çıkışını düzenlediği; bu geçişlerin pasif taşıma (difüzyon, ozmoz) ve aktif taşıma (ATP harcanarak, örn. sodyum-potasyum pompası, endositoz, ekzositoz) yoluyla gerçekleştiği anlatılmıştır. Bu düzenleme, hücre zarının en temel görevidir.",
+        "optionNotes": [
+          "DNA'yı depolamak çekirdeğin (nukleusun) görevidir, hücre zarının görevi değildir.",
+          "Enerji üretimi mitokondride gerçekleşir, hücre zarının temel görevi değildir.",
+          "Doğru yanıt: hücre zarı, seçici geçirgenliği sayesinde maddelerin hücre içine giriş ve çıkışını düzenler.",
+          "Protein sentezi ribozomlarda (granüllü endoplazmik retikulum üzerinde) gerçekleşir, hücre zarının görevi değildir.",
+          "Hücre bölünmesini başlatmak çekirdek ve ilgili hücresel mekanizmalarla ilişkilidir, hücre zarının temel görevi değildir."
+        ]
+      },
+      {
+        "id": "extra48",
+        "question": "Aşağıdakilerden hangisi ATP sentezini sağlayan kimyasal reaksiyonların gerçekleştiği temel hücresel süreçtir?",
+        "options": [
+          "Fotosentez",
+          "Hücresel solunum",
+          "Difüzyon",
+          "Osmos",
+          "Aktif taşıma"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 2'de ATP sentezini sağlayan kimyasal reaksiyonların (fosfojen sistem, laktik asit sistemi ve aerobik sistem olmak üzere) hücresel solunum kapsamında gerçekleştiği, bu reaksiyonların sitoplazma ve mitokondride meydana geldiği anlatılmıştır. Fotosentez bitkilere özgü bir süreçtir ve insan hücrelerinde ATP sentezini sağlamaz.",
+        "optionNotes": [
+          "Fotosentez, bitkilerde güneş enerjisinin kimyasal enerjiye dönüştürüldüğü bir süreçtir; insan hücrelerinde ATP sentezleyen süreç değildir.",
+          "Doğru yanıt: ATP sentezini sağlayan kimyasal reaksiyonlar (fosfojen, laktik asit ve aerobik sistemler) hücresel solunum kapsamında gerçekleşir.",
+          "Difüzyon, maddelerin yoğun bölgeden az yoğun bölgeye pasif taşınmasıdır; ATP sentezleyen bir reaksiyon süreci değildir.",
+          "Osmos, suyun yarı geçirgen zardan geçişidir; ATP sentezi ile ilgili bir kimyasal reaksiyon süreci değildir.",
+          "Aktif taşıma, ATP enerjisini kullanan bir madde taşıma sürecidir; ATP'yi sentezleyen bir süreç değil, tüketen bir süreçtir."
+        ]
+      },
+      {
+        "id": "extra49",
+        "question": "Vücutta en yaygın bulunan doku türüdür. Temel görevi vücuttaki diğer dokuları bağlamak ve desteklemektir. Aşağıdakilerden hangisi bu doku türüdür?",
+        "options": [
+          "Epitel doku",
+          "Bağ doku",
+          "Sinir doku",
+          "Kas doku",
+          "Kan doku"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite özetinde bağ dokusunun vücuttaki en yaygın doku olduğu ve diğer dokuları birbirine bağlama, organları destekleme ve koruma görevini üstlendiği açıkça belirtilir. Bu nedenle sorudaki tanım bağ dokusuna karşılık gelir.",
+        "optionNotes": [
+          "Epitel doku vücudun iç-dış yüzeylerini örter; en yaygın doku değildir, bağlama/destekleme onun birincil görevi değildir.",
+          "Doğru yanıt: Bağ dokusu, vücuttaki en yaygın dokudur ve dokuları birbirine bağlama, organları destekleme işlevini üstlenir.",
+          "Sinir doku uyarıları iletmekle görevlidir; yaygınlık veya bağlama-destekleme fonksiyonuyla tanımlanmaz.",
+          "Kas doku kasılma yoluyla hareketi sağlar; bağlama ve destekleme onun temel görevi değildir.",
+          "\"Kan doku\" bu ünitede tanımlanan dört ana doku tipinden biri değildir, bu nedenle geçerli bir seçenek değildir."
+        ]
+      },
+      {
+        "id": "extra50",
+        "question": "Vücudun hareket etmesini sağlayan ve kasılma özelliğine sahip olan doku aşağıdakilerden hangisidir?",
+        "options": [
+          "Kas doku",
+          "Sinir doku",
+          "Bağ doku",
+          "Epitel doku",
+          "Lif doku"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kas dokusu, kontraksiyon (kasılma) yeteneği sayesinde vücudun hareketini sağlayan doku olarak tanımlanır; düz kas, çizgili iskelet kası ve kalp kası olmak üzere üç çeşidi vardır.",
+        "optionNotes": [
+          "Doğru yanıt: Kas dokusu kasılma özelliği ile hareketi sağlayan dokudur.",
+          "Sinir dokusu uyarıları iletir ve değerlendirir, kasılma özelliği taşımaz.",
+          "Bağ dokusu destek ve bağlama görevi görür, kasılma yoluyla hareket üretmez.",
+          "Epitel doku örtme/koruma ve salgılama görevi üstlenir, kasılma özelliğine sahip değildir.",
+          "\"Lif doku\" ünitede tanımlanan dört ana doku tipinden biri değildir, bu nedenle geçersiz bir seçenektir."
+        ]
+      },
+      {
+        "id": "extra51",
+        "question": "Uyartıları alma, iletme ve değerlendirme görevini yapan doku aşağıdakilerden hangisidir?",
+        "options": [
+          "Bağ doku",
+          "Epitel doku",
+          "Kas doku",
+          "Lif doku",
+          "Sinir doku"
+        ],
+        "correctIndex": 4,
+        "explanation": "Sinir dokusu, nöronlar aracılığıyla uyarıları alma, iletme ve değerlendirme görevini üstlenen dokudur; nöronları destekleyen glia hücreleri de bu dokuya dahildir.",
+        "optionNotes": [
+          "Bağ doku dokular arasında bağ kurar ve destekler, uyarı iletimiyle ilgili bir görevi yoktur.",
+          "Epitel doku örtme ve salgılama görevi görür, uyarı değerlendirme fonksiyonu nöronlara aittir.",
+          "Kas doku kasılma yoluyla hareket sağlar, uyarı iletme-değerlendirme görevi sinir dokusuna özgüdür.",
+          "\"Lif doku\" geçerli bir doku kategorisi değildir, ünitede tanımlanan dört doku tipinden biri değildir.",
+          "Doğru yanıt: Sinir dokusu nöronlar sayesinde uyarıları alır, iletir ve değerlendirir."
+        ]
+      },
+      {
+        "id": "extra52",
+        "question": "Vücudun dış yüzeyini örten ve iç organların yüzeyini kaplayan doku aşağıdakilerden hangisidir?",
+        "options": [
+          "Epitel doku",
+          "Lif doku",
+          "Kas doku",
+          "Sinir doku",
+          "Bağ doku"
+        ],
+        "correctIndex": 0,
+        "explanation": "Epitel dokusu, vücudun iç ve dış yüzeylerini örten; ayrıca salgı bezlerinin işlevinde ve duyusal algılamada rol oynayan dokudur. Yüzey epiteli bedenin iç-dış yüzeylerini kaplar.",
+        "optionNotes": [
+          "Doğru yanıt: Epitel dokusu vücudun dış yüzeyini ve iç organların yüzeyini örten dokudur.",
+          "\"Lif doku\" ünitede tanımlı bir ana doku tipi değildir, bu nedenle geçersizdir.",
+          "Kas doku kasılma ile hareketi sağlar, yüzey örtme görevi onun fonksiyonu değildir.",
+          "Sinir doku uyarı iletimiyle görevlidir, yüzey örtme fonksiyonu yoktur.",
+          "Bağ doku organların zeminini oluşturup destek sağlar; yüzeyleri örten doku epiteldir, bağ doku değildir."
+        ]
+      },
+      {
+        "id": "extra53",
+        "question": "Aşağıdakilerden hangisi bağ dokunun görevlerinden biri değildir?",
+        "options": [
+          "Dokular arasında bağ kurmak",
+          "Organları desteklemek",
+          "Uyartıları iletmek",
+          "Dokuları bir arada tutmak",
+          "Dokuları sıkıca sarmak"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bağ ve destek dokusu, dokular arasında bağ kurma, organları destekleme, dokuları bir arada tutma ve sarma gibi görevler üstlenir. Uyartıları iletmek ise sinir dokusunun görevidir, bağ dokusuyla ilişkili değildir.",
+        "optionNotes": [
+          "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): dokular arasında bağ kurmak bağ dokusunun tanımlayıcı işlevlerindendir.",
+          "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): organları destekleme bağ ve destek dokusunun temel fonksiyonlarındandır.",
+          "Doğru yanıt: Uyartıları iletmek sinir dokusunun görevidir; bağ dokusunun görevleri arasında yer almaz.",
+          "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): dokuları bir arada tutmak bağ dokusunun temel işlevlerinden biridir.",
+          "Bu bağ dokusunun bir görevidir (yanlış seçenek değil): dokuları sıkıca sarma, bağ dokusunun sarma/destek fonksiyonuna örnektir."
+        ]
+      },
+      {
+        "id": "extra54",
+        "question": "Kasların kasılma özelliği sayesinde gerçekleşen temel olay aşağıdakilerden hangisidir?",
+        "options": [
+          "Sindirim",
+          "Dolaşım",
+          "Hareket",
+          "Boşaltım",
+          "Salgılama"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kas dokusu, kontraksiyon (kasılma) yeteneği sayesinde vücudun hareket etmesini sağlar; bu, kas dokusunun temel ve tanımlayıcı fonksiyonudur.",
+        "optionNotes": [
+          "Sindirim, sindirim sistemine ait bir süreçtir; düz kasların bağırsak hareketlerine katkısı olsa da kasılmanın temel sonucu olarak tanımlanan olay hareket'tir.",
+          "Dolaşım, dolaşım sistemine ait bir süreçtir; kalp kasının katkısı olsa da kasılmanın genel/temel sonucu hareket olarak tanımlanır.",
+          "Doğru yanıt: Kasılma özelliğinin sağladığı temel olay vücudun hareket etmesidir.",
+          "Boşaltım, üriner ve boşaltım sistemlerine ait bir işlevdir, kasılmanın temel/tanımlayıcı sonucu değildir.",
+          "Salgılama, epitel dokusunun (salgı bezi epiteli) bir görevidir, kas dokusunun kasılma özelliğiyle ilişkilendirilmez."
+        ]
+      },
+      {
+        "id": "extra55",
+        "question": "İstemli çalışan kas türü aşağıdakilerden hangisidir?",
+        "options": [
+          "Düz kas",
+          "Kalp kası",
+          "Çizgili kas",
+          "Bağ kası",
+          "Sinir kası"
+        ],
+        "correctIndex": 2,
+        "explanation": "Çizgili iskelet kası somatik sinir sisteminin kontrolü altındadır; kontraksiyonu istemli, hızlı ve keskindir. Bu nedenle istemli çalışan kas türü çizgili kastır.",
+        "optionNotes": [
+          "Düz kas otonom sinir sistemi tarafından yönetilir ve kontraksiyonu istem dışıdır, istemli çalışmaz.",
+          "Kalp kası da istemsiz çalışan bir kas türüdür; nukleusu hücre ortasında olan enine çizgili bir kastır ama istemsizdir.",
+          "Doğru yanıt: Çizgili (iskelet) kası somatik sinir sistemi kontrolünde olup istemli, hızlı ve keskin kasılır.",
+          "\"Bağ kası\" ünitede tanımlanan kas dokusu çeşitlerinden biri değildir, geçerli bir terim değildir.",
+          "\"Sinir kası\" ünitede tanımlanan kas dokusu çeşitlerinden biri değildir, geçerli bir terim değildir."
+        ]
+      },
+      {
+        "id": "extra56",
+        "question": "Aşağıdakilerden hangisi istemsiz çalışan kas türlerinden biridir?",
+        "options": [
+          "Çizgili kas",
+          "İskelet kası",
+          "Spor kası",
+          "Düz kas",
+          "Hareket kası"
+        ],
+        "correctIndex": 3,
+        "explanation": "Düz kaslar iç organlarda ve kan damarlarında bulunur, otonom sinir sistemi tarafından yönetilir ve kontraksiyonu istem dışı, yavaş ve dalgalıdır; bu nedenle istemsiz çalışan kas türlerinden biridir.",
+        "optionNotes": [
+          "Çizgili kas, somatik sinir sistemi kontrolünde istemli çalışan bir kas türüdür, istemsiz değildir.",
+          "İskelet kası, çizgili kasın diğer adıdır ve istemli çalışır, istemsiz değildir.",
+          "\"Spor kası\" ünitede tanımlanan bir kas türü değildir, geçerli bir terim değildir.",
+          "Doğru yanıt: Düz kas, otonom sinir sistemi kontrolünde istemsiz, yavaş ve dalgalı şekilde kasılan kas türüdür.",
+          "\"Hareket kası\" ünitede tanımlanan bir kas türü değildir, geçerli bir terim değildir."
+        ]
+      },
+      {
+        "id": "extra57",
+        "question": "Aşağıdakilerden hangisi iskelet sisteminin görevlerinden biri değildir?",
+        "options": [
+          "Vücuda şekil vermek",
+          "İç organları korumak",
+          "Hareketi sağlamak",
+          "Hormon üretmek",
+          "Kaslara tutunma yüzeyi sağlamak"
+        ],
+        "correctIndex": 3,
+        "explanation": "İskelet sisteminin görevleri; bedene şekil verme, organları koruma, hareketin pasif bileşeni olma (kaslara tutunma yüzeyi sağlama) ve kan hücresi üretimi/mineral depolama gibi fonksiyonlardır. Hormon üretimi ise endokrin sisteme ait bir görevdir, iskelet sisteminin temel görevleri arasında sayılmaz.",
+        "optionNotes": [
+          "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): iskelet sistemi bedene şekil verir.",
+          "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): iskelet sistemi iç organları korur.",
+          "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): iskelet, hareketin pasif bileşeni olarak kaslarla birlikte hareketi sağlar.",
+          "Doğru yanıt: Hormon üretimi endokrin sistemin (hipofiz, tiroid, pankreas gibi bezlerin) görevidir, iskelet sisteminin temel görevleri arasında yer almaz.",
+          "Bu bir iskelet sistemi görevidir (yanlış seçenek değil): kemikler kaslara tutunma yüzeyi sağlayarak hareketin gerçekleşmesine katkıda bulunur."
+        ]
+      },
+      {
+        "id": "extra58",
+        "question": "Yetişkin bir insan vücudunda yaklaşık kaç kemik bulunur?",
+        "options": [
+          "106",
+          "156",
+          "206",
+          "256",
+          "306"
+        ],
+        "correctIndex": 2,
+        "explanation": "Genel anatomi bilgisine göre yetişkin bir insan vücudu yaklaşık 206 kemikten oluşur; bu değer verilen seçenekler arasında en yakın ve yaygın kabul gören sayıdır. Not: İncelenen ders ünitesinin kendi metninde iskelet sisteminin \"208 kemikten\" oluştuğu belirtilmektedir, ancak 208 seçenekler arasında yer almadığından ve 206 hem genel anatomi literatüründe hem de bu tarz sınavlarda standart kabul edilen değer olduğundan, en mantıklı ve seçeneklerle uyumlu cevap olarak 206 seçilmiştir.",
+        "optionNotes": [
+          "106, gerçek kemik sayısının çok altında olup hiçbir kaynakla örtüşmeyen bir değerdir.",
+          "156, gerçek kemik sayısının altında olup standart anatomi bilgisiyle uyuşmayan bir değerdir.",
+          "Doğru yanıt (seçeneklere göre en uygunu): Yetişkin insan vücudu yaklaşık 206 kemikten oluşur; bu, genel anatomi kaynaklarında standart kabul edilen sayıdır.",
+          "256, gerçek kemik sayısının üzerinde olup herhangi bir kaynakla örtüşmeyen bir değerdir.",
+          "306, gerçek kemik sayısının çok üzerinde olup herhangi bir kaynakla örtüşmeyen bir değerdir."
+        ]
+      },
+      {
+        "id": "extra59",
+        "question": "Kemiklerin birleştiği yere verilen ad aşağıdakilerden hangisidir?",
+        "options": [
+          "Eklem",
+          "Tendon",
+          "Bağ",
+          "Kas",
+          "Kıkırdak"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kemikler, eklemler aracılığıyla birbirine tutunur; yani kemiklerin birleştiği/bağlandığı yapıya eklem denir. Eklemler hareket serbestliğine göre az oynak (sinartroz) veya oynak (diartroz) olabilir.",
+        "optionNotes": [
+          "Doğru yanıt: Kemiklerin birleştiği yere eklem denir; kemikler eklemler aracılığıyla birbirine tutunur.",
+          "Tendon kası kemiğe bağlayan yapıdır, kemiklerin birleşim yerini tanımlamaz.",
+          "Bağ (ligament), kemikleri kemiğe bağlayan bağ dokusu yapısıdır; birleşim bölgesinin kendisi değil, o bölgeyi güçlendiren bir unsurdur.",
+          "Kas, kasılma yoluyla hareketi sağlayan dokudur; kemiklerin birleştiği yerle ilgili bir terim değildir.",
+          "Kıkırdak, eklem yüzeylerini kaplayan bir dokudur; kemiklerin birleştiği yerin kendisi değil, o bölgedeki bir doku bileşenidir."
+        ]
+      },
+      {
+        "id": "extra60",
+        "question": "Kanı kalpten vücuda taşıyan damar aşağıdakilerden hangisidir?",
+        "options": [
+          "Toplardamar",
+          "Kılcal damar",
+          "Lenf damarı",
+          "Atardamar",
+          "Sinir damarı"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dolaşım sistemi temel olarak kalp, atardamarlar (arter), toplardamarlar (ven) ve kılcal damarlardan (kapiller) oluşur. Atardamarlar, kanı kalpten vücuda doğru taşıyan damarlardır.",
+        "optionNotes": [
+          "Toplardamar (ven), kanı vücuttan kalbe geri taşıyan damardır; sorudaki yönün tersini tanımlar.",
+          "Kılcal damar (kapiller), doku hücreleri ile kan arasında gaz ve madde alışverişinin gerçekleştiği ince damardır, kalpten vücuda taşıma işlevi onun tanımı değildir.",
+          "Lenf damarı, lenf sıvısının taşınmasında görevlidir, kan taşımaz.",
+          "Doğru yanıt: Atardamar (arter), kanı kalpten vücuda doğru taşıyan damardır.",
+          "\"Sinir damarı\" dolaşım sisteminin bileşenlerinden biri değildir, geçerli bir terim değildir."
+        ]
+      },
+      {
+        "id": "extra61",
+        "question": "Kanı vücuttan kalbe geri taşıyan damar aşağıdakilerden hangisidir?",
+        "options": [
+          "Atardamar",
+          "Kılcal damar",
+          "Lenf damarı",
+          "Sinir damarı",
+          "Toplardamar"
+        ],
+        "correctIndex": 4,
+        "explanation": "Toplardamarlar (ven), kanı vücuttan kalbe geri taşıyan damarlardır; dolaşım sisteminin temel bileşenlerinden biridir (kalp, atardamarlar, toplardamarlar, kılcal damarlar, lenf ve lenf kanalları).",
+        "optionNotes": [
+          "Atardamar (arter), kanı kalpten vücuda taşır; sorudaki yönün tersini tanımlar.",
+          "Kılcal damar (kapiller), doku ile kan arasında alışveriş yapılan ince damardır, kanı kalbe geri taşıma onun tanımı değildir.",
+          "Lenf damarı, lenf sıvısının taşınmasında görevlidir, kan taşımaz.",
+          "\"Sinir damarı\" dolaşım sisteminin bileşenlerinden biri değildir, geçerli bir terim değildir.",
+          "Doğru yanıt: Toplardamar (ven), kanı vücuttan kalbe geri taşıyan damardır."
+        ]
+      },
+      {
+        "id": "extra62",
+        "question": "Gaz alışverişinin gerçekleştiği damar aşağıdakilerden hangisidir?",
+        "options": [
+          "Atardamar",
+          "Toplardamar",
+          "Lenf damarı",
+          "Sinir damarı",
+          "Kılcal damar"
+        ],
+        "correctIndex": 4,
+        "explanation": "Kılcal damarlar (kapiller), çapları çok ince olan ve kan ile doku hücreleri arasında oksijen-karbondioksit gibi gazların ve diğer maddelerin alışverişinin gerçekleştiği damarlardır.",
+        "optionNotes": [
+          "Atardamar, kanı kalpten vücuda taşıyan büyük/orta çaplı damardır, gaz alışverişi onun temel görevi değildir.",
+          "Toplardamar, kanı vücuttan kalbe geri taşıyan damardır, gaz alışverişi onun temel görevi değildir.",
+          "Lenf damarı, lenf sıvısının taşınmasında görevlidir, kan ile doku arasındaki gaz alışverişiyle ilgili değildir.",
+          "\"Sinir damarı\" dolaşım sisteminin bileşenlerinden biri değildir, geçerli bir terim değildir.",
+          "Doğru yanıt: Kılcal damar (kapiller), kan ile doku hücreleri arasındaki gaz alışverişinin gerçekleştiği ince damardır."
+        ]
+      },
+      {
+        "id": "extra63",
+        "question": "Kalp kaç odacıktan oluşur?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctIndex": 2,
+        "explanation": "İnsan kalbi, iki kulakçık (atrium) ve iki karıncıktan (ventrikül) oluşan toplam dört odacıklı bir organdır; bu yapı kanın tek yönlü ve etkili şekilde pompalanmasını sağlar.",
+        "optionNotes": [
+          "2 odacık, kalbin gerçek yapısını yansıtmaz; kalp 2 kulakçık ve 2 karıncık olmak üzere toplam 4 odacıktan oluşur.",
+          "3 odacık, kalbin gerçek yapısıyla uyuşmaz.",
+          "Doğru yanıt: Kalp, 2 kulakçık (atrium) ve 2 karıncıktan (ventrikül) oluşan toplam 4 odacıklı bir organdır.",
+          "5 odacık, kalbin gerçek yapısının üzerinde olup doğru değildir.",
+          "6 odacık, kalbin gerçek yapısının üzerinde olup doğru değildir."
+        ]
+      },
+      {
+        "id": "extra64",
+        "question": "Solunum sisteminin temel görevi aşağıdakilerden hangisidir?",
+        "options": [
+          "Kan üretmek",
+          "Besinleri sindirmek",
+          "Hormon salgılamak",
+          "Oksijen almak ve karbondioksit vermek",
+          "İdrar üretmek"
+        ],
+        "correctIndex": 3,
+        "explanation": "Solunum sistemi, soluk alırken gerekli oksijeni akciğerlere ileterek kana geçişini sağlayan ve soluk verirken ters yönde işlev görerek karbondioksiti dışarı atan sistemdir; temel olarak burun, yutak, gırtlak, soluk borusu ve akciğerlerden oluşur.",
+        "optionNotes": [
+          "Kan üretimi kemik iliğine (iskelet sistemiyle ilişkili) ait bir görevdir, solunum sisteminin temel görevi değildir.",
+          "Besinlerin sindirimi sindirim sisteminin görevidir, solunum sistemiyle ilgili değildir.",
+          "Hormon salgılamak endokrin sistemin görevidir, solunum sisteminin temel fonksiyonu değildir.",
+          "Doğru yanıt: Solunum sistemi oksijeni akciğerlere ileterek kana geçişini sağlar ve karbondioksiti vücuttan uzaklaştırır.",
+          "İdrar üretimi üriner sistemin görevidir, solunum sistemiyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra65",
+        "question": "Egzersiz sırasında kalp atım hızının artmasının nedeni aşağıdakilerden hangisidir?",
+        "options": [
+          "Kasların küçülmesi",
+          "Vücudun daha fazla oksijene ihtiyaç duyması",
+          "Kemiklerin büyümesi",
+          "Sinirlerin azalması",
+          "Damarların kapanması"
+        ],
+        "correctIndex": 1,
+        "explanation": "Egzersiz sırasında çalışan kaslar enerji (ATP) üretimi için normalden çok daha fazla oksijene ihtiyaç duyar. Kalp atım hızının artması, kalbin dakikada pompaladığı kan miktarını yükselterek bu artan oksijen talebinin kaslara daha hızlı taşınmasını sağlamaya yöneliktir.",
+        "optionNotes": [
+          "Egzersizde kaslar küçülmez; tam tersine kasılma için enerjiye ve oksijene duyulan ihtiyaç artar, bu da kalp atım hızı artışının nedeni değildir.",
+          "Doğru yanıt: kalp atım hızı, aktif kasların artan oksijen ihtiyacını karşılamak için dolaşımı hızlandırmak amacıyla artar.",
+          "Kemiklerin büyümesi egzersiz sırasında anlık olarak gerçekleşen bir süreç değildir ve kalp atım hızı artışıyla doğrudan ilişkili değildir.",
+          "Egzersiz sırasında sinir aktivitesi azalmaz, aksine sempatik sinir sistemi aktivasyonu artar; bu seçenek fizyolojik gerçeği yansıtmaz.",
+          "Egzersizde damarlar kapanmaz, aksine kaslara giden damarlar genişleyerek (vazodilatasyon) kan akışını artırır; bu seçenek tam tersini ifade eder."
+        ]
+      },
+      {
+        "id": "extra66",
+        "question": "Aşağıdakilerden hangisi aerobik egzersize örnektir?",
+        "options": [
+          "Halter kaldırma",
+          "Uzun mesafe koşu",
+          "Gülle atma",
+          "100 m sprint",
+          "Disk atma"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aerobik (oksijen) sistem, oksijenin kaslara ve mitokondriye ulaşması zaman aldığından yavaş çalışan ancak uzun süre enerji sağlayabilen bir sistemdir; bu nedenle uzun süreli, düşük-orta şiddetli aktivitelerde (maraton, uzun mesafe koşu gibi) baskın rol oynar. Diğer seçenekler ise kısa süreli ve yüksek şiddetli olup anaerobik (fosfojen) sistemle gerçekleştirilen hareketlerdir.",
+        "optionNotes": [
+          "Halter kaldırma kısa süreli ve maksimal şiddetli bir hareket olduğundan fosfojen (ATP-CP) sistemiyle, yani anaerobik yolla gerçekleştirilir.",
+          "Doğru yanıt: uzun mesafe koşu, enerjisinin büyük kısmını aerobik sistemden sağlayan tipik bir dayanıklılık (aerobik) egzersizidir.",
+          "Gülle atma, birkaç saniyede tamamlanan patlayıcı bir hareket olduğundan anaerobik fosfojen sistemle gerçekleştirilir, aerobik egzersiz değildir.",
+          "100 m sprint, 10-15 saniye süren maksimal şiddetli bir koşu olduğundan anaerobik fosfojen sistemle yapılır, aerobik örnek değildir.",
+          "Disk atma da gülle atma gibi kısa süreli, patlayıcı bir harekettir ve anaerobik sistemle gerçekleştirilir, aerobik egzersiz örneği değildir."
+        ]
+      },
+      {
+        "id": "extra67",
+        "question": "Kısa süreli ve yüksek şiddetli egzersizler hangi enerji sistemiyle yapılır?",
+        "options": [
+          "Aerobik enerji sistemi",
+          "Anaerobik enerji sistemi",
+          "Sindirim sistemi",
+          "Lenf sistemi",
+          "Boşaltım sistemi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kısa süreli ve yüksek şiddetli egzersizlerde (örneğin sıçrama, atma, sürat koşuları) enerji, oksijene gerek kalmadan hızlı çalışan anaerobik sistemlerden (fosfojen ve laktik asit sistemi) sağlanır. Aerobik sistem ise yavaş çalıştığından bu tür kısa ve patlayıcı hareketlerde yeterli olmaz.",
+        "optionNotes": [
+          "Aerobik sistem oksijenin kaslara ulaşması zaman aldığından yavaş çalışır; kısa süreli yüksek şiddetli egzersizlerde yeterli hızda enerji sağlayamaz.",
+          "Doğru yanıt: kısa süreli, yüksek şiddetli egzersizlerde enerji anaerobik (fosfojen ve laktik asit) sistemlerden hızlıca sağlanır.",
+          "Sindirim sistemi besinlerin parçalanmasıyla ilgilidir, egzersiz sırasında anlık enerji üretim sistemi değildir.",
+          "Lenf sistemi bağışıklık ve sıvı dengesiyle ilgilidir, enerji üretim sistemleri arasında yer almaz.",
+          "Boşaltım sistemi atık maddelerin uzaklaştırılmasıyla ilgilidir, egzersiz sırasında kullanılan bir enerji sistemi değildir."
+        ]
+      },
+      {
+        "id": "extra68",
+        "question": "Spor öncesinde yapılan ısınma hareketlerinin temel amacı aşağıdakilerden hangisidir?",
+        "options": [
+          "Kasları yormak",
+          "Nabzı düşürmek",
+          "Kasları küçültmek",
+          "Sakatlık riskini azaltmak",
+          "Enerji tüketimini azaltmak"
+        ],
+        "correctIndex": 3,
+        "explanation": "Isınma, kas ve bağ dokusunun sıcaklığını ve kan akımını artırarak dokuların ani ve yüksek şiddetli yüklenmelere daha hazırlıklı olmasını sağlar; bu sayede spor yaralanmalarına zemin hazırlayan risk faktörlerinden biri olan yetersiz hazırlık ortadan kaldırılarak sakatlık riski azaltılır. Bu, metinde değinilen yaralanma önleme yaklaşımlarıyla da örtüşen temel bir amaçtır.",
+        "optionNotes": [
+          "Isınmanın amacı kasları yormak değildir; aksine kasları aktiviteye hazırlamaktır, aşırı yorgunluk sakatlık riskini artıran bir faktördür.",
+          "Isınma sırasında nabız düşmez, tam tersine artan kan akımı ve kas aktivitesiyle birlikte nabız yükselir.",
+          "Isınma hareketleri kasları küçültmez; kan akımını ve esnekliği artırarak kasları faaliyete hazırlar.",
+          "Doğru yanıt: ısınmanın temel amacı, dokuları aktiviteye hazırlayarak spor yaralanması riskini azaltmaktır.",
+          "Isınma enerji tüketimini azaltmayı hedeflemez; aksine kontrollü bir şekilde enerji harcanarak vücut ısıtılır ve dolaşım hızlandırılır."
+        ]
+      },
+      {
+        "id": "extra69",
+        "question": "Aşağıdakilerden hangisi/hangileri ATP sentezini sağlayan kimyasal reaksiyonlar arasında yer alır? I. ATP-CP veya fosfojen sistemi, II. Laktik asit veya anaerobik glikoliz sistemi, III. Aerobik sistem veya oksijen sistemi",
+        "options": [
+          "I",
+          "III",
+          "I-II",
+          "II-III",
+          "I-II-III"
+        ],
+        "correctIndex": 4,
+        "explanation": "ATP sentezini sağlayan kimyasal reaksiyonlar üç kategoride sınıflandırılır: ATP-CP (fosfojen) sistemi, laktik asit (anaerobik glikoliz) sistemi ve aerobik (oksijen) sistemi. Bu üç sistem her fiziksel aktivitede farklı oranlarda birlikte çalışarak ATP'nin yeniden sentezlenmesini sağlar; dolayısıyla I, II ve III'ün tamamı doğrudur.",
+        "optionNotes": [
+          "Sadece I'i seçmek eksiktir; fosfojen sistem ATP sentezleyen sistemlerden biridir ama laktik asit ve aerobik sistemler de bu sürece dahildir.",
+          "Sadece III'ü seçmek eksiktir; aerobik sistem ATP sentezler ama fosfojen ve laktik asit sistemleri de aynı işlevi görür.",
+          "I-II kombinasyonu eksiktir; bu, anaerobik sistemin iki bileşenini kapsar ama aerobik sistemi dışarıda bırakır.",
+          "II-III kombinasyonu eksiktir; bu, fosfojen sistemini (I) dışarıda bırakır, oysa o da ATP sentezleyen sistemlerden biridir.",
+          "Doğru yanıt: fosfojen, laktik asit ve aerobik sistemlerin üçü de ATP sentezini sağlayan kimyasal reaksiyon gruplarıdır."
+        ]
+      },
+      {
+        "id": "extra70",
+        "question": "Aşağıda doping analizi ile ilgili verilen bilgilerden hangileri doğrudur? I. Doping kontrolü sporcuların idrar veya kan örneklerinin incelenmesi ile yapılabilir. II. Doping kontrolleri sadece yarışma sırasında yapılır. III. Doping kontrolleri sporcuların performans artırıcı yasaklı maddeleri kullanıp kullanmadığını belirlemek amacıyla yapılır. IV. Sporcular yarışma dışı dönemlerde de doping kontrolüne tabi tutulabilir.",
+        "options": [
+          "I ve II",
+          "I ve III",
+          "I, III ve IV",
+          "II ve III",
+          "I, II, III ve IV"
+        ],
+        "correctIndex": 2,
+        "explanation": "Doping kontrolü sporcudan alınan idrar ve/veya kan örneğinin analiz edilmesiyle yapılır (I doğru) ve amacı sporcuların yasaklı performans artırıcı madde kullanıp kullanmadığını belirlemektir (III doğru). Sporcular hem müsabaka içinde hem de müsabaka dışında, herhangi bir zamanda ve yerde doping kontrolüne tabi tutulabilir (IV doğru); dolayısıyla \"sadece yarışma sırasında yapılır\" ifadesi (II) yanlıştır.",
+        "optionNotes": [
+          "I ve II yanlıştır; I doğru olsa da II (kontrollerin sadece yarışma sırasında yapıldığı) yanlıştır, çünkü müsabaka dışı kontrol de uygulanır.",
+          "I ve III doğru ifadeler olsa da bu seçenek IV'ü dışarıda bırakır; oysa yarışma dışı kontrol de doğru bir bilgidir, bu nedenle eksik bir seçenektir.",
+          "Doğru yanıt: I, III ve IV doğru bilgilerdir; sadece II (kontrollerin yalnızca yarışma sırasında yapıldığı) yanlıştır çünkü kontroller yarışma dışında da yapılabilir.",
+          "II ve III yanlıştır; II ifadesi doğru değildir, kontroller yarışma dışında da gerçekleştirilebilir.",
+          "I, II, III ve IV hepsi doğru değildir; II ifadesi (sadece yarışma sırasında kontrol yapılması) metinle çelişmektedir, bu nedenle bu seçenek yanlıştır."
+        ]
+      },
+      {
+        "id": "extra71",
+        "question": "Uluslararası spor organizasyonlarının güvenli bir şekilde gerçekleştirilebilmesi için ortam sıcaklığının en fazla kaç °C olması önerilmektedir?",
+        "options": [
+          "25 °C",
+          "26 °C",
+          "27 °C",
+          "28 °C",
+          "30 °C"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde uluslararası spor karşılaşmalarının güvenli şekilde yapılabilmesi için maksimum ortam sıcaklığının 25°C olması gerektiği açıkça belirtilmiştir. Bu sınırın üzerindeki sıcaklıklar sporcularda sıcak çarpması gibi ciddi sağlık sorunlarına yol açabilir.",
+        "optionNotes": [
+          "Doğru yanıt: metinde belirtilen maksimum ortam sıcaklığı tam olarak 25°C'dir.",
+          "26°C, metinde belirtilen 25°C'lik maksimum sınırın üzerindedir, bu nedenle yanlıştır.",
+          "27°C de metindeki 25°C üst sınırını aşan, hatalı bir değerdir.",
+          "28°C, önerilen maksimum sıcaklığın oldukça üzerinde olup metinle uyuşmamaktadır.",
+          "30°C, metinde belirtilen güvenli üst sınırdan belirgin şekilde yüksektir, bu nedenle doğru değildir."
+        ]
+      },
+      {
+        "id": "extra72",
+        "question": "Uluslararası spor müsabakalarının güvenli ve sağlıklı bir şekilde gerçekleştirilebilmesi için ortam sıcaklığının belirli sınırlar içinde olması gerekir. Buna göre uluslararası spor karşılaşmalarının yapılabilmesi için minimum ortam sıcaklığı kaç °C olmalıdır?",
+        "options": [
+          "10 °C",
+          "12 °C",
+          "14 °C",
+          "16 °C",
+          "18 °C"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde uluslararası spor karşılaşmalarının yapılabilmesi için maksimum ortam sıcaklığının 25°C, minimum sıcaklığın ise 16°C olarak belirtildiği açıkça ifade edilmiştir. Bu sınırların dışına çıkıldığında sporcu sağlığı açısından risk oluşabilir.",
+        "optionNotes": [
+          "10°C, metinde belirtilen 16°C'lik minimum sınırın altında kalan, hatalı bir değerdir.",
+          "12°C de minimum sınır olan 16°C'nin altındadır, bu nedenle yanlıştır.",
+          "14°C, metindeki 16°C değerine yakın olsa da doğru minimum sınır değildir.",
+          "Doğru yanıt: metinde belirtilen minimum ortam sıcaklığı tam olarak 16°C'dir.",
+          "18°C, metinde belirtilen 16°C'lik minimum sınırın üzerinde olduğu için yanlıştır."
+        ]
+      },
+      {
+        "id": "extra73",
+        "question": "Anatomi ve spor bilimlerinde kullanılan \"kontra-lateral\" terimi aşağıdakilerden hangisini ifade eder?",
+        "options": [
+          "Aynı tarafta bulunan yapıları",
+          "Vücudun orta hattına yakın olan yapıları",
+          "Vücudun sağ ve sol bulunan yapıları",
+          "Üst tarafta bulunan yapıları",
+          "Alt tarafta bulunan yapıları"
+        ],
+        "correctIndex": 2,
+        "explanation": "Anatomik terimler sözlüğünde kontra-lateral, \"ilgilenilen yapı veya olayla ters tarafta (sağ veya sol) olan\" yapı olarak tanımlanır; yani vücudun karşılıklı sağ-sol taraflarından birindeki yapıyı diğer taraftaki bir yapıyla ilişkilendiren bir terimdir. Bu nedenle verilen seçenekler arasında sağ-sol taraflılığı ifade eden seçenek doğru kabul edilmiştir.",
+        "optionNotes": [
+          "Aynı tarafta bulunan yapıları ifade eden terim ipsi-lateraldir, kontra-lateral değildir; bu seçenek tanımın tam tersidir.",
+          "Vücudun orta hattına yakın olan yapılar \"medial\" terimiyle ifade edilir, kontra-lateral ile ilgisi yoktur.",
+          "Doğru yanıt: kontra-lateral terimi, bir yapının karşı tarafında (sağ veya solda) yer alan yapıyı belirtmek için kullanılır.",
+          "Üst tarafta bulunan yapılar \"superior\" terimiyle tanımlanır, bu kontra-lateral tanımıyla ilgili değildir.",
+          "Alt tarafta bulunan yapılar \"inferior\" terimiyle ifade edilir, kontra-lateral terimiyle doğrudan bir ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra74",
+        "question": "Metabolizma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "options": [
+          "Metabolizma, canlı organizmada gerçekleşen tüm kimyasal reaksiyonların bütünüdür.",
+          "Metabolizma anabolizma ve katabolizma olmak üzere ikiye ayrılır.",
+          "Metabolik faaliyetler vücutta enerji üretimi ve kullanımını içerir.",
+          "Metabolizma yalnızca sindirim sistemi ile sınırlı bir süreçtir.",
+          "Metabolik reaksiyonlar enzimler tarafından düzenlenir."
+        ],
+        "correctIndex": 3,
+        "explanation": "Metabolizma, canlı organizmada gerçekleşen tüm kimyasal reaksiyonların bütünü olarak tanımlanır ve anabolizma (yapım) ile katabolizma (yıkım) olmak üzere iki temel süreçten oluşur; bu süreçler enzimler tarafından düzenlenir ve vücudun her yerinde (sadece sindirim sisteminde değil) gerçekleşir. Bu nedenle \"metabolizma yalnızca sindirim sistemi ile sınırlı bir süreçtir\" ifadesi yanlıştır ve soru tarafından aranan cevaptır.",
+        "optionNotes": [
+          "Bu ifade doğrudur (aranan yanlış şık değil): metabolizma, canlı organizmadaki tüm kimyasal reaksiyonların bütününü tanımlar.",
+          "Bu ifade doğrudur: metabolizma, metnin de belirttiği gibi anabolizma ve katabolizma olmak üzere iki temel sürece ayrılır.",
+          "Bu ifade doğrudur: metabolik faaliyetler vücutta enerji üretimi ve kullanımını kapsayan süreçlerdir.",
+          "Doğru yanıt (yanlış olan ifade budur): metabolizma sadece sindirim sistemiyle sınırlı değildir, vücuttaki tüm hücre ve sistemlerde gerçekleşen kimyasal reaksiyonları kapsar.",
+          "Bu ifade doğrudur: metabolik reaksiyonlar enzimler tarafından katalizlenip düzenlenir."
+        ]
+      },
+      {
+        "id": "extra75",
+        "question": "Metabolizma aşağıdakilerden hangisini ifade eder?",
+        "options": [
+          "Sadece sindirim olaylarını",
+          "Vücuttaki tüm kimyasal reaksiyonların toplamını",
+          "Sadece enerji üretimini",
+          "Sadece kas faaliyetlerini",
+          "Sadece hormon üretimini"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metabolizma, canlı organizmada gerçekleşen tüm kimyasal reaksiyonların bütünü olarak tanımlanır; bu reaksiyonlar yapım (anabolizma) ve yıkım (katabolizma) süreçlerini kapsar ve vücudun her yerinde sürekli gerçekleşir, tek bir organ veya işlevle sınırlı değildir.",
+        "optionNotes": [
+          "Metabolizma sadece sindirim olaylarıyla sınırlı değildir; sindirim, metabolizmanın yalnızca bir parçası olabilecek süreçlerden biridir.",
+          "Doğru yanıt: metabolizma, vücuttaki tüm kimyasal reaksiyonların (yapım ve yıkım) toplamını ifade eder.",
+          "Enerji üretimi metabolizmanın (katabolizmanın) bir parçasıdır ama metabolizma bundan ibaret değildir, anabolik (yapım) süreçleri de içerir.",
+          "Metabolizma sadece kas faaliyetleriyle sınırlı değildir; vücuttaki tüm hücre ve dokularda gerçekleşen reaksiyonları kapsar.",
+          "Hormon üretimi metabolik faaliyetlerden biri olabilir ama metabolizmanın tanımı bununla sınırlı değildir, çok daha kapsamlı bir kavramdır."
+        ]
+      },
+      {
+        "id": "extra76",
+        "question": "Metabolizma hangi iki temel süreçten oluşur?",
+        "options": [
+          "Aerobik – Anaerobik",
+          "Sindirim – Boşaltım",
+          "Anabolizma – Katabolizma",
+          "Oksidasyon – Redüksiyon",
+          "Kasılma – Gevşeme"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metabolizma, basit moleküllerden karmaşık moleküllerin sentezlendiği yapım süreci olan anabolizma ile karmaşık moleküllerin basit moleküllere parçalandığı yıkım süreci olan katabolizma olmak üzere iki temel süreçten oluşur.",
+        "optionNotes": [
+          "Aerobik ve anaerobik, enerji sistemlerinin oksijen kullanımına göre sınıflandırılmasıdır; metabolizmanın iki temel sürecini tanımlamaz.",
+          "Sindirim ve boşaltım, besin alımı ve atık uzaklaştırma ile ilgili ayrı fizyolojik süreçlerdir, metabolizmanın tanımlayıcı iki bileşeni değildir.",
+          "Doğru yanıt: metabolizma anabolizma (yapım) ve katabolizma (yıkım) olmak üzere iki temel sürece ayrılır.",
+          "Oksidasyon ve redüksiyon kimyasal reaksiyon türleridir, metabolizmanın genel olarak ikiye ayrıldığı temel süreçleri ifade etmez.",
+          "Kasılma ve gevşeme kas fizyolojisiyle ilgili kavramlardır, metabolizmanın yapım-yıkım süreçlerini tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra77",
+        "question": "Vücutta enerji üretimi amacıyla büyük moleküllerin küçük moleküllere parçalanmasına ne ad verilir?",
+        "options": [
+          "Katabolizma",
+          "Anabolizma",
+          "Oksidasyon",
+          "Homeostaz",
+          "Difüzyon"
+        ],
+        "correctIndex": 0,
+        "explanation": "Katabolizma, karmaşık (büyük) moleküllerin enerji açığa çıkaracak şekilde basit (küçük) moleküllere parçalanması sürecidir; metabolizmanın yıkım yönünü oluşturur ve vücudun enerji ihtiyacını karşılamasında temel rol oynar.",
+        "optionNotes": [
+          "Doğru yanıt: büyük moleküllerin küçük moleküllere parçalanarak enerji açığa çıkarılması süreci katabolizma olarak adlandırılır.",
+          "Anabolizma tam tersidir; basit moleküllerden karmaşık (büyük) moleküllerin sentezlenmesi sürecidir, parçalanma değil yapım ifade eder.",
+          "Oksidasyon, bir maddenin elektron kaybetmesiyle gerçekleşen kimyasal bir reaksiyon türüdür, molekül parçalanmasının genel adı değildir.",
+          "Homeostaz, vücudun iç ortamının sabit koşullarda tutulmasıdır, molekül parçalanma süreciyle ilgili değildir.",
+          "Difüzyon, maddelerin yoğun bölgeden az yoğun bölgeye geçişini ifade eden bir taşınma şeklidir, molekül parçalanması değildir."
+        ]
+      },
+      {
+        "id": "extra78",
+        "question": "Küçük moleküllerden daha büyük moleküllerin sentezlenmesi süreci aşağıdakilerden hangisidir?",
+        "options": [
+          "Katabolizma",
+          "Hidroliz",
+          "Oksidasyon",
+          "Solunum",
+          "Anabolizma"
+        ],
+        "correctIndex": 4,
+        "explanation": "Anabolizma, basit (küçük) moleküllerden karmaşık (büyük) moleküllerin sentezlendiği yapım sürecidir; örneğin amino asitlerden proteinlerin oluşturulması bu sürece örnektir. Metabolizmanın yapım yönünü temsil eder ve katabolizmanın tam tersidir.",
+        "optionNotes": [
+          "Katabolizma tam tersidir; karmaşık moleküllerin basit moleküllere parçalanmasını ifade eder, sentezleme değildir.",
+          "Hidroliz, su kullanılarak bir bağın parçalanması işlemidir; molekül sentezlemekten farklı, bir yıkım türüdür.",
+          "Oksidasyon, elektron kaybına bağlı bir kimyasal reaksiyon türüdür, küçük moleküllerden büyük molekül sentezlemeyi tanımlamaz.",
+          "Solunum, hücresel enerji üretimi sürecidir, molekül sentezleme (anabolizma) sürecinin genel adı değildir.",
+          "Doğru yanıt: küçük moleküllerden büyük moleküllerin sentezlenmesi süreci anabolizma olarak adlandırılır."
+        ]
+      },
+      {
+        "id": "extra79",
+        "question": "Kasların doğrudan kullandığı enerji kaynağı aşağıdakilerden hangisidir?",
+        "options": [
+          "Glikoz",
+          "Protein",
+          "Vitamin",
+          "ATP",
+          "Yağ"
+        ],
+        "correctIndex": 3,
+        "explanation": "Vücudun doğrudan enerji kaynağı ATP'dir (adenozin trifosfat); kaslar kasılma için gereken enerjiyi doğrudan ATP'nin parçalanmasından elde eder. Glikoz, yağ ve protein gibi besin maddeleri ise dolaylı enerji kaynaklarıdır çünkü bu maddelerin önce metabolik yollarla parçalanarak ATP'ye dönüştürülmesi gerekir.",
+        "optionNotes": [
+          "Glikoz, karbonhidrat metabolizması yoluyla ATP üretiminde kullanılan dolaylı bir enerji kaynağıdır, kasların doğrudan kullandığı molekül değildir.",
+          "Protein de dolaylı bir enerji kaynağıdır ve öncelikli görevi büyüme-onarımdır, kaslar tarafından doğrudan kullanılan enerji molekülü değildir.",
+          "Vitaminler kalori içermez ve enerji üretimine yalnızca yardımcı olur, kasların doğrudan kullandığı bir enerji kaynağı değildir.",
+          "Doğru yanıt: vücudun ve kasların doğrudan enerji kaynağı ATP'dir; besinler ise bu ATP'nin dolaylı kaynaklarıdır.",
+          "Yağ, aerobik sistemde parçalanarak ATP üretiminde kullanılan dolaylı bir enerji kaynağıdır, kasların doğrudan kullandığı molekül değildir."
+        ]
+      },
+      {
+        "id": "extra80",
+        "question": "ATP&#039;nin açılımı aşağıdakilerden hangisidir?",
+        "options": [
+          "Adenozin trifosfat",
+          "Adenin trifosfat",
+          "Adenozin difosfat",
+          "Adenin difosfat",
+          "Adenozin monofosfat"
+        ],
+        "correctIndex": 0,
+        "explanation": "ATP, adenozin ve üç fosfat grubundan oluşan \"adenozin trifosfat\" kısaltmasıdır. Son iki fosfat bağı yüksek enerjili bağlardır; bu bağların parçalanmasıyla enerji açığa çıkar ve ADP (adenozin difosfat) ile serbest fosfat oluşur.",
+        "optionNotes": [
+          "Doğru yanıt: ATP, \"adenozin trifosfat\" ifadesinin kısaltmasıdır.",
+          "Adenin, adenozin molekülünün bir bileşenidir (baz kısmı) ama ATP'nin açılımındaki tam terim \"adenozin\"dir, \"adenin\" değildir.",
+          "Adenozin difosfat, ATP'nin bir fosfat grubu kaybetmesiyle oluşan ürün olan ADP'nin açılımıdır, ATP'nin kendisi değildir.",
+          "Adenin difosfat, doğru terminolojiye uymayan hatalı bir isimlendirmedir; böyle bir molekül standart olarak bu şekilde adlandırılmaz.",
+          "Adenozin monofosfat (AMP), tek fosfat grubu içeren farklı bir molekülün (ATP'nin daha fazla enerji kaybetmiş hâlinin) açılımıdır, ATP değildir."
+        ]
+      },
+      {
+        "id": "extra81",
+        "question": "Kısa süreli ve yüksek şiddetli egzersizlerde kullanılan enerji sistemi aşağıdakilerden hangisidir?",
+        "options": [
+          "Aerobik sistem",
+          "Oksidatif sistem",
+          "Sindirim sistemi",
+          "Lenf sistemi",
+          "Anaerobik sistem"
+        ],
+        "correctIndex": 4,
+        "explanation": "Kısa süreli ve yüksek şiddetli egzersizlerde (örneğin sıçrama, atma, kısa sürat koşuları) enerji oksijen kullanılmadan, hızlı çalışan anaerobik sistemden (fosfojen ve/veya laktik asit sistemleri) sağlanır. Aerobik (oksidatif) sistem ise oksijenin kaslara ulaşması zaman aldığından yavaş çalışır ve bu tür kısa, patlayıcı hareketler için uygun değildir.",
+        "optionNotes": [
+          "Aerobik sistem yavaş çalışır ve oksijen taşınımına bağlıdır; kısa süreli yüksek şiddetli egzersizlerin ani enerji talebini karşılayamaz.",
+          "Oksidatif sistem aerobik sistemle aynı anlama gelir ve aynı nedenle kısa süreli yüksek şiddetli egzersizler için uygun bir seçenek değildir.",
+          "Sindirim sistemi besinlerin parçalanmasıyla ilgilidir, egzersiz sırasında anlık enerji sağlayan bir sistem değildir.",
+          "Lenf sistemi bağışıklık ve sıvı dengesiyle ilgilidir, enerji üretim sistemleri arasında yer almaz.",
+          "Doğru yanıt: kısa süreli, yüksek şiddetli egzersizlerde enerji anaerobik sistemden hızlı bir şekilde sağlanır."
+        ]
+      },
+      {
+        "id": "extra82",
+        "question": "Kasların kasılmasını sağlayan temel yapı aşağıdakilerden hangisidir?",
+        "options": [
+          "Sinir hücreleri",
+          "Kemik hücreleri",
+          "Miyofibriller",
+          "Kıkırdak hücreleri",
+          "Lenf hücreleri"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kas lifi içindeki miyofibriller, kalın miyozin ve ince aktin filamentlerinden (miyofilamentlerden) oluşan sarkomerleri barındırır; kontraksiyon sırasında aktin filamentleri miyozin filamentlerinin ortasına doğru kayarak kasılmayı ve kuvvet üretimini sağlar. Bu nedenle kasılmayı doğrudan gerçekleştiren temel yapı miyofibrillerdir.",
+        "optionNotes": [
+          "Sinir hücreleri (nöronlar) kasa kasılma komutunu ileten uyarıyı taşır, ancak kasılmayı fiziksel olarak gerçekleştiren yapı değildir.",
+          "Kemik hücreleri (osteositler) kemik dokusunun yapı taşıdır, kas kasılmasıyla doğrudan bir ilgisi yoktur.",
+          "Doğru yanıt: miyofibriller, aktin ve miyozin filamentlerini içeren sarkomer yapıları aracılığıyla kasılmayı doğrudan gerçekleştirir.",
+          "Kıkırdak hücreleri (kondrositler) eklem yüzeylerinde ve destek dokusunda bulunur, kas kasılmasıyla ilgili bir yapı değildir.",
+          "Lenf hücreleri bağışıklık sistemiyle ilgilidir, kas kasılma mekanizmasında herhangi bir rol üstlenmez."
+        ]
+      },
+      {
+        "id": "extra83",
+        "question": "Kaslarda enerji depolanmasında önemli rol oynayan karbonhidrat formu aşağıdakilerden hangisidir?",
+        "options": [
+          "Glikojen",
+          "Laktoz",
+          "Fruktoz",
+          "Galaktoz",
+          "Selüloz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Karbonhidratlar kaslarda enerji deposu olarak glikojen formunda saklanır; kasta yaklaşık 300-400 gram glikojen bulunur ve bu depo, egzersiz sırasında ihtiyaç duyulduğunda glikoza parçalanarak enerji üretiminde kullanılır. Laktoz, früktoz ve galaktoz ise disakkarit/monosakkarit türü basit şekerlerdir ve kasta depolanan form değildir.",
+        "optionNotes": [
+          "Doğru yanıt: kaslarda enerji deposu olarak kullanılan karbonhidrat formu glikojendir.",
+          "Laktoz, süt ve süt ürünlerinde bulunan bir disakkarittir; kasta depolanan enerji formu değildir.",
+          "Früktoz, meyvelerde bulunan basit bir monosakkarittir; vücutta glikojen gibi kas içinde depolanan bir form değildir.",
+          "Galaktoz, laktozun bir bileşeni olan monosakkarittir; kas dokusunda depo karbonhidrat formu olarak kullanılmaz.",
+          "Selüloz, bitkisel bir polisakkarittir ve insan vücudunda sindirilemediği için enerji deposu olarak kullanılmaz."
+        ]
+      },
+      {
+        "id": "extra84",
+        "question": "Egzersiz sonrasında yapılan hafif egzersizlerin temel amacı aşağıdakilerden hangisidir?",
+        "options": [
+          "Kasları yormak",
+          "Nabzı artırmak",
+          "Laktik asidin uzaklaştırılmasına yardımcı olmak",
+          "Kas kütlesini azaltmak",
+          "Enerji tüketimini artırmak"
+        ],
+        "correctIndex": 2,
+        "explanation": "Yüksek şiddetli egzersiz sırasında anaerobik glikoliz sonucu kaslarda laktik asit birikir ve bu birikim pH'ı düşürerek kas yorgunluğuna yol açar. Egzersiz sonrası yapılan hafif tempolu (aktif) egzersizler, kas kan akımını sürdürerek biriken laktik asidin dolaşım yoluyla uzaklaştırılmasına ve toparlanmanın hızlanmasına yardımcı olur. Not: Bu çıkarım, ünite metinlerinde laktik asit birikimi ve sonuçları hakkında verilen bilgilere dayanmaktadır; metinde doğrudan \"soğuma egzersizi\" başlığı altında bu ifadeyle yer almasa da diğer seçeneklerin açıkça yanlış olması nedeniyle en güçlü desteklenen seçenek budur.",
+        "optionNotes": [
+          "Egzersiz sonrası hafif egzersizin amacı kasları yormak değildir; aksine toparlanmayı desteklemektir, yorgunluğu azaltmaya yöneliktir.",
+          "Hafif tempolu soğuma egzersizleri nabzı artırmayı değil, kademeli olarak düşürerek dinlenim seviyesine döndürmeyi hedefler.",
+          "Doğru yanıt: egzersiz sonrası hafif aktivite, kas kan akımını sürdürerek biriken laktik asidin uzaklaştırılmasına yardımcı olur.",
+          "Hafif egzersizin amacı kas kütlesini azaltmak değildir; bu, toparlanma sürecinin bir hedefi olarak metinde yer almaz.",
+          "Egzersiz sonrası hafif aktivitenin amacı enerji tüketimini artırmak değildir; amaç kontrollü bir şekilde vücudu dinlenime hazırlamaktır."
+        ]
+      }
     ]
   },
   {
@@ -6593,6 +11959,1368 @@ window.COURSES = [
               "Doğru cevap: Yargı, Anayasa'ya göre bağımsız ve tarafsız mahkemelerce Türk Milleti adına kullanılan yetkidir."
             ]
           }
+        ]
+      }
+    ],
+    "extraQuestions": [
+      {
+        "id": "extra1",
+        "question": "Aşağıdakilerden hangisi genel olarak gruba karar alma ve işi uygun görüldüğü şekilde tamamlama özgürlüğü veren liderlik modelidir?",
+        "options": [
+          "Dönüşümcü Lider",
+          "Vizyoner Lider",
+          "Liberal Lider",
+          "Durumsal Lider",
+          "Karizmatik Lider"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 3'te liberal lider tam olarak bu şekilde tanımlanır: liberal lider, gruba karar alma ve işi tamamlama özgürlüğü verir; astlar kendi hedef ve planlarını kendileri belirler. Bu tanım sorudaki ifadeyle birebir örtüşür.",
+        "optionNotes": [
+          "Dönüşümcü lider, izleyenlerin özgüvenini ve potansiyelini artırarak vizyon değerlere ulaştırır; karar özgürlüğü vermekten çok rol model olup ilham vermekle tanımlanır.",
+          "Vizyoner lider, grubun hangi yöne gitmesi gerektiğini gösteren ve geleceği okuyan liderdir; karar alma özgürlüğü vermekle tanımlanmaz.",
+          "Doğru cevap: Liberal lider, metinde açıkça 'gruba karar alma ve işi tamamlama özgürlüğü veren' lider olarak tanımlanmıştır.",
+          "Durumsal lider, takipçilerinin gereksinimlerine göre davranışını ayarlayan liderdir; tanım bu değildir.",
+          "Karizmatik lider, izleyicileri sorgusuz sualsiz peşinden sürükleyen liderdir; karar özgürlüğü vermekle değil etkileme gücüyle tanımlanır."
+        ]
+      },
+      {
+        "id": "extra2",
+        "question": "İdarenin hukuki nitelikli bir işlemde çok ağır sakatlık bulunması durumunda; bu işlemin sonucunun taraflar için alınması beklenen kararın aslında alınmamış yok hükmünde olması sonucunu doğuran yaptırım türüne ne ad verilir?",
+        "options": [
+          "İptal",
+          "Yokluk",
+          "Ceza",
+          "Hükümsüzlük",
+          "Tazminat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 5'te yokluk, idari bir işlemde çok ağır bir sakatlık bulunması durumunda işlemin hiç yapılmamış sayılması olarak tanımlanmıştır; sorudaki ifade bu tanımla birebir örtüşmektedir.",
+        "optionNotes": [
+          "İptal, hukuka aykırı bir işlemin dava yoluyla yapıldığı andan itibaren geçersiz kılınmasıdır; işlemin hiç var olmamış sayılması değil, dava sonucu ortadan kaldırılmasıdır.",
+          "Doğru cevap: Yokluk, çok ağır sakatlık içeren işlemin hiç alınmamış/yok hükmünde sayılması durumudur.",
+          "Ceza, kanunların suç saydığı fiillere uygulanan yaptırımdır; idari işlemin sakatlığıyla ilgili değildir.",
+          "Hükümsüzlük (geçersizlik), hukuka/ahlaka/kamu düzenine aykırı işlemlerin hüküm doğurmaması durumudur; yokluktan farklı olarak işlemin varlığını kabul edip hukuki sonuç bağlamaz, soruda tarif edilen 'yok hükmünde olma' ifadesi daha dar ve spesifik olarak yokluğa işaret eder.",
+          "Tazminat, hukuka aykırılık sonucu oluşan zararın giderilmesine yönelik bir yaptırımdır; işlemin yokluğuyla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra3",
+        "question": "Sporda halkla ilişkiler uygulamasında yaygın olarak kullanılan duyurum yöntemleri arasında yer almaz?",
+        "options": [
+          "Haber bültenleri",
+          "Basın toplantıları",
+          "Konuşmalar",
+          "Özel haberler",
+          "Reklamlar"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 4'te sporda halkla ilişkiler uygulamalarının çoğunlukla duyurum (publicity) olarak ele alındığı ve yaygın duyurum yöntemlerinin haber bültenleri, basın toplantıları, konuşmalar ve özel haberler olduğu belirtilir. Reklamlar bu dört yöntemin dışında kalır; ayrıca reklam genellikle ücretli ve doğrudan kontrol edilen bir iletişim biçimi olup duyurumdan (publicity) kavramsal olarak ayrılır.",
+        "optionNotes": [
+          "Haber bültenleri, metinde sayılan dört duyurum yönteminden biridir.",
+          "Basın toplantıları, metinde sayılan dört duyurum yönteminden biridir.",
+          "Konuşmalar, metinde sayılan dört duyurum yönteminden biridir.",
+          "Özel haberler, metinde sayılan dört duyurum yönteminden biridir.",
+          "Doğru cevap: Reklamlar, metinde sayılan duyurum yöntemleri listesinde yer almaz; duyurum ücretsiz ve dolaylı bir iletişim biçimiyken reklam ücretli ve doğrudan kontrol edilen bir araçtır."
+        ]
+      },
+      {
+        "id": "extra4",
+        "question": "Görev odaklı olup statüsünün getirmiş olduğu otoriteyi kullanarak kararları tek başına alan liderlik modeline ne ad verilir?",
+        "options": [
+          "Dönüşümcü Lider",
+          "Vizyoner Lider",
+          "Liberal Lider",
+          "Durumsal Lider",
+          "Otokratik liderlik"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 3'te otokratik lider tam olarak bu şekilde tanımlanmıştır: 'Görev odaklı olan otokratik lider, statüsünün verdiği otoriteyi kullanarak kararları tek başına alır ve yetkisini kimseyle paylaşmaz.' Soru bu tanımı birebir aktarmaktadır.",
+        "optionNotes": [
+          "Dönüşümcü lider, değişime uyum sağlayan ve izleyenlerin potansiyelini artıran bir liderdir; kararları tek başına almakla tanımlanmaz.",
+          "Vizyoner lider, geleceği okuyan ve yön gösteren liderdir; statü otoritesiyle tek başına karar almakla tanımlanmaz.",
+          "Liberal lider, tam tersine gruba karar alma özgürlüğü verir; otoriteyi tek başına kullanmaz.",
+          "Durumsal lider, duruma göre davranışını ayarlayan liderdir; otoriter tek başına karar alma bu tarzın tanımı değildir.",
+          "Doğru cevap: Otokratik liderlik, metinde görev odaklılık ve statü otoritesiyle tek başına karar alma olarak tanımlanmıştır."
+        ]
+      },
+      {
+        "id": "extra5",
+        "question": "İhtiyaçlar Hiyerarşisinin 3.Basamağında aşağıdakilerden hangisi yer alır?",
+        "options": [
+          "Saygı görme",
+          "Fizyolojik ihtiyaç",
+          "Kendini gerçekleştirme",
+          "Bağlanma, aidiyet, sevme ve sevilme",
+          "Güvenlik"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 2'de Maslow'un İhtiyaçlar Hiyerarşisi'nin üçüncü düzeyinde bağlanma, aidiyet, sevme ve sevilme ihtiyacı yer aldığı açıkça belirtilmiştir (örnek olarak bir sporcunun takımına ait olması verilir).",
+        "optionNotes": [
+          "Saygı görme ihtiyacı hiyerarşinin dördüncü düzeyindedir, üçüncü düzey değildir.",
+          "Fizyolojik ihtiyaç hiyerarşinin en temel (birinci) düzeyindedir.",
+          "Kendini gerçekleştirme ihtiyacı hiyerarşinin en üst (beşinci) düzeyindedir.",
+          "Doğru cevap: Bağlanma, aidiyet, sevme ve sevilme ihtiyacı metinde üçüncü düzey olarak belirtilmiştir.",
+          "Güvenlik ihtiyacı hiyerarşinin ikinci düzeyindedir, üçüncü düzey değildir."
+        ]
+      },
+      {
+        "id": "extra6",
+        "question": "Aşağıdakilerden hangisi Spor Kulüplerinde Halkla İlişkilerin Faaliyet Alanları arasında yer almaz?",
+        "options": [
+          "Kulüpler arası iletişim",
+          "Kamusal ilişkiler",
+          "Danışmanlık",
+          "Metin yazımı",
+          "Ürün pazarlama"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 4'te Theaker'in sınıflandırmasının spor kulüplerine uyarlanmış hâlinde halkla ilişkilerin faaliyet alanları arasında kulüp içi/kulüpler arası iletişim, kamusal ilişkiler, danışmanlık, metin yazımı, lobicilik, sponsorluk gibi başlıklar sayılmıştır; 'ürün pazarlama' bu listede ayrı bir faaliyet alanı olarak yer almamaktadır, çünkü pazarlama halkla ilişkilerden ayrı bir işletme işlevi olarak ele alınmıştır.",
+        "optionNotes": [
+          "Kulüpler arası iletişim, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+          "Kamusal ilişkiler, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+          "Danışmanlık, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+          "Metin yazımı, metinde halkla ilişkilerin faaliyet alanları arasında açıkça sayılmıştır.",
+          "Doğru cevap: Ürün pazarlama, metindeki halkla ilişkiler faaliyet alanları listesinde yer almaz; pazarlama ayrı bir işletme işlevi olarak ele alınmıştır."
+        ]
+      },
+      {
+        "id": "extra7",
+        "question": "Aşağıdakilerden hangisi Basın Ajansı ve Tanıtım Modelinden biri değildir?",
+        "options": [
+          "Tanıtım",
+          "Bilgilendirme",
+          "Swot analizi",
+          "İki yönlü asimetrik iletişim",
+          "İki önlü simetrik iletişim"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 4'ün tam metninde James Grunig'in halkla ilişkiler uygulamalarını 'Basın Ajansı ve Tanıtım Modeli' başlığı altında dört ayrı model olarak ele aldığı belirtilir: tanıtım, bilgilendirme, iki yönlü asimetrik iletişim ve iki yönlü simetrik iletişim. Swot analizi bu dört modelin arasında yer almaz; metinde SWOT analizi, Stratejik Yönetim Yaklaşımı'nın bir unsuru olarak (Ünite 1) geçer, halkla ilişkiler iletişim modeliyle ilgisi yoktur.",
+        "optionNotes": [
+          "Tanıtım, Grunig'in dört modelinden biri olarak metinde sayılmıştır.",
+          "Bilgilendirme, Grunig'in dört modelinden biri olarak metinde sayılmıştır.",
+          "Doğru cevap: Swot analizi, Grunig'in Basın Ajansı ve Tanıtım Modeli kapsamındaki dört model arasında yer almaz; stratejik yönetimle ilişkili ayrı bir analiz aracıdır.",
+          "İki yönlü asimetrik iletişim, Grunig'in dört modelinden biri olarak metinde sayılmıştır.",
+          "İki yönlü simetrik iletişim, Grunig'in dört modelinden biri olarak metinde sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra8",
+        "question": "Spor hukuku, hangi hukuk kapsamında yer alır?",
+        "options": [
+          "Anayasa Hukuku",
+          "Karma Hukuk",
+          "Medeni Hukuku",
+          "İş Hukuku",
+          "Özel Hukuk"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 5'te spor hukukunun 'hem kamu hukukundan hem özel hukuktan beslenen' bir karma hukuk yapısına örnek olduğu açıkça belirtilmiştir; bu nedenle spor hukuku karma hukuk kapsamında yer alır.",
+        "optionNotes": [
+          "Anayasa Hukuku, kamu hukukunun bir dalıdır; spor hukukunun doğrudan kapsamında olduğu hukuk türü değildir.",
+          "Doğru cevap: Metinde spor hukuku açıkça karma hukuk yapısına örnek olarak gösterilmiştir.",
+          "Medeni Hukuk, özel hukukun bir dalıdır; spor hukukunun tek başına ait olduğu kategori değildir.",
+          "İş Hukuku, metinde ayrı bir karma hukuk dalı olarak sayılır; spor hukukunun ait olduğu genel kategori değildir.",
+          "Özel Hukuk, spor hukukunun beslendiği kaynaklardan sadece biridir; spor hukuku yalnızca özel hukuka ait değildir, karma hukuktur."
+        ]
+      },
+      {
+        "id": "extra9",
+        "question": "Kendi çıkarları doğrultusunda herhangi bir konuda yasama kademelerini etkilemek ve ikna etmek için yapılan girişimleri yürütmeye ne ad verilir?",
+        "options": [
+          "Lobicilik",
+          "Etkinlik yönetimi",
+          "Kulüp içi iletişim",
+          "Danışmanlık",
+          "Sponsorluk"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 4'te spor kulüplerinde halkla ilişkilerin faaliyet alanları arasında sayılan lobicilik, kendi çıkarları doğrultusunda yasama kademelerini etkilemek ve ikna etmek için yapılan girişimleri yürütme olarak tanımlanır; bu tanım klasik lobicilik tanımıyla örtüşmektedir.",
+        "optionNotes": [
+          "Doğru cevap: Lobicilik, kendi çıkarları için yasama kademelerini etkileme ve ikna etme girişimlerini ifade eder.",
+          "Etkinlik yönetimi, fuar, seminer, kongre gibi organizasyonların yönetimiyle ilgilidir, yasama kademelerini etkilemekle ilgili değildir.",
+          "Kulüp içi iletişim, sporcularla görüşmeler ve maç öncesi toplantılarla ilgilidir, yasama ile ilgisizdir.",
+          "Danışmanlık, kurumlara öneri ve yol gösterme faaliyetidir, yasama kademelerini etkileme tanımına uymaz.",
+          "Sponsorluk, finansal destek ilişkileriyle ilgilidir, yasama kademelerini etkileme ve ikna tanımına uymaz."
+        ]
+      },
+      {
+        "id": "extra10",
+        "question": "Bir liderin kendini başkasının yerine koyabilme yeteneğine ne ad verilir?",
+        "options": [
+          "Şahsi bütünlük",
+          "Disiplin",
+          "Empati",
+          "Problem çözme",
+          "İletişim"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 3'te empati, 'kendini başkasının yerine koyabilme yeteneği' olarak tanımlanmıştır; soru bu tanımı birebir aktarmaktadır.",
+        "optionNotes": [
+          "Şahsi bütünlük, liderin söz ve davranışlarında tutarlı olmasını ifade eder, başkasının yerine koyabilmekle ilgili değildir.",
+          "Disiplin, kendini bir işe başlamaya zorlama ve düzenli yaşam alışkanlığıdır, empatiyle ilgili değildir.",
+          "Doğru cevap: Empati, metinde açıkça 'kendini başkasının yerine koyabilme yeteneği' olarak tanımlanmıştır.",
+          "Problem çözme, liderin sorunları önceden görüp çözüm üretme becerisidir, başkasının yerine koyabilmekle ilgili değildir.",
+          "İletişim, etkili ve ikna edici mesaj iletme becerisidir; empatiden farklı bir özelliktir."
+        ]
+      },
+      {
+        "id": "extra11",
+        "question": "Aşağıdakilerden hangisi işletmelerin ar-ge ve yenilik çalışmalarına büyük önem vermelerinin temel nedenlerinden biri değildir?",
+        "options": [
+          "Satış ile ilgili nedenler",
+          "Pazarla ilgili nedenler",
+          "Örgütsel nedenler",
+          "Sosyal nedenler",
+          "Personelle ilgili nedenler"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 2'nin tam metninde (Barutçugil, 1982) işletmelerin ar-ge ve yenilik çalışmalarına önem vermelerinin temel nedenleri dört grupta toplanmıştır: pazarla ilgili nedenler, örgütsel nedenler, sosyal nedenler ve personelle ilgili nedenler. 'Satış ile ilgili nedenler' bu dört grup arasında yer almamaktadır.",
+        "optionNotes": [
+          "Doğru cevap: Satış ile ilgili nedenler, metinde sayılan dört temel neden grubu arasında yer almaz.",
+          "Pazarla ilgili nedenler (pazarda önde gitmek, rakiplere karşı yeni ürün geliştirmek), metinde sayılan dört temel nedenden biridir.",
+          "Örgütsel nedenler (endüstride yenilikçi isim yapmak), metinde sayılan dört temel nedenden biridir.",
+          "Sosyal nedenler (değişiklik bekleyen tüketiciyi tatmin etmek), metinde sayılan dört temel nedenden biridir.",
+          "Personelle ilgili nedenler (yetenekli araştırmacıları çekebilmek), metinde sayılan dört temel nedenden biridir."
+        ]
+      },
+      {
+        "id": "extra12",
+        "question": "Bir toplum içinde kişilerin uymak zorunda oldukları davranış biçimleri ve kuralları olarak tanımlanan kavrama ne ad verilir?",
+        "options": [
+          "Ahlak Kuralları",
+          "Görgü Kuralları",
+          "Din Kuralları",
+          "Hukuk Kuralları",
+          "Töre"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 5'te ahlak kuralları, 'bir toplumda kişilerin uymak zorunda olduğu davranış biçimleri' olarak tanımlanmıştır; soru bu tanımı birebir aktarmaktadır.",
+        "optionNotes": [
+          "Doğru cevap: Ahlak kuralları, metinde tam olarak bu şekilde tanımlanmıştır.",
+          "Görgü kuralları, toplumun gelenek ve görenek kurallarından doğan, ihlalinde kınama/ayıplama ile sonuçlanan davranış kalıplarıdır; tanım bu değildir.",
+          "Din kuralları, inanç sistemlerine dayanan davranış normlarıdır; sorudaki genel toplumsal davranış tanımı ahlaka aittir.",
+          "Hukuk kuralları, devlet otoritesi tarafından konulan ve cebir gücüyle desteklenen kurallardır; sorudaki tanımda devlet otoritesi veya cebir gücünden bahsedilmez.",
+          "Töre, metinde ayrı ve tanımlanmış bir kavram olarak geçmemektedir; bu seçenek metindeki ahlak kuralları tanımına karşılık gelmez."
+        ]
+      },
+      {
+        "id": "extra13",
+        "question": "Aşağıdakilerden hangisi Yönetimde Mükemmellik Yaklaşımı başarı ölçütlerinden biri değildir?",
+        "options": [
+          "Temel işletme değerlerine önem verme",
+          "Gevşek ve sıkı kontrolü ayrı ayrı yürütme",
+          "En iyi bilinen faaliyet alanında büyüme",
+          "Müşterilerle sürekli ilişki kurma",
+          "Alt kademe girişimciliğini teşvik etme"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1'in tam metninde Tom Peters ve Robert Waterman'ın Yönetimde Mükemmellik Yaklaşımı'nın 8. ortak özelliği 'gevşek ve sıkı kontrolü BİR ARADA yürütme' (sıkı konularda kontrolü elden bırakmama, ancak diğer konularda yöneticilere serbesti tanıma) olarak belirtilmiştir. Soruda geçen 'ayrı ayrı yürütme' ifadesi bu ilkenin tam tersidir; ilke kontrolün eş zamanlı/bir arada uygulanmasını öngörür, ayrı ayrı yürütülmesini değil.",
+        "optionNotes": [
+          "Temel işletme değerlerine önem verme, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır.",
+          "Doğru cevap: Metinde bu ilke 'gevşek ve sıkı kontrolü bir arada yürütme' şeklindedir; 'ayrı ayrı yürütme' ifadesi metindeki ilkeyle çelişir ve hatalıdır.",
+          "En iyi bilinen faaliyet alanında büyüme, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır.",
+          "Müşterilerle sürekli ilişki kurma, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır.",
+          "Alt kademe girişimciliğini teşvik etme, metinde 8 başarı ölçütünden biri olarak doğrudan sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra14",
+        "question": "Aşağıdakilerden hangisi Sosyal medya araçlarından biri değildir?",
+        "options": [
+          "Bloglar",
+          "Video Paylaşım",
+          "Web sayfaları",
+          "Fotoğraf Paylaşım Siteleri",
+          "Sosyal siteler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 4'te Sabuncuoğlu'nun (2013) sınıflamasına göre sosyal medya araçları; sosyal siteler (Facebook, Twitter), fotoğraf paylaşım siteleri, video paylaşım siteleri (Youtube), profesyonel ağlar ve bloglardan oluşur. Web sayfaları ise ayrı bir kategori olan 'görsel ve işitsel araçlar' (radyo, televizyon, film, internet, rozetler, web sayfaları) başlığı altında sayılmıştır, sosyal medya araçları arasında değildir.",
+        "optionNotes": [
+          "Bloglar, metinde sosyal medya araçları arasında doğrudan sayılmıştır.",
+          "Video Paylaşım (Youtube gibi), metinde sosyal medya araçları arasında doğrudan sayılmıştır.",
+          "Doğru cevap: Web sayfaları, metinde 'görsel ve işitsel araçlar' kategorisinde yer alır, sosyal medya araçları listesinde değildir.",
+          "Fotoğraf Paylaşım Siteleri (Flickr gibi), metinde sosyal medya araçları arasında doğrudan sayılmıştır.",
+          "Sosyal siteler (Facebook, Twitter, Instagram gibi), metinde sosyal medya araçları arasında doğrudan sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra15",
+        "question": "Aşağıdakilerden hangisi müeyyide türlerinden biri değildir?",
+        "options": [
+          "Tazminat",
+          "Ceza",
+          "Yokluk",
+          "İptal",
+          "Caydırıcılık"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 5'te hukukta altı temel yaptırım (müeyyide) türü sayılmıştır: cebri icra, tazminat, geçersizlik (hükümsüzlük), ceza, yokluk ve iptal. Caydırıcılık ise bir yaptırım türü değil, yaptırımların doğurduğu iki etkiden biridir (düzeltici etki ve caydırıcı etki); dolayısıyla müeyyide türleri arasında sayılmaz.",
+        "optionNotes": [
+          "Tazminat, metinde sayılan altı yaptırım türünden biridir.",
+          "Ceza, metinde sayılan altı yaptırım türünden biridir.",
+          "Yokluk, metinde sayılan altı yaptırım türünden biridir.",
+          "İptal, metinde sayılan altı yaptırım türünden biridir.",
+          "Doğru cevap: Caydırıcılık, metinde bir yaptırım türü değil, yaptırımların doğurduğu etkilerden biri (caydırıcı etki) olarak geçmektedir."
+        ]
+      },
+      {
+        "id": "extra16",
+        "question": "Aşağıdakilerden hangisi ‘’Dinlemeyi Etkileyen Faktörlerden’’ biri değildir?",
+        "options": [
+          "Fizyolojik faktörler",
+          "Sosyal Faktörler",
+          "Konu faktörü",
+          "Psikolojik faktörler",
+          "Ekonomik faktörler"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 4'te Çiftçi'ye (2001) göre dinlemeyi etkileyen faktörler yedi başlık altında sayılmıştır: fizyolojik faktörler, fiziki faktörler, psikolojik faktörler, zihinsel faktörler, sosyal faktörler, öğretmen/antrenör (konuşmacı) faktörü ve konu faktörü. Ekonomik faktörler bu yedi başlık arasında yer almamaktadır.",
+        "optionNotes": [
+          "Fizyolojik faktörler (işitme kaybı gibi), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+          "Sosyal Faktörler (ortama yabancı olmak), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+          "Konu faktörü (konuya ilgi duymamak), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+          "Psikolojik faktörler (ruh hali, stres, kaygı), metinde dinlemeyi etkileyen yedi faktörden biri olarak sayılmıştır.",
+          "Doğru cevap: Ekonomik faktörler, metindeki Çiftçi'nin (2001) yedi faktörlük sınıflamasında yer almaz."
+        ]
+      },
+      {
+        "id": "extra17",
+        "question": "Aşağıdakilerden hangisi kamu sektöründeki stratejik yönetim uygulamasındaki zorluklardan biri değildir?",
+        "options": [
+          "Maliyetlerin müşterilerden karşılanması",
+          "Siyasi baskılara maruz kalması",
+          "Koyu bir bürokrasinin olması",
+          "Başarısının hizmet kalitesi olması",
+          "Hizmet için var olması"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1'in tam metninde kamu sektörü ile özel sektör arasındaki stratejik yönetim farklılıkları anlatılırken, özel sektörde sunulan mal ve hizmetin maliyetini müşterilerin karşıladığı, kamusal hizmetlerden yararlananların ise her zaman bu maliyete doğrudan katlanmadığı (dolaylı bir ilişki olduğu) belirtilir. Dolayısıyla 'maliyetlerin müşterilerden karşılanması' kamu sektörünün bir özelliği/zorluğu değil, tam tersine ÖZEL sektörün ayırt edici bir özelliğidir; kamu sektöründeki asıl zorluk maliyetlerin müşterilerden doğrudan karşılanamamasıdır.",
+        "optionNotes": [
+          "Doğru cevap: Metne göre maliyetlerin müşterilerden karşılanması özel sektöre ait bir durumdur; kamu sektöründe hizmetten yararlananlar maliyete doğrudan katlanmayabilir, bu nedenle bu ifade kamu sektörünün zorluğu olarak doğru değildir.",
+          "Siyasi baskılara maruz kalması, metinde kamu sektörünün özel sektörden ayrılan ve stratejik yönetimi zorlaştıran bir özelliği olarak belirtilmiştir.",
+          "Koyu bir bürokrasinin olması, metinde kamu sektöründe stratejik yönetimi zorlaştıran bir farklılık olarak belirtilmiştir.",
+          "Başarısının hizmet kalitesi olması, metinde kamu sektörünün kâr amacı gütmeyip başarısının hizmeti ne derece iyi yerine getirdiğiyle ölçüldüğü belirtilerek ifade edilmiştir.",
+          "Hizmet için var olması, metinde 'kâr amacı olmayan kamu sektörü hizmet için vardır' şeklinde doğrudan belirtilmiştir."
+        ]
+      },
+      {
+        "id": "extra18",
+        "question": "James Watt’ın 1778’de kullanılabilir buhar makinesini yaparak başlattığı Endüstri Devriminden,2 Dünya Savaşına kadar geçen dönemde görülen uygulamalar hangi yönetim biçimidir ?",
+        "options": [
+          "Klasik Yönetim Yaklaşımı",
+          "Davranışsal (Neo-Klasik) Yönetim Yaklaşım",
+          "Modern Yönetim Yaklaşımı",
+          "Yönetimde Mükemmellik Yaklaşımı",
+          "Başlangıç Yönetim Yaklaşımı"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1'de açıkça belirtildiği gibi, James Watt'ın 1778'de buhar makinesini geliştirmesiyle başlayan Endüstri Devrimi'nden İkinci Dünya Savaşı'na kadar süren döneme Klasik Yönetim Yaklaşımı adı verilir. Bu dönemde Bilimsel Yönetim, Yönetim Süreci ve Bürokrasi yaklaşımları gelişmiştir.",
+        "optionNotes": [
+          "Doğru. Metinde bu tarih aralığı (1778 Endüstri Devrimi - 2. Dünya Savaşı) doğrudan Klasik Yönetim Yaklaşımı dönemi olarak tanımlanır.",
+          "Yanlış. Davranışsal (Neo-Klasik) Yaklaşım, 1940'lı-1960'lı yıllar arasında, yani Klasik yaklaşımdan sonra gelişmiştir.",
+          "Yanlış. Modern Yönetim Yaklaşımı çağdaş yaklaşımlar içinde yer alır ve Klasik döneme göre çok daha sonraki bir dönemi kapsar.",
+          "Yanlış. Yönetimde Mükemmellik Yaklaşımı, Tom Peters ve Robert Waterman'ın çalışmalarına dayanır ve 20. yüzyılın sonlarına aittir, bu tarih aralığıyla ilgili değildir.",
+          "Yanlış. Metinde 'Başlangıç Yönetim Yaklaşımı' adıyla anılan bir dönem geçmemektedir; bu kurgusal bir seçenektir."
+        ]
+      },
+      {
+        "id": "extra19",
+        "question": "İnsanın toplumsal yaşama gereği olan diğer kişilerle ilişkilerini ve davranışlarını inceleyen kavram aşağıdakilerden hangisidir?",
+        "options": [
+          "Yönetim",
+          "Denetim",
+          "Ekonomi",
+          "Bürokrasi",
+          "Yetki"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1'de yönetim, 'insanla uğraşan evrensel bir kavram' olarak tanımlanır ve 'insanın toplumsal yaşam içindeki diğer kişilerle ilişkilerini ve davranışlarını' inceler; bu nedenle tanımlanan kavram yönetimdir.",
+        "optionNotes": [
+          "Doğru. Metindeki yönetim tanımı bu ifadeyle birebir örtüşür.",
+          "Yanlış. Denetim, yönetim sürecinin sadece bir aşamasıdır (sonuçların amaçlarla karşılaştırılması), insan ilişkilerini inceleme tanımına karşılık gelmez.",
+          "Yanlış. Ekonomi, kaynakların dağılımı ve kıtlıkla ilgilenen ayrı bir bilim dalıdır, bu tanımla örtüşmez.",
+          "Yanlış. Bürokrasi, Max Weber'in öncülüğünü yaptığı katı kurallara dayalı bir yönetim yaklaşımıdır, insan ilişkilerini inceleyen genel bir kavram değildir.",
+          "Yanlış. Yetki, bir kişinin karar alma ve uygulatma hakkını ifade eder, insan ilişkilerini inceleyen bir disiplin değildir."
+        ]
+      },
+      {
+        "id": "extra20",
+        "question": "1940’lı yıllardan başlayıp, 1960’lı yıllara kadar süren dönemde hangi yönetim yaklaşımı etkili olmuştur?",
+        "options": [
+          "Endüstri Öncesi Yönetim Yaklaşımı",
+          "Davranışsal (Neo-Klasik) Yönetim",
+          "Modern Yönetim Yaklaşımı",
+          "Yönetimde Mükemmellik Yaklaşımı",
+          "Klasik Yönetim Yaklaşımı"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde 'Klasik yaklaşımın insanı ihmal etmesine tepki olarak 1940'lı-1960'lı yıllar arasında Neo-Klasik (Davranışsal) Yönetim Yaklaşımı gelişmiştir' denilmektedir; bu nedenle bu tarih aralığında etkili olan yaklaşım Davranışsal (Neo-Klasik) Yönetim Yaklaşımıdır.",
+        "optionNotes": [
+          "Yanlış. 'Endüstri Öncesi Yönetim Yaklaşımı' diye bir dönem adı metinde geçmez, bu kurgusal bir seçenektir.",
+          "Doğru. Metinde bu tarih aralığı doğrudan Neo-Klasik (Davranışsal) Yönetim Yaklaşımı'na atfedilmiştir.",
+          "Yanlış. Modern Yönetim Yaklaşımı, çağdaş yaklaşımlar içinde yer alır ve bu tarihlerden daha sonraki dönemi kapsar.",
+          "Yanlış. Yönetimde Mükemmellik Yaklaşımı, Tom Peters ve Waterman'ın çalışmalarına dayanır, 20. yüzyılın sonlarına ait çok daha sonraki bir yaklaşımdır.",
+          "Yanlış. Klasik Yönetim Yaklaşımı, Endüstri Devrimi'nden 2. Dünya Savaşı'na kadar olan dönemi kapsar, yani 1940'lardan önce sona ermiştir."
+        ]
+      },
+      {
+        "id": "extra21",
+        "question": "Stratejik planlamada yer Alması gereken temel unsurlar kaç madden oluşur.",
+        "options": [
+          "6",
+          "9",
+          "5",
+          "8",
+          "4"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 1'in tam metninde 'Stratejik Planlamada Yer Alması Gereken Temel Unsurlar' başlığı altında sekiz madde sayılmıştır: durum analizi, katılımcılığın nasıl sağlandığı, misyon/vizyon/temel değerler, en az bir amaç, her amaç altında en az bir hedef, ölçülebilir ölçüm kriterleri, stratejiler ve tüm amaç-hedefleri içeren beş yıllık tahmini maliyet tablosu. Bu nedenle doğru sayı 8'dir.",
+        "optionNotes": [
+          "Yanlış. Metinde listelenen unsur sayısı 6 değil, 8'dir.",
+          "Yanlış. Metinde listelenen unsur sayısı 9 değil, 8'dir.",
+          "Yanlış. Metinde listelenen unsur sayısı 5 değil, 8'dir.",
+          "Doğru. Metinde stratejik planlamada yer alması gereken temel unsurlar tam olarak 8 madde halinde sıralanmıştır.",
+          "Yanlış. Metinde listelenen unsur sayısı 4 değil, 8'dir."
+        ]
+      },
+      {
+        "id": "extra22",
+        "question": "Abraham Maslow’un ihtiyaçlar hiyerarşisi kaça ayrılır ?",
+        "options": [
+          "4",
+          "3",
+          "5",
+          "6",
+          "2"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 2'de Maslow'un ihtiyaçlar hiyerarşisi beş düzeyden oluşur: fizyolojik ihtiyaçlar, güvenlik ihtiyacı, bağlanma/aidiyet/sevme-sevilme ihtiyacı, saygı görme ihtiyacı ve kendini gerçekleştirme ihtiyacı. Bu nedenle doğru sayı 5'tir.",
+        "optionNotes": [
+          "Yanlış. Hiyerarşi 4 değil, 5 düzeyden oluşur.",
+          "Yanlış. Hiyerarşi 3 değil, 5 düzeyden oluşur.",
+          "Doğru. Metinde hiyerarşi fizyolojik, güvenlik, bağlanma/aidiyet, saygı görme ve kendini gerçekleştirme olmak üzere 5 düzeye ayrılmıştır.",
+          "Yanlış. Hiyerarşi 6 değil, 5 düzeyden oluşur.",
+          "Yanlış. Hiyerarşi 2 değil, 5 düzeyden oluşur."
+        ]
+      },
+      {
+        "id": "extra23",
+        "question": "Maslow&#039;a göre ihtiyaçlar hiyerarşisinin son aşamasında hangi ihtiyaç yer almaktadır?",
+        "options": [
+          "Fizyolojik",
+          "Güvenlik",
+          "Bağlanma ve aidiyet",
+          "Sevme ve sevilme",
+          "Kendini gerçekleştirme"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 2'de hiyerarşinin en üstünde, yani son aşamasında kendini gerçekleştirme ihtiyacı yer alır; bu ihtiyaç bireyin kendi potansiyelinin farkına varması, yaratıcı olması ve kendini sürekli geliştirmesiyle ilgilidir.",
+        "optionNotes": [
+          "Yanlış. Fizyolojik ihtiyaçlar hiyerarşinin en temel (ilk) düzeyidir, son aşama değildir.",
+          "Yanlış. Güvenlik ihtiyacı hiyerarşinin ikinci düzeyindedir, son aşama değildir.",
+          "Yanlış. Bağlanma ve aidiyet ihtiyacı hiyerarşinin üçüncü düzeyindedir, son aşama değildir.",
+          "Yanlış. Sevme ve sevilme, bağlanma/aidiyet düzeyiyle ilişkili olup hiyerarşinin ortasında yer alır, son aşama değildir.",
+          "Doğru. Kendini gerçekleştirme ihtiyacı, Maslow'un hiyerarşisinin en üst ve son basamağıdır."
+        ]
+      },
+      {
+        "id": "extra24",
+        "question": "Hangi işletme işlevinin temel amacı yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak için bilginin sistematik olarak toplanmasını, analizini ve yorumunu gerektirmektedir?",
+        "options": [
+          "AR-GE",
+          "Halkla ilişkiler",
+          "Üretim",
+          "Yönetim",
+          "Pazarlama"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 2'de Araştırma ve Geliştirme (Ar-Ge), 'yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak amacıyla yapılan ve bilginin sistematik olarak toplanmasını, analizini ve yorumunu gerektiren bir çalışma' olarak tanımlanır; bu nedenle doğru cevap Ar-Ge'dir.",
+        "optionNotes": [
+          "Doğru. Tanım, metindeki Ar-Ge tanımıyla birebir örtüşmektedir.",
+          "Yanlış. Halkla ilişkiler, kurumun halkla etkileşimini ve imajını yönetmekle ilgilidir, bilgi üretimiyle ilgili bir tanım değildir.",
+          "Yanlış. Üretim, fayda yaratmak ve insan ihtiyaçlarını karşılayan değer elde etmekle ilgilidir, sistematik bilgi toplama tanımı değildir.",
+          "Yanlış. Yönetim, kaynakların koordinasyonu ve karar alma süreciyle ilgilidir, bu spesifik tanıma karşılık gelmez.",
+          "Yanlış. Pazarlama, ihtiyaç ve isteklerin değişim yoluyla tatmin edilmesiyle ilgilidir, bilgi üretimi tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra25",
+        "question": "Aşağıdakilerden hangisi Platon’a göre bir liderin sahip olması gereken özelliklerden değildir",
+        "options": [
+          "Akıl",
+          "Cesaret",
+          "Öz denetim",
+          "Tarafsızlık",
+          "Çatışmacı"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 3'te 'Platon bir liderin akıl, cesaret, öz denetim ve tarafsızlık özelliklerine sahip olması gerektiğini öne sürmüştür' denilmektedir. Çatışmacı olmak bu dört özellik arasında sayılmamıştır, dolayısıyla doğru cevap budur.",
+        "optionNotes": [
+          "Yanlış. Akıl, Platon'un saydığı özelliklerden biridir.",
+          "Yanlış. Cesaret, Platon'un saydığı özelliklerden biridir.",
+          "Yanlış. Öz denetim, Platon'un saydığı özelliklerden biridir.",
+          "Yanlış. Tarafsızlık, Platon'un saydığı özelliklerden biridir.",
+          "Doğru. Çatışmacı olmak, Platon'un lider için saydığı akıl, cesaret, öz denetim ve tarafsızlık özellikleri arasında yer almaz; liderlik koşullara teslim olmayı ve çatışmacılığı değil dengeyi gerektirir."
+        ]
+      },
+      {
+        "id": "extra26",
+        "question": "I. Kontrol etme II. Yönlendirme III. Etkileme IV. Çatışma Bir liderin herhangi bir durumda kişi ya da grubun faaliyetlerine müdahale edebilmesi için yukarıda verilen özelliklerden hangisi ya da hangilerini taşımalıdır?",
+        "options": [
+          "Yalnız I",
+          "Yalnız II",
+          "III ve IV",
+          "I-II-III",
+          "II-III-IV"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 3'teki Tablo 3.1'de Tevrüz'ün (2000) tanımına göre liderlik, 'hedefe varma amacıyla herhangi bir durumda kişi ya da grubun faaliyetlerini kontrol etme, yönlendirme, etkileme ve aynı zamanda da grup üyelerini bir araya getirerek grubun devamını sağlama sürecidir.' Bu tanımda sayılan üç özellik kontrol etme, yönlendirme ve etkilemedir; çatışma bu tanımda yer almaz.",
+        "optionNotes": [
+          "Yanlış. Yalnız kontrol etme yeterli değildir; tanımda yönlendirme ve etkileme de birlikte sayılmıştır.",
+          "Yanlış. Yalnız yönlendirme yeterli değildir; tanımda kontrol etme ve etkileme de birlikte sayılmıştır.",
+          "Yanlış. Çatışma (IV), tanımda müdahale için gereken özellikler arasında sayılmamıştır; etkileme (III) doğru olsa da çatışma ile eşleştirilmesi bu seçeneği hatalı kılar.",
+          "Doğru. Tevrüz'ün tanımına göre lider, faaliyetlere müdahale edebilmek için kontrol etme, yönlendirme ve etkileme özelliklerini (I-II-III) taşımalıdır.",
+          "Yanlış. Çatışma (IV), tanımda sayılan özellikler arasında yer almaz; yönlendirme ve etkileme doğru olsa da çatışmanın eklenmesi bu seçeneği hatalı kılar."
+        ]
+      },
+      {
+        "id": "extra27",
+        "question": "Kaç çeşit liderlik tarzı vardır?",
+        "options": [
+          "8",
+          "5",
+          "6",
+          "7",
+          "4"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 3'te liderlik tarzları 'otokratik, demokratik, liberal, dönüşümcü, vizyoner, karizmatik, durumsal ve stratejik liderlik olarak sınıflandırılabilir' denilerek sekiz tarz sayılmış ve metinde bu sekiz tarz madde madde listelenmiştir.",
+        "optionNotes": [
+          "Doğru. Metinde otokratik, demokratik, liberal, dönüşümcü, vizyoner, karizmatik, durumsal ve stratejik liderlik olmak üzere tam olarak 8 liderlik tarzı sayılmıştır.",
+          "Yanlış. Sayılan liderlik tarzı sayısı 5 değil, 8'dir.",
+          "Yanlış. Sayılan liderlik tarzı sayısı 6 değil, 8'dir.",
+          "Yanlış. Sayılan liderlik tarzı sayısı 7 değil, 8'dir.",
+          "Yanlış. Sayılan liderlik tarzı sayısı 4 değil, 8'dir."
+        ]
+      },
+      {
+        "id": "extra28",
+        "question": "Grup ile birlikte çalışan, eğlence ve disiplin arasında denge kurabilen ve gerektiğinde nasıl davranması gerektiğini bilen lidere hangi lider sınıfına girer?",
+        "options": [
+          "Demokratik lider",
+          "Karizmatik lider",
+          "Girişimci lider",
+          "Anlayışlı lider",
+          "Akılcı lider"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 3'ün tam metninde Demokratik Lider tanımı tam olarak şu şekilde verilir: 'Grup ile birlikte çalışan, eğlence ve disiplin arasında denge kurabilen ve gerektiğinde nasıl davranması gerektiğini bilen lider türüdür.' Bu nedenle doğru cevap demokratik liderdir.",
+        "optionNotes": [
+          "Doğru. Metindeki demokratik lider tanımı soruyla birebir örtüşmektedir.",
+          "Yanlış. Karizmatik lider, izleyicilerini sorgusuz sualsiz peşinden sürükleyebilme becerisiyle tanımlanır, eğlence-disiplin dengesiyle değil.",
+          "Yanlış. 'Girişimci lider' metinde ayrı bir liderlik tarzı olarak tanımlanmamıştır, bu tanıma karşılık gelmez.",
+          "Yanlış. 'Anlayışlı lider' metinde geçen bir liderlik tarzı adı değildir, kurgusal bir seçenektir.",
+          "Yanlış. 'Akılcı lider' metinde geçen bir liderlik tarzı adı değildir, kurgusal bir seçenektir."
+        ]
+      },
+      {
+        "id": "extra29",
+        "question": "Aşağıdakilerden hangisi özellikle maç öncesi veya sonrasında basın aracılı ile bilgi vermeye yönelik olarak kullanılan halkla İlişkiler aracıdır?",
+        "options": [
+          "Basın bülteni",
+          "Basın açıklaması",
+          "Basın konferansı",
+          "Basın toplantısı",
+          "Röportaj"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 4'ün tam metninde 'Basın toplantısı; özellikle maç öncesi veya sonrasında basın aracılı ile bilgilendirmeye yönelik halkla ilişkiler şeklidir (Okay, 2014)' denilmektedir; bu nedenle doğru cevap basın toplantısıdır.",
+        "optionNotes": [
+          "Yanlış. Basın bülteni, kulüplerin yazılı olarak bilgi verdiği farklı bir araçtır, metinde maç öncesi/sonrası bilgilendirme için tanımlanan araç değildir.",
+          "Yanlış. Basın açıklaması, metinde kulüplerin transfer ve faaliyetlerini kamuoyuyla paylaşmak için kullandığı bir araç olarak tanımlanır, maç öncesi/sonrası bilgilendirmeye özgü tanımlanmamıştır.",
+          "Yanlış. 'Basın konferansı' metinde ayrı bir araç olarak bu tanımla tanımlanmamıştır; bu tanıma karşılık gelen terim basın toplantısıdır.",
+          "Doğru. Metinde bu tanım doğrudan basın toplantısına atfedilmiştir.",
+          "Yanlış. Röportaj, sözlü iletişim araçları arasında sayılan farklı bir halkla ilişkiler aracıdır, bu spesifik tanıma karşılık gelmez."
+        ]
+      },
+      {
+        "id": "extra30",
+        "question": "Silberblatt (1995) göre medya okuryazarlığının kaç temel maddeden oluşur?",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "5",
+          "6"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 4'te Jols ve Thoman'ın (2008) aktardığı Silberblatt'ın (1995) sınıflamasına göre medya okuryazarlığının beş temel prensibi sayılmıştır: medyanın toplum üzerindeki etkisini kavramak, medyayı kültürü anlamakta bir kaynak olarak görmek, kitle iletişimi mekanizmalarını anlamak, medya mesajlarının analizi için stratejiler geliştirmek ve medya içeriğini yorumlama/algılama yetisini artırmak.",
+        "optionNotes": [
+          "Yanlış. Sayılan madde sayısı 4 değil, 5'tir.",
+          "Yanlış. Sayılan madde sayısı 3 değil, 5'tir.",
+          "Yanlış. Sayılan madde sayısı 2 değil, 5'tir.",
+          "Doğru. Metinde Silberblatt'a (1995) göre medya okuryazarlığının tam olarak 5 temel prensibi sayılmıştır.",
+          "Yanlış. Sayılan madde sayısı 6 değil, 5'tir."
+        ]
+      },
+      {
+        "id": "extra31",
+        "question": "I. Geri-beslenme yetersizliği II. Aşırı bilgi yüklemesi III. Statü farklılıkları IV. Zaman baskısı Yukarıda belirtilen özellikler aşağıdaki bireylerarası iletişimi etkileyen faktörlerden hangisini tanımlamaktadır?",
+        "options": [
+          "Fiziksel ve Teknik Engeller",
+          "Psiko-sosyal engeller",
+          "Örgütsel engeller",
+          "Sosyo-kültürel engeller",
+          "Diğer engeller"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 4'te örgütsel engeller arasında 'örgütün büyüklüğü ve fiziksel düzeni, geri beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları, yönetim tarzı, hiyerarşi, rol ilişkileri ve zaman baskısı' sayılmıştır (Yatkın ve Yatkın, 2010). Soruda verilen geri-beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları ve zaman baskısı bu listeyle birebir örtüştüğü için doğru cevap örgütsel engellerdir.",
+        "optionNotes": [
+          "Yanlış. Fiziksel ve teknik engeller; gürültü, mesaj/araç bozuklukları ve dil güçlükleri gibi unsurları kapsar, bu dört unsurla ilişkili değildir.",
+          "Yanlış. Psiko-sosyal engeller; önyargı, algılama farkı, sosyo-kültürel farklar gibi unsurları kapsar, bu dört unsur bu kategoride sayılmamıştır.",
+          "Doğru. Metinde geri beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları ve zaman baskısı doğrudan örgütsel engeller başlığı altında sayılmıştır.",
+          "Yanlış. Metinde 'sosyo-kültürel engeller' diye ayrı bir kategori bu adla geçmez; sosyo-kültürel farklar psiko-sosyal engeller içinde sayılır.",
+          "Yanlış. 'Diğer engeller' kategorisi ortak yaşantı eksikliği, cinsiyet/kültür farkı gibi unsurları kapsar, bu dört unsur bu kategoride sayılmamıştır."
+        ]
+      },
+      {
+        "id": "extra32",
+        "question": "Belirli amaçlara ulaşmak için insan, para, zaman ve malzeme gibi kaynakların planlanması, örgütlenmesi, yöneltilmesi ve denetlenmesi sürecine ne ad verilir?",
+        "options": [
+          "Organizasyon",
+          "Yönetim",
+          "Liderlik",
+          "Denetim",
+          "Strateji"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bu tanım, Can (1997)'ın yönetim tanımıyla birebir örtüşmektedir: yönetim, belirli amaçlara ulaşmak için başta insanlar olmak üzere parasal kaynakları, malzemeleri ve zamanı uyumlu, verimli ve etkin kullanabilecek kararlar alma ve uygulama süreçlerinin toplamıdır. Soruda sayılan dört öge (planlama, örgütleme, yöneltme, denetleme) aynı zamanda yönetimin temel süreçleridir.",
+        "optionNotes": [
+          "Organizasyon, yönetimin alt süreçlerinden biri olan örgütlemeyle ilişkilidir ama tanımın bütününü (planlama-yöneltme-denetlemeyi) kapsayan kavram değildir.",
+          "Doğru cevap budur; metindeki yönetim tanımı kaynakların (insan, para, zaman, malzeme) planlanması, örgütlenmesi, yöneltilmesi ve denetlenmesi sürecini tam olarak karşılar.",
+          "Liderlik, bireyleri etkileme ve yönlendirme sürecidir; kaynakların tümünü kapsayan bir yönetim tanımı değildir.",
+          "Denetim, yönetimin sadece bir alt sürecidir (sonuçların amaçlarla karşılaştırılması), tanımın bütününü karşılamaz.",
+          "Strateji, uzun dönemli amaç ve yön belirlemeyle ilgilidir; kaynakların günlük planlanıp denetlenmesi sürecinin tam tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra33",
+        "question": "Spor kuruluşlarının amaçlarına ulaşabilmesi için yapılan planlama, örgütleme, yöneltme ve denetleme faaliyetlerinin tümüne ne ad verilir?",
+        "options": [
+          "Spor yönetimi",
+          "Spor pazarlaması",
+          "Spor ekonomisi",
+          "Spor hukuku",
+          "Spor psikolojisi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spor yönetimi, genel yönetim biliminin planlama, örgütleme, yürütme (yöneltme) ve denetim gibi süreçlerini sporun kendine özgü koşullarına uyarlayan özelleşmiş bir alan olarak tanımlanır. Soruda sayılan dört faaliyetin (planlama, örgütleme, yöneltme, denetleme) tümünü kapsayan kavram doğrudan spor yönetimidir.",
+        "optionNotes": [
+          "Doğru cevap budur; spor yönetimi tam olarak planlama, örgütleme, yöneltme ve denetleme faaliyetlerinin bütününü ifade eder.",
+          "Spor pazarlaması, ihtiyaç ve isteklerin değişim yoluyla tatmin edilmesine yönelik faaliyetlerle ilgilidir; yönetim süreçlerinin tümünü kapsamaz.",
+          "Spor ekonomisi, sporun ekonomik boyutunu inceler; planlama-örgütleme-denetleme sürecinin tanımı değildir.",
+          "Spor hukuku, sporun hukuki boyutuyla ilgilenen karma bir hukuk dalıdır; yönetim süreçlerini tanımlamaz.",
+          "Spor psikolojisi, sporcuların zihinsel ve davranışsal süreçleriyle ilgilenir; yönetim fonksiyonlarının tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra34",
+        "question": "Bir spor kulübünün gelecekte ulaşmak istediği hedefleri belirlemesi hangi yönetim fonksiyonuna girer?",
+        "options": [
+          "Planlama",
+          "Denetleme",
+          "Koordinasyon",
+          "Yöneltme",
+          "Örgütleme"
+        ],
+        "correctIndex": 0,
+        "explanation": "Planlama, 'ileriyi görmek', yani bir hareketi yürütme sırasında değil önceden kararlaştırmak olarak tanımlanır ve işletme/kulüp amaçlarının belirlenmesiyle başlar. Bir spor kulübünün gelecekte ulaşmak istediği hedefleri belirlemesi, tanım olarak doğrudan planlama fonksiyonuna girer.",
+        "optionNotes": [
+          "Doğru cevap budur; metinde planlama açıkça ileriyi görme ve amaçların önceden belirlenmesi süreci olarak tanımlanmıştır.",
+          "Denetleme, sonuçların önceden belirlenen amaç ve standartlarla karşılaştırılmasıdır; geleceğe dönük hedef belirlemekle değil geçmişe dönük kontrolle ilgilidir.",
+          "Koordinasyon, farklı birim ve kişilerin çabalarını ortak amaçlara yönelik uyumlu hâle getirme işlevidir, hedef belirlemenin kendisi değildir.",
+          "Yöneltme (yürütme), planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesi ve astların yönlendirilmesidir, hedef belirleme aşaması değildir.",
+          "Örgütleme, planlanan amaçlara ulaşmak için insan ve kaynakların düzenlenmesidir; hedeflerin belirlenmesinden sonra gelen bir aşamadır."
+        ]
+      },
+      {
+        "id": "extra35",
+        "question": "Toplum düzenini sağlamak amacıyla hukuk kurallarına uyulmaması durumunda uygulanan yaptırımlara ne ad verilir?",
+        "options": [
+          "Yetki",
+          "Müeyyide",
+          "Statü",
+          "Yönetmelik",
+          "Talimat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Müeyyide (yaptırım), bir hukuk kuralına uyulmadığında kişilerin devlet müdahalesiyle hukuka uygun davranış sergilemesini sağlamak üzere kanunlarda önceden öngörülen zorlayıcı düzenleme olarak tanımlanır. Bu tanım, soruda anlatılan 'hukuk kurallarına uyulmaması durumunda uygulanan yaptırım' ifadesiyle birebir örtüşür.",
+        "optionNotes": [
+          "Yetki, bir kişi veya kurumun belirli işlemleri yapabilme gücünü ifade eder; hukuk kuralı ihlali sonucu uygulanan bir yaptırım değildir.",
+          "Doğru cevap budur; müeyyide tam olarak hukuk kurallarına aykırılık durumunda uygulanan zorlayıcı düzenlemeyi ifade eder.",
+          "Statü, kişinin toplum içindeki konumunu ifade eder; bir yaptırım türü değildir.",
+          "Yönetmelik, kamu kurumlarının çıkardığı yazılı bir hukuk kaynağıdır; yaptırımın kendisi değil, kuralı içeren bir düzenlemedir.",
+          "Talimat, bir işin nasıl yapılacağına dair verilen yönergedir; hukuka aykırılık karşısında uygulanan bir yaptırım değildir."
+        ]
+      },
+      {
+        "id": "extra36",
+        "question": "Bir grubun belirlenen hedeflere ulaşabilmesi için bireyleri etkileyebilme ve yönlendirebilme sürecine ne ad verilir?",
+        "options": [
+          "Liderlik",
+          "Yönetim",
+          "Planlama",
+          "Denetim",
+          "Organizasyon"
+        ],
+        "correctIndex": 0,
+        "explanation": "Liderlik, belirlenmiş şartlar kapsamında bireysel ya da ekip hedeflerine ulaşmak için grup üyelerinin uygulamalarını etkileme ve ivme kazandırma süreci olarak tanımlanır. Bu tanım, soruda anlatılan 'bireyleri etkileyebilme ve yönlendirebilme süreci' ifadesiyle doğrudan örtüşür.",
+        "optionNotes": [
+          "Doğru cevap budur; liderlik tanımı tam olarak bireyleri etkileme ve hedeflere yönlendirme sürecini ifade eder.",
+          "Yönetim, kaynakların (insan, para, zaman, malzeme) planlanıp denetlenmesi sürecidir; liderlikten daha geniş ve farklı bir kavramdır.",
+          "Planlama, ileriyi görme ve hedefleri önceden belirleme sürecidir; bireyleri etkileme sürecinin tanımı değildir.",
+          "Denetim, sonuçların amaçlarla karşılaştırılması sürecidir; etkileme ve yönlendirme sürecini tanımlamaz.",
+          "Organizasyon, kaynakların ve görevlerin düzenlenmesiyle ilgilidir; bireyleri etkileme sürecinin doğrudan tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra37",
+        "question": "Bütün kararların yönetici tarafından alındığı liderlik tarzı aşağıdakilerden hangisidir?",
+        "options": [
+          "Demokratik liderlik",
+          "Serbest liderlik",
+          "Katılımcı liderlik",
+          "Durumsal liderlik",
+          "Otokratik liderlik"
+        ],
+        "correctIndex": 4,
+        "explanation": "Otokratik lider, statüsünün verdiği otoriteyi kullanarak kararları tek başına alır ve yetkisini kimseyle paylaşmaz; bu nedenle bütün kararların yönetici tarafından alındığı tarz otokratik liderliktir.",
+        "optionNotes": [
+          "Demokratik lider, grup ile birlikte çalışır ve kararlara izleyicilerin katılımını sağlar; kararları tek başına almaz.",
+          "Serbest (liberal) lider, gruba karar alma ve işi tamamlama özgürlüğü verir; kararları kendisi tek başına almaz.",
+          "Katılımcı liderlik, demokratik liderliğin bir diğer adıdır ve karar sürecine grup üyelerinin katılımını esas alır.",
+          "Durumsal liderlik, lider davranışının duruma göre değiştiği bir tarzdır; tüm kararların tek elden alınmasıyla özdeşleşmez.",
+          "Doğru cevap budur; otokratik lider kararları tek başına alır ve yetkisini paylaşmaz, güven ortamı oluşmadığından birlik duygusu da gelişmez."
+        ]
+      },
+      {
+        "id": "extra38",
+        "question": "Türkiye’de spor faaliyetlerini düzenleyen en üst kamu kurumu aşağıdakilerden hangisidir?",
+        "options": [
+          "Türkiye Milli Olimpiyat Komitesi",
+          "Spor Genel Müdürlüğü",
+          "Federasyonlar Birliği",
+          "Gençlik ve Spor Bakanlığı",
+          "Spor Kulüpleri Birliği"
+        ],
+        "correctIndex": 3,
+        "explanation": "2011 yılında kurulan Gençlik ve Spor Bakanlığı, Türkiye'de spor alanındaki en üst düzey kamu kurumudur; Spor Genel Müdürlüğü (günümüzde Spor Hizmetleri Genel Müdürlüğü) ise bu Bakanlığa bağlı, ona tabi bir hizmet birimi/genel müdürlük konumundadır. Bu nedenle hiyerarşik olarak en üstte yer alan kurum Gençlik ve Spor Bakanlığıdır.",
+        "optionNotes": [
+          "Türkiye Milli Olimpiyat Komitesi, olimpik hareketle ilgili özerk bir kuruluştur; devletin spor faaliyetlerini düzenleyen en üst kamu kurumu değildir.",
+          "Spor Genel Müdürlüğü, metinde Gençlik ve Spor Bakanlığına bağlı bir birim (Spor Hizmetleri Genel Müdürlüğü) olarak geçer; Bakanlığın altında yer alır, en üst kurum değildir.",
+          "Federasyonlar Birliği, metinde geçen ve Türk spor yönetiminde en üst kamu kurumu olarak tanımlanan bir yapı değildir.",
+          "Doğru cevap budur; Gençlik ve Spor Bakanlığı, Spor Genel Müdürlüğünün de bağlı olduğu, Türkiye'de spor faaliyetlerini düzenleyen en üst kamu kurumudur.",
+          "Spor Kulüpleri Birliği, metinde Türk spor yönetiminin en üst kamu kurumu olarak geçen bir yapı değildir."
+        ]
+      },
+      {
+        "id": "extra39",
+        "question": "Aşağıdakilerden hangisi spor kulüplerinin temel amaçlarından biri değildir?",
+        "options": [
+          "Spor faaliyetleri yürütmek",
+          "Sporcu yetiştirmek",
+          "Topluma spor hizmeti sunmak",
+          "Kar amacıyla ticari faaliyet yürütmek",
+          "Spor organizasyonları düzenlemek"
+        ],
+        "correctIndex": 3,
+        "explanation": "Spor kulüpleri, 5253 sayılı Dernekler Kanunu'na göre tüzel kişilik kazanan, genellikle kâr amacı gütmeyen (dernek statüsünde) örgütlerdir; asıl amaçları sporu yaymak, sporcu yetiştirmek ve topluma spor hizmeti sunmaktır. Kar amacıyla ticari faaliyet yürütmek, spor kulüplerinin temel/birincil amaçları arasında sayılmaz.",
+        "optionNotes": [
+          "Spor faaliyetleri yürütmek, spor kulüplerinin temel ve birincil amaçlarından biridir.",
+          "Sporcu yetiştirmek, spor kulüplerinin asli görevlerinden biri olarak kabul edilir.",
+          "Topluma spor hizmeti sunmak, özellikle kamu eliyle işletilen kulüp ve tesislerin esas amacı olarak vurgulanır.",
+          "Doğru cevap budur; spor kulüpleri dernek statüsünde, esas olarak kâr amacı gütmeyen kuruluşlardır, ticari kâr elde etmek temel amaçları arasında sayılmaz.",
+          "Spor organizasyonları düzenlemek, spor kulüplerinin faaliyet alanına giren temel amaçlarından biridir."
+        ]
+      },
+      {
+        "id": "extra40",
+        "question": "Aşağıdakilerden hangisi stratejik planlamada yer alması gereken temel unsurlardan biri değildir?",
+        "options": [
+          "Misyon",
+          "Vizyon",
+          "Amaç ve hedefler",
+          "Durum analizi",
+          "Günlük antrenman programı"
+        ],
+        "correctIndex": 4,
+        "explanation": "Stratejik planlama; durum analizi, paydaş analizi, SWOT analizi, misyon-vizyon ve temel değerlerin belirlenmesi gibi örgütün tüm birimlerine uzun dönemli stratejik vizyon kazandırmayı amaçlayan unsurları içerir. 'Günlük antrenman programı' ise operasyonel/günlük düzeyde bir uygulamadır ve stratejik planlamanın temel (uzun dönemli, kurumsal düzeydeki) unsurları arasında yer almaz.",
+        "optionNotes": [
+          "Misyon, stratejik planlamanın temel unsurlarından biridir; kuruluşun var oluş amacını tanımlar.",
+          "Vizyon, stratejik planlamanın temel unsurlarından biridir; kuruluşun gelecekte ulaşmak istediği durumu ifade eder.",
+          "Amaç ve hedefler, stratejik planlamanın vazgeçilmez unsurlarından biridir.",
+          "Durum analizi (SWOT dahil), stratejik planlama sürecinin temel unsurlarından biri olarak metinde sayılmıştır.",
+          "Doğru cevap budur; günlük antrenman programı, kurumsal düzeydeki uzun vadeli stratejik planlamanın bir unsuru değil, günlük/operasyonel bir uygulamadır."
+        ]
+      },
+      {
+        "id": "extra41",
+        "question": "Anadolu’da sporun örgütlü yapısının oluşmasında önemli rol oynayan, yaklaşık 675 yıllık geçmişe sahip olan ve 14. yüzyılda kurumsallaşan, milli kimlikle özdeşleşmiş geleneksel spor organizasyonu aşağıdakilerden hangisidir?",
+        "options": [
+          "Okçular Tekkesi",
+          "Enderun Mektebi",
+          "Ahilik Teşkilatı",
+          "Pehlivan Tekkeleri",
+          "Lonca Teşkilatı"
+        ],
+        "correctIndex": 3,
+        "explanation": "Metinde 'Anadolu'da sporun örgütlenmesinde yaklaşık 675 yıldır var olan ve Kırkpınar güreşleri ile özdeşleşen, yaklaşık 14. yüzyılda kurumlaştığı bilinen' spor organizatörlüğünden bahsedilir; bu organizasyon çeşitli güreş (pehlivan) tekke ve vakıflarının kurduğu ve desteklediği sporcuların yarışmalarını hedefleyen bir kuruluştur. Seçenekler arasında bu tanıma en uygun olan, güreşçilerin/pehlivanların barındığı ve yetiştirildiği örgütlü yapı olan Pehlivan Tekkeleridir.",
+        "optionNotes": [
+          "Okçular Tekkesi, okçuluk sporuna özgü bir örgütlenmedir; metindeki 675 yıllık, Kırkpınar ile özdeşleşen güreş organizasyonunu tanımlamaz.",
+          "Enderun Mektebi, Osmanlı sarayı için sporcu ve devlet adamı yetiştiren bir eğitim kurumudur; Kırkpınar tipi bir spor organizatörlüğü değildir.",
+          "Ahilik Teşkilatı, esnaf ve zanaatkârları örgütleyen bir meslek teşkilatıdır; metinde sporun örgütlenmesiyle ilgili bu özel tanıma doğrudan karşılık gelmez.",
+          "Doğru cevap budur; Kırkpınar güreşleriyle özdeşleşen, 14. yüzyılda kurumlaşan ve yaklaşık 675 yıldır süren bu organizasyon, metinde güreş (pehlivan) tekkelerinin kurup desteklediği bir yapı olarak anlatılır.",
+          "Lonca Teşkilatı, esnaf birlikleriyle ilgili bir örgütlenme biçimidir; metindeki geleneksel güreş organizasyonunu tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra42",
+        "question": "Osmanlı döneminde sporcuların yetiştirildiği ve özellikle saray için sporcu hazırlandığı kurum aşağıdakilerden hangisidir?",
+        "options": [
+          "Enderun Mektebi",
+          "Medrese",
+          "Lonca",
+          "Ahilik",
+          "Tekke"
+        ],
+        "correctIndex": 0,
+        "explanation": "Enderun Mektebi, Osmanlı Devleti'nde saray için devlet adamı ve sporcu yetiştirmek amacıyla kurulmuş, Osmanlı döneminde spor faaliyetlerinin saray kurumları çatısı altında yürütüldüğü yapılardan biridir. Bu nedenle 'özellikle saray için sporcu hazırlanan kurum' tanımı doğrudan Enderun Mektebi'ne karşılık gelir.",
+        "optionNotes": [
+          "Doğru cevap budur; Enderun Mektebi, Osmanlı sarayı için sporcu ve devlet adamı yetiştiren kurumdur.",
+          "Medrese, dini ve ilmî eğitim veren bir kurumdur; saray için sporcu yetiştirme işleviyle ilişkilendirilmez.",
+          "Lonca, esnaf teşkilatlanmasıyla ilgili bir yapıdır; sporcu yetiştirme kurumu değildir.",
+          "Ahilik, zanaatkârları örgütleyen bir meslek teşkilatıdır; saray sporcu yetiştirme kurumu değildir.",
+          "Tekke, genel olarak güreş/okçuluk gibi branşlarda halk arasından sporcu yetiştiren yapılardır; özellikle saraya özgü bir kurum olarak tanımlanan Enderun Mektebi'nden farklıdır."
+        ]
+      },
+      {
+        "id": "extra43",
+        "question": "Türkiye’de modern anlamda ilk spor kulüpleri hangi dönemde ortaya çıkmıştır?",
+        "options": [
+          "Selçuklu Dönemi",
+          "Osmanlı Dönemi (19. yüzyıl sonları)",
+          "Cumhuriyetin ilk yılları",
+          "Tanzimat Dönemi öncesi",
+          "Orta Çağ"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metne göre Tanzimat (1839-1876) sonrasında spor tekkeleri fonksiyonlarını yitirmiş ve kulüp modeli benimsenmiştir; Beşiktaş (1903), Galatasaray (1905) ve Fenerbahçe (1907) gibi modern anlamdaki ilk Türk spor kulüpleri, 19. yüzyılın sonlarından 20. yüzyıl başına uzanan Osmanlı döneminde kurulmuştur.",
+        "optionNotes": [
+          "Selçuklu Dönemi, modern anlamda spor kulüplerinin ortaya çıktığı bir dönem olarak metinde geçmez; bu dönemde örgütlü yapı daha çok tekkeler biçimindeydi.",
+          "Doğru cevap budur; metinde Beşiktaş, Galatasaray ve Fenerbahçe gibi ilk modern Türk spor kulüplerinin 19. yüzyıl sonlarındaki Osmanlı döneminde kurulduğu belirtilmiştir.",
+          "Cumhuriyetin ilk yılları, TİCİ gibi resmi federatif yönetim örgütlerinin kurulduğu dönemdir; modern kulüplerin ilk ortaya çıkışı bundan önceki Osmanlı dönemine aittir.",
+          "Tanzimat Dönemi öncesi, spor tekkelerinin hâlâ etkin olduğu, kulüp modelinin henüz benimsenmediği bir dönemdir.",
+          "Orta Çağ, metinde modern spor kulüplerinin ortaya çıkışıyla ilişkilendirilen bir dönem değildir."
+        ]
+      },
+      {
+        "id": "extra44",
+        "question": "Osmanlı Devleti’nde spor faaliyetleri genellikle hangi kurumların çatısı altında yürütülmüştür?",
+        "options": [
+          "Üniversiteler",
+          "Tekkeler ve saray kurumları",
+          "Belediyeler",
+          "Federasyonlar",
+          "Spor kulüpleri"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metne göre Osmanlı döneminde güreş tekkeleri, okçu tekkeleri ve spor vakıfları gibi örgütler spor faaliyetlerini yürütmüş, ayrıca Enderun Mektebi gibi saray kurumları da saray için sporcu yetiştirmiştir. Bu nedenle Osmanlı'da spor faaliyetleri esas olarak tekkeler ve saray kurumlarının çatısı altında yürütülmüştür.",
+        "optionNotes": [
+          "Üniversiteler, Osmanlı döneminde spor faaliyetlerinin yürütüldüğü kurumlar olarak metinde geçmez; bu modern bir yapıdır.",
+          "Doğru cevap budur; metinde Osmanlı'da sporun güreş/okçu tekkeleri ve Enderun Mektebi gibi saray kurumları çatısı altında yürütüldüğü belirtilir.",
+          "Belediyeler, Osmanlı döneminde spor faaliyetlerini yürüten kurumlar olarak metinde yer almaz.",
+          "Federasyonlar, Cumhuriyet dönemiyle birlikte ortaya çıkan modern yönetim yapılarıdır, Osmanlı dönemine ait değildir.",
+          "Spor kulüpleri, modern anlamda 19. yüzyılın sonlarında ortaya çıkmıştır; Osmanlı'nın genel spor yönetim çatısını tekke ve saray kurumları oluşturur."
+        ]
+      },
+      {
+        "id": "extra45",
+        "question": "Türkiye’de spor federasyonlarının temel görevi aşağıdakilerden hangisidir?",
+        "options": [
+          "Sporculara maaş bağlamak",
+          "Sporculara burs vermek",
+          "Spor tesisleri inşa etmek",
+          "Spor branşlarını yönetmek ve düzenlemek",
+          "Sporcu transferlerini yapmak"
+        ],
+        "correctIndex": 3,
+        "explanation": "Spor federasyonları, kendi branşlarındaki müsabaka, kural, lisans ve organizasyon süreçlerini yöneten ve düzenleyen özerk veya yarı özerk kuruluşlardır; temel görevleri ilgili spor branşının yönetimi ve düzenlenmesidir. Maaş bağlama, burs verme, tesis inşası veya transfer işlemleri federasyonların asıl/temel görevi değil, kulüp veya diğer kurumların yürüttüğü faaliyetlerdir.",
+        "optionNotes": [
+          "Sporculara maaş bağlamak, genellikle kulüplerin veya işverenlerin yükümlülüğüdür; federasyonun temel görevi değildir.",
+          "Sporculara burs vermek, bazı federasyon veya kurumların yan faaliyeti olabilir ama federasyonun asıl/temel görevi değildir.",
+          "Spor tesisleri inşa etmek, genellikle kamu kurumları (belediyeler, Spor Genel Müdürlüğü) veya kulüplerin görevidir, federasyonun temel görevi değildir.",
+          "Doğru cevap budur; federasyonların temel görevi, bağlı olduğu spor branşının müsabaka, kural ve organizasyon süreçlerini yönetmek ve düzenlemektir.",
+          "Sporcu transferlerini yapmak, kulüpler arasında gerçekleşen bir işlemdir; federasyonun temel görevi bu işlemleri bizzat yapmak değil, kurallarını düzenlemektir."
+        ]
+      },
+      {
+        "id": "extra46",
+        "question": "Aşağıdakilerden hangisi geleneksel Türk sporlarından biri değildir?",
+        "options": [
+          "Cirit",
+          "Güreş",
+          "Atlı okçuluk",
+          "Polo",
+          "Okçuluk"
+        ],
+        "correctIndex": 3,
+        "explanation": "Cirit, güreş, atlı okçuluk ve okçuluk, Türk kültüründe köklü bir geçmişe sahip, bugün de kendi federasyonlarıyla (Türkiye Cirit Federasyonu, Güreş Federasyonu, Atlı Okçuluk Federasyonu, Okçuluk Federasyonu) yaşatılan geleneksel Türk sporlarıdır. Polo ise uluslararası alanda genellikle Batı/İngiliz kökenli, at üzerinde oynanan elit bir spor olarak bilinir ve Türk kültüründe bu dört spor gibi kurumsallaşmış bir 'geleneksel Türk sporu' olarak kabul edilmez; bu soruda en mantıklı/en çok desteklenen cevap bu şekildedir, ancak bazı tarihî metinlerde Anadolu'da oynanan çöğen oyununun polo ile ilişkilendirildiği de not edilmelidir.",
+        "optionNotes": [
+          "Cirit, atlı bir Türk sporu olarak köklü bir geçmişe sahiptir ve geleneksel Türk sporlarından biridir.",
+          "Güreş, Türk kültüründe en köklü ve en yaygın geleneksel sporlardan biridir (örneğin Kırkpınar yağlı güreşleri).",
+          "Atlı okçuluk, Türk-Orta Asya kültüründen gelen, bugün federasyonu bulunan köklü bir geleneksel Türk sporudur.",
+          "Doğru (en uygun) cevap budur; Polo, uluslararası alanda daha çok Batı kökenli bir at sporu olarak tanınır ve diğer dört seçenek gibi kurumsal bir 'geleneksel Türk sporu' kategorisinde anılmaz.",
+          "Okçuluk, Türklerde savaş, avlanma ve spor dalı olarak çok köklü bir geçmişe sahip geleneksel bir spordur."
+        ]
+      },
+      {
+        "id": "extra47",
+        "question": "Cumhuriyet döneminde sporun örgütlenmesi amacıyla kurulan ilk önemli kurum aşağıdakilerden hangisidir?",
+        "options": [
+          "Gençlik ve Spor Bakanlığı",
+          "Spor Genel Müdürlüğü",
+          "Türkiye Futbol Federasyonu",
+          "Türkiye Milli Olimpiyat Komitesi",
+          "Türkiye İdman Cemiyetleri İttifakı"
+        ],
+        "correctIndex": 4,
+        "explanation": "Metne göre Cumhuriyet sonrası Türk spor yönetimi önce 1922'de özerk bir yapı olarak kurulan Türkiye İdman Cemiyetleri İttifakı (TİCİ, 1922-1936) ile başlamıştır; TİCİ, Türkiye'nin ilk resmî ve federatif ulusal spor yönetim örgütü olarak tanımlanır. Bu nedenle Cumhuriyet döneminde sporun örgütlenmesi için kurulan ilk önemli kurum TİCİ'dir.",
+        "optionNotes": [
+          "Gençlik ve Spor Bakanlığı, 2011 yılında kurulmuş çok daha sonraki bir kurumdur; Cumhuriyet döneminin ilk spor örgütü değildir.",
+          "Spor Genel Müdürlüğü, BTGM'nin devamı niteliğinde çok daha sonraki bir yapıdır, ilk kurum değildir.",
+          "Türkiye Futbol Federasyonu, yalnızca futbol branşıyla ilgili bir federasyondur, sporun genel örgütlenmesi için kurulan ilk ulusal kurum değildir.",
+          "Türkiye Milli Olimpiyat Komitesi, olimpik hareketle ilgili bir kurumdur, Cumhuriyet döneminin sporu örgütleyen ilk resmi kurumu olarak metinde geçmez.",
+          "Doğru cevap budur; TİCİ (1922-1936), Türkiye'nin ilk resmî ve federatif ulusal spor yönetim örgütü olarak Cumhuriyet döneminde kurulan ilk önemli kurumdur."
+        ]
+      },
+      {
+        "id": "extra48",
+        "question": "Bir toplum içinde bireylerin uymak zorunda oldukları davranış biçimleri ve kurallar bütünü olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+        "options": [
+          "Gelenek",
+          "Ahlak",
+          "Hukuk",
+          "Görgü",
+          "Kültür"
+        ],
+        "correctIndex": 1,
+        "explanation": "Metinde ahlak kuralları, 'bir toplumda kişilerin uymak zorunda olduğu davranış biçimleri' olarak tanımlanmıştır; bu tanım soruyla birebir örtüşür. Ahlak kurallarının ihlali vicdan azabı (sübjektif ahlak) ya da toplumsal kınama (objektif ahlak) gibi manevi sonuçlar doğurur.",
+        "optionNotes": [
+          "Gelenek, bir toplumun nesilden nesile aktardığı alışkanlık ve uygulamalardır; metindeki 'uymak zorunda olunan davranış biçimleri' tanımı doğrudan ahlaka aittir.",
+          "Doğru cevap budur; metinde ahlak kuralları tam olarak 'bir toplumda kişilerin uymak zorunda olduğu davranış biçimleri' şeklinde tanımlanmıştır.",
+          "Hukuk, devlet otoritesi tarafından konulan ve cebren uygulanan kurallar bütünüdür; bu soruda tanımlanan manevi nitelikli davranış kuralları değil, maddi yaptırımlı kurallardır.",
+          "Görgü, toplumun gelenek ve törenlerinden doğan, kınama/ayıplama ile sonuçlanan davranış kalıplarıdır; metindeki tanım doğrudan ahlak kurallarına atfedilmiştir.",
+          "Kültür, bir toplumun maddi ve manevi değerlerinin bütününü ifade eden çok daha geniş bir kavramdır; bu spesifik tanımın karşılığı değildir."
+        ]
+      },
+      {
+        "id": "extra49",
+        "question": "Spor yönetiminde iletişim araçları, kulüp ve kurumların hedef kitleleriyle etkili iletişim kurmasında önemli rol oynar. Buna göre aşağıdakilerden hangisi görsel ve işitsel iletişim araçlarından biri değildir?",
+        "options": [
+          "Televizyon",
+          "Video",
+          "Sinema",
+          "Radyo",
+          "Afiş"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 4'teki sınıflandırmaya göre spor kulüplerinin kullandığı iletişim araçları dört grupta ele alınır: yazılı araçlar (gazete, afiş, broşür, dergi, kitap), sözlü araçlar, görsel ve işitsel araçlar (radyo, televizyon, film, internet vb.) ve sosyal medya araçları. Afiş bu sınıflandırmada görsel-işitsel değil, yazılı iletişim araçları grubunda yer alır; diğer dört seçenek (televizyon, video, sinema, radyo) ise görsel ve/veya işitsel nitelikte araçlardır.",
+        "optionNotes": [
+          "Televizyon görsel ve işitsel bir araçtır, metinde bu grupta sayılmıştır.",
+          "Video görüntü ve ses içeren bir araç olarak görsel-işitsel araçlar kapsamında değerlendirilir.",
+          "Sinema (film), metinde doğrudan görsel ve işitsel araçlar arasında 'film' olarak sayılmıştır.",
+          "Radyo işitsel bir araç olup görsel-işitsel araçlar grubunda yer alır.",
+          "Doğru cevap: Afiş, metinde görsel-işitsel değil 'yazılı araçlar' grubunda (gazete, broşür, dergi, kitap ile birlikte) sınıflandırılmıştır."
+        ]
+      },
+      {
+        "id": "extra50",
+        "question": "Spor yönetiminde yönetici ve lider kavramları birbirinden farklı özellikler taşır. Buna göre aşağıdaki ifadelerden hangileri yönetici ve lider arasındaki farkları doğru şekilde açıklamaktadır? I. Yönetici daha çok mevcut düzeni sürdürmeye, lider ise değişim ve gelişim sağlamaya odaklanır. II. Yönetici yetkisini bulunduğu makamdan, lider ise etkisini kişisel özelliklerinden alır. III. Yönetici kurallara bağlı hareket eder, lider ise insanları motive ederek yönlendirir.",
+        "options": [
+          "Yalnız I",
+          "I ve II",
+          "I ve III",
+          "II ve III",
+          "I, II ve III"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 3'teki Lider ve Yönetici Arasındaki Farklar bölümüne göre yönetici yetkisini bulunduğu makamdan alır ve belirlenmiş kurallar çerçevesinde hareket eder; mevcut düzeni sürdürür (idarecidir, statükoyu kabul eder). Lider ise etkisini kişisel özelliklerinden alır, değişim ve gelişim sağlar (yenilikçidir, geliştirir) ve insanları motive ederek yönlendirir. Bu nedenle I, II ve III ifadelerinin üçü de metinle örtüşmektedir.",
+        "optionNotes": [
+          "Yalnız I eksik bir seçimdir; II ve III de metindeki yönetici-lider farklarıyla örtüşen doğru ifadelerdir.",
+          "I ve II doğru olsa da III'ün (kurallara bağlılık/motivasyon farkı) dışarıda bırakılması bu seçeneği eksik kılar.",
+          "I ve III doğru olsa da II'nin (yetki-etki kaynağı farkı) dışarıda bırakılması eksik bir seçimdir.",
+          "II ve III doğru olsa da I'in (sürdürme-değişim farkı; metinde 'yönetici sürdürür, lider geliştirir' olarak geçer) dışarıda bırakılması eksik bir seçimdir.",
+          "Doğru cevap: I, II ve III ifadelerinin üçü de metindeki yönetici-lider ayrımıyla (yetki kaynağı, kurallara bağlılık/motivasyon, sürdürme/değişim) tam olarak örtüşmektedir."
+        ]
+      },
+      {
+        "id": "extra51",
+        "question": "Spor yönetiminin temel süreçlerinden biri olan yöneltme, çalışanların ve sporcuların belirlenen hedeflere ulaşmaları için motive edilmesi ve yönlendirilmesini kapsar. Buna göre yöneltme ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+        "options": [
+          "Çalışanları ve sporcuları hedeflere ulaşmaları için motive etmeyi içerir.",
+          "İletişim, liderlik ve motivasyon unsurlarını kapsar.",
+          "Personelin görevlerini etkin şekilde yerine getirmesine yardımcı olur.",
+          "Örgüt içinde koordinasyonu ve iş birliğini artırmaya katkı sağlar.",
+          "Kurumun amaç ve hedeflerini belirleme sürecidir."
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 1'e göre yöneltme (yürütme), planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesi, astların motive edilmesi ve yönlendirilmesidir; iletişim, liderlik ve motivasyonu kapsar. 'Kurumun amaç ve hedeflerini belirleme süreci' ise metinde doğrudan planlamanın tanımıdır ('Planlama; ileriyi görmek... işletme amaçlarının belirlenmesiyle başlar'), yöneltmenin değil. Bu nedenle bu ifade yöneltme için yanlıştır.",
+        "optionNotes": [
+          "Doğru bir ifadedir; yöneltmenin temel amacı çalışanları/sporcuları hedeflere motive etmektir.",
+          "Doğru bir ifadedir; metinde yöneltmenin astlarla iletişim kurma, liderlik yoluyla teşvik etme ve motive etme unsurlarını içerdiği belirtilir.",
+          "Doğru bir ifadedir; metinde yöneltme 'personelin görevlerini yapmasını sağlama işlevi' olarak özetlenir.",
+          "Doğru bir ifadedir; yöneltme sürecinde kurulan iletişim ve liderlik ilişkisi dolaylı olarak iş birliğini destekler.",
+          "Doğru cevap (yanlış ifade): Bu tanım metinde yöneltmeye değil planlamaya aittir, dolayısıyla yöneltme için yanlıştır."
+        ]
+      },
+      {
+        "id": "extra52",
+        "question": "Yönetim bilimi içerisinde yer alan bürokrasi yaklaşımı, örgütlerde işlerin kurallar, yetki hiyerarşisi ve yazılı prosedürler doğrultusunda yürütülmesini savunan bir yaklaşımdır. Buna göre bürokrasi yaklaşımının öncüsü aşağıdakilerden hangisidir?",
+        "options": [
+          "Frederick W. Taylor",
+          "Henri Fayol",
+          "Max Weber",
+          "Elton Mayo",
+          "Peter Drucker"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1'e göre Klasik Yönetim Yaklaşımı içindeki üç temel yaklaşımdan biri olan Bürokrasi Yaklaşımı'nın öncüsü Alman sosyolog Max Weber'dir; Weber'e göre bürokratik örgütlerde aşırı iş bölümü, merkezileşmiş otorite ve katı kurallara kesin itaat söz konusudur.",
+        "optionNotes": [
+          "Frederick W. Taylor, Bilimsel Yönetim Yaklaşımı'nın (Taylorizm) öncüsüdür, bürokrasi yaklaşımının değil.",
+          "Henri Fayol, Yönetim Süreci (Yönetsel) Yaklaşımı'nın öncüsüdür ve 14 yönetim ilkesini ortaya koymuştur, bürokrasiyle ilgili değildir.",
+          "Doğru cevap: Metinde bürokrasi yaklaşımının öncüsü olarak Max Weber açıkça belirtilmiştir.",
+          "Elton Mayo, Neo-Klasik (Davranışsal) Yaklaşım'ın gelişimine Hawthorne deneyleriyle öncülük etmiştir, bürokrasiyle ilgisi yoktur.",
+          "Peter Drucker, metinde bürokrasi yaklaşımıyla ilişkilendirilmemiştir."
+        ]
+      },
+      {
+        "id": "extra53",
+        "question": "Örgütlerde etkili iletişim, bireylerin birbirlerini doğru anlamaları ve iş birliği içinde çalışmaları açısından önemlidir. Buna göre aşağıdakilerden hangisi örgütlerde bireyler arasındaki iletişimi engelleyen faktörlerden biri değildir?",
+        "options": [
+          "Önyargılı davranışlar",
+          "Yanlış ve eksik bilgi aktarımı",
+          "İletişim kanallarının yetersiz olması",
+          "Etkili geri bildirim yapılması",
+          "Kişiler arası güven eksikliği"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 4'teki iletişim engelleri sınıflandırmasına göre örgütsel engeller arasında 'geri-beslenme yetersizliği' sayılır; yani geri bildirimin yetersiz olması bir engeldir, etkili/yeterli geri bildirim yapılması ise tam tersine iletişimi kolaylaştırır, engellemez. Önyargı, yanlış/eksik bilgi aktarımı, iletişim kanallarının yetersizliği ve güven eksikliği ise metinde sayılan gerçek iletişim engelleridir.",
+        "optionNotes": [
+          "Metinde psiko-sosyal iletişim engelleri arasında 'önyargılar' olarak sayılmıştır, gerçek bir engeldir.",
+          "Mesajın doğru iletilmesini bozan, iletişimi engelleyen bir faktördür.",
+          "Fiziksel ve teknik engeller arasında kanallardan kaynaklanan bozukluklar olarak sayılmıştır.",
+          "Doğru cevap: Metinde tam tersi (geri beslenme yetersizliği) bir engel olarak sayılmıştır; etkili geri bildirim ise iletişimi kolaylaştırıcı bir unsurdur, engel değildir.",
+          "Güven eksikliği, iletişimi zorlaştıran psiko-sosyal/diğer engeller arasında değerlendirilen bir faktördür."
+        ]
+      },
+      {
+        "id": "extra54",
+        "question": "Sporcunun bir spor takımında yer alması, birlikte başarı elde etmesi, takım arkadaşlarıyla dayanışma ve iş birliği içinde olması; moral ve motivasyonunun yükselmesine katkı sağlar. Bu durum Abraham Maslow’un ihtiyaçlar hiyerarşisinde aşağıdaki ihtiyaçlardan hangisi ile ifade edilir?",
+        "options": [
+          "Sosyal (ait olma ve sevgi) ihtiyaçları",
+          "Fizyolojik ihtiyaçlar",
+          "Güvenlik ihtiyaçları",
+          "Saygı (değer verilme) ihtiyacı",
+          "Kendini gerçekleştirme ihtiyacı"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 2'deki Maslow İhtiyaçlar Hiyerarşisi'ne göre üçüncü düzeyde bağlanma, aidiyet, sevme ve sevilme ihtiyacı yer alır; metinde doğrudan örnek olarak 'bir sporcunun takımına ait olması ve takım arkadaşlarıyla dayanışması bu düzeye karşılık gelir' denilmektedir. Soruda tarif edilen durum bu sosyal ihtiyaç düzeyiyle örtüşmektedir.",
+        "optionNotes": [
+          "Doğru cevap: Metinde bu düzey, tam olarak sporcunun takımına ait olması ve dayanışmasıyla örneklendirilmiştir.",
+          "Hiyerarşinin en temelinde yer alan oksijen, yeme, içme gibi ihtiyaçlardır; takım dayanışmasıyla ilgisi yoktur.",
+          "Can ve mal güvenliği, iş güvenliği gibi ihtiyaçlardır; takım arkadaşlığıyla ilgili düzey değildir.",
+          "Özgüven, başarıyla övünme, takdir edilme gibi dördüncü düzey ihtiyaçlardır; sorudaki dayanışma/aidiyet tanımından farklıdır.",
+          "Hiyerarşinin en üst düzeyidir, bireyin kendi potansiyelini gerçekleştirmesiyle ilgilidir, takım dayanışmasıyla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra55",
+        "question": "Bir spor kulübünün ismi, sportif karakteri, felsefesi, forma renkleri ve logosu gibi unsurlarının belirlenmesi ve bu çalışmaların yürütülmesi halkla ilişkiler faaliyetleri kapsamında değerlendirilir. Buna göre bu çalışmalar halkla ilişkilerin aşağıdaki faaliyet alanlarından hangisini kapsamaktadır?",
+        "options": [
+          "Kriz yönetimi",
+          "Kurumsal kimlik oluşturma",
+          "Medya ilişkileri",
+          "Sponsorluk yönetimi",
+          "Reklam faaliyetleri"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 4'teki halkla ilişkiler faaliyet alanları sınıflandırmasına göre kulüp ismi, forma renk ve logosu gibi unsurların belirlenmesi 'sponsorluk ve kurumsal kimlik çalışmaları' başlığı altında, yani kurumsal kimlik oluşturma faaliyeti kapsamında ele alınır.",
+        "optionNotes": [
+          "Beklenmedik olumsuz durumların (örn. pandemi nedeniyle maç iptali) yönetilmesiyle ilgilidir, isim/logo belirlemeyle ilgili değildir.",
+          "Doğru cevap: Metinde kulüp ismi, forma rengi ve logosu gibi unsurlar doğrudan bu faaliyet alanı kapsamında sayılmıştır.",
+          "Basın bültenleri, gazeteci ve editörlerle iletişimle ilgilidir, isim/logo belirleme süreciyle ilgili değildir.",
+          "Finansal destek ilişkilerini kapsar; soruda tarif edilen isim/logo/felsefe belirleme işi doğrudan kurumsal kimliğe aittir.",
+          "Ürün/hizmet tanıtımı amaçlı mesaj faaliyetleridir, kulüp kimliği oluşturma sürecinin kendisi değildir."
+        ]
+      },
+      {
+        "id": "extra56",
+        "question": "Halkla ilişkiler kavramı zaman içerisinde toplumsal, teknolojik ve ekonomik gelişmelerin etkisiyle değişim göstermiştir. Buna göre aşağıdakilerden hangisi halkla ilişkiler kavramının değişiminde etkili olan faktörlerden biri değildir?",
+        "options": [
+          "Teknolojik gelişmeler",
+          "Kitle iletişim araçlarının gelişmesi",
+          "Demokratikleşme süreci",
+          "Toplumsal değişim ve gelişmeler",
+          "Bireylerin fiziksel performans düzeyi"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 4'e göre halkla ilişkiler kavramının değişiminde etkili olan faktörler toplumsal, ekonomik, teknolojik, siyasi (demokratikleşme), hukuki ve sosyo-kültürel gelişmeler ile kitle iletişim araçlarının gelişmesidir. 'Bireylerin fiziksel performans düzeyi' ise bu bağlamda metinde hiç geçmeyen, sporcu performansıyla ilgili konu dışı bir seçenektir.",
+        "optionNotes": [
+          "Metinde halkla ilişkiler tanımlarındaki farklılığın nedenlerinden biri olarak sayılmıştır.",
+          "Halkla ilişkilerin gelişiminde doğrudan etkili olan bir faktör olarak metinde vurgulanmıştır.",
+          "Metindeki 'siyasi gelişmeler' kapsamında halkla ilişkilerin değişimini etkileyen faktörlerden biridir.",
+          "Metinde halkla ilişkiler tanımının zaman içinde değişmesinin temel nedenlerinden biri olarak sayılmıştır.",
+          "Doğru cevap: Bu, halkla ilişkiler kavramının tarihsel değişimiyle ilgili bir faktör olarak metinde hiç geçmeyen, ilgisiz bir seçenektir."
+        ]
+      },
+      {
+        "id": "extra57",
+        "question": "Kuruluşların hedef kitleleriyle etkili iletişim kurmalarını amaçlayan halkla ilişkiler (public relations) kavramı modern anlamda ilk kez belirli bir dönemde ortaya çıkmıştır. Buna göre halkla ilişkiler kavramı ilk kez aşağıdaki yıllardan hangisinde kullanılmaya başlanmıştır?",
+        "options": [
+          "1807",
+          "1850",
+          "1905",
+          "1923",
+          "1932"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 4'teki tam metne göre 'Halkla ilişkiler deyimini ilk olarak ABD'de 1807 yılında Thomas Jefferson kullanmıştır.' Bu nedenle halkla ilişkiler kavramının ilk kullanıldığı yıl 1807'dir.",
+        "optionNotes": [
+          "Doğru cevap: Metinde halkla ilişkiler deyiminin ilk kez Thomas Jefferson tarafından 1807'de kullanıldığı açıkça belirtilmiştir.",
+          "Metinde bu tarihle ilişkilendirilen bir halkla ilişkiler gelişmesi yoktur.",
+          "Metinde halkla ilişkiler kavramının ilk kullanımıyla ilişkilendirilen bir tarih değildir.",
+          "Bu tarih, Edward Bernays'in 'Crystallizing Public Opinion' adlı kitabının yayımlandığı ve ders kitabı olarak okutulmaya başladığı yıldır, kavramın ilk kullanıldığı yıl değildir.",
+          "Metinde bu tarihle ilişkilendirilen bir halkla ilişkiler gelişmesi yoktur."
+        ]
+      },
+      {
+        "id": "extra58",
+        "question": "Bir liderin tüm çalışanlara örnek olacak şekilde davranması, açık ve tutarlı olması, sözleri ile davranışlarının uyum içinde olması aşağıdaki liderlik özelliklerinden hangisi ile ilgilidir?",
+        "options": [
+          "Karizma",
+          "Tutarlılık ve güvenilirlik",
+          "Otoriterlik",
+          "Risk alma",
+          "Yenilikçilik"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 3'teki liderde bulunması gereken özellikler arasında 'Güvenilir Olma' ve 'Şahsi Bütünlük' başlıkları, liderin sözleri ile davranışlarının uyum içinde olmasını, dürüst ve tutarlı davranmasını, sporculara örnek oluşturmasını tanımlar. Soruda tarif edilen davranış doğrudan tutarlılık ve güvenilirlik özelliğine karşılık gelir.",
+        "optionNotes": [
+          "Olağanüstü özelliklerle takipçileri sorgusuz etkileme becerisidir, tutarlılık/güvenilirlikten farklı bir özelliktir.",
+          "Doğru cevap: Metindeki 'güvenilir olma' ve 'şahsi bütünlük' tanımlarıyla (söz-davranış uyumu, örnek olma) birebir örtüşür.",
+          "Kararları tek başına alma ve yetki paylaşmama ile ilgilidir, örnek olma/tutarlılıkla ilgili değildir.",
+          "Liderin risk ve sorumluluk üstlenmesiyle ilgilidir, söz-davranış uyumu tanımına karşılık gelmez.",
+          "Değişime açık olma ve yeni fikirler üretmekle ilgilidir, bu sorudaki tutarlılık tanımından farklıdır."
+        ]
+      },
+      {
+        "id": "extra59",
+        "question": "Yönetim ve liderlik literatüründe yer alan karizmatik liderlik kavramı, liderin sahip olduğu olağanüstü özellikler sayesinde takipçilerini etkileyebilmesi ve onları yönlendirebilmesi ile açıklanır. Buna göre karizmatik liderlikten ilk bahseden kişi aşağıdakilerden hangisidir?",
+        "options": [
+          "Frederick W. Taylor",
+          "Henri Fayol",
+          "Max Weber",
+          "Elton Mayo",
+          "Chester Barnard"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 3'e göre 'Max Weber'in ilk kez bahsettiği karizmatik liderlik, izleyicileri sorgusuz sualsiz peşinden sürükleyebilme becerisine dayanır.' Bu nedenle karizmatik liderlikten ilk bahseden kişi Max Weber'dir.",
+        "optionNotes": [
+          "Bilimsel Yönetim Yaklaşımı'nın öncüsüdür, karizmatik liderlikle ilgili değildir.",
+          "Yönetim Süreci Yaklaşımı'nın öncüsüdür, karizmatik liderlik kavramıyla ilişkilendirilmemiştir.",
+          "Doğru cevap: Metinde karizmatik liderlikten ilk bahseden kişi olarak Max Weber açıkça belirtilmiştir.",
+          "Hawthorne deneyleriyle Neo-Klasik Yaklaşım'ın gelişimine öncülük etmiştir, karizmatik liderlikle ilgisi yoktur.",
+          "Metinde karizmatik liderlik bağlamında anılan bir isim değildir."
+        ]
+      },
+      {
+        "id": "extra60",
+        "question": "İnsanların ve kurumların ihtiyaçlarını karşılamak amacıyla üretim faktörlerini bir araya getirerek mal ve hizmet üreten, pazarlayan ve sonunda maddi veya manevi kazanç elde etmeyi amaçlayan iktisadi, teknik ve hukuki birimlere ne ad verilir?",
+        "options": [
+          "Organizasyon",
+          "Kurum",
+          "Dernek",
+          "İşletme",
+          "Sendika"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 2'ye göre işletme, 'kişi ve kurumların ihtiyaçlarını karşılamak üzere, üretim faktörlerini bir araya getirerek mal veya hizmet üreten/pazarlayan ve sonunda maddi ve manevi bir kâr elde etmeyi amaçlayan iktisadi, teknik ve hukuki bir birim' olarak tanımlanır; soru metni bu tanımın neredeyse birebir ifadesidir.",
+        "optionNotes": [
+          "Belirli bir amaç için insan ve kaynakların düzenlenmesi sürecidir, bu spesifik iktisadi/hukuki birim tanımına karşılık gelmez.",
+          "Daha genel ve soyut bir kavramdır; metindeki üretim faktörlerini birleştirip kâr amacı güden birim tanımı doğrudan işletmeye aittir.",
+          "Kâr amacı gütmeyen, ortak amaçlı bir tüzel kişiliktir; tanımdaki 'maddi kazanç elde etme' amacıyla uyuşmaz.",
+          "Doğru cevap: Metindeki işletme tanımıyla birebir örtüşmektedir.",
+          "Çalışanların haklarını korumak amacıyla kurulan bir örgüttür, mal/hizmet üretip pazarlama amacı taşımaz."
+        ]
+      },
+      {
+        "id": "extra61",
+        "question": "Geleceği öngörebilen, ortaya çıkabilecek olumsuzluklara karşı önceden önlem alabilen ve grubun hangi yöne doğru ilerlemesi gerektiğini gösteren liderlik tarzı aşağıdakilerden hangisidir?",
+        "options": [
+          "Otoriter liderlik",
+          "Demokratik liderlik",
+          "Vizyoner liderlik",
+          "Serbest bırakıcı (LİBERAL) liderlik",
+          "Bürokratik liderlik"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 3'e göre 'Vizyoner lider, geleceği okuyarak ona uyum sağlayabilen ya da olası olumsuzluklara karşı önceden önlem alabilen kişidir; nasıl hareket edileceğini göstermez, grubun hangi yöne gitmesi gerektiğini gösterir.' Bu tanım soru metniyle birebir örtüşmektedir.",
+        "optionNotes": [
+          "Kararları tek başına alan, yetki paylaşmayan bir tarzdır, geleceği öngörme tanımıyla ilgili değildir.",
+          "Paylaşımcı karar almaya dayanır, geleceği önceden görme vurgusu taşımaz.",
+          "Doğru cevap: Metindeki tanım bu liderlik tarzıyla birebir örtüşür.",
+          "Gruba karar alma özgürlüğü vermeye dayanır, geleceği öngörme tanımıyla ilgili değildir.",
+          "Kurallara ve yazılı prosedürlere dayanır, metinde bu şekilde tanımlanan bir liderlik tarzı değildir."
+        ]
+      },
+      {
+        "id": "extra62",
+        "question": "Otokratik liderlikte lider, kararları çoğunlukla kendisi alır ve çalışanların karar sürecine katılımı sınırlıdır. Buna göre aşağıdakilerden hangisi otokratik liderliğin sonuçlarından biri olarak kabul edilir?",
+        "options": [
+          "Çalışanların karar süreçlerine aktif katılım göstermesi",
+          "Çalışanların lidere bağımlılığının artması",
+          "Grup üyelerinin yaratıcılığının artması",
+          "Demokratik bir çalışma ortamının oluşması",
+          "Grup içi iletişimin güçlenmesi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 3'e göre otokratik liderlikte 'kurulan bağ lider merkezli ilişkidir' ve 'geçici dahi olsa liderin olmadığı durumlarda sıkıntılar hemen gün yüzüne çıkabilir... bu yüzden lider devamlı görevinin başında olmalıdır'; bu da çalışanların/sporcuların lidere bağımlılığının arttığını gösterir. Aynı bölümde ayrıca bu liderlik tipinde çalışanların yaratıcılığının azaldığı belirtilir; dolayısıyla diğer seçenekler otokratik liderliğin tam tersi sonuçlarını tanımlar.",
+        "optionNotes": [
+          "Metne göre otokratik liderlikte lider kararları tek başına alır, çalışanların düşüncelerini sormaz; bu nedenle aktif katılım otokratik liderliğin bir sonucu değildir.",
+          "Doğru cevap: Metinde kurulan bağın lider merkezli olduğu ve liderin yokluğunda sıkıntı çıkabileceği belirtilerek bağımlılığın arttığı ortaya konur.",
+          "Metne göre otokratik liderlerin yönetimindeki bireylerin yaratıcılık özelliklerinde tam tersine azalma meydana gelmektedir.",
+          "Otokratik liderlik, tanımı itibariyle demokratik ortamın tam tersidir; güç ve karar tek elde toplanır.",
+          "Metne göre otoriter ve aşırı disiplinli liderlik altında güvensizlik baş gösterir ve iletişim güçlenmez, aksine çatışma ve bölünmelere yol açabilir."
+        ]
+      },
+      {
+        "id": "extra63",
+        "question": "Etkili iletişimin önemli unsurlarından biri olan dinleme süreci, belirli aşamalardan oluşur. Buna göre aşağıdakilerden hangisi dinleme sürecinin adımlarından biri değildir?",
+        "options": [
+          "İşitme",
+          "Anlama",
+          "Yorumlama",
+          "Değerlendirme",
+          "Emir verme"
+        ],
+        "correctIndex": 4,
+        "explanation": "Dinleme süreci genel olarak işitme (duyma), anlama, yorumlama ve değerlendirme gibi zihinsel aşamalardan oluşur; bu aşamalar sözcüklerin algılanıp anlamlandırılmasıyla ilgilidir. 'Emir verme' ise dinleme sürecinin bir aşaması değil, yöneltme/yürütme işlevi kapsamında bir yönetim davranışıdır (astlara ne yapmaları gerektiğinin anlatılması); bu nedenle dinleme sürecinin adımlarından biri değildir.",
+        "optionNotes": [
+          "Dinlemenin başlangıç aşaması olup seslerin fiziksel olarak algılanmasıdır.",
+          "Duyulan sözcüklerin ve anlatılmak istenenin zihinsel olarak kavranmasıdır.",
+          "Anlaşılan mesajın bağlamına göre değerlendirilip yorumlanmasıdır.",
+          "Mesajın doğruluğu, önemi ya da geçerliliği konusunda bir yargıya ulaşma aşamasıdır.",
+          "Doğru cevap: Bu bir dinleme aşaması değil, yöneltme işlevi kapsamında astlara talimat verme davranışıdır, dinleme sürecinin bir parçası değildir."
+        ]
+      },
+      {
+        "id": "extra64",
+        "question": "Bilimsel çalışmalarda bilgi elde etmek amacıyla farklı araştırma yöntemleri kullanılmaktadır. Buna göre aşağıdakilerden hangisi araştırma çeşitlerinden biri olarak kabul edilir?",
+        "options": [
+          "etimsel araştırma",
+          "Planlama",
+          "Organizasyon",
+          "Yöneltme",
+          "Denetim"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 2'nin Ar-Ge bölümünde araştırmalar; genel araştırma, uygulamalı araştırma ve alan (özel alan) araştırması olarak sınıflandırılırken, diğer seçenekler olan planlama, organizasyon, yöneltme ve denetim metinde spor/işletme yönetiminin temel süreçleri (fonksiyonları) olarak tanımlanır, bir araştırma türü değildirler. Soru metnindeki 'etimsel araştırma' ifadesi büyük olasılıkla metin çıkarma sürecinde bozulmuş 'Betimsel araştırma' (tanımlayıcı/tasvirsel araştırma) terimine karşılık gelmektedir; bu, bilinen bir araştırma türüdür. Kaynak metinlerde bu seçenekle birebir eşleşme bulunamadığı için cevap, seçeneklerin niteliği (araştırma türü mü, yönetim süreci mi olduğu) üzerinden mantıksal elemeyle belirlenmiştir; bu nedenle bu soruda emin olunamayan bir unsur bulunduğu şeffaflıkla belirtilir.",
+        "optionNotes": [
+          "Doğru cevap (en güçlü desteklenen seçenek): Bu ifade büyük olasılıkla 'Betimsel araştırma' terimine karşılık gelmektedir ve diğer dört seçenekten farklı olarak gerçekten bir araştırma türüdür.",
+          "Bir araştırma türü değil, yönetimin temel süreçlerinden (fonksiyonlarından) biridir.",
+          "Bir araştırma türü değil, yönetimin örgütleme sürecini ifade eden temel bir fonksiyondur.",
+          "Bir araştırma türü değil, yönetimin yürütme/yöneltme sürecini ifade eden bir fonksiyondur.",
+          "Bir araştırma türü değil, yönetimin denetleme (kontrol) sürecini ifade eden bir fonksiyondur."
+        ]
+      },
+      {
+        "id": "extra65",
+        "question": "Spor yönetimi ve organizasyonlarında gelişim süreci farklı alanlarda gerçekleştirilebilir. Buna göre aşağıdakilerden hangisi geliştirme çeşitlerinden biri değildir?",
+        "options": [
+          "Personel geliştirme",
+          "Örgüt geliştirme",
+          "Yönetim geliştirme",
+          "Ürün geliştirme",
+          "Denetim geliştirme"
+        ],
+        "correctIndex": 4,
+        "explanation": "İşletme/yönetim literatüründe gelişim süreci genellikle personel geliştirme (çalışanların eğitimi), örgüt geliştirme (örgütsel yapı ve süreçlerin iyileştirilmesi), yönetim geliştirme (yöneticilerin yetkinliklerinin artırılması) ve ürün geliştirme (Ar-Ge yoluyla yeni/iyileştirilmiş ürün ve hizmetler ortaya çıkarma) başlıkları altında ele alınır. Denetim ise yönetimin temel süreçlerinden biri olan kontrol işlevidir ve bir 'geliştirme çeşidi' olarak tanımlanmaz. Bu sınıflandırma sağlanan ünite metinlerinde birebir bu başlıklarla yer almadığından, cevap genel yönetim bilgisine ve seçeneklerin niteliğine dayanan mantıksal elemeyle belirlenmiştir; bu nedenle bu soruda tam kaynak doğrulaması yapılamadığı şeffaflıkla belirtilir.",
+        "optionNotes": [
+          "Çalışanların eğitim ve yetkinliklerinin geliştirilmesini ifade eden, yaygın olarak kabul edilen bir gelişim türüdür.",
+          "Örgütün yapısal ve süreçsel olarak iyileştirilmesini ifade eden bilinen bir gelişim türüdür.",
+          "Yöneticilerin bilgi ve becerilerinin geliştirilmesini ifade eden bilinen bir gelişim türüdür.",
+          "Yeni veya iyileştirilmiş ürün/hizmetlerin ortaya çıkarılmasını ifade eden, Ar-Ge ile ilişkili bilinen bir gelişim türüdür.",
+          "Doğru cevap: Denetim, yönetimin temel süreçlerinden (kontrol fonksiyonu) biridir ve literatürde bir 'geliştirme çeşidi' olarak sınıflandırılmaz, bu nedenle listedeki diğer gerçek gelişim türlerinden farklıdır."
+        ]
+      },
+      {
+        "id": "extra66",
+        "question": "Bir spor kurumunda personelin işinde daha başarılı olması için yönetimin sürekli hizmet içi eğitim programları düzenlemesi ve gelişim olanakları sağlaması aşağıdaki spor yönetimi ilkelerinden hangisi ile ilgilidir?",
+        "options": [
+          "Yetki devri ilkesi",
+          "Uzmanlaşma ilkesi",
+          "Personelin geliştirilmesi ilkesi",
+          "Hiyerarşi ilkesi",
+          "Denetim ilkesi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1'deki spor yönetimi ilkelerinden 'Yetiştirme' ilkesine göre, personelin başarılı olabilmesi için yönetimin sürekli hizmet içi eğitim olanakları sunması gerekir; spor ortamındaki değişen kurallar ve bilimsel gelişmeler bunu zorunlu kılar. Soru metnindeki 'sürekli hizmet içi eğitim programları düzenleme ve gelişim olanakları sağlama' tanımı, seçenekler arasında en doğrudan 'personelin geliştirilmesi ilkesi' ile örtüşmektedir.",
+        "optionNotes": [
+          "Üst yönetimin bazı yetkilerini astlara devretmesiyle ilgilidir, hizmet içi eğitimle ilgili değildir.",
+          "Bir işe o işi yapabilecek yeterlikte kişilerin alınmasıyla (yeterlik ilkesiyle) ilgilidir, sürekli eğitim sağlamaktan farklıdır.",
+          "Doğru cevap: Metindeki yetiştirme ilkesinin tanımı (sürekli hizmet içi eğitim ve gelişim olanakları sunma) ile örtüşür.",
+          "Örgüt içindeki kademe ve yetki sıralamasıyla ilgilidir, eğitim/gelişim sağlamayla ilgili değildir.",
+          "Uygulama sonuçlarının amaçlarla karşılaştırılmasıyla ilgilidir, personel eğitimi sağlamakla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra67",
+        "question": "Belli amaçlar doğrultusunda hedeflere ulaşmak için sistemli ve bilinçli bir şekilde insanları etkileme ve yönlendirme becerisi ------------- olarak tanımlanır. Boş bırakılan yere aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "options": [
+          "Yönetim",
+          "Liderlik",
+          "Organizasyon",
+          "Denetim",
+          "Planlama"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 3'teki liderlik tanımlarına göre liderlik, 'belirlenmiş şartlar kapsamında bireysel ya da ekip hedeflerine ulaşmak için grup üyelerinin uygulamalarını etkileme ve ivme kazandırma süreci'dir; Terry (1960) ise liderliği 'grup amaçlarını gönüllü olarak gerçekleştirmek için insanları etkileme eylemi' olarak tanımlamıştır. Soru metnindeki 'belli amaçlar doğrultusunda insanları etkileme ve yönlendirme becerisi' tanımı doğrudan liderliğe karşılık gelir.",
+        "optionNotes": [
+          "Daha çok mevcut düzenin sürdürülmesi, kurallara bağlı hareket etme ve makama dayalı yetki kullanımıyla ilgilidir; sorudaki 'insanları etkileme becerisi' tanımı liderliğe aittir.",
+          "Doğru cevap: Metindeki liderlik tanımlarıyla (insanları etkileme ve yönlendirme) birebir örtüşmektedir.",
+          "İnsan, araç ve kaynakların düzenlenmesi, iş bölümü ve yetki-sorumlulukların belirlenmesi sürecidir, insanları etkileme becerisi tanımı değildir.",
+          "Uygulama sonuçlarının amaçlarla karşılaştırılması sürecidir, insanları etkileme becerisiyle ilgili değildir.",
+          "İleriyi görme ve işlerin önceden kararlaştırılmasıdır, insanları etkileme becerisi tanımına karşılık gelmez."
+        ]
+      },
+      {
+        "id": "extra68",
+        "question": "2022 yılında yürürlüğe giren, Türkiye’de spor kulüplerinin kurulması, faaliyet göstermesi ve denetlenmesine ilişkin esaslar belirli bir kanunla düzenlenmiştir. Buna göre spor kulüplerinin kuruluşuna dayanak oluşturan kanun aşağıdakilerden hangisidir?",
+        "options": [
+          "Türk Medeni Kanunu",
+          "Umumi Hıfzıssıhha Kanunu",
+          "Dernekler Kanunu",
+          "Gençlik ve Spor Hizmetleri Kanunu",
+          "Spor Kulüpleri ve Spor Federasyonları Kanunu"
+        ],
+        "correctIndex": 4,
+        "explanation": "2022 yılında yürürlüğe giren 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanunu, Türkiye'de spor kulüplerinin kurulması, faaliyet göstermesi ve denetlenmesine ilişkin esasları özel olarak düzenleyen kanundur. Ünite 5'teki metinde spor kulüplerinin tüzel kişilik kazanmasının eskiden 5253 sayılı Dernekler Kanunu'na dayandığı belirtilse de, soruda açıkça belirtilen '2022 yılında yürürlüğe giren' ve spor kulüplerine özgü düzenleme, Spor Kulüpleri ve Spor Federasyonları Kanunu'na işaret etmektedir.",
+        "optionNotes": [
+          "Kişi ve hak kavramlarını genel olarak düzenler, 2022'de yürürlüğe giren spor kulüplerine özgü bir kanun değildir.",
+          "Genel sağlık düzenlemeleriyle ilgili çok daha eski bir kanundur, spor kulüpleriyle ilgili özel bir düzenleme değildir.",
+          "Spor kulüplerinin dernek olarak tüzel kişilik kazanmasına eskiden beri dayanak olan 5253 sayılı kanundur, ancak 2022'de yürürlüğe giren özel düzenleme değildir.",
+          "Spor Genel Müdürlüğü'nün (Spor Hizmetleri Genel Müdürlüğü) görev ve teşkilat yapısını düzenleyen farklı bir kanundur, kulüplerin kuruluşuna dayanak oluşturan 2022 kanunu değildir.",
+          "Doğru cevap: 2022'de yürürlüğe giren, Türkiye'de spor kulüplerinin kuruluş, faaliyet ve denetim esaslarını özel olarak düzenleyen kanundur."
         ]
       }
     ]
@@ -8361,6 +15089,1468 @@ window.COURSES = [
               "Antrenmanın hedefleri, metinde yöntem seçiminde dikkate alınması gerektiği açıkça belirtilen ilk unsurdur."
             ]
           }
+        ]
+      }
+    ],
+    "extraQuestions": [
+      {
+        "id": "extra1",
+        "question": "Hareket eğitimi, kim tarafından ortaya atılmıştır?",
+        "options": [
+          "Rudolf Laban",
+          "Roger Caillois",
+          "Jean Piaget",
+          "Abraham Maslow",
+          "John Dewey"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 3 metninde hareket eğitimi yaklaşımının doğrudan \"Rudolf Laban tarafından geliştirilen\" bir yaklaşım olduğu belirtilir. Diğer isimler (Caillois oyun sınıflaması, Piaget bilişsel gelişim, Maslow ihtiyaçlar hiyerarşisi, Dewey araştırma-inceleme yöntemi) hareket eğitiminin kurucusu değil, farklı alanlarla ilişkili düşünürlerdir.",
+        "optionNotes": [
+          "Doğru: Metinde hareket eğitimi yaklaşımı açıkça Rudolf Laban'a atfedilmiştir.",
+          "Yanlış: Roger Caillois oyunların sınıflandırılmasıyla (Agon, Alea, Mimicr, İlinx) ilişkilidir, hareket eğitimiyle değil.",
+          "Yanlış: Jean Piaget bilişsel gelişim dönemleriyle (duyusal motor, işlem öncesi vb.) ilişkilidir, hareket eğitiminin kurucusu değildir.",
+          "Yanlış: Abraham Maslow ihtiyaçlar hiyerarşisiyle tanınan bir psikologdur, hareket eğitimiyle ilgisi metinde geçmez.",
+          "Yanlış: John Dewey araştırma-inceleme yoluyla öğretme stratejisiyle ilişkilendirilir, hareket eğitiminin kurucusu değildir."
+        ]
+      },
+      {
+        "id": "extra2",
+        "question": "Uyaranın verilmesi ile tepkinin başlangıcı arasındaki zaman aşağıdakilerden hangisidir?",
+        "options": [
+          "Seçici reaksiyon",
+          "Dikkat",
+          "Reaksiyon zamanı",
+          "Öğrenme",
+          "Motor Beceri"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 2 metninde bu tanım birebir verilir: \"Uyaranın verilmesi ile tepkinin başlangıcı arasındaki süreye reaksiyon zamanı denir.\" Seçici reaksiyon zamanı bunun özel bir türüdür (birden fazla uyaran-tepki eşleşmesi), ama sorudaki genel tanım doğrudan reaksiyon zamanına aittir.",
+        "optionNotes": [
+          "Yanlış: Seçici reaksiyon zamanı, birden fazla uyaran ve her birine özgü ayrı tepki durumunu tanımlar; bu sorudaki genel tanımdan daha spesifiktir.",
+          "Yanlış: Dikkat, birkaç düşünce/nesneden birinin zihin tarafından belirgin şekilde alınmasıdır, zamanla ilgili bir ölçüm değildir.",
+          "Doğru: Metindeki tanım birebir reaksiyon zamanına karşılık gelir.",
+          "Yanlış: Öğrenme, deneyim sonucu davranışta oluşan kalıcı değişikliktir, bir zaman aralığı tanımı değildir.",
+          "Yanlış: Motor beceri, bir amaca yönelik istemli davranış/görevdir, uyaran-tepki arasındaki süreyi tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra3",
+        "question": "2 yaşında olan deniz, bopopter' dediğinde aslında helikopterden bahsediyorsa içinde bulunduğu gelişim dönemi aşağıdakilerden hangisidir?",
+        "options": [
+          "Duyusal Motor",
+          "İşlem Öncesi",
+          "Somut İşlemler",
+          "Soyut İşlemler",
+          "Erken Çocukluk"
+        ],
+        "correctIndex": 1,
+        "explanation": "Piaget'in bilişsel gelişim dönemlerine göre İşlem Öncesi Dönem (2-6 yaş) sembolik/dil kullanımının geliştiği dönemdir; çocuğun bir kelimeyi kendi haliyle (bopopter) üretip nesneye (helikopter) karşılık gelecek şekilde kullanması, sembolik düşüncenin ve dil gelişiminin bir göstergesidir. Duyusal Motor Dönem (0-2 yaş) ise henüz dil öncesi, refleks ve duyu-hareket temelli bir dönem olduğundan, 2 yaşındaki bir çocuğun kelime türetmesi İşlem Öncesi Döneme girmeye başladığını gösterir.",
+        "optionNotes": [
+          "Yanlış: Duyusal Motor Dönem (0-2 yaş) refleksler ve duyu-hareket etkileşimiyle tanımlanır, henüz sembolik dil kullanımı bu dönemin karakteristiği değildir.",
+          "Doğru: İşlem Öncesi Dönem (2-6 yaş), sembolik düşünce ve dil gelişiminin öne çıktığı dönemdir; 2 yaşındaki bir çocuğun kendi kelimesini türetmesi bu döneme işaret eder.",
+          "Yanlış: Somut İşlemler Dönemi (7-11 yaş) mantıksal işlemler ve nesne korunumu ile ilgilidir, 2 yaşındaki bir çocuk için uygun değildir.",
+          "Yanlış: Soyut İşlemler Dönemi (12 yaş ve üzeri) yetişkin düzeyinde soyut düşünceyi kapsar, bu yaşla uyuşmaz.",
+          "Yanlış: \"Erken Çocukluk\" Piaget'in bilişsel gelişim dönemlerinden biri değildir; metinde bu terim psikomotor/duyuşsal gelişim bağlamında (2-5 yaş) kullanılır, soru ise bilişsel gelişim dönemini sormaktadır."
+        ]
+      },
+      {
+        "id": "extra4",
+        "question": "Aşağıdakilerden hangisi Sosyal Bilişsel Öğrenme Kuramcılarından biridir? A. Ausubel B. Bruner C. Gagne D. Bandura E. Skinner",
+        "options": [
+          "Ausubel",
+          "Bruner",
+          "Gagne",
+          "Bandura",
+          "Skinner"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 6 metninde sosyal-bilişsel öğrenme kuramı doğrudan \"Bandura'nın sosyal-bilişsel öğrenme kuramı\" olarak tanımlanır ve gözlem yoluyla öğrenme (dikkat, hatırda tutma, davranışı meydana getirme, güdüleme) bu kurama atfedilir.",
+        "optionNotes": [
+          "Yanlış: Ausubel, sunuş yoluyla öğretme stratejisiyle ilişkilendirilir, sosyal-bilişsel kuramcı değildir.",
+          "Yanlış: Bruner, buluş (keşfetme) yoluyla öğretme stratejisiyle ilişkilendirilir, sosyal-bilişsel kuramcı değildir.",
+          "Yanlış: Gagne metinde öğretme stratejileri/kuramları arasında sosyal-bilişsel kuramla ilişkilendirilmemiştir.",
+          "Doğru: Bandura, metinde sosyal-bilişsel öğrenme kuramının kurucusu olarak doğrudan belirtilir.",
+          "Yanlış: Skinner, edimsel koşullama ile davranışçı öğrenme kuramcıları arasında sayılır, sosyal-bilişsel kuramcı değildir."
+        ]
+      },
+      {
+        "id": "extra5",
+        "question": "I. Yetkinlik II. Özgüven III. Bağ kurma IV. Umursama – umursanma V. Karakter Yukarıdakilerden hangileri bireylerin spor ortamında edineceği kazanımlar arasında yer alır?",
+        "options": [
+          "I – II",
+          "II – III – IV",
+          "III – IV",
+          "I – II – III – IV",
+          "I – II – III – IV – V"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 1 metninde antrenörlüğün amaçları olan \"5C\" modeli tam olarak bu beş kazanımı sayar: Yetkinlik (competence), Özgüven (confidence), Bağ kurma (connection), Karakter (character) ve Umursama-umursanma (caring). Bu nedenle beşi birlikte sporcuların bütünsel gelişiminin kazanımlarıdır.",
+        "optionNotes": [
+          "Yetersiz: Yalnızca iki kazanımı içerir, metinde beşi birlikte sayılmıştır.",
+          "Yetersiz: Yetkinlik ve Karakter'i dışarıda bırakır, metindeki 5C modelinin tamamını kapsamaz.",
+          "Yetersiz: Çok fazla kazanımı (Yetkinlik, Özgüven, Karakter) dışarıda bırakır.",
+          "Yetersiz: Karakter (V) eksiktir; metinde 5C modelinin beşinci unsuru olarak açıkça sayılmıştır.",
+          "Doğru: Metinde tanımlanan 5C modeli (Yetkinlik, Özgüven, Bağ kurma, Karakter, Umursama-umursanma) tam olarak bu beş kazanımı kapsar."
+        ]
+      },
+      {
+        "id": "extra6",
+        "question": "Aşağıdakilerden hangisi Süreksiz(Kesikli) Değişkenler arasında yer alır?",
+        "options": [
+          "Medeni durum",
+          "Kilo",
+          "Yıllık gelir",
+          "Sınav puanı",
+          "Boy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 5 metninde süreksiz (kesikli) değişken örnekleri doğrudan \"diploma derecesi, cinsiyet, medeni durum\" olarak verilir. Kilo, yıllık gelir, sınav puanı ve boy ise değerleri arasında sonsuz ara değer bulunabilen, dolayısıyla sürekli (nicel) değişkenlerdir.",
+        "optionNotes": [
+          "Doğru: Metinde medeni durum açıkça süreksiz (kesikli) değişken örneği olarak verilmiştir.",
+          "Yanlış: Kilo, metinde sürekli değişken örneği (boy uzunluğu, ağırlık gibi) olarak sayılmıştır.",
+          "Yanlış: Yıllık gelir, sayısal ve sonsuz ara değer alabilen nicel/sürekli bir değişkendir.",
+          "Yanlış: Sınav puanı, metinde \"akademik başarı puanı\" olarak nicel/sürekli değişken örneği arasında sayılmıştır.",
+          "Yanlış: Boy, metinde doğrudan sürekli değişken örneği (uzunluk) olarak verilmiştir."
+        ]
+      },
+      {
+        "id": "extra7",
+        "question": "Aşağıdakilerden hangisi Öğrenme Yöntemi İle İlgili Faktörlerden biridir?",
+        "options": [
+          "Olgunlaşma",
+          "Geribildirim",
+          "Genel Uyarılmışlık Düzeyi",
+          "Kavramsal gruplandırma",
+          "Algısal ayırt edilebilirlik"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 6 metninde öğretme yöntemiyle ilgili faktörler arasında geribildirim (dönüt) açıkça sayılır: \"Geribildirim (dönüt), öğrenene öğrenme sonucunun bildirilmesidir.\" Olgunlaşma ve genel uyarılmışlık düzeyi öğrenenle ilgili faktörler arasında, kavramsal gruplandırma ve algısal ayırt edilebilirlik ise öğrenme malzemesiyle ilgili faktörler arasında sayılmıştır.",
+        "optionNotes": [
+          "Yanlış: Olgunlaşma, metinde öğrenenle ilgili faktörler arasında sayılmıştır, öğrenme yöntemiyle ilgili değildir.",
+          "Doğru: Geribildirim, metinde doğrudan öğretme yöntemiyle ilgili faktörler arasında sayılmıştır.",
+          "Yanlış: Genel uyarılmışlık düzeyi, metinde öğrenenle ilgili faktörler arasında sayılmıştır.",
+          "Yanlış: Kavramsal gruplandırma, metinde öğrenme malzemesiyle (içerikle) ilgili faktörler arasında sayılmıştır.",
+          "Yanlış: Algısal ayırt edilebilirlik, metinde öğrenme malzemesiyle ilgili faktörler arasında sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra8",
+        "question": "Bir amaca yönelik olarak yapılan ve öğrenilmesi gereken istemli davranış veya görev aşağıdakilerden hangisidir?",
+        "options": [
+          "Seçici reaksiyon",
+          "Zihinsel Beceriler",
+          "Reaksiyon zamanı",
+          "Kesik Beceri",
+          "Motor Beceri"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 2 metninde bu tanım birebir motor beceriye aittir: \"bir amaca yönelik olarak yapılan ve öğrenilmesi gereken istemli davranış veya göreve motor beceri denir.\" Motor beceriyi reflekslerden ayıran temel özellik de istemli olmasıdır.",
+        "optionNotes": [
+          "Yanlış: Seçici reaksiyon, birden fazla uyarana karşı farklı tepkiler verme durumudur, bu genel tanımla ilgili değildir.",
+          "Yanlış: Zihinsel beceriler, başarıyı NE yapıldığının belirlediği beceri türüdür (satranç gibi), bu genel tanımın kendisi değildir.",
+          "Yanlış: Reaksiyon zamanı, uyaran ile tepki arasındaki süredir, bir davranış/görev tanımı değildir.",
+          "Yanlış: Kesik beceri, başı ve sonu belli kısa süreli bir beceri türüdür, bu genel motor beceri tanımının bir alt kategorisidir.",
+          "Doğru: Metindeki tanım birebir motor beceriye karşılık gelir."
+        ]
+      },
+      {
+        "id": "extra9",
+        "question": "Çoğunlukla genler yoluyla belirlenen yani, genotipte bulunan ve çevrenin de etkisiyle canlının dış görünüşüne yansıyan özelliklere ne ad verilir?",
+        "options": [
+          "Fenotip",
+          "Genotip",
+          "Homozigot",
+          "Heterozigot",
+          "Filogeni"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 4 metninde bu tanım birebir fenotipe aittir: \"Fenotip (dışyapı), genotipte bulunan ve çevrenin etkisiyle dış görünüşe yansıyan özelliklerdir.\" Genotip ise canlının taşıdığı baskın ve çekinik genlerin tümüdür, dış görünüşe yansımayı değil genetik yapının kendisini ifade eder.",
+        "optionNotes": [
+          "Doğru: Metindeki tanım birebir fenotipe karşılık gelir.",
+          "Yanlış: Genotip, canlının taşıdığı baskın/çekinik genlerin tümüdür; sorudaki tanım ise genotipin çevreyle etkileşerek dışa yansımasını anlatır, bu da fenotiptir.",
+          "Yanlış: Homozigot, iki alel genin baskın ya da çekinik olma özelliğinin aynı olmasıdır (AA, aa), dış görünüşe yansımayla ilgili bir tanım değildir.",
+          "Yanlış: Heterozigot, alel genlerin farklı olmasıdır (Aa), sorudaki tanımla ilgisi yoktur.",
+          "Yanlış: Filogeni, türün genetik/evrimsel geçmişiyle ilgili bir kavramdır (filogenetik beceriler), bu tanımla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra10",
+        "question": "Aşağıdakilerden hangisi becerilerin tek boyutlu sınıflandırmasında yer almaz?",
+        "options": [
+          "Kullanılan kas büyüklüğü",
+          "Hareketin başlama ve bitiş netliği",
+          "Hareket Gereklilikleri",
+          "Çevrenin tahmin edilebilirlik düzeyi",
+          "Motor ve bilişsel öğelerin önemi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 2 metninde tek boyutlu sınıflama dört özelliğe göre yapılır: kullanılan kas büyüklüğü, hareketin başlama-bitiş netliği, çevrenin tahmin edilebilirlik düzeyi ve motor-bilişsel öğelerin önemi. \"Hareket Gereklilikleri\" ise Gentile'nin çok boyutlu sınıflamasının iki ana boyutundan biridir (diğeri Düzenleyici Şartlar), tek boyutlu sınıflamaya ait değildir.",
+        "optionNotes": [
+          "Yanlış: Kas büyüklüğü, tek boyutlu sınıflamanın dört kriterinden biridir (kaba/ince beceri ayrımı).",
+          "Yanlış: Başlama-bitiş netliği, tek boyutlu sınıflamanın bir kriteridir (kesik/seri/devamlı beceri ayrımı).",
+          "Doğru: Hareket Gereklilikleri, tek boyutlu değil Gentile'nin çok boyutlu sınıflamasının ana boyutlarından biridir.",
+          "Yanlış: Çevrenin tahmin edilebilirlik düzeyi, tek boyutlu sınıflamanın bir kriteridir (açık/kapalı beceri ayrımı).",
+          "Yanlış: Motor ve bilişsel öğelerin önemi, tek boyutlu sınıflamanın bir kriteridir (motor/zihinsel beceri ayrımı)."
+        ]
+      },
+      {
+        "id": "extra11",
+        "question": "Yüzme öğrenen kişinin daha sonra teknik olarak (kelebek,kurbağalama vb.) yüzmeyi öğrenmesi aşağıdakilerden hangisine örnektir?",
+        "options": [
+          "Hazır bulunuşluk",
+          "Olgunlaşma",
+          "Davranışın yeniden düzenlenmesi",
+          "Hareket",
+          "Büyüme"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 4 metninde bu durum doğrudan örneklendirilir: \"yüzmeyi bilen birinin farklı teknikleri (kelebek, kurbağalama vb.) öğrenmesi ise davranışın yeniden düzenlenmesine örnektir.\" Burada yüzmeyi ilk öğrenme kalıcı davranış değişikliği (öğrenme) olurken, var olan beceriyi yeni tekniklerle geliştirmek davranışın yeniden düzenlenmesidir.",
+        "optionNotes": [
+          "Yanlış: Hazırbulunuşluk, bir davranışı gerçekleştirebilecek ön bilgi/beceri/tutuma sahip olma durumudur, burada anlatılan beceri geliştirme süreci değildir.",
+          "Yanlış: Olgunlaşma, genetik olarak zamanla kendiliğinden oluşan biyolojik değişikliktir, teknik öğrenmeyle ilgili değildir.",
+          "Doğru: Metinde bu tam örnekle (kelebek, kurbağalama) davranışın yeniden düzenlenmesi olarak tanımlanmıştır.",
+          "Yanlış: Hareket, vücudun yer değiştirmesidir, burada anlatılan beceri gelişim sürecinin kendisi değildir.",
+          "Yanlış: Büyüme, boyca/kiloca niceliksel artıştır, teknik beceri öğrenmeyle ilgisi yoktur."
+        ]
+      },
+      {
+        "id": "extra12",
+        "question": "Katılımcıların yarısı yüzme bilen, diğer yarısı ise yüzme bilmeyen bir gruba yüzme dersi vermek oldukça zor olduğu için eğitimin gruplara göre verilmesi aşağıdakilerden hangisine örnektir?",
+        "options": [
+          "Yerleştirme",
+          "Tanı(Teşhis)",
+          "Başarının değerlendirilmesi",
+          "Tahmin(Kestirim)",
+          "Program değerlendirme"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 5 metninde ölçme ve değerlendirmenin altı amacından biri \"Yerleştirme - yetenekli sporcuların uygun gruplara yerleştirilmesi\" olarak tanımlanır. Katılımcıların yüzme bilme durumuna göre ayrı gruplara bölünüp eğitim verilmesi, mevcut beceri düzeylerine göre uygun gruba yerleştirme işlemidir.",
+        "optionNotes": [
+          "Doğru: Metinde tanımlanan \"yetenekli sporcuların uygun gruplara yerleştirilmesi\" amacı, bu senaryoyla birebir örtüşür.",
+          "Yanlış: Tanı (Teşhis), sporcunun mevcut zayıf/güçlü yanlarının belirlenmesidir; burada asıl amaç belirleme değil gruplara göre eğitim düzenlemedir.",
+          "Yanlış: Başarının değerlendirilmesi, belirlenen amaçlara ulaşılıp ulaşılmadığını saptamakla ilgilidir, gruplama kararıyla ilgili değildir.",
+          "Yanlış: Tahmin (Kestirim), ölçüm sonuçlarının gelecekteki başarıyı öngörmede kullanılmasıdır, burada söz konusu olan bu değildir.",
+          "Yanlış: Program değerlendirme, uygulanan bir programın hedeflerine ulaşıp ulaşmadığını belirlemekle ilgilidir, gruplara ayırma kararı değildir."
+        ]
+      },
+      {
+        "id": "extra13",
+        "question": "Sporcuların içlerinden gelerek ve severek katıldıkları, asıl amacı eğlenmek olan, sporda beceri gelişimine de katkı sağlayacak etkinliklere ne ad verilir?",
+        "options": [
+          "Amaçlı oyun etkinlikleri",
+          "Gelişmekte olan etkinlikler",
+          "Amaçlı alıştırma etkinlikleri",
+          "Performans etkinlikleri",
+          "Bölgesel etkinlikler"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1 metninde \"amaçlı oyun\" (Deliberate Play) tam olarak bu şekilde tanımlanır: \"eğlenmek amaçlı, kuralların katılımcıların isteğine göre esnetildiği, yetişkin etkisinin az olduğu etkinlikler.\" Bu etkinlikler sporcuların içten gelen istekle katıldığı, asıl amacın eğlence olduğu ama beceri gelişimine de katkı sağlayan etkinliklerdir.",
+        "optionNotes": [
+          "Doğru: Metinde \"amaçlı oyun\" tam olarak eğlenmek amaçlı, içten gelen katılıma dayalı etkinlik olarak tanımlanmıştır.",
+          "Yanlış: \"Gelişmekte olan etkinlikler\" metinde ayrı bir kavram olarak tanımlanmaz; \"gelişmekte olan sporcu\" bir antrenörlük aşamasıdır, etkinlik türü değildir.",
+          "Yanlış: \"Amaçlı alıştırma\" (Deliberate Practice), beceri ve performans gelişimini doğrudan hedefleyen etkinliklerdir, eğlenceyi asıl amaç olarak almaz.",
+          "Yanlış: \"Performans etkinlikleri\" metinde bu isimle tanımlı bir kavram değildir.",
+          "Yanlış: \"Bölgesel etkinlikler\" spora katılım piramidindeki bir yarışma kademesidir (bölgesel şampiyonalar), eğlence amaçlı etkinlik türü değildir."
+        ]
+      },
+      {
+        "id": "extra14",
+        "question": "Küçük bir çocuğun bardaktan suyu dökmeden içebilmesi aşağıdakilerden hangisine örnektir?",
+        "options": [
+          "Farklılaşma",
+          "Büyüme Hızı",
+          "Bütünleşme",
+          "Ontogeni",
+          "Kalıtım"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 4 metninde bu örnek birebir verilir: \"Bütünleşme ise duyu sistemlerinin ve çeşitli kas gruplarının koordineli bir şekilde çalışmasıdır; örneğin bir çocuğun bardaktan suyu dökmeden içebilmesi ... el-göz koordinasyonu gerektiren bütünleşme örnekleridir.\"",
+        "optionNotes": [
+          "Yanlış: Farklılaşma, basit hareket kalıplarından daha fonksiyonel/becerili hareketlere ilerlemeyi ifade eder, bu spesifik koordinasyon örneği değildir.",
+          "Yanlış: Büyüme hızı, boy-kilo artışının hızıyla ilgili bir kavramdır, koordinasyon becerisiyle ilgili değildir.",
+          "Doğru: Metinde bu örnek birebir bütünleşme kavramıyla ilişkilendirilmiştir.",
+          "Yanlış: Ontogeni (ontogenetik beceri), çevre ve öğrenme yoluyla kazanılan özelleşmiş becerilerdir (örn. hentbolda şut atma), bardaktan su içme gibi temel bir koordinasyon örneği değildir.",
+          "Yanlış: Kalıtım, genetik özelliklerin ebeveynden aktarılmasıdır, bu motor koordinasyon örneğiyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra15",
+        "question": "I. Hareket eğitimi bireysel bir keşiftir II. Hareket eğitiminin öğrenci merkezlidir III. Hareket analizini destekler IV. Temelinde problem çözme bulunur Yukarıdakilerden hangileri Hareket eğitiminin özellikleri arasında yer alır?",
+        "options": [
+          "I",
+          "I – II",
+          "II – III",
+          "I – II – III",
+          "I – II – III – IV"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 3 metninde hareket eğitiminin özellikleri sıralanırken bu dört ifade de birebir yer alır: \"bireysel bir keşiftir, öğrenci merkezlidir, temelinde problem çözme bulunur, ... hareket analizini destekler...\" Bu nedenle I, II, III ve IV'ün hepsi hareket eğitiminin özellikleri arasındadır.",
+        "optionNotes": [
+          "Yetersiz: Sadece bir özelliği içerir, metinde dört özellik de birlikte sayılmıştır.",
+          "Yetersiz: III ve IV'ü dışarıda bırakır, metinde hepsi özellikler listesinde yer alır.",
+          "Yetersiz: I ve IV'ü dışarıda bırakır, oysa metinde ikisi de özellikler arasında sayılmıştır.",
+          "Yetersiz: IV'ü (problem çözme) dışarıda bırakır, ancak metin bunu da özellikler listesinde açıkça sayar.",
+          "Doğru: Metindeki özellikler listesinde bu dört ifade (bireysel keşif, öğrenci merkezlilik, problem çözme, hareket analizini destekleme) birebir yer almaktadır."
+        ]
+      },
+      {
+        "id": "extra16",
+        "question": "Spora Katılım Piramidinin ilk basamağı aşağıdakilerden hangisidir?",
+        "options": [
+          "Yerel Yarışmalar",
+          "Bölgesel Yarışmalar",
+          "Beden Eğitimi",
+          "Ulusal Yarışmalar",
+          "Elit Yarışmalar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1 metninde piramit modelinin basamakları şu sırayla verilir: \"birey spora en yoğun şekilde okul sporu ve okul beden eğitimiyle başlar; bunu sırasıyla yerel yarışmalar, bölgesel şampiyonalar ve ulusal şampiyonalar izler, piramidin en tepesinde ise elit yarışmalar yer alır.\" Dolayısıyla piramidin ilk/taban basamağı beden eğitimidir.",
+        "optionNotes": [
+          "Yanlış: Yerel yarışmalar, beden eğitiminden sonra gelen ikinci basamaktır, ilk basamak değildir.",
+          "Yanlış: Bölgesel yarışmalar, yerel yarışmaların ardından gelen üçüncü basamaktır.",
+          "Doğru: Metinde piramidin taban/ilk basamağı olarak okul sporu ve beden eğitimi belirtilmiştir.",
+          "Yanlış: Ulusal yarışmalar, bölgesel yarışmaların ardından gelen dördüncü basamaktır, ilk basamak değildir.",
+          "Yanlış: Elit yarışmalar, piramidin en tepesinde yer alan son basamaktır, ilk basamak değildir."
+        ]
+      },
+      {
+        "id": "extra17",
+        "question": "Birey korktuğu nesneye yavaş yavaş yaklaştırılması ve bu süreç ile korkunun ortadan kaldırılması aşağıdakilerden hangisiyle ilgilidir?",
+        "options": [
+          "Olumlu pekiştirme",
+          "Olumsuz pekiştirme",
+          "Premack ilkesi",
+          "Sistematik duyarsızlaştırma",
+          "İnformal öğrenme"
+        ],
+        "correctIndex": 3,
+        "explanation": "Bireyin korktuğu nesneye kademeli olarak, küçük adımlarla yaklaştırılarak korkunun azaltılması, davranışçı yaklaşımda klasik koşullama ilkelerine dayanan \"sistematik duyarsızlaştırma\" tekniğinin tanımıdır. Ünite 6'da işlenen davranışçı koşullama ilkeleri (alışma, duyarlılık kazanma vb.) bu tekniğin dayandığı teorik çerçeveyle uyumludur; diğer seçenekler (pekiştirme türleri, Premack ilkesi, informal öğrenme) farklı davranış değiştirme mekanizmalarını tanımlar ve korkuyla kademeli yüzleştirme sürecini karşılamaz.",
+        "optionNotes": [
+          "Yanlış: Olumlu pekiştirme, hoşa giden bir uyarıcının verilerek davranışın güçlendirilmesidir (örn. \"bravo\" demek), korkuyu kademeli olarak ortadan kaldırma süreciyle ilgili değildir.",
+          "Yanlış: Olumsuz pekiştirme, hoş olmayan bir durumdan kaçınmanın sağlanmasıyla davranışın güçlendirilmesidir, korkuya kademeli yaklaştırma tekniği değildir.",
+          "Yanlış: Premack ilkesi, az istenen bir etkinliğin daha çok istenen bir etkinliğe bağlanmasıdır (örn. antrenman sonunda maç yaptırmak), korku giderme tekniği değildir.",
+          "Doğru: Sistematik duyarsızlaştırma, korkulan nesneye/durumla kademeli ve kontrollü yüzleştirme yoluyla korkunun azaltılması tekniğidir; soruda tarif edilen süreç tam olarak budur.",
+          "Yanlış: İnformal öğrenme, planlı/yapılandırılmış olmayan, günlük yaşam içinde kendiliğinden gerçekleşen öğrenmeyi ifade eder, korku giderme tekniği değildir."
+        ]
+      },
+      {
+        "id": "extra18",
+        "question": "Aşağıdakilerden hangisi Nesne Kontrolü Gerektiren Hareketlerden biridir?",
+        "options": [
+          "Esnetme",
+          "Dönme",
+          "Salınım",
+          "Çekme",
+          "Atma"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 3 metninde nesne kontrolü gerektiren hareketler \"topa alıştırma, atma, tutma, yakalama, ayakla vurma, yuvarlama, durdurma-kontrol, top sürme, raketle vurma, uzun saplı araçla vurma\" olarak sayılır. Esnetme, dönme, salınım ve çekme ise dengeleme hareketleri grubuna (eğilme, esnetme, dönme, salınım, ağırlık aktarma, itme, çekme vb.) aittir.",
+        "optionNotes": [
+          "Yanlış: Esnetme, metinde dengeleme hareketleri grubunda sayılmıştır, nesne kontrolü değildir.",
+          "Yanlış: Dönme, metinde dengeleme hareketleri grubunda sayılmıştır.",
+          "Yanlış: Salınım, metinde dengeleme hareketleri grubunda sayılmıştır.",
+          "Yanlış: Çekme, metinde dengeleme hareketleri grubunda sayılmıştır (itme-çekme).",
+          "Doğru: Atma, metinde nesne kontrolü gerektiren hareketler arasında açıkça sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra19",
+        "question": "Katılım spor ortamlarındaki çocukların, haftalık antrenman etkinlikleri en fazla kaç saat olmalıdır?",
+        "options": [
+          "2",
+          "4",
+          "6",
+          "8",
+          "10"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 1 metninde çocuklara yönelik katılım sporu antrenörlüğü (6-12 yaş) tanımlanırken şu bilgi açıkça verilir: \"haftalık antrenman etkinlikleri dört saati aşmamalıdır.\"",
+        "optionNotes": [
+          "Yanlış: Metinde belirtilen üst sınır 2 saat değil 4 saattir.",
+          "Doğru: Metinde çocuk katılım sporu ortamında haftalık antrenman etkinliklerinin en fazla dört saat olması gerektiği açıkça belirtilmiştir.",
+          "Yanlış: Metinde belirtilen üst sınır 6 saat değil 4 saattir.",
+          "Yanlış: Metinde belirtilen üst sınır 8 saat değil 4 saattir.",
+          "Yanlış: Metinde belirtilen üst sınır 10 saat değil 4 saattir."
+        ]
+      },
+      {
+        "id": "extra20",
+        "question": "I. Sınıflama Ölçeği II. Sıralama Ölçeği III. Eşit Aralıklı Ölçek IV. Bağıl Ölçek Yukarıda verilenlerden hangileri Ölçek türleri arasında yer alır?",
+        "options": [
+          "I",
+          "I – II",
+          "II – III",
+          "I – II – III",
+          "I – II – III – IV"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 5 metninde ölçek türleri dört düzeyde sınıflandırılır: sınıflama (nominal), sıralama (dereceleme), eşit aralıklı ve eşit oranlı ölçek. \"Bağıl Ölçek\" metinde tanımlı bir ölçek türü değildir; \"bağıl\" terimi metinde ölçüt (mutlak/bağıl ölçüt) ve sıfır (mutlak/bağıl sıfır) kavramlarıyla ilgili olarak geçer, ayrı bir ölçek türü olarak değil. Bu nedenle doğru cevap sadece I, II ve III'ü içerir.",
+        "optionNotes": [
+          "Yetersiz: Sadece sınıflama ölçeğini içerir, sıralama ve eşit aralıklı ölçek de metindeki ölçek türleri arasındadır.",
+          "Yetersiz: Eşit aralıklı ölçeği dışarıda bırakır, oysa metinde bu da dört ölçek türünden biridir.",
+          "Yetersiz: Sınıflama ölçeğini dışarıda bırakır, oysa metinde bu da dört ölçek türünden biridir.",
+          "Doğru: Metinde tanımlanan dört ölçek türünden (sınıflama, sıralama, eşit aralıklı, eşit oranlı) üçü olan sınıflama, sıralama ve eşit aralıklı ölçek burada doğru sayılmıştır; \"eşit oranlı\" seçeneklerde yer almadığından ve \"bağıl ölçek\" diye bir tür metinde tanımlı olmadığından I-II-III en doğru kombinasyondur.",
+          "Yanlış: \"Bağıl Ölçek\" metinde tanımlanan dört ölçek türünden (sınıflama, sıralama, eşit aralıklı, eşit oranlı) biri değildir; bağıllık metinde ölçüt ve sıfır kavramlarıyla ilişkilidir, ayrı bir ölçek türü değildir."
+        ]
+      },
+      {
+        "id": "extra21",
+        "question": "I. Hiçbir ücret almaksızın, Antrenörlerin bulunmadığı ortamlarda bireylere Antrenörlük yapan kişilerdir. II. Sahip oldukları başka mesleklerin yanında kısmi zamanlı olarak bir kişiye veya gruba ücret karşılığında Antrenörlük yapan bireylerdir. III. Antrenörlük mesleğini, profesyonel bir meslek olarak yapan bireylerden oluşur. Yukarıda verilen Antrenörlerin çalışma kapsamlarının sıralaması hangisinde doğru verilmiştir?",
+        "options": [
+          "Gönüllü – kısmi zamanlı – ücretli",
+          "Ücretli – kısmi zamanlı – gönüllü",
+          "Kısmi zamanlı – gönüllü – ücretli",
+          "Gönüllü – ücretli – kısmi zamanlı",
+          "Kısmi zamanlı – ücretli – gönüllü"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1 metnine göre antrenörler çalışma biçimlerine göre üçe ayrılır: gönüllü (hiçbir ücret almaksızın çalışan), kısmi zamanlı (başka bir mesleğin yanında ücret karşılığı çalışan) ve ücretli (antrenörlüğü profesyonel meslek olarak icra eden). Sorudaki I, II, III ifadeleri sırasıyla bu üç tanıma karşılık gelir, dolayısıyla doğru sıralama Gönüllü-Kısmi zamanlı-Ücretli'dir.",
+        "optionNotes": [
+          "Doğru sıralama budur: I=Gönüllü (ücretsiz antrenörlük), II=Kısmi zamanlı (başka mesleğin yanında ücretli), III=Ücretli (profesyonel meslek) tanımlarıyla birebir örtüşür.",
+          "Yanlış sıralama; bu seçenek sırayı tam tersine çevirmiştir (Ücretli-Kısmi zamanlı-Gönüllü), metindeki I-II-III sırasıyla uyuşmaz.",
+          "Yanlış sıralama; burada kısmi zamanlı ilk sıraya alınmıştır, ancak I numaralı tanım (ücretsiz) gönüllü antrenörlüğe aittir.",
+          "Yanlış sıralama; II numaralı tanım (başka mesleğin yanında ücretli) kısmi zamanlı antrenörlüğe karşılık gelir, bu seçenekte ücretli olarak verilmiştir.",
+          "Yanlış sıralama; bu seçenek sırayı baştan yanlış başlatır, I numaralı tanım kısmi zamanlı değil gönüllü antrenörlüğü tanımlar."
+        ]
+      },
+      {
+        "id": "extra22",
+        "question": "Sporcunun akranları ve spor ortamlarındaki diğer paydaşlara yönelik Empati geliştirmesi durumunu ifade eden unsur aşağıdakilerden hangisidir?",
+        "options": [
+          "Yetkinlik",
+          "Özgüven",
+          "Bağ kurma",
+          "Karakter",
+          "Umursama – umursanma"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 1'e göre antrenörlüğün 5C amacından biri olan \"umursama-umursanma (caring)\", sporcunun akranlarına ve diğer paydaşlara yönelik empati geliştirmesi olarak tanımlanır; bunun için dinleme ve anlama becerilerinin geliştirilmesi gerektiği belirtilir.",
+        "optionNotes": [
+          "Yanlış; yetkinlik (competence) sporcunun teknik-taktik beceri ve fiziksel uygunluk düzeyiyle ilgilidir, empatiyle ilgili değildir.",
+          "Yanlış; özgüven (confidence) sporcunun başarılı olabileceğine yönelik olumlu öz değer hissidir, empati geliştirme değildir.",
+          "Yanlış; bağ kurma (connection) sporcunun antrenör, akran ve aileyle olumlu bağlar kurarak güven hissi kazanmasıdır, empati değildir.",
+          "Yanlış; karakter, doğru-yanlışı ayırt etme ve sorumluluk alma becerisidir, empati geliştirmeyi doğrudan tanımlamaz.",
+          "Doğru; metinde umursama-umursanma tam olarak akranlara ve diğer paydaşlara yönelik empati geliştirme olarak tanımlanır."
+        ]
+      },
+      {
+        "id": "extra23",
+        "question": "Aşağıdakilerden hangisi Spora Katılım Piramidinde en alt sırada yer alır?",
+        "options": [
+          "Elit Yarışmalar",
+          "Ulusal Yarışmalar",
+          "Okul sporu - Beden Eğitim",
+          "Bölgesel Yarışmalar",
+          "Yerel Yarışmalar"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 1'deki piramit modeline göre birey spora en yoğun şekilde okul sporu ve okul beden eğitimiyle başlar; bunu sırasıyla yerel, bölgesel ve ulusal yarışmalar izler, piramidin en tepesinde ise elit yarışmalar yer alır. Dolayısıyla piramidin en alt (taban) basamağı okul sporu-beden eğitimidir.",
+        "optionNotes": [
+          "Yanlış; elit yarışmalar piramidin en tepesinde, en üst sırada yer alır, en altta değildir.",
+          "Yanlış; ulusal yarışmalar piramidin üst sıralarına yakın bir basamaktır, en alt değildir.",
+          "Doğru; metinde birey spora en yoğun şekilde okul sporu ve beden eğitimiyle başlar, bu piramidin en alt (taban) basamağıdır.",
+          "Yanlış; bölgesel yarışmalar yerel ile ulusal arasında orta bir basamaktır, en alt değildir.",
+          "Yanlış; yerel yarışmalar okul sporundan sonraki basamaktır, piramidin en tabanı değildir."
+        ]
+      },
+      {
+        "id": "extra24",
+        "question": "Bireyin alıştırma ve deneyim sonucu motor becerileri uygulama yeterliğindeki göreli ve kalıcı davranış değişikliğine ne ad verilir?",
+        "options": [
+          "Öğretme",
+          "Beceri",
+          "Reaksiyon",
+          "Öğrenme",
+          "Dikkat"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 2'de öğrenme kavramı tam olarak şu şekilde tanımlanır: \"bireyin alıştırma ve deneyim sonucu motor becerileri uygulama yeterliliğinde ortaya çıkan göreli ve kalıcı davranış değişikliğine öğrenme denir.\" Soru bu tanımı birebir vermektedir.",
+        "optionNotes": [
+          "Yanlış; öğretme, öğrenmeyi sağlamak için düzenlenen etkinlikler sürecidir, davranış değişikliğinin kendisi değildir.",
+          "Yanlış; beceri, belirli bir sonuca ulaşma yeteneğidir, kalıcı davranış değişikliğinin tanımı değildir.",
+          "Yanlış; reaksiyon, bir uyarana karşı verilen bilinçli tepkidir, kalıcı davranış değişikliği tanımıyla ilgili değildir.",
+          "Doğru; metindeki öğrenme tanımı sorudaki ifadeyle birebir örtüşmektedir.",
+          "Yanlış; dikkat, düşünce silsilelerinden birinin zihin tarafından belirgin biçimde alınmasıdır, davranış değişikliği tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra25",
+        "question": "Aşağıdakilerden hangisi hareketin başlama ve bitiş netliğine göre beceri sınıflamasından biridir?",
+        "options": [
+          "Açık Beceri",
+          "Seri Beceriler",
+          "Kapalı Beceri",
+          "Motor Beceriler",
+          "Zihinsel Beceriler"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 2'de \"hareketin başlama ve bitiş netliğine göre beceriler kesik, seri ve devamlı olmak üzere üçe ayrılır\" denilmektedir. Seçenekler arasında bu sınıflamaya ait olan tek seçenek Seri Beceriler'dir; Açık/Kapalı beceri ayrımı çevrenin tahmin edilebilirliğine, Motor/Zihinsel ayrımı ise motor-bilişsel öğelerin önemine göre yapılan farklı sınıflama eksenlerine aittir.",
+        "optionNotes": [
+          "Yanlış; açık beceri, çevre şartlarının tahmin edilebilirliğine göre yapılan sınıflamaya aittir, başlama-bitiş netliğiyle ilgili değildir.",
+          "Doğru; seri beceri, kesik ve devamlı ile birlikte hareketin başlama-bitiş netliğine göre yapılan üçlü sınıflamanın bir parçasıdır.",
+          "Yanlış; kapalı beceri de açık beceri gibi çevre tahmin edilebilirliğine göre yapılan sınıflamaya aittir.",
+          "Yanlış; motor beceri, motor-bilişsel öğelerin önemine göre yapılan ayrı bir sınıflamaya aittir.",
+          "Yanlış; zihinsel beceri de motor-bilişsel öğelerin önemine göre yapılan sınıflamanın bir parçasıdır, başlama-bitiş netliğiyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra26",
+        "question": "Birden fazla uyaran ve her bir uyaran için belirlenen bir tepki durumuna ne ad verilir?",
+        "options": [
+          "Reaksiyon zamanı",
+          "Hareket zamanı",
+          "Seçici reaksiyon",
+          "Sezinleme",
+          "Dikkat"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 2'de \"Birden fazla uyaran ve her bir uyaran için belirlenmiş ayrı bir tepki durumuna seçici reaksiyon zamanı denir\" ifadesiyle tanımlanır (örnek: trafik ışığının farklı renklerine farklı tepki verme).",
+        "optionNotes": [
+          "Yanlış; reaksiyon zamanı genel bir kavramdır (uyaran ile tepki başlangıcı arasındaki süre), birden fazla uyaran-tepki eşleşmesini özel olarak tanımlamaz.",
+          "Yanlış; hareket zamanı metinde bu soruda tanımlanan kavram değildir, tepkinin başlangıcından bitişine kadar olan süreyle ilgilidir.",
+          "Doğru; birden fazla uyaran ve her birine özgü ayrı bir tepki durumu tam olarak seçici reaksiyonun tanımıdır.",
+          "Yanlış; sezinleme, geçmiş deneyimlere dayanarak zamanlama/mekân konusunda tahmin yapmaktır, birden fazla uyaran-tepki eşleşmesini tanımlamaz.",
+          "Yanlış; dikkat, düşünce silsilelerinden birinin zihin tarafından belirgin alınmasıdır, bu soruda tanımlanan kavram değildir."
+        ]
+      },
+      {
+        "id": "extra27",
+        "question": "“Oyun ya bir yarışmaya benzer ya da bir şeye en iyi benzemek için yarıştır’’ diyen fizyoloji profesörü kimdir?",
+        "options": [
+          "Huizinga",
+          "Gilliom",
+          "Kirchner",
+          "Russell",
+          "Stanley"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 3'te oyunun tanımı anlatılırken \"Huizinga'nın ifadesiyle 'Oyun ya bir yarışmaya benzer ya da bir şeye en iyi benzemek için yarıştır'\" alıntısı birebir verilir; diğer isimler (Gilliom, Kirchner, Russell, Stanley) hareket eğitimi alanındaki öncü isimler olarak anılır, bu alıntıyla ilişkilendirilmez.",
+        "optionNotes": [
+          "Doğru; bu alıntı metinde doğrudan Huizinga'ya atfedilmiştir.",
+          "Yanlış; Gilliom, hareket eğitimi alanında problem çözme ve keşfetme metodolojisiyle anılan bir isimdir, bu alıntıyla ilişkilendirilmez.",
+          "Yanlış; Kirchner, 1960-70'lerde hareket eğitimi alanında öncülük eden isimlerden biridir, bu alıntıyla ilgisi yoktur.",
+          "Yanlış; Russell, hareket eğitimi yaklaşımının gelişiminde anılan isimlerden biridir, oyun tanımı alıntısıyla ilişkilendirilmez.",
+          "Yanlış; Stanley de hareket eğitimi alanındaki öncü isimlerden biridir, bu alıntı ona ait değildir."
+        ]
+      },
+      {
+        "id": "extra28",
+        "question": "Aşağıdakilerden hangisi Dengeleme Gerektiren Hareketlerinden biri değildir?",
+        "options": [
+          "Eğilme",
+          "Esnetme",
+          "Dönme",
+          "Salınım",
+          "Tırmanma"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 3'te dengeleme hareketleri \"eğilme, esnetme, dönme, salınım, ağırlık aktarma, atlama-konma, başlama-durma, dinamik-statik denge, duruş-oturuş, itme, çekme\" olarak sayılır; tırmanma ise \"yer değiştirme hareketleri\" (yürüme, koşma, atlama-sıçrama, adım al-sek, galop-kayma, yuvarlanma, tırmanma) grubunda yer alır, dolayısıyla dengeleme hareketi değildir.",
+        "optionNotes": [
+          "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+          "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+          "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+          "Dengeleme hareketidir; metinde dengeleme hareketleri listesinde açıkça yer alır.",
+          "Doğru yanıt; tırmanma, metinde dengeleme hareketleri değil, yer değiştirme hareketleri grubunda sayılmıştır."
+        ]
+      },
+      {
+        "id": "extra29",
+        "question": "Futbol, Roger Caillois’ın oyun sınıflandırılmasına göre hangi kapsamda yer alır?",
+        "options": [
+          "Fiziksel Beceri Oyunları",
+          "Strateji Oyunları",
+          "Fiziksel Beceri ve Strateji Oyunları",
+          "Strateji ve Şans İçeren Fiziksel Beceri Oyunları",
+          "Şans Oyunları"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 3'teki Roger Caillois sınıflamasına göre mücadele-yarışma oyunları (Agon), fiziksel beceri ile şans/strateji faktörlerinin bulunup bulunmamasına göre dörde ayrılır; futbol gibi takım oyunları metinde doğrudan \"Strateji ve Şans İçeren Fiziksel Beceri Oyunları\" örneği olarak verilmiştir.",
+        "optionNotes": [
+          "Yanlış; fiziksel beceri oyunları örneği olarak bovling, halter, koşu, stafet verilmiştir, futbol değil.",
+          "Yanlış; strateji oyunları dama, satranç gibi zekâya dayalı oyunlardır, futbol gibi fiziksel oyunları kapsamaz.",
+          "Yanlış; fiziksel beceri ve strateji oyunları örneği olarak mendil kapmaca, boks, güreş verilmiştir, futbol bu kategoride değildir.",
+          "Doğru; metinde futbol açıkça \"Strateji ve Şans İçeren Fiziksel Beceri Oyunları\" grubuna örnek olarak verilmiştir.",
+          "Yanlış; şans oyunları kadere/rastlantıya dayanır (kağıt, zar, rulet gibi), futbol gibi fiziksel beceri gerektiren bir oyun değildir."
+        ]
+      },
+      {
+        "id": "extra30",
+        "question": "Aşağıdakilerden hangisi Oyunların Oynanma Düzenlerine Göre sınıflandırılan oyunlardan biridir?",
+        "options": [
+          "Sınıf oyunları",
+          "Daire oyunları",
+          "Salon oyunları",
+          "Bahçe veya kırsal alan oyunları",
+          "Kış oyunları"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 3'te eğitsel oyunlar \"oynanma düzenine göre: çizgi, daire ve dağınık düzen oyunları\" olarak sınıflandırılır; sınıf, salon, bahçe/kırsal alan ve kış oyunları ise \"oynandıkları alanlara göre\" yapılan ayrı bir sınıflamaya aittir.",
+        "optionNotes": [
+          "Yanlış; sınıf oyunları, \"oynandıkları alanlara göre\" sınıflamaya aittir, oynanma düzenine göre değil.",
+          "Doğru; daire oyunları, metinde \"oynanma düzenine göre\" sınıflamada (çizgi, daire, dağınık düzen) açıkça sayılmıştır.",
+          "Yanlış; salon oyunları, \"oynandıkları alanlara göre\" sınıflamaya aittir.",
+          "Yanlış; bahçe veya kırsal alan oyunları, \"oynandıkları alanlara göre\" sınıflamaya aittir.",
+          "Yanlış; kış oyunları da \"oynandıkları alanlara göre\" sınıflamaya aittir, oynanma düzeni sınıflaması değildir."
+        ]
+      },
+      {
+        "id": "extra31",
+        "question": "Birden fazla hareketin, belirli bir düzen içerisinde yapılarak bir model oluşturmasına ne ad verilir?",
+        "options": [
+          "Beceri",
+          "Form",
+          "Deneyim",
+          "Gelişim",
+          "Öğrenme"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 4'te form (hareket şekli) \"birden fazla hareketin belirli bir düzen içinde yapılarak bir model oluşturması\" olarak tanımlanır (örnek: voleybolcunun smaç vuruşundaki bacak-kol-gövde-baş düzeni).",
+        "optionNotes": [
+          "Yanlış; beceri, bir hedefe yönelik istemli hareket/göreve verilen addır, birden fazla hareketin model oluşturmasını tanımlamaz.",
+          "Doğru; metindeki form tanımı sorudaki ifadeyle birebir örtüşür.",
+          "Yanlış; deneyim, çevre tarafından sunulan ve öğrenmeye etki eden edinimlerdir, hareket modeli tanımı değildir.",
+          "Yanlış; gelişim, organizmanın yapısındaki olgunlaşma ve farklılaşma sürecidir, hareket modeli tanımı değildir.",
+          "Yanlış; öğrenme, alıştırma ve deneyim sonucu oluşan kalıcı davranış değişikliğidir, hareket modeli tanımı değildir."
+        ]
+      },
+      {
+        "id": "extra32",
+        "question": "Bilişsel gelişim sürecini özümleme, uyma ve adaptasyon olarak 3 temel aşamaya ayıran kuramcı aşağıdakilerden hangisidir?",
+        "options": [
+          "Piaget",
+          "Maslow",
+          "Bruner",
+          "Watson",
+          "Vygotsky"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 4'te bilişsel gelişim sürecini \"özümleme, uyma ve adaptasyon\" olarak üç temel aşamaya ayıran kuramcının Piaget olduğu açıkça belirtilir.",
+        "optionNotes": [
+          "Doğru; metinde bu üçlü aşamalandırma doğrudan Piaget'in kuramına atfedilir.",
+          "Yanlış; Maslow ihtiyaçlar hiyerarşisiyle tanınan bir kuramcıdır, bilişsel gelişim aşamalarıyla ilgili değildir.",
+          "Yanlış; Bruner buluş yoluyla öğretme stratejisiyle anılır, özümleme-uyma-adaptasyon kuramıyla ilgili değildir.",
+          "Yanlış; Watson davranışçı öğrenme kuramcılarından biridir, bilişsel gelişim aşamalarını tanımlamaz.",
+          "Yanlış; Vygotsky sosyal yapılandırmacılıkla anılır, özümleme-uyma-adaptasyon üçlemesi Piaget'e aittir."
+        ]
+      },
+      {
+        "id": "extra33",
+        "question": "Bir nesnenin belli bir özelliğe sahip olup olmadığının, sahipse sahip oluş derecesinin gözlenip gözlem sonuçlarının sayı, sıfat ve sembollerle ifade edilmesine ne ad verilir?",
+        "options": [
+          "Değerlendirme",
+          "Ölçüt",
+          "Ölçme kuralı",
+          "Değişken",
+          "Ölçme"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 5'te ölçme, \"bir nesnenin belli bir özelliğe sahip olup olmadığının, sahipse sahip oluş derecesinin gözlenip gözlem sonuçlarının sayı, sıfat ve sembollerle ifade edilmesi\" olarak tanımlanır; soru bu tanımı birebir vermektedir.",
+        "optionNotes": [
+          "Yanlış; değerlendirme, ölçme sonuçlarının bir ölçütle karşılaştırılarak karara varılmasıdır, burada bir karşılaştırma/karar süreci tanımlanmamaktadır.",
+          "Yanlış; ölçüt, değerlendirmede ölçme sonuçlarının karşılaştırıldığı sabit değerdir, gözlem-ifade sürecini tanımlamaz.",
+          "Yanlış; ölçme kuralı, hangi sayı/sembolün hangi duruma verileceğini gösteren kuraldır, genel ölçme tanımı değildir.",
+          "Yanlış; değişken, en az iki değer alabilen özelliktir, gözlem sonuçlarının ifade edilme sürecini tanımlamaz.",
+          "Doğru; metindeki ölçme tanımı sorudaki ifadeyle birebir örtüşmektedir."
+        ]
+      },
+      {
+        "id": "extra34",
+        "question": "I Nicel Değişken, değerleri sayılarla ifade edilebilen değişkenlerdir. II Nitel Değişken, sayısal olarak herhangi iki değer arasında daima başka değer bulunabilen değişkenlerdir. III Süreksiz Değişken, değişkenlere bağlı olarak farklı değerler alabilen değişkenlerdir. IV Bağımsız Değişken, başka bir değişkene bağlı olmadan değer alabilen değişkenlerdir. Yukarıdaki Değişken sınıflandırılmasından hangileri yanlıştır?",
+        "options": [
+          "I",
+          "I – II",
+          "II – III",
+          "I – II – III",
+          "I – II – III – IV"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ünite 5 metnine göre I numaralı ifade (Nicel Değişken tanımı) doğrudur. II numaralı ifade ise aslında \"nitel\" değil \"sürekli değişken\" tanımını vermektedir (sayısal olarak iki değer arasında daima başka değer bulunması); bu nedenle yanlıştır. III numaralı ifade de süreksiz değişkenin tanımını doğru vermez; metindeki süreksiz değişken tanımı \"değerleri sınırlı sayıda sıfat/sembolle ifade edilen değişkenler\" şeklindedir, soru ifadesi bu tanıma uymamaktadır. IV numaralı ifade ise bağımsız değişken tanımıyla tam örtüşür ve doğrudur. Dolayısıyla yanlış olanlar II ve III'tür.",
+        "optionNotes": [
+          "Yanlış seçim; sadece I'in yanlış olduğunu söyler, ama I aslında metindeki nicel değişken tanımıyla tam örtüşen doğru bir ifadedir.",
+          "Yanlış seçim; I doğru bir ifadedir, bu seçenek onu hatalı olarak yanlışlar arasına katmaktadır.",
+          "Doğru yanıt; II ifadesi nitel değişkeni sürekli değişkenin tanımıyla karıştırmakta, III ifadesi de süreksiz değişkeni metindeki tanıma uygun biçimde vermemektedir; bu nedenle her ikisi de yanlıştır.",
+          "Yanlış seçim; I doğru bir ifade olduğu için I-II-III'ün tümünün yanlış olduğunu söylemek hatalıdır.",
+          "Yanlış seçim; IV ifadesi bağımsız değişkenin tanımıyla tam örtüşen doğru bir ifadedir, bu seçenek onu da yanlışlar arasına katmaktadır."
+        ]
+      },
+      {
+        "id": "extra35",
+        "question": "I Vurulan smaç sayısı II Akademik başarı III Denklem problemleri Yukarıda verilen Ölçme türleri sırasıyla hangi seçenekte doğru verilmiştir?",
+        "options": [
+          "Doğrudan Ölçme – türetilmiş ölçme – dolaylı ölçme",
+          "Doğrudan Ölçme – dolaylı Ölçme – türetilmiş Ölçme",
+          "Dolaylı ölçme – türetilmiş ölçme – doğrudan ölçme",
+          "Dolaylı ölçme – doğrudan ölçme – türetilmiş ölçme",
+          "Türetilmiş ölçme – dolaylı ölçme – doğrudan ölçme"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 5'te doğrudan ölçme örneği olarak \"vurulan smaç sayısı\" doğrudan verilmiştir; dolaylı ölçme örnekleri arasında \"akademik başarı\" açıkça sayılmıştır; türetilmiş ölçme ise iki değişken arasında matematiksel bir bağıntı (denklem) kurularak elde edilen ölçmedir (VKİ örneğindeki gibi), bu nedenle \"denklem problemleri\" türetilmiş ölçmeyle ilişkilendirilir. Doğru sıralama Doğrudan-Dolaylı-Türetilmiş'tir.",
+        "optionNotes": [
+          "Yanlış sıralama; bu seçenek dolaylı ve türetilmiş ölçmenin yerini değiştirmiştir, oysa II numaralı örnek (akademik başarı) dolaylı ölçmeye aittir.",
+          "Doğru; I=vurulan smaç sayısı (doğrudan), II=akademik başarı (dolaylı, metinde açıkça örnek verilmiştir), III=denklem problemleri (türetilmiş, matematiksel bağıntıya dayanır) sıralamasıyla örtüşür.",
+          "Yanlış sıralama; doğrudan ölçmeye ait olan smaç sayısı örneği burada dolaylı olarak verilmiştir, sıralama metinle uyuşmaz.",
+          "Yanlış sıralama; smaç sayısı örneği doğrudan ölçmeye aittir, bu seçenekte dolaylı olarak başa alınmıştır.",
+          "Yanlış sıralama; sıralama tamamen ters verilmiştir, doğrudan ölçmeye ait örnek en sona bırakılmıştır."
+        ]
+      },
+      {
+        "id": "extra36",
+        "question": "I. Yazı yazma II. Araba kullanma III. Top sürme IV. Servis atma V. Işığa hassas olma Yukarıdaki hangisi sonradan kazanılan davranışlar kapsamında yer alır?",
+        "options": [
+          "I – II",
+          "II – III",
+          "I – II – III",
+          "I – II – III – IV",
+          "I – II – III – IV – V"
+        ],
+        "correctIndex": 3,
+        "explanation": "Ünite 6'da insan davranışları doğuştan gelen (refleks/içgüdü), geçici ve sonradan kazanılan/öğrenme ürünü davranışlar olarak üçe ayrılır; yazı yazma, araba kullanma, top sürme ve servis atma (I-IV) alıştırma ve öğrenme yoluyla kazanılan davranışlardır. Işığa hassas olma (V) ise doğuştan gelen, refleks niteliğinde bir tepkidir, öğrenilmiş bir davranış değildir.",
+        "optionNotes": [
+          "Eksik; yazı yazma ve araba kullanma doğru şekilde öğrenilmiş davranışlar olarak sayılsa da, top sürme ve servis atma da öğrenilmiş davranışlar arasında olduğu için bu seçenek listeyi tam kapsamaz.",
+          "Eksik; araba kullanma ve top sürme öğrenilmiş davranışlar olsa da, yazı yazma ve servis atma da bu kapsama girdiğinden liste eksik kalmaktadır.",
+          "Eksik; yazı yazma, araba kullanma ve top sürme öğrenilmiş davranışlar olsa da, servis atma da bu kapsama girdiğinden liste eksiktir.",
+          "Doğru; yazı yazma, araba kullanma, top sürme ve servis atma hepsi alıştırma/deneyim yoluyla kazanılan öğrenilmiş davranışlardır; ışığa hassas olma ise doğuştan gelen bir reflekstir ve bu listeye dahil edilmemelidir.",
+          "Yanlış; ışığa hassas olma (V) doğuştan gelen bir refleks tepkisidir, öğrenilmiş bir davranış değildir, bu nedenle listeye dahil edilmemelidir."
+        ]
+      },
+      {
+        "id": "extra37",
+        "question": "Antrenörlerin, halk oyunları çalışmalarında sporcuya öncelikle kendi iline ait oyunları öğretmesi hangi öğretim ilkesi ile alakalıdır?",
+        "options": [
+          "Sporcuya görelik ilkesi",
+          "Etkin katılım ilkesi",
+          "Yaşama yakınlık ilkesi",
+          "Ekonomiklik ilkesi",
+          "Yakından uzağa ilkesi"
+        ],
+        "correctIndex": 4,
+        "explanation": "Ünite 6'da \"yakından uzağa ilkesi, öğretimin sporcunun en yakın fiziksel/sosyal çevresinden başlamasını önerir\" şeklinde tanımlanır. Sporcuya önce kendi iline ait halk oyunlarının öğretilmesi, öğretimi sporcunun en yakın (bildik) çevresinden başlatmak anlamına geldiğinden bu ilkeyle doğrudan ilişkilidir.",
+        "optionNotes": [
+          "Yanlış; sporcuya görelik ilkesi, öğretimin sporcunun ilgi, ihtiyaç ve hazırbulunuşluk düzeyine göre yapılmasıyla ilgilidir, coğrafi/sosyal yakınlıkla ilgili değildir.",
+          "Yanlış; etkin katılım ilkesi, sporcunun sürece birden fazla duyu organıyla katılmasıyla ilgilidir, yakından uzağa ilkesini tanımlamaz.",
+          "Yanlış; yaşama yakınlık ilkesi, öğrenilenlerin gerçek yaşam koşullarında kullanılmasıyla ilgilidir (örn. sporcuları maça götürmek), coğrafi yakınlıkla ilgili değildir.",
+          "Yanlış; ekonomiklik ilkesi, en az maliyet ve çabayla en fazla verimi hedefler, bu durumla doğrudan ilgili değildir.",
+          "Doğru; metinde yakından uzağa ilkesi, öğretimin sporcunun en yakın çevresinden (kendi iline ait oyunlar gibi) başlamasını önerir şeklinde tanımlanır."
+        ]
+      },
+      {
+        "id": "extra38",
+        "question": "Gerçek ve aktif öğrenmeyi sağlayarak, sporculara bir konuyu kavratmak ve o konuda uygulama yaptırmak amacıyla kullanılan öğrenme yöntemi aşağıdakilerden hangisidir?",
+        "options": [
+          "Örnek Olay",
+          "Gösteri",
+          "Soru-Cevap",
+          "Tartışma",
+          "Anlatma"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ünite 6'da gösteri (demonstrasyon) yönteminin, bir işin antrenör veya sporcu tarafından yapılarak gösterilmesi olduğu ve özellikle psikomotor davranışların öğretiminde sözel/yazılı anlatımdan daha etkili, uygulamaya dayalı ve aktif bir öğrenmeyi sağladığı belirtilir. Not: Ünite metninde bu sorudaki ifadeyle birebir örtüşen bir tanım bulunmadığından, seçim ünitede psikomotor beceri öğretiminde en etkili ve uygulamaya dayalı yöntem olarak tanımlanan gösteri yöntemine dayanarak yapılmıştır; bu cevapta bir derece belirsizlik vardır.",
+        "optionNotes": [
+          "Kısmen ilişkili fakat tam örtüşmüyor; örnek olay yöntemi gerçek yaşamdan bir problem durumu üzerinden çözüm üretmeye dayanır, doğrudan \"bir konuyu kavratıp uygulama yaptırma\" tanımıyla birebir örtüşmez.",
+          "En olası doğru yanıt; gösteri yöntemi, bir işin yapılarak gösterilmesine dayanır ve metinde özellikle psikomotor becerilerin öğretiminde sözel anlatımdan daha etkili, uygulamaya dönük bir yöntem olarak tanımlanır.",
+          "Yanlış; soru-cevap tekniği, antrenörün sorular sorarak öğretimi sürdürmesidir, uygulama yaptırmaya dayalı bir yöntem değildir.",
+          "Yanlış; tartışma yöntemi, görüş ve düşünce alışverişine dayanır, uygulamalı/psikomotor bir öğretim yöntemi değildir.",
+          "Yanlış; anlatma yöntemi, antrenörün sözel aktarımına dayanan pasif bir yöntemdir, metinde özellikle psikomotor hedeflerde etkisinin sınırlı olduğu belirtilir, bu nedenle \"aktif öğrenme ve uygulama\" tanımıyla çelişir."
+        ]
+      },
+      {
+        "id": "extra39",
+        "question": "Antrenörlerin bulunmadığı ortamlarda bireylere spor öğretimi veya antrenman konusunda yardımcı olan kişilere ne ad verilir?",
+        "options": [
+          "Gönüllü lider (veya gönüllü spor lideri)",
+          "Ücretli antrenör",
+          "Kısmi zamanlı antrenör",
+          "Yardımcı antrenör",
+          "Profesyonel antrenör"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 1 metninde bu tanım birebir şu şekilde verilir: 'Gönüllü antrenörler, hiçbir ücret almaksızın, antrenörlerin bulunmadığı ortamlarda bireylere antrenörlük yapan kişilerdir.' Bu kişiler genellikle sporcuların yakınları, ebeveynleri veya göreceli spor deneyimine sahip kişilerdir; sorudaki 'gönüllü lider' ifadesi bu role karşılık gelir.",
+        "optionNotes": [
+          "Doğru: metin, antrenörlerin bulunmadığı ortamlarda ücretsiz antrenörlük/liderlik yapan bu kişileri 'gönüllü antrenör/lider' olarak tanımlar.",
+          "Yanlış: ücretli antrenörler profesyonel, önceden belirlenmiş bir prosedürle işe alınan kişilerdir; antrenörün bulunmadığı ortamla ilgisi yoktur.",
+          "Yanlış: kısmi zamanlı antrenörler başka bir meslekleri yanında ücret karşılığı antrenörlük yapan kişilerdir, ücretsiz gönüllü yardım değildir.",
+          "Yanlış: yardımcı antrenör, baş antrenöre bağlı çalışan bir rol tanımıdır, metinde tanımlanan gönüllü-ücretsiz yapıyla örtüşmez.",
+          "Yanlış: profesyonel antrenörler antrenörlüğü meslek olarak icra eder ve ücret alır; tanımdaki ücretsiz ve antrenörsüz ortam vurgusuyla çelişir."
+        ]
+      },
+      {
+        "id": "extra40",
+        "question": "Aşağıdakilerden hangisi spora katılım süreçlerinden biri değildir?",
+        "options": [
+          "Elit yarışmalar",
+          "Ulusal yarışmalar",
+          "Bölgesel yarışmalar",
+          "Yerel yarışmalar",
+          "Akran yarışmaları"
+        ],
+        "correctIndex": 4,
+        "explanation": "Piramit modeline göre spora katılım süreci sırasıyla okul sporu/beden eğitimi, yerel yarışmalar, bölgesel şampiyonalar, ulusal şampiyonalar ve en tepede elit yarışmalar şeklinde ilerler. 'Akran yarışmaları' bu modelde tanımlanan resmi bir aşama değildir, dolayısıyla spora katılım süreçlerinden biri değildir.",
+        "optionNotes": [
+          "Piramidin en tepesinde yer alan aşamadır, metinde açıkça sayılmıştır.",
+          "Piramit modelinin dördüncü aşamasıdır, metinde açıkça sayılmıştır.",
+          "Piramit modelinin üçüncü aşamasıdır, metinde açıkça sayılmıştır.",
+          "Piramit modelinin ikinci aşamasıdır (okul sporundan sonra), metinde açıkça sayılmıştır.",
+          "Doğru: piramit modelinde tanımlanan resmi aşamalar arasında 'akran yarışmaları' diye bir basamak yer almaz."
+        ]
+      },
+      {
+        "id": "extra41",
+        "question": "Sporda öğrenme kavramı en doğru şekilde aşağıdakilerden hangisiyle açıklanır?",
+        "options": [
+          "Kısa süreli davranış değişikliği",
+          "Kalıcı davranış değişikliği",
+          "Doğuştan gelen becerilerin gelişmesi",
+          "Sadece fiziksel gelişim",
+          "Anlık performans artışı"
+        ],
+        "correctIndex": 1,
+        "explanation": "Öğrenme, ünite metinlerinde 'yaşantı/deneyim ve alıştırma sonucu davranışta meydana gelen nispeten kalıcı izli bir değişme' olarak tanımlanır. Bu nedenle sporda öğrenme kavramı en doğru şekilde 'kalıcı davranış değişikliği' ile açıklanır; kısa süreli veya anlık değişiklikler öğrenmeye değil performansa aittir.",
+        "optionNotes": [
+          "Yanlış: kısa süreli değişiklik performansın değişken doğasını tanımlar, öğrenmeyi değil.",
+          "Doğru: metinlerde öğrenme birebir 'nispeten kalıcı izli değişme' olarak tanımlanır.",
+          "Yanlış: doğuştan gelen becerilerin gelişmesi olgunlaşma kavramıyla ilgilidir, deneyim yoluyla kazanılan öğrenmeyle karıştırılmamalıdır.",
+          "Yanlış: öğrenme sadece fiziksel değil bilişsel ve duyuşsal boyutları da kapsar.",
+          "Yanlış: anlık performans artışı geçici bir durumdur, kalıcı olmadığından öğrenme sayılmaz."
+        ]
+      },
+      {
+        "id": "extra42",
+        "question": "Bir spor becerisinin öğrenilmesi sırasında yapılan tekrarların temel amacı nedir?",
+        "options": [
+          "Sporcuya dinlenme sağlamak",
+          "Hareketin kalıcı hale gelmesini sağlamak",
+          "Sporcu sayısını artırmak",
+          "Antrenman süresini uzatmak",
+          "Sporcuları motive etmek"
+        ],
+        "correctIndex": 1,
+        "explanation": "Motor becerilerin öğrenilmesinde tekrarın temel amacı, hareketin otomatikleşmesi ve kalıcı hale gelmesidir; psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır. Diğer seçenekler tekrarın asıl işlevini değil, ilgisiz veya yan sonuçları ifade eder.",
+        "optionNotes": [
+          "Yanlış: tekrarın amacı dinlenme sağlamak değildir, aksine beceriyi geliştirmektir.",
+          "Doğru: metinlerde tekrarın, hareketin kalıcı ve otomatik hale gelmesini sağladığı vurgulanır.",
+          "Yanlış: tekrar sporcu sayısıyla ilgili bir kavram değildir.",
+          "Yanlış: tekrarın amacı süreyi uzatmak değil, beceriyi kalıcı kılmaktır; süre bir araçtır, amaç değildir.",
+          "Yanlış: motivasyon sağlamak tekrarın temel amacı değildir, bu daha çok geri bildirim ve pekiştirmeyle ilişkilidir."
+        ]
+      },
+      {
+        "id": "extra43",
+        "question": "Aşağıdakilerden hangisi öğrenmeyi etkileyen bireysel faktörlerden biridir?",
+        "options": [
+          "Sporcunun güdülenme düzeyi",
+          "Tesislerin büyüklüğü",
+          "Seyirci sayısı",
+          "Müsabaka takvimi",
+          "Hakem kararları"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite 6'da öğrenmeyi etkileyen öğrenenle ilgili (bireysel) faktörler arasında güdü (motivasyon), dikkat, eski yaşantılar, olgunlaşma ve genel uyarılmışlık hali sayılır. Tesis büyüklüğü, seyirci sayısı, müsabaka takvimi ve hakem kararları ise bireysel değil çevresel/dışsal unsurlardır.",
+        "optionNotes": [
+          "Doğru: güdü (motivasyon), metinde öğrenenle ilgili bireysel faktörler arasında açıkça sayılmıştır.",
+          "Yanlış: tesislerin büyüklüğü bireysel bir özellik değil, fiziksel çevreye ait dışsal bir unsurdur.",
+          "Yanlış: seyirci sayısı bireyin kendisine ait bir özellik değildir, dışsal/çevresel bir faktördür.",
+          "Yanlış: müsabaka takvimi organizasyonel bir unsurdur, bireysel öğrenme faktörü değildir.",
+          "Yanlış: hakem kararları bireyin kendisine ait bir özellik olmayıp dışsal bir etkendir."
+        ]
+      },
+      {
+        "id": "extra44",
+        "question": "Spor becerilerinin öğretiminde antrenörün sporcuya yaptığı düzeltici bilgilendirmeye ne ad verilir?",
+        "options": [
+          "Transfer",
+          "Pekiştirme",
+          "Modelleme",
+          "Geri bildirim",
+          "Motivasyon"
+        ],
+        "correctIndex": 3,
+        "explanation": "Antrenörün sporcuya performansı hakkında verdiği, doğruluğu veya hatasını bildiren bilgiye 'geri bildirim (dönüt)' denir; metinde dönüt, 'öğrenene öğrenme sonucunun bildirilmesi' olarak tanımlanmıştır.",
+        "optionNotes": [
+          "Yanlış: transfer, önceden öğrenilen bir becerinin yeni öğrenmeyi kolaylaştırması veya zorlaştırmasıdır, düzeltici bilgi verme değildir.",
+          "Yanlış: pekiştirme, davranışı güçlendiren hoşa giden/gitmeyen bir uyarıcı sunmaktır, bilgi vermekle aynı değildir.",
+          "Yanlış: modelleme, bir hareketin gösterilerek öğretilmesidir, performans hakkında bilgi vermekle ilgili değildir.",
+          "Doğru: geri bildirim, sporcunun performansının doğru/hatalı olduğuna dair bilgi verilmesidir.",
+          "Yanlış: motivasyon, bireyi harekete geçiren içsel/dışsal bir güçtür, düzeltici bilgi verme süreci değildir."
+        ]
+      },
+      {
+        "id": "extra45",
+        "question": "Spor öğretiminde hareketin bir sporcu tarafından gösterilerek diğer sporcuların onu taklit etmesi yöntemine ne ad verilir?",
+        "options": [
+          "Komut yöntemi",
+          "Model alma (gözlem yoluyla öğrenme)",
+          "Tartışma yöntemi",
+          "Problem çözme yöntemi",
+          "Bireysel çalışma yöntemi"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bir hareketin bir sporcu tarafından gösterilip diğerlerinin bunu taklit etmesi, Bandura'nın sosyal-bilişsel öğrenme kuramında tanımlanan 'model alma' (gözlem yoluyla öğrenme) sürecidir; birey başkalarını gözleyerek ve pekiştirilen davranışları taklit ederek öğrenir.",
+        "optionNotes": [
+          "Yanlış: komut yöntemi, antrenörün doğrudan talimat/komut vererek yönlendirdiği bir yöntemdir, taklit temelli değildir.",
+          "Doğru: model alma/gözlem yoluyla öğrenme, bir hareketin gösterilip taklit edilmesi sürecidir.",
+          "Yanlış: tartışma yöntemi, görüş alışverişine dayanır, hareketi gösterip taklit ettirme değildir.",
+          "Yanlış: problem çözme yöntemi, sporcunun kendi çözümünü bulmasına dayanır, taklit değildir.",
+          "Yanlış: bireysel çalışma yöntemi, sporcunun tek başına çalışmasını ifade eder, model gösterme ile ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra46",
+        "question": "Aşağıdakilerden hangisi etkili bir öğretim ortamının özelliklerinden biri değildir?",
+        "options": [
+          "Güvenli ortam sağlanması",
+          "Öğrenci seviyesine uygunluk",
+          "Öğrenme hedeflerinin belirlenmesi",
+          "Sporcuların tamamen pasif olması",
+          "Etkili iletişim kurulması"
+        ],
+        "correctIndex": 3,
+        "explanation": "Etkili bir öğretim ortamı güvenli olmalı, öğrenci seviyesine uygun olmalı, hedefler belirlenmeli ve etkili iletişim kurulmalıdır; ayrıca 'etkin katılım ilkesi' gereği sporcunun sürece aktif katılması öğrenmeyi güçlendirir. Sporcuların tamamen pasif olması bu ilkeyle doğrudan çelişir ve etkili bir öğretim ortamının özelliği değildir.",
+        "optionNotes": [
+          "Doğru bir özelliktir: güvenli ortam, etkili öğretimin temel koşullarından biridir.",
+          "Doğru bir özelliktir: öğretim, sporcunun seviyesine uygun (sporcuya görelik ilkesi) olmalıdır.",
+          "Doğru bir özelliktir: öğrenme hedeflerinin belirlenmesi, planlı ve programlı bir öğretim sürecinin gerekliliğidir.",
+          "Bu özellik DOĞRU DEĞİLDİR: etkin katılım ilkesine göre sporcunun aktif katılımı gereklidir, tamamen pasif olması öğrenmeyi zayıflatır.",
+          "Doğru bir özelliktir: etkili iletişim, öğretim ortamının temel bileşenlerinden biridir."
+        ]
+      },
+      {
+        "id": "extra47",
+        "question": "Bir spor becerisinin parçalara ayrılarak öğretilmesine ne ad verilir?",
+        "options": [
+          "Bütün yöntem",
+          "Tekrar yöntemi",
+          "Parça yöntemi",
+          "Komut yöntemi",
+          "Gösterip yaptırma yöntemi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kompleks becerilerin (örneğin smaç) öğretiminde beceri parçalara ayrılarak öğretilir; bu yaklaşıma 'parça yöntemi' denir. Basit beceriler ise genellikle bütün halinde öğretilir.",
+        "optionNotes": [
+          "Yanlış: bütün yöntem, becerinin parçalara ayrılmadan tek bir bütün olarak öğretilmesidir, tam tersidir.",
+          "Yanlış: tekrar yöntemi, bir hareketin defalarca uygulanmasıyla ilgilidir, parçalara ayırmakla ilgili değildir.",
+          "Doğru: kompleks beceriler parçalara bölünerek öğretilir; bu yönteme parça yöntemi denir.",
+          "Yanlış: komut yöntemi, antrenörün talimat vererek yönlendirdiği bir öğretim şeklidir, parçalama ile ilgili değildir.",
+          "Yanlış: gösterip yaptırma yöntemi, hareketin gösterilip ardından uygulatılmasıdır, parçalara ayırmakla ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra48",
+        "question": "Spor öğretiminde sporcuların aktif katılımını artıran en önemli faktör aşağıdakilerden hangisidir?",
+        "options": [
+          "Sürekli eleştiri yapmak",
+          "Uzun teorik anlatımlar yapmak",
+          "Sporcuları uygulamaya aktif katmak",
+          "Sadece elit sporcularla çalışmak",
+          "Antrenman süresini kısaltmak"
+        ],
+        "correctIndex": 2,
+        "explanation": "Metinde 'sporcunun aktif katılımı arttıkça öğrenme de güçlenir, çünkü psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır' denilerek etkin katılımın önemi vurgulanır. Bu nedenle sporcuları uygulamaya aktif katmak, aktif katılımı artıran en önemli faktördür.",
+        "optionNotes": [
+          "Yanlış: sürekli eleştiri, sporcunun motivasyonunu ve katılım isteğini olumsuz etkiler, artırmaz.",
+          "Yanlış: uzun teorik anlatımlar sporcuyu pasif bırakır, aktif katılımı azaltır.",
+          "Doğru: sporcuyu uygulamaya aktif katmak, etkin katılım ilkesinin özüdür ve öğrenmeyi güçlendirir.",
+          "Yanlış: sadece elit sporcularla çalışmak, genel katılımı artıran bir faktör değildir, kapsamı sınırlar.",
+          "Yanlış: antrenman süresini kısaltmak, pratik/tekrar fırsatını azaltır, aktif katılımı artırmaz."
+        ]
+      },
+      {
+        "id": "extra49",
+        "question": "Sporda öğrenme aşağıdakilerden hangisini ifade eder?",
+        "options": [
+          "Geçici performans değişikliği",
+          "Deneyim ve uygulama sonucu oluşan kalıcı davranış değişikliği",
+          "Yalnızca fiziksel gelişim",
+          "Sporcunun yarışma kazanması",
+          "Sadece teorik bilgi edinme"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sporda öğrenme, deneyim ve uygulama (alıştırma) sonucu davranışta oluşan kalıcı değişikliktir; bu tanım metinlerde birebir yer alır. Diğer seçenekler geçici, kısmi veya öğrenmeyle ilgisiz durumları tanımlar.",
+        "optionNotes": [
+          "Yanlış: geçici performans değişikliği öğrenmeyi değil, performansın değişken doğasını tanımlar.",
+          "Doğru: öğrenme, deneyim ve uygulama sonucu oluşan kalıcı davranış değişikliği olarak tanımlanır.",
+          "Yanlış: öğrenme sadece fiziksel gelişimle sınırlı değildir, bilişsel ve duyuşsal boyutları da kapsar.",
+          "Yanlış: yarışma kazanmak bir sonuç/başarıdır, öğrenmenin tanımı değildir.",
+          "Yanlış: öğrenme sadece teorik bilgi edinmekle sınırlı değildir, uygulama ve deneyimi de gerektirir."
+        ]
+      },
+      {
+        "id": "extra50",
+        "question": "Aşağıdakilerden hangisi spora katılım sürecinin aşamalarından biridir?",
+        "options": [
+          "Spora başlama",
+          "Sporcu transferi",
+          "Sponsorluk",
+          "Profesyonelleşme",
+          "Spor yöneticiliği"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spora katılım sürecinde birey 'spora başlama' ile sürece dahil olur ve bu aşamadan sonra katılım veya performans sporu ortamlarında ilerler. Diğer seçenekler (sporcu transferi, sponsorluk, profesyonelleşme, spor yöneticiliği) spora katılım sürecinin aşamaları olarak tanımlanmamış, idari/ticari kavramlardır.",
+        "optionNotes": [
+          "Doğru: spora katılım süreci bireyin spora başlamasıyla başlar; metinde katılım sporu ortamı da 'spora başlama yaşından' itibaren tanımlanır.",
+          "Yanlış: sporcu transferi, spora katılım sürecinin bir aşaması olarak tanımlanmaz, kulüpler arası idari bir işlemdir.",
+          "Yanlış: sponsorluk, spora katılım sürecinin aşamalarından biri değildir, finansal bir destek mekanizmasıdır.",
+          "Yanlış: profesyonelleşme spora katılım sürecinin tanımlı bir aşaması değildir, meslekleşme sürecini ifade eder.",
+          "Yanlış: spor yöneticiliği bir meslek alanıdır, spora katılım sürecinin bir aşaması olarak tanımlanmamıştır."
+        ]
+      },
+      {
+        "id": "extra51",
+        "question": "Bir spor becerisinin tekrar edilmesinin temel amacı nedir?",
+        "options": [
+          "Sporcuları yormak",
+          "Hareketin otomatikleşmesini sağlamak",
+          "Antrenman süresini uzatmak",
+          "Yarışmaya hazırlanmak",
+          "Taktik öğretmek"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bir spor becerisinin tekrar edilmesinin temel amacı, hareketin otomatikleşmesini ve kalıcı hale gelmesini sağlamaktır; psikomotor becerilerin öğrenilmesi doğru tekrar sayısına bağlıdır.",
+        "optionNotes": [
+          "Yanlış: tekrarın amacı sporcuları yormak değildir, bu yan bir etki olabilir ama hedef değildir.",
+          "Doğru: tekrar, hareketin otomatikleşmesini (kalıcı ve akıcı hale gelmesini) sağlamak için yapılır.",
+          "Yanlış: antrenman süresini uzatmak tekrarın amacı değil, olası bir sonucudur.",
+          "Yanlış: yarışmaya hazırlanmak genel bir antrenman hedefi olabilir ama tekrarın spesifik/temel amacı değildir.",
+          "Yanlış: taktik öğretmek genellikle ayrı bir süreçtir, tekrarın temel amacı beceri otomasyonu sağlamaktır."
+        ]
+      },
+      {
+        "id": "extra52",
+        "question": "Spor öğretiminde antrenörün sporcunun yaptığı hareket hakkında verdiği bilgiye ne ad verilir?",
+        "options": [
+          "Transfer",
+          "Motivasyon",
+          "Modelleme",
+          "Pekiştirme",
+          "Geri bildirim"
+        ],
+        "correctIndex": 4,
+        "explanation": "Antrenörün sporcunun yaptığı hareket hakkında, performansının doğruluğu/hatası konusunda verdiği bilgiye geri bildirim (dönüt) denir; metinde dönüt, 'öğrenene öğrenme sonucunun bildirilmesi' olarak tanımlanmıştır.",
+        "optionNotes": [
+          "Yanlış: transfer, önceki öğrenmenin yeni öğrenmeyi etkilemesidir, hareket hakkında bilgi verme değildir.",
+          "Yanlış: motivasyon, bireyi harekete geçiren içsel/dışsal bir güçtür, performans bilgisi verme süreci değildir.",
+          "Yanlış: modelleme, hareketin gösterilerek öğretilmesidir, performans hakkında bilgi verme değildir.",
+          "Yanlış: pekiştirme, davranışı güçlendiren bir uyarıcı sunmaktır, doğrudan bilgi verme sürecinin kendisi değildir.",
+          "Doğru: geri bildirim, sporcunun yaptığı hareket hakkında bilgi verilmesidir."
+        ]
+      },
+      {
+        "id": "extra53",
+        "question": "Spor öğretiminde hareketin bir sporcu veya antrenör tarafından gösterilerek öğretilmesi hangi yöntemdir?",
+        "options": [
+          "Tartışma yöntemi",
+          "Problem çözme yöntemi",
+          "Bireysel çalışma yöntemi",
+          "Komut yöntemi",
+          "Model alma yöntemi"
+        ],
+        "correctIndex": 4,
+        "explanation": "Hareketin bir sporcu veya antrenör tarafından gösterilerek öğretilmesi, Bandura'nın sosyal-bilişsel öğrenme kuramında tanımlanan 'model alma' (gözlem yoluyla öğrenme) yöntemidir.",
+        "optionNotes": [
+          "Yanlış: tartışma yöntemi, görüş alışverişine dayanır, hareketi gösterip öğretme değildir.",
+          "Yanlış: problem çözme yöntemi, sporcunun kendi çözümünü bulmasına dayanır, gösterim temelli değildir.",
+          "Yanlış: bireysel çalışma yöntemi, sporcunun tek başına çalışmasını ifade eder, model gösterme ile ilgili değildir.",
+          "Yanlış: komut yöntemi, antrenörün doğrudan talimat/komut vererek yönlendirdiği bir yöntemdir, gösterip taklit ettirme değildir.",
+          "Doğru: model alma yöntemi, bir hareketin gösterilip gözlemlenerek öğrenilmesi sürecidir."
+        ]
+      },
+      {
+        "id": "extra54",
+        "question": "Bir hareketin bütün olarak öğretilmesine ne ad verilir?",
+        "options": [
+          "Bütün yöntemi",
+          "Parça yöntemi",
+          "Karma yöntem",
+          "Tekrar yöntemi",
+          "Gösterip yaptırma yöntemi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde 'basit beceriler bütün halinde (ip atlama gibi) ... öğretilmelidir' ifadesiyle desteklendiği üzere, bir hareketin parçalara ayrılmadan tek bir bütün olarak öğretilmesine 'bütün yöntemi' denir.",
+        "optionNotes": [
+          "Doğru: basit beceriler parçalara ayrılmadan tek bütün halinde öğretilir; bu yönteme bütün yöntemi denir.",
+          "Yanlış: parça yöntemi, kompleks becerilerin parçalara bölünerek öğretilmesidir, tam tersidir.",
+          "Yanlış: karma yöntem metinde tanımlanan ayrı bir yöntem değildir; bu soruda sorulan tanıma karşılık gelmez.",
+          "Yanlış: tekrar yöntemi, bir hareketin defalarca uygulanmasıyla ilgilidir, bütün/parça ayrımıyla ilgili değildir.",
+          "Yanlış: gösterip yaptırma yöntemi, hareketin gösterilip ardından uygulatılmasıdır, bütün halinde öğretim kavramıyla aynı değildir."
+        ]
+      },
+      {
+        "id": "extra55",
+        "question": "Sporda öğrenmenin gerçekleşmesi için aşağıdakilerden hangisi gereklidir?",
+        "options": [
+          "Tekrar ve uygulama",
+          "Yalnızca teorik bilgi",
+          "Sadece gözlem",
+          "Yalnızca yarışma",
+          "Dinlenme"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beceri öğrenimi (motor öğrenme) alıştırma/pratik yapma ve deneyim sonucunda oluşur; sporda öğrenmenin gerçekleşmesi için tekrar ve uygulama şarttır. Sadece teorik bilgi, gözlem, yarışma veya dinlenme tek başına kalıcı davranış değişikliği (öğrenme) sağlamaz.",
+        "optionNotes": [
+          "Doğru: Motor/beceri öğrenimi temelde alıştırma (tekrar) ve pratik uygulama yoluyla gerçekleşir; bu, öğrenmenin olmazsa olmaz koşuludur.",
+          "Yanlış: Yalnızca teorik bilgi, uygulamaya dönüşmeden kalıcı bir beceri/davranış değişikliği oluşturmaz; motor beceriler yaparak öğrenilir.",
+          "Yanlış: Sadece gözlem (bir modelin izlenmesi) öğrenmeye katkı sağlayabilir ancak kendi başına yeterli değildir, tekrar ve uygulama gerekir.",
+          "Yanlış: Yarışma, öğrenmenin bir sonucu/ortamı olabilir ama öğrenmenin kendisini sağlayan temel mekanizma değildir.",
+          "Yanlış: Dinlenme, performansı etkileyen bir faktör olabilir ama öğrenmeyi sağlayan bir yöntem değildir."
+        ]
+      },
+      {
+        "id": "extra56",
+        "question": "Sporda öğrenme sürecinde motivasyonun temel amacı nedir?",
+        "options": [
+          "Sporcuları cezalandırmak",
+          "Sporcuların öğrenmeye istek duymasını sağlamak",
+          "Antrenman süresini uzatmak",
+          "Yarışma sayısını artırmak",
+          "Takım sayısını artırmak"
+        ],
+        "correctIndex": 1,
+        "explanation": "Motivasyon, sporcuyu harekete geçiren içsel veya dışsal güdüdür ve temel amacı sporcunun öğrenmeye, antrenmana ve gelişime karşı istek duymasını sağlamaktır. Cezalandırma, antrenman süresini/yarışma veya takım sayısını artırma motivasyonun tanımlanan amacı değildir.",
+        "optionNotes": [
+          "Yanlış: Cezalandırma motivasyonun amacı değildir, motivasyon olumlu bir güdüleme sürecidir.",
+          "Doğru: Motivasyonun temel işlevi, sporcunun öğrenme ve gelişim sürecine istekli katılmasını sağlamaktır.",
+          "Yanlış: Antrenman süresinin uzatılması motivasyonun bir sonucu veya amacı olarak tanımlanmaz.",
+          "Yanlış: Yarışma sayısının artırılması motivasyon kavramının tanımıyla ilgili değildir.",
+          "Yanlış: Takım sayısının artırılması motivasyonla ilgili bir amaç değildir, organizasyonel bir konudur."
+        ]
+      },
+      {
+        "id": "extra57",
+        "question": "por öğretiminde sporcuların aktif katılımını artıran yöntem hangisidir?",
+        "options": [
+          "Pasif öğrenme",
+          "Uzun anlatım",
+          "Dinleme yöntemi",
+          "Sürekli eleştiri",
+          "Uygulamalı öğretim"
+        ],
+        "correctIndex": 4,
+        "explanation": "Sporcuların aktif katılımını artırmak, onların sürece bedensel ve zihinsel olarak dahil olmasını gerektirir; bu da en iyi uygulamalı öğretim (yaparak-yaşayarak öğrenme) yoluyla sağlanır. Pasif öğrenme, uzun anlatım, dinleme ve sürekli eleştiri sporcuyu pasif konuma iter.",
+        "optionNotes": [
+          "Yanlış: Pasif öğrenme tanımı itibarıyla sporcunun sürece aktif katılımını değil, tam tersini ifade eder.",
+          "Yanlış: Uzun anlatım, sporcuyu dinleyici konumunda bırakır, aktif katılımı desteklemez.",
+          "Yanlış: Dinleme yöntemi de sporcuyu pasif konumda tutar, aktif katılımı artırmaz.",
+          "Yanlış: Sürekli eleştiri, motivasyonu ve katılım isteğini azaltabilecek olumsuz bir yaklaşımdır.",
+          "Doğru: Uygulamalı öğretim, sporcunun beceriyi bizzat deneyerek öğrenmesini sağladığından aktif katılımı doğrudan artırır."
+        ]
+      },
+      {
+        "id": "extra58",
+        "question": "Sporda öğrenme sürecinde yapılan hataların düzeltilmesi için kullanılan yöntem hangisidir?",
+        "options": [
+          "Geri bildirim",
+          "Transfer",
+          "Modelleme",
+          "Tartışma",
+          "Pekiştirme"
+        ],
+        "correctIndex": 0,
+        "explanation": "Geri bildirim (dönüt), sporcuya performansının ne kadar doğru veya hatalı olduğu bilgisini verir ve bu bilgi sayesinde sporcu hatalarını fark edip düzeltebilir. Transfer, modelleme, tartışma ve pekiştirme ise farklı amaçlara hizmet eden kavramlardır ve doğrudan hata düzeltme işlevi taşımazlar.",
+        "optionNotes": [
+          "Doğru: Geri bildirim, sporcuya performansı hakkında doğru/hatalı bilgisini vererek hataların fark edilip düzeltilmesini sağlar.",
+          "Yanlış: Transfer, bir becerinin başka bir beceriyi olumlu/olumsuz etkilemesiyle ilgilidir, hata düzeltmeyle ilgili bir kavram değildir.",
+          "Yanlış: Modelleme, bir davranışın gözlemlenerek öğrenilmesiyle ilgilidir, doğrudan hata düzeltme aracı değildir.",
+          "Yanlış: Tartışma, görüş alışverişine dayanan bir öğretim yöntemidir, hata düzeltme sürecini tanımlamaz.",
+          "Yanlış: Pekiştirme, istenen davranışı güçlendirmeye yöneliktir, hatanın kendisinin düzeltilmesi sürecini tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra59",
+        "question": "Bir spor becerisinin başka bir spor becerisini olumlu yönde etkilemesine ne ad verilir?",
+        "options": [
+          "Geri bildirim",
+          "Pekiştirme",
+          "Öğretim",
+          "Transfer",
+          "Adaptasyon"
+        ],
+        "correctIndex": 3,
+        "explanation": "Bir spor becerisinin, önceden öğrenilmiş olması nedeniyle başka bir spor becerisinin öğrenilmesini kolaylaştırmasına 'olumlu transfer' denir; bu süreç genel olarak transfer kavramıyla ifade edilir (örneğin badmintondaki ayak hareketlerinin voleybolu kolaylaştırması gibi).",
+        "optionNotes": [
+          "Yanlış: Geri bildirim, performans hakkında bilgi verilmesidir, bir becerinin diğerini etkilemesiyle ilgili değildir.",
+          "Yanlış: Pekiştirme, davranışı güçlendiren bir uyarıcının verilmesidir, beceriler arası etkileşimi tanımlamaz.",
+          "Yanlış: Öğretim, genel olarak öğrenmeyi kolaylaştıracak etkinliklerin düzenlenmesidir, bu spesifik etkiyi tanımlamaz.",
+          "Doğru: Transfer, önceden öğrenilen bir becerinin yeni bir beceriyi olumlu (veya olumsuz) yönde etkilemesini ifade eder.",
+          "Yanlış: Adaptasyon, organizmanın bir duruma uyum sağlamasıdır, iki beceri arasındaki etkileşimi doğrudan tanımlamaz."
+        ]
+      },
+      {
+        "id": "extra60",
+        "question": "Motor öğrenme en çok hangi yöntemle gelişir?",
+        "options": [
+          "Tekrar",
+          "Dinleme",
+          "Okuma",
+          "İzleme",
+          "Tartışma"
+        ],
+        "correctIndex": 0,
+        "explanation": "Motor öğrenme, alıştırma ve deneyim sonucu harekette meydana gelen değişiklikleri inceler; psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır. Bu nedenle motor öğrenme en çok tekrar yoluyla gelişir; dinleme, okuma, izleme ve tartışma motor becerinin bedensel olarak kazanılmasında tekrarın yerini tutamaz.",
+        "optionNotes": [
+          "Doğru: Motor/beceri öğrenimi temelde alıştırma ve tekrar yoluyla gelişir; psikomotor davranışların kazanılması doğru tekrar sayısına bağlıdır.",
+          "Yanlış: Dinleme bilişsel bir girdi sağlar ama motor becerinin bedensel olarak kazanılmasını sağlamaz.",
+          "Yanlış: Okuma da bilgi edinmeye yardımcı olur ama motor beceri gelişimini doğrudan sağlamaz.",
+          "Yanlış: İzleme (gözlem) modelden öğrenmeye yardımcı olabilir ama motor beceri gelişiminin ana yolu değildir.",
+          "Yanlış: Tartışma bilişsel bir yöntemdir, motor becerilerin fiziksel olarak kazanılmasını sağlamaz."
+        ]
+      },
+      {
+        "id": "extra61",
+        "question": "Sporda öğrenme sürecinde bireysel farklılıkların dikkate alınması neden önemlidir?",
+        "options": [
+          "Tesis sayısını artırmak için",
+          "Yarışma kazanmak için",
+          "Antrenman süresini uzatmak için",
+          "Sporcuların seviyeleri farklı olduğu için",
+          "Hakem sayısını artırmak için"
+        ],
+        "correctIndex": 3,
+        "explanation": "Her sporcunun yaş, yetenek, hazırbulunuşluk ve gelişim düzeyi farklı olduğundan, öğretim ve antrenman sürecinde bireysel farklılıkların dikkate alınması gerekir; aksi halde bazı sporcular için içerik çok kolay, bazıları için çok zor olabilir. Diğer seçenekler (tesis, yarışma kazanma, antrenman süresi, hakem sayısı) bireysel farklılıkların dikkate alınma nedeniyle ilgisizdir.",
+        "optionNotes": [
+          "Yanlış: Tesis sayısını artırmak, bireysel farklılıkların dikkate alınma gerekçesiyle ilgili bir amaç değildir.",
+          "Yanlış: Yarışma kazanmak, bireysel farklılıkların dikkate alınma gerekçesi değildir.",
+          "Yanlış: Antrenman süresini uzatmak bireysel farklılıklarla ilgili bir amaç değildir.",
+          "Doğru: Sporcuların seviye, yetenek ve hazırbulunuşluk düzeylerinin farklı olması, öğretimin bireysel farklılıklara göre uyarlanmasını gerekli kılar.",
+          "Yanlış: Hakem sayısını artırmak bireysel farklılıklarla ilgisi olmayan bir konudur."
+        ]
+      },
+      {
+        "id": "extra62",
+        "question": "Aşağıdakilerden hangisi antrenörün öğretim görevlerinden biridir?",
+        "options": [
+          "Hakemlik yapmak",
+          "Tesis inşa etmek",
+          "Sponsorluk bulmak",
+          "Kulüp yönetmek",
+          "Sporculara rehberlik etmek"
+        ],
+        "correctIndex": 4,
+        "explanation": "Antrenörlük mesleğinin temel kapsamı, sporculara teknik ve taktik konularda rehberlik ederek onların gelişimini sağlamaktır. Hakemlik yapmak, tesis inşa etmek, sponsorluk bulmak ve kulüp yönetmek ise antrenörün öğretim görevi kapsamında değil, farklı paydaşların (hakem, yönetici, kulüp vb.) sorumluluk alanına girer.",
+        "optionNotes": [
+          "Yanlış: Hakemlik, müsabakaları yöneten ayrı bir görevdir, antrenörün öğretim görevi değildir.",
+          "Yanlış: Tesis inşa etmek, yönetim/altyapı ile ilgili bir görevdir, antrenörün öğretim görevi kapsamında değildir.",
+          "Yanlış: Sponsorluk bulmak, kulüp yönetimi/finansmanla ilgili bir görevdir, öğretimle ilgili değildir.",
+          "Yanlış: Kulüp yönetmek, yöneticilik görevidir, antrenörün doğrudan öğretim görevi değildir.",
+          "Doğru: Antrenörün temel öğretim görevi, sporculara teknik ve gelişimsel anlamda rehberlik etmektir."
+        ]
+      },
+      {
+        "id": "extra63",
+        "question": "Aşağıdakilerden hangisi öğretim yöntemlerinden biridir?",
+        "options": [
+          "Hakem yöntemi",
+          "Sponsorluk yöntemi",
+          "Transfer yöntemi",
+          "Motivasyon yöntemi",
+          "Komut yöntemi"
+        ],
+        "correctIndex": 4,
+        "explanation": "Spor öğretiminde kullanılan tanınmış yöntemlerden biri 'komut yöntemi'dir; bu yöntemde antrenör hareketi/etkinliği doğrudan komutla başlatır ve yönlendirir. Hakem, sponsorluk, transfer ve motivasyon ise birer öğretim yöntemi değil, sporun farklı alanlarına (müsabaka yönetimi, finansman, beceri aktarımı, güdüleme) ait kavramlardır. Not: Ünite özetlerinde 'komut yöntemi' ayrı bir başlık olarak tanımlanmamıştır; ancak diğer dört seçeneğin hiçbiri bir öğretim yöntemi olamayacağından, eleme yoluyla ve alanda genel kabul gören bilgiye dayanarak en mantıklı/en çok desteklenen şık olarak bu seçilmiştir.",
+        "optionNotes": [
+          "Yanlış: 'Hakem yöntemi' diye bir öğretim yöntemi yoktur; hakemlik müsabakaları yönetme görevidir.",
+          "Yanlış: 'Sponsorluk yöntemi' diye bir öğretim yöntemi yoktur; sponsorluk finansal destekle ilgilidir.",
+          "Yanlış: 'Transfer yöntemi' diye adlandırılan bir öğretim yöntemi yoktur; transfer, bir becerinin diğerini etkilemesi anlamına gelir.",
+          "Yanlış: 'Motivasyon yöntemi' diye bir öğretim yöntemi tanımlanmamıştır; motivasyon bir güdüleme sürecidir, öğretim yöntemi değildir.",
+          "Doğru (en çok desteklenen şık): Komut yöntemi, antrenörün doğrudan komut vererek hareketi/etkinliği başlattığı, spor öğretiminde sıkça kullanılan bir öğretim yaklaşımıdır."
+        ]
+      },
+      {
+        "id": "extra64",
+        "question": "Spor öğretiminde sporcuların sorular sorarak öğrenmesine dayanan yöntem hangisidir?",
+        "options": [
+          "Soru-cevap yöntemi",
+          "Komut yöntemi",
+          "Gösteri yöntemi",
+          "Tekrar yöntemi",
+          "Parça yöntemi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Soru-cevap yöntemi, öğretim sürecinde sorular sorularak sporcuların düşünmeye ve öğrenmeye yönlendirildiği bir tekniktir; hem sunuş hem buluş stratejilerinde kullanılabilir. Komut, gösteri, tekrar ve parça yöntemleri ise farklı öğretim yaklaşımlarını ifade eder ve soru sorma temeline dayanmaz.",
+        "optionNotes": [
+          "Doğru: Soru-cevap yöntemi, sorular aracılığıyla öğretimi sürdüren, sporcunun düşünerek öğrenmesini destekleyen bir tekniktir.",
+          "Yanlış: Komut yöntemi, hareketin doğrudan komutla başlatıldığı bir yöntemdir, soru sormaya dayanmaz.",
+          "Yanlış: Gösteri yöntemi, bir hareketin yapılarak gösterilmesine dayanır, soru-cevaba dayalı değildir.",
+          "Yanlış: Tekrar yöntemi, bir hareketin defalarca uygulanmasına dayanır, soru sormayla ilgili değildir.",
+          "Yanlış: Parça yöntemi, karmaşık bir becerinin parçalara bölünerek öğretilmesidir, soru-cevap temelli bir yöntem değildir."
+        ]
+      },
+      {
+        "id": "extra65",
+        "question": "Aşağıdakilerden hangisi spor öğretiminde kullanılan araçlardan biridir?",
+        "options": [
+          "Transfer sözleşmesi",
+          "ponsorluk anlaşması",
+          "Kulüp bütçesi",
+          "Ekipman",
+          "Hakem raporu"
+        ],
+        "correctIndex": 3,
+        "explanation": "Spor öğretiminde kullanılan araç-gereçler arasında ekipman (toplar, aletler, güvenlik malzemeleri gibi) temel bir öğretim aracıdır. Transfer sözleşmesi, sponsorluk anlaşması, kulüp bütçesi ve hakem raporu ise idari/hukuki/finansal belgelerdir, öğretim aracı değildir.",
+        "optionNotes": [
+          "Yanlış: Transfer sözleşmesi, sporcunun kulüpler arası geçişiyle ilgili hukuki bir belgedir, öğretim aracı değildir.",
+          "Yanlış: Sponsorluk anlaşması, finansal destekle ilgili bir belgedir, öğretimle ilgisi yoktur.",
+          "Yanlış: Kulüp bütçesi, kulübün mali yönetimiyle ilgilidir, öğretim aracı değildir.",
+          "Doğru: Ekipman (toplar, aletler, güvenlik malzemeleri vb.), spor öğretiminde doğrudan kullanılan somut bir araçtır.",
+          "Yanlış: Hakem raporu, müsabaka sonuçlarına ilişkin bir belgedir, öğretim aracı olarak kullanılmaz."
+        ]
+      },
+      {
+        "id": "extra66",
+        "question": "Spor öğretiminde olumlu davranışların ödüllendirilmesine ne ad verilir?",
+        "options": [
+          "Modelleme",
+          "Transfer",
+          "Pekiştirme",
+          "Adaptasyon",
+          "Analiz"
+        ],
+        "correctIndex": 2,
+        "explanation": "Olumlu davranışların ödüllendirilerek güçlendirilmesi 'pekiştirme' (pekiştireç kullanımı) olarak adlandırılır; örneğin antrenörün 'bravo' demesi bir olumlu pekiştirmedir. Modelleme, transfer, adaptasyon ve analiz ise farklı süreçleri tanımlar ve ödüllendirme ile doğrudan ilişkili değildir.",
+        "optionNotes": [
+          "Yanlış: Modelleme, bir davranışın başkaları gözlenerek öğrenilmesidir, ödüllendirme ile ilgili değildir.",
+          "Yanlış: Transfer, bir becerinin diğerini etkilemesidir, ödüllendirme süreci değildir.",
+          "Doğru: Pekiştirme, olumlu davranışların ödüllendirilerek güçlendirilmesi sürecidir.",
+          "Yanlış: Adaptasyon, bir duruma uyum sağlama sürecidir, ödüllendirmeyle ilgili değildir.",
+          "Yanlış: Analiz, bir durumun incelenmesi sürecidir, davranışın ödüllendirilmesiyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra67",
+        "question": "Bir spor becerisinin öğrenilmesinde ilk aşama hangisidir?",
+        "options": [
+          "Otomatikleşme",
+          "Uzmanlaşma",
+          "Yarışma",
+          "Transfer",
+          "Tanıma ve anlama"
+        ],
+        "correctIndex": 4,
+        "explanation": "Not: Bu kavram sağlanan ünite özetlerinde/metinlerinde doğrudan bulunamamıştır. Motor beceri öğreniminde genel kabul gören aşamalandırmaya göre ilk aşama, sporcunun hareketi zihinsel olarak kavramaya çalıştığı 'tanıma ve anlama' evresidir; son aşama ise hareketin otomatikleşmesidir. Diğer seçenekler (uzmanlaşma, yarışma, transfer) öğrenme sürecinin ilk aşaması olarak tanımlanan kavramlar değildir. Bu yanıt ünite metinlerinde doğrulanamadığından, alandaki genel kabul görmüş bilgiye dayanarak ve en mantıklı/en çok desteklenen şık olarak seçilmiştir.",
+        "optionNotes": [
+          "Yanlış: Otomatikleşme, beceri öğreniminin ilk değil son aşamasıdır; hareketin bilinçli çaba gerektirmeden yapılabildiği evredir.",
+          "Yanlış: Uzmanlaşma, uzun bir gelişim sürecinin ileri bir noktasını ifade eder, ilk aşama değildir.",
+          "Yanlış: Yarışma, öğrenilen becerinin sergilendiği bir ortamdır, öğrenmenin bir aşaması olarak tanımlanmaz.",
+          "Yanlış: Transfer, bir becerinin başka bir beceriyi etkilemesidir, öğrenme sürecinin aşaması değildir.",
+          "Doğru (en çok desteklenen şık): Tanıma ve anlama, sporcunun hareketi zihinsel olarak kavramaya çalıştığı, motor beceri öğreniminin ilk evresidir."
+        ]
+      },
+      {
+        "id": "extra68",
+        "question": "Sporda öğrenmenin gerçekleştiğini gösteren en önemli kriter nedir?",
+        "options": [
+          "Performansın gelişmesi",
+          "Sporcu sayısının artması",
+          "Yarışma sayısı",
+          "Tesis sayısı",
+          "Antrenman süresi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Öğrenme doğrudan gözlemlenemeyen bir süreç olduğundan, gerçekleştiğine dair en önemli kanıt sporcunun performansındaki gelişmedir; performans, öğrenmenin dışa vurulan göstergesidir. Sporcu sayısı, yarışma sayısı, tesis sayısı ve antrenman süresi gibi unsurlar öğrenmenin gerçekleştiğini doğrudan göstermez.",
+        "optionNotes": [
+          "Doğru: Öğrenme doğrudan gözlemlenemediğinden, en önemli kanıtı sporcunun performansında gözlenen gelişmedir.",
+          "Yanlış: Sporcu sayısının artması, bireysel öğrenmenin gerçekleştiğine dair bir kanıt değildir, organizasyonel bir göstergedir.",
+          "Yanlış: Yarışma sayısı, öğrenmenin gerçekleştiğinin doğrudan bir göstergesi değildir.",
+          "Yanlış: Tesis sayısı, altyapı ile ilgili bir göstergedir, öğrenmeyle doğrudan ilişkili değildir.",
+          "Yanlış: Antrenman süresi, öğrenmenin gerçekleştiğini garanti eden bir ölçüt değildir; sürenin uzunluğu tek başına öğrenmeyi göstermez."
+        ]
+      },
+      {
+        "id": "extra69",
+        "question": "Spor öğretiminde sporcunun aktif olarak sürece katılması hangi öğrenme türünü destekler?",
+        "options": [
+          "Aktif öğrenme",
+          "Pasif öğrenme",
+          "Dolaylı öğrenme",
+          "Teorik öğrenme",
+          "Rastlantısal öğrenme"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sporcunun sürece aktif olarak katılması, tanım olarak 'aktif öğrenme' türünü destekler; bu yaklaşımda sporcu bilgiyi pasif almak yerine bizzat uygulayarak öğrenir. Pasif, dolaylı, teorik ve rastlantısal öğrenme türleri ise sporcunun sürece doğrudan ve etkin katılımını esas almaz.",
+        "optionNotes": [
+          "Doğru: Sporcunun sürece etkin biçimde katılması, tanım olarak aktif öğrenmeyi destekler.",
+          "Yanlış: Pasif öğrenme, sporcunun sürece etkin katılımının tam tersini ifade eder.",
+          "Yanlış: Dolaylı öğrenme, doğrudan deneyim yerine başka bir yol üzerinden öğrenmeyi ifade eder, aktif katılımla ilişkilendirilmez.",
+          "Yanlış: Teorik öğrenme, bilgiye dayalı ve genellikle anlatım yoluyla gerçekleşen bir öğrenme türüdür, aktif katılımı esas almaz.",
+          "Yanlış: Rastlantısal öğrenme, planlı ve kasıtlı bir katılım sürecini ifade etmez."
+        ]
+      },
+      {
+        "id": "extra70",
+        "question": "Aşağıdakilerden hangisi resim yapmak, yazı yazmak, dikiş-nakış gibi becerileri içerir?",
+        "options": [
+          "Kesik beceri",
+          "Seri beceri",
+          "Devamlı beceri",
+          "Büyük kas kitlesi",
+          "Küçük kas kitlesi"
+        ],
+        "correctIndex": 4,
+        "explanation": "Resim yapmak, yazı yazmak ve dikiş-nakış gibi beceriler, göz-el koordinasyonu ve yüksek kesinlik gerektiren, küçük kas gruplarıyla yapılan hareketlerdir; bu nedenle 'küçük kas kitlesi (ince)' beceri sınıfına girerler. Kesik, seri ve devamlı beceri sınıflamaları hareketin başlama-bitiş özelliğine göre yapılan farklı bir sınıflamadır ve büyük kas kitlesi tanımı da bu becerilerin tam tersidir.",
+        "optionNotes": [
+          "Yanlış: Kesik beceri, başı ve sonu belli, kısa süreli hareketleri tanımlar (örn. top atma); kas büyüklüğüyle ilgili bir sınıflama değildir.",
+          "Yanlış: Seri beceri, birçok kesik hareketin birleşmesiyle oluşan karmaşık harekettir; resim/yazı/dikiş gibi becerileri tanımlamaz.",
+          "Yanlış: Devamlı beceri, başı sonu belirsiz, uzun süreli hareketleri tanımlar (örn. yüzme); bu becerilerle ilgili değildir.",
+          "Yanlış: Büyük kas kitlesi (kaba) beceriler, kesinliğin az önemli olduğu, büyük kas gruplarıyla yapılan hareketlerdir (örn. yürüme); bu, tam tersi bir tanımdır.",
+          "Doğru: Küçük kas kitlesi (ince) beceriler, göz-el koordinasyonu ve yüksek kesinlik gerektiren resim yapma, yazı yazma, dikiş-nakış gibi hareketleri kapsar."
+        ]
+      },
+      {
+        "id": "extra71",
+        "question": "“Basketbol topunu baş, omuz, bel, diz çevresinden, ayakların arasından düşürmeden çevirme” Hangi etkinliğin karşılık geldiği temel hareket kavramı ve hareket becerisi aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+        "options": [
+          "Alan farkındalığı – nesne kontrol becerisi",
+          "Efor farkındalığı – dengeleme becerisi",
+          "Vücut farkındalığı – nesne kontrol becerisi",
+          "Alan farkındalığı – dengeleme becerisi",
+          "Vücut farkındalığı - akrobatik beceriler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Etkinlik, topu baş, omuz, bel ve diz gibi farklı vücut bölümlerinin çevresinde dolaştırmayı içerdiği için 'Vücut Ne Yapabilir?' sorusuna cevap veren Vücut Farkındalığı kavramıyla ilişkilidir. Top elle/vücutla yönetildiği için de bu, nesne kontrolü beceri temasına girer.",
+        "optionNotes": [
+          "Yanlış: Nesne kontrolü doğru fakat etkinlikte vurgulanan alan değil vücut bölümleridir, bu nedenle kavram eşleşmesi hatalıdır.",
+          "Yanlış: Etkinlikte hız, güç gibi efor unsurları ya da bir dengeleme hareketi değil, vücut bölümleri ve top kontrolü vurgulanır.",
+          "Doğru yanıt: Vücut bölümleri (baş, omuz, bel, diz) ile top (nesne) kontrolünün birleşimidir.",
+          "Yanlış: Ne alan kavramı ne de dengeleme becerisi bu etkinlikte öne çıkan unsurlardır.",
+          "Yanlış: Vücut farkındalığı kısmı doğru olsa da 'akrobatik beceriler' kitapta tanımlı bir beceri teması değildir; doğru beceri teması nesne kontrolüdür."
+        ]
+      },
+      {
+        "id": "extra72",
+        "question": "Aynı anda birden fazla düşünce silsilesinden birinin belirgin tarzda zihin tarafından alınmasına -------- denir. Boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+        "options": [
+          "Dikkat",
+          "Sezinleme",
+          "Seçici dikkat",
+          "Canlılık düzeyi",
+          "Seçici reaksiyon zamanı"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ünite metninde dikkatin tanımı doğrudan şu şekilde verilir: 'Aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına dikkat denir.' Bu, sorudaki ifadeyle birebir örtüşmektedir.",
+        "optionNotes": [
+          "Doğru yanıt: Bu, metinde verilen dikkatin birebir tanımıdır.",
+          "Yanlış: Sezinleme, geçmiş deneyimlere dayanarak zamanlama/mekân konusunda tahminde bulunmaktır, düşünceler arasında seçim yapmayı tanımlamaz.",
+          "Yanlış: Seçici dikkat, dikkat kavramının daha ayrıntılı incelenen bir alt türüdür ama soruda verilen genel tanım doğrudan 'dikkat' kavramına aittir.",
+          "Yanlış: Canlılık düzeyi, merkezi sinir sisteminin aktivasyon seviyesiyle ilgilidir, düşünce silsilelerinden birini seçmekle ilgili değildir.",
+          "Yanlış: Seçici reaksiyon zamanı, birden fazla uyarana karşı farklı tepkiler verme durumudur, zihnin bir düşünceyi seçmesiyle ilgili değildir."
+        ]
+      },
+      {
+        "id": "extra73",
+        "question": "Her birine farklı tepki gereken ve ardı ardına kısa aralıklarla verilen iki uyaran olduğu duruma------- denir.Boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A. aldatma B. Hick Kanunu C. Fitts Kanunu D. uyarı tepki tutarlılığı E. zamansal sezinleme",
+        "options": [
+          "Aldatma",
+          "Hick Kanunu",
+          "Fitts Kanunu",
+          "Uyarı tepki tutarlılığı",
+          "Zamansal sezinleme"
+        ],
+        "correctIndex": 0,
+        "explanation": "Metinde reaksiyon zamanını etkileyen etkenler arasında 'kısa aralıklarla ardı ardına uyarı niteliğinde verilen hareketlere karşı tepki (sporda aldatma gibi) vermek durumunda kalmak' ifadesi geçer. Bu, sporda sıkça görülen aldatma (fake) hareketlerinde olduğu gibi, birbirini kısa aralıkla takip eden ve her biri farklı bir tepki gerektiren uyaran durumunu tanımlar.",
+        "optionNotes": [
+          "Doğru yanıt: Metin, kısa aralıklarla ardı ardına verilen ve farklı tepki gerektiren uyaranları doğrudan 'sporda aldatma' örneğiyle ilişkilendirir.",
+          "Yanlış: Hick Kanunu, uyaran/seçenek sayısı arttıkça reaksiyon zamanının uzamasıyla ilgilidir, ardışık iki uyaran durumunu tanımlamaz.",
+          "Yanlış: Fitts Kanunu hareketin hız-doğruluk ilişkisiyle ilgilidir, bu senaryoyu tanımlamaz (metinde de bu kanundan bahsedilmez).",
+          "Yanlış: Uyarı-tepki tutarlılığı, bir uyarana hep aynı tepkinin verilip verilmediğiyle ilgilidir, ardışık farklı uyaranları tanımlamaz.",
+          "Yanlış: Metinde 'zamansal sezinleme' diye ayrı bir terim tanımlanmaz; sezinleme genel olarak zaman/mekân tahmini ile ilgilidir, bu senaryoya özgü değildir."
         ]
       }
     ]

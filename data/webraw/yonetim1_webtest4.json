@@ -1,0 +1,338 @@
+{
+  "questions": [
+    {
+      "id": "w4q1",
+      "question": "Spor yönetiminde iletişim araçları, kulüp ve kurumların hedef kitleleriyle etkili iletişim kurmasında önemli rol oynar. Buna göre aşağıdakilerden hangisi görsel ve işitsel iletişim araçlarından biri değildir?",
+      "options": ["Televizyon", "Video", "Sinema", "Radyo", "Afiş"],
+      "correctIndex": 4,
+      "explanation": "Ünite 4'teki sınıflandırmaya göre spor kulüplerinin kullandığı iletişim araçları dört grupta ele alınır: yazılı araçlar (gazete, afiş, broşür, dergi, kitap), sözlü araçlar, görsel ve işitsel araçlar (radyo, televizyon, film, internet vb.) ve sosyal medya araçları. Afiş bu sınıflandırmada görsel-işitsel değil, yazılı iletişim araçları grubunda yer alır; diğer dört seçenek (televizyon, video, sinema, radyo) ise görsel ve/veya işitsel nitelikte araçlardır.",
+      "optionNotes": [
+        "Televizyon görsel ve işitsel bir araçtır, metinde bu grupta sayılmıştır.",
+        "Video görüntü ve ses içeren bir araç olarak görsel-işitsel araçlar kapsamında değerlendirilir.",
+        "Sinema (film), metinde doğrudan görsel ve işitsel araçlar arasında 'film' olarak sayılmıştır.",
+        "Radyo işitsel bir araç olup görsel-işitsel araçlar grubunda yer alır.",
+        "Doğru cevap: Afiş, metinde görsel-işitsel değil 'yazılı araçlar' grubunda (gazete, broşür, dergi, kitap ile birlikte) sınıflandırılmıştır."
+      ]
+    },
+    {
+      "id": "w4q2",
+      "question": "Spor yönetiminde yönetici ve lider kavramları birbirinden farklı özellikler taşır. Buna göre aşağıdaki ifadelerden hangileri yönetici ve lider arasındaki farkları doğru şekilde açıklamaktadır? I. Yönetici daha çok mevcut düzeni sürdürmeye, lider ise değişim ve gelişim sağlamaya odaklanır. II. Yönetici yetkisini bulunduğu makamdan, lider ise etkisini kişisel özelliklerinden alır. III. Yönetici kurallara bağlı hareket eder, lider ise insanları motive ederek yönlendirir.",
+      "options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+      "correctIndex": 4,
+      "explanation": "Ünite 3'teki Lider ve Yönetici Arasındaki Farklar bölümüne göre yönetici yetkisini bulunduğu makamdan alır ve belirlenmiş kurallar çerçevesinde hareket eder; mevcut düzeni sürdürür (idarecidir, statükoyu kabul eder). Lider ise etkisini kişisel özelliklerinden alır, değişim ve gelişim sağlar (yenilikçidir, geliştirir) ve insanları motive ederek yönlendirir. Bu nedenle I, II ve III ifadelerinin üçü de metinle örtüşmektedir.",
+      "optionNotes": [
+        "Yalnız I eksik bir seçimdir; II ve III de metindeki yönetici-lider farklarıyla örtüşen doğru ifadelerdir.",
+        "I ve II doğru olsa da III'ün (kurallara bağlılık/motivasyon farkı) dışarıda bırakılması bu seçeneği eksik kılar.",
+        "I ve III doğru olsa da II'nin (yetki-etki kaynağı farkı) dışarıda bırakılması eksik bir seçimdir.",
+        "II ve III doğru olsa da I'in (sürdürme-değişim farkı; metinde 'yönetici sürdürür, lider geliştirir' olarak geçer) dışarıda bırakılması eksik bir seçimdir.",
+        "Doğru cevap: I, II ve III ifadelerinin üçü de metindeki yönetici-lider ayrımıyla (yetki kaynağı, kurallara bağlılık/motivasyon, sürdürme/değişim) tam olarak örtüşmektedir."
+      ]
+    },
+    {
+      "id": "w4q3",
+      "question": "Spor yönetiminin temel süreçlerinden biri olan yöneltme, çalışanların ve sporcuların belirlenen hedeflere ulaşmaları için motive edilmesi ve yönlendirilmesini kapsar. Buna göre yöneltme ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "Çalışanları ve sporcuları hedeflere ulaşmaları için motive etmeyi içerir.",
+        "İletişim, liderlik ve motivasyon unsurlarını kapsar.",
+        "Personelin görevlerini etkin şekilde yerine getirmesine yardımcı olur.",
+        "Örgüt içinde koordinasyonu ve iş birliğini artırmaya katkı sağlar.",
+        "Kurumun amaç ve hedeflerini belirleme sürecidir."
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 1'e göre yöneltme (yürütme), planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesi, astların motive edilmesi ve yönlendirilmesidir; iletişim, liderlik ve motivasyonu kapsar. 'Kurumun amaç ve hedeflerini belirleme süreci' ise metinde doğrudan planlamanın tanımıdır ('Planlama; ileriyi görmek... işletme amaçlarının belirlenmesiyle başlar'), yöneltmenin değil. Bu nedenle bu ifade yöneltme için yanlıştır.",
+      "optionNotes": [
+        "Doğru bir ifadedir; yöneltmenin temel amacı çalışanları/sporcuları hedeflere motive etmektir.",
+        "Doğru bir ifadedir; metinde yöneltmenin astlarla iletişim kurma, liderlik yoluyla teşvik etme ve motive etme unsurlarını içerdiği belirtilir.",
+        "Doğru bir ifadedir; metinde yöneltme 'personelin görevlerini yapmasını sağlama işlevi' olarak özetlenir.",
+        "Doğru bir ifadedir; yöneltme sürecinde kurulan iletişim ve liderlik ilişkisi dolaylı olarak iş birliğini destekler.",
+        "Doğru cevap (yanlış ifade): Bu tanım metinde yöneltmeye değil planlamaya aittir, dolayısıyla yöneltme için yanlıştır."
+      ]
+    },
+    {
+      "id": "w4q4",
+      "question": "Yönetim bilimi içerisinde yer alan bürokrasi yaklaşımı, örgütlerde işlerin kurallar, yetki hiyerarşisi ve yazılı prosedürler doğrultusunda yürütülmesini savunan bir yaklaşımdır. Buna göre bürokrasi yaklaşımının öncüsü aşağıdakilerden hangisidir?",
+      "options": ["Frederick W. Taylor", "Henri Fayol", "Max Weber", "Elton Mayo", "Peter Drucker"],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'e göre Klasik Yönetim Yaklaşımı içindeki üç temel yaklaşımdan biri olan Bürokrasi Yaklaşımı'nın öncüsü Alman sosyolog Max Weber'dir; Weber'e göre bürokratik örgütlerde aşırı iş bölümü, merkezileşmiş otorite ve katı kurallara kesin itaat söz konusudur.",
+      "optionNotes": [
+        "Frederick W. Taylor, Bilimsel Yönetim Yaklaşımı'nın (Taylorizm) öncüsüdür, bürokrasi yaklaşımının değil.",
+        "Henri Fayol, Yönetim Süreci (Yönetsel) Yaklaşımı'nın öncüsüdür ve 14 yönetim ilkesini ortaya koymuştur, bürokrasiyle ilgili değildir.",
+        "Doğru cevap: Metinde bürokrasi yaklaşımının öncüsü olarak Max Weber açıkça belirtilmiştir.",
+        "Elton Mayo, Neo-Klasik (Davranışsal) Yaklaşım'ın gelişimine Hawthorne deneyleriyle öncülük etmiştir, bürokrasiyle ilgisi yoktur.",
+        "Peter Drucker, metinde bürokrasi yaklaşımıyla ilişkilendirilmemiştir."
+      ]
+    },
+    {
+      "id": "w4q5",
+      "question": "Örgütlerde etkili iletişim, bireylerin birbirlerini doğru anlamaları ve iş birliği içinde çalışmaları açısından önemlidir. Buna göre aşağıdakilerden hangisi örgütlerde bireyler arasındaki iletişimi engelleyen faktörlerden biri değildir?",
+      "options": [
+        "Önyargılı davranışlar",
+        "Yanlış ve eksik bilgi aktarımı",
+        "İletişim kanallarının yetersiz olması",
+        "Etkili geri bildirim yapılması",
+        "Kişiler arası güven eksikliği"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite 4'teki iletişim engelleri sınıflandırmasına göre örgütsel engeller arasında 'geri-beslenme yetersizliği' sayılır; yani geri bildirimin yetersiz olması bir engeldir, etkili/yeterli geri bildirim yapılması ise tam tersine iletişimi kolaylaştırır, engellemez. Önyargı, yanlış/eksik bilgi aktarımı, iletişim kanallarının yetersizliği ve güven eksikliği ise metinde sayılan gerçek iletişim engelleridir.",
+      "optionNotes": [
+        "Metinde psiko-sosyal iletişim engelleri arasında 'önyargılar' olarak sayılmıştır, gerçek bir engeldir.",
+        "Mesajın doğru iletilmesini bozan, iletişimi engelleyen bir faktördür.",
+        "Fiziksel ve teknik engeller arasında kanallardan kaynaklanan bozukluklar olarak sayılmıştır.",
+        "Doğru cevap: Metinde tam tersi (geri beslenme yetersizliği) bir engel olarak sayılmıştır; etkili geri bildirim ise iletişimi kolaylaştırıcı bir unsurdur, engel değildir.",
+        "Güven eksikliği, iletişimi zorlaştıran psiko-sosyal/diğer engeller arasında değerlendirilen bir faktördür."
+      ]
+    },
+    {
+      "id": "w4q6",
+      "question": "Sporcunun bir spor takımında yer alması, birlikte başarı elde etmesi, takım arkadaşlarıyla dayanışma ve iş birliği içinde olması; moral ve motivasyonunun yükselmesine katkı sağlar. Bu durum Abraham Maslow’un ihtiyaçlar hiyerarşisinde aşağıdaki ihtiyaçlardan hangisi ile ifade edilir?",
+      "options": [
+        "Sosyal (ait olma ve sevgi) ihtiyaçları",
+        "Fizyolojik ihtiyaçlar",
+        "Güvenlik ihtiyaçları",
+        "Saygı (değer verilme) ihtiyacı",
+        "Kendini gerçekleştirme ihtiyacı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite 2'deki Maslow İhtiyaçlar Hiyerarşisi'ne göre üçüncü düzeyde bağlanma, aidiyet, sevme ve sevilme ihtiyacı yer alır; metinde doğrudan örnek olarak 'bir sporcunun takımına ait olması ve takım arkadaşlarıyla dayanışması bu düzeye karşılık gelir' denilmektedir. Soruda tarif edilen durum bu sosyal ihtiyaç düzeyiyle örtüşmektedir.",
+      "optionNotes": [
+        "Doğru cevap: Metinde bu düzey, tam olarak sporcunun takımına ait olması ve dayanışmasıyla örneklendirilmiştir.",
+        "Hiyerarşinin en temelinde yer alan oksijen, yeme, içme gibi ihtiyaçlardır; takım dayanışmasıyla ilgisi yoktur.",
+        "Can ve mal güvenliği, iş güvenliği gibi ihtiyaçlardır; takım arkadaşlığıyla ilgili düzey değildir.",
+        "Özgüven, başarıyla övünme, takdir edilme gibi dördüncü düzey ihtiyaçlardır; sorudaki dayanışma/aidiyet tanımından farklıdır.",
+        "Hiyerarşinin en üst düzeyidir, bireyin kendi potansiyelini gerçekleştirmesiyle ilgilidir, takım dayanışmasıyla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w4q7",
+      "question": "Bir spor kulübünün ismi, sportif karakteri, felsefesi, forma renkleri ve logosu gibi unsurlarının belirlenmesi ve bu çalışmaların yürütülmesi halkla ilişkiler faaliyetleri kapsamında değerlendirilir. Buna göre bu çalışmalar halkla ilişkilerin aşağıdaki faaliyet alanlarından hangisini kapsamaktadır?",
+      "options": [
+        "Kriz yönetimi",
+        "Kurumsal kimlik oluşturma",
+        "Medya ilişkileri",
+        "Sponsorluk yönetimi",
+        "Reklam faaliyetleri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 4'teki halkla ilişkiler faaliyet alanları sınıflandırmasına göre kulüp ismi, forma renk ve logosu gibi unsurların belirlenmesi 'sponsorluk ve kurumsal kimlik çalışmaları' başlığı altında, yani kurumsal kimlik oluşturma faaliyeti kapsamında ele alınır.",
+      "optionNotes": [
+        "Beklenmedik olumsuz durumların (örn. pandemi nedeniyle maç iptali) yönetilmesiyle ilgilidir, isim/logo belirlemeyle ilgili değildir.",
+        "Doğru cevap: Metinde kulüp ismi, forma rengi ve logosu gibi unsurlar doğrudan bu faaliyet alanı kapsamında sayılmıştır.",
+        "Basın bültenleri, gazeteci ve editörlerle iletişimle ilgilidir, isim/logo belirleme süreciyle ilgili değildir.",
+        "Finansal destek ilişkilerini kapsar; soruda tarif edilen isim/logo/felsefe belirleme işi doğrudan kurumsal kimliğe aittir.",
+        "Ürün/hizmet tanıtımı amaçlı mesaj faaliyetleridir, kulüp kimliği oluşturma sürecinin kendisi değildir."
+      ]
+    },
+    {
+      "id": "w4q8",
+      "question": "Halkla ilişkiler kavramı zaman içerisinde toplumsal, teknolojik ve ekonomik gelişmelerin etkisiyle değişim göstermiştir. Buna göre aşağıdakilerden hangisi halkla ilişkiler kavramının değişiminde etkili olan faktörlerden biri değildir?",
+      "options": [
+        "Teknolojik gelişmeler",
+        "Kitle iletişim araçlarının gelişmesi",
+        "Demokratikleşme süreci",
+        "Toplumsal değişim ve gelişmeler",
+        "Bireylerin fiziksel performans düzeyi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ünite 4'e göre halkla ilişkiler kavramının değişiminde etkili olan faktörler toplumsal, ekonomik, teknolojik, siyasi (demokratikleşme), hukuki ve sosyo-kültürel gelişmeler ile kitle iletişim araçlarının gelişmesidir. 'Bireylerin fiziksel performans düzeyi' ise bu bağlamda metinde hiç geçmeyen, sporcu performansıyla ilgili konu dışı bir seçenektir.",
+      "optionNotes": [
+        "Metinde halkla ilişkiler tanımlarındaki farklılığın nedenlerinden biri olarak sayılmıştır.",
+        "Halkla ilişkilerin gelişiminde doğrudan etkili olan bir faktör olarak metinde vurgulanmıştır.",
+        "Metindeki 'siyasi gelişmeler' kapsamında halkla ilişkilerin değişimini etkileyen faktörlerden biridir.",
+        "Metinde halkla ilişkiler tanımının zaman içinde değişmesinin temel nedenlerinden biri olarak sayılmıştır.",
+        "Doğru cevap: Bu, halkla ilişkiler kavramının tarihsel değişimiyle ilgili bir faktör olarak metinde hiç geçmeyen, ilgisiz bir seçenektir."
+      ]
+    },
+    {
+      "id": "w4q9",
+      "question": "Kuruluşların hedef kitleleriyle etkili iletişim kurmalarını amaçlayan halkla ilişkiler (public relations) kavramı modern anlamda ilk kez belirli bir dönemde ortaya çıkmıştır. Buna göre halkla ilişkiler kavramı ilk kez aşağıdaki yıllardan hangisinde kullanılmaya başlanmıştır?",
+      "options": ["1807", "1850", "1905", "1923", "1932"],
+      "correctIndex": 0,
+      "explanation": "Ünite 4'teki tam metne göre 'Halkla ilişkiler deyimini ilk olarak ABD'de 1807 yılında Thomas Jefferson kullanmıştır.' Bu nedenle halkla ilişkiler kavramının ilk kullanıldığı yıl 1807'dir.",
+      "optionNotes": [
+        "Doğru cevap: Metinde halkla ilişkiler deyiminin ilk kez Thomas Jefferson tarafından 1807'de kullanıldığı açıkça belirtilmiştir.",
+        "Metinde bu tarihle ilişkilendirilen bir halkla ilişkiler gelişmesi yoktur.",
+        "Metinde halkla ilişkiler kavramının ilk kullanımıyla ilişkilendirilen bir tarih değildir.",
+        "Bu tarih, Edward Bernays'in 'Crystallizing Public Opinion' adlı kitabının yayımlandığı ve ders kitabı olarak okutulmaya başladığı yıldır, kavramın ilk kullanıldığı yıl değildir.",
+        "Metinde bu tarihle ilişkilendirilen bir halkla ilişkiler gelişmesi yoktur."
+      ]
+    },
+    {
+      "id": "w4q10",
+      "question": "Bir liderin tüm çalışanlara örnek olacak şekilde davranması, açık ve tutarlı olması, sözleri ile davranışlarının uyum içinde olması aşağıdaki liderlik özelliklerinden hangisi ile ilgilidir?",
+      "options": ["Karizma", "Tutarlılık ve güvenilirlik", "Otoriterlik", "Risk alma", "Yenilikçilik"],
+      "correctIndex": 1,
+      "explanation": "Ünite 3'teki liderde bulunması gereken özellikler arasında 'Güvenilir Olma' ve 'Şahsi Bütünlük' başlıkları, liderin sözleri ile davranışlarının uyum içinde olmasını, dürüst ve tutarlı davranmasını, sporculara örnek oluşturmasını tanımlar. Soruda tarif edilen davranış doğrudan tutarlılık ve güvenilirlik özelliğine karşılık gelir.",
+      "optionNotes": [
+        "Olağanüstü özelliklerle takipçileri sorgusuz etkileme becerisidir, tutarlılık/güvenilirlikten farklı bir özelliktir.",
+        "Doğru cevap: Metindeki 'güvenilir olma' ve 'şahsi bütünlük' tanımlarıyla (söz-davranış uyumu, örnek olma) birebir örtüşür.",
+        "Kararları tek başına alma ve yetki paylaşmama ile ilgilidir, örnek olma/tutarlılıkla ilgili değildir.",
+        "Liderin risk ve sorumluluk üstlenmesiyle ilgilidir, söz-davranış uyumu tanımına karşılık gelmez.",
+        "Değişime açık olma ve yeni fikirler üretmekle ilgilidir, bu sorudaki tutarlılık tanımından farklıdır."
+      ]
+    },
+    {
+      "id": "w4q11",
+      "question": "Yönetim ve liderlik literatüründe yer alan karizmatik liderlik kavramı, liderin sahip olduğu olağanüstü özellikler sayesinde takipçilerini etkileyebilmesi ve onları yönlendirebilmesi ile açıklanır. Buna göre karizmatik liderlikten ilk bahseden kişi aşağıdakilerden hangisidir?",
+      "options": ["Frederick W. Taylor", "Henri Fayol", "Max Weber", "Elton Mayo", "Chester Barnard"],
+      "correctIndex": 2,
+      "explanation": "Ünite 3'e göre 'Max Weber'in ilk kez bahsettiği karizmatik liderlik, izleyicileri sorgusuz sualsiz peşinden sürükleyebilme becerisine dayanır.' Bu nedenle karizmatik liderlikten ilk bahseden kişi Max Weber'dir.",
+      "optionNotes": [
+        "Bilimsel Yönetim Yaklaşımı'nın öncüsüdür, karizmatik liderlikle ilgili değildir.",
+        "Yönetim Süreci Yaklaşımı'nın öncüsüdür, karizmatik liderlik kavramıyla ilişkilendirilmemiştir.",
+        "Doğru cevap: Metinde karizmatik liderlikten ilk bahseden kişi olarak Max Weber açıkça belirtilmiştir.",
+        "Hawthorne deneyleriyle Neo-Klasik Yaklaşım'ın gelişimine öncülük etmiştir, karizmatik liderlikle ilgisi yoktur.",
+        "Metinde karizmatik liderlik bağlamında anılan bir isim değildir."
+      ]
+    },
+    {
+      "id": "w4q12",
+      "question": "İnsanların ve kurumların ihtiyaçlarını karşılamak amacıyla üretim faktörlerini bir araya getirerek mal ve hizmet üreten, pazarlayan ve sonunda maddi veya manevi kazanç elde etmeyi amaçlayan iktisadi, teknik ve hukuki birimlere ne ad verilir?",
+      "options": ["Organizasyon", "Kurum", "Dernek", "İşletme", "Sendika"],
+      "correctIndex": 3,
+      "explanation": "Ünite 2'ye göre işletme, 'kişi ve kurumların ihtiyaçlarını karşılamak üzere, üretim faktörlerini bir araya getirerek mal veya hizmet üreten/pazarlayan ve sonunda maddi ve manevi bir kâr elde etmeyi amaçlayan iktisadi, teknik ve hukuki bir birim' olarak tanımlanır; soru metni bu tanımın neredeyse birebir ifadesidir.",
+      "optionNotes": [
+        "Belirli bir amaç için insan ve kaynakların düzenlenmesi sürecidir, bu spesifik iktisadi/hukuki birim tanımına karşılık gelmez.",
+        "Daha genel ve soyut bir kavramdır; metindeki üretim faktörlerini birleştirip kâr amacı güden birim tanımı doğrudan işletmeye aittir.",
+        "Kâr amacı gütmeyen, ortak amaçlı bir tüzel kişiliktir; tanımdaki 'maddi kazanç elde etme' amacıyla uyuşmaz.",
+        "Doğru cevap: Metindeki işletme tanımıyla birebir örtüşmektedir.",
+        "Çalışanların haklarını korumak amacıyla kurulan bir örgüttür, mal/hizmet üretip pazarlama amacı taşımaz."
+      ]
+    },
+    {
+      "id": "w4q13",
+      "question": "Geleceği öngörebilen, ortaya çıkabilecek olumsuzluklara karşı önceden önlem alabilen ve grubun hangi yöne doğru ilerlemesi gerektiğini gösteren liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otoriter liderlik",
+        "Demokratik liderlik",
+        "Vizyoner liderlik",
+        "Serbest bırakıcı (LİBERAL) liderlik",
+        "Bürokratik liderlik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 3'e göre 'Vizyoner lider, geleceği okuyarak ona uyum sağlayabilen ya da olası olumsuzluklara karşı önceden önlem alabilen kişidir; nasıl hareket edileceğini göstermez, grubun hangi yöne gitmesi gerektiğini gösterir.' Bu tanım soru metniyle birebir örtüşmektedir.",
+      "optionNotes": [
+        "Kararları tek başına alan, yetki paylaşmayan bir tarzdır, geleceği öngörme tanımıyla ilgili değildir.",
+        "Paylaşımcı karar almaya dayanır, geleceği önceden görme vurgusu taşımaz.",
+        "Doğru cevap: Metindeki tanım bu liderlik tarzıyla birebir örtüşür.",
+        "Gruba karar alma özgürlüğü vermeye dayanır, geleceği öngörme tanımıyla ilgili değildir.",
+        "Kurallara ve yazılı prosedürlere dayanır, metinde bu şekilde tanımlanan bir liderlik tarzı değildir."
+      ]
+    },
+    {
+      "id": "w4q14",
+      "question": "Otokratik liderlikte lider, kararları çoğunlukla kendisi alır ve çalışanların karar sürecine katılımı sınırlıdır. Buna göre aşağıdakilerden hangisi otokratik liderliğin sonuçlarından biri olarak kabul edilir?",
+      "options": [
+        "Çalışanların karar süreçlerine aktif katılım göstermesi",
+        "Çalışanların lidere bağımlılığının artması",
+        "Grup üyelerinin yaratıcılığının artması",
+        "Demokratik bir çalışma ortamının oluşması",
+        "Grup içi iletişimin güçlenmesi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite 3'e göre otokratik liderlikte 'kurulan bağ lider merkezli ilişkidir' ve 'geçici dahi olsa liderin olmadığı durumlarda sıkıntılar hemen gün yüzüne çıkabilir... bu yüzden lider devamlı görevinin başında olmalıdır'; bu da çalışanların/sporcuların lidere bağımlılığının arttığını gösterir. Aynı bölümde ayrıca bu liderlik tipinde çalışanların yaratıcılığının azaldığı belirtilir; dolayısıyla diğer seçenekler otokratik liderliğin tam tersi sonuçlarını tanımlar.",
+      "optionNotes": [
+        "Metne göre otokratik liderlikte lider kararları tek başına alır, çalışanların düşüncelerini sormaz; bu nedenle aktif katılım otokratik liderliğin bir sonucu değildir.",
+        "Doğru cevap: Metinde kurulan bağın lider merkezli olduğu ve liderin yokluğunda sıkıntı çıkabileceği belirtilerek bağımlılığın arttığı ortaya konur.",
+        "Metne göre otokratik liderlerin yönetimindeki bireylerin yaratıcılık özelliklerinde tam tersine azalma meydana gelmektedir.",
+        "Otokratik liderlik, tanımı itibariyle demokratik ortamın tam tersidir; güç ve karar tek elde toplanır.",
+        "Metne göre otoriter ve aşırı disiplinli liderlik altında güvensizlik baş gösterir ve iletişim güçlenmez, aksine çatışma ve bölünmelere yol açabilir."
+      ]
+    },
+    {
+      "id": "w4q15",
+      "question": "Etkili iletişimin önemli unsurlarından biri olan dinleme süreci, belirli aşamalardan oluşur. Buna göre aşağıdakilerden hangisi dinleme sürecinin adımlarından biri değildir?",
+      "options": ["İşitme", "Anlama", "Yorumlama", "Değerlendirme", "Emir verme"],
+      "correctIndex": 4,
+      "explanation": "Dinleme süreci genel olarak işitme (duyma), anlama, yorumlama ve değerlendirme gibi zihinsel aşamalardan oluşur; bu aşamalar sözcüklerin algılanıp anlamlandırılmasıyla ilgilidir. 'Emir verme' ise dinleme sürecinin bir aşaması değil, yöneltme/yürütme işlevi kapsamında bir yönetim davranışıdır (astlara ne yapmaları gerektiğinin anlatılması); bu nedenle dinleme sürecinin adımlarından biri değildir.",
+      "optionNotes": [
+        "Dinlemenin başlangıç aşaması olup seslerin fiziksel olarak algılanmasıdır.",
+        "Duyulan sözcüklerin ve anlatılmak istenenin zihinsel olarak kavranmasıdır.",
+        "Anlaşılan mesajın bağlamına göre değerlendirilip yorumlanmasıdır.",
+        "Mesajın doğruluğu, önemi ya da geçerliliği konusunda bir yargıya ulaşma aşamasıdır.",
+        "Doğru cevap: Bu bir dinleme aşaması değil, yöneltme işlevi kapsamında astlara talimat verme davranışıdır, dinleme sürecinin bir parçası değildir."
+      ]
+    },
+    {
+      "id": "w4q16",
+      "question": "Bilimsel çalışmalarda bilgi elde etmek amacıyla farklı araştırma yöntemleri kullanılmaktadır. Buna göre aşağıdakilerden hangisi araştırma çeşitlerinden biri olarak kabul edilir?",
+      "options": ["etimsel araştırma", "Planlama", "Organizasyon", "Yöneltme", "Denetim"],
+      "correctIndex": 0,
+      "explanation": "Ünite 2'nin Ar-Ge bölümünde araştırmalar; genel araştırma, uygulamalı araştırma ve alan (özel alan) araştırması olarak sınıflandırılırken, diğer seçenekler olan planlama, organizasyon, yöneltme ve denetim metinde spor/işletme yönetiminin temel süreçleri (fonksiyonları) olarak tanımlanır, bir araştırma türü değildirler. Soru metnindeki 'etimsel araştırma' ifadesi büyük olasılıkla metin çıkarma sürecinde bozulmuş 'Betimsel araştırma' (tanımlayıcı/tasvirsel araştırma) terimine karşılık gelmektedir; bu, bilinen bir araştırma türüdür. Kaynak metinlerde bu seçenekle birebir eşleşme bulunamadığı için cevap, seçeneklerin niteliği (araştırma türü mü, yönetim süreci mi olduğu) üzerinden mantıksal elemeyle belirlenmiştir; bu nedenle bu soruda emin olunamayan bir unsur bulunduğu şeffaflıkla belirtilir.",
+      "optionNotes": [
+        "Doğru cevap (en güçlü desteklenen seçenek): Bu ifade büyük olasılıkla 'Betimsel araştırma' terimine karşılık gelmektedir ve diğer dört seçenekten farklı olarak gerçekten bir araştırma türüdür.",
+        "Bir araştırma türü değil, yönetimin temel süreçlerinden (fonksiyonlarından) biridir.",
+        "Bir araştırma türü değil, yönetimin örgütleme sürecini ifade eden temel bir fonksiyondur.",
+        "Bir araştırma türü değil, yönetimin yürütme/yöneltme sürecini ifade eden bir fonksiyondur.",
+        "Bir araştırma türü değil, yönetimin denetleme (kontrol) sürecini ifade eden bir fonksiyondur."
+      ]
+    },
+    {
+      "id": "w4q17",
+      "question": "Spor yönetimi ve organizasyonlarında gelişim süreci farklı alanlarda gerçekleştirilebilir. Buna göre aşağıdakilerden hangisi geliştirme çeşitlerinden biri değildir?",
+      "options": ["Personel geliştirme", "Örgüt geliştirme", "Yönetim geliştirme", "Ürün geliştirme", "Denetim geliştirme"],
+      "correctIndex": 4,
+      "explanation": "İşletme/yönetim literatüründe gelişim süreci genellikle personel geliştirme (çalışanların eğitimi), örgüt geliştirme (örgütsel yapı ve süreçlerin iyileştirilmesi), yönetim geliştirme (yöneticilerin yetkinliklerinin artırılması) ve ürün geliştirme (Ar-Ge yoluyla yeni/iyileştirilmiş ürün ve hizmetler ortaya çıkarma) başlıkları altında ele alınır. Denetim ise yönetimin temel süreçlerinden biri olan kontrol işlevidir ve bir 'geliştirme çeşidi' olarak tanımlanmaz. Bu sınıflandırma sağlanan ünite metinlerinde birebir bu başlıklarla yer almadığından, cevap genel yönetim bilgisine ve seçeneklerin niteliğine dayanan mantıksal elemeyle belirlenmiştir; bu nedenle bu soruda tam kaynak doğrulaması yapılamadığı şeffaflıkla belirtilir.",
+      "optionNotes": [
+        "Çalışanların eğitim ve yetkinliklerinin geliştirilmesini ifade eden, yaygın olarak kabul edilen bir gelişim türüdür.",
+        "Örgütün yapısal ve süreçsel olarak iyileştirilmesini ifade eden bilinen bir gelişim türüdür.",
+        "Yöneticilerin bilgi ve becerilerinin geliştirilmesini ifade eden bilinen bir gelişim türüdür.",
+        "Yeni veya iyileştirilmiş ürün/hizmetlerin ortaya çıkarılmasını ifade eden, Ar-Ge ile ilişkili bilinen bir gelişim türüdür.",
+        "Doğru cevap: Denetim, yönetimin temel süreçlerinden (kontrol fonksiyonu) biridir ve literatürde bir 'geliştirme çeşidi' olarak sınıflandırılmaz, bu nedenle listedeki diğer gerçek gelişim türlerinden farklıdır."
+      ]
+    },
+    {
+      "id": "w4q18",
+      "question": "Bir spor kurumunda personelin işinde daha başarılı olması için yönetimin sürekli hizmet içi eğitim programları düzenlemesi ve gelişim olanakları sağlaması aşağıdaki spor yönetimi ilkelerinden hangisi ile ilgilidir?",
+      "options": [
+        "Yetki devri ilkesi",
+        "Uzmanlaşma ilkesi",
+        "Personelin geliştirilmesi ilkesi",
+        "Hiyerarşi ilkesi",
+        "Denetim ilkesi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite 1'deki spor yönetimi ilkelerinden 'Yetiştirme' ilkesine göre, personelin başarılı olabilmesi için yönetimin sürekli hizmet içi eğitim olanakları sunması gerekir; spor ortamındaki değişen kurallar ve bilimsel gelişmeler bunu zorunlu kılar. Soru metnindeki 'sürekli hizmet içi eğitim programları düzenleme ve gelişim olanakları sağlama' tanımı, seçenekler arasında en doğrudan 'personelin geliştirilmesi ilkesi' ile örtüşmektedir.",
+      "optionNotes": [
+        "Üst yönetimin bazı yetkilerini astlara devretmesiyle ilgilidir, hizmet içi eğitimle ilgili değildir.",
+        "Bir işe o işi yapabilecek yeterlikte kişilerin alınmasıyla (yeterlik ilkesiyle) ilgilidir, sürekli eğitim sağlamaktan farklıdır.",
+        "Doğru cevap: Metindeki yetiştirme ilkesinin tanımı (sürekli hizmet içi eğitim ve gelişim olanakları sunma) ile örtüşür.",
+        "Örgüt içindeki kademe ve yetki sıralamasıyla ilgilidir, eğitim/gelişim sağlamayla ilgili değildir.",
+        "Uygulama sonuçlarının amaçlarla karşılaştırılmasıyla ilgilidir, personel eğitimi sağlamakla ilgili değildir."
+      ]
+    },
+    {
+      "id": "w4q19",
+      "question": "Belli amaçlar doğrultusunda hedeflere ulaşmak için sistemli ve bilinçli bir şekilde insanları etkileme ve yönlendirme becerisi ------------- olarak tanımlanır. Boş bırakılan yere aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": ["Yönetim", "Liderlik", "Organizasyon", "Denetim", "Planlama"],
+      "correctIndex": 1,
+      "explanation": "Ünite 3'teki liderlik tanımlarına göre liderlik, 'belirlenmiş şartlar kapsamında bireysel ya da ekip hedeflerine ulaşmak için grup üyelerinin uygulamalarını etkileme ve ivme kazandırma süreci'dir; Terry (1960) ise liderliği 'grup amaçlarını gönüllü olarak gerçekleştirmek için insanları etkileme eylemi' olarak tanımlamıştır. Soru metnindeki 'belli amaçlar doğrultusunda insanları etkileme ve yönlendirme becerisi' tanımı doğrudan liderliğe karşılık gelir.",
+      "optionNotes": [
+        "Daha çok mevcut düzenin sürdürülmesi, kurallara bağlı hareket etme ve makama dayalı yetki kullanımıyla ilgilidir; sorudaki 'insanları etkileme becerisi' tanımı liderliğe aittir.",
+        "Doğru cevap: Metindeki liderlik tanımlarıyla (insanları etkileme ve yönlendirme) birebir örtüşmektedir.",
+        "İnsan, araç ve kaynakların düzenlenmesi, iş bölümü ve yetki-sorumlulukların belirlenmesi sürecidir, insanları etkileme becerisi tanımı değildir.",
+        "Uygulama sonuçlarının amaçlarla karşılaştırılması sürecidir, insanları etkileme becerisiyle ilgili değildir.",
+        "İleriyi görme ve işlerin önceden kararlaştırılmasıdır, insanları etkileme becerisi tanımına karşılık gelmez."
+      ]
+    },
+    {
+      "id": "w4q20",
+      "question": "2022 yılında yürürlüğe giren, Türkiye’de spor kulüplerinin kurulması, faaliyet göstermesi ve denetlenmesine ilişkin esaslar belirli bir kanunla düzenlenmiştir. Buna göre spor kulüplerinin kuruluşuna dayanak oluşturan kanun aşağıdakilerden hangisidir?",
+      "options": [
+        "Türk Medeni Kanunu",
+        "Umumi Hıfzıssıhha Kanunu",
+        "Dernekler Kanunu",
+        "Gençlik ve Spor Hizmetleri Kanunu",
+        "Spor Kulüpleri ve Spor Federasyonları Kanunu"
+      ],
+      "correctIndex": 4,
+      "explanation": "2022 yılında yürürlüğe giren 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanunu, Türkiye'de spor kulüplerinin kurulması, faaliyet göstermesi ve denetlenmesine ilişkin esasları özel olarak düzenleyen kanundur. Ünite 5'teki metinde spor kulüplerinin tüzel kişilik kazanmasının eskiden 5253 sayılı Dernekler Kanunu'na dayandığı belirtilse de, soruda açıkça belirtilen '2022 yılında yürürlüğe giren' ve spor kulüplerine özgü düzenleme, Spor Kulüpleri ve Spor Federasyonları Kanunu'na işaret etmektedir.",
+      "optionNotes": [
+        "Kişi ve hak kavramlarını genel olarak düzenler, 2022'de yürürlüğe giren spor kulüplerine özgü bir kanun değildir.",
+        "Genel sağlık düzenlemeleriyle ilgili çok daha eski bir kanundur, spor kulüpleriyle ilgili özel bir düzenleme değildir.",
+        "Spor kulüplerinin dernek olarak tüzel kişilik kazanmasına eskiden beri dayanak olan 5253 sayılı kanundur, ancak 2022'de yürürlüğe giren özel düzenleme değildir.",
+        "Spor Genel Müdürlüğü'nün (Spor Hizmetleri Genel Müdürlüğü) görev ve teşkilat yapısını düzenleyen farklı bir kanundur, kulüplerin kuruluşuna dayanak oluşturan 2022 kanunu değildir.",
+        "Doğru cevap: 2022'de yürürlüğe giren, Türkiye'de spor kulüplerinin kuruluş, faaliyet ve denetim esaslarını özel olarak düzenleyen kanundur."
+      ]
+    }
+  ]
+}

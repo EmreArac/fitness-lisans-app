@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "id": "w5q1",
+      "question": "Spora katılım, sağlığın korunması, fiziksel uygunluğun gelişimi ve sosyalleşme amacıyla gerçekleştirdiği durum nasıl bir katılımı ifade eder?",
+      "options": ["Çapraz katılım", "Geç katılım", "Rekreasyonel katılım", "Hemen katılım", "Erken katılım"],
+      "correctIndex": 2,
+      "explanation": "Metinde rekreasyonel katılım, sporun sağlığın korunması, fiziksel uygunluğun geliştirilmesi ve sosyalleşme amacıyla, genellikle 15 yaşından sonra ve daha önce spor eğitimi almamış kişilerce gerçekleştirilen katılım olarak tanımlanır. Bu tanım soruda verilen amaçlarla (sağlık, fiziksel uygunluk, sosyalleşme) birebir örtüşür.",
+      "optionNotes": [
+        "Çapraz katılım, çocukların yetenek/istekleriyle örtüşmeyen bir branştan sonra gerçek ilgi alanlarına geçişini ifade eder, sağlık/sosyalleşme amacını tanımlamaz.",
+        "Geç katılım, önceden spor eğitimi almamış çocukların 11-13 yaşlarında ilk kez spora yönelmesini ifade eder; amaç sağlık/sosyalleşme değil performans gelişimidir.",
+        "Doğru yanıt: Rekreasyonel katılım, metinde tam olarak sağlığın korunması, fiziksel uygunluk ve sosyalleşme amacıyla gerçekleşen katılım olarak tanımlanmıştır.",
+        "Hemen katılım, metinde bu adla tanımlanmış bir katılım türü değildir, çeldirici bir seçenektir.",
+        "Erken katılım, 4-10 yaş grubunda ebeveyn tercihiyle spora başlamayı ifade eder; sağlık/sosyalleşme amaçlı yetişkin katılımını tanımlamaz."
+      ]
+    },
+    {
+      "id": "w5q2",
+      "question": "Aşağıdakilerden hangisi taktik eğitim gelişiminde uygulanan yöntemlerden bir değildir?",
+      "options": ["Bütünden parçaya", ". Parçadan bütün", "Bilinmeyenden bilinene", "Basitten karmaşığa", "Kolaydan zora"],
+      "correctIndex": 2,
+      "explanation": "Taktik eğitiminde kullanılan öğretim yöntemleri arasında bütünden parçaya ve kolaydan zora gibi ilkeler sayılır; bu ilkelerin temel mantığı her zaman bilinenden bilinmeyene doğru ilerlemektir. \"Bilinmeyenden bilinene\" ifadesi bu temel pedagojik ilkeyi tam tersine çevirdiği için taktik eğitiminde uygulanan bir yöntem değildir.",
+      "optionNotes": [
+        "Bütünden parçaya, metinde taktik antrenmanın metodik ilkeleri arasında doğrudan sayılan bir öğretim yöntemidir.",
+        "Parçadan bütüne, bütünden parçaya ilkesiyle birlikte taktik/teknik öğretiminde kademeli ilerlemeyi sağlayan bilinen bir yöntemdir.",
+        "Doğru yanıt: \"Bilinmeyenden bilinene\" ifadesi, doğru ilke olan \"bilinenden bilinmeyene\" yönteminin tam tersidir; bu nedenle taktik eğitiminde uygulanan bir yöntem değildir.",
+        "Basitten karmaşığa, taktik ve teknik eğitimde kademeli zorlaştırma ilkesiyle örtüşen, metinde temelden varyasyona ilerleme olarak da anılan geçerli bir yöntemdir.",
+        "Kolaydan zora, metinde taktik antrenmanın metodik ilkeleri arasında bütünden parçaya ile birlikte açıkça sayılmıştır."
+      ]
+    },
+    {
+      "id": "w5q3",
+      "question": "Sporda teknik hazırlık, aşağıdaki hazırlık evrelerinden hangisinin başarıyla tamamlanmasına bağlıdır?",
+      "options": ["Psikolojik hazırlık", "Fiziksel hazırlık", "Zihinsel hazırlık", "Taktik hazırlık", "Kurumsal hazırlık"],
+      "correctIndex": 1,
+      "explanation": "Antrenman faktörleri piramidinde en altta fiziksel antrenman, onun üzerinde teknik antrenman yer alır; bu sıralama teknik becerilerin sağlam bir fiziksel temel üzerine inşa edildiğini gösterir. Yetersiz fiziksel hazırlık, erken ortaya çıkan yorgunlukla nöromüsküler koordinasyonu bozarak teknik kapasiteyi doğrudan düşürür.",
+      "optionNotes": [
+        "Psikolojik hazırlık, piramidin en üst katmanıdır; teknik hazırlığın üzerine değil ondan sonra gelir, teknik hazırlığın temeli değildir.",
+        "Doğru yanıt: Fiziksel hazırlık, antrenman faktörleri piramidinin en alt ve temel katmanıdır; teknik hazırlık bu temel üzerine inşa edilir.",
+        "Zihinsel hazırlık, algı, stres ve motivasyon yönetimiyle ilgilidir, piramitte teknik hazırlığın temelini oluşturan katman değildir.",
+        "Taktik hazırlık, metinde tam tersine teknik hazırlığa bağlı olan bir evre olarak geçer; bu seçenek ilişkiyi ters çevirir.",
+        "Kurumsal hazırlık, metinde antrenman hazırlık evreleri arasında sayılan bir kavram değildir, çeldiricidir."
+      ]
+    },
+    {
+      "id": "w5q4",
+      "question": "Bireyin bilişsel ,duyuşsal ve psikomotor öğrenme alanlarındaki durumunun farklı alan testleri ve gözlemler yapılarak uzman değerlendirmeleri sonucunda mevcut hali,hangi yaşı ifade etmektedir?",
+      "options": ["Gelişimsel yaşı", "Relatif yaşı", "Kemik yaşını", "Bağıl yaşı", "Takvim yaşını"],
+      "correctIndex": 0,
+      "explanation": "Metinde gelişim (gelişimsel) yaş, bireyin bilişsel, duyuşsal ve psikomotor alanlardaki gelişiminin farklı alan testleri ve gözlemler yoluyla uzman değerlendirmeleri sonucunda ortaya konan mevcut hali olarak tanımlanır. Bu tanım soru metniyle birebir örtüşür.",
+      "optionNotes": [
+        "Doğru yanıt: Gelişimsel yaş, tam olarak bilişsel-duyuşsal-psikomotor alanlardaki uzman değerlendirmesine dayanan bu tanıma karşılık gelir.",
+        "Relatif yaş, bireyin doğduğu ayı dikkate alan, bağıl yaş etkisiyle ilişkili farklı bir kavramdır; uzman değerlendirmesine dayanmaz.",
+        "Kemik yaşı, sol el bilek kemiklerinin radyografik incelemesine dayanan biyolojik olgunluk göstergesidir; çoklu alan testine dayalı bir tanım değildir.",
+        "Bağıl yaş, doğum ayına bağlı göreli yaş etkisini ifade eder; bilişsel-duyuşsal-psikomotor gelişim değerlendirmesiyle tanımlanmaz.",
+        "Takvim yaşı, doğumdan itibaren geçen süreyi yıl olarak ifade eden en pratik parametredir; uzman değerlendirmesi gerektirmez."
+      ]
+    },
+    {
+      "id": "w5q5",
+      "question": "Birim antreman giriş bölümünde neler yaptırılmalıdır?",
+      "options": ["Teknik taktik antreman", "Streching yaptırılır", "Isınma yaptırılır", "Yoklama ve antreman içeriği anlatılır", "Kondisyon yaptırılır"],
+      "correctIndex": 3,
+      "explanation": "Birim antrenmanın giriş bölümünde sporcuların toplanması, yoklamanın alınması ve antrenmanın amacı, şiddeti ve yoğunluğunun anlatılması sağlanır. Bu bölüm yeni başlayan sporcularda 5-10 dakika sürerken tecrübeli sporcularda kısaltılabilir veya tamamen atlanabilir.",
+      "optionNotes": [
+        "Teknik taktik antreman, ana (temel) bölümde uygulanan bir çalışma türüdür, giriş bölümünün içeriği değildir.",
+        "Streching (statik germe), ısınma bölümünde değil daha çok soğuma bölümünde uygulanması önerilen bir çalışmadır, giriş bölümüyle ilgili değildir.",
+        "Isınma yaptırılır, ısınma giriş bölümünden sonra gelen ayrı bir bölümdür, giriş bölümünün kendisi değildir.",
+        "Doğru yanıt: Giriş bölümünde yoklama alınması ve antrenmanın içeriğinin (amaç, şiddet, yoğunluk) anlatılması metinde açıkça belirtilmiştir.",
+        "Kondisyon yaptırılır, biyomotor/kondisyonel çalışmalar ana bölümde yer alır, giriş bölümünün amacı değildir."
+      ]
+    },
+    {
+      "id": "w5q6",
+      "question": "Aşağıdakilerden hangisi zihinsel antrenman stratejilerinden biri değildir?",
+      "options": ["Sosyalleşme çalışmaları", "Motivasyon çalışmaları", "Gevşeme çalışmaları", "Konsantrasyon çalışmaları", "Hedef belirleme çalışmaları"],
+      "correctIndex": 0,
+      "explanation": "Metinde zihinsel antrenman stratejileri arasında kendine güven, gevşeme, motivasyon, hedef belirleme ve konsantrasyon çalışmaları sayılmaktadır (Altıntaş ve Akalan, 2008). \"Sosyalleşme çalışmaları\" bu listede yer almayan, zihinsel antrenman stratejisi olarak tanımlanmamış bir kavramdır.",
+      "optionNotes": [
+        "Doğru yanıt: Sosyalleşme çalışmaları, metinde sayılan zihinsel antrenman stratejileri (güven, gevşeme, motivasyon, hedef belirleme, konsantrasyon) arasında yer almaz.",
+        "Motivasyon çalışmaları, metinde zihinsel antrenman stratejileri arasında açıkça sayılmıştır.",
+        "Gevşeme çalışmaları, metinde sporcunun bireysel ihtiyaçlarına göre uygulanan zihinsel antrenman stratejilerinden biri olarak belirtilmiştir.",
+        "Konsantrasyon çalışmaları, metinde zihinsel antrenman stratejileri arasında doğrudan sayılan bir unsurdur.",
+        "Hedef belirleme çalışmaları, metinde zihinsel antrenman stratejileri arasında açıkça yer alan bir çalışmadır."
+      ]
+    },
+    {
+      "id": "w5q7",
+      "question": "Sinir kas sistemini Yüksek hızda bir kasılmayla dış dirençleri yenilme etkisine ne ad verilir?",
+      "options": ["Dinamik kuvvet", "Sürat", "Kuvvet", "Göreceli kuvvet", "Çabuk kuvvet"],
+      "correctIndex": 4,
+      "explanation": "Çabuk kuvvet, kuvvet ile süratin bir ürünü olarak sinir-kas sisteminin yüksek hızda bir kasılmayla dış dirençleri yenebilme yetisi olarak tanımlanır. Soru metnindeki \"yüksek hızda kasılmayla dış dirençleri yenme\" ifadesi bu tanıma birebir karşılık gelir.",
+      "optionNotes": [
+        "Dinamik kuvvet, izotonik kasılmalarla ortaya çıkan kuvvet türüdür; hız unsurunu öncelikli olarak tanımlamaz.",
+        "Sürat, mesafeyi en kısa sürede kat etme yeteneğidir; dış direnci yenme (kuvvet) unsurunu içermez.",
+        "Kuvvet, genel olarak bir dirence karşı koyma yeteneğidir; burada vurgulanan \"yüksek hız\" unsurunu özel olarak tanımlamaz.",
+        "Göreceli kuvvet, sporcunun vücut ağırlığına karşı geliştirdiği kuvvettir (salt kuvvet/vücut ağırlığı), hızla ilgili bir tanım değildir.",
+        "Doğru yanıt: Çabuk kuvvet, kuvvet ve süratin birleşimi olarak yüksek hızda dış direnç yenme yetisini tam olarak tanımlar."
+      ]
+    },
+    {
+      "id": "w5q8",
+      "question": "Yetenek seçimi ve yönlendirme modellerinde özellikle erken özelleşme ile Küçük yaşlarda başlayan antrenmanların kadınlarda ilerleyen yıllarda sağlık problemlerinden neden olduğu duruma ne denir?",
+      "options": ["Psikolojik çöküş", "Kadın spor üçlemesi", "Sürantrene (Overtraining)", "Kemik deformasyonu", "Tükenmişlik sendromu"],
+      "correctIndex": 1,
+      "explanation": "Metinde erken özelleşme ile küçük yaşlarda başlayan yoğun antrenmanların kadın sporcularda ilerleyen yıllarda düşük enerji alımı, menstrüel sorunlar ve kemik mineral yoğunluğu azalması gibi sağlık problemlerine yol açtığı ve bu durumun \"kadın spor üçlemesi\" olarak adlandırıldığı belirtilir. Bu tanım soruda anlatılan durumla birebir örtüşür.",
+      "optionNotes": [
+        "Psikolojik çöküş, metinde bu adla tanımlanan, erken özelleşmeye bağlı kadın sporcu sağlık sendromunu ifade eden bir kavram değildir.",
+        "Doğru yanıt: Kadın spor üçlemesi, metinde erken özelleşme ve küçük yaşta başlayan yoğun antrenmanın kadın sporcularda yol açtığı sağlık sendromu olarak doğrudan tanımlanmıştır.",
+        "Sürantrene (Overtraining), aşırı antrenman sonucu yorgunluk birikimi ve performans düşüşüyle ilgili genel bir durumdur; kadınlara özgü bu sendromu tanımlamaz.",
+        "Kemik deformasyonu, metinde geçen bir kavram değildir; kadın spor üçlemesinin bir bileşeni olan kemik mineral yoğunluğu azalmasıyla karıştırılmamalıdır.",
+        "Tükenmişlik sendromu, genel bir motivasyon/psikolojik tükenme durumunu ifade eder; kadın sporculara özgü bu sağlık sendromunun adı değildir."
+      ]
+    },
+    {
+      "id": "w5q9",
+      "question": "Basit ve karmaşık hareketlerin sergilenmesinden postürü korumaya kadar istenerek yapılan ve motor becerilerin temel bileşeni olarak da değerlendirilen kavram, aşağıdakilerden hangisidir?",
+      "options": ["Koordinasyon", "Beceri", "Çeviklik", "Denge", "Hareketlilik"],
+      "correctIndex": 3,
+      "explanation": "Metinde denge, \"postürü korumaktan karmaşık hareketleri sergilemeye kadar uzanan motor becerilerin temel bileşeni\" olarak tanımlanır (Yentürk, 2018). Bu tanım, soruda geçen \"basit ve karmaşık hareketlerin sergilenmesinden postürü korumaya kadar\" ifadesiyle birebir örtüşür.",
+      "optionNotes": [
+        "Koordinasyon, karmaşık hareketlerin kısa sürede öğrenilip doğru uygulanmasıyla ilgilidir; postürü koruma ve motor becerilerin temel bileşeni olarak bu şekilde tanımlanmaz.",
+        "Beceri, öğrenilmiş karmaşık hareketlerin uygulanma yeterliliğidir; metindeki bu spesifik tanım dengeye aittir.",
+        "Çeviklik, hızlı yön değiştirme becerisidir; postürü koruma ve motor becerilerin temel bileşeni tanımıyla örtüşmez.",
+        "Doğru yanıt: Denge, metinde tam olarak bu tanımla (Yentürk, 2018) motor becerilerin temel bileşeni olarak verilmiştir.",
+        "Hareketlilik, eklemlerin geniş açıda hareket edebilme yeteneğidir; bu tanımla ilgisi yoktur."
+      ]
+    },
+    {
+      "id": "w5q10",
+      "question": "Performans sporu antrenörlüğü aşağıdaki yaş gruplarından hangisini kapsar?",
+      "options": ["13-15", "10-11", "10-12", "15-16", "9-10"],
+      "correctIndex": 0,
+      "explanation": "Türkiye'deki antrenörlük eğitim kademelendirmesinde sporcu gelişim evreleri genel olarak çocuk sporu, gelişim sporu, performans sporu ve üst düzey performans sporu şeklinde sınıflandırılır; bu sınıflandırmada performans sporu antrenörlüğü yaygın olarak 13-15 yaş aralığını kapsar. Not: Bu soru için ünite metinlerinde (1-8) birebir bir doğrulama bulunamadı; cevap, antrenörlük kademe sistemine ilişkin genel bilgiye dayanılarak verilmiştir, bu nedenle diğer sorulara kıyasla daha az kesindir.",
+      "optionNotes": [
+        "Kabul edilen yanıt: Performans sporu antrenörlüğü kademelendirmesinde bu aralık yaygın olarak 13-15 yaş olarak kabul edilir (ünite metninde doğrudan doğrulanamadı).",
+        "10-11 aralığı genellikle gelişim sporu kademesine daha yakındır, performans sporu için belirtilen aralığın altında kalır.",
+        "10-12 aralığı, unit1'deki LTAD \"Antrenman Yapmayı Öğrenme\" evresine (erkekler 9-12) yakındır, performans sporu antrenörlüğü kademesini tanımlamaz.",
+        "15-16 aralığı, performans sporu aralığının biraz üzerinde olup daha çok üst düzey performans kademesine yaklaşan bir aralıktır.",
+        "9-10 aralığı, temel eğitim/gelişim sporu kademesine denk gelir, performans sporu antrenörlüğü için belirtilen aralık değildir."
+      ]
+    },
+    {
+      "id": "w5q11",
+      "question": "Sporcunun cinsiyeti ,yaşı, sağlık durumu, sporcu özgeçmişi, çevresel etkenler ,genetik özellikleri ve motivasyon durumu sporcunun antrenmana olan………….. belirleyen faktörler arasındadır. Cümlede boş bırakılan yerleri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": ["Sevgiyi", "İlgiyi", "Uyumu", "Dayanıklılığı", "Disiplini"],
+      "correctIndex": 2,
+      "explanation": "Metinde antrenmanın özel olma ilkesine göre antrenmana uyum; sporcunun cinsiyeti, yaşı, sağlık durumu, geçmişi, genetik özellikleri, motivasyonu ve çevresel etkenleri gibi bireysel özelliklerine bağlıdır. Soruda sayılan tüm faktörler bu ilkede antrenmana olan \"uyumu\" belirleyen unsurlar olarak geçer.",
+      "optionNotes": [
+        "Sevgiyi: metinde bu faktörlerin belirlediği bir kavram olarak \"sevgi\" geçmez, çeldiricidir.",
+        "İlgiyi: ilgi kavramı metinde ayrı bir bileşen olan \"eğilim\" ile ilişkilendirilir, antrenmanın özel olma ilkesindeki \"uyum\" kavramı değildir.",
+        "Doğru yanıt: Metinde bu faktörlerin tümü, antrenmanın özel olma ilkesi çerçevesinde sporcunun antrenmana \"uyumunu\" belirleyen unsurlar olarak sayılmıştır.",
+        "Dayanıklılığı: dayanıklılık bir biyomotor özelliktir, bu faktörlerin belirlediği genel bir kavram olarak metinde geçmez.",
+        "Disiplini: metinde bu bağlamda kullanılan bir kavram değildir, çeldiricidir."
+      ]
+    },
+    {
+      "id": "w5q12",
+      "question": "Birim antrenman ana bölümünde hangi tür antrenman programı uygulanır?",
+      "options": ["Giriş, ısınma ve soğuma", "Genel ve özel ısınma", "Teknik ve taktik", "Taktik ve kondisyon", "Teknik, taktik ve kondisyon"],
+      "correctIndex": 4,
+      "explanation": "Metinde ana (temel) bölümün amacı sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek ve özel biyomotor (kondisyonel) yetileri geliştirmektir; Bompa'nın önerdiği sıralama teknik/taktik öğrenimi, sürat-çeviklik, kuvvet ve dayanıklılık (kondisyon) gelişimini birlikte kapsar. Bu nedenle ana bölümde uygulanan program türü teknik, taktik ve kondisyonu birlikte içerir.",
+      "optionNotes": [
+        "Giriş, ısınma ve soğuma: bunlar birim antrenmanın ana bölümden önce ve sonra gelen ayrı bölümleridir, ana bölümün kendi içeriği değildir.",
+        "Genel ve özel ısınma: ısınma bölümüne ait alt kategorilerdir, ana bölümde uygulanan bir program türü değildir.",
+        "Teknik ve taktik: ana bölümün önemli bir parçasıdır ancak metinde ayrıca kondisyon (biyomotor yetiler) gelişimi de ana bölümün kapsamına dahil edilmiştir, bu seçenek eksik kalır.",
+        "Taktik ve kondisyon: teknik unsurunu dışarıda bıraktığı için ana bölümün tam içeriğini yansıtmaz.",
+        "Doğru yanıt: Ana bölümde teknik, taktik ve kondisyon (biyomotor yetiler) birlikte geliştirilir; metinde Bompa'nın sıralamasında bu üç unsur da yer alır."
+      ]
+    },
+    {
+      "id": "w5q13",
+      "question": "“Antrenman planlı ve sistematik bir olgu olduğu için bilimsel kurallara ve denenmiş çalışmalara göre düzenlenmelidir” cümlesi hangi hazırlık antrenmanına işaret etmektedir?",
+      "options": ["Kuramsal hazırlık", "Zihinsel hazırlık", "Taktik hazırlık", "Fiziksel hazırlık", "Teknik hazırlık"],
+      "correctIndex": 0,
+      "explanation": "Metinde antrenmanın kuramsal/eğitimsel boyutu, antrenmanın bireysel bir özellik taşıdığı ve bilimsel kurallara, başarılı antrenörlerin ve sporcuların deneyimlerine dayanarak planlı ve sistematik şekilde düzenlenmesi gerektiğini ifade eder. Soru cümlesi bu tanımla birebir örtüşür.",
+      "optionNotes": [
+        "Doğru yanıt: \"Bilimsel kurallara ve denenmiş çalışmalara göre düzenlenmelidir\" ifadesi, metinde kuramsal hazırlığın tanımıyla birebir örtüşür.",
+        "Zihinsel hazırlık, algı, stres, motivasyon gibi psikolojik süreçlerle ilgilidir, bilimsel kurallara dayalı planlama tanımı değildir.",
+        "Taktik hazırlık, müsabaka içi karar alma ve uygulama süreciyle ilgilidir, bu cümledeki bilimsel-sistematik düzenleme vurgusunu tanımlamaz.",
+        "Fiziksel hazırlık, bedensel/motorik gelişimle ilgilidir, antrenmanın bilimsel-kuramsal temelini anlatan bu cümleyle örtüşmez.",
+        "Teknik hazırlık, hareketlerin ekonomik biçimde uygulanmasıyla ilgilidir, bilimsel kurallara dayalı sistematik düzenleme tanımı değildir."
+      ]
+    },
+    {
+      "id": "w5q14",
+      "question": "Bir uyarıya bağlı olarak sürat ve doğru hareket edebilme yeteneği aşağıdakilerden hangisidir?",
+      "options": ["Özel esneklik", "Denge", "Esneklik", "Reaksiyon", "Ritim"],
+      "correctIndex": 3,
+      "explanation": "Reaksiyon, bir uyarana karşı duyu organlarının algılaması ve bu uyarıya süratli ve doğru yönde tepki verilmesi sürecini ifade eder. Soru metnindeki \"bir uyarıya bağlı olarak sürat ve doğru hareket edebilme\" tanımı doğrudan reaksiyon kavramına karşılık gelir.",
+      "optionNotes": [
+        "Özel esneklik, belirli eklemlerin hareket genişliğiyle ilgilidir, bir uyarana tepki verme hızıyla ilgili değildir.",
+        "Denge, vücut pozisyonunu koruma becerisidir, uyarıya bağlı hareket hızı/doğruluğu tanımı değildir.",
+        "Esneklik, eklem hareket genişliğini ifade eder, uyarana tepki verme sürecini tanımlamaz.",
+        "Doğru yanıt: Reaksiyon, bir uyarana karşı algılama ve süratli-doğru tepki verme yeteneğidir, tanım birebir örtüşür.",
+        "Ritim, hareketin zaman ve dinamiğine uygun davranabilmeyi ifade eder, uyarana tepki hızıyla ilgili bir tanım değildir."
+      ]
+    },
+    {
+      "id": "w5q15",
+      "question": "Antreman gelişim evrelerine göre fiziksel hazırlığın yıllık plan içerisindeki görünümü hangi seçenekte doğru olarak verilmiştir?",
+      "options": ["Hazırlık dönemi 1. Evre-genel hazırlık", "Yarışma dönemi –Özel fiziksel hazırlılk", "Hazırlık dönemi 2. Evre –Genel fiziksel hazırlık", "Yarışma dönemi-Genel fiziksel hazırlık", "Hazırlık dönemi 1. Evre-özel fiziksel hazırlık"],
+      "correctIndex": 0,
+      "explanation": "Metinde fiziksel hazırlığın yıllık plan içindeki görünümünü gösteren tabloya göre, hazırlık döneminin 1. gelişim evresinde ağırlıklı olarak genel fiziksel hazırlık uygulanır; özel fiziksel hazırlık ise hazırlık döneminin 2. evresinde ağırlık kazanır. Bu nedenle \"Hazırlık dönemi 1. Evre-genel hazırlık\" eşleşmesi doğrudur.",
+      "optionNotes": [
+        "Doğru yanıt: Tabloya göre hazırlık döneminin 1. evresinde ağırlıklı antrenman türü genel fiziksel hazırlıktır.",
+        "Yarışma dönemi –Özel fiziksel hazırlılk: metinde özel fiziksel hazırlık hazırlık döneminin 2. evresiyle ilişkilendirilir, yarışma dönemiyle bu şekilde eşleştirilmez.",
+        "Hazırlık dönemi 2. Evre –Genel fiziksel hazırlık: tabloya göre 2. evrede ağırlıklı olan özel fiziksel hazırlıktır, genel fiziksel hazırlık değildir; bu seçenek evreleri ters eşleştirir.",
+        "Yarışma dönemi-Genel fiziksel hazırlık: genel fiziksel hazırlık hazırlık döneminin 1. evresiyle ilişkilidir, yarışma dönemiyle eşleştirilmesi yanlıştır.",
+        "Hazırlık dönemi 1. Evre-özel fiziksel hazırlık: tabloya göre 1. evrede ağırlıklı olan genel fiziksel hazırlıktır, özel fiziksel hazırlık değildir; bu seçenek evreleri ters eşleştirir."
+      ]
+    },
+    {
+      "id": "w5q16",
+      "question": "Daha az enerji harcayarak ve daha az yorgunlukta hareketin etkili ve verimli bir şekilde yapılmasına tam olarak ne denir?",
+      "options": ["Standart", "Hareket ekonomisi", "Uygunluk", "Optimum", "Dengeli yaklaşım"],
+      "correctIndex": 1,
+      "explanation": "Metinde iyi bir koordinasyon kapasitesinin, hareketin daha az enerjiyle ve daha verimli/etkili bir şekilde yapılmasını sağladığı belirtilir; bu özelliğe spor biliminde \"hareket ekonomisi\" denir. Soru metnindeki \"daha az enerji harcayarak ve daha az yorgunlukta hareketin etkili ve verimli yapılması\" tanımı bu kavrama karşılık gelir.",
+      "optionNotes": [
+        "Standart, yüklenme yaklaşımlarından biri olan \"standart (ölçülü) yüklenme\" ile ilgili bir terimdir, hareketin enerji verimliliğini tanımlamaz.",
+        "Doğru yanıt: Hareket ekonomisi, hareketin daha az enerjiyle ve daha verimli yapılmasını ifade eden tam olarak bu tanıma karşılık gelen kavramdır.",
+        "Uygunluk, fiziksel uygunluk (fitness) kişinin genel çalışma kapasitesini ifade eder, hareketin enerji verimliliğine özgü bir tanım değildir.",
+        "Optimum, en uygun/ideal düzeyi ifade eden genel bir terimdir, hareket ekonomisi kavramının yerine kullanılan özel bir terim değildir.",
+        "Dengeli yaklaşım, metinde bu adla tanımlanan bir kavram değildir, çeldiricidir."
+      ]
+    },
+    {
+      "id": "w5q17",
+      "question": "Katılım spor ortalamalarındaki çocukların ,haftalık antrenman etkinlikleri en fazla kaç saat olmalıdır?",
+      "options": ["6", "8", "10", "12", "15"],
+      "correctIndex": 1,
+      "explanation": "Ünite metinlerinde katılım (rekreasyonel) düzeyindeki çocuk sporcularda haftalık antrenman süresine ilişkin kesin bir sayı doğrudan belirtilmemektedir; ancak genç/katılım sporcuları için spor bilimi literatüründe sık atıf yapılan üst sınır haftada 8 saat civarındadır. Not: Bu sorunun cevabı verilen ünite metinlerinde birebir doğrulanamadığı için en yaygın kabul gören değere dayanılarak belirlenmiştir, dolayısıyla diğer sorulara göre daha düşük kesinlik taşımaktadır.",
+      "optionNotes": [
+        "6: metinlerde doğrulanan bir değer değildir, önerilen üst sınırın biraz altında kalan bir seçenektir.",
+        "Kabul edilen yanıt: Katılım düzeyindeki çocuk sporcular için literatürde sıkça atıf yapılan haftalık üst sınır 8 saat civarındadır (ünite metninde doğrudan doğrulanamadı).",
+        "10: katılım sporcuları için önerilen üst sınırın üzerinde, daha çok performans sporcularına yönelik bir yoğunluğa işaret eder.",
+        "12: katılım düzeyi için fazla yüksek bir değerdir, metinlerde bu sayıyla ilişkilendirilen bir ifade bulunmamaktadır.",
+        "15: katılım sporcuları için aşırı yüksek bir haftalık antrenman süresidir, sürantrenman riskini artırabilecek bir yoğunluğu ifade eder."
+      ]
+    },
+    {
+      "id": "w5q18",
+      "question": "Enerji oluşumu açısından dayanıklılık aşağıdaki seçeneklerden hangisinde ifade edilmektedir?",
+      "options": ["Kısa –orta süreli", "Genel-özel", "Kısa-orta-uzun süreli", "Aerobik-Anaerobik", "Orta-Uzun süreli"],
+      "correctIndex": 3,
+      "explanation": "Metinde \"Enerji oluşumu açısından dayanıklılık aerobik ve anaerobik olarak ikiye ayrılır\" ifadesiyle bu sınıflandırma doğrudan verilmiştir. Diğer sınıflandırmalar (kısa-orta-uzun süreli gibi) enerji oluşum şekline göre değil, dayanıklılığın süresine göre yapılan ayrımlardır.",
+      "optionNotes": [
+        "Kısa –orta süreli: dayanıklılığın süreye göre sınıflandırılmasına aittir, enerji oluşumuna göre yapılan ayrım değildir.",
+        "Genel-özel: bu ayrım dayanıklılık için metinde kullanılan bir sınıflandırma değildir, fiziksel hazırlıkla ilgili genel-özel ayrımıyla karıştırılmamalıdır.",
+        "Kısa-orta-uzun süreli: metinde dayanıklılığın süreye göre sınıflandırılması olarak geçer (45 sn-2 dk, 2-8 dk, 8 dk ve üzeri), enerji oluşumuna göre değildir.",
+        "Doğru yanıt: Metinde enerji oluşumu açısından dayanıklılık açıkça aerobik ve anaerobik olarak ikiye ayrılmıştır.",
+        "Orta-Uzun süreli: süreye göre yapılan bir alt sınıflandırmadır, enerji oluşumuna göre yapılan temel ayrım değildir."
+      ]
+    },
+    {
+      "id": "w5q19",
+      "question": "Bompa ve Haff 2015&#039;in hazırlanmış olduğu çok yönlü gelişim ilkesi piramidine göre sırasıyla gelişim evreleri aşaması Aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": ["Çocukluk evresi olgunlaşma yüksek performans", "Olgunlaşma çok yönlü gelişim yüksek performans", "Çok yönlü gelişim özel antrenman yüksek performans", "Yüksek performans özel antrenman Olgunlaşma", "Özel antrenman Olgunlaşma yüksek performans"],
+      "correctIndex": 2,
+      "explanation": "Metinde çok yönlü gelişim ilkesi bir piramit olarak tasvir edilir: piramidin tabanını çocukluk evresinde kazanılan çok yönlü gelişim oluşturur, üzerine genç sporcularda özel antrenman, en tepede ise olgunlaşma evresinde yüksek performans gelir. Bu sıralama, tabandan tepeye doğru \"çok yönlü gelişim - özel antrenman - yüksek performans\" şeklindedir.",
+      "optionNotes": [
+        "Çocukluk evresi olgunlaşma yüksek performans: \"özel antrenman\" aşamasını atlayarak sıralamayı eksik ve hatalı verir.",
+        "Olgunlaşma çok yönlü gelişim yüksek performans: sıralamayı baştan yanlış başlatır; piramidin tabanı olgunlaşma değil çok yönlü gelişimdir.",
+        "Doğru yanıt: Piramidin tabanından tepesine doğru sıralama metinde tam olarak çok yönlü gelişim, özel antrenman ve yüksek performans şeklinde verilmiştir.",
+        "Yüksek performans özel antrenman Olgunlaşma: sıralama tamamen tersten verilmiştir, piramit tepeden tabana doğru okunmamalıdır.",
+        "Özel antrenman Olgunlaşma yüksek performans: piramidin tabanı olan çok yönlü gelişim evresini tamamen atlayan eksik bir sıralamadır."
+      ]
+    },
+    {
+      "id": "w5q20",
+      "question": "Bir plan program çerçevesinde öyküsü belirlenmiş kapsam ve içerikte yapılan değişiklikler sonucu organizmada morfolojik fonksiyonel ve kimyasal değişikliklere neden olan etkilere------------- denir. Cümlede boş bırakılan yere aşağıdaki Hangisi doğru olarak tamamlar?",
+      "options": ["Model antrenman", "Yüklenme", "Antrenman periyotlaması", "Antrenman çeşitliliği", "Geriye dönüşüm Ülkesi"],
+      "correctIndex": 1,
+      "explanation": "Metinde yüklenme, \"bir plan ve program çerçevesinde ölçüsü belirlenmiş, kapsam ve içerikte yapılan değişiklikler sonucu organizmada morfolojik, fonksiyonel ve kimyasal değişikliklere neden olan etkinlik\" olarak tanımlanır (Smith, 2003). Soru cümlesi bu tanımla birebir örtüşmektedir.",
+      "optionNotes": [
+        "Model antrenman, yarışma şartlarına (çevre, zemin, malzeme) uygun antrenman düzenlenmesini ifade eder, morfolojik-kimyasal değişiklik tanımıyla ilgili değildir.",
+        "Doğru yanıt: Yüklenme, metinde tam olarak bu tanımla (plan/program çerçevesinde morfolojik, fonksiyonel, kimyasal değişikliklere neden olan etkinlik) verilmiştir.",
+        "Antrenman periyotlaması, yıllık planın hedef yarışmalara göre bölümlere ayrılmasını ifade eder, bu tanımla ilgili değildir.",
+        "Antrenman çeşitliliği, antrenmanın tek tipe bağlı kalmaksızın çoklu drillerle yapılmasını ifade eder, bu tanımla örtüşmez.",
+        "Geriye dönüşüm Ülkesi, antrenmana ara verilmesi sonucu performansın gerilemesini (detraining) ifade eden bir kavramdır, bu tanımla ilgisi yoktur."
+      ]
+    }
+  ]
+}

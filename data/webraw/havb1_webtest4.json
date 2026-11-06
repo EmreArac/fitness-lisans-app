@@ -1,0 +1,314 @@
+{
+  "questions": [
+    {
+      "id": "w4q1",
+      "question": "Eğitsel oyunlar aktivite analizinin görev oluşturma bölümü kaç gruba ayrılmaktadır?",
+      "options": ["1", "2", "3", "4", "5"],
+      "correctIndex": 3,
+      "explanation": "Hareket eğitimi ve oyun öğretiminde görev (task) yapılandırma genel olarak dört tür görevin kullanılmasına dayanır: bilgilendirme görevi, genişletme görevi, iyileştirme/düzeltme görevi ve uygulama görevi. Bu dörtlü yapı, eğitsel oyun ve etkinliklerin aktivite analizinde görev oluşturma bölümünün dört gruba ayrılmasının temelini oluşturur. Not: Bu soru için incelenen ünite kaynaklarında (Hareket Eğitimi ve Oyun I bölümü) birebir bu ifadeyi doğrulayan bir cümle bulunamadı; cevap, spor pedagojisinde yaygın kabul gören görev yapılandırma modeline dayanarak en mantıklı seçenek olarak işaretlenmiştir.",
+      "optionNotes": [
+        "Görev oluşturma tek bir grupla sınırlı değildir; bilgilendirme, genişletme, düzeltme ve uygulama gibi farklı görev türleri ayrı ayrı ele alınır.",
+        "İki grup, görev oluşturma sürecindeki çeşitliliği (bilgilendirme, genişletme, düzeltme, uygulama) kapsamaz, bu nedenle yetersizdir.",
+        "Üç grup da yaygın kabul gören dörtlü görev yapılandırma modeliyle (bilgilendirme-genişletme-düzeltme-uygulama) örtüşmez.",
+        "Doğru kabul edilen seçenek: görev oluşturma, bilgilendirme, genişletme, düzeltme/iyileştirme ve uygulama görevleri olmak üzere dört gruba ayrılır.",
+        "Beş grup, bu konuda genel kabul gören modelden daha fazla kategori öne sürer ve kaynaklarla desteklenmez."
+      ]
+    },
+    {
+      "id": "w4q2",
+      "question": "Aşağıdakilerden hangisi hareket eğitimi taslağı ve dört konseptle çocukları tanıştırdıktan sonraki süreçte bunları hatırlamak için yapılması gereken etkinliklerin başında gelir?",
+      "options": ["Gözlem yapmak", "Soru sormak", "Konuyu tekrar etmek", "Aktivite hazırlamak", "Sınav yapmak"],
+      "correctIndex": 2,
+      "explanation": "Hareket eğitiminde çocuklara temel hareket kavramları (vücut, alan, efor, ilişki farkındalığı) tanıtıldıktan sonra bu kavramların kalıcı öğrenilmesi için en öncelikli adım, öğrenilen bilginin düzenli olarak tekrar edilmesidir; tekrar, hareket kavramlarının hatırlanmasını ve sonraki etkinliklerde doğru uygulanmasını sağlayan ilk basamaktır. Not: Bu soru için ilgili ünite metninde birebir bu ifadeyi doğrulayan bir cümle bulunamadığından, cevap hareket/motor öğrenimi ilkelerine dayanan en mantıklı seçenek olarak işaretlenmiştir.",
+      "optionNotes": [
+        "Gözlem yapmak, kavramları tanıma aşamasında antrenöre fayda sağlar ama çocuğun öğrendiklerini hatırlaması için yapması gereken ilk etkinlik değildir.",
+        "Soru sormak, anlama düzeyini kontrol etmek için kullanılabilir ama hatırlama/kalıcılık için önerilen birincil yöntem değildir.",
+        "Doğru kabul edilen seçenek: konuyu tekrar etmek, öğrenilen hareket kavramlarının kalıcı hale gelmesi için ilk ve temel etkinliktir.",
+        "Aktivite hazırlamak antrenörün görevidir; çocuğun kavramları hatırlaması için yapması gereken bir etkinlik olarak tanımlanmaz.",
+        "Sınav yapmak, hatırlamayı pekiştirmek için kullanılan bir yöntem değildir; bu yaş grubunda uygun bir uygulama olarak da geçmez."
+      ]
+    },
+    {
+      "id": "w4q3",
+      "question": "Aşağıdakilerden hangisi lokomotor hareketlerden biri değildir?",
+      "options": ["Yürüme", "Eğilme", "Koşma", "Atlama", "Sıçrama"],
+      "correctIndex": 1,
+      "explanation": "Kaynak ünitede (Hareket Eğitimi ve Oyun I, Tablo 3.1 Beceri Temaları) temel hareket becerileri \"Yer Değiştirme Gerektiren Hareketler\" (lokomotor: yürüme, koşma, atlama-sıçrama, adım al-sek, galop-kayma, yuvarlanma, tırmanma) ve \"Dengeleme Gerektiren Hareketler\" (lokomotor olmayan: eğilme, esnetme, dönme, salınım vb.) olarak ayrılmıştır. Eğilme, vücudun bir noktadan başka bir noktaya yer değiştirmesini içermediği için dengeleme (lokomotor olmayan) grubuna girer; diğer dört seçenek ise yer değiştirme gerektiren lokomotor hareketlerdir.",
+      "optionNotes": [
+        "Yürüme, Tablo 3.1'de yer değiştirme gerektiren (lokomotor) hareketler arasında açıkça sayılmıştır.",
+        "Doğru yanıt: Eğilme, aynı tabloda dengeleme gerektiren (lokomotor olmayan) hareketler arasında yer alır, vücut yer değiştirmez.",
+        "Koşma, yer değiştirme gerektiren (lokomotor) hareketler listesinde açıkça belirtilmiştir.",
+        "Atlama, yer değiştirme gerektiren (lokomotor) hareketler arasında (atlama-sıçrama) sayılmıştır.",
+        "Sıçrama da aynı şekilde yer değiştirme gerektiren (lokomotor) hareketler grubuna aittir."
+      ]
+    },
+    {
+      "id": "w4q4",
+      "question": "Bir öğrenciyi seçip ilişkiler kartı astırılır ve bu kart kelimeler ile ilgili aklına gelenlerin neler olduğu, tahtaya neler çizebileceği öğrenciye sorulur. Bu aktivitenin hangi günlerde sınıf ortamında yapılması tercih edilir?",
+      "options": ["Yağmurlu", "Sisli", "Bulutlu", "Güneşli", "Rüzgarlı"],
+      "correctIndex": 0,
+      "explanation": "Kaynak ünitede eğitsel oyunların oynandıkları alanlara göre sınıflandırılması açıklanırken, spor salonu bulunmayan okullarda kış aylarında veya yağmurlu havalarda beden eğitimi dersinin sınıf ortamında yapılmak zorunda olduğu belirtilmiştir. Bu nedenle tahtada kelime/çizim temelli ilişkiler kartı etkinliği gibi sınıf içi etkinlikler özellikle yağmurlu günlerde tercih edilir.",
+      "optionNotes": [
+        "Doğru yanıt: Metinde spor salonu olmayan okullarda yağmurlu havalarda dersin sınıfta yapılmak zorunda olduğu açıkça belirtilmiştir.",
+        "Sisli hava, metinde sınıf ortamına geçişin gerekçesi olarak belirtilen koşullar arasında sayılmamıştır.",
+        "Bulutlu hava, açık alanda etkinlik yapmayı engelleyen bir durum olarak metinde geçmez.",
+        "Güneşli hava açık alan etkinlikleri için uygun bir koşuldur, sınıf ortamına geçişi gerektirmez.",
+        "Rüzgarlı hava da metinde sınıf ortamına geçişin sebebi olarak belirtilen durumlar arasında yer almaz."
+      ]
+    },
+    {
+      "id": "w4q5",
+      "question": "Aşağıdakilerden hangisi vücut aktivitelerinde kullanılan ekipmanlardan biri değildir?",
+      "options": ["Halatlar", "Hulahoplar", "Dubalar", "Yumuşak toplar", "Matlar"],
+      "correctIndex": 2,
+      "explanation": "Vücut farkındalığı etkinlikleri (vücut parçalarını tanıma, vücut şekilleri, denge, ağırlık transferi gibi) genellikle halat, hulahop, yumuşak top ve mat gibi doğrudan vücutla etkileşime giren veya vücut şekli/denge çalışmasını destekleyen ekipmanlarla yapılır. Dubalar (huniler) ise daha çok alan/yol sınırlama, slalom veya mesafe belirleme amacıyla yer değiştirme (lokomotor) ve alan farkındalığı etkinliklerinde kullanılan işaretleyici ekipmanlardır; bu nedenle vücut aktivitelerinin tipik ekipmanları arasında sayılmaz. Not: Bu ayrım, ünitede verilen etkinlik tablolarındaki araç-gereç listelerinden çıkarılan genel bir değerlendirmedir, soruyu doğrulayan birebir bir cümle bulunamamıştır.",
+      "optionNotes": [
+        "Halatlar, ünitedeki itme-çekme ve denge etkinliklerinde (örn. halat çekme oyunu) vücut aktivitesi ekipmanı olarak kullanılmıştır.",
+        "Hulahoplar, vücut şekli, denge ve alan farkındalığı etkinliklerinde (çember atma/yakalama gibi) sıkça kullanılan bir ekipmandır.",
+        "Doğru kabul edilen seçenek: Dubalar, vücut aktivitelerinden çok yer değiştirme/slalom ve alan sınırlama etkinliklerinde kullanılan işaretleyici ekipmanlardır.",
+        "Yumuşak toplar, vücut parçalarını kullanma ve nesne kontrolü aktivitelerinde yaygın olarak kullanılan bir ekipmandır.",
+        "Matlar, denge ve yuvarlanma gibi vücut aktivitelerinde güvenlik ve uygulama amacıyla doğrudan kullanılan temel ekipmanlardandır."
+      ]
+    },
+    {
+      "id": "w4q6",
+      "question": "Aşağıdakilerden hangisi efor aktivitelerinin konseptlerinden biridir?",
+      "options": ["Yer", "Seviye", "Vücut şekilleri", "Vücut parçaları", "Zaman"],
+      "correctIndex": 4,
+      "explanation": "Kaynak ünitedeki Temel Hareket Kavramları tablosuna (Tablo 3.12) göre Efor Farkındalığı (\"Vücut Nasıl Hareket Eder?\") zaman, tempo, güç ve akıcılık bileşenlerinden oluşur. Bu nedenle \"Zaman\" doğrudan efor (çaba) konseptinin bir alt bileşenidir; diğer seçenekler ise alan farkındalığı (yer, seviye) ve vücut farkındalığı (vücut şekilleri, vücut parçaları) konseptlerine aittir.",
+      "optionNotes": [
+        "Yer, tabloda Alan Farkındalığı konseptinin bir bileşenidir (kişisel/genel alan), efor konseptine ait değildir.",
+        "Seviye (düşük-orta-yüksek-derin), Alan Farkındalığı konseptinin alt bileşenlerinden biridir, efor ile ilgili değildir.",
+        "Vücut şekilleri, Vücut Farkındalığı konseptiyle ilişkilidir, efor farkındalığı kapsamında sayılmaz.",
+        "Vücut parçaları, Vücut Farkındalığı ve Hareket İlişkileri konseptleriyle ilgilidir, efor konseptinin bir bileşeni değildir.",
+        "Doğru yanıt: Zaman, tabloda Efor Farkındalığı konseptinin (zaman-tempo-güç-akıcılık) açıkça sayılan bir bileşenidir."
+      ]
+    },
+    {
+      "id": "w4q7",
+      "question": "Aşağıdakilerden hangisi beden eğitimi programlarının ve aktivitelerinin ana amaçlarından biri değildir?",
+      "options": [
+        "Çapraz satış yoluyla müşteriden elde edilen kârları artırmak",
+        "Ürün yönetiminden müşteri yönetimlerine yönelmek",
+        "Kültürel mirasın korunmasını sağlamak",
+        "Çocukların gündelik yaşamında kullanabilecekleri kelime dağarcığını oluşturmak",
+        "Toplumsal değerlere katkı sağlamak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beden eğitimi ve hareket eğitimi programlarının amaçları arasında kültürel mirasın korunması, çocuklara hareket/kavram kelime dağarcığı kazandırılması ve toplumsal değerlere (kurallara uyma, işbirliği, saygı gibi) katkı sağlanması yer alır; bunlar kaynak ünitede oyunun ve hareket eğitiminin çocuk gelişimine etkileri bölümünde doğrudan veya dolaylı olarak desteklenmektedir. \"Çapraz satış yoluyla müşteriden kâr artırma\" ise tamamen ticari/pazarlama alanına ait bir kavramdır ve beden eğitimi programlarının eğitimsel amaçlarıyla hiçbir ilgisi yoktur. Not: Seçenekler arasında \"ürün yönetiminden müşteri yönetimine yönelmek\" ifadesi de pedagojik bir amaç gibi görünmemektedir; bu soru bankasındaki seçenek kümesinde olası bir karışıklık olabileceği düşünülmüş, en açık biçimde alana yabancı olan ticari ifade (çapraz satış/kâr artırma) doğru yanıt olarak işaretlenmiştir.",
+      "optionNotes": [
+        "Doğru kabul edilen seçenek: Bu ifade tamamen pazarlama/satış terminolojisine aittir, beden eğitimi programlarının eğitimsel amaçlarıyla ilgisi yoktur.",
+        "Bu seçenek de işletme/pazarlama diline ait bir ifadedir ve beden eğitimi programının klasik amaçları arasında yer almaz; ancak sorunun tek doğru cevap beklentisi nedeniyle en belirgin biçimde alana yabancı olan ilk seçenek işaretlenmiştir.",
+        "Kültürel mirasın korunması, oyun ve hareket eğitiminin toplumsal/kültürel aktarım işlevine dayanan, kaynakta desteklenen bir amaçtır.",
+        "Hareket kavramlarının öğrenilmesi çocuğun kelime dağarcığını geliştirir; bu, hareket eğitiminin amaçları arasında metinde vurgulanmıştır.",
+        "Toplumsal değerlere katkı sağlamak (kurallara uyma, işbirliği, paylaşma vb.), oyunun sosyal gelişim üzerine etkisi başlığında doğrudan desteklenen bir amaçtır."
+      ]
+    },
+    {
+      "id": "w4q8",
+      "question": "Aşağıdakilerden hangisi konum konsepti aktivitelerinden biridir?",
+      "options": ["Beni taklit et", "Statik hedef alma", "Eşleşme ve yuvarlanma", "Baş aşağı", "Bir ortakla iş birliği"],
+      "correctIndex": 1,
+      "explanation": "Konum (yer/location) konsepti, hareket eğitiminde bireyin kendi kişisel alanında sabit kalarak (hareket etmeden) mı yoksa genel alanda yer değiştirerek mi hareket ettiğini ayırt etmeye dayanır. \"Statik hedef alma\" etkinliği, çocuğun yer değiştirmeden (durağan/kişisel alanda) bir pozisyon veya hedef alması anlamına geldiğinden konum/yer konsepti ile en doğrudan ilişkili olan seçenektir. Diğer seçenekler (taklit etme, eşleşme, baş aşağı, ortakla iş birliği) daha çok vücut veya ilişki konseptlerine örnektir. Not: Bu aktivitelerin isimleri kaynak ünite metinlerinde birebir geçmemektedir; cevap, hareket kavramları çerçevesine dayanan en mantıklı seçenek olarak işaretlenmiştir.",
+      "optionNotes": [
+        "Beni taklit et, bir eş/liderin hareketini takip etmeyi içerir; bu daha çok hareket ilişkileri (eşle çalışma) konseptine örnektir.",
+        "Doğru kabul edilen seçenek: Statik hedef alma, yer değiştirmeden sabit bir konumda durmayı gerektirdiği için konum/yer konseptiyle ilişkilendirilir.",
+        "Eşleşme ve yuvarlanma, bir eşle hareketleri eşleştirmeyi içerdiğinden hareket ilişkileri konseptine daha yakındır.",
+        "Baş aşağı, vücudun aldığı bir şekil/pozisyon olduğundan vücut farkındalığı konseptine örnektir, konum konseptine ait değildir.",
+        "Bir ortakla iş birliği, doğrudan hareket ilişkileri (eş/grup ile çalışma) konseptinin bir örneğidir."
+      ]
+    },
+    {
+      "id": "w4q9",
+      "question": "1930’larda Deutsche Sporthochschule Köln (Alman Spor Okulu) isimli üniversitenin kurulmasına katkı sağlayarak hareket eğitiminde büyük öncülerden biri olmuştur. Yukarıdakilerden hangisidir?",
+      "options": ["Rudolf von Laban", "Liselott Diem", "François Delsarte", "Marie Curie", "Humphry Davy"],
+      "correctIndex": 1,
+      "explanation": "Liselott Diem, Alman Spor Okulu'nun (Deutsche Sporthochschule Köln) kurulma sürecine katkı sağlamış ve hareket eğitimi alanında öncü isimlerden biri olarak kabul edilmiştir. Marie Curie (fizik/kimya bilimci) ve Humphry Davy (kimyager) tamamen farklı bilim alanlarına aittir ve hareket eğitimiyle ilgisi yoktur; Rudolf von Laban hareket eğitiminin kurucularından olsa da bu üniversitenin kurulmasına katkı sağlayan kişi olarak anılmaz, François Delsarte ise 19. yüzyılda ifade/beden hareketi teorisyenidir, bu üniversite ile ilişkilendirilmez.",
+      "optionNotes": [
+        "Rudolf von Laban hareket eğitiminin önemli kurucularından biridir, fakat bu üniversitenin kurulmasına katkısı metinde/genel kaynaklarda bu şekilde anılmaz.",
+        "Doğru yanıt: Liselott Diem, Deutsche Sporthochschule Köln'ün kuruluşuna katkı sağlamış, hareket eğitiminde öncü bir isimdir.",
+        "François Delsarte, beden ifadesi ve hareket teorisi üzerine çalışmış 19. yüzyıl teorisyenidir, bu üniversite ile ilişkilendirilmez.",
+        "Marie Curie bir fizikçi/kimyagerdir, hareket eğitimi veya spor bilimleriyle hiçbir ilgisi yoktur.",
+        "Humphry Davy bir kimyagerdir, hareket eğitimi tarihinde herhangi bir rolü bulunmamaktadır."
+      ]
+    },
+    {
+      "id": "w4q10",
+      "question": "Aşağıdaki aktivite türlerinden hangisi zaman, güç, akış ve odak konseptlerini içerir?",
+      "options": ["Efor aktiviteleri", "Mekân aktiviteleri", "Rekreatif aktiviteler", "Vücut aktiviteleri", "İlişki aktiviteleri"],
+      "correctIndex": 0,
+      "explanation": "Kaynak ünitedeki Temel Hareket Kavramları tablosuna göre Efor Farkındalığı (\"Vücut Nasıl Hareket Eder?\") zaman, tempo/güç ve akıcılık gibi bileşenleri kapsar; bu bileşenler genel hareket eğitimi literatüründe zaman, güç, akış ve odak (dikkat) olarak da adlandırılır. Bu nedenle soruda tarif edilen dört kavram doğrudan efor aktivitelerine aittir; mekân (alan), vücut ve ilişki aktiviteleri ise farklı kavram gruplarını (yer/yön/seviye, vücut şekilleri, eşle-grupla ilişki) kapsar.",
+      "optionNotes": [
+        "Doğru yanıt: Efor aktiviteleri, zaman-güç-akış (ve odak) gibi \"vücudun nasıl hareket ettiği\" ile ilgili kavramları kapsar.",
+        "Mekân (alan) aktiviteleri; kişisel-genel alan, yön, seviye ve yol gibi \"vücudun nerede hareket ettiği\" ile ilgili kavramları içerir, zaman-güç ile ilgili değildir.",
+        "Rekreatif aktiviteler, kaynak ünitede ayrı bir hareket kavramı grubu olarak tanımlanmaz, bu nedenle bu dörtlü kavram setiyle ilişkilendirilemez.",
+        "Vücut aktiviteleri, vücudun ne yapabileceği (vücut parçaları, şekiller, ağırlık transferi) ile ilgilidir, zaman-güç-akış konseptleriyle değil.",
+        "İlişki aktiviteleri, vücudun nesne, eş veya grupla ilişkisini kapsar; zaman-güç-akış gibi efor bileşenleriyle doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "id": "w4q11",
+      "question": "Hareket zorluğu yaşayan çocukların gözlemlenmesi neticesinde herhangi bir problem tespit edilmesi durumunda hangi rehber çerçevesinde müdahale programı uygulanmalıdır?",
+      "options": [
+        "Manual Physical Therapy for Pain Relief",
+        "Stay in Step in Tool 5",
+        "Halk Sağlığı Rehberi",
+        "Adım Adım Fiziksel Aktivite Rehberi",
+        "Diagnostic and Statistical Manual of Mental Disorders"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hareket/motor zorluğu yaşayan çocuklarda tespit edilen problemlere yönelik müdahale programları, doğrudan fiziksel aktivite ve hareket gelişimine özgü, adım adım uygulanabilir bir rehber çerçevesinde planlanmalıdır. \"Adım Adım Fiziksel Aktivite Rehberi\" bu amaca uygun, çocuklar için fiziksel aktivite temelli bir müdahale kılavuzu olarak diğer seçeneklerden ayrılır; DSM bir ruhsal bozukluk tanı kılavuzudur, \"Manual Physical Therapy for Pain Relief\" ağrı tedavisine yönelik bir fizyoterapi yaklaşımıdır ve \"Halk Sağlığı Rehberi\" ile \"Stay in Step in Tool 5\" bu bağlamda tanımlanmış spesifik hareket müdahale kılavuzları değildir. Not: Bu soru için ünite kaynaklarında birebir doğrulayan bir ifade bulunamamış, cevap seçenekler arasındaki en uygun eşleşmeye dayanarak işaretlenmiştir.",
+      "optionNotes": [
+        "Manual Physical Therapy for Pain Relief, ağrı tedavisine yönelik bir fizyoterapi yaklaşımıdır; çocuklarda hareket gelişimi müdahalesi için genel bir rehber değildir.",
+        "Stay in Step in Tool 5, hareket zorluğu müdahalesi için tanımlı, bilinen bir rehber adı değildir; anlamsız/çeldirici bir seçenektir.",
+        "Halk Sağlığı Rehberi, genel bir kavramdır ve çocuklarda hareket zorluğuna özgü bir müdahale rehberi olarak tanımlanmaz.",
+        "Doğru kabul edilen seçenek: Adım Adım Fiziksel Aktivite Rehberi, fiziksel aktivite temelli, çocuklara özgü müdahale programları için en uygun seçenektir.",
+        "Diagnostic and Statistical Manual of Mental Disorders (DSM), ruhsal bozuklukların tanısı için kullanılan bir kılavuzdur, motor/hareket müdahalesiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w4q12",
+      "question": "Aşağıdakilerden hangisi fiziksel aktivite problemi yaşayan çocukların ailelerinin çocuklarına yakıştırmış olduğu sıfatlar arasında yer almaz?",
+      "options": ["Yaramaz", "Şımarık", "Garip", "Tembel", "Zeki"],
+      "correctIndex": 4,
+      "explanation": "Fiziksel aktivite/hareket problemi yaşayan çocuklar, hareket beceri eksiklikleri nedeniyle çevreleri (bazen aileleri) tarafından genellikle olumsuz biçimde \"yaramaz\", \"şımarık\", \"garip\" veya \"tembel\" gibi sıfatlarla yanlış biçimde etiketlenir; bu etiketler çocuğun asıl sorununun (motor beceri eksikliği) fark edilmemesinden kaynaklanır. \"Zeki\" ise olumlu bir sıfat olup bu olumsuz yakıştırmalar grubuna ait değildir.",
+      "optionNotes": [
+        "Yaramaz, hareket/motor becerisi zayıf olan çocuklara sıkça yakıştırılan olumsuz bir sıfattır.",
+        "Şımarık, aynı şekilde fiziksel aktivite problemine bağlı davranışların yanlış yorumlanmasından kaynaklanan olumsuz bir etikettir.",
+        "Garip, hareketlerindeki acemilik/uyumsuzluk nedeniyle çocuğa yakıştırılan olumsuz bir sıfattır.",
+        "Tembel, hareket etmekten çekinen çocuklar için sıkça kullanılan, motor beceri sorununu göz ardı eden olumsuz bir etikettir.",
+        "Doğru yanıt: Zeki olumlu bir sıfattır ve fiziksel aktivite problemi yaşayan çocuklara yakıştırılan olumsuz etiketler arasında yer almaz."
+      ]
+    },
+    {
+      "id": "w4q13",
+      "question": "Özel Olimpiyatlar ilk olarak hangi yıl yapılmıştır?",
+      "options": ["1996", "1698", "1998", "1986", "1968"],
+      "correctIndex": 4,
+      "explanation": "Özel Olimpiyatlar (Special Olympics), Eunice Kennedy Shriver'ın girişimiyle zihinsel engelli bireylerin spora katılımını desteklemek amacıyla kurulmuş ve ilk Özel Olimpiyat Yaz Oyunları 1968 yılında Chicago'da düzenlenmiştir.",
+      "optionNotes": [
+        "1996, Özel Olimpiyatların ilk düzenlendiği yıl değildir; bu tarihte zaten düzenli olarak sürdürülen oyunlar devam ediyordu.",
+        "1698, tarihsel olarak anlamsız/çeldirici bir tarihtir, Özel Olimpiyatlarla hiçbir ilgisi yoktur.",
+        "1998, Özel Olimpiyatların kuruluş tarihinden 30 yıl sonrasına denk gelir, ilk düzenleme yılı değildir.",
+        "1986, Özel Olimpiyatların ilk yapıldığı tarih değildir, kuruluştan sonraki bir dönemdir.",
+        "Doğru yanıt: Özel Olimpiyatlar ilk olarak 1968 yılında Chicago'da düzenlenmiştir."
+      ]
+    },
+    {
+      "id": "w4q14",
+      "question": "“Seviyeni Göster” isimli aktivitede hangi ekipmanlar kullanılmaktadır?",
+      "options": ["Yün yumaklar", "Davul", "Yumuşak toplar", "Matlar", "Hulahoplar"],
+      "correctIndex": 4,
+      "explanation": "\"Seviye\" (düşük-orta-yüksek-derin), alan farkındalığı konseptinin bir alt bileşenidir ve bu kavramı somutlaştırmak için genellikle farklı yüksekliklerde tutulan veya yerleştirilen hulahoplar kullanılır; çocuklar hulahopların seviyesine göre (yerde, bel hizasında, baş üstünde) farklı hareketler yaparak \"seviye\" kavramını deneyimler. Not: Bu aktivitenin adı kaynak ünite metinlerinde birebir geçmemektedir; cevap, alan farkındalığı/seviye konseptiyle en çok örtüşen ekipmana dayanılarak işaretlenmiştir.",
+      "optionNotes": [
+        "Yün yumaklar, genellikle vücut parçası tanıma veya taklit etkinliklerinde kullanılır, seviye kavramıyla doğrudan ilişkilendirilmez.",
+        "Davul, ritim ve tempo (efor farkındalığı) etkinliklerinde kullanılan bir ekipmandır, seviye kavramıyla ilgili değildir.",
+        "Yumuşak toplar, nesne kontrolü etkinliklerinde (atma-tutma-yuvarlama) kullanılır, seviye kavramını göstermek için tipik bir ekipman değildir.",
+        "Matlar, denge ve yuvarlanma etkinliklerinde kullanılır, seviye farkındalığı kavramına özgü bir ekipman değildir.",
+        "Doğru kabul edilen seçenek: Hulahoplar, farklı yüksekliklerde tutularak düşük-orta-yüksek seviye kavramını göstermek için kullanılabilecek en uygun ekipmandır."
+      ]
+    },
+    {
+      "id": "w4q15",
+      "question": "Esneklik ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Esneklik doğuştan gelen bir motorik özelliktir.",
+        "Esneklik gelişimi uzun vadede gerçekleşir",
+        "Esneklik aylık gelişen bir motorik özelliktir.",
+        "Esneklik günden güne gelişen bir motorik özelliktir.",
+        "Esneklik sadece kadınlara özgü bir motorik özelliktir."
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenman bilimi kaynağında (Genel Antrenman Bilimi ünitesi, \"Antrenman Yükünün Sürekli Artırılması İlkesi\") biyomotor özelliklerin farklı zaman ölçeklerinde geliştiği belirtilir: esneklik günden güne, kuvvet haftadan haftaya, sürat aydan aya, dayanıklılık ise ay-yıl sürecinde gelişir. Bu nedenle esnekliğin günden güne gelişen bir motorik özellik olduğu ifadesi doğrudur; esneklik doğuştan gelen sabit bir özellik değildir, belirli bir cinsiyete özgü de değildir ve aylık ölçekte gelişen özellik sürattir, esneklik değildir.",
+      "optionNotes": [
+        "Esneklik doğuştan gelen sabit bir özellik değildir; antrenmanla ve yaşa bağlı olarak değişen, geliştirilebilen bir motorik özelliktir.",
+        "\"Uzun vadede gerçekleşir\" ifadesi esnekliğin gerçek gelişim hızını yansıtmaz; kaynakta esneklik en hızlı (günden güne) gelişen özellik olarak belirtilir.",
+        "Aylık gelişim ölçeği kaynakta sürat/hız için belirtilmiştir, esneklik için değildir.",
+        "Doğru yanıt: Kaynakta esnekliğin günden güne geliştiği açıkça belirtilmiştir, bu da onu en hızlı gelişen motorik özellik yapar.",
+        "Esneklik cinsiyete özgü bir özellik olarak tanımlanmaz; her iki cinsiyette de gelişebilen bir motorik özelliktir."
+      ]
+    },
+    {
+      "id": "w4q16",
+      "question": "Aşağıdakilerden hangisi fiziksel aktivitenin yararlarından biri değildir?",
+      "options": ["Zihinsel yarar", "Sosyal yarar", "Ekonomik yarar", "Fiziksel yarar", "Ruhsal yarar"],
+      "correctIndex": 2,
+      "explanation": "Fiziksel aktivitenin yararları genellikle fiziksel (bedensel sağlık, kondisyon), zihinsel/ruhsal (psikolojik iyi oluş, stres azaltma) ve sosyal (iletişim, iş birliği, aidiyet) olmak üzere bireysel gelişim boyutlarında sınıflandırılır. \"Ekonomik yarar\" ise bireyin kendi gelişimine yönelik doğrudan bir fiziksel aktivite yararı olarak değil, dolaylı ve daha çok toplumsal/sağlık sistemi düzeyinde tartışılan bir kavramdır; bu nedenle klasik bireysel yarar sınıflamasına (fiziksel-zihinsel-sosyal-ruhsal) dahil edilmez.",
+      "optionNotes": [
+        "Zihinsel yarar (dikkat, algı, problem çözme gelişimi), fiziksel aktivitenin bilinen yararlarından biridir.",
+        "Sosyal yarar (iş birliği, iletişim, kurallara uyma), fiziksel aktivite ve oyunun çocuk gelişimine katkıları arasında doğrudan sayılır.",
+        "Doğru yanıt: Ekonomik yarar, bireysel fiziksel-zihinsel-sosyal-ruhsal yarar sınıflamasının bir parçası olarak tanımlanmaz.",
+        "Fiziksel yarar (kuvvet, dayanıklılık, kemik-kas gelişimi), fiziksel aktivitenin en temel ve doğrudan yararıdır.",
+        "Ruhsal yarar (duygusal iyi oluş, özgüven), fiziksel aktivitenin psikolojik/duygusal gelişime katkısı olarak kabul edilen bir yarardır."
+      ]
+    },
+    {
+      "id": "w4q17",
+      "question": "Aşağıdakilerden hangisi lokomotor olmayan hareketler arasında yer alır?",
+      "options": ["Koşma", "Kayma", "Sekme", "Germe", "Yürüme"],
+      "correctIndex": 3,
+      "explanation": "Kaynak ünitedeki Tablo 3.1'e göre temel hareket becerileri yer değiştirme (lokomotor: yürüme, koşma, galop-kayma, adım al-sek/sekme, atlama-sıçrama, yuvarlanma, tırmanma) ve dengeleme (lokomotor olmayan: eğilme, esnetme/germe, dönme, salınım, ağırlık aktarma vb.) olarak iki grupta sınıflandırılır. Germe (esnetme), vücudun yer değiştirmesini gerektirmediği için lokomotor olmayan hareketler grubuna aittir; diğer dört seçenek ise yer değiştirme gerektiren lokomotor hareketlerdir.",
+      "optionNotes": [
+        "Koşma, Tablo 3.1'de yer değiştirme gerektiren (lokomotor) hareketler arasında sayılmıştır.",
+        "Kayma (galop-kayma), aynı tabloda yer değiştirme gerektiren (lokomotor) hareketler grubuna aittir.",
+        "Sekme (adım al-sek), yer değiştirme gerektiren (lokomotor) hareketler arasında sayılmıştır.",
+        "Doğru yanıt: Germe (esnetme), dengeleme gerektiren (lokomotor olmayan) hareketler arasında yer alır; vücut yer değiştirmez.",
+        "Yürüme, Tablo 3.1'de temel bir yer değiştirme (lokomotor) hareketi olarak açıkça belirtilmiştir."
+      ]
+    },
+    {
+      "id": "w4q18",
+      "question": "Aşağıdakilerden hangisi temel hareket yeteneği kazanımı sürecinde dikkat edilmesi gereken hususlar arasında yer almaz?",
+      "options": [
+        "Aktivite hızını çocuğa ayarlama",
+        "Diğer rakiplerine fırsat eşitliği sağlamak",
+        "Tek başına veya ekiple çalışmasına imkân sağlamak",
+        "Çocuğun da bir birey olduğunu kabul edeceği deneyimler sunmak",
+        "Temel hareket yeteneklerini çocuğun günlük yaşantısına entegre etmek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaynak ünitede hareket eğitimi uygulamalarında dikkat edilmesi gereken ilkeler arasında; çocukların hareketlerinin zorlanmadan, kendi hızlarında yavaş ve doğru yapılmasının sağlanması (aktivite hızını çocuğa göre ayarlama), tek başına veya grupla çalışmaya imkân verilmesi, çocuğun birey olarak kabul edildiği deneyimler sunulması ve temel hareket becerilerinin günlük yaşama entegre edilmesi sayılmıştır. Bu yaklaşım bireysel gelişime ve işbirliğine dayanır; \"diğer rakiplerine fırsat eşitliği sağlamak\" ifadesi ise rekabetçi bir bakış açısı taşıdığından, temel hareket yeteneği kazanım sürecinin çocuk merkezli ve bireyselleştirilmiş ilkeleri arasında yer almaz.",
+      "optionNotes": [
+        "Aktivite hızını çocuğa ayarlama, metinde \"çocukların hareketleri zorlanmadan yavaş ve doğru yapması sağlanmalı, sonra hızlandırılmalı\" ifadesiyle doğrudan belirtilmiştir.",
+        "Doğru yanıt: \"Diğer rakiplerine fırsat eşitliği sağlamak\" rekabete dayalı bir ifadedir ve temel hareket eğitiminin çocuk merkezli, bireyselleştirilmiş ilkeleri arasında sayılmamıştır.",
+        "Tek başına veya ekiple çalışma imkânı sağlamak, hareket eğitimi ilkeleri arasında çocuklara eşlerle veya grupla çalışma ortamı sunulması gerektiği belirtilerek desteklenmiştir.",
+        "Çocuğun birey olduğunu kabul edeceği deneyimler sunmak, hareket eğitiminin bireysel farklılıkları dikkate alan temel yaklaşımıyla örtüşür.",
+        "Temel hareket yeteneklerini günlük yaşantıya entegre etmek, hareket eğitiminin yaşam boyu fiziksel aktiviteye temel oluşturma amacıyla doğrudan ilişkilidir."
+      ]
+    },
+    {
+      "id": "w4q19",
+      "question": "Aşağıdaki aktivitelerin hangisi mat kullanarak yapılır?",
+      "options": ["Baş aşağı denge", "Dinamik çarpıcı", "Bana yakın", "Benden farklı", "Kendiyle iş birliği"],
+      "correctIndex": 0,
+      "explanation": "Kaynak ünitede denge ve yuvarlanma gibi dengeleme gerektiren hareketlerin güvenli biçimde uygulanabilmesi için mat (minder) kullanılması gerektiği belirtilmiştir (örn. yuvarlanmaların önce minder üzerinde yapılması). \"Baş aşağı denge\" gibi bir denge pozisyonu, düşme riski taşıdığından güvenlik amacıyla mat üzerinde uygulanması gereken tipik bir aktivitedir. Diğer seçenekler (dinamik çarpıcı, bana yakın, benden farklı, kendiyle iş birliği) ise daha çok alan/ilişki kavramı etkinlikleri olup mat kullanımını gerektiren tipik denge/yuvarlanma aktiviteleri değildir. Not: Bu aktivite adları kaynak metinde birebir geçmemektedir; cevap mat kullanımı gerektiren hareket türüne (denge/yuvarlanma) dayanılarak işaretlenmiştir.",
+      "optionNotes": [
+        "Doğru kabul edilen seçenek: Baş aşağı denge, düşme riski taşıyan bir denge pozisyonu olduğundan güvenlik için mat üzerinde yapılması gereken bir aktivitedir.",
+        "Dinamik çarpıcı, mat kullanımını zorunlu kılan bir denge/yuvarlanma aktivitesi olarak tanımlanmamıştır.",
+        "Bana yakın, daha çok alan farkındalığı (yakın-uzak) kavramıyla ilişkili bir etkinliktir, mat kullanımı gerektirmez.",
+        "Benden farklı, hareket ilişkileri kavramıyla ilişkili bir etkinlik olup mat kullanımını gerektiren bir denge/yuvarlanma aktivitesi değildir.",
+        "Kendiyle iş birliği, bireysel bir hareket ilişkisi etkinliği olup mat kullanımını zorunlu kılan bir aktivite olarak tanımlanmaz."
+      ]
+    },
+    {
+      "id": "w4q20",
+      "question": "Yükselme ve batma hangi vücut hareketlerine dâhil edilir?",
+      "options": [
+        "Motor-manipülatif yetenekler",
+        "Lokomotor olmayan manipülatif yetenekler",
+        "Lokomotor olmayan yetenekler",
+        "Lokomotor yetenekler",
+        "Manipülatif yetenekler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yükselme ve batma (yükselip alçalma), vücudun bir noktadan başka bir noktaya yer değiştirmesini gerektirmeyen, aynı zamanda bir nesne kontrolü de içermeyen bir hareket olduğundan, kaynak ünitedeki sınıflandırmaya göre eğilme, germe, dönme, salınım gibi diğer örneklerle aynı kategoride, yani dengeleme gerektiren/lokomotor olmayan yetenekler grubunda değerlendirilir.",
+      "optionNotes": [
+        "Motor-manipülatif yetenekler diye ayrı bir kategori kaynak sınıflandırmada tanımlanmamıştır, bu nedenle uygun bir seçenek değildir.",
+        "Lokomotor olmayan manipülatif yetenekler de ayrı bir kategori olarak geçmez; manipülatif (nesne kontrolü) hareketler lokomotor olmayan kategorisiyle karıştırılmamalıdır.",
+        "Doğru yanıt: Yükselme ve batma, yer değiştirme gerektirmeyen bir hareket olduğundan lokomotor olmayan yetenekler grubuna dâhildir.",
+        "Lokomotor yetenekler, vücudun bir noktadan diğerine yer değiştirmesini gerektirir; yükselme-batma hareketinde yer değiştirme yoktur.",
+        "Manipülatif yetenekler bir nesnenin kontrolünü (atma, tutma, vurma vb.) gerektirir; yükselme-batma hareketinde nesne kontrolü söz konusu değildir."
+      ]
+    }
+  ]
+}

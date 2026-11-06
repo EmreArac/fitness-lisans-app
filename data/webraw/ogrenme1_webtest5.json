@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w5q1",
+      "question": "Antrenörün öğrenme-öğretme yaşantılarında kullanacağı öğretim teknik ve yöntemi belirlerken aşağıdakilerden hangisine dikkat etmesine gerek yoktur?",
+      "options": [
+        "Sporcuların sosyo-ekonomik düzeyleri",
+        "Sporcuların maksimum düzeyde etkin katılım sağlanması",
+        "Sporcuların gelişim düzeyleri ve ön öğrenmeleri",
+        "Araç-gereç ve materyaller",
+        "Antrenmanın hedefleri"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite metninde, antrenörlerin öğretim yöntemi seçerken dikkate alması gereken unsurlar antrenmanın hedefleri, içeriği, sporcuların özellikleri/gelişim düzeyleri ve ön öğrenmeleri, zaman ile araç-gereç ve materyaller olarak sayılmıştır. Sporcuların sosyo-ekonomik düzeyi ise metinde yalnızca pekiştireç türünün bireyselleştirilmesiyle ilişkilendirilmiş, yöntem seçiminde dikkat edilmesi gereken bir unsur olarak geçmemiştir.",
+      "optionNotes": [
+        "Doğru yanıt (dikkat edilmesine gerek OLMAYAN unsur): Sosyo-ekonomik düzey, metinde yöntem seçiminde sayılan unsurlar arasında yer almaz; pekiştireç seçimiyle ilişkilendirilir.",
+        "Yanlış: Etkin katılımın sağlanması, sporcunun öğrenme yoluna uygun yöntem seçimi kapsamında dikkat edilmesi gereken bir unsurdur.",
+        "Yanlış: Sporcuların gelişim düzeyleri ve ön öğrenmeleri, metinde yöntem seçiminde dikkate alınması gereken 'sporcu özellikleri' başlığı altında açıkça sayılmıştır.",
+        "Yanlış: Araç-gereç ve materyaller, metinde yöntem seçiminde dikkate alınması gerektiği açıkça belirtilen unsurlardan biridir.",
+        "Yanlış: Antrenmanın hedefleri, metinde yöntem seçiminde dikkate alınması gerektiği belirtilen ilk ve en temel unsurdur."
+      ]
+    },
+    {
+      "id": "w5q2",
+      "question": "Halil antrenör öğretim sürecini düzenlerken öncelikle sporcularının hazır bulunuşluklarını dikkatealmaktadır. &#039;&#039;Halil antrenörün öğretimde hangi ilkeyi öncelikle dikkate aldığı savunulabilir?&#039;&#039;",
+      "options": [
+        "Aktivite",
+        "Hayatilik",
+        "Basitten karmaşığa",
+        "Bilinenden bilinmeye",
+        "Sporcuya görelik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ünite metninde 'Bilinenden bilinmeyene ilkesi' açıklanırken, bu ilkenin uygulanabilmesi için antrenörün öncelikle sporcuların hazırbulunuşluk düzeylerini tespit etmesi gerektiği birebir ifade edilmiştir. Halil antrenörün önceliği olan 'hazır bulunuşlukları dikkate alma' davranışı bu tanımla doğrudan örtüşmektedir.",
+      "optionNotes": [
+        "Yanlış: Aktivite (etkin katılım) ilkesi, sporcunun sürece duyu organlarıyla katılımıyla ilgilidir, hazırbulunuşluk tespitiyle ilgili değildir.",
+        "Yanlış: Hayatilik (yaşama yakınlık) ilkesi, öğrenilenlerin gerçek yaşamda kullanılmasıyla ilgilidir, hazırbulunuşluk tespitini tanımlamaz.",
+        "Yanlış: Basitten karmaşığa ilkesi, içeriğin kolaydan zora sıralanmasıyla ilgilidir; hazırbulunuşluk tespitiyle ilişkilendirilmemiştir.",
+        "Doğru yanıt: Metinde bilinenden bilinmeyene ilkesi açıklanırken antrenörün öncelikle sporcuların hazırbulunuşluk düzeyini tespit etmesi gerektiği doğrudan belirtilmiştir.",
+        "Yanlış: Sporcuya görelik ilkesi de hazırbulunuşlukla ilişkilidir, ancak metinde 'öncelikle hazırbulunuşluk tespiti' ifadesi özellikle bilinenden bilinmeyene ilkesinin tanımında geçmektedir."
+      ]
+    },
+    {
+      "id": "w5q3",
+      "question": "Yaşantılar sonucu davranışlarımızda oluşan oldukça kalıcı değişikliklere ne ad verilir?",
+      "options": [
+        "Eğitim",
+        "Öğretim",
+        "Öğrenme",
+        "Öğretme",
+        "Algı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ünite metninde öğrenme, 'yaşantı sonucu davranışta ya da potansiyel davranışta meydana gelen nispeten kalıcı izli bir değişme' olarak tanımlanmıştır. Bu tanım, sorudaki ifadeyle birebir örtüşmektedir; eğitim bu değişikliği kasıtlı olarak sağlayan süreç, öğretim ise bu sürecin düzenlenme biçimidir.",
+      "optionNotes": [
+        "Yanlış: Eğitim, davranış değişikliğini kasıtlı ve planlı biçimde sağlayan daha geniş bir süreçtir, değişikliğin kendisini adlandırmaz.",
+        "Yanlış: Öğretim, öğrenmeyi sağlamak için düzenlenen planlı etkinlikler sürecidir, kalıcı davranış değişikliğinin kendisi değildir.",
+        "Doğru yanıt: Metindeki tanım 'yaşantı sonucu davranışta meydana gelen nispeten kalıcı izli değişme' şeklindedir ve tam olarak öğrenmeyi tanımlar.",
+        "Yanlış: Öğretme, öğrenmeyi kılavuzlama ve yol gösterme işidir, davranış değişikliğinin kendisi değildir.",
+        "Yanlış: Algı, dışarıdan gelen uyarıcıların yorumlanmasıdır, kalıcı bir davranış değişikliğini tanımlamaz."
+      ]
+    },
+    {
+      "id": "w5q4",
+      "question": "Aşağıdakilerden hangisi bilişsel öğrenme yaklaşımının özelliklerinden biri değildir?",
+      "options": [
+        "İçsel güdülenme ve pekiştirme daha fazla tercih edilmelidir.",
+        "Öğrenme, algılama ve anlam vermedir.",
+        "Öğrenmenin odağında ürün olmalıdır.",
+        "Daha çok bireyin zihninde gerçekleşen öğrenmeler üzerinde durur.",
+        "Öğrenme mekanik değil, insanidir."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bilişsel öğrenme kuramları öğrenmeyi bireyin zihinsel yapılarında/süreçlerinde meydana gelen değişme olarak ele alır; odak noktası gözlenebilir bir 'ürün' değil, içsel bilişsel süreçlerdir. Öğrenmenin dışsal, gözlenebilir ürününü esas alan yaklaşım davranışçılıktır, bu nedenle 'öğrenmenin odağında ürün olmalıdır' ifadesi bilişsel yaklaşımın bir özelliği değildir.",
+      "optionNotes": [
+        "Bu, bilişsel yaklaşımın bir özelliğidir; bilişsel kuramlar dışsal pekiştireçlerden çok içsel güdülenmeyi önemser.",
+        "Bu, bilişsel yaklaşımın bir özelliğidir; öğrenme, bireyin durumu algılaması ve yorumlamasındaki değişme olarak tanımlanır.",
+        "Doğru yanıt: Bilişsel yaklaşım süreci (zihinsel değişmeyi) esas alır, davranışçılık gibi gözlenebilir 'ürünü' esas almaz.",
+        "Bu, bilişsel yaklaşımın bir özelliğidir; öğrenme büyük ölçüde bireyin zihninde gerçekleşen bir süreç olarak görülür.",
+        "Bu, bilişsel yaklaşımın bir özelliğidir; öğrenen pasif bir alıcı değil, bilgiyi özümseyen aktif bir varlık olarak görülür, bu da öğrenmeyi 'insani' kılar."
+      ]
+    },
+    {
+      "id": "w5q5",
+      "question": "Aşağıdakilerden hangisinin eşit oranlı ölçek düzeyinde olduğu söylenebilir?",
+      "options": [
+        "Kavanozdaki bisküvi sayısı",
+        "Zeka testi puanı",
+        "Erciyes Dağı’nın rakımı",
+        "Okul sıralaması",
+        "Bitkilerin türleri"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eşit oranlı ölçekte başlangıç noktası gerçek (mutlak) sıfırdır ve birimler birbirine eşittir. Kavanozdaki bisküvi sayısı, gerçek bir sıfır noktasına (kavanozda hiç bisküvi olmaması durumu) ve eşit birimlere (her bisküvi '1' birim) sahip olduğundan eşit oranlı ölçek düzeyinde bir ölçümdür.",
+      "optionNotes": [
+        "Doğru yanıt: Sayma işlemiyle elde edilen bu veri, gerçek sıfırı (hiç bisküvi yokluğu) ve eşit birimleri içerdiğinden eşit oranlı ölçek düzeyindedir.",
+        "Yanlış: Zekâ testi puanları eşit aralıklı ölçek düzeyindedir; sıfır noktası görecelidir, gerçek bir 'zekâ yokluğunu' ifade etmez.",
+        "Yanlış: Rakım, deniz seviyesine göre tanımlanan göreceli bir sıfıra sahiptir, bu nedenle eşit aralıklı ölçek örneğidir, eşit oranlı değildir.",
+        "Yanlış: Okul sıralaması sadece büyüklük sırasını gösterir, birimler arası eşit fark yoktur; bu bir sıralama ölçeği örneğidir.",
+        "Yanlış: Bitki türleri birbirinden sadece ad bakımından farklı kategorilerdir, bu bir sınıflama ölçeği örneğidir, sayısal/oranlı bir değer taşımaz."
+      ]
+    },
+    {
+      "id": "w5q6",
+      "question": "Bir veri setinde toplam puanların veri sayısına bölünmesi sonucunda elde edilen değere ne ad verilir?",
+      "options": [
+        "Standart Sapma",
+        "Aritmetik Ortalama",
+        "Mod",
+        "Medyan",
+        "Korelasyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite metninde aritmetik ortalama, bir veri setinde toplam puanların veri sayısına bölünmesi sonucunda elde edilen değer olarak tanımlanmıştır. Bu tanım, sorudaki ifadeyle birebir örtüşmektedir.",
+      "optionNotes": [
+        "Yanlış: Standart sapma, değerlerin aritmetik ortalamadan sapmalarının karelerinin ortalamasıdır, toplamın sayıya bölünmesiyle bulunmaz.",
+        "Doğru yanıt: Tanım tam olarak aritmetik ortalamaya karşılık gelir.",
+        "Yanlış: Mod, bir veri setinde en çok tekrar eden değerdir, toplam/sayı işlemiyle bulunmaz.",
+        "Yanlış: Medyan, veri setini sıraya dizip ortadan ikiye bölen değerdir, toplamın sayıya bölünmesiyle ilgisi yoktur.",
+        "Yanlış: Korelasyon, iki değişken arasındaki ilişkiyi gösterir, tek bir veri setinin ortalamasını ifade etmez."
+      ]
+    },
+    {
+      "id": "w5q7",
+      "question": "Sınıflama ölçeğinden elde edilen veriler üzerinde aşağıdaki istatistiksel işlemlerden hangisi yapılabilir?",
+      "options": [
+        "Standart Sapma",
+        "Korelasyon",
+        "Medyan",
+        "Mod",
+        "Aritmetik Ortalama"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sınıflama ölçeğinde sayılar sadece kategori belirtir, matematiksel işlem yapılamaz; metne göre bu ölçekten elde edilen verilerle sadece frekans tablosu oluşturulabilir ve mod (en çok tekrar eden değer) hesaplanabilir.",
+      "optionNotes": [
+        "Yanlış: Standart sapma, eşit aralıklı ve eşit oranlı ölçek düzeyindeki verilerde hesaplanabilir; sınıflama ölçeğinde anlamlı değildir.",
+        "Yanlış: Korelasyon katsayısı için en az sıralama ölçeği düzeyinde veri gerekir; sınıflama ölçeğinde hesaplanamaz.",
+        "Yanlış: Medyan, verilerin küçükten büyüğe sıralanabilmesini gerektirir; sınıflama ölçeğinde sıralama söz konusu olmadığından hesaplanamaz.",
+        "Doğru yanıt: Sınıflama ölçeğinde istatistiksel olarak sadece frekans tablosu ve mod değeri hesaplanabilir.",
+        "Yanlış: Aritmetik ortalama toplama ve bölme işlemi gerektirir; sınıflama ölçeğindeki sayılar miktar belirtmediğinden bu işlem anlamsızdır."
+      ]
+    },
+    {
+      "id": "w5q8",
+      "question": "Bir antrenör takımındaki sporcuları başarı durumlarına göre “başarılı” ve “başarısız” diye ayırmıştır. Buna göre başarı ölçütlerinin değişken türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Bağımlı",
+        "Bağımsız",
+        "Sürekli",
+        "Kesikli",
+        "Nicel"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Başarılı' ve 'başarısız' şeklinde iki kategoriyle ifade edilen bu değişken, sıfatlarla ifade edilen ve sınırlı sayıda değer alan bir değişkendir; metinde verilen 'diploma derecesi' (pekiyi, iyi, orta, zayıf) örneğine benzer şekilde bu bir süreksiz (kesikli) değişkendir.",
+      "optionNotes": [
+        "Yanlış: Bağımlı/bağımsız ayrımı, değişkenin araştırmadaki rolüne göre yapılır; burada değişkenin başka bir değişkene bağlı olup olmadığına ilişkin bilgi verilmemiştir.",
+        "Yanlış: Bağımsız sınıflaması da burada sorulan 'değerlerin sıfat mı sayı mı olduğu' sorusuna karşılık gelmez.",
+        "Yanlış: Sürekli (nicel) değişkenler sayılarla ifade edilir ve değerleri arasında sonsuz ara değer bulunabilir; 'başarılı/başarısız' sayısal ve sürekli bir değer değildir.",
+        "Doğru yanıt: 'Başarılı/başarısız' sıfatlarla ifade edilen, sınırlı sayıda değer alan bir değişken olduğundan süreksiz (kesikli) değişkendir.",
+        "Yanlış: Nicel değişkenler sayılarla ifade edilir (boy, ağırlık gibi); 'başarılı/başarısız' bir sıfat olduğundan nitel bir değişkendir, nicel değildir."
+      ]
+    },
+    {
+      "id": "w5q9",
+      "question": "Aşağıdakilerden hangisinde Piaget’in bilişsel gelişim aşamaları birlikte ve doğru olarak verilmiştir?",
+      "options": [
+        "Duyusal Motor Dönem – İşlem Dönemi – Somut İşlemler Dönemi– Soyut İşlemler Dönemi",
+        "İşlem Öncesi - İşlem Sonrası Dönem – Somut İşlem Öncesi – Somut İşlem Sonrası Dönem",
+        "Duyusal Motor Dönem -İşlem Öncesi Dönemi - Somut İşlemler Dönemi- Soyut İşlemler dönemi",
+        "İşlem Öncesi Dönem - İşlem Dönemi – Somut İşlemler Dönemi– Soyut İşlemler Dönemi",
+        "İşlem Öncesi Dönem - İşlem Dönemi - İşlem Sonrası Dönem- Soyut İşlemler Dönemi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Piaget'nin bilişsel gelişim kuramı sırasıyla Duyusal Motor Dönem (0-2 yaş), İşlem Öncesi Dönem (2-6 yaş), Somut İşlemler Dönemi (7-11 yaş) ve Soyut İşlemler Dönemi (12 yaş ve üzeri) şeklinde dört dönemden oluşur; bu sıralama ve isimlendirme ünite metninde birebir bu şekilde verilmiştir.",
+      "optionNotes": [
+        "Yanlış: 'İşlem Dönemi' diye tek başına bir dönem adı metinde geçmez; dönem adları hatalı sıralanmıştır.",
+        "Yanlış: 'İşlem Sonrası Dönem' gibi isimler metindeki gerçek dönem adlarıyla uyuşmamaktadır.",
+        "Doğru yanıt: Metindeki dört dönem bu sırayla ve bu isimlerle (Duyusal Motor - İşlem Öncesi - Somut İşlemler - Soyut İşlemler) verilmiştir.",
+        "Yanlış: Sıralama Duyusal Motor Dönem ile başlamamaktadır ve 'İşlem Dönemi' gibi bir isim metinde yoktur.",
+        "Yanlış: İsimlendirme ('İşlem Sonrası Dönem') ve sıralama metindeki gerçek dönem adlarıyla örtüşmemektedir."
+      ]
+    },
+    {
+      "id": "w5q10",
+      "question": "I. Yüze su geldiğinde göz kırpmak II. Nefesi tutarak suya dalmak III. Tek gözü kırpmak IV. Sıcak bir nesneye değdiğinde elini çekmek Yukarıdaki hareket çeşitlerinden hangileri refleksif hareketler grubuna girmektedir?",
+      "options": [
+        "I ve II",
+        "I ve IV",
+        "II ve IV",
+        "I, II ve III",
+        "I, III ve IV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ünite metni, 'yüzümüze aniden gelen sudan kendimizi korumak için gözlerimizi kapatmamız' ve 'elimizi sıcak bir nesneye değdirdiğimizde aniden elimizi çekmemiz' ifadeleriyle tam olarak I ve IV maddelerini refleksif (istem dışı) hareket örneği olarak vermektedir. Nefesi tutarak suya dalmak (II) öğrenilmiş/istemli bir davranıştır, tek gözü kırpmak (III) ise bilinçli/istemli bir harekettir; bu nedenle ikisi de refleks grubuna girmez.",
+      "optionNotes": [
+        "Yanlış: II (nefesi tutarak dalmak) istemli, öğrenilmiş bir davranıştır, refleks değildir.",
+        "Doğru yanıt: I ve IV, metinde doğrudan verilen refleks örnekleriyle (su karşısında göz kapama, sıcağa elini çekme) birebir örtüşür.",
+        "Yanlış: II istemli bir eylemdir, refleks grubuna dahil edilemez.",
+        "Yanlış: III (tek gözü kırpmak) bilinçli bir harekettir, refleks değildir; bu seçenek hem II hem III'ü hatalı şekilde dahil eder.",
+        "Yanlış: III istemli bir harekettir, refleks grubuna girmez."
+      ]
+    },
+    {
+      "id": "w5q11",
+      "question": "Becerilerin türü açısından incelendiğinde, yürüme ve paten kayma becerilerinin türü aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+      "options": [
+        "Motor Beceri- Motor Beceri",
+        "Motorgenetik beceri– Ontogenetik beceri",
+        "Ontogenetik beceri- Ontogenetik beceri",
+        "Filogenetik beceri- Ontogenetik beceri",
+        "Ontogenetik beceri – Filogenetik becer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yürüme, öğrenmeye gerek kalmadan kendiliğinden ortaya çıkan, büyük kas gruplarıyla yapılan bir beceridir ve metinde filogenetik becerilere örnek olarak verilmiştir. Paten kayma ise çevresel uyaranlar ve öğrenme yoluyla kazanılan, kendiliğinden ortaya çıkmayan özelleşmiş bir beceridir, dolayısıyla ontogenetiktir.",
+      "optionNotes": [
+        "Yanlış: 'Motor beceri' genel bir kategoridir, filogenetik/ontogenetik ayrımını yansıtmaz.",
+        "Yanlış: 'Motorgenetik beceri' metinde tanımlanan bir terim değildir.",
+        "Yanlış: Yürüme kendiliğinden ortaya çıktığı için ontogenetik değil filogenetiktir; bu seçenek hatalıdır.",
+        "Doğru yanıt: Yürüme filogenetik, paten kayma ontogenetik bir beceridir; metindeki tanımlarla tam örtüşür.",
+        "Yanlış: Sıralama ters verilmiştir; doğrusu yürüme filogenetik, paten kayma ontogenetiktir."
+      ]
+    },
+    {
+      "id": "w5q12",
+      "question": "“Çocuklar voleybol sahasında dağınık düzende yürürler. Çocukların ellerinde birer tane voleybol topu vardır. Voleybol topunu direksiyon gibi kullanarak voleybol sahasının içinde birbirlerine çarpmadan yürürler.” Hangi etkinlik örneği hangi hareket kavramı ile daha yakından ilişkilidir?",
+      "options": [
+        "Vücut farkındalığı",
+        "Alan farkındalığı",
+        "Efor farkındalığı",
+        "Hareket ilişkileri",
+        "Çaba farkındalığı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Etkinlikte çocuklar genel alanda birbirlerine çarpmadan hareket etmeyi öğrenmektedir; bu, 'Vücut nerede hareket eder?' sorusuna cevap veren Alan Farkındalığı kavramının (genel alan, kişisel alan, yönler) doğrudan bir uygulamasıdır.",
+      "optionNotes": [
+        "Yanlış: Vücut bölümlerinin tanınması ve kullanılmasıyla ilgilidir; etkinlikte vurgulanan alan kullanımıdır, vücut bölümleri değildir.",
+        "Doğru yanıt: Genel alanda çarpışmadan hareket etmek, alan farkındalığının temel amaçlarından biridir.",
+        "Yanlış: Zaman, tempo, güç ve akıcılıkla ilgilidir; etkinlikte hız veya güç değişimi vurgulanmamaktadır.",
+        "Yanlış: Vücut parçalarının nesne, birey, eş veya grupla ilişkisini tanımlar; burada başka bir oyuncuyla ilişki değil, genel alanda konumlanma söz konusudur.",
+        "Yanlış: Metinde geçen kavramın gerçek adı 'efor farkındalığı'dır; bu seçenek var olmayan, hafifçe değiştirilmiş bir isimdir."
+      ]
+    },
+    {
+      "id": "w5q13",
+      "question": "“Basketbol topunu baş, omuz, bel, diz çevresinden, ayakların arasından düşürmeden çevirme” Hangi etkinliğin karşılık geldiği temel hareket kavramı ve hareket becerisi aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+      "options": [
+        "Alan farkındalığı – nesne kontrol becerisi",
+        "Efor farkındalığı – dengeleme becerisi",
+        "Vücut farkındalığı – nesne kontrol becerisi",
+        "Alan farkındalığı – dengeleme becerisi",
+        "Vücut farkındalığı - akrobatik beceriler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Etkinlik, topu baş, omuz, bel ve diz gibi farklı vücut bölümlerinin çevresinde dolaştırmayı içerdiği için 'Vücut Ne Yapabilir?' sorusuna cevap veren Vücut Farkındalığı kavramıyla ilişkilidir. Top elle/vücutla yönetildiği için de bu, nesne kontrolü beceri temasına girer.",
+      "optionNotes": [
+        "Yanlış: Nesne kontrolü doğru fakat etkinlikte vurgulanan alan değil vücut bölümleridir, bu nedenle kavram eşleşmesi hatalıdır.",
+        "Yanlış: Etkinlikte hız, güç gibi efor unsurları ya da bir dengeleme hareketi değil, vücut bölümleri ve top kontrolü vurgulanır.",
+        "Doğru yanıt: Vücut bölümleri (baş, omuz, bel, diz) ile top (nesne) kontrolünün birleşimidir.",
+        "Yanlış: Ne alan kavramı ne de dengeleme becerisi bu etkinlikte öne çıkan unsurlardır.",
+        "Yanlış: Vücut farkındalığı kısmı doğru olsa da 'akrobatik beceriler' kitapta tanımlı bir beceri teması değildir; doğru beceri teması nesne kontrolüdür."
+      ]
+    },
+    {
+      "id": "w5q14",
+      "question": "Çocuğun temel hareket becerilerini geliştirdiği dönem aşağıdakilerden hangisidir?",
+      "options": [
+        "Okul öncesi ve ilkokul",
+        "İlkokul ve ortaokul",
+        "Okul öncesi",
+        "İlkokul",
+        "Tüm okul dönemi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde açıkça belirtildiği gibi çocuğun temel hareket becerilerini geliştirdiği dönem, okul öncesi ve ilkokul dönemidir. Bu dönemde kazanılan temel beceriler, ortaokul ve lise döneminde gelişen daha karmaşık oyun stratejileri ve taktikler için bir altyapı oluşturur.",
+      "optionNotes": [
+        "Doğru yanıt: Metinde bu iki dönem birlikte temel hareket becerilerinin geliştirildiği dönem olarak belirtilir.",
+        "Yanlış: Ortaokul dönemi, temel becerilerin üzerine inşa edilen karmaşık oyun stratejilerinin geliştiği dönemdir, temel becerilerin kazanıldığı dönem değildir.",
+        "Yanlış: Tek başına yeterli değildir; metin bu dönemi ilkokul ile birlikte anar.",
+        "Yanlış: Tek başına yeterli değildir; okul öncesi dönem de bu sürecin bir parçasıdır.",
+        "Yanlış: Metin, temel beceri gelişimini belirli bir yaş aralığıyla (okul öncesi-ilkokul) sınırlandırır, tüm okul dönemini kapsamaz."
+      ]
+    },
+    {
+      "id": "w5q15",
+      "question": "Aşağıdakilerden hangisi sportif mücadele oyun grubudur?",
+      "options": [
+        "Geleneksel oyunlar",
+        "Şans oyunları",
+        "Gösteri - Rol oyunları",
+        "Macera - heyecan oyunları",
+        "Mücadele oyunları"
+      ],
+      "correctIndex": 4,
+      "explanation": "Roger Caillois'in sınıflamasına göre oyunlar Şans (Alea), Gösteri-Rol (Mimicr), Macera-Heyecan (Vertigo-İlinx) ve Mücadele-Yarışma (Agon) olmak üzere dört ana grupta toplanır. Sporda olduğu gibi motor aktivitelere dayanan, yarışma ve mücadele içeren oyunlar 'Mücadele oyunları' (Agon) grubuna girer.",
+      "optionNotes": [
+        "Yanlış: Caillois'in dört ana sınıfından biri değildir; sınıflandırma kriteri değildir.",
+        "Yanlış: Kadere ve rastlantıya dayanan, fiziksel beceri ve stratejinin önemli olmadığı oyunlardır (kağıt, zar, rulet), sportif mücadele değildir.",
+        "Yanlış: Oyuncuların kendi kişiliği dışında bir rol üstlendiği seyirlik oyunlardır (tiyatro, meddah), mücadele unsuru taşımaz.",
+        "Yanlış: Baş döndürme, hız, yükseklik gibi heyecan verici deneyimlere dayanır (kayak, dağcılık), sportif mücadele sınıfı değildir.",
+        "Doğru yanıt: Sporda olduğu gibi motor aktivitelere veya zekâ gücüne dayanan, yarışma ile kazanma-kaybetme içeren oyun grubudur."
+      ]
+    },
+    {
+      "id": "w5q16",
+      "question": "Aşağıdakilerden hangisi oynandıkları alanlara göre sınıflandırılan oyunlardan biri değildir?",
+      "options": [
+        "Sınıf oyunları",
+        "Salon oyunları",
+        "Bahçe veya kırsal alan oyunları",
+        "Su oyunları",
+        "Tiyatro oyunları"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metne göre eğitsel oyunlar oynandıkları alanlara göre sınıf oyunları, salon oyunları, bahçe veya kırsal alan oyunları, kış oyunları ve su oyunları olmak üzere beş grupta sınıflandırılır. Tiyatro oyunları bu sınıflamada yer almaz; tiyatro, Caillois'in oyun sınıflamasında 'Gösteri-Rol Oyunları (Mimicr)' grubuna örnek olarak verilmiştir.",
+      "optionNotes": [
+        "Yanlış: Oynandığı alana göre sınıflandırmada yer alan beş gruptan biridir (spor salonu olmayan okullarda sınıfta oynanan oyunlar).",
+        "Yanlış: Spor salonunda oynanan oyunları ifade eder ve bu sınıflamanın bir parçasıdır.",
+        "Yanlış: Metinde bu sınıflamanın bir parçası olarak açıkça sayılmıştır.",
+        "Yanlış: Metinde özel bir oyun grubu olarak bu sınıflamaya dahil edilmiştir.",
+        "Doğru yanıt (sınıflamada YER ALMAYAN seçenek): Tiyatro, oynandığı alana göre değil, Caillois'in 'Gösteri-Rol Oyunları' sınıflamasına örnektir."
+      ]
+    },
+    {
+      "id": "w5q17",
+      "question": "Aynı anda birden fazla düşünce silsilesinden birinin belirgin tarzda zihin tarafından alınmasına -------- denir. Boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": [
+        "Dikkat",
+        "Sezinleme",
+        "Seçici dikkat",
+        "Canlılık düzeyi",
+        "Seçici reaksiyon zamanı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ünite metninde dikkatin tanımı doğrudan şu şekilde verilir: 'Aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına dikkat denir.' Bu, sorudaki ifadeyle birebir örtüşmektedir.",
+      "optionNotes": [
+        "Doğru yanıt: Bu, metinde verilen dikkatin birebir tanımıdır.",
+        "Yanlış: Sezinleme, geçmiş deneyimlere dayanarak zamanlama/mekân konusunda tahminde bulunmaktır, düşünceler arasında seçim yapmayı tanımlamaz.",
+        "Yanlış: Seçici dikkat, dikkat kavramının daha ayrıntılı incelenen bir alt türüdür ama soruda verilen genel tanım doğrudan 'dikkat' kavramına aittir.",
+        "Yanlış: Canlılık düzeyi, merkezi sinir sisteminin aktivasyon seviyesiyle ilgilidir, düşünce silsilelerinden birini seçmekle ilgili değildir.",
+        "Yanlış: Seçici reaksiyon zamanı, birden fazla uyarana karşı farklı tepkiler verme durumudur, zihnin bir düşünceyi seçmesiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w5q18",
+      "question": "Her birine farklı tepki gereken ve ardı ardına kısa aralıklarla verilen iki uyaran olduğu duruma------- denir.Boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? A. aldatma B. Hick Kanunu C. Fitts Kanunu D. uyarı tepki tutarlılığı E. zamansal sezinleme",
+      "options": [
+        "Aldatma",
+        "Hick Kanunu",
+        "Fitts Kanunu",
+        "Uyarı tepki tutarlılığı",
+        "Zamansal sezinleme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metinde reaksiyon zamanını etkileyen etkenler arasında 'kısa aralıklarla ardı ardına uyarı niteliğinde verilen hareketlere karşı tepki (sporda aldatma gibi) vermek durumunda kalmak' ifadesi geçer. Bu, sporda sıkça görülen aldatma (fake) hareketlerinde olduğu gibi, birbirini kısa aralıkla takip eden ve her biri farklı bir tepki gerektiren uyaran durumunu tanımlar.",
+      "optionNotes": [
+        "Doğru yanıt: Metin, kısa aralıklarla ardı ardına verilen ve farklı tepki gerektiren uyaranları doğrudan 'sporda aldatma' örneğiyle ilişkilendirir.",
+        "Yanlış: Hick Kanunu, uyaran/seçenek sayısı arttıkça reaksiyon zamanının uzamasıyla ilgilidir, ardışık iki uyaran durumunu tanımlamaz.",
+        "Yanlış: Fitts Kanunu hareketin hız-doğruluk ilişkisiyle ilgilidir, bu senaryoyu tanımlamaz (metinde de bu kanundan bahsedilmez).",
+        "Yanlış: Uyarı-tepki tutarlılığı, bir uyarana hep aynı tepkinin verilip verilmediğiyle ilgilidir, ardışık farklı uyaranları tanımlamaz.",
+        "Yanlış: Metinde 'zamansal sezinleme' diye ayrı bir terim tanımlanmaz; sezinleme genel olarak zaman/mekân tahmini ile ilgilidir, bu senaryoya özgü değildir."
+      ]
+    },
+    {
+      "id": "w5q19",
+      "question": "Aşağıdakilerden hangisi “Seçici reaksiyon zamanına” ilişkin bir örnektir?",
+      "options": [
+        "Bir trafik lambasının olduğu kavşağa bir arabanın yanaşması",
+        "Bir koşucunun parkuru üzerinde bir şey(ler) bulması",
+        "Bir sürat koşucusunun yarışa başlama anı",
+        "Hakemin uyarısından sonra basketbolda serbest atış",
+        "Yukarıdakilerin hepsi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metne göre 'Birden fazla uyaran ve her bir uyaran için belirlenen bir tepki durumuna seçici reaksiyon zamanı denir.' Trafik ışığının kırmızı/sarı/yeşil gibi birden fazla olası durumu ve her duruma karşılık farklı bir tepki (dur/yavaşla/geç) gerektirmesi, klasik bir seçici reaksiyon zamanı örneğidir.",
+      "optionNotes": [
+        "Doğru yanıt: Trafik lambasındaki farklı ışık durumları (kırmızı/sarı/yeşil) birden fazla uyaran ve her birine özgü farklı tepki gerektirir; bu seçici reaksiyon zamanının tipik bir örneğidir.",
+        "Yanlış/Belirsiz: Parkurda bir şey bulmak tek ve net bir tepki gereksinimi tanımlamaz, seçici reaksiyon zamanı tanımına doğrudan uymaz.",
+        "Yanlış: Yarış başlama anı tek bir uyarana (başlama sinyali) karşı tek bir tepkiyi (koşmaya başlamak) içerir; bu, basit reaksiyon zamanının örneğidir, seçici değildir.",
+        "Yanlış: Hakemin tek uyarısı sonrası tek bir hareketi (atışı) yapmak da basit reaksiyon zamanı örneğidir, birden fazla uyaran-tepki eşleşmesi içermez.",
+        "Yanlış: Seçeneklerin hepsi aynı kategoriye (seçici reaksiyon zamanı) girmediğinden bu şık doğru olamaz."
+      ]
+    },
+    {
+      "id": "w5q20",
+      "question": "Aşağıdaki ifadelerden hangisi rastgele başlangıç ve bitiş yeri olan bir beceriyi tanımlar?",
+      "options": [
+        "Seri motor beceri",
+        "Kesik motor beceri",
+        "Devamlı motor beceri",
+        "İnce motor beceri",
+        "Kapalı beceri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metindeki tanıma göre 'Devamlı Beceri: Başı ve sonu tam olarak belli olmayan ve dakikalarca devam edebilen hareketlerdir (yüzme, bisiklet vb.)'; bu tanım soruda sorulan 'rastgele/belirsiz başlangıç ve bitiş yeri olan beceri' ifadesiyle tam örtüşür.",
+      "optionNotes": [
+        "Yanlış: Seri beceri, birçok kesik hareketin art arda birleşmesiyle oluşan karmaşık harekettir (örn. vites değiştirme); başlangıç-bitiş belirsizliği ile tanımlanmaz.",
+        "Yanlış: Kesik beceri, başı ve sonu çok net ve kısa süreli olan beceridir (örn. top atma); tam tersi bir özelliktir.",
+        "Doğru yanıt: Devamlı beceri başı ve sonu net olmayan, dakikalarca sürebilen hareketlerdir (yüzme, bisiklet); soruda tarif edilen 'rastgele başlangıç ve bitiş yeri' bu tanıma karşılık gelir.",
+        "Yanlış: İnce motor beceri, küçük kas kitlesi ve yüksek kesinlik gerektiren becerilerdir (yazı yazmak gibi); başlangıç/bitiş netliğiyle ilgili bir sınıflama değildir.",
+        "Yanlış: Kapalı beceri, çevresel şartların sabit ve tahmin edilebilir olduğu beceri türüdür; başlangıç-bitiş netliğiyle ilgili değildir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w4q1",
+      "question": "Sporda öğrenmenin gerçekleşmesi için aşağıdakilerden hangisi gereklidir?",
+      "options": [
+        "Tekrar ve uygulama",
+        "Yalnızca teorik bilgi",
+        "Sadece gözlem",
+        "Yalnızca yarışma",
+        "Dinlenme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beceri öğrenimi (motor öğrenme) alıştırma/pratik yapma ve deneyim sonucunda oluşur; sporda öğrenmenin gerçekleşmesi için tekrar ve uygulama şarttır. Sadece teorik bilgi, gözlem, yarışma veya dinlenme tek başına kalıcı davranış değişikliği (öğrenme) sağlamaz.",
+      "optionNotes": [
+        "Doğru: Motor/beceri öğrenimi temelde alıştırma (tekrar) ve pratik uygulama yoluyla gerçekleşir; bu, öğrenmenin olmazsa olmaz koşuludur.",
+        "Yanlış: Yalnızca teorik bilgi, uygulamaya dönüşmeden kalıcı bir beceri/davranış değişikliği oluşturmaz; motor beceriler yaparak öğrenilir.",
+        "Yanlış: Sadece gözlem (bir modelin izlenmesi) öğrenmeye katkı sağlayabilir ancak kendi başına yeterli değildir, tekrar ve uygulama gerekir.",
+        "Yanlış: Yarışma, öğrenmenin bir sonucu/ortamı olabilir ama öğrenmenin kendisini sağlayan temel mekanizma değildir.",
+        "Yanlış: Dinlenme, performansı etkileyen bir faktör olabilir ama öğrenmeyi sağlayan bir yöntem değildir."
+      ]
+    },
+    {
+      "id": "w4q2",
+      "question": "Aşağıdakilerden hangisi etkili öğretim ortamının özelliklerinden biridir?",
+      "options": [
+        "Sporcuların pasif olması",
+        "Güvenli ortam sağlanması",
+        "Sürekli eleştiri yapılması",
+        "Uzun teorik anlatım yapılması",
+        "Sporcuların dinleyici olması"
+      ],
+      "correctIndex": 1,
+      "explanation": "Etkili bir öğretim ortamının temel özelliklerinden biri güvenliktir; sporcuların fiziksel ve psikolojik olarak güvende olduğu bir ortamda öğrenme daha sağlıklı gerçekleşir. Sporcuların pasif/dinleyici kalması, sürekli eleştiri yapılması veya uzun teorik anlatımlar ise etkili öğretimin aksine, öğrenmeyi olumsuz etkileyen unsurlardır.",
+      "optionNotes": [
+        "Yanlış: Etkili öğretimde sporcuların aktif katılımı aranır; pasiflik öğrenmeyi zayıflatan bir unsurdur.",
+        "Doğru: Güvenli bir ortam, sporcunun kendini rahat hissederek öğrenmeye odaklanmasını sağlayan temel koşullardan biridir.",
+        "Yanlış: Sürekli eleştiri sporcunun motivasyonunu ve özgüvenini zedeler, etkili öğretim ortamı özelliği değildir.",
+        "Yanlış: Uzun teorik anlatım, özellikle psikomotor beceri öğretiminde sporcuyu pasifleştirir ve etkili bir yöntem değildir.",
+        "Yanlış: Sporcuların sadece dinleyici konumunda kalması, etkin katılım ilkesine aykırıdır."
+      ]
+    },
+    {
+      "id": "w4q3",
+      "question": "Sporda öğrenme sürecinde motivasyonun temel amacı nedir?",
+      "options": [
+        "Sporcuları cezalandırmak",
+        "Sporcuların öğrenmeye istek duymasını sağlamak",
+        "Antrenman süresini uzatmak",
+        "Yarışma sayısını artırmak",
+        "Takım sayısını artırmak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motivasyon, sporcuyu harekete geçiren içsel veya dışsal güdüdür ve temel amacı sporcunun öğrenmeye, antrenmana ve gelişime karşı istek duymasını sağlamaktır. Cezalandırma, antrenman süresini/yarışma veya takım sayısını artırma motivasyonun tanımlanan amacı değildir.",
+      "optionNotes": [
+        "Yanlış: Cezalandırma motivasyonun amacı değildir, motivasyon olumlu bir güdüleme sürecidir.",
+        "Doğru: Motivasyonun temel işlevi, sporcunun öğrenme ve gelişim sürecine istekli katılmasını sağlamaktır.",
+        "Yanlış: Antrenman süresinin uzatılması motivasyonun bir sonucu veya amacı olarak tanımlanmaz.",
+        "Yanlış: Yarışma sayısının artırılması motivasyon kavramının tanımıyla ilgili değildir.",
+        "Yanlış: Takım sayısının artırılması motivasyonla ilgili bir amaç değildir, organizasyonel bir konudur."
+      ]
+    },
+    {
+      "id": "w4q4",
+      "question": "por öğretiminde sporcuların aktif katılımını artıran yöntem hangisidir?",
+      "options": [
+        "Pasif öğrenme",
+        "Uzun anlatım",
+        "Dinleme yöntemi",
+        "Sürekli eleştiri",
+        "Uygulamalı öğretim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporcuların aktif katılımını artırmak, onların sürece bedensel ve zihinsel olarak dahil olmasını gerektirir; bu da en iyi uygulamalı öğretim (yaparak-yaşayarak öğrenme) yoluyla sağlanır. Pasif öğrenme, uzun anlatım, dinleme ve sürekli eleştiri sporcuyu pasif konuma iter.",
+      "optionNotes": [
+        "Yanlış: Pasif öğrenme tanımı itibarıyla sporcunun sürece aktif katılımını değil, tam tersini ifade eder.",
+        "Yanlış: Uzun anlatım, sporcuyu dinleyici konumunda bırakır, aktif katılımı desteklemez.",
+        "Yanlış: Dinleme yöntemi de sporcuyu pasif konumda tutar, aktif katılımı artırmaz.",
+        "Yanlış: Sürekli eleştiri, motivasyonu ve katılım isteğini azaltabilecek olumsuz bir yaklaşımdır.",
+        "Doğru: Uygulamalı öğretim, sporcunun beceriyi bizzat deneyerek öğrenmesini sağladığından aktif katılımı doğrudan artırır."
+      ]
+    },
+    {
+      "id": "w4q5",
+      "question": "Aşağıdakilerden hangisi öğrenmeyi etkileyen çevresel faktörlerden biridir?",
+      "options": [
+        "Zeka düzeyi",
+        "Motivasyon",
+        "Tesis ve ekipman",
+        "Yaş",
+        "Yetenek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Öğrenmeyi etkileyen faktörler bireysel (zekâ, yaş, yetenek, motivasyon gibi) ve çevresel (dış ortamdan kaynaklanan) olarak ayrılabilir; tesis ve ekipman, sporcunun dışındaki fiziksel ortamla ilgili olduğu için çevresel bir faktördür. Zekâ düzeyi, motivasyon, yaş ve yetenek ise bireyin kendisine ait içsel özelliklerdir.",
+      "optionNotes": [
+        "Yanlış: Zekâ düzeyi bireyin kendi içsel/bilişsel bir özelliğidir, çevresel bir faktör değildir.",
+        "Yanlış: Motivasyon, öğrenenle ilgili içsel bir faktördür, dış çevreden kaynaklanan bir unsur değildir.",
+        "Doğru: Tesis ve ekipman, sporcunun dışında yer alan fiziksel ortamın bir parçası olduğundan çevresel bir faktördür.",
+        "Yanlış: Yaş, bireyin kendi gelişimsel/biyolojik özelliğidir, çevresel bir etken olarak sınıflandırılmaz.",
+        "Yanlış: Yetenek, bireyin kendine ait bir kapasitedir, dış çevreyle ilgili bir etken değildir."
+      ]
+    },
+    {
+      "id": "w4q6",
+      "question": "Sporda öğrenme sürecinde yapılan hataların düzeltilmesi için kullanılan yöntem hangisidir?",
+      "options": [
+        "Geri bildirim",
+        "Transfer",
+        "Modelleme",
+        "Tartışma",
+        "Pekiştirme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Geri bildirim (dönüt), sporcuya performansının ne kadar doğru veya hatalı olduğu bilgisini verir ve bu bilgi sayesinde sporcu hatalarını fark edip düzeltebilir. Transfer, modelleme, tartışma ve pekiştirme ise farklı amaçlara hizmet eden kavramlardır ve doğrudan hata düzeltme işlevi taşımazlar.",
+      "optionNotes": [
+        "Doğru: Geri bildirim, sporcuya performansı hakkında doğru/hatalı bilgisini vererek hataların fark edilip düzeltilmesini sağlar.",
+        "Yanlış: Transfer, bir becerinin başka bir beceriyi olumlu/olumsuz etkilemesiyle ilgilidir, hata düzeltmeyle ilgili bir kavram değildir.",
+        "Yanlış: Modelleme, bir davranışın gözlemlenerek öğrenilmesiyle ilgilidir, doğrudan hata düzeltme aracı değildir.",
+        "Yanlış: Tartışma, görüş alışverişine dayanan bir öğretim yöntemidir, hata düzeltme sürecini tanımlamaz.",
+        "Yanlış: Pekiştirme, istenen davranışı güçlendirmeye yöneliktir, hatanın kendisinin düzeltilmesi sürecini tanımlamaz."
+      ]
+    },
+    {
+      "id": "w4q7",
+      "question": "Bir spor becerisinin başka bir spor becerisini olumlu yönde etkilemesine ne ad verilir?",
+      "options": [
+        "Geri bildirim",
+        "Pekiştirme",
+        "Öğretim",
+        "Transfer",
+        "Adaptasyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bir spor becerisinin, önceden öğrenilmiş olması nedeniyle başka bir spor becerisinin öğrenilmesini kolaylaştırmasına 'olumlu transfer' denir; bu süreç genel olarak transfer kavramıyla ifade edilir (örneğin badmintondaki ayak hareketlerinin voleybolu kolaylaştırması gibi).",
+      "optionNotes": [
+        "Yanlış: Geri bildirim, performans hakkında bilgi verilmesidir, bir becerinin diğerini etkilemesiyle ilgili değildir.",
+        "Yanlış: Pekiştirme, davranışı güçlendiren bir uyarıcının verilmesidir, beceriler arası etkileşimi tanımlamaz.",
+        "Yanlış: Öğretim, genel olarak öğrenmeyi kolaylaştıracak etkinliklerin düzenlenmesidir, bu spesifik etkiyi tanımlamaz.",
+        "Doğru: Transfer, önceden öğrenilen bir becerinin yeni bir beceriyi olumlu (veya olumsuz) yönde etkilemesini ifade eder.",
+        "Yanlış: Adaptasyon, organizmanın bir duruma uyum sağlamasıdır, iki beceri arasındaki etkileşimi doğrudan tanımlamaz."
+      ]
+    },
+    {
+      "id": "w4q8",
+      "question": "Motor öğrenme en çok hangi yöntemle gelişir?",
+      "options": [
+        "Tekrar",
+        "Dinleme",
+        "Okuma",
+        "İzleme",
+        "Tartışma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Motor öğrenme, alıştırma ve deneyim sonucu harekette meydana gelen değişiklikleri inceler; psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır. Bu nedenle motor öğrenme en çok tekrar yoluyla gelişir; dinleme, okuma, izleme ve tartışma motor becerinin bedensel olarak kazanılmasında tekrarın yerini tutamaz.",
+      "optionNotes": [
+        "Doğru: Motor/beceri öğrenimi temelde alıştırma ve tekrar yoluyla gelişir; psikomotor davranışların kazanılması doğru tekrar sayısına bağlıdır.",
+        "Yanlış: Dinleme bilişsel bir girdi sağlar ama motor becerinin bedensel olarak kazanılmasını sağlamaz.",
+        "Yanlış: Okuma da bilgi edinmeye yardımcı olur ama motor beceri gelişimini doğrudan sağlamaz.",
+        "Yanlış: İzleme (gözlem) modelden öğrenmeye yardımcı olabilir ama motor beceri gelişiminin ana yolu değildir.",
+        "Yanlış: Tartışma bilişsel bir yöntemdir, motor becerilerin fiziksel olarak kazanılmasını sağlamaz."
+      ]
+    },
+    {
+      "id": "w4q9",
+      "question": "Sporda öğrenme sürecinde bireysel farklılıkların dikkate alınması neden önemlidir?",
+      "options": [
+        "Tesis sayısını artırmak için",
+        "Yarışma kazanmak için",
+        "Antrenman süresini uzatmak için",
+        "Sporcuların seviyeleri farklı olduğu için",
+        "Hakem sayısını artırmak için"
+      ],
+      "correctIndex": 3,
+      "explanation": "Her sporcunun yaş, yetenek, hazırbulunuşluk ve gelişim düzeyi farklı olduğundan, öğretim ve antrenman sürecinde bireysel farklılıkların dikkate alınması gerekir; aksi halde bazı sporcular için içerik çok kolay, bazıları için çok zor olabilir. Diğer seçenekler (tesis, yarışma kazanma, antrenman süresi, hakem sayısı) bireysel farklılıkların dikkate alınma nedeniyle ilgisizdir.",
+      "optionNotes": [
+        "Yanlış: Tesis sayısını artırmak, bireysel farklılıkların dikkate alınma gerekçesiyle ilgili bir amaç değildir.",
+        "Yanlış: Yarışma kazanmak, bireysel farklılıkların dikkate alınma gerekçesi değildir.",
+        "Yanlış: Antrenman süresini uzatmak bireysel farklılıklarla ilgili bir amaç değildir.",
+        "Doğru: Sporcuların seviye, yetenek ve hazırbulunuşluk düzeylerinin farklı olması, öğretimin bireysel farklılıklara göre uyarlanmasını gerekli kılar.",
+        "Yanlış: Hakem sayısını artırmak bireysel farklılıklarla ilgisi olmayan bir konudur."
+      ]
+    },
+    {
+      "id": "w4q10",
+      "question": "Aşağıdakilerden hangisi antrenörün öğretim görevlerinden biridir?",
+      "options": [
+        "Hakemlik yapmak",
+        "Tesis inşa etmek",
+        "Sponsorluk bulmak",
+        "Kulüp yönetmek",
+        "Sporculara rehberlik etmek"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenörlük mesleğinin temel kapsamı, sporculara teknik ve taktik konularda rehberlik ederek onların gelişimini sağlamaktır. Hakemlik yapmak, tesis inşa etmek, sponsorluk bulmak ve kulüp yönetmek ise antrenörün öğretim görevi kapsamında değil, farklı paydaşların (hakem, yönetici, kulüp vb.) sorumluluk alanına girer.",
+      "optionNotes": [
+        "Yanlış: Hakemlik, müsabakaları yöneten ayrı bir görevdir, antrenörün öğretim görevi değildir.",
+        "Yanlış: Tesis inşa etmek, yönetim/altyapı ile ilgili bir görevdir, antrenörün öğretim görevi kapsamında değildir.",
+        "Yanlış: Sponsorluk bulmak, kulüp yönetimi/finansmanla ilgili bir görevdir, öğretimle ilgili değildir.",
+        "Yanlış: Kulüp yönetmek, yöneticilik görevidir, antrenörün doğrudan öğretim görevi değildir.",
+        "Doğru: Antrenörün temel öğretim görevi, sporculara teknik ve gelişimsel anlamda rehberlik etmektir."
+      ]
+    },
+    {
+      "id": "w4q11",
+      "question": "Aşağıdakilerden hangisi öğretim yöntemlerinden biridir?",
+      "options": [
+        "Hakem yöntemi",
+        "Sponsorluk yöntemi",
+        "Transfer yöntemi",
+        "Motivasyon yöntemi",
+        "Komut yöntemi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor öğretiminde kullanılan tanınmış yöntemlerden biri 'komut yöntemi'dir; bu yöntemde antrenör hareketi/etkinliği doğrudan komutla başlatır ve yönlendirir. Hakem, sponsorluk, transfer ve motivasyon ise birer öğretim yöntemi değil, sporun farklı alanlarına (müsabaka yönetimi, finansman, beceri aktarımı, güdüleme) ait kavramlardır. Not: Ünite özetlerinde 'komut yöntemi' ayrı bir başlık olarak tanımlanmamıştır; ancak diğer dört seçeneğin hiçbiri bir öğretim yöntemi olamayacağından, eleme yoluyla ve alanda genel kabul gören bilgiye dayanarak en mantıklı/en çok desteklenen şık olarak bu seçilmiştir.",
+      "optionNotes": [
+        "Yanlış: 'Hakem yöntemi' diye bir öğretim yöntemi yoktur; hakemlik müsabakaları yönetme görevidir.",
+        "Yanlış: 'Sponsorluk yöntemi' diye bir öğretim yöntemi yoktur; sponsorluk finansal destekle ilgilidir.",
+        "Yanlış: 'Transfer yöntemi' diye adlandırılan bir öğretim yöntemi yoktur; transfer, bir becerinin diğerini etkilemesi anlamına gelir.",
+        "Yanlış: 'Motivasyon yöntemi' diye bir öğretim yöntemi tanımlanmamıştır; motivasyon bir güdüleme sürecidir, öğretim yöntemi değildir.",
+        "Doğru (en çok desteklenen şık): Komut yöntemi, antrenörün doğrudan komut vererek hareketi/etkinliği başlattığı, spor öğretiminde sıkça kullanılan bir öğretim yaklaşımıdır."
+      ]
+    },
+    {
+      "id": "w4q12",
+      "question": "Aşağıdakilerden hangisi öğretim yöntemlerinden biridir?",
+      "options": [
+        "Komut yöntemi",
+        "Hakem yöntemi",
+        "Sponsorluk yöntemi",
+        "Transfer yöntemi",
+        "Motivasyon yöntemi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spor öğretiminde kullanılan tanınmış yöntemlerden biri 'komut yöntemi'dir; bu yöntemde antrenör hareketi/etkinliği doğrudan komutla başlatır ve yönlendirir. Hakem, sponsorluk, transfer ve motivasyon ise birer öğretim yöntemi değil, sporun farklı alanlarına ait kavramlardır. Not: Bu kavram ünite özetlerinde ayrı bir başlık olarak geçmemektedir; yanıt, diğer dört seçeneğin öğretim yöntemi olamayacağı değerlendirmesiyle (eleme) ve alanda genel kabul gören bilgiye dayanarak belirlenmiştir.",
+      "optionNotes": [
+        "Doğru (en çok desteklenen şık): Komut yöntemi, antrenörün doğrudan komut vererek hareketi/etkinliği başlattığı, spor öğretiminde sıkça kullanılan bir öğretim yaklaşımıdır.",
+        "Yanlış: 'Hakem yöntemi' diye bir öğretim yöntemi yoktur; hakemlik müsabakaları yönetme görevidir.",
+        "Yanlış: 'Sponsorluk yöntemi' diye bir öğretim yöntemi yoktur; sponsorluk finansal destekle ilgilidir.",
+        "Yanlış: 'Transfer yöntemi' diye adlandırılan bir öğretim yöntemi yoktur; transfer, bir becerinin diğerini etkilemesi anlamına gelir.",
+        "Yanlış: 'Motivasyon yöntemi' diye bir öğretim yöntemi tanımlanmamıştır; motivasyon bir güdüleme sürecidir, öğretim yöntemi değildir."
+      ]
+    },
+    {
+      "id": "w4q13",
+      "question": "Spor öğretiminde sporcuların sorular sorarak öğrenmesine dayanan yöntem hangisidir?",
+      "options": [
+        "Soru-cevap yöntemi",
+        "Komut yöntemi",
+        "Gösteri yöntemi",
+        "Tekrar yöntemi",
+        "Parça yöntemi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soru-cevap yöntemi, öğretim sürecinde sorular sorularak sporcuların düşünmeye ve öğrenmeye yönlendirildiği bir tekniktir; hem sunuş hem buluş stratejilerinde kullanılabilir. Komut, gösteri, tekrar ve parça yöntemleri ise farklı öğretim yaklaşımlarını ifade eder ve soru sorma temeline dayanmaz.",
+      "optionNotes": [
+        "Doğru: Soru-cevap yöntemi, sorular aracılığıyla öğretimi sürdüren, sporcunun düşünerek öğrenmesini destekleyen bir tekniktir.",
+        "Yanlış: Komut yöntemi, hareketin doğrudan komutla başlatıldığı bir yöntemdir, soru sormaya dayanmaz.",
+        "Yanlış: Gösteri yöntemi, bir hareketin yapılarak gösterilmesine dayanır, soru-cevaba dayalı değildir.",
+        "Yanlış: Tekrar yöntemi, bir hareketin defalarca uygulanmasına dayanır, soru sormayla ilgili değildir.",
+        "Yanlış: Parça yöntemi, karmaşık bir becerinin parçalara bölünerek öğretilmesidir, soru-cevap temelli bir yöntem değildir."
+      ]
+    },
+    {
+      "id": "w4q14",
+      "question": "Aşağıdakilerden hangisi spor öğretiminde kullanılan araçlardan biridir?",
+      "options": [
+        "Transfer sözleşmesi",
+        "ponsorluk anlaşması",
+        "Kulüp bütçesi",
+        "Ekipman",
+        "Hakem raporu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spor öğretiminde kullanılan araç-gereçler arasında ekipman (toplar, aletler, güvenlik malzemeleri gibi) temel bir öğretim aracıdır. Transfer sözleşmesi, sponsorluk anlaşması, kulüp bütçesi ve hakem raporu ise idari/hukuki/finansal belgelerdir, öğretim aracı değildir.",
+      "optionNotes": [
+        "Yanlış: Transfer sözleşmesi, sporcunun kulüpler arası geçişiyle ilgili hukuki bir belgedir, öğretim aracı değildir.",
+        "Yanlış: Sponsorluk anlaşması, finansal destekle ilgili bir belgedir, öğretimle ilgisi yoktur.",
+        "Yanlış: Kulüp bütçesi, kulübün mali yönetimiyle ilgilidir, öğretim aracı değildir.",
+        "Doğru: Ekipman (toplar, aletler, güvenlik malzemeleri vb.), spor öğretiminde doğrudan kullanılan somut bir araçtır.",
+        "Yanlış: Hakem raporu, müsabaka sonuçlarına ilişkin bir belgedir, öğretim aracı olarak kullanılmaz."
+      ]
+    },
+    {
+      "id": "w4q15",
+      "question": "Spor öğretiminde olumlu davranışların ödüllendirilmesine ne ad verilir?",
+      "options": [
+        "Modelleme",
+        "Transfer",
+        "Pekiştirme",
+        "Adaptasyon",
+        "Analiz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Olumlu davranışların ödüllendirilerek güçlendirilmesi 'pekiştirme' (pekiştireç kullanımı) olarak adlandırılır; örneğin antrenörün 'bravo' demesi bir olumlu pekiştirmedir. Modelleme, transfer, adaptasyon ve analiz ise farklı süreçleri tanımlar ve ödüllendirme ile doğrudan ilişkili değildir.",
+      "optionNotes": [
+        "Yanlış: Modelleme, bir davranışın başkaları gözlenerek öğrenilmesidir, ödüllendirme ile ilgili değildir.",
+        "Yanlış: Transfer, bir becerinin diğerini etkilemesidir, ödüllendirme süreci değildir.",
+        "Doğru: Pekiştirme, olumlu davranışların ödüllendirilerek güçlendirilmesi sürecidir.",
+        "Yanlış: Adaptasyon, bir duruma uyum sağlama sürecidir, ödüllendirmeyle ilgili değildir.",
+        "Yanlış: Analiz, bir durumun incelenmesi sürecidir, davranışın ödüllendirilmesiyle ilgili değildir."
+      ]
+    },
+    {
+      "id": "w4q16",
+      "question": "Aşağıdakilerden hangisi antrenörün görevlerinden biri değildir?",
+      "options": [
+        "Sporcuların gelişimini takip etmek",
+        "Sporcuları motive etmek",
+        "Antrenman planlamak",
+        "Sporculara maddi olanak sağlamak",
+        "Teknik öğretmek"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenörün temel görevleri sporcuların gelişimini takip etmek, motive etmek, antrenman planlamak ve teknik öğretmektir. Sporculara maddi olanak sağlamak ise antrenörün öğretim/teknik görevleri kapsamında değildir; bu, kulüp yönetimi, sponsorluk veya federasyon gibi diğer paydaşların sorumluluk alanına girer.",
+      "optionNotes": [
+        "Yanlış: Gelişimi takip etmek, antrenörün temel görevlerinden biridir.",
+        "Yanlış: Motive etmek, antrenörün sporcuyu öğrenmeye ve performansa yönlendirme görevlerinden biridir.",
+        "Yanlış: Antrenman planlamak, antrenörün en temel görevlerinden biridir.",
+        "Doğru: Sporculara maddi olanak sağlamak antrenörün görevi değildir; bu finansal bir konudur ve kulüp/sponsor gibi paydaşların sorumluluğundadır.",
+        "Yanlış: Teknik öğretmek, antrenörün en temel öğretim görevlerinden biridir."
+      ]
+    },
+    {
+      "id": "w4q17",
+      "question": "Bir spor becerisinin öğrenilmesinde ilk aşama hangisidir?",
+      "options": [
+        "Otomatikleşme",
+        "Uzmanlaşma",
+        "Yarışma",
+        "Transfer",
+        "Tanıma ve anlama"
+      ],
+      "correctIndex": 4,
+      "explanation": "Not: Bu kavram sağlanan ünite özetlerinde/metinlerinde doğrudan bulunamamıştır. Motor beceri öğreniminde genel kabul gören aşamalandırmaya göre ilk aşama, sporcunun hareketi zihinsel olarak kavramaya çalıştığı 'tanıma ve anlama' evresidir; son aşama ise hareketin otomatikleşmesidir. Diğer seçenekler (uzmanlaşma, yarışma, transfer) öğrenme sürecinin ilk aşaması olarak tanımlanan kavramlar değildir. Bu yanıt ünite metinlerinde doğrulanamadığından, alandaki genel kabul görmüş bilgiye dayanarak ve en mantıklı/en çok desteklenen şık olarak seçilmiştir.",
+      "optionNotes": [
+        "Yanlış: Otomatikleşme, beceri öğreniminin ilk değil son aşamasıdır; hareketin bilinçli çaba gerektirmeden yapılabildiği evredir.",
+        "Yanlış: Uzmanlaşma, uzun bir gelişim sürecinin ileri bir noktasını ifade eder, ilk aşama değildir.",
+        "Yanlış: Yarışma, öğrenilen becerinin sergilendiği bir ortamdır, öğrenmenin bir aşaması olarak tanımlanmaz.",
+        "Yanlış: Transfer, bir becerinin başka bir beceriyi etkilemesidir, öğrenme sürecinin aşaması değildir.",
+        "Doğru (en çok desteklenen şık): Tanıma ve anlama, sporcunun hareketi zihinsel olarak kavramaya çalıştığı, motor beceri öğreniminin ilk evresidir."
+      ]
+    },
+    {
+      "id": "w4q18",
+      "question": "Sporda öğrenmenin gerçekleştiğini gösteren en önemli kriter nedir?",
+      "options": [
+        "Performansın gelişmesi",
+        "Sporcu sayısının artması",
+        "Yarışma sayısı",
+        "Tesis sayısı",
+        "Antrenman süresi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Öğrenme doğrudan gözlemlenemeyen bir süreç olduğundan, gerçekleştiğine dair en önemli kanıt sporcunun performansındaki gelişmedir; performans, öğrenmenin dışa vurulan göstergesidir. Sporcu sayısı, yarışma sayısı, tesis sayısı ve antrenman süresi gibi unsurlar öğrenmenin gerçekleştiğini doğrudan göstermez.",
+      "optionNotes": [
+        "Doğru: Öğrenme doğrudan gözlemlenemediğinden, en önemli kanıtı sporcunun performansında gözlenen gelişmedir.",
+        "Yanlış: Sporcu sayısının artması, bireysel öğrenmenin gerçekleştiğine dair bir kanıt değildir, organizasyonel bir göstergedir.",
+        "Yanlış: Yarışma sayısı, öğrenmenin gerçekleştiğinin doğrudan bir göstergesi değildir.",
+        "Yanlış: Tesis sayısı, altyapı ile ilgili bir göstergedir, öğrenmeyle doğrudan ilişkili değildir.",
+        "Yanlış: Antrenman süresi, öğrenmenin gerçekleştiğini garanti eden bir ölçüt değildir; sürenin uzunluğu tek başına öğrenmeyi göstermez."
+      ]
+    },
+    {
+      "id": "w4q19",
+      "question": "Spor öğretiminde sporcunun aktif olarak sürece katılması hangi öğrenme türünü destekler?",
+      "options": [
+        "Aktif öğrenme",
+        "Pasif öğrenme",
+        "Dolaylı öğrenme",
+        "Teorik öğrenme",
+        "Rastlantısal öğrenme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sporcunun sürece aktif olarak katılması, tanım olarak 'aktif öğrenme' türünü destekler; bu yaklaşımda sporcu bilgiyi pasif almak yerine bizzat uygulayarak öğrenir. Pasif, dolaylı, teorik ve rastlantısal öğrenme türleri ise sporcunun sürece doğrudan ve etkin katılımını esas almaz.",
+      "optionNotes": [
+        "Doğru: Sporcunun sürece etkin biçimde katılması, tanım olarak aktif öğrenmeyi destekler.",
+        "Yanlış: Pasif öğrenme, sporcunun sürece etkin katılımının tam tersini ifade eder.",
+        "Yanlış: Dolaylı öğrenme, doğrudan deneyim yerine başka bir yol üzerinden öğrenmeyi ifade eder, aktif katılımla ilişkilendirilmez.",
+        "Yanlış: Teorik öğrenme, bilgiye dayalı ve genellikle anlatım yoluyla gerçekleşen bir öğrenme türüdür, aktif katılımı esas almaz.",
+        "Yanlış: Rastlantısal öğrenme, planlı ve kasıtlı bir katılım sürecini ifade etmez."
+      ]
+    },
+    {
+      "id": "w4q20",
+      "question": "Aşağıdakilerden hangisi resim yapmak, yazı yazmak, dikiş-nakış gibi becerileri içerir?",
+      "options": [
+        "Kesik beceri",
+        "Seri beceri",
+        "Devamlı beceri",
+        "Büyük kas kitlesi",
+        "Küçük kas kitlesi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Resim yapmak, yazı yazmak ve dikiş-nakış gibi beceriler, göz-el koordinasyonu ve yüksek kesinlik gerektiren, küçük kas gruplarıyla yapılan hareketlerdir; bu nedenle 'küçük kas kitlesi (ince)' beceri sınıfına girerler. Kesik, seri ve devamlı beceri sınıflamaları hareketin başlama-bitiş özelliğine göre yapılan farklı bir sınıflamadır ve büyük kas kitlesi tanımı da bu becerilerin tam tersidir.",
+      "optionNotes": [
+        "Yanlış: Kesik beceri, başı ve sonu belli, kısa süreli hareketleri tanımlar (örn. top atma); kas büyüklüğüyle ilgili bir sınıflama değildir.",
+        "Yanlış: Seri beceri, birçok kesik hareketin birleşmesiyle oluşan karmaşık harekettir; resim/yazı/dikiş gibi becerileri tanımlamaz.",
+        "Yanlış: Devamlı beceri, başı sonu belirsiz, uzun süreli hareketleri tanımlar (örn. yüzme); bu becerilerle ilgili değildir.",
+        "Yanlış: Büyük kas kitlesi (kaba) beceriler, kesinliğin az önemli olduğu, büyük kas gruplarıyla yapılan hareketlerdir (örn. yürüme); bu, tam tersi bir tanımdır.",
+        "Doğru: Küçük kas kitlesi (ince) beceriler, göz-el koordinasyonu ve yüksek kesinlik gerektiren resim yapma, yazı yazma, dikiş-nakış gibi hareketleri kapsar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w3q1",
+      "question": "Aşağıdakilerden hangisi müeyyide (yaptırım) türlerinden biri değildir?",
+      "options": [
+        "Hukuki müeyyide",
+        "Ahlaki müeyyide",
+        "Dini müeyyide",
+        "Sosyal müeyyide",
+        "Fizyolojik müeyyide"
+      ],
+      "correctIndex": 4,
+      "explanation": "Toplumsal düzeni sağlayan kurallar (hukuk, ahlak, din, görgü/sosyal kurallar) ihlal edildiğinde birer müeyyide (yaptırım) doğurur; bu nedenle hukuki, ahlaki, dini ve sosyal müeyyide gerçek müeyyide türleridir. 'Fizyolojik müeyyide' ise toplumsal düzen kuralları sınıflandırmasında yer almayan, anlam bakımından da bir sosyal/hukuki yaptırım türü olamayacak kurgusal bir seçenektir.",
+      "optionNotes": [
+        "Hukuki müeyyide gerçek bir türdür; hukuk kurallarının ihlali devletin cebir gücüyle desteklenen maddi yaptırımlara yol açar.",
+        "Ahlaki müeyyide gerçek bir türdür; ahlak kurallarına uyulmaması vicdan azabı veya toplumsal kınama gibi manevi sonuçlar doğurur.",
+        "Dini müeyyide gerçek bir türdür; din kurallarının ihlali inanç sistemine bağlı manevi yaptırımlarla sonuçlanır.",
+        "Sosyal müeyyide gerçek bir türdür; görgü/toplumsal kuralların ihlali kınama, ayıplama gibi toplumsal tepkilerle karşılanır.",
+        "Doğru cevap budur; fizyolojik bir kavram olan 'fizyolojik müeyyide', toplumsal düzen kurallarının (hukuk, ahlak, din, görgü) doğurduğu yaptırım türleri arasında yer almaz, kurgusal bir seçenektir."
+      ]
+    },
+    {
+      "id": "w3q2",
+      "question": "Belirli amaçlara ulaşmak için insan, para, zaman ve malzeme gibi kaynakların planlanması, örgütlenmesi, yöneltilmesi ve denetlenmesi sürecine ne ad verilir?",
+      "options": [
+        "Organizasyon",
+        "Yönetim",
+        "Liderlik",
+        "Denetim",
+        "Strateji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu tanım, Can (1997)'ın yönetim tanımıyla birebir örtüşmektedir: yönetim, belirli amaçlara ulaşmak için başta insanlar olmak üzere parasal kaynakları, malzemeleri ve zamanı uyumlu, verimli ve etkin kullanabilecek kararlar alma ve uygulama süreçlerinin toplamıdır. Soruda sayılan dört öge (planlama, örgütleme, yöneltme, denetleme) aynı zamanda yönetimin temel süreçleridir.",
+      "optionNotes": [
+        "Organizasyon, yönetimin alt süreçlerinden biri olan örgütlemeyle ilişkilidir ama tanımın bütününü (planlama-yöneltme-denetlemeyi) kapsayan kavram değildir.",
+        "Doğru cevap budur; metindeki yönetim tanımı kaynakların (insan, para, zaman, malzeme) planlanması, örgütlenmesi, yöneltilmesi ve denetlenmesi sürecini tam olarak karşılar.",
+        "Liderlik, bireyleri etkileme ve yönlendirme sürecidir; kaynakların tümünü kapsayan bir yönetim tanımı değildir.",
+        "Denetim, yönetimin sadece bir alt sürecidir (sonuçların amaçlarla karşılaştırılması), tanımın bütününü karşılamaz.",
+        "Strateji, uzun dönemli amaç ve yön belirlemeyle ilgilidir; kaynakların günlük planlanıp denetlenmesi sürecinin tam tanımı değildir."
+      ]
+    },
+    {
+      "id": "w3q3",
+      "question": "Spor kuruluşlarının amaçlarına ulaşabilmesi için yapılan planlama, örgütleme, yöneltme ve denetleme faaliyetlerinin tümüne ne ad verilir?",
+      "options": [
+        "Spor yönetimi",
+        "Spor pazarlaması",
+        "Spor ekonomisi",
+        "Spor hukuku",
+        "Spor psikolojisi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spor yönetimi, genel yönetim biliminin planlama, örgütleme, yürütme (yöneltme) ve denetim gibi süreçlerini sporun kendine özgü koşullarına uyarlayan özelleşmiş bir alan olarak tanımlanır. Soruda sayılan dört faaliyetin (planlama, örgütleme, yöneltme, denetleme) tümünü kapsayan kavram doğrudan spor yönetimidir.",
+      "optionNotes": [
+        "Doğru cevap budur; spor yönetimi tam olarak planlama, örgütleme, yöneltme ve denetleme faaliyetlerinin bütününü ifade eder.",
+        "Spor pazarlaması, ihtiyaç ve isteklerin değişim yoluyla tatmin edilmesine yönelik faaliyetlerle ilgilidir; yönetim süreçlerinin tümünü kapsamaz.",
+        "Spor ekonomisi, sporun ekonomik boyutunu inceler; planlama-örgütleme-denetleme sürecinin tanımı değildir.",
+        "Spor hukuku, sporun hukuki boyutuyla ilgilenen karma bir hukuk dalıdır; yönetim süreçlerini tanımlamaz.",
+        "Spor psikolojisi, sporcuların zihinsel ve davranışsal süreçleriyle ilgilenir; yönetim fonksiyonlarının tanımı değildir."
+      ]
+    },
+    {
+      "id": "w3q4",
+      "question": "Bir spor kulübünün gelecekte ulaşmak istediği hedefleri belirlemesi hangi yönetim fonksiyonuna girer?",
+      "options": [
+        "Planlama",
+        "Denetleme",
+        "Koordinasyon",
+        "Yöneltme",
+        "Örgütleme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Planlama, 'ileriyi görmek', yani bir hareketi yürütme sırasında değil önceden kararlaştırmak olarak tanımlanır ve işletme/kulüp amaçlarının belirlenmesiyle başlar. Bir spor kulübünün gelecekte ulaşmak istediği hedefleri belirlemesi, tanım olarak doğrudan planlama fonksiyonuna girer.",
+      "optionNotes": [
+        "Doğru cevap budur; metinde planlama açıkça ileriyi görme ve amaçların önceden belirlenmesi süreci olarak tanımlanmıştır.",
+        "Denetleme, sonuçların önceden belirlenen amaç ve standartlarla karşılaştırılmasıdır; geleceğe dönük hedef belirlemekle değil geçmişe dönük kontrolle ilgilidir.",
+        "Koordinasyon, farklı birim ve kişilerin çabalarını ortak amaçlara yönelik uyumlu hâle getirme işlevidir, hedef belirlemenin kendisi değildir.",
+        "Yöneltme (yürütme), planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesi ve astların yönlendirilmesidir, hedef belirleme aşaması değildir.",
+        "Örgütleme, planlanan amaçlara ulaşmak için insan ve kaynakların düzenlenmesidir; hedeflerin belirlenmesinden sonra gelen bir aşamadır."
+      ]
+    },
+    {
+      "id": "w3q5",
+      "question": "Toplum düzenini sağlamak amacıyla hukuk kurallarına uyulmaması durumunda uygulanan yaptırımlara ne ad verilir?",
+      "options": [
+        "Yetki",
+        "Müeyyide",
+        "Statü",
+        "Yönetmelik",
+        "Talimat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Müeyyide (yaptırım), bir hukuk kuralına uyulmadığında kişilerin devlet müdahalesiyle hukuka uygun davranış sergilemesini sağlamak üzere kanunlarda önceden öngörülen zorlayıcı düzenleme olarak tanımlanır. Bu tanım, soruda anlatılan 'hukuk kurallarına uyulmaması durumunda uygulanan yaptırım' ifadesiyle birebir örtüşür.",
+      "optionNotes": [
+        "Yetki, bir kişi veya kurumun belirli işlemleri yapabilme gücünü ifade eder; hukuk kuralı ihlali sonucu uygulanan bir yaptırım değildir.",
+        "Doğru cevap budur; müeyyide tam olarak hukuk kurallarına aykırılık durumunda uygulanan zorlayıcı düzenlemeyi ifade eder.",
+        "Statü, kişinin toplum içindeki konumunu ifade eder; bir yaptırım türü değildir.",
+        "Yönetmelik, kamu kurumlarının çıkardığı yazılı bir hukuk kaynağıdır; yaptırımın kendisi değil, kuralı içeren bir düzenlemedir.",
+        "Talimat, bir işin nasıl yapılacağına dair verilen yönergedir; hukuka aykırılık karşısında uygulanan bir yaptırım değildir."
+      ]
+    },
+    {
+      "id": "w3q6",
+      "question": "Bir grubun belirlenen hedeflere ulaşabilmesi için bireyleri etkileyebilme ve yönlendirebilme sürecine ne ad verilir?",
+      "options": [
+        "Liderlik",
+        "Yönetim",
+        "Planlama",
+        "Denetim",
+        "Organizasyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liderlik, belirlenmiş şartlar kapsamında bireysel ya da ekip hedeflerine ulaşmak için grup üyelerinin uygulamalarını etkileme ve ivme kazandırma süreci olarak tanımlanır. Bu tanım, soruda anlatılan 'bireyleri etkileyebilme ve yönlendirebilme süreci' ifadesiyle doğrudan örtüşür.",
+      "optionNotes": [
+        "Doğru cevap budur; liderlik tanımı tam olarak bireyleri etkileme ve hedeflere yönlendirme sürecini ifade eder.",
+        "Yönetim, kaynakların (insan, para, zaman, malzeme) planlanıp denetlenmesi sürecidir; liderlikten daha geniş ve farklı bir kavramdır.",
+        "Planlama, ileriyi görme ve hedefleri önceden belirleme sürecidir; bireyleri etkileme sürecinin tanımı değildir.",
+        "Denetim, sonuçların amaçlarla karşılaştırılması sürecidir; etkileme ve yönlendirme sürecini tanımlamaz.",
+        "Organizasyon, kaynakların ve görevlerin düzenlenmesiyle ilgilidir; bireyleri etkileme sürecinin doğrudan tanımı değildir."
+      ]
+    },
+    {
+      "id": "w3q7",
+      "question": "Bütün kararların yönetici tarafından alındığı liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Demokratik liderlik",
+        "Serbest liderlik",
+        "Katılımcı liderlik",
+        "Durumsal liderlik",
+        "Otokratik liderlik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Otokratik lider, statüsünün verdiği otoriteyi kullanarak kararları tek başına alır ve yetkisini kimseyle paylaşmaz; bu nedenle bütün kararların yönetici tarafından alındığı tarz otokratik liderliktir.",
+      "optionNotes": [
+        "Demokratik lider, grup ile birlikte çalışır ve kararlara izleyicilerin katılımını sağlar; kararları tek başına almaz.",
+        "Serbest (liberal) lider, gruba karar alma ve işi tamamlama özgürlüğü verir; kararları kendisi tek başına almaz.",
+        "Katılımcı liderlik, demokratik liderliğin bir diğer adıdır ve karar sürecine grup üyelerinin katılımını esas alır.",
+        "Durumsal liderlik, lider davranışının duruma göre değiştiği bir tarzdır; tüm kararların tek elden alınmasıyla özdeşleşmez.",
+        "Doğru cevap budur; otokratik lider kararları tek başına alır ve yetkisini paylaşmaz, güven ortamı oluşmadığından birlik duygusu da gelişmez."
+      ]
+    },
+    {
+      "id": "w3q8",
+      "question": "Türkiye’de spor faaliyetlerini düzenleyen en üst kamu kurumu aşağıdakilerden hangisidir?",
+      "options": [
+        "Türkiye Milli Olimpiyat Komitesi",
+        "Spor Genel Müdürlüğü",
+        "Federasyonlar Birliği",
+        "Gençlik ve Spor Bakanlığı",
+        "Spor Kulüpleri Birliği"
+      ],
+      "correctIndex": 3,
+      "explanation": "2011 yılında kurulan Gençlik ve Spor Bakanlığı, Türkiye'de spor alanındaki en üst düzey kamu kurumudur; Spor Genel Müdürlüğü (günümüzde Spor Hizmetleri Genel Müdürlüğü) ise bu Bakanlığa bağlı, ona tabi bir hizmet birimi/genel müdürlük konumundadır. Bu nedenle hiyerarşik olarak en üstte yer alan kurum Gençlik ve Spor Bakanlığıdır.",
+      "optionNotes": [
+        "Türkiye Milli Olimpiyat Komitesi, olimpik hareketle ilgili özerk bir kuruluştur; devletin spor faaliyetlerini düzenleyen en üst kamu kurumu değildir.",
+        "Spor Genel Müdürlüğü, metinde Gençlik ve Spor Bakanlığına bağlı bir birim (Spor Hizmetleri Genel Müdürlüğü) olarak geçer; Bakanlığın altında yer alır, en üst kurum değildir.",
+        "Federasyonlar Birliği, metinde geçen ve Türk spor yönetiminde en üst kamu kurumu olarak tanımlanan bir yapı değildir.",
+        "Doğru cevap budur; Gençlik ve Spor Bakanlığı, Spor Genel Müdürlüğünün de bağlı olduğu, Türkiye'de spor faaliyetlerini düzenleyen en üst kamu kurumudur.",
+        "Spor Kulüpleri Birliği, metinde Türk spor yönetiminin en üst kamu kurumu olarak geçen bir yapı değildir."
+      ]
+    },
+    {
+      "id": "w3q9",
+      "question": "Aşağıdakilerden hangisi spor kulüplerinin temel amaçlarından biri değildir?",
+      "options": [
+        "Spor faaliyetleri yürütmek",
+        "Sporcu yetiştirmek",
+        "Topluma spor hizmeti sunmak",
+        "Kar amacıyla ticari faaliyet yürütmek",
+        "Spor organizasyonları düzenlemek"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spor kulüpleri, 5253 sayılı Dernekler Kanunu'na göre tüzel kişilik kazanan, genellikle kâr amacı gütmeyen (dernek statüsünde) örgütlerdir; asıl amaçları sporu yaymak, sporcu yetiştirmek ve topluma spor hizmeti sunmaktır. Kar amacıyla ticari faaliyet yürütmek, spor kulüplerinin temel/birincil amaçları arasında sayılmaz.",
+      "optionNotes": [
+        "Spor faaliyetleri yürütmek, spor kulüplerinin temel ve birincil amaçlarından biridir.",
+        "Sporcu yetiştirmek, spor kulüplerinin asli görevlerinden biri olarak kabul edilir.",
+        "Topluma spor hizmeti sunmak, özellikle kamu eliyle işletilen kulüp ve tesislerin esas amacı olarak vurgulanır.",
+        "Doğru cevap budur; spor kulüpleri dernek statüsünde, esas olarak kâr amacı gütmeyen kuruluşlardır, ticari kâr elde etmek temel amaçları arasında sayılmaz.",
+        "Spor organizasyonları düzenlemek, spor kulüplerinin faaliyet alanına giren temel amaçlarından biridir."
+      ]
+    },
+    {
+      "id": "w3q10",
+      "question": "İhtiyaç ve isteklerin değişim yoluyla giderilip tatmin edilmesine yönelik gerçekleştirilen insan faaliyetlerine ne ad verilir?",
+      "options": [
+        "Yönetim",
+        "Organizasyon",
+        "Pazarlama",
+        "Liderlik",
+        "Planlama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metinde pazarlama, 'ihtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik birtakım insan faaliyetleri' olarak tanımlanmıştır. Soru bu tanımı birebir aktarmaktadır, dolayısıyla doğru cevap pazarlamadır.",
+      "optionNotes": [
+        "Yönetim, kaynakların planlanması, örgütlenmesi, yöneltilmesi ve denetlenmesi sürecidir; ihtiyaç tatmini tanımına karşılık gelmez.",
+        "Organizasyon, kaynakların ve görevlerin düzenlenmesiyle ilgilidir, ihtiyaç ve isteklerin değişim yoluyla tatmini tanımı değildir.",
+        "Doğru cevap budur; tanım, metindeki pazarlama tanımıyla kelimesi kelimesine örtüşmektedir.",
+        "Liderlik, bireyleri etkileme ve yönlendirme sürecidir; ihtiyaç tatminiyle ilgili bir tanım değildir.",
+        "Planlama, hedeflerin önceden belirlenmesi sürecidir; ihtiyaç ve isteklerin değişim yoluyla tatmini tanımına uymaz."
+      ]
+    },
+    {
+      "id": "w3q11",
+      "question": "Aşağıdakilerden hangisi stratejik planlamada yer alması gereken temel unsurlardan biri değildir?",
+      "options": [
+        "Misyon",
+        "Vizyon",
+        "Amaç ve hedefler",
+        "Durum analizi",
+        "Günlük antrenman programı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Stratejik planlama; durum analizi, paydaş analizi, SWOT analizi, misyon-vizyon ve temel değerlerin belirlenmesi gibi örgütün tüm birimlerine uzun dönemli stratejik vizyon kazandırmayı amaçlayan unsurları içerir. 'Günlük antrenman programı' ise operasyonel/günlük düzeyde bir uygulamadır ve stratejik planlamanın temel (uzun dönemli, kurumsal düzeydeki) unsurları arasında yer almaz.",
+      "optionNotes": [
+        "Misyon, stratejik planlamanın temel unsurlarından biridir; kuruluşun var oluş amacını tanımlar.",
+        "Vizyon, stratejik planlamanın temel unsurlarından biridir; kuruluşun gelecekte ulaşmak istediği durumu ifade eder.",
+        "Amaç ve hedefler, stratejik planlamanın vazgeçilmez unsurlarından biridir.",
+        "Durum analizi (SWOT dahil), stratejik planlama sürecinin temel unsurlarından biri olarak metinde sayılmıştır.",
+        "Doğru cevap budur; günlük antrenman programı, kurumsal düzeydeki uzun vadeli stratejik planlamanın bir unsuru değil, günlük/operasyonel bir uygulamadır."
+      ]
+    },
+    {
+      "id": "w3q12",
+      "question": "Anadolu’da sporun örgütlü yapısının oluşmasında önemli rol oynayan, yaklaşık 675 yıllık geçmişe sahip olan ve 14. yüzyılda kurumsallaşan, milli kimlikle özdeşleşmiş geleneksel spor organizasyonu aşağıdakilerden hangisidir?",
+      "options": [
+        "Okçular Tekkesi",
+        "Enderun Mektebi",
+        "Ahilik Teşkilatı",
+        "Pehlivan Tekkeleri",
+        "Lonca Teşkilatı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metinde 'Anadolu'da sporun örgütlenmesinde yaklaşık 675 yıldır var olan ve Kırkpınar güreşleri ile özdeşleşen, yaklaşık 14. yüzyılda kurumlaştığı bilinen' spor organizatörlüğünden bahsedilir; bu organizasyon çeşitli güreş (pehlivan) tekke ve vakıflarının kurduğu ve desteklediği sporcuların yarışmalarını hedefleyen bir kuruluştur. Seçenekler arasında bu tanıma en uygun olan, güreşçilerin/pehlivanların barındığı ve yetiştirildiği örgütlü yapı olan Pehlivan Tekkeleridir.",
+      "optionNotes": [
+        "Okçular Tekkesi, okçuluk sporuna özgü bir örgütlenmedir; metindeki 675 yıllık, Kırkpınar ile özdeşleşen güreş organizasyonunu tanımlamaz.",
+        "Enderun Mektebi, Osmanlı sarayı için sporcu ve devlet adamı yetiştiren bir eğitim kurumudur; Kırkpınar tipi bir spor organizatörlüğü değildir.",
+        "Ahilik Teşkilatı, esnaf ve zanaatkârları örgütleyen bir meslek teşkilatıdır; metinde sporun örgütlenmesiyle ilgili bu özel tanıma doğrudan karşılık gelmez.",
+        "Doğru cevap budur; Kırkpınar güreşleriyle özdeşleşen, 14. yüzyılda kurumlaşan ve yaklaşık 675 yıldır süren bu organizasyon, metinde güreş (pehlivan) tekkelerinin kurup desteklediği bir yapı olarak anlatılır.",
+        "Lonca Teşkilatı, esnaf birlikleriyle ilgili bir örgütlenme biçimidir; metindeki geleneksel güreş organizasyonunu tanımlamaz."
+      ]
+    },
+    {
+      "id": "w3q13",
+      "question": "Osmanlı döneminde sporcuların yetiştirildiği ve özellikle saray için sporcu hazırlandığı kurum aşağıdakilerden hangisidir?",
+      "options": [
+        "Enderun Mektebi",
+        "Medrese",
+        "Lonca",
+        "Ahilik",
+        "Tekke"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enderun Mektebi, Osmanlı Devleti'nde saray için devlet adamı ve sporcu yetiştirmek amacıyla kurulmuş, Osmanlı döneminde spor faaliyetlerinin saray kurumları çatısı altında yürütüldüğü yapılardan biridir. Bu nedenle 'özellikle saray için sporcu hazırlanan kurum' tanımı doğrudan Enderun Mektebi'ne karşılık gelir.",
+      "optionNotes": [
+        "Doğru cevap budur; Enderun Mektebi, Osmanlı sarayı için sporcu ve devlet adamı yetiştiren kurumdur.",
+        "Medrese, dini ve ilmî eğitim veren bir kurumdur; saray için sporcu yetiştirme işleviyle ilişkilendirilmez.",
+        "Lonca, esnaf teşkilatlanmasıyla ilgili bir yapıdır; sporcu yetiştirme kurumu değildir.",
+        "Ahilik, zanaatkârları örgütleyen bir meslek teşkilatıdır; saray sporcu yetiştirme kurumu değildir.",
+        "Tekke, genel olarak güreş/okçuluk gibi branşlarda halk arasından sporcu yetiştiren yapılardır; özellikle saraya özgü bir kurum olarak tanımlanan Enderun Mektebi'nden farklıdır."
+      ]
+    },
+    {
+      "id": "w3q14",
+      "question": "Türkiye’de modern anlamda ilk spor kulüpleri hangi dönemde ortaya çıkmıştır?",
+      "options": [
+        "Selçuklu Dönemi",
+        "Osmanlı Dönemi (19. yüzyıl sonları)",
+        "Cumhuriyetin ilk yılları",
+        "Tanzimat Dönemi öncesi",
+        "Orta Çağ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metne göre Tanzimat (1839-1876) sonrasında spor tekkeleri fonksiyonlarını yitirmiş ve kulüp modeli benimsenmiştir; Beşiktaş (1903), Galatasaray (1905) ve Fenerbahçe (1907) gibi modern anlamdaki ilk Türk spor kulüpleri, 19. yüzyılın sonlarından 20. yüzyıl başına uzanan Osmanlı döneminde kurulmuştur.",
+      "optionNotes": [
+        "Selçuklu Dönemi, modern anlamda spor kulüplerinin ortaya çıktığı bir dönem olarak metinde geçmez; bu dönemde örgütlü yapı daha çok tekkeler biçimindeydi.",
+        "Doğru cevap budur; metinde Beşiktaş, Galatasaray ve Fenerbahçe gibi ilk modern Türk spor kulüplerinin 19. yüzyıl sonlarındaki Osmanlı döneminde kurulduğu belirtilmiştir.",
+        "Cumhuriyetin ilk yılları, TİCİ gibi resmi federatif yönetim örgütlerinin kurulduğu dönemdir; modern kulüplerin ilk ortaya çıkışı bundan önceki Osmanlı dönemine aittir.",
+        "Tanzimat Dönemi öncesi, spor tekkelerinin hâlâ etkin olduğu, kulüp modelinin henüz benimsenmediği bir dönemdir.",
+        "Orta Çağ, metinde modern spor kulüplerinin ortaya çıkışıyla ilişkilendirilen bir dönem değildir."
+      ]
+    },
+    {
+      "id": "w3q15",
+      "question": "Osmanlı Devleti’nde spor faaliyetleri genellikle hangi kurumların çatısı altında yürütülmüştür?",
+      "options": [
+        "Üniversiteler",
+        "Tekkeler ve saray kurumları",
+        "Belediyeler",
+        "Federasyonlar",
+        "Spor kulüpleri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metne göre Osmanlı döneminde güreş tekkeleri, okçu tekkeleri ve spor vakıfları gibi örgütler spor faaliyetlerini yürütmüş, ayrıca Enderun Mektebi gibi saray kurumları da saray için sporcu yetiştirmiştir. Bu nedenle Osmanlı'da spor faaliyetleri esas olarak tekkeler ve saray kurumlarının çatısı altında yürütülmüştür.",
+      "optionNotes": [
+        "Üniversiteler, Osmanlı döneminde spor faaliyetlerinin yürütüldüğü kurumlar olarak metinde geçmez; bu modern bir yapıdır.",
+        "Doğru cevap budur; metinde Osmanlı'da sporun güreş/okçu tekkeleri ve Enderun Mektebi gibi saray kurumları çatısı altında yürütüldüğü belirtilir.",
+        "Belediyeler, Osmanlı döneminde spor faaliyetlerini yürüten kurumlar olarak metinde yer almaz.",
+        "Federasyonlar, Cumhuriyet dönemiyle birlikte ortaya çıkan modern yönetim yapılarıdır, Osmanlı dönemine ait değildir.",
+        "Spor kulüpleri, modern anlamda 19. yüzyılın sonlarında ortaya çıkmıştır; Osmanlı'nın genel spor yönetim çatısını tekke ve saray kurumları oluşturur."
+      ]
+    },
+    {
+      "id": "w3q16",
+      "question": "Türkiye’de spor federasyonlarının temel görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Sporculara maaş bağlamak",
+        "Sporculara burs vermek",
+        "Spor tesisleri inşa etmek",
+        "Spor branşlarını yönetmek ve düzenlemek",
+        "Sporcu transferlerini yapmak"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spor federasyonları, kendi branşlarındaki müsabaka, kural, lisans ve organizasyon süreçlerini yöneten ve düzenleyen özerk veya yarı özerk kuruluşlardır; temel görevleri ilgili spor branşının yönetimi ve düzenlenmesidir. Maaş bağlama, burs verme, tesis inşası veya transfer işlemleri federasyonların asıl/temel görevi değil, kulüp veya diğer kurumların yürüttüğü faaliyetlerdir.",
+      "optionNotes": [
+        "Sporculara maaş bağlamak, genellikle kulüplerin veya işverenlerin yükümlülüğüdür; federasyonun temel görevi değildir.",
+        "Sporculara burs vermek, bazı federasyon veya kurumların yan faaliyeti olabilir ama federasyonun asıl/temel görevi değildir.",
+        "Spor tesisleri inşa etmek, genellikle kamu kurumları (belediyeler, Spor Genel Müdürlüğü) veya kulüplerin görevidir, federasyonun temel görevi değildir.",
+        "Doğru cevap budur; federasyonların temel görevi, bağlı olduğu spor branşının müsabaka, kural ve organizasyon süreçlerini yönetmek ve düzenlemektir.",
+        "Sporcu transferlerini yapmak, kulüpler arasında gerçekleşen bir işlemdir; federasyonun temel görevi bu işlemleri bizzat yapmak değil, kurallarını düzenlemektir."
+      ]
+    },
+    {
+      "id": "w3q17",
+      "question": "Aşağıdakilerden hangisi geleneksel Türk sporlarından biri değildir?",
+      "options": [
+        "Cirit",
+        "Güreş",
+        "Atlı okçuluk",
+        "Polo",
+        "Okçuluk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cirit, güreş, atlı okçuluk ve okçuluk, Türk kültüründe köklü bir geçmişe sahip, bugün de kendi federasyonlarıyla (Türkiye Cirit Federasyonu, Güreş Federasyonu, Atlı Okçuluk Federasyonu, Okçuluk Federasyonu) yaşatılan geleneksel Türk sporlarıdır. Polo ise uluslararası alanda genellikle Batı/İngiliz kökenli, at üzerinde oynanan elit bir spor olarak bilinir ve Türk kültüründe bu dört spor gibi kurumsallaşmış bir 'geleneksel Türk sporu' olarak kabul edilmez; bu soruda en mantıklı/en çok desteklenen cevap bu şekildedir, ancak bazı tarihî metinlerde Anadolu'da oynanan çöğen oyununun polo ile ilişkilendirildiği de not edilmelidir.",
+      "optionNotes": [
+        "Cirit, atlı bir Türk sporu olarak köklü bir geçmişe sahiptir ve geleneksel Türk sporlarından biridir.",
+        "Güreş, Türk kültüründe en köklü ve en yaygın geleneksel sporlardan biridir (örneğin Kırkpınar yağlı güreşleri).",
+        "Atlı okçuluk, Türk-Orta Asya kültüründen gelen, bugün federasyonu bulunan köklü bir geleneksel Türk sporudur.",
+        "Doğru (en uygun) cevap budur; Polo, uluslararası alanda daha çok Batı kökenli bir at sporu olarak tanınır ve diğer dört seçenek gibi kurumsal bir 'geleneksel Türk sporu' kategorisinde anılmaz.",
+        "Okçuluk, Türklerde savaş, avlanma ve spor dalı olarak çok köklü bir geçmişe sahip geleneksel bir spordur."
+      ]
+    },
+    {
+      "id": "w3q18",
+      "question": "Cumhuriyet döneminde sporun örgütlenmesi amacıyla kurulan ilk önemli kurum aşağıdakilerden hangisidir?",
+      "options": [
+        "Gençlik ve Spor Bakanlığı",
+        "Spor Genel Müdürlüğü",
+        "Türkiye Futbol Federasyonu",
+        "Türkiye Milli Olimpiyat Komitesi",
+        "Türkiye İdman Cemiyetleri İttifakı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metne göre Cumhuriyet sonrası Türk spor yönetimi önce 1922'de özerk bir yapı olarak kurulan Türkiye İdman Cemiyetleri İttifakı (TİCİ, 1922-1936) ile başlamıştır; TİCİ, Türkiye'nin ilk resmî ve federatif ulusal spor yönetim örgütü olarak tanımlanır. Bu nedenle Cumhuriyet döneminde sporun örgütlenmesi için kurulan ilk önemli kurum TİCİ'dir.",
+      "optionNotes": [
+        "Gençlik ve Spor Bakanlığı, 2011 yılında kurulmuş çok daha sonraki bir kurumdur; Cumhuriyet döneminin ilk spor örgütü değildir.",
+        "Spor Genel Müdürlüğü, BTGM'nin devamı niteliğinde çok daha sonraki bir yapıdır, ilk kurum değildir.",
+        "Türkiye Futbol Federasyonu, yalnızca futbol branşıyla ilgili bir federasyondur, sporun genel örgütlenmesi için kurulan ilk ulusal kurum değildir.",
+        "Türkiye Milli Olimpiyat Komitesi, olimpik hareketle ilgili bir kurumdur, Cumhuriyet döneminin sporu örgütleyen ilk resmi kurumu olarak metinde geçmez.",
+        "Doğru cevap budur; TİCİ (1922-1936), Türkiye'nin ilk resmî ve federatif ulusal spor yönetim örgütü olarak Cumhuriyet döneminde kurulan ilk önemli kurumdur."
+      ]
+    },
+    {
+      "id": "w3q19",
+      "question": "Kendi çıkarları doğrultusunda herhangi bir konuda yasama kademelerini etkilemek ve ikna etmek amacıyla yapılan girişimleri yürütme faaliyetlerine ne ad verilir?",
+      "options": [
+        "Propaganda",
+        "Reklam",
+        "Sponsorluk",
+        "Halkla ilişkiler",
+        "Lobicilik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Metinde lobicilik, 'kendi çıkarları doğrultusunda herhangi bir konuda yasama kademelerini etkilemek ve ikna etmek amacıyla yapılan girişimleri yürütme faaliyetleri' olarak tanımlanmıştır; soru bu tanımı birebir aktarmaktadır.",
+      "optionNotes": [
+        "Propaganda, bir düşünce veya ideolojiyi geniş kitlelere yayma faaliyetidir; yasama kademelerini etkileme tanımına özgü değildir.",
+        "Reklam, ürün veya hizmetlerin tanıtımına yönelik ticari bir iletişim faaliyetidir, yasama etkileme tanımıyla ilgisizdir.",
+        "Sponsorluk, bir kurum veya etkinliğe maddi/manevi destek sağlama faaliyetidir; yasama etkileme tanımı değildir.",
+        "Halkla ilişkiler, kurum ile halk arasındaki karşılıklı etkileşimi ifade eden daha genel bir kavramdır; yasama kademelerini etkileme ise onun özel bir alanı olan lobiciliğe aittir.",
+        "Doğru cevap budur; metindeki tanım lobicilik kavramıyla birebir örtüşmektedir."
+      ]
+    },
+    {
+      "id": "w3q20",
+      "question": "Bir toplum içinde bireylerin uymak zorunda oldukları davranış biçimleri ve kurallar bütünü olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Gelenek",
+        "Ahlak",
+        "Hukuk",
+        "Görgü",
+        "Kültür"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metinde ahlak kuralları, 'bir toplumda kişilerin uymak zorunda olduğu davranış biçimleri' olarak tanımlanmıştır; bu tanım soruyla birebir örtüşür. Ahlak kurallarının ihlali vicdan azabı (sübjektif ahlak) ya da toplumsal kınama (objektif ahlak) gibi manevi sonuçlar doğurur.",
+      "optionNotes": [
+        "Gelenek, bir toplumun nesilden nesile aktardığı alışkanlık ve uygulamalardır; metindeki 'uymak zorunda olunan davranış biçimleri' tanımı doğrudan ahlaka aittir.",
+        "Doğru cevap budur; metinde ahlak kuralları tam olarak 'bir toplumda kişilerin uymak zorunda olduğu davranış biçimleri' şeklinde tanımlanmıştır.",
+        "Hukuk, devlet otoritesi tarafından konulan ve cebren uygulanan kurallar bütünüdür; bu soruda tanımlanan manevi nitelikli davranış kuralları değil, maddi yaptırımlı kurallardır.",
+        "Görgü, toplumun gelenek ve törenlerinden doğan, kınama/ayıplama ile sonuçlanan davranış kalıplarıdır; metindeki tanım doğrudan ahlak kurallarına atfedilmiştir.",
+        "Kültür, bir toplumun maddi ve manevi değerlerinin bütününü ifade eden çok daha geniş bir kavramdır; bu spesifik tanımın karşılığı değildir."
+      ]
+    }
+  ]
+}

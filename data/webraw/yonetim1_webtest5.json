@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "w5q1",
+      "question": "Yönetim ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Evrenseldir.",
+        "İnsanla ilgilidir.",
+        "İnsanın diğer kişilerle ilişkilerini inceler.",
+        "Yaşantımızın çok az alanında yer almaktadır.",
+        "Yönetim bilimciler, yönetimin bir otorite sistemi olduğunu belirtir."
+      ],
+      "correctIndex": 3,
+      "explanation": "Yönetim konusundaki metinler, yönetimin yaşantımızın her alanında (okul, aile, spor kulübü, şirket vb.) yer aldığını açıkça belirtir. Bu nedenle 'yaşantımızın çok az alanında yer almaktadır' ifadesi gerçekle çelişir ve yanlıştır; diğer seçenekler (evrensellik, insanla ilgili olma, ilişkileri inceleme, otorite sistemi olması) yönetimin doğrudan doğrulanan özellikleridir.",
+      "optionNotes": [
+        "Yönetim evrensel bir kavramdır; bu doğru bir ifadedir, soru yanlış olanı sorduğu için cevap değildir.",
+        "Yönetim insanla uğraşır, konusu insandır; bu doğru bir özelliktir.",
+        "Yönetim, insanın toplumsal yaşam içindeki diğer kişilerle ilişkilerini ve davranışlarını inceler; bu doğru bir tanımdır.",
+        "Gerçekte yönetim yaşantımızın her alanında yer alır (okul, aile, spor kulübü, şirket vb.); bu seçenek gerçekle çelişir ve yanlış ifadedir, dolayısıyla doğru cevaptır.",
+        "Yönetim bilimciler yönetimi bir otorite sistemi olarak tanımlar; bu doğru bir ifadedir."
+      ]
+    },
+    {
+      "id": "w5q2",
+      "question": "Akademik çalışma alanı olarak incelenen spor yönetimi dünyada ilk kez aşağıdaki ülkelerden hangisinde ortaya çıkmıştır?",
+      "options": [
+        "İngiltere",
+        "İtalya",
+        "ABD",
+        "İsviçre",
+        "Hollanda"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akademik çalışma alanı olarak spor yönetimi ilk kez Amerika Birleşik Devletleri'nde ortaya çıkmıştır; 1966'da Ohio Üniversitesi'nde ilk spor yönetimi yüksek lisans programının başlamasıyla bu alan kurumsallaşmıştır.",
+      "optionNotes": [
+        "İngiltere, spor yönetiminin sonradan akademik alan olarak geliştirildiği ülkelerden biridir ama ilk ortaya çıktığı ülke değildir.",
+        "İtalya, spor yönetiminin akademik gelişimiyle ilk kaynaklarda ilişkilendirilmemiştir.",
+        "Doğru cevap: Spor yönetimi akademik alan olarak ilk kez ABD'de (Ohio Üniversitesi, 1966) ortaya çıkmıştır.",
+        "İsviçre, sonradan bu eğitimi veren Avrupa ülkeleri arasında sayılır, ilk ortaya çıkış yeri değildir.",
+        "Hollanda da benzer şekilde sonradan bu eğitimi sunan ülkeler arasında anılır, öncü ülke ABD'dir."
+      ]
+    },
+    {
+      "id": "w5q3",
+      "question": "Aşağıdakilerin hangisi spor yönetiminin ilkelerinden biri değildir?",
+      "options": [
+        "Taraflılık",
+        "Yeterlilik",
+        "Eşitlik",
+        "Denklik",
+        "Güç birliği"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spor yönetiminin ilkeleri tarafsızlık, yeterlik, güvence, denklik, eşitlik, yetiştirme, güç birliği ve emek olarak sayılır. Taraflılık bu ilkelerin tam tersidir; sayılan ilke tarafsızlıktır, taraflılık değildir, dolayısıyla taraflılık bir ilke olarak geçmez.",
+      "optionNotes": [
+        "Doğru cevap: İlke olarak sayılan tarafsızlıktır; taraflılık bunun zıttı olup bir spor yönetimi ilkesi olarak geçmez.",
+        "Yeterlilik (yeterlik), personelin işe uygunluğunu ifade eden ve sayılan ilkelerden biridir.",
+        "Eşitlik, birbirine denk personele eşit ödeme yapılmasını ifade eden, sayılan ilkelerden biridir.",
+        "Denklik, personele yaptığı işin karşılığının ödenmesini ifade eden, sayılan bir ilkedir.",
+        "Güç birliği, personelin takım çalışmasıyla başarıya ulaşmasını ifade eden, sayılan bir ilkedir."
+      ]
+    },
+    {
+      "id": "w5q4",
+      "question": "İşletmeler aşağıdakilerden hangisini gerçekleştirir?",
+      "options": [
+        "Kendi ihtiyaçlarını karşılamak üzere üretim yapma",
+        "Kamu yararı sunma",
+        "İktisadi teoriler geliştirme",
+        "İktisadi mal ve hizmet üretme",
+        "Neden-sonuç ilişkisini açıklama"
+      ],
+      "correctIndex": 3,
+      "explanation": "İşletmeler iktisadi, yani faydalı mal ve hizmet üreten birimlerdir; bu üretim başkalarının ihtiyaçlarını karşılamaya yöneliktir. Kendi ihtiyacı için üretim yapan kişi ya da gruplar işletme sayılmaz, bu nedenle doğru yanıt iktisadi mal ve hizmet üretmedir.",
+      "optionNotes": [
+        "Yanlış: Kendi ihtiyacı için üretim yapan kişi, grup ya da örgütler işletme sayılmaz; işletme başkaları için üretim yapar.",
+        "Yanlış: Kamu yararı sunmak bazı kamu işletmelerinin amacı olabilir, ancak işletmenin genel tanımını oluşturan zorunlu bir özellik değildir.",
+        "Yanlış: İktisadi teoriler geliştirmek işletme biliminin, yani akademik disiplinin işidir; işletmenin kendisinin yaptığı bir faaliyet değildir.",
+        "Doğru: İşletmeler, insan ihtiyaçlarını karşılayan iktisadi yani faydalı mal ve hizmet üretip pazarlayarak kâr elde etmeyi amaçlar.",
+        "Yanlış: Neden-sonuç ilişkilerini incelemek işletme biliminin tanımına ait bir özelliktir, işletmenin bizzat yaptığı bir eylem değildir."
+      ]
+    },
+    {
+      "id": "w5q5",
+      "question": "Maslow’un ihtiyaçlar hiyerarşisinin temelinde yer alan ihtiyaç aşağıdakilerden hangisidir?",
+      "options": [
+        "Sevme ve sevilme ihtiyacı",
+        "Saygı görme ihtiyacı",
+        "Kendini gerçekleştirme ihtiyacı",
+        "Güvenlik ihtiyacı",
+        "Temel fizyolojik ihtiyaçlar"
+      ],
+      "correctIndex": 4,
+      "explanation": "İhtiyaçlar hiyerarşisinin temelinde ve motivasyonun ilk adımı sayılan ihtiyaçlar fizyolojik ihtiyaçlardır (oksijen alma, yeme, içme, uyku, giyinme, barınma). Bu ihtiyaçlar karşılanmadan diğer üst düzey ihtiyaçlar ortaya çıkmaz.",
+      "optionNotes": [
+        "Yanlış: Sevme ve sevilme ihtiyacı hiyerarşinin üçüncü düzeyinde yer alır, temel düzey değildir.",
+        "Yanlış: Saygı görme ihtiyacı hiyerarşinin dördüncü düzeyindedir, güvenlik ve bağlanma ihtiyaçlarından sonra gelir.",
+        "Yanlış: Kendini gerçekleştirme ihtiyacı hiyerarşinin en üst, en karmaşık basamağıdır, temelde değildir.",
+        "Yanlış: Güvenlik ihtiyacı ikinci düzeyde yer alır; fizyolojik ihtiyaçlar kısmen karşılandıktan sonra önem kazanır.",
+        "Doğru: Temel fizyolojik ihtiyaçlar, hiyerarşinin temelinde yer alan ve insan doğar doğmaz diğer ihtiyaçların önüne geçen ihtiyaçlardır."
+      ]
+    },
+    {
+      "id": "w5q6",
+      "question": "İhtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik birtakım insan faaliyetlerine ne ad verilir?",
+      "options": [
+        "Pazarlama",
+        "Senyoraj",
+        "Ar-ge",
+        "Muhasebe",
+        "Finans"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pazarlama; 'ihtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik birtakım insan faaliyetleri' olarak tanımlanır; soru bu tanımı birebir aktarmaktadır.",
+      "optionNotes": [
+        "Doğru: Tanım, pazarlama tanımıyla kelimesi kelimesine örtüşür.",
+        "Yanlış: Senyoraj, para basımından elde edilen kazançla ilgili bir ekonomi terimidir; bu tanımla ilgisi yoktur.",
+        "Yanlış: Ar-Ge, yeni bilgi elde etme ve yenilik yapma ile ilgilidir; ihtiyaç tatmini için yapılan değişim faaliyeti tanımı değildir.",
+        "Yanlış: Muhasebe, mali kayıt ve raporlama ile ilgilidir; ihtiyaç ve isteklerin tatminiyle ilgili bir tanım değildir.",
+        "Yanlış: Finans, kaynak temini ve yönetimiyle ilgilidir; bu tanıma uymaz."
+      ]
+    },
+    {
+      "id": "w5q7",
+      "question": "İnsanların ihtiyaçlarını karşılayan bir değerin elde edilmesine ne ad verilir?",
+      "options": [
+        "Pazarlama",
+        "Üretim",
+        "Satın alma",
+        "Personel",
+        "Muhasebe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Üretim; 'fayda yaratmak, insanların ihtiyaçlarını karşılayan bir değerin elde edilmesi' biçiminde tanımlanır. Bu tanım doğrudan üretim işlevine karşılık gelir.",
+      "optionNotes": [
+        "Yanlış: Pazarlama, üretilen değerin değişim yoluyla tüketiciye ulaştırılmasıyla ilgilidir; değerin elde edilmesi (yaratılması) tanımı değildir.",
+        "Doğru: Tanım, üretim tanımıyla birebir aynıdır.",
+        "Yanlış: Satın alma, üretim için gerekli girdilerin temin edilmesiyle ilgilidir; değer yaratma tanımı değildir.",
+        "Yanlış: Personel, insan kaynağının sağlanması ve çalıştırılmasıyla ilgilidir, değer yaratma tanımına karşılık gelmez.",
+        "Yanlış: Muhasebe, mali kayıt ve raporlama işlevidir; değer yaratma/üretim tanımı değildir."
+      ]
+    },
+    {
+      "id": "w5q8",
+      "question": "Liderlik ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Soyut bir kavramdır.",
+        "Sosyal bir olgudur.",
+        "İnsanları etkileme ve kontrol etme sanatıdır.",
+        "Değişik olay ve koşullara göre farklı içerikler gerektirir.",
+        "Değişimlerden etkilenmez."
+      ],
+      "correctIndex": 4,
+      "explanation": "Liderlik, diğer tüm sosyal ögeler gibi toplumsal değişimlerden sürekli etkilenerek yenilenir; bu nedenle 'değişimlerden etkilenmez' ifadesi yanlıştır. Liderliğin soyut, sosyal bir olgu olması ve koşullara göre farklı içerik gerektirmesi ise doğrulanan tanımlamalardır.",
+      "optionNotes": [
+        "Doğru bir ifadedir; liderlik soyut bir kavramdır, değişik olay ve koşullara göre farklı içerikler gerektirir.",
+        "Doğru bir ifadedir; liderlik sosyal bir olgu olarak kabul edilir ve diğer sosyal ögeler gibi değerlendirilir.",
+        "Doğru bir ifadedir; liderlik, insanları belirli bir yöne yönlendirmek için etkileme ve kontrol etme sanatı olarak tanımlanır.",
+        "Doğru bir ifadedir; liderlik soyut olduğu için farklı olay ve koşullara göre farklı içerikler gerektirir.",
+        "Yanlış ifadedir (doğru cevap); liderlik toplumsal değişimlerden sürekli etkilenerek yenilenir, değişimlerden bağımsız değildir."
+      ]
+    },
+    {
+      "id": "w5q9",
+      "question": "Sadece eğitim seviyesi yüksek, kurumsal yapılarının, uzmanlık düzeylerinin üst seviyede olduğu spor örgütleri ve elit düzeyde sporcularda uygulanmasının başarılı sonuçlar getirebileceği liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Durumsal",
+        "Liberal",
+        "Dönüşümcü",
+        "Stratejik",
+        "Demokratik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu ifade doğrudan liberal liderlik tarzına aittir: liberal liderliğin yalnızca eğitim seviyesi yüksek, kurumsal yapıları ve uzmanlık düzeyleri üst seviyede olan spor örgütleri ve elit sporcularda uygulanmasının başarılı sonuçlar getirebileceği belirtilir, çünkü bu tarzda gruba karar alma ve işi tamamlama özgürlüğü verilir.",
+      "optionNotes": [
+        "Yanlış; durumsal liderlik, lider ile takipçiler arasındaki ilişkiye ve duruma göre davranış değiştirmeye dayanır, bu özel koşulla ilişkilendirilmemiştir.",
+        "Doğru cevap; bu koşullar doğrudan liberal liderlik tarzı için belirtilmiştir.",
+        "Yanlış; dönüşümcü liderlik değişim ve yenilikçilik esasına dayanır, bu özel koşulla ilişkilendirilmemiştir.",
+        "Yanlış; stratejik liderlik uzun vadeli planlama ve dönüşümle ilgilidir, bu tanım ona atfedilmemiştir.",
+        "Yanlış; demokratik liderlik paylaşımcı karar almaya dayanır, bu özel koşulla ilişkilendirilmemiştir."
+      ]
+    },
+    {
+      "id": "w5q10",
+      "question": "------- , enformasyon, ikna ve uyum aracılığıyla; organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir. Boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "options": [
+        "Pazarlama",
+        "Strateji",
+        "Halkla ilişkiler",
+        "Medya",
+        "İtibar yönetimi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu tanım Edward Bernays'e ait halkla ilişkiler tanımıdır: halkla ilişkiler, enformasyon, ikna ve uyum aracılığıyla organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesi olarak tanımlanır.",
+      "optionNotes": [
+        "Pazarlama, ürün/hizmetlerin satışını hedefleyen farklı bir yönetim fonksiyonudur; bu tanımla doğrudan ilgili değildir.",
+        "Strateji bir amaca ulaşmak için izlenen yoldur; tanımdaki kamunun desteğini kazanma denemesi doğrudan halkla ilişkilere aittir.",
+        "Doğru. Edward Bernays'in halkla ilişkiler tanımı tam olarak bu şekildedir.",
+        "Medya, halkla ilişkilerin kullandığı bir araçtır; tanımın öznesi olan kavram değildir.",
+        "İtibar yönetimi halkla ilişkilerin bir sonucu olabilir ama bu tanım doğrudan 'halkla ilişkiler' kavramına aittir."
+      ]
+    },
+    {
+      "id": "w5q11",
+      "question": "I. Sosyo-kültürel farklar II. Bilgi düzeyi III. Konuşma yetersizliği IV. Dinleme yetersizliği V. Gürültü Yandakilerden hangileri iletişimi engelleyen faktörler arasında yer alır?",
+      "options": [
+        "I ve II",
+        "I, II ve III",
+        "II, III ve IV",
+        "I, II, III ve V",
+        "I, II, III, IV ve V"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sosyo-kültürel farklar, bilgi düzeyi, konuşma yetersizliği ve dinleme yetersizliği psiko-sosyal iletişim engelleri arasında sayılırken, gürültü de fiziksel ve teknik engeller arasında yer alır; dolayısıyla beşi de iletişimi engelleyen faktörlerdendir.",
+      "optionNotes": [
+        "Sadece I ve II'yi seçmek eksiktir; konuşma/dinleme yetersizliği ve gürültü de engel olarak sayılmıştır.",
+        "I, II ve III doğru unsurlar olsa da IV ve V'in dışarıda bırakılması listeyi eksik yapar.",
+        "II, III ve IV doğru olsa da I (sosyo-kültürel farklar) ve V (gürültü) de engel olarak geçer, bu seçenek eksiktir.",
+        "I, II, III ve V doğru olsa da IV (dinleme yetersizliği) de ayrıca engel olarak sayıldığından bu seçenek eksiktir.",
+        "Doğru. Sayılan beş unsurun tümü (sosyo-kültürel farklar, bilgi düzeyi, konuşma yetersizliği, dinleme yetersizliği, gürültü) iletişimi engelleyen faktörler arasında yer almaktadır."
+      ]
+    },
+    {
+      "id": "w5q12",
+      "question": "Kitle iletişim araçları yoluyla elde edilen mesajları çözümleme, değerlendirme ve iletme yeteneğine ne ad verilir?",
+      "options": [
+        "İnternet erişimi",
+        "Online okuma",
+        "Medya okuryazarlığı",
+        "Web tasarımı",
+        "Digital gelişim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taşkıran'ın (2007) tanımına göre medya okuryazarlığı, kitle iletişim araçları yoluyla elde edilen mesajları çözümleme, değerlendirme ve iletme yeteneğidir.",
+      "optionNotes": [
+        "İnternet erişimi, medya okuryazarlığının sadece bir aracı olabilir ama tanımın kendisi değildir.",
+        "Online okuma, tanımda belirtilen çözümleme ve değerlendirme becerilerini kapsamayan dar bir kavramdır.",
+        "Doğru. Taşkıran'ın tanımı tam olarak medya okuryazarlığını ifade etmektedir.",
+        "Web tasarımı teknik bir üretim becerisidir, mesaj çözümleme/değerlendirme yeteneğiyle ilgisizdir.",
+        "Digital gelişim, bu tanımla örtüşmeyen genel bir kavramdır."
+      ]
+    },
+    {
+      "id": "w5q13",
+      "question": "Aşağıdakilerden hangisi yaptırımı itibariyle diğerlerinden farklıdır?",
+      "options": [
+        "Görgü kuralları",
+        "Din kuralları",
+        "Hukuk kuralları",
+        "Objektif ahlak kuralları",
+        "Sübjektif ahlak kuralları"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hukuk kuralları, diğer toplumsal düzen kurallarından (görgü, din, ahlak) farklı olarak devletin cebir gücüyle desteklenen maddi yaptırımlara sahiptir. Görgü, din ve ahlak kurallarının yaptırımları ise sadece manevidir (kınama, ayıplama, vicdan azabı gibi). Bu nedenle hukuk kuralları, yaptırımın niteliği bakımından diğer dört seçenekten ayrılır.",
+      "optionNotes": [
+        "Görgü kuralları manevi yaptırımlıdır (kınama, ayıplama); hukuk kuralları gibi maddi/cebri bir yaptırıma sahip değildir.",
+        "Din kuralları manevi yaptırımlıdır; hukuk kuralından farklı olarak devlet gücüyle cebren uygulanamaz.",
+        "Doğru cevap: Hukuk kuralları, devletin cebir gücüyle desteklenen maddi yaptırıma sahip olması bakımından diğer üç kural türünden ayrılır.",
+        "Objektif ahlak kuralları toplumun kişiye yönelik ahlaki yargılarıdır, yaptırımı manevi (kınama, dışlanma) niteliktedir.",
+        "Sübjektif ahlak kuralları kişinin kendi ahlak algısına dayanır, yaptırımı manevi (vicdan azabı) niteliktedir."
+      ]
+    },
+    {
+      "id": "w5q14",
+      "question": "1982 Anayasasına göre Devlet organları arasında belirtilen ve Türk Milleti adına Bağımsız ve tarafsız mahkemelerce kullanılan yetkiyi ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Yürütme",
+        "Adalet",
+        "Denetleme",
+        "Yasama",
+        "Yargı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Anayasa'nın 9. maddesine göre yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır. Yargı, Anayasa'da güçler ayrılığı ilkesi çerçevesinde tanımlanan üç temel devlet organından (yasama, yürütme, yargı) biridir.",
+      "optionNotes": [
+        "Yürütme, Cumhurbaşkanı tarafından kullanılan yetkidir; mahkemelerle ilgili değildir.",
+        "Adalet, ayrı bir devlet organı olarak tanımlanmamıştır.",
+        "Denetleme, güçler ayrılığı ilkesinde ayrı bir devlet organı olarak geçmemektedir.",
+        "Yasama, TBMM tarafından kullanılan yetkidir; mahkemelerle ilgili değildir.",
+        "Doğru cevap: Yargı, Anayasa'ya göre bağımsız ve tarafsız mahkemelerce Türk Milleti adına kullanılan yetkidir."
+      ]
+    },
+    {
+      "id": "w5q15",
+      "question": "Aşağıdakilerden hangisi hukukta yaptırım türlerinden biri değildir?",
+      "options": [
+        "Cebri icra",
+        "Hükümsüzlük",
+        "Ayıplama",
+        "Tazminat",
+        "Ceza"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hukukta altı temel yaptırım türü vardır: cebri icra, tazminat, geçersizlik (hükümsüzlük), ceza, yokluk ve iptal. Ayıplanma ise hukuk kurallarının değil, görgü kurallarının ihlali sonucunda ortaya çıkan toplumsal/manevi bir tepkidir, dolayısıyla resmi bir hukuki yaptırım türü değildir.",
+      "optionNotes": [
+        "Cebri icra hukukun yaptırım türlerinden biridir (zorla yerine getirme).",
+        "Hükümsüzlük (geçersizlik) hukukun yaptırım türlerinden biridir.",
+        "Doğru cevap: Ayıplama, görgü kurallarının ihlalinde ortaya çıkan manevi/toplumsal bir tepkidir; hukukun resmi yaptırım türleri arasında sayılmaz.",
+        "Tazminat hukukun yaptırım türlerinden biridir (zararın giderilmesi).",
+        "Ceza hukukun yaptırım türlerinden biridir."
+      ]
+    },
+    {
+      "id": "w5q16",
+      "question": "Spor hukukunun süjelerinden hangisi tüzel kişiliğe sahiptir?",
+      "options": [
+        "Gençlik ve Spor Bakanlığı",
+        "Antrenörler",
+        "Hakemler",
+        "Sporcular",
+        "Spor yöneticisi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gençlik ve Spor Bakanlığı, spor hukukunun tüzel kişi süjelerinden biri olarak sayılır; antrenörler, hakemler, sporcular ve spor yöneticileri ise gerçek kişi süjelerdir.",
+      "optionNotes": [
+        "Doğru cevap: Gençlik ve Spor Bakanlığı, tüzel kişi süjeler arasında sayılmıştır.",
+        "Antrenörler gerçek kişi süjedir.",
+        "Hakemler gerçek kişi süjedir.",
+        "Sporcular gerçek kişi süjedir.",
+        "Spor yöneticisi gerçek kişi süjedir."
+      ]
+    },
+    {
+      "id": "w5q17",
+      "question": "Aşağıdakilerden hangisi hukukun yazılı kaynakları arasında yer almaz?",
+      "options": [
+        "Kanunlar",
+        "Örf Adet",
+        "Yönetmelik",
+        "Milletlerarası Antlaşmalar",
+        "Cumhurbaşkanlığı Kararnamesi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hukukun yazılı kaynakları Anayasa, Kanunlar, Milletlerarası Antlaşmalar, Cumhurbaşkanlığı Kararnameleri ve Yönetmeliklerden oluşur. Örf ve adet hukuku ise yazısız (yardımcı/tali) bir kaynaktır ve yazılı kaynaklarda hüküm bulunmadığında başvurulur.",
+      "optionNotes": [
+        "Kanunlar, hukukun yazılı kaynaklarından biridir.",
+        "Doğru cevap: Örf Adet, yazısız bir kaynaktır; yazılı kaynaklar arasında yer almaz.",
+        "Yönetmelik, hukukun yazılı kaynaklarından biridir.",
+        "Milletlerarası Antlaşmalar, hukukun yazılı kaynaklarından biridir.",
+        "Cumhurbaşkanlığı Kararnamesi, hukukun yazılı kaynaklarından biridir."
+      ]
+    },
+    {
+      "id": "w5q18",
+      "question": "Aşağıdakilerden hangisi, Türkiye’de 1922- 1936 yılları arasında faaliyet gösteren spor yönetimi dönemidir?",
+      "options": [
+        "BTGM Dönemi",
+        "TİCİ Dönemi",
+        "TSK Dönemi",
+        "GSGM Dönemi",
+        "BTSGM Dönemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Türkiye İdman Cemiyetleri İttifakı (TİCİ) Dönemi (1922-1936) tarihleri birebir eşleştirir; TİCİ, Cumhuriyet'in ilk özerk ve federatif ulusal spor yönetim örgütü olarak bu yıllar arasında faaliyet göstermiştir.",
+      "optionNotes": [
+        "BTGM Dönemi 1938-1986 yıllarını kapsar, 1922-1936 aralığıyla örtüşmez.",
+        "Doğru cevap: TİCİ Dönemi (1922-1936) tarih aralığıyla birebir örtüşür.",
+        "TSK (Türk Spor Kurumu) Dönemi 1936-1938 arasını kapsar, soruda belirtilen 1922-1936 aralığından farklıdır.",
+        "GSGM Dönemi çok daha sonraki bir tarihte (1986 sonrası) ortaya çıkmıştır.",
+        "BTSGM gibi bir dönem adı kaynaklarda geçmemektedir; bu seçenek kurgusal bir seçenektir."
+      ]
+    },
+    {
+      "id": "w5q19",
+      "question": "İleriyi görmek ile ilgili yönetim işlevi aşağıdakilerden hangisidir ?",
+      "options": [
+        "Eğitim",
+        "Program",
+        "Planlama",
+        "Yürütme",
+        "Denetim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planlama; ileriyi görmek, bir başka deyimle, belirli bir hareketi yürütme sırasında değil, önceden kararlaştırmak olarak tanımlanır. Bu nedenle ileriyi görmek doğrudan planlama işlevine karşılık gelir.",
+      "optionNotes": [
+        "Eğitim, yönetim süreçlerinden biri değil, Yetiştirme ilkesiyle ilişkili bir kavramdır; ileriyi görmekle doğrudan tanımlanmaz.",
+        "Program, planlamanın bir çıktısı olabilir ama ileriyi görmek tanımı doğrudan planlamaya yapılır.",
+        "Doğru cevap: Planlama, açıkça ileriyi görmek olarak tanımlanmıştır.",
+        "Yürütme, planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesidir, geleceği önceden görmekle ilgili değildir.",
+        "Denetim, sonuçları amaçlarla karşılaştırma ve düzeltme sürecidir; ileriye dönük öngörüyle değil, geçmişe dönük kontrolle ilgilidir."
+      ]
+    },
+    {
+      "id": "w5q20",
+      "question": "Aşağıdakilerden hangisi muhasebe bölümünün gerçekleştirmesi gereken faaliyetlerden biri değildir?",
+      "options": [
+        "Yeni pazar araştırması yapmak",
+        "Mali durum tablolarını hazırlamak",
+        "Yapılan işlerin kayıtlarını tutmak",
+        "İşletme bütçesini hazırlamak",
+        "Üretilen mal ve hizmetlerin maliyetlerini hesaplamak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muhasebe bölümünün görevleri arasında kayıt tutma, mali durum tablosu hazırlama, maliyet hesaplama ve bütçe hazırlama sayılır. Yeni pazar araştırması yapmak ise pazarlama ve Ar-Ge işlevlerinin alanına girer, muhasebenin görevleri arasında yer almaz.",
+      "optionNotes": [
+        "Doğru yanıt (muhasebe görevi değildir): Pazar araştırması yapmak pazarlama/Ar-Ge işlevine aittir, muhasebenin görevleri arasında sayılmaz.",
+        "Yanlış (bu bir muhasebe görevidir): Mali durum tablolarını hazırlamak açıkça muhasebe bölümünün görevi olarak belirtilir.",
+        "Yanlış (bu bir muhasebe görevidir): Yapılan işlerin kayıtlarını tutmak muhasebenin temel ve birincil işlevidir.",
+        "Yanlış (bu bir muhasebe görevidir): İşletme bütçesini hazırlamak muhasebe bölümünün görevleri arasında sayılır.",
+        "Yanlış (bu bir muhasebe görevidir): Üretilen mal ve hizmetlerin maliyetlerini hesaplamak muhasebenin görevlerinden biridir."
+      ]
+    }
+  ]
+}
