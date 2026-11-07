@@ -1,0 +1,384 @@
+{
+  "course": "psiko1",
+  "unit_index": 5,
+  "topic": "Sporda Koruma",
+  "questions": [
+    {
+      "question": "Beden Eğitimi ve Spor Uluslararası Şartını yayınlayan kuruluş aşağıdakilerden hangisidir?",
+      "options": ["UNESCO", "UNİCEF", "IOC", "WHO", "İMF"],
+      "correctIndex": 0,
+      "explanation": "UNESCO (Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü), beden eğitimi ve sporu temel bir insan hakkı olarak güvence altına almak amacıyla 1978 yılında Paris'te toplanan Genel Konferansında \"Beden Eğitimi ve Spor Uluslararası Şartı\"nı yayımlamıştır. Bu şart, sporun eğitim ve kültürel boyutunu öne çıkaran, UNESCO'nun görev alanına giren bir belgedir.",
+      "optionNotes": [
+        "Doğru yanıt: Beden Eğitimi ve Spor Uluslararası Şartı, eğitim, bilim ve kültür alanında yetkili BM kuruluşu olan UNESCO tarafından 1978'de yayımlanmıştır.",
+        "UNİCEF çocuk hakları ve çocuğun korunmasına odaklanan bir BM kuruluşudur; beden eğitimi ve spor şartını yayımlayan kuruluş değildir, bu konu UNESCO'nun görev alanına girer.",
+        "IOC (Uluslararası Olimpiyat Komitesi) olimpik hareketi ve olimpiyat oyunlarını yönetir; eğitim ve kültür temelli bu şartı yayımlama yetkisi UNESCO'ya aittir.",
+        "WHO (Dünya Sağlık Örgütü) sağlık alanında çalışan bir BM kuruluşudur; bu şart sağlık değil eğitim-kültür eksenli olduğundan WHO tarafından yayımlanmamıştır.",
+        "İMF (Uluslararası Para Fonu) ekonomik ve mali işlerle ilgilenen bir kuruluştur, spor veya eğitimle ilgili bir şart yayımlamamıştır."
+      ]
+    },
+    {
+      "question": "UNESCO, Beden Eğitimi ve Spor Uluslararası Şartını kaç yılında yayınlamıştır?",
+      "options": ["1958", "1968", "1978", "1988", "1998"],
+      "correctIndex": 2,
+      "explanation": "UNESCO, Beden Eğitimi ve Spor Uluslararası Şartı'nı 1978 yılında Paris'teki Genel Konferansında kabul ederek yayımlamıştır. Bu tarih, sporun uluslararası düzeyde bir insan hakkı olarak tanınmasının önemli dönüm noktalarından biridir.",
+      "optionNotes": [
+        "Şartın yayımlandığı tarih 1978'dir; 1958 bu tarihten yirmi yıl öncesine denk gelir ve UNESCO'nun ilgili genel konferans döneminden değildir.",
+        "1968, şartın kabul tarihinden on yıl öncesine işaret eder; bu yıl UNESCO'nun beden eğitimi ve spor şartını yayımladığı tarih değildir.",
+        "Doğru yanıt: UNESCO, Beden Eğitimi ve Spor Uluslararası Şartı'nı 1978 yılında yayımlamıştır.",
+        "1988 yılı şartın kabulünden on yıl sonrasına denk gelir ve bu tarihte yayımlanma söz konusu değildir.",
+        "1998, şartın yayımlanmasından yirmi yıl sonrasına ait bir tarihtir ve doğru yayım yılını yansıtmaz."
+      ]
+    },
+    {
+      "question": "BM Çocuk Hakları Sözleşmesinin 1. maddesine göre kaç yaşına kadar her insan çocuk sayılır?",
+      "options": ["12", "14", "16", "18", "20"],
+      "correctIndex": 3,
+      "explanation": "Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin 1. maddesine göre, \"daha erken yaşta reşit olma durumu hariç, on sekiz yaşına kadar her insan çocuk sayılır.\" Bu tanım, sözleşmenin uygulama alanını belirleyen temel yaş sınırıdır.",
+      "optionNotes": [
+        "12 yaşı, sözleşmede çocukluk sınırı olarak belirtilmemiştir; bu yaş bazı ulusal düzenlemelerde farklı bağlamlarda geçebilir ama CRC'nin tanımı değildir.",
+        "14 yaşı bazı ülkelerde evlilik veya çalışma yaşı sınırlamalarıyla karıştırılabilir, ancak BM Çocuk Hakları Sözleşmesi'nin 1. maddesindeki çocukluk sınırı değildir.",
+        "16 yaşı bazı ülkelerde sürücü belgesi veya rıza yaşı gibi konularla ilişkilendirilebilir; sözleşmenin öngördüğü üst sınır değildir.",
+        "Doğru yanıt: Sözleşmenin 1. maddesi, erken reşit olma hali dışında on sekiz yaşına kadar her bireyi çocuk olarak tanımlar.",
+        "20 yaşı sözleşmede belirtilen sınırın üzerindedir; çoğu hukuk sisteminde zaten erişkinlik yaşı aşılmış olur, bu nedenle yanlıştır."
+      ]
+    },
+    {
+      "question": "Çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişim yoluyla bireyin kendisi, başkaları ve çevre ile ilişkili olarak kendine özgü potansiyelini geliştirmesi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": ["Çocuk esenliği", "Çocuk koruma", "Çocuk", "Çocuk istismarı", "Güvenli spor"],
+      "correctIndex": 0,
+      "explanation": "Çocuk esenliği, çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişimi yoluyla; kendisi, başkaları ve çevresiyle ilişkili olarak kendine özgü potansiyelini gerçekleştirmesini ifade eden kavramdır. Bu tanım, çocuğun bütüncül gelişimini ve öznel iyi olma halini merkeze alır.",
+      "optionNotes": [
+        "Doğru yanıt: Çocuk esenliği, çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişim yoluyla kendine özgü potansiyelini geliştirmesini ifade eder.",
+        "Çocuk koruma, çocuğun haklarının güvence altına alınması ve zarar görmesinin önlenmesiyle ilgili süreçleri ifade eder; esenlik tanımındaki 'potansiyelini geliştirme' vurgusunu taşımaz.",
+        "Çocuk, burada tanımlanan gelişim sürecinin öznesi olan kişiyi ifade eden genel bir terimdir, sorudaki esenlik kavramının kendisi değildir.",
+        "Çocuk istismarı, çocuğa zarar veren olumsuz davranışları ifade eder; sorudaki olumlu gelişim ve potansiyel tanımıyla doğrudan terstir.",
+        "Güvenli spor, spor ortamlarının çocuk için risksiz hale getirilmesiyle ilgili bir kavramdır; esenliğin genel gelişim tanımını kapsayan bir ifade değildir."
+      ]
+    },
+    {
+      "question": "Çocuğun yaşama, gelişme, korunma ve katılım haklarının güvence altına alınarak, çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişiminde çocuğun yarar ve esenliğinin gözetilmesi anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": ["Çocuk esenliği", "Çocuk koruma", "Çocuk", "Çocuk istismarı", "Güvenli spor"],
+      "correctIndex": 1,
+      "explanation": "Çocuk koruma; çocuğun yaşama, gelişme, korunma ve katılım haklarının güvence altına alınmasını, bu süreçte çocuğun yararı ve esenliğinin gözetilmesini ifade eden kavramdır. Esenlik kavramından farklı olarak burada hakların güvenceye alınması ve koruyucu tedbirler ön plandadır.",
+      "optionNotes": [
+        "Çocuk esenliği, çocuğun kendi potansiyelini geliştirmesine odaklanan bir kavramdır; sorudaki hakların güvence altına alınması vurgusu çocuk koruma kavramına aittir.",
+        "Doğru yanıt: Çocuk koruma, çocuğun yaşama, gelişme, korunma ve katılım haklarının güvenceye alınarak yarar ve esenliğinin gözetilmesini ifade eder.",
+        "Çocuk, burada korunan öznenin genel adıdır; tanımlanan koruma sürecinin kendisini karşılamaz.",
+        "Çocuk istismarı, çocuğa yönelik zarar verici eylemleri tanımlar; sorudaki koruyucu ve hak temelli tanımla içerik olarak çelişir.",
+        "Güvenli spor, daha spesifik olarak spor ortamındaki güvenliği ifade eder; sorudaki genel hak temelli koruma tanımını tam karşılamaz."
+      ]
+    },
+    {
+      "question": "Çocuk koruma kavramını; çocuklara yapılan her türlü şiddet, istismar, ihmal, sömürü ve taciz olaylarını engelleme ve bu olaylara kısa sürede yanıt verip müdahale etme olarak tanımlayan kuruluş aşağıdakilerden hangisidir?",
+      "options": ["UNESCO", "UNİCEF", "IOC", "WHO", "İMF"],
+      "correctIndex": 1,
+      "explanation": "UNICEF, çocuk korumayı; çocuklara yönelik her türlü şiddet, istismar, ihmal, sömürü ve tacizi önleme ve bu olaylara hızla yanıt verip müdahale etme olarak tanımlar. UNICEF'in görev alanı doğrudan çocuk hakları ve refahı olduğundan bu tanım UNICEF'e aittir.",
+      "optionNotes": [
+        "UNESCO eğitim, bilim ve kültür alanında çalışır; çocuk istismarını önleme ve müdahaleye odaklanan bu tanım UNESCO'nun değil UNICEF'in tanımıdır.",
+        "Doğru yanıt: UNICEF, çocuk korumayı şiddet, istismar, ihmal, sömürü ve tacizi önleme ve bunlara müdahale etme olarak tanımlamıştır.",
+        "IOC olimpik spor yönetimiyle ilgilenir; çocuk istismarına yönelik bu kapsamlı önleme-müdahale tanımı IOC'ye değil UNICEF'e aittir.",
+        "WHO sağlık odaklı bir kuruluştur ve istismar tiplerini sağlık perspektifinden sınıflandırır, ancak sorudaki önleme-müdahale tanımı UNICEF'in çocuk koruma tanımıdır.",
+        "İMF mali ve ekonomik konularla ilgilenen bir kuruluştur, çocuk koruma tanımı yapmaz."
+      ]
+    },
+    {
+      "question": "……………..dünyanın öncü çocuk hakları savunucusudur. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": ["UNESCO", "IOC", "WHO", "İMF", "UNİCEF"],
+      "correctIndex": 4,
+      "explanation": "UNICEF (Birleşmiş Milletler Çocuklara Yardım Fonu), kuruluş amacı ve faaliyet alanı itibarıyla dünya çapında çocuk haklarının savunulması ve geliştirilmesi konusunda öncü rol üstlenen BM kuruluşudur.",
+      "optionNotes": [
+        "UNESCO eğitim, bilim ve kültür alanında öncüdür; çocuk hakları savunuculuğunun asıl sahibi olan UNICEF ile karıştırılmamalıdır.",
+        "IOC spor ve olimpizm alanında yetkilidir, çocuk hakları savunuculuğu onun temel misyonu değildir.",
+        "WHO sağlık alanında öncü bir kuruluştur; çocuk haklarının genel savunuculuğu WHO'nun değil UNICEF'in rolüdür.",
+        "İMF ekonomik ve mali istikrarla ilgilenir, çocuk hakları savunuculuğuyla ilişkili bir kuruluş değildir.",
+        "Doğru yanıt: UNICEF, kuruluş misyonu gereği dünyanın öncü çocuk hakları savunucusu olarak kabul edilir."
+      ]
+    },
+    {
+      "question": "Avrupa Konseyi devlet ve hükümet başkanları tarafından Varşova’daki 3. Zirve Toplantısı kaç yılında yapılmıştır?",
+      "options": ["1994", "2000", "2005", "2009", "2015"],
+      "correctIndex": 2,
+      "explanation": "Avrupa Konseyi devlet ve hükümet başkanlarının 3. Zirve Toplantısı, 2005 yılında Polonya'nın başkenti Varşova'da gerçekleştirilmiş ve bu zirvede çocuk haklarının korunmasına yönelik önemli kararlar alınmıştır.",
+      "optionNotes": [
+        "1994, Avrupa Konseyi'nin ilgili 3. Zirve Toplantısından önceki bir dönemdir ve bu zirveyle ilişkilendirilmez.",
+        "2000 yılı, Varşova Zirvesi'nin gerçekleştiği tarihten önceye denk gelir, bu zirvenin yapıldığı yıl değildir.",
+        "Doğru yanıt: Avrupa Konseyi'nin 3. Zirve Toplantısı 2005 yılında Varşova'da yapılmıştır.",
+        "2009, zirvenin gerçekleştiği tarihten sonraya ait bir yıldır ve bu toplantıyla ilgili doğru tarih değildir.",
+        "2015, sorulan 3. Zirve Toplantısının gerçekleştiği tarihten çok sonraya denk gelen yanlış bir yıldır."
+      ]
+    },
+    {
+      "question": "Lanzarote Sözleşmesi” olarak da bilinen Çocukların Cinsel Sömürü ve Cinsel İstismara Karşı Korunmasına ilişkin Avrupa Konseyi Sözleşmesi kaç yılında yürürlüğe girmiştir?",
+      "options": ["2007", "2010", "2013", "2016", "2019"],
+      "correctIndex": 1,
+      "explanation": "Lanzarote Sözleşmesi (Çocukların Cinsel Sömürü ve Cinsel İstismara Karşı Korunmasına İlişkin Avrupa Konseyi Sözleşmesi), 2007 yılında imzaya açılmış, gerekli onay sayısına ulaşılmasının ardından 1 Temmuz 2010 tarihinde uluslararası düzeyde yürürlüğe girmiştir.",
+      "optionNotes": [
+        "2007, sözleşmenin Lanzarote'de imzaya açıldığı yıldır; yürürlüğe giriş tarihiyle karıştırılmamalıdır, yürürlük için gereken onay süreci sonrasında 2010'a kadar beklenmiştir.",
+        "Doğru yanıt: Lanzarote Sözleşmesi, gerekli onaylar tamamlandıktan sonra 2010 yılında uluslararası düzeyde yürürlüğe girmiştir.",
+        "2013, sözleşmenin yürürlüğe giriş tarihinden sonraki bir yıldır ve bu tarih yanlıştır.",
+        "2016, sözleşmenin yürürlüğe girmesinden yıllar sonrasına denk gelir, doğru yürürlük tarihi değildir.",
+        "2019, sözleşmenin yürürlüğe giriş tarihinden çok sonraya ait olup bu soruyla ilgili doğru yanıt değildir."
+      ]
+    },
+    {
+      "question": "Türkiye’de “Lanzarote Sözleşmesi” kaç yılında yürürlüğe girmiştir?",
+      "options": ["2005", "2008", "2011", "2014", "2017"],
+      "correctIndex": 2,
+      "explanation": "Türkiye, Lanzarote Sözleşmesi'ni onaylayarak kendi iç hukukunda 2011 yılında yürürlüğe koymuştur; bu tarih, sözleşmenin uluslararası yürürlüğe giriş tarihi olan 2010'dan kısa bir süre sonrasına denk gelmektedir.",
+      "optionNotes": [
+        "2005, Lanzarote Sözleşmesi'nin henüz ortaya çıkmadığı bir tarihtir (sözleşme 2007'de imzaya açılmıştır), bu nedenle Türkiye için de yürürlük tarihi olamaz.",
+        "2008, sözleşmenin uluslararası düzeyde henüz yürürlüğe girmediği (2010) bir tarihtir, dolayısıyla Türkiye'de de bu tarihte yürürlükte olması mümkün değildir.",
+        "Doğru yanıt: Türkiye'de Lanzarote Sözleşmesi 2011 yılında yürürlüğe girmiştir.",
+        "2014, Türkiye'nin sözleşmeyi yürürlüğe koyduğu tarihten sonraki bir yıl olup doğru tarih değildir.",
+        "2017, gerçek yürürlük tarihinden önemli ölçüde sonraya ait yanlış bir tarihtir."
+      ]
+    },
+    {
+      "question": "Lanzarote Sözleşmesi’nin kaçıncı maddesinde “Taraflardan her birinin çocukların her tür cinsel sömürüsünü ve istismarını engellemek ve çocukları korumak için gerekli yasal ve diğer önlemleri alacağını” ortaya koymaktadır?",
+      "options": ["2.", "4.", "6.", "8.", "10."],
+      "correctIndex": 1,
+      "explanation": "Lanzarote Sözleşmesi'nin 4. maddesi, taraf devletlerin çocukların her türlü cinsel sömürü ve istismarını engellemek ve çocukları korumak için gerekli yasal ve diğer tedbirleri alacağını düzenleyen temel ilke maddesidir.",
+      "optionNotes": [
+        "2. madde sözleşmenin tanımlar veya kapsam gibi giriş niteliğindeki hükümlerine ayrılmıştır, önleme yükümlülüğünü düzenleyen madde değildir.",
+        "Doğru yanıt: Taraf devletlerin cinsel istismarı önleme ve çocukları koruma yükümlülüğü sözleşmenin 4. maddesinde düzenlenmiştir.",
+        "6. madde sözleşmede farklı bir konuyu ele alır, önleme yükümlülüğünün temel maddesi değildir.",
+        "8. madde sözleşmenin ilerleyen bölümlerinde yer alan farklı bir koruma tedbirine ilişkindir, sorudaki genel önleme yükümlülüğü maddesi değildir.",
+        "10. madde sözleşmede kurumsal/koordinasyon tedbirleriyle ilişkili farklı bir hükümdür, önleme yükümlülüğünü düzenleyen 4. madde ile karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Sporda Genişletilmiş Kısmi Anlaşma (EPAS) hangi kuruluş tarafından imzalanmıştır?",
+      "options": ["Birleşmiş Milletler", "Avrupa Birliği", "Avrupa Konseyi", "UNESCO", "UNİCEF"],
+      "correctIndex": 2,
+      "explanation": "Sporda Genişletilmiş Kısmi Anlaşma (EPAS), Avrupa Konseyi bünyesinde oluşturulmuş; spor politikalarında hükümetler arası iş birliğini geliştirmeyi amaçlayan bir anlaşmadır.",
+      "optionNotes": [
+        "Birleşmiş Milletler, EPAS'ı oluşturan kuruluş değildir; EPAS doğrudan Avrupa Konseyi'nin bir organıdır.",
+        "Avrupa Birliği, Avrupa Konseyi'nden farklı bir uluslarüstü kuruluştur; EPAS'ı imzalayan taraf Avrupa Konseyi'dir, Avrupa Birliği değildir.",
+        "Doğru yanıt: EPAS, Avrupa Konseyi tarafından imzalanmış bir genişletilmiş kısmi anlaşmadır.",
+        "UNESCO eğitim, bilim ve kültür alanında çalışan bir BM kuruluşudur; EPAS ile doğrudan bir ilgisi yoktur.",
+        "UNİCEF çocuk hakları ve refahı alanında çalışır; sporda hükümetler arası iş birliğini düzenleyen EPAS'ın tarafı değildir."
+      ]
+    },
+    {
+      "question": "Türkiye, Sporda Genişletilmiş Kısmi Anlaşma (EPAS)’A kaç yılında katılmıştır?",
+      "options": ["2016", "2017", "2018", "2019", "2020"],
+      "correctIndex": 4,
+      "explanation": "Türkiye, Sporda Genişletilmiş Kısmi Anlaşma'ya (EPAS) 2020 yılında katılım sağlamış ve bu anlaşma çerçevesinde Avrupa Konseyi'nin spor alanındaki iş birliği mekanizmalarına taraf olmuştur.",
+      "optionNotes": [
+        "2016, Türkiye'nin EPAS'a katılım tarihinden önceki bir yıldır, doğru katılım tarihi değildir.",
+        "2017 yılı da Türkiye'nin gerçek katılım tarihinden öncesine denk gelmektedir.",
+        "2018, EPAS'a katılımın gerçekleştiği tarihten önceki bir yıl olup yanlıştır.",
+        "2019, Türkiye'nin EPAS'a katıldığı yıldan bir önceki yıldır, doğru tarih değildir.",
+        "Doğru yanıt: Türkiye, EPAS'a 2020 yılında katılmıştır."
+      ]
+    },
+    {
+      "question": "Türkiye, Birleşmiş Milletler Genel Kurulu tarafından çıkarılan Çocuk Haklarına Dair Sözleşmeyi kaç yılında imzalamıştır?",
+      "options": ["1990", "1992", "1994", "1996", "1998"],
+      "correctIndex": 0,
+      "explanation": "Türkiye, Birleşmiş Milletler Genel Kurulu tarafından 1989'da kabul edilen Çocuk Haklarına Dair Sözleşme'yi 1990 yılında imzalamış, sözleşmeyi 1995 yılında onaylayarak iç hukukuna dahil etmiştir.",
+      "optionNotes": [
+        "Doğru yanıt: Türkiye, Çocuk Haklarına Dair Sözleşme'yi 1990 yılında imzalamıştır.",
+        "1992, Türkiye'nin sözleşmeyi imzaladığı tarihten sonraki bir yıldır, imza tarihi olarak doğru değildir.",
+        "1994, imza tarihinden sonraya denk gelen ve onay sürecine daha yakın bir tarihtir, imza yılı değildir.",
+        "1996, sözleşmenin Türkiye tarafından onaylanmasından (1995) bile sonraki bir tarih olup imza yılıyla ilgisi yoktur.",
+        "1998, sözleşmenin imzalanmasından yıllar sonrasına ait olup doğru imza tarihini yansıtmaz."
+      ]
+    },
+    {
+      "question": "Türkiye’de çocuk haklarından sorumlu olan bakanlık aşağıdakilerden hangisidir?",
+      "options": ["Aile, Çalışma ve Sosyal Hizmetler Bakanlığı", "Sağlık Bakanlığı", "Gençlik Ve Spor Bakanlığı", "Milli Eğitim Bakanlığı", "İç İşleri Bakanlığı"],
+      "correctIndex": 0,
+      "explanation": "Türkiye'de çocuk haklarından ve çocuğun korunmasına yönelik politikaların yürütülmesinden esas olarak Aile, Çalışma ve Sosyal Hizmetler Bakanlığı (günümüzde Aile ve Sosyal Hizmetler Bakanlığı) sorumludur; bu bakanlık çocuk koruma hizmetlerini, sosyal hizmet merkezlerini ve ilgili mevzuatı koordine eder.",
+      "optionNotes": [
+        "Doğru yanıt: Çocuk haklarından sorumlu temel bakanlık Aile, Çalışma ve Sosyal Hizmetler Bakanlığı'dır.",
+        "Sağlık Bakanlığı çocuğun sağlık hizmetlerinden sorumludur ancak çocuk hakları politikalarının genel koordinasyonu bu bakanlığa ait değildir.",
+        "Gençlik ve Spor Bakanlığı spor politikaları ve gençlik hizmetleriyle ilgilenir; çocuk haklarının genel sorumluluğu bu bakanlıkta değil Aile, Çalışma ve Sosyal Hizmetler Bakanlığı'ndadır.",
+        "Milli Eğitim Bakanlığı eğitim alanından sorumludur; çocuk haklarının genel koordinasyonundan sorumlu asıl kurum değildir.",
+        "İçişleri Bakanlığı kolluk ve güvenlik hizmetlerinden sorumludur; çocuk haklarının genel politikalarının yürütülmesi bu bakanlığın asıl görev alanı değildir."
+      ]
+    },
+    {
+      "question": "Uluslararası Beden Eğitimi ve Spor Şartı hangi şehirdeki BM genel kurulunda kabul edilmiştir?",
+      "options": ["Paris", "Viyana", "Brüksel", "Londra", "Roma"],
+      "correctIndex": 0,
+      "explanation": "Uluslararası Beden Eğitimi ve Spor Şartı, UNESCO'nun merkezi olan Paris'teki Genel Konferansında kabul edilmiştir; UNESCO'nun genel kurul toplantıları geleneksel olarak Paris'te gerçekleştirilir.",
+      "optionNotes": [
+        "Doğru yanıt: Şart, UNESCO'nun Paris'teki genel konferansında kabul edilmiştir.",
+        "Viyana, çeşitli BM kuruluşlarının toplantılarına ev sahipliği yapsa da, bu şartın kabul edildiği şehir değildir.",
+        "Brüksel, Avrupa Birliği kurumlarının merkezi olarak bilinir; UNESCO'nun genel konferansının yapıldığı şehir değildir.",
+        "Londra, bu şartın kabul edildiği UNESCO genel konferansının gerçekleştiği şehir değildir.",
+        "Roma, bu şartın kabulüyle ilişkilendirilen bir şehir değildir; UNESCO merkezi ve genel konferans şehri Paris'tir."
+      ]
+    },
+    {
+      "question": "I. Alkol veya bağımlılık yaratan madde kullanımı için akran baskısı II. Genç sporcuların yaralanmasına rağmen oyundan çıkarılmaması III. Fiziksel egzersizin ceza olarak kullanılması IV. Yeterli dinlenme ve bakım vermemek Yukarıdakilerden hangileri UNICEF spor alanında olabilecek istismar biçimleri arasında yer alır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "I –II – III", "I – II – III – IV"],
+      "correctIndex": 4,
+      "explanation": "UNICEF'in spor alanındaki istismar biçimleri sınıflandırmasında; akran baskısıyla alkol/madde kullanımı, yaralanmaya rağmen oyuncunun oyundan çıkarılmaması, fiziksel egzersizin cezalandırma aracı olarak kullanılması ve yetersiz dinlenme/bakım sağlanması gibi durumların tümü istismar biçimi olarak kabul edilmektedir; bu nedenle I, II, III ve IV'ün hepsi doğrudur.",
+      "optionNotes": [
+        "Yalnız I seçeneği, II, III ve IV'teki durumların da UNICEF tarafından istismar biçimi olarak kabul edildiğini göz ardı eder; liste eksik değerlendirilmiştir.",
+        "Yalnız II seçeneği diğer üç durumu (akran baskısı, ceza amaçlı egzersiz, yetersiz bakım) dışarıda bırakır, oysa bunlar da istismar kapsamındadır.",
+        "I-II seçeneği, egzersizin ceza olarak kullanılması (III) ve yetersiz dinlenme/bakım (IV) gibi UNICEF'in de istismar saydığı durumları kapsam dışı bırakmaktadır.",
+        "Bu seçenek IV numaralı durumu, yani yetersiz dinlenme ve bakım verilmemesini listeye dahil etmez; oysa bu da UNICEF'in istismar sınıflandırmasında yer alır.",
+        "Doğru yanıt: UNICEF'e göre akran baskısı, yaralı sporcunun oyundan çıkarılmaması, egzersizin ceza olarak kullanılması ve yetersiz bakım/dinlenme, istismarın dört biçimi olarak I-II-III-IV'ün tümünü kapsar."
+      ]
+    },
+    {
+      "question": "Uluslararası Spor Federasyonlarının…………………….. istismar sınıflandırmasını temel aldığı görülmektedir. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": ["Birleşmiş Milletler", "Avrupa Birliği", "Avrupa Konseyi", "UNESCO", "Dünya Sağlık Örgütü"],
+      "correctIndex": 4,
+      "explanation": "Uluslararası Spor Federasyonları, sporda istismarı sınıflandırırken genellikle Dünya Sağlık Örgütü'nün (WHO) geliştirdiği istismar tiplerini (fiziksel, cinsel, duygusal istismar ve ihmal) temel alır; bu sınıflandırma sağlık ve koruma alanında uluslararası kabul görmüş bir çerçevedir.",
+      "optionNotes": [
+        "Birleşmiş Milletler genel bir şemsiye kuruluştur; istismar tiplerinin somut sağlık temelli sınıflandırmasını yapan kuruluş onun alt birimlerinden biri olan WHO'dur.",
+        "Avrupa Birliği, sporda istismar sınıflandırmasının temel referans kaynağı değildir; bu sınıflandırma WHO'ya aittir.",
+        "Avrupa Konseyi, Lanzarote Sözleşmesi gibi hukuki çerçevelerle ilgilenir; istismar tiplerinin sağlık temelli sınıflandırmasını yapan kurum WHO'dur.",
+        "UNESCO eğitim, bilim ve kültür odaklıdır; istismar tiplerinin tıbbi/sağlık temelli sınıflandırması UNESCO'nun değil WHO'nun çalışmasıdır.",
+        "Doğru yanıt: Uluslararası Spor Federasyonları istismar sınıflandırmasında Dünya Sağlık Örgütü'nün (WHO) tiplendirmesini temel almaktadır."
+      ]
+    },
+    {
+      "question": "Dünya Sağlık Örgütüne göre kaç istismar tipi vardır?",
+      "options": ["2", "3", "4", "5", "6"],
+      "correctIndex": 2,
+      "explanation": "Dünya Sağlık Örgütü'ne göre çocuk istismarı dört temel tipte ele alınır: fiziksel istismar, cinsel istismar, duygusal (psikolojik) istismar ve ihmal. Bu dört tip, sporda çocuk koruma literatüründe de yaygın olarak kullanılan temel sınıflandırmadır.",
+      "optionNotes": [
+        "2 istismar tipi, WHO'nun sınıflandırmasının çok daha dar bir versiyonudur; WHO aslında dört farklı istismar tipini tanımlamaktadır.",
+        "3 istismar tipi eksik bir sayıdır; WHO sınıflandırmasında fiziksel, cinsel, duygusal istismar ve ihmal olmak üzere dört tip bulunur.",
+        "Doğru yanıt: WHO'ya göre istismar fiziksel, cinsel, duygusal istismar ve ihmal olmak üzere dört tiptir.",
+        "5 istismar tipi, WHO'nun tanımladığı dört temel kategoriden fazladır ve gerçek sayıyı yansıtmaz.",
+        "6 istismar tipi, WHO'nun klasik dörtlü sınıflandırmasının kapsamını aşan, gerçek sayıdan fazla bir değerdir."
+      ]
+    },
+    {
+      "question": "Çocuğun yaşamına, gelişimine, bedenine veya onuruna zarar veren ya da zarar verme ihtimali olan hareketlerde bulunma ve çocuğun kaza dışı her türlü yaralanmasına ne ad verilir?",
+      "options": ["Fiziksel istismar", "Cinsel istismar", "Duygusal istismar", "İhmal", "Güvenli spor"],
+      "correctIndex": 0,
+      "explanation": "Çocuğun yaşamına, gelişimine, bedenine ya da onuruna zarar veren veya verme ihtimali olan hareketler ile kazaya bağlı olmayan her türlü yaralanma, fiziksel istismar olarak tanımlanır. Bu tanım, istismarın bedensel zarar boyutuna doğrudan işaret eder.",
+      "optionNotes": [
+        "Doğru yanıt: Çocuğun bedenine kasıtlı/kaza dışı zarar veren davranışlar fiziksel istismar olarak tanımlanır.",
+        "Cinsel istismar, yetişkinin cinsel arzularını tatmin amacıyla çocuğu kullanmasını ifade eder; sorudaki bedensel yaralanma tanımı bu kategoriye değil fiziksel istismara aittir.",
+        "Duygusal istismar, çocuğun ruhsal/psikolojik bütünlüğüne yönelik zarar verici davranışları kapsar; sorudaki bedensel yaralanma tanımı duygusal değil fiziksel istismara girer.",
+        "İhmal, çocuğun temel gereksinimlerinin karşılanmaması, yani bir eylemsizlik durumunu ifade eder; sorudaki doğrudan bedensel zarar verme eylemi ihmalden farklı olarak fiziksel istismardır.",
+        "Güvenli spor, istismarın önlenmesine yönelik olumlu bir kavramdır; sorudaki zarar verici tanımla doğrudan ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Antrenmanların çocukların yaş ve fiziksel durumlarına göre planlanmaması hangi istismar türüne girmektedir?",
+      "options": ["Fiziksel istismar", "Cinsel istismar", "Duygusal istismar", "İhmal", "Güvenli spor"],
+      "correctIndex": 0,
+      "explanation": "Antrenmanların çocukların yaş grubuna ve fiziksel gelişim düzeyine uygun olarak planlanmaması, çocuğun bedenine zarar verme riski taşıdığından fiziksel istismar kapsamında değerlendirilir; bu durum aşırı yüklenme, sakatlanma ve gelişimsel zararlara yol açabilir.",
+      "optionNotes": [
+        "Doğru yanıt: Yaş ve fiziksel duruma uygun olmayan antrenman planlaması, bedensel zarara yol açabileceğinden fiziksel istismar olarak kabul edilir.",
+        "Cinsel istismar, cinsel içerikli zorlama ve sömürüyü ifade eder; antrenman planlamasındaki uygunsuzlukla doğrudan bir ilgisi yoktur.",
+        "Duygusal istismar, çocuğun psikolojik bütünlüğüne yönelik sözel/ilişkisel zarar vermeyi ifade eder; antrenman yükünün yanlış planlanması öncelikle bedensel zarar riski taşıdığından fiziksel istismardır.",
+        "İhmal, temel bakım ve gereksinimlerin karşılanmaması durumudur; burada söz konusu olan aktif olarak yanlış/zararlı bir antrenman uygulamasıdır, bu nedenle ihmalden çok fiziksel istismara girer.",
+        "Güvenli spor, risklerin en aza indirildiği ortamı ifade eder; sorudaki hatalı antrenman planlaması bunun tam tersi bir durumdur."
+      ]
+    },
+    {
+      "question": "Yetişkinlerin cinsel arzu ve gereksinimlerini karşılamak için çocuk ya da ergeni güç kullanarak, tehdit ya da kandırma yolu ile kullanmasına ne ad verilir?",
+      "options": ["Fiziksel istismar", "Cinsel istismar", "Duygusal istismar", "İhmal", "Güvenli spor"],
+      "correctIndex": 1,
+      "explanation": "Yetişkinlerin kendi cinsel arzu ve gereksinimlerini karşılamak amacıyla çocuğu veya ergeni güç kullanarak, tehdit ederek ya da kandırarak kullanması, cinsel istismar olarak tanımlanır. Bu tanım, rıza dışı ve güç dengesizliğine dayanan cinsel eylemleri kapsar.",
+      "optionNotes": [
+        "Fiziksel istismar, bedensel zarar verici davranışları ifade eder; sorudaki tanım cinsel amaçlı güç/tehdit/kandırma kullanımına odaklandığından fiziksel değil cinsel istismardır.",
+        "Doğru yanıt: Yetişkinin cinsel arzularını tatmin için çocuğu güç, tehdit veya kandırma yoluyla kullanması cinsel istismardır.",
+        "Duygusal istismar, aşağılama, tehdit, reddetme gibi psikolojik zarar verici davranışları kapsar; sorudaki tanım özel olarak cinsel amaçlı kullanımı ifade ettiğinden duygusal değil cinsel istismardır.",
+        "İhmal, gereksinimlerin karşılanmaması durumudur; sorudaki tanım aktif bir cinsel sömürü eylemini ifade ettiğinden ihmalle ilgili değildir.",
+        "Güvenli spor, istismardan arındırılmış ortamı ifade eden olumlu bir kavramdır, sorudaki istismar tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi cinsel istismar biçimlerinden biri değildir?",
+      "options": ["Cinsel eylemler talep etme", "Cinsel içerikli oyunlar oynatma veya uygun olmayan her türlü dokunuşa izin verme", "Teşhircilik", "Uygunsuz veya gereksiz herhangi bir temas", "Sporcuları aşırı soğuk ya da sıcak hava koşullarında spor yapmaya maruz bırakmak"],
+      "correctIndex": 4,
+      "explanation": "Sporcuları aşırı soğuk ya da sıcak hava koşullarında spor yapmaya zorlamak, cinsel içerik taşımayan, bedensel sağlığı tehdit eden bir uygulamadır; bu nedenle fiziksel istismar veya ihmal kapsamına girer, cinsel istismar biçimleri arasında sayılmaz. Diğer dört seçenek ise doğrudan cinsel içerikli eylem veya temas türlerini ifade eder.",
+      "optionNotes": [
+        "Bu, doğrudan cinsel içerikli bir talebi ifade ettiğinden klasik bir cinsel istismar biçimidir, soruda aranan 'değil' seçeneği bu olamaz.",
+        "Bu seçenek açıkça cinsel içerik taşıyan davranışları tanımladığından cinsel istismar biçimlerinden biridir.",
+        "Teşhircilik, cinsel organların uygunsuz şekilde gösterilmesini ifade eden bilinen bir cinsel istismar/taciz türüdür.",
+        "Bu seçenek, rıza dışı ve gereksiz bedensel temasın cinsel amaçlı olabileceğini ifade eder, dolayısıyla cinsel istismar kapsamındadır.",
+        "Doğru yanıt: Sporcuları aşırı soğuk ya da sıcak hava koşullarında spor yaptırmak, cinsel içerik taşımadığından cinsel istismar biçimi değildir; bu durum fiziksel istismar/ihmal kapsamında değerlendirilir."
+      ]
+    },
+    {
+      "question": "Uluslararası Olimpiyat Komitesi, cinsel taciz ve istismar üzerine yaptığı bildirgeyi kaç yılında çıkarmıştır?",
+      "options": ["2000", "2003", "2007", "2010", "2013"],
+      "correctIndex": 2,
+      "explanation": "Uluslararası Olimpiyat Komitesi (IOC), sporda cinsel taciz ve istismar konusunda ilk kapsamlı bildirgesini (consensus statement) 2007 yılında yayımlamış, bu belge sporcuların korunmasına yönelik uluslararası farkındalığın artmasında önemli bir adım olmuştur.",
+      "optionNotes": [
+        "2000 yılı, IOC'nin bu konudaki bildirgesinin yayımlandığı tarihten önceye denk gelir, doğru tarih değildir.",
+        "2003, bildirgenin yayımlanma tarihinden önceki bir yıl olup bu soruyla ilgili doğru yanıt değildir.",
+        "Doğru yanıt: IOC, cinsel taciz ve istismar üzerine bildirgesini 2007 yılında yayımlamıştır.",
+        "2010, IOC'nin bu ilk bildirgesinden sonraki bir tarihtir; bu yıl bildirgenin yayım tarihi değildir.",
+        "2013, bildirgenin yayımlanmasından sonraki bir döneme ait olup bu soruda sorulan ilk yayım tarihi değildir."
+      ]
+    },
+    {
+      "question": "Uluslararası Olimpiyat Komitesi, Spor Alanındaki Taciz ve İstismardan Sporcuların Korunmasıyla İlgili Araç Kitini kaç yılında yayımlamıştır?",
+      "options": ["2013", "2015", "2017", "2019", "2021"],
+      "correctIndex": 2,
+      "explanation": "Uluslararası Olimpiyat Komitesi, Spor Alanındaki Taciz ve İstismardan Sporcuların Korunmasıyla İlgili Araç Kiti'ni (Toolkit) 2017 yılında yayımlayarak, federasyonlar ve spor kuruluşlarına koruyucu politika geliştirmeleri için pratik bir kılavuz sunmuştur.",
+      "optionNotes": [
+        "2013, araç kitinin yayımlanma tarihinden önceki bir yıldır, doğru tarih değildir.",
+        "2015, araç kitinin asıl yayım tarihinden önceye denk gelen yanlış bir tarihtir.",
+        "Doğru yanıt: IOC, bu araç kitini 2017 yılında yayımlamıştır.",
+        "2019, araç kitinin yayımlanmasından sonraki bir tarih olup doğru yayım yılı değildir.",
+        "2021, araç kitinin gerçek yayım tarihinden yıllar sonrasına ait yanlış bir tarihtir."
+      ]
+    },
+    {
+      "question": "Çocuğa bakmakla yükümlü kişinin beslenme, giyim, tıbbi, sosyal ve duygusal gereksinimler gibi yükümlülükleri yerine getirmemesine ne ad verilir?",
+      "options": ["Fiziksel istismar", "Cinsel istismar", "Duygusal istismar", "İhmal", "Güvenli spor"],
+      "correctIndex": 3,
+      "explanation": "Çocuğa bakmakla yükümlü olan kişinin; beslenme, giyim, tıbbi, sosyal ve duygusal gereksinimler gibi temel bakım yükümlülüklerini yerine getirmemesi, ihmal olarak tanımlanır. İhmal, aktif bir zarar verme eyleminden çok, gerekli bakımın sağlanmaması şeklindeki bir eksiklik durumunu ifade eder.",
+      "optionNotes": [
+        "Fiziksel istismar, aktif olarak bedensel zarar verme eylemini ifade eder; sorudaki yükümlülüklerin yerine getirilmemesi durumu bir eylemsizlik olduğundan ihmaldir, fiziksel istismar değildir.",
+        "Cinsel istismar, cinsel amaçlı sömürüyü ifade eder; temel bakım yükümlülüklerinin yerine getirilmemesiyle doğrudan ilgili değildir.",
+        "Duygusal istismar, aktif olarak aşağılama, tehdit gibi psikolojik zarar verme davranışlarını kapsar; sorudaki tanım bakım eksikliğine odaklandığından duygusal istismar değil ihmaldir.",
+        "Doğru yanıt: Temel bakım yükümlülüklerinin (beslenme, giyim, tıbbi, sosyal, duygusal) yerine getirilmemesi ihmal olarak tanımlanır.",
+        "Güvenli spor, istismardan arındırılmış olumlu bir ortamı ifade eder; sorudaki bakım eksikliği tanımıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Spor alanlarında önlenebilecek bir nedenden dolayı sporcuların zarar görmesi………..kapsamına girmektedir. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": ["Fiziksel istismar", "Cinsel istismar", "Duygusal istismar", "İhmal", "Güvenli spor"],
+      "correctIndex": 3,
+      "explanation": "Spor alanlarında, önlenebilecek bir nedenden dolayı sporcuların zarar görmesi, gerekli gözetim ve tedbirlerin alınmaması anlamına geldiğinden ihmal kapsamına girer; burada sorumlu kişilerin eksik veya yetersiz davranışı söz konusudur.",
+      "optionNotes": [
+        "Fiziksel istismar, kasıtlı bedensel zarar verme eylemini ifade eder; önlenebilir bir ihmalkârlık sonucu oluşan zarar daha çok ihmal kapsamına girer.",
+        "Cinsel istismar, cinsel içerikli sömürüyü ifade eder; önlenebilir genel zarar durumu ile doğrudan ilgili değildir.",
+        "Duygusal istismar, psikolojik zarar verme davranışlarını ifade eder; sorudaki önlenebilir fiziksel zarar durumu duygusal istismardan çok ihmal kapsamındadır.",
+        "Doğru yanıt: Önlenebilir bir nedenden kaynaklanan sporcu zararı, gerekli tedbirlerin alınmaması anlamına geldiğinden ihmal kapsamına girer.",
+        "Güvenli spor, risklerin önceden bertaraf edildiği olumlu durumu ifade eder; sorudaki önlenebilir zarar bunun tam tersidir."
+      ]
+    },
+    {
+      "question": "Bir Antrenörün çocuğun takım içerisinde kabul görmemesine seyirci kalması aşağıdakilerden hangisine girmektedir?",
+      "options": ["Fiziksel ihmal", "Cinsel ihmal", "Duygusal ihmal", "Güvensiz spor", "Çocuk istismarı"],
+      "correctIndex": 2,
+      "explanation": "Antrenörün, çocuğun takım içinde kabul görmemesine (dışlanmasına, akran zorbalığına) seyirci kalması, çocuğun duygusal/sosyal gereksinimlerinin karşılanmaması anlamına geldiğinden duygusal ihmal olarak değerlendirilir.",
+      "optionNotes": [
+        "Fiziksel ihmal, bedensel bakım ve gözetim eksikliğini ifade eder; burada söz konusu olan çocuğun sosyal/duygusal dışlanmasına kayıtsız kalınmasıdır, bu nedenle fiziksel değil duygusal ihmaldir.",
+        "'Cinsel ihmal' istismar sınıflandırmasında standart bir kategori değildir ve sorudaki sosyal dışlanmaya seyirci kalma durumuyla ilgisi yoktur.",
+        "Doğru yanıt: Çocuğun takımda kabul görmemesine kayıtsız kalınması, duygusal/sosyal gereksinimlerin ihmal edilmesi anlamına geldiğinden duygusal ihmaldir.",
+        "Güvensiz spor, genel olarak risk taşıyan spor ortamını ifade eden daha geniş bir kavramdır; sorudaki özel durum duygusal ihmal olarak sınıflandırılmalıdır.",
+        "Çocuk istismarı, burada sorulan spesifik duygusal ihmal türünü kapsayan daha genel bir şemsiye terimdir; soru özel olarak ihmalin türünü sormaktadır."
+      ]
+    },
+    {
+      "question": "I. Sporcu yaralanmalarında yanlış tedavi yöntemleri uygulatmak II. Sporcuların yolculuklarında ve konaklamalarında yetersiz denetim sağlamak III. Sporcular arasındaki akran zorbalığına müsaade etmek IV. İzin almadan sporcuların görüntülerini internet ortamında paylaşmak Yukarıdakilerden hangileri en yaygın ihmal örnekleri arasında yer alır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "I –II – III", "I – II – III – IV"],
+      "correctIndex": 4,
+      "explanation": "En yaygın ihmal örnekleri arasında; sporcu yaralanmalarında yanlış tedavi yöntemleri uygulanması, yolculuk ve konaklamalarda yetersiz denetim sağlanması, akran zorbalığına müsaade edilmesi ve izinsiz görüntü paylaşımı gibi durumların tümü yer alır; bu nedenle I, II, III ve IV seçeneklerinin hepsi doğrudur.",
+      "optionNotes": [
+        "Yalnız I seçeneği, yetersiz denetim, akran zorbalığına müsaade ve izinsiz görüntü paylaşımı gibi diğer yaygın ihmal örneklerini dışarıda bırakır.",
+        "Yalnız II seçeneği, yanlış tedavi yöntemleri, akran zorbalığı ve izinsiz görüntü paylaşımı gibi diğer önemli ihmal örneklerini kapsam dışı bırakır.",
+        "Bu seçenek, akran zorbalığına müsaade edilmesi (III) ve izinsiz görüntü paylaşımı (IV) gibi yaygın ihmal örneklerini listeye dahil etmemektedir.",
+        "Bu seçenek, izin almadan sporcu görüntülerinin internette paylaşılması (IV) durumunu dışarıda bırakır; oysa bu da yaygın bir ihmal örneği olarak kabul edilir.",
+        "Doğru yanıt: Yanlış tedavi, yetersiz denetim, akran zorbalığına müsaade ve izinsiz görüntü paylaşımı; en yaygın ihmal örnekleri arasında yer alan I, II, III ve IV durumlarının tümünü kapsar."
+      ]
+    }
+  ]
+}

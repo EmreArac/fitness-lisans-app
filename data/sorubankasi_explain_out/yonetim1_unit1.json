@@ -1,0 +1,520 @@
+{
+  "course": "yonetim1",
+  "unit_index": 1,
+  "topic": "Sporda Yönetim ve Organizasyon",
+  "questions": [
+    {
+      "question": "Yönetim kavramı ve yaklaşımlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Yönetim evrensel bir kavramdır",
+        "Yönetimin konusu insandır.",
+        "İnsanın diğer kişilerle ilişkilerini ve davranışlarını inceler.",
+        "Ekonomistlere göre yönetim; bir otorite sistemidir.",
+        "Yönetim insanlık tarihi kadar eski bir kavramdır."
+      ],
+      "correctIndex": 3,
+      "explanation": "Soru, yönetimle ilgili ifadeler arasından yanlış olanı sormaktadır. Ekonomistler yönetimi bir otorite sistemi olarak değil, toprak, sermaye ve işgücü gibi klasik üretim faktörlerine eklenen dördüncü bir üretim faktörü (girişimcilik/yönetim unsuru) olarak tanımlar. Yönetimi bir otorite/güç sistemi olarak nitelendirme ise yönetim bilimcilerin (idarecilerin) yaklaşımıdır. Bu nedenle üçüncü seçenekteki ifade yanlıştır ve soru bu yanlış ifadeyi aramaktadır.",
+      "optionNotes": [
+        "Bu ifade doğrudur, bu nedenle yanlış ifadeyi arayan bu soruda yanıt olamaz: yönetim, zaman ve mekândan bağımsız olarak her toplumda ve her örgütte var olan evrensel bir etkinliktir.",
+        "Bu ifade doğrudur: yönetimin temel konusu insan ve insan davranışıdır; dolayısıyla yanlış ifadeyi arayan bu soruda seçilemez.",
+        "Bu ifade doğrudur: yönetim, insanın diğer insanlarla kurduğu ilişkileri ve davranışları inceleyen bir alandır; bu nedenle 'yanlış' olan seçenek değildir.",
+        "Doğru yanıt: Ekonomistler yönetimi bir otorite/güç sistemi olarak değil, toprak ve sermaye gibi diğer üretim faktörleriyle birlikte dördüncü bir üretim faktörü (girişimcilik/yönetim unsuru) olarak tanımlar; yönetimi bir otorite sistemi olarak nitelendirme, yönetim bilimcilerin (idarecilerin) yaklaşımıdır, bu yüzden ifade yanlıştır ve doğru yanıt budur.",
+        "Bu ifade doğrudur: yönetim, örgütlü insan topluluklarının var olduğu ilk çağlardan beri (piramitlerin inşası, ordu örgütlenmeleri vb.) uygulanan, insanlık tarihiyle eşit derecede eski bir olgudur; dolayısıyla yanlış seçenek değildir."
+      ]
+    },
+    {
+      "question": "Yönetimi toprak, sermaye ve iş gücü ile birlikte üretim fonksiyonlarından bir olarak tanımlayan grup aşağıdakilerden hangisidir?",
+      "options": [
+        "Ekonomistler",
+        "Yönetim Bilimciler",
+        "Politikacılar",
+        "Psikologlar",
+        "Felsefeciler"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ekonomi biliminde üretim faktörleri klasik olarak toprak, sermaye ve işgücü olarak sayılır. İktisatçılar (ekonomistler) buna dördüncü bir unsur olarak yönetimi/girişimciliği eklemiş ve yönetimi bu üretim faktörlerinden biri olarak tanımlamıştır.",
+      "optionNotes": [
+        "Doğru yanıt: Ekonomistler, klasik üretim faktörleri olan toprak, sermaye ve işgücüne ek olarak yönetimi de dördüncü bir üretim faktörü olarak ele alır ve bu çerçevede tanımlar.",
+        "Yönetim bilimciler, yönetimi bir üretim faktörü olarak değil, bir otorite/güç ve karar alma sistemi olarak ele alır; üretim faktörü tanımı onlara ait değildir.",
+        "Politikacılar yönetimi daha çok iktidar, güç kazanma ve kullanma süreci olarak ele alır; üretim faktörleri sınıflandırması iktisadi bir bakış açısıdır, politik bir bakış açısı değildir.",
+        "Psikologlar yönetime insan davranışı, motivasyon ve bireysel/grup psikolojisi açısından yaklaşır; üretim faktörleri kavramı iktisat biliminin konusu olup psikolojinin ilgi alanı dışındadır.",
+        "Felsefeciler yönetimi daha çok etik, değerler ve varoluşsal açıdan ele alır; üretim faktörü sınıflandırması iktisadi bir yaklaşımdır, felsefi bir yaklaşım değildir."
+      ]
+    },
+    {
+      "question": "……………..yönetimin bir otorite sistemi olduğunu belirtirler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Ekonomistler",
+        "Yönetim Bilimciler",
+        "Politikacılar",
+        "Psikologlar",
+        "Felsefeciler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yönetim bilimciler/idareciler, yönetimi bir kişi veya grubun diğerleri üzerinde yetki ve otorite kurarak onları belirli amaçlar doğrultusunda yönlendirmesi şeklinde, bir otorite sistemi olarak tanımlar.",
+      "optionNotes": [
+        "Ekonomistler yönetimi bir otorite sistemi olarak değil, üretim faktörlerinden biri (girişimcilik/yönetim unsuru) olarak tanımlar; bu nedenle burada doğru yanıt değildir.",
+        "Doğru yanıt: Yönetim bilimciler (idareciler), yönetimi, bir kişi veya grubun diğerleri üzerinde yetki ve otorite kurarak onları belli amaçlara yöneltmesi olarak, yani bir otorite sistemi olarak tanımlar.",
+        "Politikacılar yönetimi iktidar ve güç kullanma/kazanma süreci olarak görse de, 'otorite sistemi' tanımı literatürde özellikle yönetim bilimcilere/idarecilere atfedilir, politikacılara değil.",
+        "Psikologlar yönetime bireysel davranış ve motivasyon açısından yaklaşır; otorite sistemi tanımı örgütsel-yönetsel bir bakış açısıdır, psikolojik bir tanım değildir.",
+        "Felsefeciler yönetimi etik ve değerler çerçevesinde ele alır; bir otorite sistemi olarak tanımlama, felsefi değil örgütsel-idari bir yaklaşımdır."
+      ]
+    },
+    {
+      "question": "Saptanan amaçlara en etkin ve en verimli bir şekilde ulaşabilmek için insanların çabalarını birleştiren ve düzenleştiren iş ve eylemlerin tümüne ne ad verilir?",
+      "options": [
+        "Misyon",
+        "Vizyon",
+        "Yönetim",
+        "Sistem",
+        "Bürokrasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu tanım, yönetimin klasik tanımıdır: belirlenen amaçlara en etkili ve verimli biçimde ulaşmak için insan çaba ve kaynaklarının bir araya getirilip koordine edilmesi sürecidir.",
+      "optionNotes": [
+        "Misyon, bir örgütün var oluş amacını/temel görevini ifade eder; çabaları birleştiren ve düzenleyen bir süreç/eylemler bütünü değildir.",
+        "Vizyon, bir örgütün gelecekte ulaşmak istediği ideal durumu ifade eden bir hedef bildirimidir; insan çabalarını birleştiren süreç değildir.",
+        "Doğru yanıt: Yönetim, saptanan amaçlara en etkin ve verimli biçimde ulaşmak için insan çaba ve eylemlerini birleştirip düzenleyen süreçtir.",
+        "Sistem, birbiriyle etkileşim içinde olan parçaların bir bütün oluşturmasıdır; burada tanımlanan amaca yönelik insan çabalarını düzenleme eylemi değil, daha genel bir yapı kavramıdır.",
+        "Bürokrasi, hiyerarşik ve kurallara bağlı resmi bir örgütlenme biçimidir; amaçlara ulaşmak için çabaları birleştiren genel eylemler bütünü tanımına karşılık gelmez."
+      ]
+    },
+    {
+      "question": "I. Yönetimin nasıl olduğu II. Yönetimin nasıl olması gerektiği III. Yönetimin nasıl olacağı Yukarıda verilenlerden hangileri, yönetim biliminin yönetimi ele aldığı noktalardandır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yönetim bilimi, yönetimi üç açıdan ele alır: olgusal olarak nasıl olduğu, normatif olarak nasıl olması gerektiği ve öngörüsel olarak gelecekte nasıl olacağı; bu nedenle üçü de doğrudur.",
+      "optionNotes": [
+        "Yalnız I seçeneği eksiktir; çünkü yönetim bilimi sadece yönetimin mevcut halini değil, nasıl olması gerektiğini ve gelecekte nasıl olacağını da inceler.",
+        "Yalnız II seçeneği eksiktir; normatif boyut (nasıl olması gerektiği) tek başına yeterli değildir, olgusal ve öngörüsel boyutlar da ele alınır.",
+        "I-II seçeneği eksiktir; bu seçenek III'teki 'nasıl olacağı' yönünü, yani geleceğe dönük öngörü boyutunu dışarıda bırakır.",
+        "II-III seçeneği eksiktir; bu seçenek I'deki 'nasıl olduğu' yönünü, yani yönetimin mevcut/olgusal durumunun incelenmesini dışarıda bırakır.",
+        "Doğru yanıt: Yönetim bilimi, yönetimi hem nasıl olduğu (olgusal), hem nasıl olması gerektiği (normatif) hem de nasıl olacağı (öngörüsel) boyutlarıyla birlikte ele alır; dolayısıyla I, II ve III'ün tümü doğrudur."
+      ]
+    },
+    {
+      "question": "• Milattan binlerce yıl önce başlayıp milattan sonra 1778 yıllarına kadar süren oldukça uzun dönem………………………..olarak nitelendirilebilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı",
+        "Endüstri Öncesi Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yönetim düşüncesinin tarihsel gelişiminde, Endüstri Devrimi'nden önceki -milattan binlerce yıl önce başlayıp 18. yüzyılın sonlarına (yaklaşık 1776-1778) kadar süren- uzun dönem, 'Endüstri Öncesi Yönetim Yaklaşımı/Dönemi' olarak adlandırılır; bu dönemde yönetim uygulamaları daha çok deneme-yanılma ve geleneğe dayalıdır, sistemli bir yönetim bilimi henüz oluşmamıştır.",
+      "optionNotes": [
+        "Klasik Yönetim Yaklaşımı, Endüstri Devrimi sonrasında (yaklaşık 1880'lerden II. Dünya Savaşı'na kadar) ortaya çıkmıştır; sorudaki MÖ'den 1778'e kadar olan dönemi kapsamaz.",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı 1930-1940'lardan 1960'lara kadar etkili olmuştur; sorudaki çok daha eski ve uzun döneme karşılık gelmez.",
+        "Modern Yönetim Yaklaşımı 1960'lardan günümüze kadar geçerli olan bir yaklaşımdır; sorudaki Endüstri Devrimi öncesi döneme ait değildir.",
+        "Yönetimde Mükemmellik Yaklaşımı 1980'li yıllarda ortaya çıkmış güncel bir yaklaşımdır; MÖ'den 1778'e kadar süren döneme ait olamaz.",
+        "Doğru yanıt: Milattan binlerce yıl önce başlayıp Endüstri Devrimi'ne (yaklaşık 1776-1778) kadar süren bu uzun dönem, sistemli bir yönetim biliminin henüz gelişmediği 'Endüstri Öncesi Yönetim Yaklaşımı' dönemi olarak nitelendirilir."
+      ]
+    },
+    {
+      "question": "Endüstri Devriminden, İkinci Dünya Savaşına kadar geçen dönemde görülen uygulamalar, aşağıdaki verilen yaklaşımlardan hangisiyle ilgilidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Endüstri Devrimi ile fabrika sisteminin yaygınlaşmasından II. Dünya Savaşı'na kadar olan dönemde, Taylor'ın Bilimsel Yönetim, Fayol'un Yönetim Süreci ve Weber'in Bürokrasi yaklaşımlarını kapsayan Klasik Yönetim Yaklaşımı etkili olmuştur.",
+      "optionNotes": [
+        "Endüstri Öncesi Yönetim Yaklaşımı, Endüstri Devrimi'nden ÖNCEKİ dönemi kapsar; sorudaki Endüstri Devrimi'nden II. Dünya Savaşı'na kadar olan dönemle örtüşmez.",
+        "Doğru yanıt: Endüstri Devrimi'nden II. Dünya Savaşı'na kadar süren dönemde Taylor, Fayol ve Weber'in yaklaşımlarını içeren Klasik Yönetim Yaklaşımı etkili olmuştur.",
+        "Davranışsal (Neo-Klasik) Yaklaşım, II. Dünya Savaşı civarı ve sonrasında (1940-1960) etkili olmuştur, Endüstri Devrimi'nin başından itibaren değil.",
+        "Modern Yönetim Yaklaşımı 1960 sonrasına aittir; Endüstri Devrimi'nden II. Dünya Savaşı'na kadar olan döneme ait değildir.",
+        "Yönetimde Mükemmellik Yaklaşımı 1980'lerde ortaya çıkmıştır; Endüstri Devrimi'nden II. Dünya Savaşı'na kadar olan çok daha eski dönemi tanımlamaz."
+      ]
+    },
+    {
+      "question": "1940’lı yıllardan başlayıp, 1960’lı yıllara kadar süren dönemde aşağıda verilen yaklaşımlardan hangisi etkili olmuştur?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı"
+      ],
+      "correctIndex": 2,
+      "explanation": "1940'lardan 1960'lara kadar süren dönemde, klasik yaklaşımın insan unsurunu ihmal ettiği eleştirisiyle ortaya çıkan, Hawthorne araştırmaları ve insan ilişkileri okulunu temel alan Davranışsal (Neo-Klasik) Yönetim Yaklaşımı etkili olmuştur.",
+      "optionNotes": [
+        "Endüstri Öncesi Yönetim Yaklaşımı çok daha eski bir dönemi (Endüstri Devrimi öncesini) kapsar; 1940-1960 aralığıyla ilgisi yoktur.",
+        "Klasik Yönetim Yaklaşımı, Endüstri Devrimi'nden II. Dünya Savaşı'na kadar olan daha önceki döneme aittir, 1940-1960 aralığını tam karşılamaz.",
+        "Doğru yanıt: 1940'lardan 1960'lara kadar insan ilişkileri ve Hawthorne araştırmalarına dayanan Davranışsal (Neo-Klasik) Yönetim Yaklaşımı etkili olmuştur.",
+        "Modern Yönetim Yaklaşımı 1960 sonrasında başlar, 1940-1960 dönemini kapsamaz.",
+        "Yönetimde Mükemmellik Yaklaşımı 1980'lerde ortaya çıkmıştır, 1940-1960 döneminden çok daha sonradır."
+      ]
+    },
+    {
+      "question": "1960’lı yıllardan günümüze kadar süren yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı"
+      ],
+      "correctIndex": 3,
+      "explanation": "1960'lı yıllardan günümüze kadar süren, sistem yaklaşımı ve durumsallık (koşul bağımlılık) yaklaşımını içeren döneme Modern Yönetim Yaklaşımı denir.",
+      "optionNotes": [
+        "Endüstri Öncesi Yönetim Yaklaşımı Endüstri Devrimi öncesi çok eski bir dönemi ifade eder, 1960 sonrası güncel dönemle ilgisi yoktur.",
+        "Klasik Yönetim Yaklaşımı Endüstri Devrimi'nden II. Dünya Savaşı'na kadar olan döneme aittir, 1960 sonrasını kapsamaz.",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı 1940-1960 arası dönemde etkilidir, 1960'tan günümüze kadar süren dönemi tanımlamaz.",
+        "Doğru yanıt: 1960'lı yıllardan günümüze kadar süren, sistem ve durumsallık yaklaşımlarını içeren dönem Modern Yönetim Yaklaşımı olarak adlandırılır.",
+        "Yönetimde Mükemmellik Yaklaşımı, Modern Yönetim Yaklaşımı içinde 1980'lerde ortaya çıkan daha spesifik/dar bir alt akımdır, 1960'tan günümüze kadar olan bütün dönemi tek başına ifade etmez."
+      ]
+    },
+    {
+      "question": "Modern Yönetim Yaklaşımı kendi içerisinde kaça ayrılmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Modern Yönetim Yaklaşımı literatürde temel olarak ikiye ayrılır: Sistem Yaklaşımı ve Durumsallık (Koşul Bağımlılık) Yaklaşımı.",
+      "optionNotes": [
+        "Doğru yanıt: Modern Yönetim Yaklaşımı, Sistem Yaklaşımı ve Durumsallık (Koşul Bağımlılık) Yaklaşımı olmak üzere iki alt yaklaşıma ayrılır.",
+        "3 sayısı, modern yönetim yaklaşımının klasik sınıflandırmasıyla uyuşmaz; literatürde ikili bir ayrım (sistem ve durumsallık) esas alınır.",
+        "4 sayısı modern yönetim yaklaşımının alt dallarını fazla göstermektedir; standart sınıflandırmada yalnızca iki alt yaklaşım bulunur.",
+        "5 sayısı, modern yönetim yaklaşımının ikili alt ayrımıyla (sistem ve durumsallık) örtüşmemektedir.",
+        "6 sayısı doğru değildir; modern yönetim yaklaşımı yalnızca sistem ve durumsallık yaklaşımı olmak üzere iki temel dala ayrılır."
+      ]
+    },
+    {
+      "question": "1980’li yılların başında yönetim konusunda yeni bir akım başladığı ve daha önce yönetim süreci içerisinde yer alarak başarılı olmuş olan düşünür ve uygulamacıların ortaya koymuş oldukları yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 2,
+      "explanation": "1980'lerin başında, daha önce yönetim süreci içinde başarılı olmuş düşünür ve uygulamacıların deneyimlerine dayanarak ortaya koyduğu, mükemmel/başarılı şirketlerin ortak özelliklerini inceleyen yaklaşım Yönetimde Mükemmellik Yaklaşımı'dır (Peters ve Waterman'ın çalışmalarıyla özdeşleşmiştir).",
+      "optionNotes": [
+        "Endüstri Öncesi Yönetim Yaklaşımı çok daha eski bir döneme (Endüstri Devrimi öncesine) aittir, 1980'lerle ilgisi yoktur.",
+        "Klasik Yönetim Yaklaşımı Endüstri Devrimi'nden II. Dünya Savaşı'na kadar olan döneme aittir, 1980'lerdeki yeni akımı ifade etmez.",
+        "Doğru yanıt: 1980'lerin başında, başarılı yönetici ve uygulamacıların deneyimlerinden yola çıkarak geliştirilen yaklaşım, Yönetimde Mükemmellik Yaklaşımı'dır.",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı 1940-1960 arasında etkilidir, 1980'lerdeki akımı tanımlamaz.",
+        "Modern Yönetim Yaklaşımı 1960'lardan beri süren daha genel bir kategoridir; sorudaki 1980'lere özgü, başarılı uygulamacıların deneyimine dayanan spesifik akım Yönetimde Mükemmellik Yaklaşımı'dır."
+      ]
+    },
+    {
+      "question": "Bir ticari örgütün her seviyede yönetsel sistemini kapsayarak bütün birimlerine baştan sona stratejik vizyonu genişletmeyi amaçlayan bir yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Stratejik yönetim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bir örgütün tüm kademelerindeki yönetsel sistemi kapsayarak stratejik vizyonu örgütün bütün birimlerine yayan ve uzun dönemli rekabet avantajını hedefleyen yaklaşım Stratejik Yönetim'dir.",
+      "optionNotes": [
+        "Endüstri Öncesi Yönetim Yaklaşımı, örgütün tüm kademelerine stratejik vizyon yaymaktan çok önceki, sistemsiz bir döneme aittir.",
+        "Klasik Yönetim Yaklaşımı verimlilik ve iş bölümüne odaklanır; örgütün tüm seviyelerine stratejik vizyon yayma amacı klasik yaklaşımın konusu değildir.",
+        "Davranışsal (Neo-Klasik) Yaklaşım insan ilişkilerine ve motivasyona odaklanır; örgüt çapında stratejik vizyon yayma kavramı bu yaklaşımın temel vurgusu değildir.",
+        "Modern Yönetim Yaklaşımı, sistem ve durumsallık kavramlarını içeren daha genel bir çerçevedir; sorudaki stratejik vizyonu tüm birimlere yayma tanımı, Modern Yönetim Yaklaşımı'nın bir bütünü değil, Stratejik Yönetim'in kendine özgü tanımıdır.",
+        "Doğru yanıt: Stratejik yönetim, örgütün her seviyesindeki yönetsel sistemi kapsayarak stratejik vizyonu tüm birimlere baştan sona yaymayı amaçlar."
+      ]
+    },
+    {
+      "question": "I. İş bölümü ve uzmanlaşma II. Komuta birliği III. Kademe zinciri IV. Merkeziyetçilik Yukarıdakilerden hangileri Henry Fayol’ un yönetim ilkeleri arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Henri Fayol'un 14 yönetim ilkesi arasında iş bölümü ve uzmanlaşma, komuta birliği, kademe zinciri (hiyerarşi) ve merkeziyetçilik de yer alır; bu nedenle I, II, III ve IV'ün tümü doğrudur.",
+      "optionNotes": [
+        "Yalnız I seçeneği eksiktir; komuta birliği, kademe zinciri ve merkeziyetçilik de Fayol'un ilkeleri arasında olduğu için sadece iş bölümünü saymak yetersizdir.",
+        "I-II seçeneği eksiktir; kademe zinciri (hiyerarşi) ve merkeziyetçilik de Fayol'un ilkeleri arasındadır ve bu seçenekte dışarıda bırakılmıştır.",
+        "I-II-III seçeneği eksiktir; merkeziyetçilik de Fayol'un 14 ilkesinden biridir ve bu seçenekte göz ardı edilmiştir.",
+        "I-III-IV seçeneği eksiktir; komuta birliği de Fayol'un temel ilkelerinden biridir ve bu seçenekte dışarıda bırakılmıştır.",
+        "Doğru yanıt: İş bölümü ve uzmanlaşma, komuta birliği, kademe zinciri ve merkeziyetçilik, Henri Fayol'un 14 yönetim ilkesi arasında yer alan dört ilkedir."
+      ]
+    },
+    {
+      "question": "MÖ 3000 yıllarında hangi medeniyette vergi sistemleri din adamlarınca düzenlenmiştir?",
+      "options": [
+        "Sümer",
+        "Babil",
+        "Mısır",
+        "Yunan",
+        "Çin"
+      ],
+      "correctIndex": 0,
+      "explanation": "MÖ 3000'li yıllarda Sümer medeniyetinde, tapınak merkezli ekonomik düzen içinde vergi toplama ve kayıt tutma işlevleri rahipler/din adamları tarafından yürütülmüştür; bu, bilinen ilk yönetsel/muhasebesel uygulamalardan biri olarak kabul edilir.",
+      "optionNotes": [
+        "Doğru yanıt: MÖ 3000 yıllarında Sümer medeniyetinde vergi sistemleri ve tapınak ekonomisine ait kayıtlar din adamları (rahipler) tarafından düzenlenmiştir.",
+        "Babil medeniyeti (Hammurabi Kanunları ile tanınır) daha sonraki bir döneme ve farklı bir yönetsel uygulamaya (yazılı hukuk kuralları) işaret eder, MÖ 3000'deki din adamlarınca yürütülen vergi sistemiyle özdeşleştirilen medeniyet değildir.",
+        "Mısır medeniyeti piramit inşaatlarındaki örgütlenme ve iş bölümü örnekleriyle anılır, MÖ 3000'deki din adamlarınca düzenlenen vergi sistemi örneği Sümer'e aittir.",
+        "Yunan medeniyeti daha sonraki bir döneme aittir ve felsefe/siyaset alanındaki katkılarıyla (Sokrates, Platon gibi) yönetim tarihine girer, MÖ 3000'deki din adamlarınca yürütülen vergi sistemiyle ilişkilendirilmez.",
+        "Çin medeniyeti sınav sistemi ve memur seçimi uygulamalarıyla (mandarin sistemi) bilinir, MÖ 3000'deki din adamlarınca düzenlenen vergi sistemi örneği Sümer'e özgüdür."
+      ]
+    },
+    {
+      "question": "Aynı zamanda “Taylorizm” olarak da adlandırılan yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Bilimsel Yönetim Yaklaşımı",
+        "Yönetim Süreci Yaklaşımı",
+        "Bürokrasi Yaklaşımı",
+        "Neo-Klasik Yönetim Yaklaşımı",
+        "Endüstri Öncesi Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Frederick Taylor'ın öncülük ettiği, işin bilimsel yöntemlerle analiz edilmesini ve en verimli çalışma yönteminin belirlenmesini esas alan yaklaşım, kurucusunun adından dolayı 'Taylorizm' olarak da bilinen Bilimsel Yönetim Yaklaşımı'dır.",
+      "optionNotes": [
+        "Doğru yanıt: Frederick Taylor'ın geliştirdiği, işin bilimsel yöntemlerle analiz edilmesine dayanan yaklaşım, kurucusunun adından ötürü 'Taylorizm' olarak da anılan Bilimsel Yönetim Yaklaşımı'dır.",
+        "Yönetim Süreci Yaklaşımı, Henri Fayol'un öncülüğünü yaptığı, yönetim fonksiyonlarına (planlama, örgütleme vb.) odaklanan bir yaklaşımdır; 'Taylorizm' adıyla anılmaz.",
+        "Bürokrasi Yaklaşımı, Max Weber'in geliştirdiği, hiyerarşi ve kurallara dayalı ideal örgüt modelidir; Taylor'ın adıyla ilişkilendirilen 'Taylorizm' terimiyle anılmaz.",
+        "Neo-Klasik Yönetim Yaklaşımı, insan ilişkileri ve davranışsal unsurlara odaklanan, Taylor'ın bilimsel yönetiminden sonra ortaya çıkan ve ona eleştiri getiren bir yaklaşımdır; 'Taylorizm' ile anılan yaklaşım değildir.",
+        "Endüstri Öncesi Yönetim Yaklaşımı, sistemli bir yönetim biliminin henüz oluşmadığı çok daha eski bir dönemi ifade eder; Taylor'ın bilimsel çalışmalarıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "• 2000’li yıllara doğru gelişen dünya ve artan rekabet koşulları çerçevesinde yarışmanın ve ayakta kalmanın yolunun, üretilen mal ve hizmetlerin kalitesinden geçtiğinin yaygın olarak anlaşılarak vurgulanmasını takiben ise…………………………… özellikle küreselleşen dünyada etkili olmaya başlamıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Klasik Yönetim Yaklaşımı",
+        "Yönetimde Toplam Kalite Yönetimi Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Stratejik yönetim"
+      ],
+      "correctIndex": 1,
+      "explanation": "2000'li yıllara doğru artan küresel rekabet koşullarında, mal ve hizmet kalitesinin rekabette belirleyici unsur olduğunun anlaşılmasıyla birlikte Toplam Kalite Yönetimi Yaklaşımı özellikle küreselleşen dünyada etkili olmaya başlamıştır.",
+      "optionNotes": [
+        "Klasik Yönetim Yaklaşımı, Endüstri Devrimi'nden II. Dünya Savaşı'na kadar olan çok daha eski bir döneme aittir; 2000'lere doğru artan kalite odaklı rekabeti tanımlamaz.",
+        "Doğru yanıt: 2000'lere doğru küreselleşen dünyada kalitenin rekabette belirleyici hale gelmesiyle birlikte Toplam Kalite Yönetimi Yaklaşımı etkili olmaya başlamıştır.",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı 1940-1960 arası insan ilişkilerine odaklanan bir yaklaşımdır; 2000'lere doğru kalite vurgusuyla ilgisi yoktur.",
+        "Modern Yönetim Yaklaşımı 1960'lardan itibaren geçerli daha genel bir kategoridir; sorudaki 2000'lere özgü kalite odaklı spesifik vurgu Toplam Kalite Yönetimi'ne aittir.",
+        "Stratejik yönetim, örgütün tüm kademelerine stratejik vizyon yaymayı hedefler; sorudaki kalite vurgusuna dayalı küresel rekabet unsuru doğrudan Toplam Kalite Yönetimi'nin konusudur."
+      ]
+    },
+    {
+      "question": "Bilimsel yönetim adıyla bilinen yaklaşımın en önemli öncüsü kimdir?",
+      "options": [
+        "Frederick Taylor",
+        "M. Gilberth",
+        "Frank B. Lillian",
+        "Harry L. Gantt",
+        "Max Weber"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bilimsel yönetim yaklaşımının en önemli öncüsü ve kurucusu, iş süreçlerini bilimsel yöntemlerle analiz ederek verimliliği artırmayı hedefleyen Frederick Taylor'dır.",
+      "optionNotes": [
+        "Doğru yanıt: Bilimsel yönetim yaklaşımının en önemli öncüsü, iş analizine ve zaman-hareket etütlerine dayalı yöntemleriyle tanınan Frederick Taylor'dır.",
+        "M. Gilberth (Gilbreth), Taylor'ın çalışmalarını zaman-hareket etütleriyle geliştiren önemli bir takipçisidir, ancak bilimsel yönetimin en önemli öncüsü/kurucusu olarak anılan kişi Taylor'dır.",
+        "Frank B. Lillian (Lillian Gilbreth), hareket etütleri alanında katkı sağlayan bir isimdir, ancak bilimsel yönetimin öncüsü ve kurucusu sayılan kişi Taylor'dır.",
+        "Harry L. Gantt, Gantt şeması ve teşvikli ücret sistemiyle tanınan bir Taylor takipçisidir, ancak bilimsel yönetimin en önemli öncüsü olarak kabul edilen kişi Taylor'dır.",
+        "Max Weber, bilimsel yönetimle değil, bürokrasi/ideal örgüt modeliyle anılan bir düşünürdür; bilimsel yönetimin öncüsü değildir."
+      ]
+    },
+    {
+      "question": "Bürokrasi yaklaşımının öncüsü aşağıdakilerden hangisidir?",
+      "options": [
+        "Henri Fayol",
+        "Frederick Taylor",
+        "A.H. Maslow",
+        "Max Weber",
+        "Robert Waterman"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bürokrasi yaklaşımının öncüsü, rasyonel-yasal otoriteye dayanan, kurallara bağlı, hiyerarşik ve kişisellikten uzak 'ideal bürokrasi' modelini geliştiren Alman sosyolog Max Weber'dir.",
+      "optionNotes": [
+        "Henri Fayol, Yönetim Süreci Yaklaşımı'nın öncüsüdür; bürokrasi modeliyle değil, yönetim fonksiyonları ve ilkeleriyle tanınır.",
+        "Frederick Taylor, Bilimsel Yönetim Yaklaşımı'nın öncüsüdür; bürokrasi yaklaşımıyla değil, iş analizi ve verimlilikle anılır.",
+        "A.H. Maslow, ihtiyaçlar hiyerarşisi teorisiyle tanınan bir psikologdur; bürokrasi yaklaşımıyla bir ilgisi yoktur, Davranışsal Yaklaşım'la ilişkilendirilir.",
+        "Doğru yanıt: Bürokrasi yaklaşımının öncüsü, rasyonel-yasal otoriteye dayalı ideal örgüt modelini geliştiren Max Weber'dir.",
+        "Robert Waterman, Yönetimde Mükemmellik Yaklaşımı'nın temsilcilerinden biridir (Peters ile birlikte); bürokrasi yaklaşımıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "1911 yılında yayımlanan “Bilimsel Yönetim İlkeleri” adlı kitap kime aittir?",
+      "options": [
+        "M. Gilberth",
+        "Frank B. Lillian",
+        "Harry L. Gantt",
+        "Max Weber",
+        "Frederick Taylor"
+      ],
+      "correctIndex": 4,
+      "explanation": "1911 yılında yayımlanan ve bilimsel yönetim yaklaşımının temel eseri sayılan 'Bilimsel Yönetim İlkeleri' (The Principles of Scientific Management) adlı kitap Frederick Taylor'a aittir.",
+      "optionNotes": [
+        "M. Gilberth, zaman-hareket etütleriyle tanınan bir isimdir, ancak 1911'de yayımlanan 'Bilimsel Yönetim İlkeleri' adlı temel eserin yazarı değildir.",
+        "Frank B. Lillian (Lillian Gilbreth) hareket etütleri alanında katkı sağlamıştır, fakat 1911 tarihli bu eserin sahibi değildir.",
+        "Harry L. Gantt, Gantt şemasıyla tanınan bir uygulamacıdır; 1911'deki 'Bilimsel Yönetim İlkeleri' kitabının yazarı o değildir.",
+        "Max Weber, bürokrasi teorisiyle tanınır; bilimsel yönetime ait 1911 tarihli bu kitabın yazarı değildir, onun temel eseri farklı bir alandadır.",
+        "Doğru yanıt: 1911'de yayımlanan ve bilimsel yönetim yaklaşımının temel metni sayılan 'Bilimsel Yönetim İlkeleri' kitabı Frederick Taylor'a aittir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Bilimsel yönetim yaklaşımının ilkelerinden biri değildir?",
+      "options": [
+        "Çalışanların yaptığı işin her bir ögesi, bilimsel bir analize tabi tutulmalıdır",
+        "Çalışanlar, nasıl yapılacağı önceden belirlenmiş işleri yapabilecek şekilde seçilmeli, bu işler için eğitilip geliştirilmelidir.",
+        "Belirli bir iş için işin genelinde uzmanlaşılmalıdır",
+        "İşletmedeki bütün işler planlanıp, programlanmalıdır.",
+        "Çalışanları teşvik edici ücret sistemi geliştirilmelidir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bilimsel yönetim yaklaşımı, işin bilimsel analizini, bilimsel seçim/eğitimi, planlama-programlamayı ve teşvik edici ücretlendirmeyi ilke olarak benimser; ancak 'işin genelinde uzmanlaşma' ifadesi bu yaklaşımın mantığına aykırıdır, çünkü Taylor işi küçük, standart ve tekrarlanan parçalara bölerek dar kapsamlı görevlerde uzmanlaşmayı (iş bölümünü) öngörür, işin bütününde genel bir uzmanlaşmayı değil.",
+      "optionNotes": [
+        "Bu ifade bilimsel yönetimin bir ilkesidir: Taylor'a göre her iş ögesi bilimsel analize tabi tutulmalı, en verimli yöntem bilimsel olarak belirlenmelidir; bu yüzden 'değildir' sorusunun yanıtı olamaz.",
+        "Bu ifade bilimsel yönetimin bir ilkesidir: çalışanlar önceden tanımlanmış standart işleri yapabilecek şekilde bilimsel olarak seçilmeli ve eğitilmelidir; bu nedenle aranan istisna değildir.",
+        "Doğru yanıt: Bilimsel yönetim, işin genelinde değil, işin küçük ve standart parçalara bölünerek dar kapsamlı görevlerde uzmanlaşılmasını (iş bölümünü) öngörür; 'işin genelinde uzmanlaşma' ifadesi bu mantığa aykırı olduğundan bilimsel yönetimin bir ilkesi değildir.",
+        "Bu ifade bilimsel yönetimin bir ilkesidir: planlama işlevinin yürütmeden ayrılması ve tüm işlerin önceden planlanıp programlanması Taylor'ın temel vurgularından biridir; bu nedenle istisna olamaz.",
+        "Bu ifade bilimsel yönetimin bir ilkesidir: Taylor, işçileri daha üretken çalışmaya özendirmek için parça başı/teşvikli ücret sistemlerini önermiştir; bu nedenle aranan istisna değildir."
+      ]
+    },
+    {
+      "question": "20. yüzyılın başlarında ustabaşı ve işçileri iş uygulamalarını geliştirmeye zorlayan bir ödeme sistemi geliştiren kişi kimdir?",
+      "options": [
+        "Henri Fayol",
+        "Max Weber",
+        "Henry Gantt",
+        "Frederick Taylor",
+        "Abraham Maslow"
+      ],
+      "correctIndex": 2,
+      "explanation": "20. yüzyılın başlarında, Taylor'ın yakın çalışma arkadaşı olan Henry Gantt, ustabaşı ve işçileri standart performansın üzerine çıkmaya özendiren görev ve prim (task and bonus) esaslı bir ödeme sistemi geliştirmiştir; aynı zamanda iş planlama grafiği olan Gantt şemasının da mucididir.",
+      "optionNotes": [
+        "Henri Fayol, Yönetim Süreci Yaklaşımı'nın öncüsüdür ve yönetim fonksiyonları/ilkeleriyle tanınır; ustabaşı-işçi ödeme sistemi geliştirmemiştir.",
+        "Max Weber, bürokrasi/ideal otorite modeliyle tanınan bir sosyologdur; işçi ödeme sistemleriyle ilgili bir katkısı yoktur.",
+        "Doğru yanıt: Henry Gantt, ustabaşı ve işçileri performanslarını artırmaya özendiren görev ve prim esaslı bir ödeme sistemi geliştirmiştir ve Gantt şemasıyla da tanınır.",
+        "Frederick Taylor, bilimsel yönetimin kurucusudur ve farklı bir ücretlendirme sistemi (farklılaştırılmış parça başı ücret) geliştirmiştir; sorudaki ustabaşı-işçi odaklı spesifik sistem Gantt'a aittir.",
+        "Abraham Maslow, ihtiyaçlar hiyerarşisi teorisiyle tanınan bir psikologdur, 20. yüzyıl başı ödeme sistemleriyle bir ilgisi yoktur; o, Davranışsal Yaklaşım dönemine aittir."
+      ]
+    },
+    {
+      "question": "Yönetim Süreci Yaklaşımının öncülüğünü kim yapmıştır?",
+      "options": [
+        "Max Weber",
+        "Henri Fayol",
+        "Frederick Taylor",
+        "A.H. Maslow",
+        "Robert Waterman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yönetim Süreci (Yönetsel Süreç/İdari Yönetim) Yaklaşımı'nın öncülüğünü, yönetimi planlama, örgütleme, komuta, koordinasyon ve kontrol fonksiyonlarına ayırarak inceleyen Fransız mühendis Henri Fayol yapmıştır.",
+      "optionNotes": [
+        "Max Weber, Bürokrasi Yaklaşımı'nın öncüsüdür; Yönetim Süreci Yaklaşımı'yla değil, ideal örgüt/otorite modeliyle anılır.",
+        "Doğru yanıt: Yönetim Süreci Yaklaşımı'nın öncülüğünü, yönetim fonksiyonlarını (planlama, örgütleme, komuta, koordinasyon, kontrol) sistemleştiren Henri Fayol yapmıştır.",
+        "Frederick Taylor, Bilimsel Yönetim Yaklaşımı'nın kurucusudur; Yönetim Süreci Yaklaşımı'nın öncüsü değildir, o işin analizine odaklanmıştır.",
+        "A.H. Maslow, ihtiyaçlar hiyerarşisiyle tanınan bir psikologdur ve Davranışsal Yaklaşım'a aittir; Yönetim Süreci Yaklaşımı'yla ilgisi yoktur.",
+        "Robert Waterman, Yönetimde Mükemmellik Yaklaşımı'nın temsilcilerindendir; Yönetim Süreci Yaklaşımı'nın öncüsü değildir."
+      ]
+    },
+    {
+      "question": "Henri Fayol’a ait kaç adet yönetim ilkesi vardır?",
+      "options": [
+        "4",
+        "8",
+        "10",
+        "14",
+        "18"
+      ],
+      "correctIndex": 3,
+      "explanation": "Henri Fayol, yönetim üzerine gözlem ve deneyimlerine dayanarak iş bölümü, yetki-sorumluluk, disiplin, komuta birliği, yön birliği, merkeziyetçilik, kademe zinciri gibi konuları kapsayan toplam 14 yönetim ilkesi ortaya koymuştur.",
+      "optionNotes": [
+        "4 sayısı, Fayol'un yönetim ilkelerinin gerçek sayısından çok düşüktür; Fayol çok daha kapsamlı bir ilke seti (14 ilke) sunmuştur.",
+        "8 sayısı, Fayol'un toplam ilke sayısını eksik yansıtır; literatürde kabul edilen sayı 14'tür.",
+        "10 sayısı da Fayol'un ilkelerinin tam sayısına karşılık gelmez; doğru sayı 14'tür.",
+        "Doğru yanıt: Henri Fayol, iş bölümünden birlik ruhuna kadar çeşitli konuları kapsayan toplam 14 yönetim ilkesi geliştirmiştir.",
+        "18 sayısı, Fayol'un ilkelerinin gerçek sayısından fazladır; doğru ve literatürde kabul edilen sayı 14'tür."
+      ]
+    },
+    {
+      "question": "1895 yılında Amerikan Makine Mühendisleri Derneğinin yayın organı olan Transaction adlı dergide yayımlanan “Parça Başı Sistemi” adlı makale kime aittir?",
+      "options": [
+        "Frederick Taylor",
+        "M. Gilberth",
+        "Frank B. Lillian",
+        "Harry L. Gantt",
+        "Max Weber"
+      ],
+      "correctIndex": 0,
+      "explanation": "1895 yılında Amerikan Makine Mühendisleri Derneği'nin (ASME) yayın organı olan Transactions dergisinde yayımlanan 'A Piece Rate System' ('Parça Başı Sistemi') adlı makale, bilimsel yönetimin kurucusu Frederick Taylor'a aittir ve onun ücretlendirme/verimlilik konusundaki ilk önemli yayınlarından biridir.",
+      "optionNotes": [
+        "Doğru yanıt: 1895'te Transactions dergisinde yayımlanan 'Parça Başı Sistemi' makalesi, bilimsel yönetimin kurucusu Frederick Taylor'a aittir.",
+        "M. Gilberth, zaman-hareket etütleriyle tanınır; 1895 tarihli bu makalenin yazarı o değildir.",
+        "Frank B. Lillian (Lillian Gilbreth), hareket etütleri konusunda katkı sağlamıştır, fakat 1895'teki bu spesifik makalenin sahibi değildir.",
+        "Harry L. Gantt, Gantt şeması ve prim esaslı ödeme sistemiyle tanınır; 1895'teki 'Parça Başı Sistemi' makalesi onun değil Taylor'ındır.",
+        "Max Weber, bürokrasi teorisiyle tanınan bir sosyologdur; 1895'teki bu ücretlendirme konulu makaleyle bir ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "………….eldeki kaynakların en verimli biçimde kullanılmasını öğreten bilim dalıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Misyon",
+        "Vizyon",
+        "Yönetim",
+        "Sistem",
+        "Bürokrasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yönetim, elde bulunan insan ve madde kaynaklarının belirlenen amaçlar doğrultusunda en verimli/etkin biçimde kullanılmasını sağlayan bilgi ve uygulamaları öğreten bir bilim dalı olarak tanımlanır.",
+      "optionNotes": [
+        "Misyon, bir örgütün var oluş nedenini/temel görevini ifade eder; kaynakların verimli kullanılmasını öğreten bir bilim dalı tanımına karşılık gelmez.",
+        "Vizyon, bir örgütün gelecekte ulaşmak istediği durumu ifade eden bir hedef bildirimidir; kaynak kullanımını öğreten bir bilim dalı değildir.",
+        "Doğru yanıt: Yönetim, eldeki kaynakların en verimli biçimde kullanılmasını öğreten ve bu amaçla ilke ve yöntemler geliştiren bilim dalıdır.",
+        "Sistem, birbirleriyle etkileşim içindeki unsurların oluşturduğu bütünü ifade eden genel bir kavramdır; kaynakların verimli kullanımını öğreten bilim dalı tanımına karşılık gelmez.",
+        "Bürokrasi, kurallara ve hiyerarşiye dayalı resmi bir örgütlenme biçimidir; kaynakların verimli kullanılmasını öğreten genel bir bilim dalı tanımı değildir."
+      ]
+    },
+    {
+      "question": "Toplumsal bilimlerin bilim sayılması kaç temel koşula bağlıdır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Toplumsal bilimlerin bilim sayılabilmesi için genel kabul gören iki temel koşul bulunur: incelenen konuların sistemli/düzenli bir şekilde gözlemlenebilir ve ölçülebilir olması ile elde edilen bilgilerin genellenebilir, test edilebilir ilke ve kurallara dönüştürülebilmesi.",
+      "optionNotes": [
+        "Doğru yanıt: Toplumsal bilimlerin bilim sayılması, konusunun sistemli biçimde incelenebilir olması ve bu incelemelerden genellenebilir ilkeler çıkarılabilmesi şeklinde iki temel koşula bağlıdır.",
+        "3 sayısı, toplumsal bilimlerin bilim sayılma koşullarının standart sınıflandırmasıyla örtüşmez; kabul edilen sayı ikidir.",
+        "4 sayısı fazla ayrıntılı bir sınıflandırmaya işaret eder; literatürde kabul edilen temel koşul sayısı ikidir.",
+        "5 sayısı doğru koşul sayısını yansıtmaz; toplumsal bilimlerin bilim sayılması için gerekli temel koşul sayısı ikidir.",
+        "6 sayısı da doğru değildir; toplumsal bilimlerin bilim sayılabilmesi iki temel koşula bağlıdır."
+      ]
+    },
+    {
+      "question": "Tosun’a göre………... bir amaca ulaşmak, bir isteği gerçekleştirmek veya bir hedefi elde etmek için yapılan işler, yürütülen etkinlikler ve çabalardır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Misyon",
+        "Yönetim",
+        "Vizyon",
+        "Sistem",
+        "Bürokrasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tosun'a göre yönetim; bir amaca ulaşmak, bir isteği gerçekleştirmek veya bir hedefi elde etmek için yapılan işler, yürütülen etkinlikler ve çabalardır.",
+      "optionNotes": [
+        "Misyon, bir örgütün var oluş nedenini ifade eder; Tosun'un burada tanımladığı amaca yönelik iş, etkinlik ve çabalar bütünü tanımı misyona değil yönetime aittir.",
+        "Doğru yanıt: Tosun'a göre yönetim, bir amaca ulaşmak, bir isteği gerçekleştirmek veya bir hedefi elde etmek için yapılan işler, etkinlikler ve çabalardır.",
+        "Vizyon, gelecekte ulaşılmak istenen ideal durumu ifade eden bir hedef bildirimidir; burada tanımlanan iş ve çabalar bütünü vizyon değil yönetim tanımıdır.",
+        "Sistem, birbiriyle etkileşim içindeki unsurların oluşturduğu bütünü ifade eden genel bir kavramdır; amaca yönelik iş ve çabalar tanımı sisteme değil yönetime karşılık gelir.",
+        "Bürokrasi, kurallara ve hiyerarşiye dayalı resmi bir örgütlenme biçimidir; burada tanımlanan amaca yönelik çabalar bütünü bürokrasi değil yönetim tanımıdır."
+      ]
+    }
+  ]
+}

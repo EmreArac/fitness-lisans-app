@@ -1,0 +1,315 @@
+{
+  "course": "yonetim1",
+  "unit_index": 3,
+  "topic": "Sporda Liderlik",
+  "questions": [
+    {
+      "question": "I. Görev yönelimli II. İlişki yönelimli III. Çıkar yönelimli Yukarıdakilerden hangisi liderlerin etkili olabilmesi için sahip olması gereken yönelimler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "İnsanı sosyal bir varlık olarak gören………..insanın sosyalleşmesinde en önemli aracın iletişim olduğunu vurgulamıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Aristo",
+        "Platon",
+        "Aristoteles",
+        "Thomas Hobbes",
+        "John Locke"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Lider kelimesi İngilizcede ilk defa hangi yıllarda kullanılmıştır?",
+      "options": [
+        "1000",
+        "1300",
+        "1500",
+        "1700",
+        "1900"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "……………insanın doğuştan gelen özelliklerini kullanması ve güçlendirmesi gerektiğini düşünerek bir liderin akıl, cesaret, öz denetim ve tarafsızlık olmak üzere dört özelliğe sahip olması gerektiğini öne sürmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Aristo",
+        "Aristoteles",
+        "Thomas Hobbes",
+        "Platon",
+        "John Locke"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "……………liderlerin bilge kişiler olmasının bir zorunluluk olduğunu; bilimsel anlayış, teknik ve felsefi bilgi, mantıklı düşünme becerisine sahip kişilerin lider olabileceğini vurgular. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Platon",
+        "Aristoteles",
+        "Thomas Hobbes",
+        "John Locke",
+        "Aristo"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Liderlik kelimesinin kökeni seyahat etmek veya yol göstermek anlamına gelen………kelimesinden gelmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Leden",
+        "Seden",
+        "Geden",
+        "Teden",
+        "Zeden"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Liderlik ile ilgili ilk bilimsel çalışmalarda 20. yüzyılın sonlarında nerede yapılmıştır?",
+      "options": [
+        "Amerika",
+        "İngiltere",
+        "Fransa",
+        "Kanada",
+        "Rusya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "20. yüzyılın başlangıcında insanlar…………..özelliklere sahip kişilerin lider olabileceğine inanmaktaydılar. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Karizmatik",
+        "Demokratik",
+        "Otokratik",
+        "Liberal",
+        "Durumsal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "1940’lardan itibaren sosyal psikologlar tarafından yapılan araştırmalar sonucunda……………liderlik davranışı sergileyen liderlerin daha etkin olduğu ortaya çıkarılmıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Karizmatik",
+        "Demokratik",
+        "Otokratik",
+        "Liberal",
+        "Durumsal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vizyon sahibi, amaçların farkında olan ve bu amaçları kendi üyelerinin içselleştirmesini destekleyici tavır sergileyen kişi olarak nitelendirilen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Lider",
+        "Yönetici",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Belirlenmiş şartlar kapsamında, bireysel ya da ekip olarak hedeflere ulaşmak koşuluyla, kişinin astlarının/grup üyelerinin uygulamalarını etkilemesi ve ivme kazandırmasına ne ad verilir?",
+      "options": [
+        "Yöneticilik",
+        "Liderlik",
+        "Eğitmenlik",
+        "Öğretmenlik",
+        "Hakemlik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Belli amaçlar doğrultusunda hedeflere ulaşmak için sistemli ve bilinçli bir şekilde insanları etkileme ve yönlendirme becerisine ne ad verilir?",
+      "options": [
+        "Yöneticilik",
+        "Eğitmenlik",
+        "Liderlik",
+        "Öğretmenlik",
+        "Hakemlik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Belli şartlar altında, belirli kişisel veya grup amaçlarını gerçekleştirmek üzere, bir kimsenin başkalarının faaliyetlerini etkilemesi ve yönlendirmesi sürecine ne ad verilir?",
+      "options": [
+        "Yöneticilik",
+        "Eğitmenlik",
+        "Öğretmenlik",
+        "Liderlik",
+        "Hakemlik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Başkalarını belirli bir amaç doğrultusunda davranmaya sevk eden, etkileyen kişi kimdir?",
+      "options": [
+        "Yönetici",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog",
+        "Lider"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Bir grup insanın, kendi kişisel ve grup amaçlarını gerçekleştirmek üzere takip ettikleri, onun isteği, emir ve talimatı doğrultusunda davrandıkları kişiye ne ad verilir?",
+      "options": [
+        "Yönetici",
+        "Lider",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lider ve liderlik kavramıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Sosyal bir olgudur",
+        "Sürekli olarak değişimlerden etkilenir",
+        "Somut bir kavramdır",
+        "Deneyim liderlikte çok önemlidir",
+        "Lider, bulunduğu yerdeki koşullara rağmen fark yaratan insandır"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Kurumun amaçlarının gerçekleştirilmesi için bütün unsurları harekete geçiren örgüt içi ve dışı insan ilişkilerini düzenleyen ve geliştiren onları sevk ve idare eden, belirli bir yönde onlara liderlik ve rehberlik eden ve onları etkileyen kişi kimdir?",
+      "options": [
+        "Lider",
+        "Spor Yöneticisi",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Ceylan (1998) göre lider kişilik özelliklerinden biri değildir?",
+      "options": [
+        "Lider ilk öncelikle başkalarını yönlendiren kişidir.",
+        "İstek ve arzularda istikrarlı tutum sergilemeleri",
+        "Hâl ve tavırlarıyla rol model olmaları",
+        "Enerjik bir yapıya sahip olmaları",
+        "Ahlaklı, inançlı ve kişilik sahibi olmaları"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Teknik bilgi II. Beşeri nitelikler III. Düşünsel özellikler Yukarıdakilerden hangileri liderden beklenen özellikler grubunda yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. İnsanlarda Derinden Temas Sağlama Yeteneği II. Etkin Dinleme III. Şahsi Bütünlük IV. Vizyon Sahibi Olma Yukarıdakilerden hangisi Liderde bulunması gereken özelliklerdendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi yöneticilerin özelliklerinden biri değildir?",
+      "options": [
+        "Statükoyu kabul eder",
+        "Klasik iyi bir askerdir",
+        "Bir şeyleri doğru yapar",
+        "Garanticidir",
+        "Orijinaldir"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Görev odaklı olup statüsünün getirmiş olduğu otoriteyi kullanarak kararları tek başına alan liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Demokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Gruba karar alma ve işi uygun görüldüğü şekilde tamamlama özgürlüğü veren model olarak tanımlanan liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider",
+        "Durumsal Lider"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Değişimlere uyum sağlayarak, yenilikçi yönünü ortaya koyan liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider",
+        "Durumsal Lider"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. İdealize edilmiş etki II. İlham verici motivasyon III. Entelektüel simülasyon IV. Bireysel dikkate alma Yukarıdakilerden hangileri Liderlikteki dönüşüm faktörleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I - II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Geleceği okuyarak ona uyum sağlayabilen veya getirebileceği olumsuzluklara karşı şimdiden önlem alabilen liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Demokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Karizmatik liderlikten ilk bahseden kişi aşağıdakilerden hangisdir?",
+      "options": [
+        "Elton Mayo",
+        "Fritz Roethlisberger",
+        "Douglas McGregor",
+        "Abraham Maslow",
+        "Max Weber"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Fred Fiedler hangi tarz liderlik kuramının ilk temsilcisidir?",
+      "options": [
+        "Durumsal liderlik",
+        "Vizyoner liderlik",
+        "Karizmatik liderlik",
+        "Stratejik liderlik",
+        "Dönüşümcü liderlik"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

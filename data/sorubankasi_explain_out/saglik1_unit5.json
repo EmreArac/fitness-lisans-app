@@ -1,0 +1,482 @@
+{
+  "course": "saglik1",
+  "unit_index": 5,
+  "topic": "Dopingle Mücadele",
+  "questions": [
+    {
+      "question": "’Yasaklı maddelerin veya yöntemlerin kullanımı’’ olarak bilinen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Şike",
+        "İhlal",
+        "Doping",
+        "Hile",
+        "Madde"
+      ],
+      "correctIndex": 2,
+      "explanation": "Doping, Dünya Dopingle Mücadele Kurallarına göre yasaklı madde ya da yöntemlerin sporcular tarafından kullanılmasını ifade eden temel kavramdır; bu nedenle soruda verilen tanım doğrudan \"doping\" kavramına karşılık gelir.",
+      "optionNotes": [
+        "Şike, müsabaka sonucunun önceden anlaşma yoluyla belirlenmesidir (maç sonucunu manipüle etme); yasaklı madde kullanımıyla ilgisi yoktur, dolayısıyla tanıma uymaz.",
+        "İhlal, dopingle mücadele kurallarının herhangi birinin çiğnenmesini ifade eden genel bir sonuç/kategori terimidir; yasaklı madde kullanımının kendisini değil, bu kullanımın kural karşısındaki sonucunu adlandırır.",
+        "Doğru yanıt: Doping, WADA Kurallarında tanımlandığı üzere sporcuların performans artırmak amacıyla yasaklı madde veya yöntemleri kullanmasıdır; soruda verilen tanım bu kavramı karşılar.",
+        "Hile, sportmenliğe aykırı her türlü aldatıcı davranışı kapsayan genel bir kavramdır (örn. kural dışı ekipman, usulsüzlük); doping bunun özel bir türü olsa da soru doğrudan daha teknik olan \"doping\" terimini sormaktadır.",
+        "Madde, yalnızca kimyasal bir bileşiği ifade eder; kullanımı yasaklayan bir eylemi veya kavramı değil, kullanılan şeyin kendisini belirtir, bu nedenle tanıma karşılık gelmez."
+      ]
+    },
+    {
+      "question": "I. Dünya Dopingle Mücadele Ajansı II. Uluslararası Olimpiyat Komitesi III. Uluslararası Paralimpik Komitesi Yukarıda verilenlerden hangileri Dopingle Mücadeleden Sorumlu Kuruluşlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – III",
+        "I –II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Dopingle mücadele sisteminde sorumluluk tek bir kuruma ait değildir; WADA küresel koordinasyonu sağlarken, IOC Olimpiyat Oyunları, IPC ise Paralimpik Oyunlar kapsamında dopingle mücadeleden sorumlu başlıca paydaş kuruluşlardır; bu nedenle üçü de bu kapsamda yer alır.",
+      "optionNotes": [
+        "Sadece WADA'yı içerir; ancak IOC ve IPC de uluslararası düzeyde dopingle mücadeleden sorumlu kuruluşlar arasında olduğundan bu seçenek eksiktir.",
+        "Sadece IOC'yi içerir, WADA'nın küresel koordinasyon rolünü ve IPC'nin paralimpik sporlardaki sorumluluğunu göz ardı eder, dolayısıyla eksik bir seçenektir.",
+        "WADA ve IOC'yi kapsar ancak Paralimpik sporculardan sorumlu olan IPC'yi dışarıda bırakır, bu nedenle tam bir yanıt değildir.",
+        "WADA ve IPC'yi kapsar ancak Olimpiyat Oyunlarından sorumlu IOC'yi listeye almadığı için eksiktir.",
+        "Doğru yanıt: WADA, IOC ve IPC'nin üçü de dopingle mücadele sisteminde sorumluluk üstlenen kuruluşlar arasındadır, bu nedenle doğru yanıt bu üçünü birlikte içeren seçenektir."
+      ]
+    },
+    {
+      "question": "Dünya Dopingle Mücadele Ajansı (WADA) kaç yılında kurulmuştur?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dünya Dopingle Mücadele Ajansı (WADA), sporda dopingle mücadeleyi uluslararası düzeyde koordine etmek amacıyla 1999 yılında Lozan'da düzenlenen Dopingle Mücadele Konferansı sonucunda kurulmuştur.",
+      "optionNotes": [
+        "WADA henüz bu tarihte kurulmamıştır; bu yıl kuruluş öncesi döneme aittir ve doping skandallarının kurumsallaşmayı hızlandırdığı döneme karşılık gelir.",
+        "1998 yılı, Tour de France'daki Festina doping skandalının yaşandığı ve WADA'nın kurulması çağrılarının yoğunlaştığı yıldır, ancak ajansın resmî kuruluşu bu tarihte gerçekleşmemiştir.",
+        "Doğru yanıt: WADA, Kasım 1999'da Lozan'da kurulmuştur.",
+        "Bu tarih WADA'nın kuruluşundan sonrasına, ajansın faaliyete geçtiği ilk yıllara denk gelir, kuruluş tarihi değildir.",
+        "WADA 2001'de merkezini Montreal'e taşımıştır, ancak bu kuruluş tarihi değil, merkez taşınma tarihidir; soru kuruluş yılını sormaktadır."
+      ]
+    },
+    {
+      "question": "Ülkemizde WADA tarafından tanınmış tek Ulusal Dopingle Mücadele Kuruluşu aşağıdakilerden hangisidir?",
+      "options": [
+        "Türkiye Dopingle Mücadele Komisyonu",
+        "Ankara Dopingle Mücadele Komisyonu",
+        "İstanbul Dopingle Mücadele Komisyonu",
+        "Avrasya Dopingle Mücadele Komisyonu",
+        "Hacettepe Dopingle Mücadele Komisyonu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ülkemizde WADA tarafından resmî olarak tanınan ve Kod'a uyumu denetlenen tek Ulusal Dopingle Mücadele Kuruluşu, Türkiye Dopingle Mücadele Komisyonu'dur (TDMK); il veya kurum bazlı herhangi bir komisyon bu statüde değildir.",
+      "optionNotes": [
+        "Doğru yanıt: TDMK, Türkiye'de WADA'nın tanıdığı, Ulusal Dopingle Mücadele Programını yürüten tek resmî kuruluştur.",
+        "Böyle il bazlı bir kuruluş resmî bir Ulusal Dopingle Mücadele Kuruluşu değildir; dopingle mücadele teşkilatlanması il düzeyinde değil ulusal düzeyde tek merkezden yürütülür.",
+        "İl adıyla anılan böyle bir resmî yapı yoktur; bu seçenek var olmayan/karıştırılmış bir kurumu işaret eder.",
+        "Bu isimde WADA tarafından tanınan bir ulusal kuruluş bulunmamaktadır; bölgesel/kıtalar arası bir çağrışım yaratarak yanıltmaya yöneliktir.",
+        "Hacettepe Üniversitesi doping kontrol laboratuvarına ev sahipliği yapar, ancak kurumun kendisi bir \"Ulusal Dopingle Mücadele Kuruluşu\" değildir; laboratuvar hizmeti ile kurumsal yetkilendirme karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "I. Akdeniz Oyunları Uluslararası Komitesi (ICMG) II. Commonwealth Oyunları Federasyonu (CGF) III. Uluslararası Askeri Spor Konseyi (CISM) Yukarıdakilerden hangisi Büyük Çaplı Turnuva Düzenleyicilerindendir?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Büyük Çaplı Turnuva Düzenleyicileri (Major Event Organizations), Dünya Dopingle Mücadele Kuralları kapsamında kendi organizasyonlarında dopingle mücadeleyi yürütmekle sorumlu kıta, bölge ya da branşlara özgü kuruluşlardır; Akdeniz Oyunları Uluslararası Komitesi, Commonwealth Oyunları Federasyonu ve Uluslararası Askeri Spor Konseyi bu kategoride yer alan örgütlerdir.",
+      "optionNotes": [
+        "Sadece ICMG'yi kapsar, ancak CGF ve CISM de aynı kategoriye ait büyük turnuva düzenleyicisi kuruluşlar olduğundan eksiktir.",
+        "Sadece CGF'yi içerir, diğer iki geçerli örgütü (ICMG, CISM) dışarıda bırakır.",
+        "ICMG ve CGF'yi kapsar ama CISM'i (Uluslararası Askeri Spor Konseyi) listeye almadığı için tam değildir.",
+        "CGF ve CISM'i kapsar ama ICMG'yi (Akdeniz Oyunları) dışarıda bırakır, bu nedenle eksik bir seçenektir.",
+        "Doğru yanıt: ICMG, CGF ve CISM'in üçü de Büyük Çaplı Turnuva Düzenleyicileri kategorisinde yer alan kuruluşlardır."
+      ]
+    },
+    {
+      "question": "Dünyada yaklaşık otuz doping kontrol laboratuvarı bulunmaktadır. Bu laboratuvarlardan biri de ülkemizdeki …………. Doping Kontrol Laboratuvarıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "KATÜ",
+        "ODTÜ",
+        "GAZİ",
+        "HACETTEPE",
+        "İTÜ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Türkiye'deki WADA onaylı doping kontrol laboratuvarı, Hacettepe Üniversitesi bünyesinde faaliyet gösteren Hacettepe Doping Kontrol Laboratuvarı'dır; numunelerin analiz edildiği akredite merkez budur.",
+      "optionNotes": [
+        "Böyle bir üniversite kısaltması Türkiye'deki doping kontrol laboratuvarlarıyla ilişkili değildir; akredite bir doping laboratuvarı bu kurumda bulunmamaktadır.",
+        "ODTÜ, mühendislik ve fen alanlarında güçlü bir üniversite olmakla birlikte WADA akreditasyonuna sahip doping kontrol laboratuvarı bu kurumda değil Hacettepe'de bulunmaktadır.",
+        "Gazi Üniversitesi spor bilimleri alanında önemli bir kurum olsa da WADA tarafından akredite edilen ulusal doping kontrol laboratuvarı burada değildir.",
+        "Doğru yanıt: Türkiye'nin WADA akreditasyonlu doping kontrol laboratuvarı Hacettepe Üniversitesi'nde yer almaktadır.",
+        "İTÜ teknik alanlarda öne çıkan bir üniversitedir; doping kontrol laboratuvarı bu kurumla ilişkilendirilmez."
+      ]
+    },
+    {
+      "question": "I. Haberli II. Habersiz III. Yüz yüze IV. Uzaktan Yukarıda verilenlerden hangisi Doping kontrol laboratuvarları denetimleri kapsamında yer alır?",
+      "options": [
+        "I – II – III – IV",
+        "II – IV",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 2,
+      "explanation": "Doping kontrol denetimleri, sporcunun önceden bilgilendirilip bilgilendirilmemesine göre haberli ve habersiz olmak üzere iki temel türe ayrılır; bu iki yöntem denetim planlamasının esasını oluşturur.",
+      "optionNotes": [
+        "Yüz yüze ve uzaktan ifadeleri doping kontrolü denetim türlerini tanımlayan standart kategoriler değildir, bu nedenle tüm seçeneklerin doğru olduğunu söylemek hatalıdır.",
+        "Sadece habersiz ve uzaktan ifadelerini alır; hem haberli denetimi dışarıda bırakır hem de \"uzaktan\" ifadesi doping kontrolünün standart bir türü değildir.",
+        "Doğru yanıt: Haberli ve habersiz denetimler, doping kontrol denetimlerinin temel iki türünü oluşturur.",
+        "Habersiz denetimi doğru şekilde içerse de \"yüz yüze\" ifadesi denetim türü olarak tanımlanmaz, bu nedenle hatalıdır.",
+        "Haberli ve habersiz doğru olsa da \"yüz yüze\" eklenerek standart sınıflandırmaya ait olmayan üçüncü bir unsur dahil edilmiş, bu da seçeneği hatalı kılar."
+      ]
+    },
+    {
+      "question": "Dünya Dopingle Mücadele Kuralları ilk olarak kaç yılında kabul edilmiştir?",
+      "options": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dünya Dopingle Mücadele Kuralları (Kod), WADA tarafından hazırlanmış ve ilk olarak 2003 yılında Kopenhag'da düzenlenen Dünya Dopingle Mücadele Konferansı'nda kabul edilmiştir; Kod 2004'te yürürlüğe girmiştir.",
+      "optionNotes": [
+        "Bu tarihte Kod henüz hazırlanıp kabul edilmemiştir; WADA bu dönemde kurumsal yapısını oturtma aşamasındaydı.",
+        "Doğru yanıt: Dünya Dopingle Mücadele Kuralları ilk olarak 2003 yılında kabul edilmiştir.",
+        "Kod 2003'te kabul edilip 2004'te yürürlüğe girdiğinden, 2005 ilk kabul tarihi değildir; bu tarih yalnızca Kod'un uygulamada daha da yaygınlaştığı döneme işaret eder.",
+        "Bu tarih, Kod'un ilk kabulünden sonraki bir güncelleme/gözden geçirme sürecine denk gelebilir, ilk kabul yılı değildir.",
+        "2009, Kod'un ilk büyük revizyonunun yürürlüğe girdiği yıldır (ilk kabul değil); soru ilk kabul tarihini sormaktadır."
+      ]
+    },
+    {
+      "question": "I. Yasaklı Madde ve Yöntemler Listesi II. Doping Kontrolü ve Soruşturmalar III. Tedavi Amaçlı Kullanım İstisnası IV. Laboratuvarlar, Mahremiyetin ve Kişisel Bilgilerin Korunması Yukarıdakilerden hangisi WADA’nın geliştirdiği Uluslararası Standartlar kapsamında yer alır?",
+      "options": [
+        "I – II – III – IV",
+        "II – IV",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 0,
+      "explanation": "WADA, Dünya Dopingle Mücadele Kuralları'nı tamamlayıcı nitelikte çeşitli Uluslararası Standartlar geliştirmiştir; Yasaklı Madde ve Yöntemler Listesi, Doping Kontrolü ve Soruşturmalar, Tedavi Amaçlı Kullanım İstisnası ve Laboratuvarlar ile Mahremiyetin Korunması bu standartların tümü arasında yer alır.",
+      "optionNotes": [
+        "Doğru yanıt: Bu dört standart da (Liste, Kontrol ve Soruşturmalar, TUE, Laboratuvarlar/Mahremiyet) WADA'nın geliştirdiği Uluslararası Standartlar kapsamındadır.",
+        "Doping Kontrolü/Soruşturmalar ve Laboratuvarlar/Mahremiyet standartlarını içerir ama Liste ve TUE standartlarını dışarıda bırakarak eksik bir yanıt oluşturur.",
+        "Liste ve Doping Kontrolü standartlarını kapsar ancak TUE ve Laboratuvar/Mahremiyet standartlarını listeye almadığından tam değildir.",
+        "Doping Kontrolü ve TUE standartlarını içerir, Liste ile Laboratuvar/Mahremiyet standartlarını dışarıda bıraktığından eksiktir.",
+        "Üç standardı kapsasa da Laboratuvarlar, Mahremiyet ve Kişisel Bilgilerin Korunması standardını dışarıda bıraktığı için tam bir yanıt değildir."
+      ]
+    },
+    {
+      "question": "Doping kontrolü kaç basamaklı bir süreçten oluşmaktadır?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctIndex": 4,
+      "explanation": "Doping kontrolü, sporcunun bildirilmesinden numunenin laboratuvara ulaştırılmasına kadar birbirini takip eden, her aşamasında belirli kurallara uyulması gereken 11 basamaklı standart bir süreçten oluşmaktadır.",
+      "optionNotes": [
+        "Doping kontrol sürecinin basamak sayısı bu sayının üzerindedir; bu seçenek sürecin bazı aşamalarının (örn. numune bölme, yoğunluk ölçümü, belge tamamlama gibi) hesaba katılmamasından kaynaklanan eksik bir sayıdır.",
+        "Süreçteki tüm aşamaları (bildirim, haklar, eşlik, numune verme, ekipman seçimi, bölme, mühürleme, belgeleme gibi) kapsamadığından eksik bir rakamdır.",
+        "Standart sürecin basamak sayısının biraz altında kalan, bazı ara adımların dışarıda tutulduğu bir sayıdır.",
+        "Sürecin büyük kısmını içerse de resmî süreç tanımındaki son basamağı (örn. numunenin nakliyesi/teslimi) eksik bıraktığından tam sayıya ulaşmaz.",
+        "Doğru yanıt: Doping kontrolü, bildirimden numunenin laboratuvara ulaştırılmasına kadar 11 basamaklı bir süreçten oluşur."
+      ]
+    },
+    {
+      "question": "Sporcu rastgele, derecesine göre veya herhangi bir nedenden dolayı doping kontrolüne seçilmesine ne ad verilir?",
+      "options": [
+        "Müsabaka Dışı Doping Kontrolü",
+        "Müsabaka İçi Doping Kontrolü",
+        "Haberli Doping Kontrolü",
+        "Habersiz Doping Kontrolü",
+        "Yüz yüze Doping Kontrolü"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sporcunun rastgele seçim, müsabakadaki derecesi (örneğin ilk üçe girmesi) veya herhangi bir başka nedenle doping kontrolüne alınması, müsabaka sırasında ya da müsabaka ile bağlantılı olarak uygulanan Müsabaka İçi Doping Kontrolü kapsamında tanımlanan bir seçim yöntemidir.",
+      "optionNotes": [
+        "Bu kontrol türü herhangi bir müsabaka ile bağlantılı olmaksızın, antrenman dönemlerinde ve genellikle habersiz olarak yapılır; derece/sıralamaya göre seçim müsabaka ortamına özgü olduğundan bu seçenek tanıma uymaz.",
+        "Doğru yanıt: Rastgele seçim, dereceye göre seçim veya başka bir nedenle sporcunun test için belirlenmesi, müsabaka kapsamında uygulanan bu kontrol türüne özgüdür.",
+        "Bu terim, sporcuya kontrolden önce bilgi verilip verilmediğini ifade eden bir bildirim türüdür, seçim kriterini (rastgele/dereceye göre) tanımlamaz.",
+        "Bu da bir bildirim şekli olup sporcunun önceden haberdar edilmediğini belirtir; sporcunun hangi kritere göre seçildiğiyle ilgili değildir.",
+        "Bu ifade standart bir doping kontrol kategorisi değildir ve soruda tarif edilen seçim yöntemiyle doğrudan bir ilişkisi yoktur."
+      ]
+    },
+    {
+      "question": "Bir sporcu doping kontrolüne girmeyi reddetmesi durumunda en az kaç yıl hak mahrumiyeti cezası alır?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dünya Dopingle Mücadele Kuralları'na göre, bir sporcunun numune vermeyi reddetmesi veya kaçınması, en ağır ihlallerden biri olarak kabul edilir ve kasıtlı madde kullanımına verilen standart cezayla eşdeğer şekilde en az 4 yıl hak mahrumiyeti cezasıyla sonuçlanır.",
+      "optionNotes": [
+        "Bu süre, ancak belirli hafifletici koşulların (kusur bulunmaması, önemsiz madde vb.) kanıtlanabildiği istisnai durumlarda uygulanabilecek çok daha düşük bir cezadır; reddetme ihlali için standart ceza değildir.",
+        "Bu süre, Kod'un eski (2009 öncesi) düzenlemelerinde bazı ihlaller için öngörülen bir süre olup güncel Kod'da reddetme ihlaline karşılık gelmez.",
+        "Bu ara değer, Dünya Dopingle Mücadele Kuralları'nda reddetme ihlali için tanımlanan standart cezalardan biri değildir.",
+        "Doğru yanıt: Numune vermeyi reddetme veya kaçınma, kasıtlı ihlal olarak değerlendirilir ve standart olarak en az 4 yıl hak mahrumiyeti cezası getirir.",
+        "Bu süre, ağırlaştırıcı ek koşulların (örneğin örgütlü doping, tekrar ihlal) bulunduğu özel durumlarda uygulanabilecek daha uzun cezalara yakındır, standart ceza değildir."
+      ]
+    },
+    {
+      "question": "I. Ödül törenine katılma II. Medya yükümlülüklerini yerine getirme III. Soğuma egzersizi yapma IV. Gerekli tıbbi tedavi alma Yukarıdakilerden hangisi Sporcunun Doping Kontrol İstasyonuna Geç Gelmesi İçin Geçerli Nedenler arasında yer alır?",
+      "options": [
+        "II – IV",
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporcunun doping kontrol istasyonuna gecikmeli gelmesi için ödül törenine katılma, medya yükümlülüklerini yerine getirme, soğuma egzersizi yapma ve gerekli tıbbi tedaviyi alma gibi faaliyetler, kuralların tanıdığı geçerli ve meşru gecikme nedenleri arasında sayılır.",
+      "optionNotes": [
+        "Medya yükümlülükleri ve tıbbi tedaviyi kapsar ancak ödül törenine katılma ve soğuma egzersizini dışarıda bırakarak eksik bir listedir.",
+        "Ödül töreni ve medya yükümlülüklerini içerir, soğuma egzersizi ve tıbbi tedaviyi atladığı için tam değildir.",
+        "Medya yükümlülükleri ve soğuma egzersizini kapsar, ödül töreni ve tıbbi tedavi nedenlerini dışarıda bırakır.",
+        "Üç geçerli nedeni içerse de gerekli tıbbi tedavi alma nedenini listeye eklemediği için eksiktir.",
+        "Doğru yanıt: Ödül törenine katılma, medya yükümlülükleri, soğuma egzersizi ve gerekli tıbbi tedavi, istasyona geç gelmek için kabul edilen geçerli nedenlerin tümünü oluşturur."
+      ]
+    },
+    {
+      "question": "Doping kontrolünde gerekli olan idrar miktarı en az kaç ml’dir?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "correctIndex": 3,
+      "explanation": "WADA'nın belirlediği standartlara göre doping kontrolünde sporcudan alınacak idrar numunesinin toplam hacmi en az 90 ml olmalıdır; bu hacim A ve B numune şişelerine bölünecek miktarı güvence altına alır.",
+      "optionNotes": [
+        "Bu miktar, yalnızca A numune şişesi için öngörülen asgari hacme karşılık gelir, toplam numune için yeterli değildir.",
+        "Bu değer standart olarak belirlenen asgari toplam idrar hacminin altında kalır ve A+B numunelerinin güvenli şekilde ayrılmasına yetmez.",
+        "Bu miktar da gerekli asgari toplam hacme ulaşmaz; standart gereksinim bu değerin üzerindedir.",
+        "Doğru yanıt: Doping kontrolünde gereken asgari idrar miktarı 90 ml'dir.",
+        "Bu rakam, gerçek standart asgari miktarın (90 ml) üzerinde olduğundan, soruda sorulan \"en az\" miktarı yanlış şekilde yükseltir."
+      ]
+    },
+    {
+      "question": "İdrar alındıktan sonra Laboratuvarda ilk olarak hangi örnek analiz edilir?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alınan idrar numunesi laboratuvara ulaştığında A ve B olmak üzere iki şişeye bölünmüş olarak gönderilir; bu sorudaki doğru yanıta göre ilk tarama analizi B örneği üzerinden yapılır, A örneği ise gerektiğinde doğrulama amacıyla saklanır.",
+      "optionNotes": [
+        "A örneği, bu sorudaki sıralamaya göre ilk analiz edilen numune değildir; doğrulama gerektiğinde başvurulan örnek olarak saklanır.",
+        "Doğru yanıt: İlk tarama analizi B örneği üzerinden gerçekleştirilir.",
+        "Doping kontrol numune bölme sisteminde \"C\" adıyla ayrı bir şişe/numune bulunmaz, bu seçenek sistemde yer almayan bir kavramı işaret eder.",
+        "\"D\" isimli bir numune şişesi doping kontrol protokolünde tanımlı değildir, standart sistemde yalnızca A ve B şişeleri kullanılır.",
+        "\"E\" isimli bir numune şişesi de standart doping kontrol numune ayırma sisteminde mevcut değildir."
+      ]
+    },
+    {
+      "question": "Doping kontrol örneğinde yasaklı bir maddenin varlığını ya da yasaklı bir yöntemin kullanıldığını gösteren kanıta ne ad verilir?",
+      "options": [
+        "Tedavi Amaçlı Kullanım İstisnası",
+        "Müsabaka İçi Doping Kontrolü",
+        "Aykırı Analitik Bulgu",
+        "Müsabaka Dışı Doping Kontrolü",
+        "Kusursuz Sorumluluk İlkesi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Doping kontrol numunesinde yasaklı bir maddenin varlığını veya yasaklı bir yöntemin kullanıldığına dair kanıtı gösteren laboratuvar raporu, Aykırı Analitik Bulgu (Adverse Analytical Finding) olarak adlandırılır ve bu bulgu, soruşturma sürecinin başlatılmasına temel oluşturur.",
+      "optionNotes": [
+        "Bu, sporcunun tıbbi bir durumu nedeniyle yasaklı bir maddeyi önceden izin alarak kullanmasına imkân veren ayrı bir mekanizmadır; numunede bulgu çıkmasıyla ilgili bir kanıt terimi değildir.",
+        "Bu, bir numunenin ne zaman ve hangi bağlamda alındığını tanımlayan kontrol türüdür, numunede saptanan kanıtı adlandırmaz.",
+        "Doğru yanıt: Yasaklı madde/yöntem varlığına ilişkin laboratuvar kanıtı bu terimle ifade edilir.",
+        "Bu da numunenin alındığı bağlamı (müsabaka dışı dönem) tanımlayan bir kontrol türüdür, analiz sonucu kanıtı ifade etmez.",
+        "Bu ilke, sporcunun vücudunda bulunan yasaklı maddeden kasıt olup olmadığına bakılmaksızın sorumlu tutulmasını ifade eden hukuki bir prensiptir; bulgunun kendisini değil, bulgu karşısındaki sorumluluk esasını tanımlar."
+      ]
+    },
+    {
+      "question": "Doping işlemleri sırasında alınan laboratuvar örnekleri kaç yıl süreyle dondurulup depolanabilir ve analiz edilebilir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 4,
+      "explanation": "Güncel Dünya Dopingle Mücadele Kuralları'na göre, alınan doping kontrol numuneleri ileride yeni analiz yöntemleriyle yeniden incelenebilmesi amacıyla en fazla 10 yıl süreyle dondurularak saklanabilir ve bu süre içinde analiz edilebilir.",
+      "optionNotes": [
+        "Bu süre, numunelerin uzun vadeli saklanması için tanınan gerçek süreden çok daha kısadır ve yeni nesil analiz yöntemleriyle geriye dönük tespit imkânını göz ardı eder.",
+        "Bu süre de yetersiz kalmaktadır; Kod'un öngördüğü saklama süresi bu değerin oldukça üzerindedir.",
+        "Bu değer, güncel Kod'da belirtilen azami saklama süresinden daha kısa bir süreyi ifade eder.",
+        "Bu süre, Kod'un 2009 versiyonundaki eski düzenlemeye karşılık gelir; 2015 revizyonuyla bu süre uzatılmıştır.",
+        "Doğru yanıt: Numuneler, güncel Kod'a göre en fazla 10 yıl süreyle saklanıp analiz edilebilir."
+      ]
+    },
+    {
+      "question": "Doping kontrolü de dâhil olmak üzere dopingle mücadele konusunda yetkilendirilmiş kişiye ne ad verilir?",
+      "options": [
+        "Doping Kontrol Antrenörü",
+        "Doping Kontrol Görevlisi",
+        "Doping Kontrol Yöneticisi",
+        "Doping Kontrol Müdürü",
+        "Doping Kontrol Eğitmeni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doping kontrolü dâhil olmak üzere dopingle mücadele faaliyetlerini yürütmek üzere resmî olarak yetkilendirilmiş kişiye Doping Kontrol Görevlisi (DCO) denir; bu kişi numune alım sürecinin usulüne uygun yürütülmesinden sorumludur.",
+      "optionNotes": [
+        "Antrenörlük, sporcunun performansını geliştirmeye yönelik bir görevdir; doping kontrol sürecinin resmî yürütücüsü olarak tanımlı bir unvan değildir.",
+        "Doğru yanıt: Dopingle mücadele konusunda, kontrol dâhil yetkilendirilmiş kişi bu unvanla anılır.",
+        "Bu unvan, doping kontrol sisteminde tanımlanan resmî ve standart bir görev adı değildir; sahadaki uygulamayı yürüten kişi \"görevli\" olarak adlandırılır.",
+        "Bu da sistemde tanımlı standart bir unvan değildir, idari bir çağrışım yaparak yanıltıcı bir seçenek oluşturur.",
+        "Eğitmen unvanı, eğitim/öğretim faaliyetiyle ilişkilendirilen bir roldür; sahada numune alma ve kontrol sürecini yürütme yetkisini tanımlamaz."
+      ]
+    },
+    {
+      "question": "Yasaklı madde ve yöntemlerin listesi kim tarafından hazırlanır?",
+      "options": [
+        "Ulusal Dopingle Mücadele Ajansı",
+        "Bölgesel Dopingle Mücadele Ajansı",
+        "Uluslararası Federasyonlar Birliği Ajansı",
+        "Dünya Dopingle Mücadele Ajansı",
+        "Uluslararası Paralimpik Birliği Ajansı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yasaklı Madde ve Yöntemler Listesi, dünya çapında geçerliliği olan ve düzenli olarak güncellenen bir uluslararası standart olduğundan, bu listenin hazırlanması Dünya Dopingle Mücadele Ajansı'nın (WADA) sorumluluğundadır.",
+      "optionNotes": [
+        "Ulusal kuruluşlar listeyi uygular ve denetler, ancak listeyi hazırlama/güncelleme yetkisi ulusal düzeyde değil WADA'dadır.",
+        "Böyle bir yapı listeyi hazırlama yetkisine sahip değildir; bölgesel kuruluşlar sahada uygulamayla ilgilenir, listeyi belirleyen merkezi otorite değildir.",
+        "Uluslararası federasyonlar kendi branşlarında Kod'a uyumu sağlar, ancak yasaklı madde listesini hazırlayan kurum değildir.",
+        "Doğru yanıt: Yasaklı Madde ve Yöntemler Listesi'ni hazırlayıp güncelleyen kurum WADA'dır.",
+        "IPC, paralimpik sporlarda dopingle mücadeleyi uygular, fakat küresel yasaklı madde listesini hazırlama yetkisi bu kuruma ait değildir."
+      ]
+    },
+    {
+      "question": "Sporcu idrar testinde A örnek şişesini en az kaç ml doldurmalıdır?",
+      "options": [
+        "15",
+        "30",
+        "45",
+        "60",
+        "75"
+      ],
+      "correctIndex": 3,
+      "explanation": "Toplam en az 90 ml olması gereken idrar numunesi A ve B şişelerine bölünürken, A örnek şişesinin en az 60 ml, B örnek şişesinin ise en az 30 ml ile doldurulması gerekmektedir.",
+      "optionNotes": [
+        "Bu miktar, A şişesi için gereken asgari hacmin çok altında kalır ve laboratuvar analizine yetecek miktarı sağlamaz.",
+        "Bu değer, A şişesi için değil B (yedek) şişesi için öngörülen asgari miktara karşılık gelir.",
+        "Bu miktar da A şişesi için belirlenen gerçek asgari hacmin altında kalan ara bir değerdir.",
+        "Doğru yanıt: A örnek şişesi en az 60 ml idrarla doldurulmalıdır.",
+        "Bu değer, A şişesi için gereken asgari miktarın üzerinde olduğundan, soruda sorulan \"en az\" ifadesine karşılık gelen doğru asgari değer değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Bazı Özel Sporlarda Kullanımı Yasaklı Maddelerden biridir?",
+      "options": [
+        "Beta bloke ediciler",
+        "Narkotikler",
+        "Kannabinoidler",
+        "Beta 2 Agonistler",
+        "Anabolik Maddeler"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beta bloke ediciler, kalp atış hızını düşürerek el titremesini azaltıp konsantrasyonu artırdığından atıcılık ve okçuluk gibi hassasiyet gerektiren branşlarda avantaj sağlar; bu nedenle genel olarak değil, yalnızca belirli branşlarda yasaklanmış maddeler kategorisinde yer alır.",
+      "optionNotes": [
+        "Doğru yanıt: Bu maddeler, tüm sporlarda değil yalnızca okçuluk, atıcılık gibi belirli branşlarda yasaklanmıştır.",
+        "Narkotikler, Müsabaka İçinde Kullanımı Yasaklı Maddeler sınıfında yer alır ve tüm sporlarda müsabaka döneminde genel olarak yasaklıdır, belirli sporlara özgü bir kategori değildir.",
+        "Kannabinoidler de müsabaka içinde tüm sporlarda yasaklı genel bir sınıftır, sadece belirli branşlara özgü bir yasak kategorisine girmez.",
+        "Bu maddeler, her zaman yasaklı maddeler sınıfında (bazı istisnai inhaler dozları hariç) genel olarak yer alır, belirli sporlara özgü bir kısıtlama kategorisi değildir.",
+        "Anabolik maddeler, her zaman (hem müsabaka içi hem dışı) tüm sporlarda yasaklı olan maddelerdir, belirli sporlara özgü yasaklı madde kategorisine girmez."
+      ]
+    },
+    {
+      "question": "…………..yüzyılın sonlarından bu yana, bazı sporcular ne yazık ki, çeşitli maddeleri ve yöntemleri kullanarak müsabakalarda başarı elde etmeye çalışmıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "On altıncı",
+        "On yedinci",
+        "On sekizinci",
+        "On dokuzuncu",
+        "Yirminci"
+      ],
+      "correctIndex": 3,
+      "explanation": "Modern anlamda organize doping kullanımı, tarihsel kayıtlara göre on dokuzuncu yüzyılın sonlarından itibaren bisikletçiler ve dayanıklılık sporcuları arasında performans artırıcı maddelerin kullanılmaya başlamasıyla gündeme gelmiştir.",
+      "optionNotes": [
+        "Bu dönem, modern sporun ve organize müsabakaların henüz bugünkü anlamda şekillenmediği çok daha eski bir çağa karşılık gelir, doping tarihindeki referans dönem değildir.",
+        "Bu yüzyıl da modern anlamda doping kullanımının sporda yaygınlaşmaya başladığı döneme denk gelmez.",
+        "Bu dönem hâlâ modern spor müsabakalarının kurumsallaşmasından önceki bir çağı ifade eder, doping tarihindeki başlangıç noktası olarak kabul edilmez.",
+        "Doğru yanıt: Performans artırıcı madde kullanımı, on dokuzuncu yüzyılın sonlarından itibaren sporcular arasında görülmeye başlamıştır.",
+        "Doping kullanımı yirminci yüzyılda büyük ölçüde yaygınlaşmış olsa da, bu kullanımın başlangıcı metinde belirtildiği gibi daha öncesine, on dokuzuncu yüzyılın sonlarına dayanmaktadır."
+      ]
+    },
+    {
+      "question": "Dopingle Mücadele Kurallarının kaçıncı maddesinde bir veya birden fazla dopingle mücadele kuralının ihlal edilmesi doping olarak kabul edilir?",
+      "options": [
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dünya Dopingle Mücadele Kuralları'nın 2. maddesi, hangi davranış veya durumların \"dopingle mücadele kuralı ihlali\" sayılacağını tanımlar; bir ya da daha fazla bu ihlalin gerçekleşmesi doping olarak kabul edilir.",
+      "optionNotes": [
+        "Kod'un 1. maddesi dopingin tanımını genel çerçevede ortaya koyar, ancak ihlal türlerinin sayıldığı ve doping sayılma koşullarının detaylandırıldığı madde 2. maddedir.",
+        "Doğru yanıt: Dopingle mücadele kuralı ihlalleri ve bunların doping sayılma esası Madde 2'de düzenlenmiştir.",
+        "Kod'un 3. maddesi ispat yükü ve ispat standartlarıyla ilgilidir, ihlallerin tanımlandığı madde değildir.",
+        "4. madde Yasaklı Liste ile ilişkilidir, ihlallerin sayıldığı madde değildir.",
+        "5. madde doping kontrolü/numune alma süreçleriyle ilgilidir, ihlal tanımlarının yer aldığı madde değildir."
+      ]
+    },
+    {
+      "question": "Sporun ruhuyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Mükemmel Performans",
+        "Kişilik ve Eğitim",
+        "Ekip Çalışması",
+        "Sağlık",
+        "Sadece Kendine Saygı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Dünya Dopingle Mücadele Kuralları'nda \"sporun ruhu\" kavramı; sağlık, etik, performansta mükemmellik, karakter ve eğitim, eğlence ve sevinç, takım çalışması, kurallara ve yasalara saygı, kendine ve diğer katılımcılara saygı, cesaret, topluluk ve dayanışma gibi çok boyutlu değerleri kapsar; \"sadece kendine saygı\" ifadesi bu kavramı yalnızca bireysel ve tek yönlü bir öğeye indirgediğinden yanlış bir tanımlamadır.",
+      "optionNotes": [
+        "Performansta mükemmellik, sporun ruhunu oluşturan unsurlardan biridir, bu nedenle doğru bir unsurdur ve soru \"yanlış olan\"ı sorduğundan bu seçenek yanıt değildir.",
+        "Karakter ve eğitim de sporun ruhu kapsamında sayılan geçerli unsurlardan biridir, dolayısıyla bu seçenek sporun ruhuyla ilgili doğru bir öğedir.",
+        "Takım çalışması, sporun ruhunu tanımlayan unsurlar arasında yer alır ve bu nedenle doğru bir ifadedir, \"yanlış\" seçenek değildir.",
+        "Sağlık, sporun ruhu kapsamında vurgulanan temel değerlerden biridir, doğru bir unsur olduğundan yanlış seçenek olamaz.",
+        "Doğru yanıt: Sporun ruhu kavramı \"kendine ve diğer katılımcılara saygı\"yı kapsar; bunu yalnızca kendine saygıyla sınırlayan bu ifade kavramı eksik ve yanlış şekilde tanımladığından, sorulan \"yanlış olan\" seçenek budur."
+      ]
+    },
+    {
+      "question": "Müsabaka İçinde Kullanımı Yasaklı Maddeler sınıfında kaç ana grup bulunmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Müsabaka İçinde Kullanımı Yasaklı Maddeler sınıfı; Stimülanlar, Narkotikler, Kannabinoidler ve Glukokortikoidler olmak üzere dört ana grup altında toplanmaktadır; bu maddeler sadece müsabaka döneminde yasaklıdır.",
+      "optionNotes": [
+        "Bu sayı, müsabaka içinde yasaklı maddelerin gerçek grup sayısının oldukça altında kalır ve örneğin kannabinoidler ile glukokortikoidleri hesaba katmaz.",
+        "Bu sayı da dört ana gruptan birini (örneğin glukokortikoidleri) dışarıda bırakan eksik bir sayıdır.",
+        "Doğru yanıt: Müsabaka içinde yasaklı maddeler sınıfı stimülanlar, narkotikler, kannabinoidler ve glukokortikoidler olmak üzere dört ana gruptan oluşur.",
+        "Bu sayı, gerçek grup sayısının üzerinde olup müsabaka içi kategoriye dahil olmayan başka bir sınıfı (örn. her zaman yasaklı olan anabolik maddeler gibi) bu gruba dahil etmekten kaynaklanan hatalı bir sayıdır.",
+        "Bu sayı da gerçek grup sayısının oldukça üzerinde olup hem müsabaka içi hem müsabaka dışı/her zaman yasaklı kategorileri birbirine karıştırmaktan kaynaklanan bir hatadır."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 5,
+  "topic": "Ölçme ve Değerlendirme",
+  "questions": [
+    {
+      "testNum": 1,
+      "num": 1,
+      "question": "Aşağıdakilerden hangisi Ölçme ve değerlendirmenin kullanılma amaçlarından biri değildir?",
+      "options": ["Farklılaştırma", "Yerleştirme", "Tanı", "Başarının değerlendirilmesi", "Motivasyon"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 2,
+      "question": "Varlık ya da olayların belli bir nitel veya nicel özelliğe sahip oluş derecelerini belirleme işlemine ne ad verilir?",
+      "options": ["Ölçme", "Frekans", "Mod", "Medyan", "Ölçüt"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 3,
+      "question": "Sayısal olarak herhangi iki değer arasında daima başka değer bulunabilen değişken aşağıdakilerden hangisidir?",
+      "options": ["Nicel Değişken", "Nitel Değişken", "Sürekli Değişken", "Süreksiz Değişken", "Bağımlı Değişken"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 4,
+      "question": "Atılan şut sayısı, vurulan smaç sayısı, boy uzunluğu hangi ölçme türüne girmektedir?",
+      "options": ["Doğrudan", "Dolaylı", "Türetilmiş", "Bağıl", "Mutlak"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 5,
+      "question": "I. Doğrudan Ölçme II. Dolaylı Ölçme III. Türetilmiş Ölçme\nYukarıdakilerden hangileri ölçme türleri arasında yer alır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 6,
+      "question": "Katılımcıların yarısı yüzme bilen, diğer yarısı ise yüzme bilmeyen bir grubu uygun gruplara ayırarak eğitim vermek ölçme değerlendirmenin hangi amacıyla ilgilidir?",
+      "options": ["Yerleştirme", "Tanı(Teşhis)", "Başarının değerlendirilmesi", "Motivasyon", "Tahmin (Kestirim)"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 7,
+      "question": "…………..ölçme ile güvenirliği ve geçerliği yüksek bir ölçme elde edilmektedir.\nYukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["Doğrudan", "Dolaylı", "Türetilmiş", "Bağıl", "Mutlak"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 8,
+      "question": "……………ölçme yapılabilmesi için en az iki ölçme sonucunun olması şarttır.\nYukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["Doğrudan", "Dolaylı", "Türetilmiş", "Bağıl", "Mutlak"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 9,
+      "question": "Zekâ, sıcaklık, akademik başarı hangi ölçme türüne girmektedir?",
+      "options": ["Doğrudan", "Dolaylı", "Türetilmiş", "Bağıl", "Mutlak"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 10,
+      "question": "I. Eşitlik II. Genellik III. Kullanışlılık\nYukarıdakilerden hangileri ölçme biriminin özellikleri arasında yer almaktadır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 11,
+      "question": "Aşağıdakilerden hangisi ölçek türlerinden biri değildir?",
+      "options": ["Sınıflama", "Sıralama", "Eşit Aralıklı", "Eşit Oranlı", "Türetilmiş"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 12,
+      "question": "Bilimsel anlamdaki ölçmelerde kullanılan en basit düzeydeki ve en az anlam içeren bilginin elde edilebileceği ölçek türü aşağıdakilerden hangisidir?",
+      "options": ["Sıralama", "Eşit Aralıklı", "Eşit Oranlı", "Sınıflama", "Doğrudan"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 13,
+      "question": "Her birimden kaç tane olduğunu gösteren sayı aşağıdakilerden hangisidir?",
+      "options": ["Mod", "Frekans", "Medyan", "Standart sapma", "Aritmetik ortalama"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 14,
+      "question": "Bir veri setinde çok tekrar eden birime ne ad verilir?",
+      "options": ["Frekans", "Medyan", "Standart sapma", "Aritmetik ortalama", "Mod"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 15,
+      "question": "Termometre, takvim hangi ölçek türüne girmektedir?",
+      "options": ["Sıralama", "Eşit Aralıklı", "Eşit Oranlı", "Sınıflama", "Dolaylı"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 1,
+      "question": "Bir Antrenörün Kronometre ile zaman tutması, hangi ölçek türüne girmektedir?",
+      "options": ["Sıralama", "Eşit Aralıklı", "Eşit Oranlı", "Sınıflama", "Dolaylı"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 2,
+      "question": "Birimlerin küçükten büyüğe sıralandığında veri setini ortadan ikiye bölen değer aşağıdakilerden hangisidir?",
+      "options": ["Mod", "Medyan", "Standart sapma", "Frekans", "Aritmetik ortalama"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 3,
+      "question": "Bir veri setinde toplam puanların veri sayısına bölünmesi sonucunda elde edilen değer aşağıdakilerden hangisidir?",
+      "options": ["Mod", "Aritmetik ortalama", "Medyan", "Standart sapma", "Frekans"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 4,
+      "question": "Başarılı – başarısız  Türkiye’nin bölgeleri  İllerin telefon kodları\nYukarıda örnekleri verilen ölçek türü aşağıdakilerden hangisidir?",
+      "options": ["Sınıflama Ölçeği", "Sıralama Ölçeği", "Eşit Aralıklı Ölçek", "Eşit Oranlı Ölçek", "Türetilmiş Ölçek"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 5,
+      "question": "I. Mutlak II. Bağıl III. Eşit\nYukarıdakilerden hangileri ölçmede kullanılan sıfırlar arasında yer alır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 6,
+      "question": "Boy uzunluğu, akademik başarı puanı, zeka puanı, ağırlık, yaş gibi örnekler hangi değişken türüne girmektedir?",
+      "options": ["Nicel Değişken", "Nitel Değişken", "Sürekli Değişken", "Süreksiz Değişken", "Bağımlı Değişken"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 7,
+      "question": "Bir değişkenin, iki değeri arasında ya hiç başka değer bulunmadığı ya da bulunan değerlerin birkaç değerle sınırlı kaldığı değişkene ne ad verilir?",
+      "options": ["Nicel Değişken", "Nitel Değişken", "Sürekli Değişken", "Süreksiz Değişken", "Bağımlı Değişken"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 8,
+      "question": "Başka bir değişkene bağlı olmadan değer alabilen değişkenlere ne ad verilir?",
+      "options": ["Nitel Değişken", "Bağımsız Değişken", "Sürekli Değişken", "Süreksiz Değişken", "Bağımlı Değişken"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 9,
+      "question": "Değişkenlere bağlı olarak farklı değerler alabilen değişkenlere ne ad verilir?",
+      "options": ["Bağımsız Değişken", "Nitel Değişken", "Sürekli Değişken", "Süreksiz Değişken", "Bağımlı Değişken"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 10,
+      "question": "Hız, yaş, denklem problemleri çözerken hangi ölçmeden yararlanılmaktadır?",
+      "options": ["Doğrudan", "Dolaylı", "Türetilmiş", "Bağıl", "Mutlak"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 11,
+      "question": "Süper ligdeki takımların puan sıraları, hangi ölçek türüne girmektedir?",
+      "options": ["Sıralama", "Eşit Aralıklı", "Eşit Oranlı", "Sınıflama", "Dolaylı"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 12,
+      "question": "Bir ölçme işleminden elde edilen ölçme sonuçlarının bir ölçütle karşılaştırılarak ölçülen özellik hakkında bir karara varma sürecine ne ad verilir?",
+      "options": ["Nitelik", "Ölçme kuralı", "Ölçüm", "Ölçüt", "Değerlendirme"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 13,
+      "question": "I. Eşit oranlı ölçüt II. Mutlak Ölçüt III. Bağıl Ölçüt\nYukarıdakilerden hangisi değerlendirme ögeleri arasında yer alır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 14,
+      "question": "Ölçme sonuçlarının karşılaştırıldığı ve değerlendirmeye dayanak olarak belirlenmiş sabit değer ya da kritere ne ad verilir?",
+      "options": ["Nitelik", "Ölçme kuralı", "Ölçüm", "Ölçüt", "Değerlendirme"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 15,
+      "question": "Boyu 185 cm’den uzun olanlar takıma girer ifadesi hangi ölçüt türüne girmektedir?",
+      "options": ["Doğrudan ölçüt", "Dolaylı ölçüt", "Türetilmiş ölçüt", "Mutlak ölçüt", "Bağıl ölçüt"],
+      "correctIndex": 3
+    }
+  ]
+}

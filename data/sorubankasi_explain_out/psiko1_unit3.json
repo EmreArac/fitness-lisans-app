@@ -1,0 +1,482 @@
+{
+  "course": "psiko1",
+  "unit_index": 3,
+  "topic": "Spor Psikolojisi",
+  "questions": [
+    {
+      "question": "Spor psikolojisi ile ilgili ilk çalışma, kaç yılında yapılmıştır?",
+      "options": [
+        "1858",
+        "1898",
+        "1908",
+        "1928",
+        "1948"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spor psikolojisi alanındaki ilk bilimsel çalışma olarak kabul edilen araştırma, Norman Triplett tarafından 1898 yılında bisikletçilerin performanslarını incelemek amacıyla yapılmıştır. Triplett, bisikletçilerin yalnız yarışırken değil başkalarıyla birlikte yarıştıklarında daha hızlı performans gösterdiğini gözlemlemiş ve bu bulgu 'sosyal kolaylaştırma' (social facilitation) kavramının temelini oluşturmuştur. Bu çalışma, spor psikolojisinin bilimsel bir disiplin olarak doğuşunun başlangıç noktası sayılır.",
+      "optionNotes": [
+        "Bu tarih, spor psikolojisi alanındaki ilk bilimsel çalışmadan çok öncesine; henüz deneysel psikolojinin bile kurumsallaşmadığı bir döneme işaret eder, bu nedenle yanlıştır.",
+        "Doğru yanıt: Norman Triplett'in bisikletçiler üzerinde yaptığı ve sosyal kolaylaştırma etkisini ortaya koyan araştırma bu yılda gerçekleştirilmiş ve spor psikolojisinin ilk bilimsel çalışması olarak kabul edilmiştir.",
+        "Bu tarih, Triplett'in çalışmasından on yıl sonrasına denk gelir ve alanın ilk çalışması olarak kaynaklarda gösterilmez.",
+        "Bu dönem, spor psikolojisinin akademik bir disiplin olarak kurumsallaşma sürecine (örneğin Coleman Griffith'in çalışmaları) denk gelir, alanın ilk çalışmasının tarihi değildir.",
+        "Bu tarih, II. Dünya Savaşı sonrası döneme aittir ve spor psikolojisinin ilk çalışmasıyla ilgisi yoktur, çok daha geç bir dönemi işaret eder."
+      ]
+    },
+    {
+      "question": "Türkiye’de spor psikolojisine ilişkin ilk yayın kaç yılında yayımlanmıştır?",
+      "options": [
+        "1933",
+        "1943",
+        "1953",
+        "1963",
+        "1973"
+      ],
+      "correctIndex": 1,
+      "explanation": "Türkiye'de spor psikolojisi alanındaki ilk yayın 1943 yılında yapılmıştır. Bu yayın, ülkemizde spor psikolojisinin akademik bir ilgi alanı olarak ele alınmasının erken dönem örneklerinden biridir ve alanın Türkiye'deki tarihsel gelişiminin başlangıç noktası olarak kabul edilir.",
+      "optionNotes": [
+        "Bu tarih Türkiye'de spor psikolojisi yazınının başladığı dönemden öncesine işaret eder, kaynaklarda ilk yayın tarihi olarak geçmez.",
+        "Doğru yanıt: Türkiye'de spor psikolojisine ilişkin ilk yayın bu yılda yapılmış ve alanın ülkemizdeki tarihsel başlangıcı olarak kabul edilmiştir.",
+        "Bu tarih ilk yayından on yıl sonrasına karşılık gelir, ilk yayının tarihini yanlış şekilde ileri taşır.",
+        "Bu tarih, ilk yayından çok sonraki bir döneme işaret eder ve alanın Türkiye'de daha fazla yaygınlaştığı sonraki döneme aittir.",
+        "Bu tarih ilk yayından otuz yıl sonrasına denk gelir ve alanın kuruluş tarihini yansıtmaz."
+      ]
+    },
+    {
+      "question": "Psikolojinin ilke ve kurallarının spor ortamına uygulanmasına ne ad verilir?",
+      "options": [
+        "Spor",
+        "Spor Psikolojisi",
+        "Egzersiz",
+        "Egzersiz Psikolojisi",
+        "Antrenman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Psikolojinin ilke ve kurallarının spor ortamına uygulanmasıyla ortaya çıkan bilim dalı Spor Psikolojisidir. Bu alan, sporcuların performansını, davranışlarını ve zihinsel süreçlerini psikolojik kuram ve yöntemlerle inceler ve bu bilgileri sporcuların performansını artırmak ve psikolojik iyi oluşlarını desteklemek amacıyla uygular.",
+      "optionNotes": [
+        "Spor, bedensel etkinliğin kendisini ifade eden genel bir kavramdır; psikolojinin spor ortamına uygulanmasını tanımlayan bilim dalı değildir.",
+        "Doğru yanıt: Psikolojinin ilke ve kurallarının spor alanına uygulanmasıyla oluşan disiplin, tam olarak bu tanıma karşılık gelen Spor Psikolojisidir.",
+        "Egzersiz, belirli bir program dahilinde yapılan fiziksel hareketler bütününü ifade eder; psikolojinin spora uygulanmasıyla ilgili bir bilim dalı değildir.",
+        "Bu kavram, egzersiz davranışı ve fiziksel aktiviteye özgü psikolojik süreçlerle ilgilenir; sorudaki genel tanım ise spor psikolojisine aittir.",
+        "Antrenman, sporcunun fiziksel ve teknik gelişimini sağlamaya yönelik sistematik çalışma sürecidir; bir psikoloji alt disiplini değildir."
+      ]
+    },
+    {
+      "question": "Belli bir program dâhilinde, fiziksel kapasite zorlanmadan, beden ve ruh sağlığını geliştirmek amacıyla yapılan hareketler bütününe ne ad verilir?",
+      "options": [
+        "Spor",
+        "Spor Psikolojisi",
+        "Egzersiz",
+        "Egzersiz Psikolojisi",
+        "Antrenman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Belli bir program dahilinde, fiziksel kapasiteyi zorlamadan, beden ve ruh sağlığını geliştirmek amacıyla yapılan hareketler bütününe Egzersiz adı verilir. Egzersiz, sporun aksine rekabet ya da üst düzey performans hedefi taşımaz; temel amacı bireyin genel sağlığını ve yaşam kalitesini korumak ve geliştirmektir.",
+      "optionNotes": [
+        "Spor genellikle rekabet, kurallar ve performans hedefleri içeren bir etkinliktir; sorudaki tanımda belirtilen zorlanmayan, sağlık odaklı hareket bütünüyle örtüşmez.",
+        "Bu, psikolojinin spor ortamına uygulanmasıyla ilgili bir bilim dalıdır; fiziksel hareketler bütününü tanımlayan bir kavram değildir.",
+        "Doğru yanıt: Program dahilinde, kapasiteyi zorlamadan beden ve ruh sağlığını geliştirmeye yönelik yapılan hareketler bütünü tam olarak egzersiz olarak tanımlanır.",
+        "Bu kavram, egzersiz davranışının psikolojik yönlerini inceleyen bilim dalıdır; hareketler bütününün kendisini tanımlamaz.",
+        "Antrenman, performans artırmaya yönelik sistemli ve genellikle yüksek yoğunluklu bir çalışma sürecidir, sorudaki 'zorlanmadan' ifadesiyle çelişir."
+      ]
+    },
+    {
+      "question": "Egzersiz Psikolojisi hangi ülkenin Psikoloji Birliği tarafından spordan ayrı bir alt alan olarak tanımlanmıştır?",
+      "options": [
+        "İngiltere",
+        "Almanya",
+        "Amerika",
+        "Rusya",
+        "Çin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Egzersiz Psikolojisi, Amerikan Psikoloji Birliği (APA) tarafından spor psikolojisinden ayrı, kendine özgü bir alt alan olarak tanımlanmıştır. Bu ayrım, egzersiz davranışının spor performansından farklı dinamiklere (örneğin fiziksel aktiviteye bağlılık, egzersiz bırakma, sağlık davranışı değişimi) sahip olmasından kaynaklanmaktadır.",
+      "optionNotes": [
+        "Egzersiz psikolojisinin ayrı bir alt alan olarak tanımlanması İngiltere'deki bir psikoloji birliğine atfedilmez; bu tanım Amerikan Psikoloji Birliği'ne aittir.",
+        "Almanya'daki bir psikoloji kuruluşu bu tanımlamayla ilişkilendirilmez; soru Amerikan Psikoloji Birliği'ni işaret etmektedir.",
+        "Doğru yanıt: Egzersiz Psikolojisini spor psikolojisinden ayrı bir alt alan olarak tanımlayan kurum Amerikan Psikoloji Birliği'dir (APA).",
+        "Rusya'daki bir psikoloji birliği bu tanımlamayla anılmaz; bu, Amerikan kaynaklı bir sınıflandırmadır.",
+        "Çin'deki bir kurum bu ayrımı yapmamıştır; söz konusu tanımlama Amerika merkezli APA'ya aittir."
+      ]
+    },
+    {
+      "question": "APA’NIN açılımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Alman Psikoloji Birliği",
+        "Avrupa Psikoloji Birliği",
+        "Asya Psikoloji Birliği",
+        "Avusturya Psikoloji Birliği",
+        "Amerikan Psikoloji Birliği"
+      ],
+      "correctIndex": 4,
+      "explanation": "APA, 'Amerikan Psikoloji Birliği' (American Psychological Association) ifadesinin kısaltmasıdır. APA, psikoloji alanında dünyanın en büyük ve en etkili mesleki kuruluşlarından biridir ve egzersiz psikolojisi gibi alt alanların tanımlanmasında da rol oynamıştır.",
+      "optionNotes": [
+        "APA kısaltması Almanya ile ilgili değildir; bu kısaltma Amerikan menşeli bir kuruluşu ifade eder.",
+        "APA, Avrupa çapında bir birliği değil, Amerika merkezli ulusal bir psikoloji kuruluşunu ifade eder.",
+        "APA kısaltması Asya ile ilişkilendirilen bir kuruluşu karşılamaz.",
+        "APA, Avusturya'yla ilgili bir birlik değildir; kısaltma Amerika kökenlidir.",
+        "Doğru yanıt: APA, 'American Psychological Association' yani Amerikan Psikoloji Birliği'nin kısaltmasıdır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Performansa yönelik spor psikolojisi uygulamaları çalışmalardan biri değildir?",
+      "options": [
+        "Beceri öğrenimi ağırlıklı zihinsel antrenmanlar",
+        "Sporcu kişiliği çalışmaları",
+        "Motivasyon çalışmaları",
+        "Konsantrasyon çalışmaları",
+        "Algılama çalışmaları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Performansa yönelik spor psikolojisi uygulamaları arasında sporcu kişiliği, motivasyon, konsantrasyon ve algılama çalışmaları yer alır. Beceri öğrenimi ağırlıklı zihinsel antrenmanlar ise bu performans geliştirme kategorisinin dışında, daha çok hareket/beceri öğrenimi sürecine odaklanan farklı bir çalışma alanı olarak ele alınır; bu nedenle performansa yönelik uygulamalar listesine dahil edilmez.",
+      "optionNotes": [
+        "Doğru yanıt: Bu çalışma türü, performans geliştirmeye yönelik uygulamalar kategorisinde değil, beceri/hareket öğrenimi sürecine odaklanan ayrı bir kategoride ele alınır; dolayısıyla listeye dahil olmayan seçenek budur.",
+        "Bu, performansa yönelik spor psikolojisi uygulamaları arasında yer alan ve sporcunun kişilik özelliklerinin performansla ilişkisini inceleyen bir çalışma alanıdır; bu nedenle doğru yanıt değildir.",
+        "Motivasyon, sporcu performansını doğrudan etkileyen ve performansa yönelik uygulamalar arasında sayılan temel bir çalışma alanıdır; bu yüzden doğru yanıt olamaz.",
+        "Konsantrasyon çalışmaları, dikkatin performansa yönlendirilmesini sağlayan ve bu kategoriye dahil edilen bir uygulama alanıdır; dolayısıyla seçilmemesi gerekir.",
+        "Algılama çalışmaları da performansı artırmaya yönelik uygulamalar arasında listelenir; bu nedenle 'biri değildir' sorusunun yanıtı olamaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Konsantrasyonun geliştirilebilmesi için gerçekleştirilebilecek başlıca çalışmalardan biri değildir?",
+      "options": [
+        "Saha içi teknikler",
+        "Nefes kontrolü",
+        "Uygulamada simülasyon kullanımı",
+        "İpucu sözcüklerin kullanımı",
+        "Yargılayıcı olmayan düşüncelerin kullanımı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konsantrasyonun geliştirilmesine yönelik başlıca çalışmalar arasında saha içi teknikler, simülasyon uygulamaları, ipucu sözcüklerin kullanımı ve yargılayıcı olmayan düşüncelerin kullanımı yer alır. Nefes kontrolü ise daha çok gevşeme ve kaygı yönetimi tekniklerinden biri olarak sınıflandırılır; bu nedenle konsantrasyon geliştirme çalışmaları arasında doğrudan sayılmaz.",
+      "optionNotes": [
+        "Bu, konsantrasyonu geliştirmek için kullanılan ve sporcunun müsabaka ortamına özgü dikkat stratejilerini içeren bir tekniktir; bu nedenle doğru yanıt olamaz.",
+        "Doğru yanıt: Nefes kontrolü, konsantrasyon geliştirme tekniklerinden ziyade gevşeme ve kaygı azaltma yöntemleri arasında sınıflandırılır; bu yüzden konsantrasyon geliştirme çalışmaları listesine dahil olmayan seçenek budur.",
+        "Simülasyon, sporcunun müsabaka koşullarına dikkatini yöneltmesini sağlayan ve konsantrasyon geliştirmede kullanılan bir tekniktir; bu nedenle yanlıştır.",
+        "İpucu sözcükler, sporcunun dikkatini belirli bir göreve odaklamasına yardımcı olan tanınmış bir konsantrasyon geliştirme tekniğidir; bu yüzden doğru yanıt değildir.",
+        "Bu teknik, sporcunun dikkatini dağıtan değerlendirici düşüncelerden kaçınarak konsantrasyonu artırmayı hedefler; dolayısıyla listeye dahildir ve doğru yanıt olamaz."
+      ]
+    },
+    {
+      "question": "I. Gevşeme tepkisi II. Otojenik egzersiz III. Sistematik duyarsızlaştırma Yukarıdakilerden hangisi bilişsel kaygıyı azaltmak için kullanılan teknikler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Gevşeme tepkisi, otojenik egzersiz ve sistematik duyarsızlaştırma, sporcularda bilişsel kaygıyı azaltmak amacıyla kullanılan başlıca gevşeme temelli tekniklerdir. Her üçü de bedensel gevşeme yoluyla zihinsel gerginliği ve kaygı düzeyini düşürmeyi hedefler; bu nedenle üçü birlikte bilişsel kaygı azaltma teknikleri arasında yer alır.",
+      "optionNotes": [
+        "Bu seçenek, otojenik egzersiz ve sistematik duyarsızlaştırmanın da bilişsel kaygı azaltma teknikleri arasında olduğunu göz ardı eder; eksik bir yanıttır.",
+        "Bu seçenek sistematik duyarsızlaştırmayı dışarıda bırakır, ancak o da bilişsel kaygıyı azaltmada kullanılan tanınmış bir tekniktir.",
+        "Bu seçenek otojenik egzersizi listeden çıkarır, oysa otojenik egzersiz de gevşeme temelli bir kaygı azaltma yöntemidir.",
+        "Bu seçenek gevşeme tepkisini dışarıda bırakır; ancak gevşeme tepkisi de bilişsel kaygı azaltmada temel tekniklerden biridir.",
+        "Doğru yanıt: Gevşeme tepkisi, otojenik egzersiz ve sistematik duyarsızlaştırmanın üçü de bilişsel kaygıyı azaltmak için kullanılan gevşeme temelli tekniklerdir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Sporda kendine güveni geliştirmek için kullanılan tekniklerden biri değildir?",
+      "options": [
+        "Model alma",
+        "Sosyal destek ve teşvik",
+        "İçsel konuşma",
+        "Hayal etme",
+        "Başarıdan keyif almak"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sporda kendine güveni geliştirmek için kullanılan tekniklerden bazıları model alma, sosyal destek ve teşvik, içsel konuşma ve başarıdan keyif almaktır. Hayal etme (imgeleme) tekniği ise genellikle performans provası ve beceri geliştirme amacıyla kullanılan farklı bir psikolojik beceri kategorisinde değerlendirilir; bu nedenle bu listede kendine güven geliştirme tekniği olarak sayılmaz.",
+      "optionNotes": [
+        "Başarılı sporcuların davranışlarının gözlemlenip örnek alınması, özgüveni geliştirmede kullanılan tanınmış bir tekniktir; bu nedenle doğru yanıt değildir.",
+        "Çevreden alınan destek ve teşvik, sporcunun kendine olan güvenini artıran önemli bir kaynaktır; bu yüzden listede yer alır.",
+        "Olumlu içsel konuşma, sporcunun kendi yeteneklerine olan inancını güçlendiren bilinen bir özgüven geliştirme tekniğidir; dolayısıyla doğru yanıt olamaz.",
+        "Doğru yanıt: Hayal etme (imgeleme), bu sınıflandırmada özgüven geliştirme tekniklerinden ayrı, performans ve beceri provasına yönelik bir teknik olarak ele alınır; bu nedenle listeye dahil olmayan seçenek budur.",
+        "Sporcunun elde ettiği başarılardan keyif alması, özgüvenini besleyen ve bu teknikler arasında sayılan bir unsurdur; bu yüzden doğru yanıt değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi performansa engel olan psikolojik etmenlerin ortadan kaldırılması amacıyla yapılan çalışmalardan biri değildir?",
+      "options": [
+        "Müsabaka kaygısı",
+        "Algılama çalışmaları",
+        "Müsabaka stresi",
+        "Gerginlikler",
+        "Tükenme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Performansa engel olan psikolojik etmenlerin ortadan kaldırılmasına yönelik çalışmalar arasında müsabaka kaygısı, müsabaka stresi, gerginlikler ve tükenme ile baş etme çalışmaları yer alır. Algılama çalışmaları ise performans geliştirmeye yönelik uygulamalar kategorisinde değerlendirilir; dolayısıyla engelleyici etmenlerin ortadan kaldırılması çalışmaları arasında sayılmaz.",
+      "optionNotes": [
+        "Müsabaka kaygısı, performansı olumsuz etkileyen ve bu nedenle ortadan kaldırılmaya çalışılan bir psikolojik etmendir; bu yüzden doğru yanıt değildir.",
+        "Doğru yanıt: Algılama çalışmaları, performansı engelleyen etmenlerin ortadan kaldırılmasından ziyade performansı geliştirmeye yönelik uygulamalar kategorisinde yer alır; bu nedenle listeye dahil olmayan seçenek budur.",
+        "Müsabaka stresi, sporcunun performansını olumsuz etkileyen ve üzerinde çalışılması gereken bir engelleyici etmendir; bu yüzden doğru yanıt olamaz.",
+        "Gerginlikler, performansı bozan psikolojik etmenlerden biri olarak bu çalışma kapsamında ele alınır; dolayısıyla doğru yanıt değildir.",
+        "Tükenme (burnout), sporcunun performansını ciddi şekilde engelleyen ve ortadan kaldırılmaya çalışılan önemli bir psikolojik etmendir; bu nedenle doğru yanıt olamaz."
+      ]
+    },
+    {
+      "question": "Spora katılımın en yoğun olduğu dönemin kaç yaş civarında olduğu tespit edilmiştir?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "Araştırmalar, çocukların spora katılımının en yoğun olduğu dönemin yaklaşık 12 yaş civarında olduğunu göstermektedir. Bu yaştan sonra birçok çocukta spora katılım oranlarında belirgin bir azalma gözlenmekte, bu durum motivasyon kaybı, rekabetin artması ve diğer ilgi alanlarının öne çıkması gibi etmenlerle ilişkilendirilmektedir.",
+      "optionNotes": [
+        "Bu yaş, spora katılımın en yoğun olduğu dönem olarak tespit edilen yaştan daha küçüktür; çocukların spora yönelimi bu yaşta henüz zirve noktasına ulaşmamıştır.",
+        "Bu yaş da katılımın en yoğun olduğu dönemden biraz önceki bir aşamayı temsil eder, araştırmalarda belirtilen zirve nokta değildir.",
+        "Doğru yanıt: Araştırmalar, spora katılımın en yoğun olduğu dönemin yaklaşık 12 yaş civarında olduğunu göstermektedir.",
+        "Bu yaş, katılımın zirve noktasından sonraki bir döneme karşılık gelir; genellikle bu yaşlarda katılım oranlarında azalma başlamış olur.",
+        "Bu yaş, spora katılımın en yoğun olduğu dönemden belirgin şekilde ileri bir yaştır ve genellikle katılımın azaldığı ergenlik dönemine denk gelir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi sporcuların spora katılım motivasyonu açısından öncelikli amaçlarından biri değildir?",
+      "options": [
+        "Kazanma duygusu yaşamak",
+        "Eğlenmek ve heyecan deneyimlemek",
+        "Bir gruba ait olduğunu ve kabul edildiğini hissetmek",
+        "Davranışları üzerinde kontrol ve özerklik hissetmek",
+        "Yeterli hissetmek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sporcuların spora katılım motivasyonu açısından öncelikli amaçları arasında eğlenmek ve heyecan deneyimlemek, bir gruba ait olduğunu ve kabul edildiğini hissetmek, davranışları üzerinde kontrol ve özerklik hissetmek ve yeterli hissetmek bulunur. Kazanma duygusu yaşamak ise genellikle öncelikli bir katılım motivi olarak değil, bu temel psikolojik ihtiyaçların bir sonucu veya ikincil bir kazanım olarak değerlendirilir; araştırmalar çoğu genç sporcu için kazanmanın birincil motivasyon kaynağı olmadığını göstermektedir.",
+      "optionNotes": [
+        "Doğru yanıt: Araştırmalar, sporcuların spora katılımında kazanmanın öncelikli bir motivasyon amacı olmadığını, eğlence, ait olma, özerklik ve yeterlik gibi temel ihtiyaçların daha belirleyici olduğunu göstermektedir; bu nedenle listeye dahil olmayan seçenek budur.",
+        "Eğlenme ve heyecan, sporcuların katılım motivasyonunun en sık belirtilen ve öncelikli amaçlarından biridir; bu yüzden doğru yanıt değildir.",
+        "Aidiyet ve kabul görme hissi, özellikle genç sporcuların spora katılımındaki temel motivasyon kaynaklarından biridir; dolayısıyla doğru yanıt olamaz.",
+        "Özerklik hissi, öz-belirleme kuramına göre sporcuların katılım motivasyonunu besleyen temel psikolojik ihtiyaçlardan biridir; bu nedenle doğru yanıt değildir.",
+        "Yeterlik hissi, sporcuların spora katılımını sürdürmesinde önemli bir motivasyon kaynağı olarak kabul edilir; bu yüzden doğru yanıt olamaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi sporcuların Yakınlık veya İlişki İhtiyacını Karşılamaya Yönelik Yöntemlerden biri değildir?",
+      "options": [
+        "Çocuklara arkadaş edinmeleri için zaman vermek",
+        "Antrenman dışında sosyal etkinlikler düzenlemek",
+        "Antrenman öncesi boş zaman dilimleri sağlamak",
+        "Antrenman sırasında boş zaman dilimleri sağlamak",
+        "Genç sporculara formlarını nasıl koruyacaklarını öğretmek"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporcuların yakınlık veya ilişki ihtiyacını karşılamaya yönelik yöntemler arasında çocuklara arkadaş edinmeleri için zaman vermek, antrenman dışında sosyal etkinlikler düzenlemek, antrenman öncesi ve sırasında boş zaman dilimleri sağlamak bulunur. Genç sporculara formlarını nasıl koruyacaklarını öğretmek ise fiziksel/teknik yeterlik geliştirmeye yönelik bir yöntemdir ve ilişki/yakınlık ihtiyacıyla değil, yeterlik ihtiyacıyla ilişkilidir.",
+      "optionNotes": [
+        "Bu, sporcuların birbirleriyle sosyal bağ kurmasını sağlayan ve yakınlık ihtiyacını karşılamaya yönelik tipik bir yöntemdir; bu yüzden doğru yanıt değildir.",
+        "Antrenman dışı sosyal etkinlikler, takım üyeleri arasında yakınlık ve bağ kurmayı destekleyen bir yöntemdir; dolayısıyla doğru yanıt olamaz.",
+        "Bu zaman dilimleri, sporcuların birbirleriyle sosyalleşmesine olanak tanıyarak yakınlık ihtiyacını karşılamaya hizmet eder; bu nedenle doğru yanıt değildir.",
+        "Bu da antrenman sürecinde sosyal etkileşime alan açarak ilişki ihtiyacını desteklemeye yönelik bir yöntemdir; bu yüzden doğru yanıt olamaz.",
+        "Doğru yanıt: Bu yöntem, sporcunun fiziksel yeterliğini geliştirmeye yönelik olup yakınlık/ilişki ihtiyacından ziyade yeterlik ihtiyacıyla ilişkilidir; bu nedenle listeye dahil olmayan seçenek budur."
+      ]
+    },
+    {
+      "question": "I. Olumsuz sonuçların sporcularda yaratacağı hayal kırıklığının önüne geçmek için gerçekçi beklentiler oluşturmak II. Aktif uygulamalar yürütmek, tekdüzen ve sabit uygulamalardan kaçınmak III. Çocuklarla içtenlikle şakalaşmak Yukarıdakilerden hangileri sporcuların Eğlenme İhtiyacını Karşılamaya Yönelik Yöntemler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporcuların eğlenme ihtiyacını karşılamaya yönelik yöntemler arasında gerçekçi beklentiler oluşturarak hayal kırıklığının önüne geçmek, aktif ve çeşitli uygulamalar yürüterek tekdüzelikten kaçınmak ve çocuklarla içtenlikle şakalaşmak sayılabilir. Bu üç unsur da sporun eğlenceli ve keyifli bir deneyim olarak sürdürülmesine katkı sağlar.",
+      "optionNotes": [
+        "Bu seçenek, aktif/çeşitli uygulamaların ve içten şakalaşmanın da eğlence ihtiyacını karşılamaya katkı sağladığını göz ardı eder; eksik bir yanıttır.",
+        "Bu seçenek çocuklarla içtenlikle şakalaşmayı dışarıda bırakır, oysa bu da eğlenceli bir antrenman ortamı yaratmanın önemli bir parçasıdır.",
+        "Bu seçenek aktif ve çeşitli uygulamalar yürütmeyi listeden çıkarır; ancak tekdüzelikten kaçınmak da eğlence ihtiyacını karşılamada etkili bir yöntemdir.",
+        "Bu seçenek gerçekçi beklentiler oluşturmayı dışarıda bırakır; oysa hayal kırıklığını önlemek de sporun eğlenceli kalmasına katkı sağlayan bir yöntemdir.",
+        "Doğru yanıt: Gerçekçi beklentiler oluşturmak, çeşitli/aktif uygulamalar yürütmek ve çocuklarla içtenlikle şakalaşmanın üçü de sporcuların eğlenme ihtiyacını karşılamaya yönelik yöntemler arasındadır."
+      ]
+    },
+    {
+      "question": "Sporcunun benliğiyle bü tü nlü k içinde olan davranışlarını sergileme ihtiyacına ne ad verilir?",
+      "options": [
+        "İlişkisellik ihtiyacı",
+        "Yeterlik ihtiyacı",
+        "Özerklik ihtiyacı",
+        "Yeterlik algısı",
+        "Motivasyonel iklim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sporcunun kendi benliğiyle bütünlük içinde olan, kendi değerleri ve tercihleriyle uyumlu davranışlar sergileme ihtiyacına özerklik ihtiyacı denir. Öz-belirleme kuramına göre özerklik, bireyin davranışlarını dışsal baskılar yerine kendi iradesiyle yönlendirdiğini hissetmesini ifade eden temel bir psikolojik ihtiyaçtır.",
+      "optionNotes": [
+        "Bu ihtiyaç, başkalarıyla sıcak ve bakım dolu ilişkiler kurma ve ait olma hissiyle ilgilidir; benlikle bütünlük içinde davranma ihtiyacını tanımlamaz.",
+        "Yeterlik ihtiyacı, bireyin becerilerini etkili şekilde kullanabildiğini hissetmesiyle ilgilidir; benlikle uyumlu davranış sergileme ihtiyacından farklıdır.",
+        "Doğru yanıt: Benliğiyle bütünlük içinde olan davranışlar sergileme ihtiyacı, öz-belirleme kuramında tam olarak özerklik ihtiyacı olarak tanımlanır.",
+        "Bu, bireyin kendi yeterliğine ilişkin öznel değerlendirmesini ifade eder; benlikle bütünlük içinde davranma ihtiyacıyla ilgili bir kavram değildir.",
+        "Bu kavram, öğrenme ortamının algılanan sosyal ve değerlendirmeye dayalı atmosferini ifade eder; bireysel bir psikolojik ihtiyaç değildir."
+      ]
+    },
+    {
+      "question": "Diğerlerinden algılanan sıcaklık ve bakımın bir sonucu olarak ortaya çıkan genel bir ait olma duygusuna ne ad verilir?",
+      "options": [
+        "Özerklik ihtiyacı",
+        "Ödül yapısı",
+        "Yeterlik ihtiyacı",
+        "İlişkisellik ihtiyacı",
+        "Motivasyonel iklim"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diğerlerinden algılanan sıcaklık ve bakımın bir sonucu olarak ortaya çıkan genel ait olma duygusuna ilişkisellik ihtiyacı adı verilir. Bu ihtiyaç, öz-belirleme kuramının temel psikolojik ihtiyaçlarından biridir ve sporcunun antrenör, takım arkadaşları ve çevresiyle kurduğu sıcak, destekleyici ilişkiler yoluyla karşılanır.",
+      "optionNotes": [
+        "Özerklik, bireyin kendi davranışları üzerinde kontrol ve irade hissetmesiyle ilgilidir; sıcaklık ve bakımdan kaynaklanan ait olma duygusunu tanımlamaz.",
+        "Ödül yapısı, motivasyonel iklimi oluşturan TARGET bileşenlerinden biridir; bireysel bir ihtiyaç veya ait olma duygusu değildir.",
+        "Yeterlik ihtiyacı, bireyin becerilerini etkili kullanabildiğini hissetmesiyle ilgilidir; sıcaklık ve bakım algısından kaynaklanan ait olma duygusundan farklıdır.",
+        "Doğru yanıt: Diğerlerinden algılanan sıcaklık ve bakımın sonucunda ortaya çıkan genel ait olma duygusu, tam olarak ilişkisellik ihtiyacı olarak tanımlanır.",
+        "Motivasyonel iklim, öğrenme ortamının algılanan genel atmosferini ifade eder; bireyin kişisel ait olma duygusunu doğrudan tanımlayan bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Öğrenme ortamındaki kişilerarası süreçler ve değerlendirmeyle ilgili duyuşsal ve sosyal durum aşağıdakilerden hangisidir?",
+      "options": [
+        "Özerklik ihtiyacı",
+        "İlişkisellik ihtiyacı",
+        "Yeterlik ihtiyacı",
+        "Yeterlik algısı",
+        "Motivasyonel iklim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Öğrenme ortamındaki kişilerarası süreçler ve değerlendirmeyle ilgili duyuşsal ve sosyal durum, motivasyonel iklim olarak tanımlanır. Motivasyonel iklim, antrenör, takım arkadaşları ve değerlendirme uygulamalarının birlikte oluşturduğu, sporcunun motivasyonunu ve davranışlarını şekillendiren algılanan ortamı ifade eder.",
+      "optionNotes": [
+        "Bu, bireyin kendi davranışları üzerinde kontrol hissetme ihtiyacını tanımlar; ortamın genel duyuşsal ve sosyal durumunu ifade eden bir kavram değildir.",
+        "İlişkisellik ihtiyacı, bireyin ait olma ve sıcaklık algısıyla ilgili kişisel bir ihtiyacıdır; öğrenme ortamının genel iklimini tanımlamaz.",
+        "Bu, bireyin becerilerini etkili kullanabildiğini hissetme ihtiyacını ifade eder; ortamın sosyal ve duyuşsal durumunu tanımlayan bir kavram değildir.",
+        "Yeterlik algısı, bireyin kendi becerisine dair öznel değerlendirmesidir; öğrenme ortamının genel iklimini tanımlayan bir kavram değildir.",
+        "Doğru yanıt: Öğrenme ortamındaki kişilerarası süreçler ve değerlendirmeyle ilgili duyuşsal ve sosyal durum, tam olarak motivasyonel iklim kavramıyla tanımlanır."
+      ]
+    },
+    {
+      "question": "Oyuncunun sıkı çalıştığında, gelişim gösterdiğinde, diğerlerinin öğrenmesine yardımcı olduğunda ve başarı için herkesin katkısına inandığında Antrenörden olumlu destek aldığı bir öğrenme atmosferine ne ad verilir?",
+      "options": [
+        "Ustalık iklimi",
+        "Performans İklimi",
+        "Motivasyonel iklim",
+        "Geribildirim",
+        "Zaman yapısı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oyuncunun sıkı çalıştığında, gelişim gösterdiğinde, diğerlerinin öğrenmesine yardımcı olduğunda ve başarı için herkesin katkısına inanıldığında antrenörden olumlu destek aldığı öğrenme atmosferi ustalık iklimi (görev yönelimli iklim) olarak tanımlanır. Bu iklimde başarı, kişisel gelişim ve çaba temelinde tanımlanır; başkalarıyla kıyaslama değil bireysel ilerleme ön plandadır.",
+      "optionNotes": [
+        "Doğru yanıt: Çaba, gelişim, işbirliği ve herkesin katkısının değerli görülmesine dayanan bu destekleyici atmosfer tam olarak ustalık iklimi olarak tanımlanır.",
+        "Performans iklimi, yetenek ve sonuç odaklı, rekabetçi ve karşılaştırmaya dayalı bir atmosferi ifade eder; sorudaki çaba ve işbirliği odaklı tanımla örtüşmez.",
+        "Motivasyonel iklim, genel bir üst kavramdır; sorudaki spesifik tanım ise bu üst kavramın alt türlerinden biri olan ustalık iklimine karşılık gelir.",
+        "Geribildirim, antrenörün sporcuya performansı hakkında verdiği bilgidir; sorudaki genel öğrenme atmosferini tanımlayan bir iklim türü değildir.",
+        "Zaman yapısı, TARGET modelinin bir bileşeni olup antrenman süresinin düzenlenmesiyle ilgilidir; sorudaki genel destekleyici atmosferi tanımlamaz."
+      ]
+    },
+    {
+      "question": "Sporcuların, kötü performansın ve hataların cezalandırılacağına inandıkları, daha yetenekli oyuncuların daha fazla ilgi ve dikkat çektiğini düşündükleri ve takım üyeleri arasında rekabetin Antrenör tarafından yaratıldığına inandıkları bir ortama ne ad verilir?",
+      "options": [
+        "Ustalık iklimi",
+        "Performans İklimi",
+        "Motivasyonel iklim",
+        "Geribildirim",
+        "Zaman yapısı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sporcuların, kötü performansın ve hataların cezalandırılacağına inandıkları, daha yetenekli oyuncuların daha fazla ilgi gördüğünü düşündükleri ve takım üyeleri arasındaki rekabetin antrenör tarafından yaratıldığına inandıkları ortam, performans iklimi (ego yönelimli iklim) olarak tanımlanır. Bu iklimde başarı, başkalarıyla kıyaslanan yetenek ve sonuçlar üzerinden tanımlanır.",
+      "optionNotes": [
+        "Ustalık iklimi, çaba ve kişisel gelişimin ödüllendirildiği, hataların cezalandırılmadığı destekleyici bir ortamı ifade eder; sorudaki cezalandırıcı ve rekabetçi tanımla çelişir.",
+        "Doğru yanıt: Hataların cezalandırılacağı inancı, yetenekli oyunculara ayrıcalık tanınması ve antrenör kaynaklı rekabet algısı, tam olarak performans iklimini (ego yönelimli iklimi) tanımlar.",
+        "Motivasyonel iklim genel bir üst kavramdır; sorudaki spesifik cezalandırıcı ve rekabetçi tanım bu üst kavramın alt türü olan performans iklimine karşılık gelir.",
+        "Geribildirim, antrenörün performansla ilgili verdiği bilgidir; sorudaki genel ortam tanımını karşılayan bir iklim kavramı değildir.",
+        "Zaman yapısı, antrenman süresinin düzenlenişiyle ilgili bir TARGET bileşenidir; sorudaki cezalandırıcı rekabet ortamını tanımlamaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Ustalık yönelimli motivasyon iklimi oluşturmak İçin kullanılan TARGET uygulama önerilerinden biri değildir?",
+      "options": [
+        "Görev yapısı",
+        "Özerklik yapısı",
+        "Geribildirim",
+        "Ödül yapısı",
+        "Değerlendirme yapısı"
+      ],
+      "correctIndex": 2,
+      "explanation": "TARGET modeli, ustalık yönelimli bir motivasyon iklimi oluşturmak için antrenörlere önerilen uygulama alanlarını kapsar: Görev yapısı (Task), Özerklik yapısı (Authority), Tanınma/Ödül yapısı (Recognition), Gruplama yapısı (Grouping), Değerlendirme yapısı (Evaluation) ve Zaman yapısı (Timing). Geribildirim, bu TARGET bileşenlerinden biri değildir; geribildirim daha genel bir antrenörlük davranışı olup TARGET'in belirttiği yapısal uygulama alanlarından ayrı ele alınır.",
+      "optionNotes": [
+        "Görev yapısı, TARGET modelinin 'Task' bileşenine karşılık gelir ve ustalık iklimi oluşturmada kullanılan temel uygulama alanlarından biridir; bu nedenle doğru yanıt değildir.",
+        "Özerklik yapısı, TARGET modelinin 'Authority' bileşenine karşılık gelir ve sporcuya karar alma sürecinde söz hakkı vermeyi içerir; bu yüzden doğru yanıt olamaz.",
+        "Doğru yanıt: Geribildirim, TARGET modelinin altı yapısal bileşeninden biri değildir; TARGET, görev, özerklik, ödül/tanınma, gruplama, değerlendirme ve zaman yapılarını kapsar, geribildirim bu sınıflandırmanın dışındadır.",
+        "Ödül yapısı, TARGET modelinin 'Recognition' bileşenine karşılık gelir ve başarının nasıl tanındığı ve ödüllendirildiğiyle ilgilidir; bu nedenle doğru yanıt değildir.",
+        "Değerlendirme yapısı, TARGET modelinin 'Evaluation' bileşenine karşılık gelir ve performansın nasıl değerlendirildiğiyle ilgilidir; bu yüzden doğru yanıt olamaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Martens tarafından önerilen sözsüz iletişim yollarından biri değildir?",
+      "options": [
+        "Fiziksel görüntü",
+        "Vücut hareketleri",
+        "Dokunma",
+        "Ses özellikleri",
+        "Empati"
+      ],
+      "correctIndex": 4,
+      "explanation": "Martens'e göre sözsüz iletişim yolları arasında fiziksel görüntü, vücut hareketleri, dokunma ve ses özellikleri (tonlama, vurgu gibi) yer alır. Empati ise bir sözsüz iletişim kanalı değil, karşıdaki kişinin duygularını anlama ve paylaşma becerisini ifade eden duyuşsal/bilişsel bir kavramdır; bu nedenle Martens'in sözsüz iletişim yolları listesinde yer almaz.",
+      "optionNotes": [
+        "Fiziksel görüntü (kıyafet, duruş, görünüm), Martens'in belirttiği sözsüz iletişim yollarından biridir; bu yüzden doğru yanıt değildir.",
+        "Vücut hareketleri (jest, mimik, duruş), sözsüz iletişimin temel kanallarından biri olarak Martens tarafından belirtilmiştir; dolayısıyla doğru yanıt olamaz.",
+        "Dokunma, duygusal destek ve iletişimi güçlendiren tanınmış bir sözsüz iletişim yoludur ve Martens'in listesinde yer alır; bu nedenle doğru yanıt değildir.",
+        "Ses tonu, vurgu ve hız gibi ses özellikleri, sözlü içerik dışında anlam taşıyan sözsüz iletişim unsurlarıdır; bu yüzden doğru yanıt olamaz.",
+        "Doğru yanıt: Empati, bir sözsüz iletişim kanalı değil, karşıdaki kişinin duygularını anlama becerisidir; bu nedenle Martens'in sözsüz iletişim yolları arasında sayılmaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Spor iletişimin altın kurallarından biri değildir?",
+      "options": [
+        "Dürüst olun",
+        "Tutarlı olun",
+        "Empatik olun",
+        "Sözsüz iletişim yollarının farkında olun ve bunu kullanın",
+        "Sadece takım kaptanıyla sürekli iletişim halinde olun"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor iletişiminin altın kuralları arasında dürüst olmak, tutarlı olmak, empatik olmak ve sözsüz iletişim yollarının farkında olup bunları etkin kullanmak sayılır. Yalnızca takım kaptanıyla sürekli iletişim halinde olmak ise etkili bir iletişim ilkesi değildir; aksine antrenörün tüm takım üyeleriyle açık ve dengeli iletişim kurması gerektiği vurgulanır, bu nedenle bu seçenek altın kurallar arasında yer almaz.",
+      "optionNotes": [
+        "Dürüstlük, güvenilir ve sağlıklı bir antrenör-sporcu iletişiminin temel taşlarından biri olarak spor iletişiminin altın kuralları arasında yer alır; bu yüzden doğru yanıt değildir.",
+        "Tutarlılık, sporcuların antrenöre güven duymasını sağlayan ve altın kurallar arasında sayılan önemli bir iletişim ilkesidir; dolayısıyla doğru yanıt olamaz.",
+        "Empati, sporcunun duygularını anlamayı sağlayan ve etkili iletişimin temel kurallarından biri olarak kabul edilir; bu nedenle doğru yanıt değildir.",
+        "Sözsüz iletişimin bilinçli kullanımı, mesajın doğru iletilmesini sağlayan ve altın kurallar arasında yer alan bir ilkedir; bu yüzden doğru yanıt olamaz.",
+        "Doğru yanıt: Etkili spor iletişimi, tüm takım üyeleriyle dengeli iletişimi gerektirir; iletişimi yalnızca kaptanla sınırlamak bu ilkeye aykırıdır ve altın kurallar arasında yer almaz."
+      ]
+    },
+    {
+      "question": "İletişim işlemi içerisinde yer alan iki bireyden birisinin mesajı göndermesi diğer tarafın da bu mesajı alıp değerlendirerek verdiği içsel tepkileri ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Tek yollu iletişim",
+        "Ses özellikleri",
+        "Empati",
+        "Fiziksel görüntü",
+        "Jest ve mimik"
+      ],
+      "correctIndex": 0,
+      "explanation": "İletişim sürecinde taraflardan birinin mesajı göndermesi, diğer tarafın bu mesajı alıp değerlendirerek içsel tepkiler vermesi ancak bu tepkinin gönderene geri iletilmediği (geri bildirim döngüsünün tamamlanmadığı) sürece bu, tek yollu iletişim olarak tanımlanır. Bu iletişim türünde mesaj akışı tek yönlüdür; alıcının değerlendirmesi kendi içinde kalır ve göndericiye yansımaz.",
+      "optionNotes": [
+        "Doğru yanıt: Mesajın gönderilmesi ve alıcının bunu değerlendirerek içsel tepki vermesi, ancak bu tepkinin göndericiye iletilmemesi durumu tam olarak tek yollu iletişim olarak tanımlanır.",
+        "Ses özellikleri, sözsüz iletişimin bir bileşenidir; iletişim sürecinin tek yönlü ya da çift yönlü olmasını tanımlayan bir kavram değildir.",
+        "Empati, karşıdaki kişinin duygularını anlama becerisidir; sorudaki mesaj gönderme-alma sürecinin yapısını tanımlayan bir iletişim türü değildir.",
+        "Fiziksel görüntü, sözsüz iletişim unsurlarından biridir; iletişim sürecinin tek yönlü işleyişini tanımlayan bir kavram değildir.",
+        "Jest ve mimik, vücut hareketleri kapsamında değerlendirilen sözsüz iletişim unsurlarıdır; sorudaki mesaj alışverişi sürecinin türünü tanımlamaz."
+      ]
+    },
+    {
+      "question": "I. Karşılıklı Güven II. Saygı III. Empati Yukarıdakilerden hangileri verimli iletişimin temel özelliklerindendir?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Karşılıklı güven, saygı ve empati, verimli bir iletişimin temel özellikleri arasında sayılır. Bu üç unsur, antrenör-sporcu ilişkisinde açık, dürüst ve etkili bir iletişimin kurulabilmesi için gerekli zemin oluşturur.",
+      "optionNotes": [
+        "Bu seçenek, saygı ve empatinin de verimli iletişimin temel özellikleri arasında olduğunu göz ardı eder; eksik bir yanıttır.",
+        "Bu seçenek, karşılıklı güven ve empatinin de verimli iletişim için gerekli olduğunu dışarıda bırakır; eksik bir yanıttır.",
+        "Bu seçenek empatiyi listeden çıkarır, oysa empati de verimli iletişimin temel özelliklerinden biridir.",
+        "Bu seçenek karşılıklı güveni dışarıda bırakır; ancak güven de etkili bir iletişimin vazgeçilmez temel taşlarından biridir.",
+        "Doğru yanıt: Karşılıklı güven, saygı ve empatinin üçü de verimli iletişimin temel özellikleri arasında yer alır."
+      ]
+    }
+  ]
+}

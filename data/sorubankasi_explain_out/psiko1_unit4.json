@@ -1,0 +1,501 @@
+{
+  "course": "psiko1",
+  "unit_index": 4,
+  "topic": "Spor Fair Play",
+  "questions": [
+    {
+      "question": "Türkçe literatürde fair play terimini ilk kullanan ve tanıtan kişi aşağıdakilerden hangisidir?",
+      "options": [
+        "Erdoğan Arıpınar",
+        "Mehmet Akif Üstündağ",
+        "Selim Sırrı Tarcan",
+        "Faik Üstünidman",
+        "Mazhar Kazancı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Türk beden eğitimi ve spor hareketinin kurucu isimlerinden olan Selim Sırrı Tarcan, Batı spor literatüründen aktardığı kavramlarla Türk spor diline önemli katkılar yapmış ve \"fair play\" terimini Türkçe yazılarında ilk kullanıp okuyucuya tanıtan kişi olarak kabul edilir. Bu yönüyle Tarcan, hem terminolojik hem de etik açıdan Türk sporuna fair play bilincinin girişinde öncü bir rol oynamıştır.",
+      "optionNotes": [
+        "Erdoğan Arıpınar, Türkiye'de fair play konusunda daha sonraki dönemlerde tanınan bir isimdir; terimin Türkçeye ilk kez kazandırılmasıyla değil, sonraki süreçteki katkılarıyla anılır.",
+        "Mehmet Akif Üstündağ, spor ahlakı ve fair play üzerine akademik çalışmaları olan güncel bir isimdir; terimin Türkçe literatüre ilk girişiyle özdeşleştirilen kişi değildir.",
+        "Doğru yanıt: Selim Sırrı Tarcan, fair play terimini Türkçe yazılarına taşıyarak bu kavramı Türk spor camiasına ilk tanıtan isim olarak kabul edilir.",
+        "Faik Üstünidman, Türk spor tarihinde tanınan bir isim olmakla birlikte, fair play terimini ilk kullanan kişi olarak kaynaklarda gösterilmez; bu nitelik Tarcan'a aittir.",
+        "Mazhar Kazancı, Türk spor camiasında bilinen bir isim olsa da fair play teriminin Türkçeye ilk kazandırılmasıyla ilişkilendirilmez."
+      ]
+    },
+    {
+      "question": "Türk Dil Kurumu, \"fair play\" terimi için……………..karşılığını önermektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Ahlaklı oyun",
+        "Dürüst oyun",
+        "Serbest oyun",
+        "Eşit oyun",
+        "Kurallı oyun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Türk Dil Kurumu, İngilizce kökenli \"fair play\" ifadesine karşılık olarak \"dürüst oyun\" terimini önermektedir. Bu karşılık, kavramın hem kurallara bağlılığı hem de dürüstlük, hile yapmama ve rakibe karşı doğru davranma gibi ahlaki boyutunu Türkçede tek bir ifadeyle yansıtmayı amaçlar.",
+      "optionNotes": [
+        "\"Ahlaklı oyun\" ifadesi kavramın etik boyutunu çağrıştırsa da TDK'nın resmî önerisi bu değildir; TDK daha somut biçimde \"dürüst oyun\" karşılığını kullanır.",
+        "Doğru yanıt: TDK, \"fair play\" için Türkçede \"dürüst oyun\" karşılığını önermektedir.",
+        "\"Serbest oyun\" ifadesi fair play'in kurallara ve etik ilkelere bağlılık vurgusuyla çelişir; fair play özgürlükten değil dürüstlük ve kurallara saygıdan söz eder.",
+        "\"Eşit oyun\" ifadesi fırsat eşitliği gibi fair play'in bir alt bileşenini çağrıştırabilir ama TDK'nın önerdiği tam karşılık değildir.",
+        "\"Kurallı oyun\" ifadesi yalnızca kurallara uymayı (formal fair play'i) akla getirir, kavramın bütününü karşılamadığı için TDK'nın resmî karşılığı değildir."
+      ]
+    },
+    {
+      "question": "“Fair” sıfatı ilk ortaya çıkışında “estetik” anlam taşırken, kaçıncı yüzyıldan itibaren kavuştuğu “etik” içerikle kapsamı genişlemiştir?",
+      "options": [
+        "10.",
+        "12.",
+        "14.",
+        "16.",
+        "18."
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Fair\" sözcüğü İngilizcede ilk kullanıldığında \"güzel, hoş, göz alıcı\" gibi estetik bir anlam taşımaktaydı. Kaynaklara göre bu sıfat, 14. yüzyıldan itibaren \"doğru, dürüst, adil davranma\" gibi etik bir içerik de kazanmış ve böylece anlam alanı salt görsel/estetik güzellikten ahlaki bir nitelik tanımlamaya doğru genişlemiştir.",
+      "optionNotes": [
+        "10. yüzyıl, \"fair\" sözcüğünün etik anlam kazandığı dönem olarak kaynaklarda belirtilen tarihten çok daha erken bir dönemdir.",
+        "12. yüzyıl da kavramın etik içerik kazandığı dönem olarak gösterilmez; bu dönüşüm biraz daha sonraki bir yüzyılda gerçekleşmiştir.",
+        "Doğru yanıt: \"Fair\" sıfatı 14. yüzyıldan itibaren estetik anlamının yanında etik/ahlaki bir içerik de kazanmıştır.",
+        "16. yüzyıl, bu anlam genişlemesinin başladığı dönem olarak değil, kavramın zaten etik anlamıyla kullanılmakta olduğu daha sonraki bir dönem olarak değerlendirilir.",
+        "18. yüzyıl da modern fair play anlayışının spor alanında şekillenmeye başladığı döneme daha yakındır, sözcüğün etik anlam kazandığı ilk dönem değildir."
+      ]
+    },
+    {
+      "question": "Fair play kavramını, fırsat eşitliğini korumak’, ‘şövalyece düşünüş tarzını göstermek’ anlamında kullanan ünlü düşünür kimdir?",
+      "options": [
+        "Descartes",
+        "Shakespeare",
+        "Spinoza",
+        "John Locke",
+        "David Hume"
+      ],
+      "correctIndex": 1,
+      "explanation": "İngiliz edebiyatının büyük ismi William Shakespeare, eserlerinde \"fair play\" ifadesini fırsat eşitliğini koruma ve şövalyece/centilmence bir düşünüş biçimini ortaya koyma anlamında kullanmıştır. Bu kullanım, terimin günlük dildeki ahlaki ve centilmenlik vurgusunun edebiyat yoluyla yaygınlaşmasında önemli bir kilometre taşı sayılır.",
+      "optionNotes": [
+        "Descartes, rasyonalist felsefenin kurucusu olarak bilinir; \"fair play\" ifadesinin edebi/dilsel kökeniyle ilişkilendirilen bir isim değildir.",
+        "Doğru yanıt: Shakespeare, eserlerinde \"fair play\" ifadesini fırsat eşitliğini koruma ve şövalyece düşünüş biçimini anlatmak için kullanmıştır.",
+        "Spinoza, Hollandalı bir filozof olup etik üzerine önemli eserler vermiştir, ancak \"fair play\" teriminin bu anlamda kullanımıyla özdeşleştirilmez.",
+        "John Locke, siyaset felsefesi ve doğal haklar kuramıyla tanınır; \"fair play\" ifadesinin bu özel kullanımına kaynaklık eden isim değildir.",
+        "David Hume, ampirist felsefenin önemli temsilcisidir; bu soruda sorulan edebi kullanımla ilişkilendirilen düşünür o değildir."
+      ]
+    },
+    {
+      "question": "I. Kurallara uyma II. Hakem kararlarını kabullenme III. Rakibe saygı IV. Fırsat eşitliği V. Yarışma şartlarının eşitliği Yukarıda verilen ilkelerden hangileri Fair play’e uygun yarışma ortamı için zorunlu şartlardandır?",
+      "options": [
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4,
+      "explanation": "Fair play'e uygun bir yarışma ortamının oluşabilmesi için kurallara uyma, hakem kararlarını kabullenme ve rakibe saygı gibi davranışsal ilkelerin yanında, fırsat eşitliği ve yarışma şartlarının eşitliği gibi yapısal/organizasyonel koşulların da sağlanması gerekir. Bu beş ilke bir bütün olarak ele alındığında ancak gerçek anlamda adil ve dengeli bir rekabet ortamından söz edilebilir; bunlardan herhangi birinin eksik olması fair play'in tam anlamıyla gerçekleşmesini engeller.",
+      "optionNotes": [
+        "Sadece I-II (kurallara uyma ve hakem kararlarını kabullenme) seçeneği, rakibe saygı ile fırsat ve yarışma şartı eşitliğini dışarıda bırakır; bu nedenle eksik bir listedir.",
+        "Sadece II-III (hakem kararı ve rakibe saygı) seçeneği kurallara uymayı ve eşitlik ilkelerini kapsam dışı bırakır, dolayısıyla zorunlu şartların tamamını yansıtmaz.",
+        "I-II-III seçeneği davranışsal ilkeleri (kural, hakem, rakip saygısı) içerse de fırsat eşitliği ve yarışma şartlarının eşitliği gibi yapısal koşulları göz ardı eder.",
+        "I-II-III-IV seçeneği dört ilkeyi kapsasa da yarışma şartlarının eşitliğini (V) dışarıda bırakır; oysa bu da fair play için zorunlu bir koşuldur.",
+        "Doğru yanıt: I-II-III-IV-V; fair play'e uygun bir yarışma ortamı için bu beş ilkenin tümü birlikte gerekli ve zorunlu kabul edilir."
+      ]
+    },
+    {
+      "question": "Güreş, boks ve halter gibi spor branşlarında değişik sıkletlerin oluşturulması aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Kurallara uyma",
+        "Hakem kararlarını kabullenme",
+        "Rakibe saygı",
+        "Fırsat eşitliği",
+        "Yarışma şartlarının eşitliği"
+      ],
+      "correctIndex": 4,
+      "explanation": "Güreş, boks ve halter gibi branşlarda sporcuların vücut ağırlığına göre farklı sıkletlere (kilo kategorilerine) ayrılması, rakiplerin fiziksel güç ve kütle açısından mümkün olduğunca benzer koşullarda karşı karşıya gelmesini sağlamak amacı taşır. Bu uygulama, doğrudan yarışma şartlarının eşitliği ilkesiyle ilişkilidir; çünkü amaç, sonucu belirleyecek olanın sportif performans olmasını, kaba fiziksel avantajın tek belirleyici olmamasını güvence altına almaktır.",
+      "optionNotes": [
+        "Kurallara uyma, oyun/müsabaka kurallarına riayet etmekle ilgilidir; sıklet sınıflandırması kuralların kendisinin bir parçası olsa da asıl ilgili olduğu ilke yarışma koşullarının dengelenmesidir.",
+        "Hakem kararlarını kabullenme, müsabaka sırasında verilen yargılara itiraz etmeden uymakla ilgilidir; sıkletlerin oluşturulmasıyla doğrudan bir ilgisi yoktur.",
+        "Rakibe saygı, sporcular arası davranışsal bir tutumu ifade eder; fiziksel kategori belirlemesiyle değil, müsabaka içindeki tavırla ilgilidir.",
+        "Fırsat eşitliği daha çok herkesin yarışmaya katılma ve kendini gösterme şansına eşit erişimiyle ilgilidir; sıklet ayrımı ise katılım sonrası fiziksel dengeyi düzenler.",
+        "Doğru yanıt: Sıklet kategorileri, rakiplerin benzer fiziksel koşullarda yarışmasını sağlayarak yarışma şartlarının eşitliğini güvence altına alır."
+      ]
+    },
+    {
+      "question": "Fair play anlayışı ‘formal’ ve ‘informal’ olarak kim tarafından ikiye ayrılmıştır?",
+      "options": [
+        "Hans Lenk",
+        "Thomas Arnold",
+        "Edward Thring",
+        "B. Pierre de Coubertin",
+        "Willi Daume"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alman spor felsefecisi Hans Lenk, fair play kavramını \"formal fair play\" ve \"informal fair play\" olarak ikiye ayırmıştır. Formal fair play, yazılı kurallara harfiyen uymayı; informal fair play ise kuralların ötesinde, sporculuk ruhuna ve etik değerlere dayanan, yazılı olmayan bir davranış biçimini ifade eder. Bu ayrım, fair play'in sadece kurallara uymaktan ibaret olmadığını, aynı zamanda bir tutum ve karakter meselesi olduğunu göstermesi açısından önemlidir.",
+      "optionNotes": [
+        "Doğru yanıt: Hans Lenk, fair play'i formal ve informal olmak üzere iki temel türe ayıran spor felsefecisidir.",
+        "Thomas Arnold, Rugby School'un reform niteliğindeki müdürü olarak İngiliz okul sporlarında karakter eğitimini ön plana çıkarmıştır, ancak formal/informal ayrımını yapan kişi değildir.",
+        "Edward Thring, İngiliz yatılı okullarında spor ve jimnastiği müfredata kazandıran isimdir; fair play'in formal/informal olarak kavramsal ayrımını yapan kişi değildir.",
+        "Pierre de Coubertin, modern olimpiyat hareketinin kurucusu olarak tanınır; fair play'in bu teorik ikili sınıflandırmasını yapan isim o değildir.",
+        "Willi Daume, Alman spor yöneticiliği ve fair play ödülleriyle anılan bir isimdir, fakat formal/informal fair play ayrımının kuramcısı değildir."
+      ]
+    },
+    {
+      "question": "Türkiye’de adında fair play ifadesinin kullanıldığı ilk kitap aşağıdakilerden hangisidir?",
+      "options": [
+        "Sporcu Neler Bilmeli",
+        "Spor Ruhu",
+        "Sporda Erdemlik",
+        "Sporda Centilmenlik",
+        "Sporda Hakkaniyete Uyma"
+      ],
+      "correctIndex": 2,
+      "explanation": "Türkiye'de başlığında fair play kavramını (erdem/dürüstlük anlamıyla) taşıyan ilk eser \"Sporda Erdemlik\" adıyla yayımlanmıştır. Bu kitap, fair play kavramının Türk spor literatüründe bir kitap başlığı düzeyinde ele alınmasının ilk örneği olarak kabul edilir ve kavramın Türkçede kurumsallaşma sürecinin önemli bir basamağını oluşturur.",
+      "optionNotes": [
+        "\"Sporcu Neler Bilmeli\", Selim Sırrı Tarcan'a ait erken dönem bir eser olup genel spor bilgilerini konu alır; başlığında fair play ifadesi geçmez.",
+        "\"Spor Ruhu\" başlığı sportmenlik temasına değinse de adında doğrudan fair play ifadesini taşıyan ilk kitap olarak kaynaklarda gösterilmez.",
+        "Doğru yanıt: \"Sporda Erdemlik\", Türkiye'de adında fair play kavramını taşıyan ilk kitap olarak kabul edilir.",
+        "\"Sporda Centilmenlik\" başlığı fair play'in centilmenlik yönünü çağrıştırsa da ilk olma özelliği bu esere değil \"Sporda Erdemlik\"e aittir.",
+        "\"Sporda Hakkaniyete Uyma\" fair play'in adalet/hakkaniyet boyutuna işaret eden bir başlık olsa da bu soruda sorulan \"ilk kitap\" unvanını taşımaz."
+      ]
+    },
+    {
+      "question": "Amir hükümler içeren oyun kurallarını kabullenme ve onlara kesinlikle uyma ile sınırlı olan Fair Play anlayışı aşağıdakilerden hangisidir?",
+      "options": [
+        "İnformal",
+        "Etik",
+        "Estetik",
+        "Formal",
+        "Eşit"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formal fair play, yazılı/amir kurallara harfiyen uymayı esas alan, bu kuralların dışına çıkmayan ve kuralların belirlediği sınırlarla kısıtlı kalan bir anlayıştır. Bu yaklaşımda sporcudan beklenen, oyunun yazılı kurallarını kabul edip onlara eksiksiz biçimde uymasıdır; kuralların ötesine geçen gönüllü, etik temelli bir davranış bu kapsamın dışındadır.",
+      "optionNotes": [
+        "İnformal fair play, tam tersine kuralların ötesine geçen, yazılı olmayan etik beklentileri içeren bir anlayıştır; bu soruda tanımlanan kurallarla sınırlı yaklaşım değildir.",
+        "\"Etik\" fair play türü olarak değil, informal fair play'in dayandığı değerler alanı olarak anılır; doğrudan kurallarla sınırlı anlayışı ifade etmez.",
+        "\"Estetik\" terimi fair play'in tarihsel kökenindeki sözcük anlamıyla ilgilidir, kuralları kabullenmeyle sınırlı bir fair play türünü tanımlamaz.",
+        "Doğru yanıt: Formal fair play, amir hükümler içeren oyun kurallarını kabullenip onlara kesinlikle uymakla sınırlı olan anlayıştır.",
+        "\"Eşit\" fair play'in bir alt ilkesi (fırsat/yarışma şartı eşitliği) olarak geçer, ancak kurallara sıkı uyumu tanımlayan özel bir fair play türü değildir."
+      ]
+    },
+    {
+      "question": "Sporda kuralların belirlediğinin ötesinde, kurallar üstü bir davranışı talep eden Fair Play anlayışı aşağıdakilerden hangisidir?",
+      "options": [
+        "Etik",
+        "İnformal",
+        "Estetik",
+        "Formal",
+        "Eşit"
+      ],
+      "correctIndex": 1,
+      "explanation": "İnformal fair play, yazılı kuralların çizdiği sınırların ötesine geçerek sporcudan gönüllü, vicdani ve etik temelli bir davranış biçimi talep eder. Bu anlayışta sporcu, kurallar izin verse de rakibine haksız bir üstünlük sağlamaktan kaçınır ve sportmenlik ruhuna uygun, kurallar üstü bir tutum sergiler; bu nedenle informal fair play, formal fair playin tamamlayıcısı ve daha yüksek bir ahlaki standardı temsil eder.",
+      "optionNotes": [
+        "\"Etik\" terimi informal fair play'in dayandığı değerler alanını niteler, ancak soruda sorulan özel kavramın adı doğrudan \"etik\" değil \"informal\" olarak geçer.",
+        "Doğru yanıt: İnformal fair play, kuralların belirlediğinin ötesinde, kurallar üstü ve gönüllü bir davranışı talep eden anlayıştır.",
+        "\"Estetik\" terimi \"fair\" sözcüğünün tarihsel kökenine işaret eder, kurallar üstü davranış talep eden bir fair play türünü tanımlamaz.",
+        "\"Formal\" fair play, tam tersine yazılı kurallara sıkı sıkıya uymayı esas alır; kuralların ötesine geçen bir talebi içermez.",
+        "\"Eşit\" ifadesi fırsat ve yarışma şartı eşitliğiyle ilgili bir ilkeyi çağrıştırır, kurallar üstü davranışı tanımlayan özel bir fair play türü değildir."
+      ]
+    },
+    {
+      "question": "19. yüzyıl sonlarında Osmanlı topraklarında sporcular hangi sıfatla anılırdı?",
+      "options": [
+        "Efendi",
+        "Şehzade",
+        "Şövalye",
+        "Melik",
+        "Hakan"
+      ],
+      "correctIndex": 0,
+      "explanation": "19. yüzyıl sonlarında Osmanlı toplumunda spor yapan kişiler, dönemin toplumsal hitap ve saygı biçimine uygun olarak \"efendi\" sıfatıyla anılmaktaydı. Bu kullanım, sporun o dönemde belirli bir terbiye, centilmenlik ve itibar göstergesi olarak algılandığını ve sporcuya toplumsal bir saygınlık atfedildiğini yansıtır.",
+      "optionNotes": [
+        "Doğru yanıt: 19. yüzyıl sonlarında Osmanlı'da sporcular \"efendi\" sıfatıyla anılırdı; bu, dönemin centilmenlik ve saygınlık algısını yansıtan bir hitap biçimiydi.",
+        "\"Şehzade\" Osmanlı hanedanına mensup erkek çocukları için kullanılan özel bir unvandır, sporcuları tanımlayan genel bir sıfat değildir.",
+        "\"Şövalye\" Batı Avrupa'nın feodal/ortaçağ dönemine ait bir unvan ve davranış idealidir; Osmanlı'da sporcular için kullanılan bir sıfat değildir.",
+        "\"Melik\" Arapça kökenli \"kral/hükümdar\" anlamına gelen bir unvandır, dönemin sporcularına yönelik günlük bir hitap biçimi olarak kullanılmamıştır.",
+        "\"Hakan\" Türk-Moğol devlet geleneğinde hükümdarlar için kullanılan bir unvandır, sıradan sporcuları tanımlayan bir sıfat değildir."
+      ]
+    },
+    {
+      "question": "‘’Sporcu Neler Bilmeli’’ adlı eser kime aittir?",
+      "options": [
+        "Erdoğan Arıpınar",
+        "Mehmet Akif Üstündağ",
+        "Selim Sırrı Tarcan",
+        "Faik Üstünidman",
+        "Mazhar Kazancı"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Sporcu Neler Bilmeli\" adlı eser, Türk beden eğitimi hareketinin öncülerinden Selim Sırrı Tarcan'a aittir. Tarcan, bu eserinde sporcuların bilmesi gereken temel bilgileri bir araya getirerek dönemin spor eğitimi literatürüne önemli bir katkı sağlamıştır; bu kitap aynı zamanda onun fair play terimini Türkçeye taşıyan öncü kimliğiyle de örtüşür.",
+      "optionNotes": [
+        "Erdoğan Arıpınar, fair play konusunda sonraki dönemde tanınan bir isimdir; \"Sporcu Neler Bilmeli\" adlı eserin yazarı değildir.",
+        "Mehmet Akif Üstündağ, spor ahlakı üzerine güncel akademik çalışmalarıyla bilinir; bu eserin yazarı olarak kaynaklarda geçmez.",
+        "Doğru yanıt: \"Sporcu Neler Bilmeli\" adlı eser Selim Sırrı Tarcan'a aittir.",
+        "Faik Üstünidman, Türk spor tarihinde tanınan bir isim olmakla birlikte bu eserin yazarı olarak bilinmez; bu eser Tarcan'a aittir.",
+        "Mazhar Kazancı, bu eserle ilişkilendirilen bir isim değildir; eserin yazarı Selim Sırrı Tarcan'dır."
+      ]
+    },
+    {
+      "question": "Türkiye Milli Olimpiyat Komitesi tarafından hazırlatılan Fair play konulu eser aşağıdakilerden hangisidir?",
+      "options": [
+        "Sporcu Neler Bilmeli",
+        "Spor Ruhu",
+        "Sporda erdemlik",
+        "Olimpik Hareket",
+        "Sporda Centilmenlik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Türkiye Milli Olimpiyat Komitesi (TMOK), fair play kavramını ve olimpizmin temel değerlerini Türk kamuoyuna tanıtmak amacıyla \"Olimpik Hareket\" adlı eseri hazırlatmıştır. Bu eser, olimpik felsefenin bir parçası olarak fair play'i ele alır ve TMOK'un kurumsal düzeydeki fair play'i yaygınlaştırma çalışmalarının önemli bir ürünüdür.",
+      "optionNotes": [
+        "\"Sporcu Neler Bilmeli\", Selim Sırrı Tarcan'a ait bireysel bir eser olup TMOK tarafından hazırlatılmamıştır.",
+        "\"Spor Ruhu\" başlığı sportmenlik temasına değinse de TMOK tarafından hazırlatılan fair play konulu eser olarak gösterilmez.",
+        "\"Sporda Erdemlik\", Türkiye'de adında fair play ifadesi geçen ilk kitap olarak bilinir, ancak TMOK tarafından hazırlatılan eser değildir.",
+        "Doğru yanıt: \"Olimpik Hareket\", Türkiye Milli Olimpiyat Komitesi tarafından hazırlatılan, fair play'i de kapsayan eserdir.",
+        "\"Sporda Centilmenlik\" başlığı fair play'in centilmenlik boyutuna işaret etse de TMOK tarafından hazırlatılan resmi eser olarak bu soruda doğru seçenek değildir."
+      ]
+    },
+    {
+      "question": "Fair play anlayışının günümüzdeki anlamıyla 19. yüzyılda nerede ortaya çıktığı düşünülmektedir?",
+      "options": [
+        "Fransa",
+        "Amerika",
+        "İngiltere",
+        "Almanya",
+        "Rusya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fair play anlayışının günümüzdeki anlamıyla 19. yüzyılda İngiltere'de, özellikle yatılı okul (public school) sporları bağlamında ortaya çıktığı düşünülmektedir. Bu dönemde İngiliz eğitim sisteminde spor, karakter eğitimi ve centilmenlik değerlerini aşılamak için bir araç olarak kullanılmış; bu da fair play kavramının modern anlamıyla biçimlenmesine zemin hazırlamıştır.",
+      "optionNotes": [
+        "Fransa, modern olimpiyat hareketinin kurucusu Pierre de Coubertin'in ülkesi olarak fair play'in yayılmasında rol oynamıştır, ancak kavramın 19. yüzyılda doğduğu yer olarak gösterilen ülke İngiltere'dir.",
+        "Amerika, 19. yüzyılda fair play anlayışının ilk ortaya çıktığı yer olarak kaynaklarda gösterilmez; bu kavram Amerika'ya daha sonra İngiliz spor kültüründen taşınmıştır.",
+        "Doğru yanıt: Fair play'in günümüzdeki anlamıyla 19. yüzyılda İngiltere'de, yatılı okul sporları bağlamında ortaya çıktığı düşünülmektedir.",
+        "Almanya, Hans Lenk gibi fair play kuramcıları ve Willi Daume gibi isimlerle anılsa da kavramın 19. yüzyılda doğduğu ülke olarak gösterilmez.",
+        "Rusya, fair play anlayışının 19. yüzyıldaki ortaya çıkış yeri olarak hiçbir kaynakta gösterilmeyen bir seçenektir."
+      ]
+    },
+    {
+      "question": "Avrupa Fair Play Birliği (EFPM) kaç yılında kurulmuştur?",
+      "options": [
+        "1990",
+        "1992",
+        "1994",
+        "1996",
+        "1998"
+      ],
+      "correctIndex": 2,
+      "explanation": "Avrupa Fair Play Birliği (European Fair Play Movement - EFPM), Avrupa çapında fair play değerlerini yaygınlaştırmak amacıyla 1994 yılında kurulmuştur. Kuruluşundan itibaren birlik, ulusal fair play komiteleri arasında koordinasyonu sağlayarak ödüller ve etkinliklerle fair play bilincinin Avrupa genelinde yayılmasına katkıda bulunmuştur.",
+      "optionNotes": [
+        "1990 yılı, EFPM'nin kuruluş tarihinden önceki bir tarih olup kaynaklarda kuruluş yılı olarak gösterilmez.",
+        "1992 yılı da EFPM'nin resmî kuruluş tarihinden önceki bir dönemdir, bu nedenle doğru seçenek değildir.",
+        "Doğru yanıt: Avrupa Fair Play Birliği (EFPM) 1994 yılında kurulmuştur.",
+        "1996 yılı, EFPM'nin kuruluşundan sonraki bir dönem olup, bu tarih kuruluş yılı olarak kaynaklarda geçmez.",
+        "1998 yılı da EFPM'nin kuruluşundan sonraki bir tarihtir ve kuruluş yılıyla karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "I. Davranış dalında II. Kariyer dalında III. Tanıtım dalında Yukarıdakilerden hangileri Dünya Fair Play Ödül kategorileri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Dünya Fair Play Ödülleri, sporcuların ve kurumların fair play'e katkısını farklı boyutlarıyla değerlendirmek amacıyla davranış, kariyer ve tanıtım dallarının üçünü de kapsayan bir ödül sistemi olarak düzenlenmiştir. Davranış dalı tek bir fair play eylemini, kariyer dalı sporcunun tüm kariyeri boyunca sergilediği tutumu, tanıtım dalı ise fair play ruhunun yayılmasına yapılan katkıyı ödüllendirir.",
+      "optionNotes": [
+        "\"Yalnız I\" seçeneği kariyer ve tanıtım dallarını dışarıda bıraktığı için eksiktir; ödül sistemi üç dalı birden kapsar.",
+        "\"Yalnız II\" seçeneği davranış ve tanıtım dallarını göz ardı eder; bu nedenle ödül kategorilerinin tamamını yansıtmaz.",
+        "\"I-II\" seçeneği tanıtım dalını dışarıda bırakır, oysa tanıtım dalı da Dünya Fair Play Ödül kategorileri arasında yer alır.",
+        "\"II-III\" seçeneği davranış dalını kapsam dışı tutar; bu dal da ödül sisteminin ayrılmaz bir parçasıdır.",
+        "Doğru yanıt: I-II-III; Dünya Fair Play Ödülleri davranış, kariyer ve tanıtım dallarının üçünü de kapsar."
+      ]
+    },
+    {
+      "question": "Tüm kariyerleri boyunca Fair play davranışları sergileyen sporculara verilen ödül aşağıdakilerden hangisidir?",
+      "options": [
+        "Pierre de Coubertin Dünya Fair Play Büyük Ödülü",
+        "Jean Borotra Dünya Fair Play Ödülü",
+        "Willi Daume Dünya Fair Play Ödülü",
+        "Avrupa Fair Play Birliği ödülü",
+        "EFPM Fair Play Ruhu Ödülü"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jean Borotra Dünya Fair Play Ödülü, tek bir müsabakadaki ani bir davranışı değil, bir sporcunun tüm kariyeri boyunca sürekli olarak sergilediği fair play tutumunu ödüllendirmek amacıyla verilir. Ödülün adı, kendisi de centilmenliğiyle tanınan Fransız tenisçi Jean Borotra'dan gelir ve kariyer bazlı, istikrarlı bir fair play anlayışını temsil eder.",
+      "optionNotes": [
+        "Pierre de Coubertin Dünya Fair Play Büyük Ödülü, genellikle müsabaka içinde gösterilen istisnai, tekil bir fair play eylemini ödüllendirir; kariyer boyunca sergilenen tutumu değil.",
+        "Doğru yanıt: Jean Borotra Dünya Fair Play Ödülü, sporcuların tüm kariyerleri boyunca sergiledikleri fair play davranışlarını ödüllendirmek için verilir.",
+        "Willi Daume Dünya Fair Play Ödülü, fair play ruhunu teşvik eden kişi ya da kuruluşlara verilen bir ödüldür; bireysel sporcu kariyerini değil kurumsal/teşvik edici katkıyı esas alır.",
+        "Avrupa Fair Play Birliği ödülü, EFPM çatısı altında verilen genel bir ödül kategorisidir; tüm kariyer boyunca sergilenen davranışı ödüllendiren özel ödül olarak bu soruda sorulan ödül değildir.",
+        "EFPM Fair Play Ruhu Ödülü, fair play ruhunu yansıtan katkıları öne çıkaran farklı bir ödül kategorisidir, kariyer bazlı sporcu ödülüyle karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Fair play ruhunu teşvik eden kişi veya kuruluşa verilen ödül aşağıdakilerden hangisidir?",
+      "options": [
+        "Pierre de Coubertin Dünya Fair Play Büyük Ödülü",
+        "Jean Borotra Dünya Fair Play Ödülü",
+        "Willi Daume Dünya Fair Play Ödülü",
+        "Avrupa Fair Play Plaketi",
+        "Avrupa Fair Play Diploması"
+      ],
+      "correctIndex": 2,
+      "explanation": "Willi Daume Dünya Fair Play Ödülü, bireysel bir sporcu başarısından çok, fair play ruhunun yaygınlaşmasına katkıda bulunan kişi veya kuruluşları onurlandırmak amacıyla verilir. Ödülün adını taşıdığı Willi Daume, Alman spor yöneticiliğinde fair play'in kurumsal düzeyde teşvik edilmesine öncülük eden bir isimdir.",
+      "optionNotes": [
+        "Pierre de Coubertin Dünya Fair Play Büyük Ödülü, müsabaka içinde gösterilen istisnai bir sporcu davranışını ödüllendirir; kurumsal teşviki değil.",
+        "Jean Borotra Dünya Fair Play Ödülü, bir sporcunun kariyeri boyunca gösterdiği istikrarlı fair play tutumunu ödüllendirir; kişi/kuruluşun teşvik faaliyetini değil.",
+        "Doğru yanıt: Willi Daume Dünya Fair Play Ödülü, fair play ruhunu teşvik eden kişi veya kuruluşlara verilen ödüldür.",
+        "Avrupa Fair Play Plaketi, EFPM çatısı altında verilen farklı bir tanınma biçimidir; bu soruda sorulan özel teşvik ödülü değildir.",
+        "Avrupa Fair Play Diploması da EFPM'nin ayrı bir tanınma aracıdır, fair play ruhunu teşvik eden kişi/kuruluşa özgü büyük ödül olarak bu soruda sorulan cevap değildir."
+      ]
+    },
+    {
+      "question": "İlk Pierre de Coubertin Fair Play Büyük Ödülü, kime verilmiştir?",
+      "options": [
+        "Eugenio Monti",
+        "Thomas Arnold",
+        "Edward Thring",
+        "Vittorino Feltre",
+        "Jan Amos Komensky"
+      ],
+      "correctIndex": 0,
+      "explanation": "İlk Pierre de Coubertin Dünya Fair Play Büyük Ödülü, İtalyan bobsleyci Eugenio Monti'ye verilmiştir. Monti'nin, bir olimpik müsabakada rakip takıma ekipman desteği sağlayarak onların da yarışabilmesini mümkün kılan davranışı, kendi madalya şansını riske atmasına rağmen rakibe gösterdiği centilmenliğin en bilinen örneklerinden biri olarak tarihe geçmiş ve bu nedenle ödülün ilk sahibi olmuştur.",
+      "optionNotes": [
+        "Doğru yanıt: İlk Pierre de Coubertin Dünya Fair Play Büyük Ödülü, müsabaka sırasında rakibine ekipman desteği sağlayan İtalyan bobsleyci Eugenio Monti'ye verilmiştir.",
+        "Thomas Arnold, 19. yüzyıl İngiliz eğitim tarihinde Rugby School'daki reformlarıyla tanınan bir isimdir; bu ödülün ilk sahibi değildir.",
+        "Edward Thring, İngiliz yatılı okullarında sporu müfredata kazandıran eğitimcidir; fair play ödülüyle değil eğitim tarihindeki rolüyle anılır.",
+        "Vittorino Feltre, Rönesans döneminin tanınmış bir eğitimcisidir; modern fair play ödülleriyle kronolojik ve bağlamsal olarak ilişkilendirilmez.",
+        "Jan Amos Komensky (Komenius), modern pedagojinin kurucularından sayılan bir eğitim düşünürüdür; bu spor ödülünün ilk sahibi olarak gösterilmez."
+      ]
+    },
+    {
+      "question": "Türkiye Milli Olimpiyat Komitesi (TMOK) 17 Kasım 1981’de kim başkanlığında toplanmıştır?",
+      "options": [
+        "Doğan Koloğlu",
+        "Turgut Atakol",
+        "Ruhi Sarı alp",
+        "Ahmet Cömert",
+        "Tarık Özerengin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Türkiye Milli Olimpiyat Komitesi, 17 Kasım 1981 tarihinde Türk spor yönetiminde uzun yıllar etkin görevler üstlenen Turgut Atakol'un başkanlığında toplanmıştır. Bu toplantı, TMOK'un fair play konusundaki kurumsal çalışmalarının ve yapılanmasının şekillenmesinde önemli bir aşamayı temsil eder.",
+      "optionNotes": [
+        "Doğan Koloğlu, TMOK çevresinde tanınan bir isim olmakla birlikte bu özel toplantıya başkanlık eden kişi olarak gösterilmez.",
+        "Doğru yanıt: 17 Kasım 1981'deki TMOK toplantısına Turgut Atakol başkanlık etmiştir.",
+        "Ruhi Sarıalp, Türk spor tarihinde tanınan bir atlet ve yönetici olsa da bu tarihli toplantının başkanı olarak belirtilmez.",
+        "Ahmet Cömert, TMOK ile ilişkilendirilen isimlerden biri olabilir ancak bu özel toplantıya başkanlık eden kişi değildir.",
+        "Tarık Özerengin, TMOK komisyonlarında yer alan isimlerden biri olarak bilinir, fakat bu toplantının başkanı olarak gösterilmez."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Türkiye Milli Olimpiyat Komitesi Komisyonunda yer alan kişilerden biri değildir?",
+      "options": [
+        "Tarık Özerengin",
+        "Av. Merih Sezen",
+        "Erdoğan Arıpınar",
+        "Doğan Koloğlu",
+        "Ruhi Sarıalp"
+      ],
+      "correctIndex": 2,
+      "explanation": "Türkiye Milli Olimpiyat Komitesi'nin ilgili komisyonunda Tarık Özerengin, Av. Merih Sezen, Doğan Koloğlu ve Ruhi Sarıalp gibi isimler görev almış; Erdoğan Arıpınar ise bu özel komisyon listesinde yer alan isimler arasında gösterilmemektedir. Bu nedenle soruda \"komisyonda yer almayan kişi\" olarak Erdoğan Arıpınar doğru cevaptır.",
+      "optionNotes": [
+        "Tarık Özerengin, kaynaklarda TMOK Komisyonunda yer alan isimlerden biri olarak geçer; bu nedenle \"yer almayan\" seçeneği değildir.",
+        "Av. Merih Sezen de TMOK Komisyonu üyeleri arasında sayılan isimlerden biridir, dolayısıyla komisyonda yer almayan kişi değildir.",
+        "Doğru yanıt: Erdoğan Arıpınar, bu soruda sorulan TMOK Komisyonu üyeleri listesinde yer almayan isimdir.",
+        "Doğan Koloğlu, TMOK Komisyonunda yer alan isimler arasında belirtilir; bu nedenle doğru seçenek olamaz.",
+        "Ruhi Sarıalp de komisyon üyeleri arasında gösterilen isimlerden biridir, dolayısıyla \"yer almayan\" seçeneği değildir."
+      ]
+    },
+    {
+      "question": "1983 Fair Play Trophy’sini Türk kazanan sporcu kimdir?",
+      "options": [
+        "Hayrettin Karaca",
+        "Naim Gölleroğlu",
+        "Erdoğan Arıpınar",
+        "İsmet Karabala",
+        "Ahmet Cömert"
+      ],
+      "correctIndex": 3,
+      "explanation": "1983 yılında uluslararası Fair Play Trophy'sini kazanan Türk sporcu İsmet Karabala'dır. Bu ödül, Karabala'nın müsabaka sırasında sergilediği örnek fair play davranışının uluslararası düzeyde takdir edilmesi sonucu verilmiş ve Türk sporunun fair play alanındaki uluslararası görünürlüğüne katkıda bulunmuştur.",
+      "optionNotes": [
+        "Hayrettin Karaca, Türkiye'de fair play ödülleriyle anılan bir isim olsa da 1983 Fair Play Trophy'sini kazanan kişi olarak gösterilen isim değildir.",
+        "Naim Gölleroğlu de Türk fair play tarihinde adı geçen isimlerden biridir, ancak bu ödülün 1983 yılındaki Türk sahibi olarak belirtilmez.",
+        "Erdoğan Arıpınar, Türk fair play çevresinde tanınan bir isim olsa da 1983 Fair Play Trophy'sini kazanan sporcu olarak kaynaklarda gösterilmez.",
+        "Doğru yanıt: 1983 Fair Play Trophy'sini kazanan Türk sporcu İsmet Karabala'dır.",
+        "Ahmet Cömert, TMOK çevresinde adı geçen bir isim olabilir, fakat bu ödülün 1983 yılındaki sahibi olarak belirtilmez."
+      ]
+    },
+    {
+      "question": "TMOK Fair Play Konseyi üyeleri kaç yılda bir seçilmektedir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "TMOK Fair Play Konseyi üyeleri, olimpiyat döngüsüyle de uyumlu biçimde 4 yıllık dönemler için seçilmektedir. Bu süre, konseyin çalışmalarında süreklilik ve kurumsal hafıza sağlarken, aynı zamanda belirli aralıklarla yeni üyelerin görev almasına ve konseyin güncellenmesine de imkân tanır.",
+      "optionNotes": [
+        "2 yıllık bir seçim süresi, TMOK Fair Play Konseyi için belirtilen dönemden daha kısadır ve kaynaklarda bu şekilde geçmez.",
+        "Doğru yanıt: TMOK Fair Play Konseyi üyeleri 4 yılda bir seçilmektedir.",
+        "6 yıllık süre, konsey üyeliği için belirtilen 4 yıllık dönemle örtüşmeyen, daha uzun bir süredir.",
+        "8 yıllık süre de doğru seçim periyodundan daha uzun bir aralığı ifade eder, bu nedenle doğru seçenek değildir.",
+        "10 yıllık süre, konsey üyelerinin seçim periyodu olarak belirtilenden çok daha uzun bir zaman dilimidir."
+      ]
+    },
+    {
+      "question": "1995 yılı Türkiye fair play ödüllerinden şeref diploması kime layık görülmüştür?",
+      "options": [
+        "Erdoğan Arıpınar",
+        "Hayrettin Karaca",
+        "Naim Gölleroğlu",
+        "İsmet Karabala",
+        "Turgut Atakol"
+      ],
+      "correctIndex": 1,
+      "explanation": "1995 yılı Türkiye fair play ödüllerinde şeref diploması, çevre ve toplumsal duyarlılığıyla da tanınan Hayrettin Karaca'ya verilmiştir. Bu ödül, Karaca'nın spor dışındaki alanlarda da sergilediği örnek ahlaki tutumun fair play değerleriyle örtüşmesi nedeniyle kendisine layık görülmüştür.",
+      "optionNotes": [
+        "Erdoğan Arıpınar, Türk fair play çevresinde tanınan bir isimdir, ancak 1995 yılı şeref diplomasının sahibi olarak gösterilmez.",
+        "Doğru yanıt: 1995 yılı Türkiye fair play ödüllerinden şeref diploması Hayrettin Karaca'ya verilmiştir.",
+        "Naim Gölleroğlu, Türk fair play tarihinde adı geçen isimlerden biri olsa da bu özel ödülün 1995 yılındaki sahibi değildir.",
+        "İsmet Karabala, 1983 Fair Play Trophy'sini kazanan sporcu olarak bilinir; 1995 yılı şeref diplomasıyla karıştırılmamalıdır.",
+        "Turgut Atakol, TMOK yönetiminde tanınan bir isim olsa da 1995 yılı şeref diplomasının sahibi olarak belirtilmez."
+      ]
+    },
+    {
+      "question": "Spor ve jimnastiği müfredat programına almış ve İngiliz yatılı kolejlerinin ilk cimnastik salonunu tesis ettirmiş kişi kimdir?",
+      "options": [
+        "Hans Lenk",
+        "Thomas Arnold",
+        "Edward Thring",
+        "B. Pierre de Coubertin",
+        "Willi Daume"
+      ],
+      "correctIndex": 2,
+      "explanation": "Edward Thring, İngiliz yatılı okul (public school) eğitim sisteminde spor ve jimnastiği resmi müfredat programının bir parçası haline getirmiş ve bu okullardan birinde ilk cimnastik salonunun kurulmasını sağlamıştır. Bu girişimler, bedensel eğitimin okul müfredatına sistemli biçimde dahil edilmesi ve dolayısıyla modern fair play anlayışının filizlendiği spor kültürünün kurumsallaşması açısından öncü bir adım olmuştur.",
+      "optionNotes": [
+        "Hans Lenk, fair play'i formal ve informal olarak ayıran bir spor felsefecisidir; okul müfredatına jimnastiği kazandıran ve cimnastik salonu kuran kişi değildir.",
+        "Thomas Arnold, Rugby School'daki eğitim reformlarıyla ve karakter eğitiminde sporu kullanmasıyla tanınır, ancak ilk cimnastik salonunu tesis ettiren isim olarak gösterilmez.",
+        "Doğru yanıt: Edward Thring, spor ve jimnastiği müfredata alan ve İngiliz yatılı kolejlerinin ilk cimnastik salonunu tesis ettiren kişidir.",
+        "Pierre de Coubertin, modern olimpiyat hareketinin kurucusu olarak tanınır; İngiliz okul sporları tarihindeki bu özel gelişmeyle ilişkilendirilen isim değildir.",
+        "Willi Daume, Alman spor yöneticiliği ve fair play ödülleriyle anılan bir isimdir; İngiliz yatılı okullarındaki bu gelişmeyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "TMOK Fair Play Konseyi kaç üyeden oluşur?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "correctIndex": 3,
+      "explanation": "TMOK Fair Play Konseyi, farklı spor branşları, basın, hukuk ve akademi gibi çeşitli alanlardan gelen temsilcilerin katılımıyla toplam 20 üyeden oluşacak şekilde yapılandırılmıştır. Bu geniş katılımlı yapı, konseyin fair play konusundaki kararlarını çok yönlü bir bakış açısıyla almasını sağlamayı amaçlar.",
+      "optionNotes": [
+        "8 üyelik bir yapı, TMOK Fair Play Konseyi için belirtilen üye sayısından daha azdır.",
+        "12 üyelik yapı da konseyin gerçek üye sayısının altında kalan bir seçenektir.",
+        "16 üyelik yapı, doğru kabul edilen 20 üyelik sayıya yakın olsa da kaynaklarda belirtilen sayı değildir.",
+        "Doğru yanıt: TMOK Fair Play Konseyi 20 üyeden oluşur.",
+        "24 üyelik yapı, konseyin belirtilen üye sayısının üzerinde bir rakamdır ve doğru seçenek değildir."
+      ]
+    }
+  ]
+}

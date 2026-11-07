@@ -1,0 +1,425 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 3,
+  "topic": "Hareket Eğitimi ve Oyun",
+  "questions": [
+    {
+      "question": "Bir organizmanın çeşitli kısımlarının birbirine göre durumunu ya da yerini değiştirmesine ne ad verilmektedir?",
+      "options": [
+        "Hareket",
+        "Oyun",
+        "Yarış",
+        "Düzen",
+        "Etkinlik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hareket, bir organizmanın bütününün veya çeşitli vücut bölümlerinin birbirine göre konumunu ya da yerini değiştirmesi olarak tanımlanır. Bu tanım, hareket eğitimi ve kinezyoloji alanlarının temel çıkış noktasıdır; oyun, yarış gibi diğer kavramlar hareketi içerse de bu doğrudan tanımı karşılamaz.",
+      "optionNotes": [
+        "Doğru yanıt: Hareket, organizmanın bütününün veya vücut parçalarının birbirine göre konum ya da yer değiştirmesi olarak tanımlanır; soru tam da bu tanımı vermektedir.",
+        "Oyun, kurallar çerçevesinde gerçekleştirilen, hareketi içeren ama ondan daha kapsamlı bir etkinlik türüdür; sorudaki tanım oyunun değil hareketin tanımıdır.",
+        "Yarış, belirli bir hedefe ulaşmak için rekabete dayalı bir etkinlik türüdür; vücut kısımlarının birbirine göre konum değiştirmesini tanımlamaz.",
+        "Düzen, unsurların belirli bir sistematik içinde dizilişini ifade eder; hareketin fiziksel/kinezyolojik tanımıyla ilgisi yoktur.",
+        "Etkinlik, hareketi de kapsayabilen geniş ve genel bir kavramdır; ancak sorudaki spesifik tanım yalnızca hareket kavramına aittir."
+      ]
+    },
+    {
+      "question": "Hareket eğitimi kim tarafından geliştirilmiştir?",
+      "options": [
+        "Gilliom",
+        "Rudolf Laban",
+        "Kirchner",
+        "Logsdon ve arkadaşları",
+        "Maulden ve Redfen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hareket eğitimi yaklaşımının kurucusu, dans ve insan hareketi analizi alanındaki çalışmalarıyla tanınan Rudolf Laban'dır. Laban'ın efor-mekân-şekil temelli hareket analizi, daha sonra Gilliom, Logsdon ve diğer eğitimciler tarafından beden eğitimi alanına uyarlanmıştır.",
+      "optionNotes": [
+        "Gilliom, hareket eğitimi yaklaşımını beden eğitimi alanına uyarlayan ve geliştiren isimlerden biridir, ancak yaklaşımın özgün kurucusu değildir.",
+        "Doğru yanıt: Hareket eğitimi, Rudolf Laban'ın dans ve insan hareketi analizine dayalı çalışmalarıyla geliştirilmiştir; diğer isimler bu yaklaşımı daha sonra beden eğitimine taşıyan takipçilerdir.",
+        "Kirchner, hareket eğitimi literatüründe yaklaşımı uygulayan ve aktaran isimler arasında yer alır, yaklaşımın kurucusu değildir.",
+        "Logsdon ve arkadaşları, hareket eğitimi ilkelerini sistematikleştiren ve okul programlarına taşıyan yazarlardandır, fakat yaklaşımın ilk geliştiricisi değillerdir.",
+        "Maulden ve Redfen, hareket eğitimi alanında yayın yapan isimlerdendir, ancak yaklaşımın temelini Laban atmıştır, onlar değil."
+      ]
+    },
+    {
+      "question": "Çocuklar için temel hareket becerilerinin en hassas olduğu yaş dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "0 – 2",
+        "2 – 5",
+        "3 – 6",
+        "5 – 7",
+        "6 – 9"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kaynağa göre temel hareket becerilerinin gelişiminde en kritik/hassas dönem 6-9 yaş aralığıdır. Bu dönemde çocuklar, daha önceki yıllarda keşfettikleri temel beceri formlarını olgunlaştırarak ileride spora özgü becerilere temel oluşturacak düzeye getirirler.",
+      "optionNotes": [
+        "0-2 yaş, refleks hareketler ile ilk istemli hareket denemelerinin görüldüğü dönemdir; temel hareket becerilerinin hassas/kritik olgunlaşma dönemi değildir.",
+        "2-5 yaş, temel hareket becerilerinin ilk kez ortaya çıktığı başlangıç dönemidir, fakat becerilerin en hassas olgunlaşma dönemi olarak kabul edilmez.",
+        "3-6 yaş, temel hareket becerilerinin keşfedilip denendiği erken çocukluk dönemidir, ancak kaynakta belirtilen en hassas dönem değildir.",
+        "5-7 yaş bir geçiş aralığı olarak değerlendirilebilir, ancak soruda belirtilen hassas dönem olarak kabul edilen aralık değildir.",
+        "Doğru yanıt: Kaynağa göre temel hareket becerilerinin en hassas olduğu dönem 6-9 yaş aralığıdır; bu dönemde beceriler olgun forma ulaşacak şekilde hızla gelişim gösterir."
+      ]
+    },
+    {
+      "question": "Roger Caillois oyun sınıflandırmasını kaç ana başlık altında toplamıştır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roger Caillois, oyunları dört ana kategoride sınıflandırmıştır: Agon (mücadele-yarışma), Alea (şans), Mimicry (gösteri-rol/taklit) ve Ilinx (macera-heyecan/baş dönmesi). Bu dörtlü sınıflandırma, oyun sosyolojisinde klasik bir çerçeve olarak kabul edilir.",
+      "optionNotes": [
+        "2 başlık, Caillois'nın sınıflandırmasının kapsamını fazlasıyla eksik yansıtır; kendisi dört temel kategori belirlemiştir.",
+        "3 başlık da yetersizdir; Caillois'nın sınıflandırmasında dört ayrı kategori (Agon, Alea, Mimicry, Ilinx) bulunur.",
+        "Doğru yanıt: Roger Caillois, oyunları Mücadele-Yarışma (Agon), Şans (Alea), Gösteri-Rol (Mimicry) ve Macera-Heyecan (Ilinx) olmak üzere dört ana başlık altında toplamıştır.",
+        "5 başlık, Caillois'nın gerçek sınıflandırma sayısından fazladır; kendisi dört kategori önermiştir.",
+        "6 başlık da gerçek sayıdan fazladır ve Caillois'nın özgün dörtlü sınıflandırmasını yansıtmaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Roger Caillois'ın oyun sınıflandırmasından biri değildir?",
+      "options": [
+        "Şans Oyunları",
+        "Gösteri – Rol Oyunları",
+        "Macera – Heyecan Oyunları",
+        "Topluluk oyunları",
+        "Mücadele - Yarışma Oyunları"
+      ],
+      "correctIndex": 3,
+      "explanation": "Caillois'nın dört kategorisi Agon (mücadele-yarışma), Alea (şans), Mimicry (gösteri-rol) ve Ilinx (macera-heyecan)'dır. 'Topluluk oyunları' bu sınıflandırmada yer almayan, katılımcı sayısına dayalı farklı bir ölçütle yapılan ayrıma ait bir kavramdır.",
+      "optionNotes": [
+        "Şans Oyunları (Alea), Caillois'nın dört temel kategorisinden biridir; bu seçenek sınıflandırmanın gerçek bir üyesidir, soruya yanıt olamaz.",
+        "Gösteri-Rol Oyunları (Mimicry), Caillois'nın sınıflandırmasında yer alan taklit/rol yapma kategorisidir; dolayısıyla listeye dahildir.",
+        "Macera-Heyecan Oyunları (Ilinx), baş dönmesi ve heyecan arayışına dayalı olup Caillois'nın dört kategorisinden biridir.",
+        "Doğru yanıt: Topluluk oyunları, Caillois'nın Agon-Alea-Mimicry-Ilinx sınıflandırmasında yer almaz; bu ayrım katılımcı sayısına göre yapılan farklı bir sınıflandırmaya aittir.",
+        "Mücadele-Yarışma Oyunları (Agon), Caillois'nın rekabete dayalı temel kategorisidir ve sınıflandırmanın gerçek bir parçasıdır."
+      ]
+    },
+    {
+      "question": "Tavşan sıçraması, kanguru, ördek yürüyüşü gibi oyuncuların bir şeye benzeyerek yarıştığı oyunlara ne ad verilir?",
+      "options": [
+        "Taklit Oyunları",
+        "Mücadele Oyunları",
+        "Basit Sportif Oyun Formları",
+        "Sınıf oyunları",
+        "Salon oyunları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tavşan sıçraması, kanguru yürüyüşü, ördek yürüyüşü gibi oyunlarda çocuklar bir hayvana veya canlıya benzeyerek hareket ettikleri için bu oyunlar taklit oyunları grubuna girer.",
+      "optionNotes": [
+        "Doğru yanıt: Bu oyunlarda çocuklar bir hayvanı ya da canlıyı taklit ederek hareket eder; bu nedenle taklit oyunları grubuna girerler.",
+        "Mücadele oyunları, karşılıklı güç ve beceri denemesine dayanır (örn. itişme, çekişme); hayvan taklidine dayalı yarış formlarını kapsamaz.",
+        "Basit sportif oyun formları, belirli kurallara dayanan, sporu andıran organize oyunlardır (örn. yakan top); taklide dayalı hayvan hareketlerini ifade etmez.",
+        "Sınıf oyunları, oynandığı ortama göre yapılan bir sınıflandırma ölçütüdür; taklit temelli oyun türünü tanımlamaz.",
+        "Salon oyunları, kapalı mekânlarda oynanan oyunları ifade eder; hayvan taklidine dayalı yarış oyunlarının özgün adlandırması değildir."
+      ]
+    },
+    {
+      "question": "Eğitsel oyunların her zaman, her ortamda ve her yaş grubunda ilgi görmesini sağlayan özelliklerinden biri değildir?",
+      "options": [
+        "Motivasyon",
+        "Özgür ortam olması",
+        "Motorik özellikleri test etme imkânı",
+        "Sonucun belirliliği",
+        "Karmaşıklık"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eğitsel oyunların her ortamda ve yaş grubunda ilgi görmesini sağlayan özellikler arasında motivasyon kaynağı olması, özgür bir ortam sunması, motorik özellikleri sınama imkânı vermesi ve zorluk düzeyinin yaşa göre uyarlanabilir (karmaşık) olması sayılır. Oyunların çekiciliğini asıl besleyen unsur ise sonucun önceden bilinmemesi, yani belirsizliğidir; 'sonucun belirliliği' bu mantığın tam tersidir ve ilgiyi azaltır.",
+      "optionNotes": [
+        "Motivasyon sağlaması, eğitsel oyunların her yaşta ilgi görmesini açıklayan gerçek bir özelliktir; bu seçenek doğru bir özelliktir, soruya yanıt değildir.",
+        "Özgür bir ortam sunması, oyunun baskısız ve keyifli algılanmasını sağlayan gerçek bir özelliktir.",
+        "Motorik özellikleri test etme imkânı vermesi, çocukların kendi becerilerini deneyip geliştirmesine olanak tanıyan gerçek bir çekicilik unsurudur.",
+        "Doğru yanıt: Oyunların ilgi çekmesini sağlayan asıl etken sonucun önceden bilinmemesi, yani belirsizliğidir; 'sonucun belirliliği' bu mantığın tersidir ve eğitsel oyunların çekiciliğini açıklayan bir özellik değildir.",
+        "Oyunun karmaşıklık/zorluk düzeyinin yaşa ve beceriye göre değişebilir olması, her yaş grubunda farklı düzeyde zorluk sunarak ilgiyi sürdüren gerçek bir özelliktir; bu seçenek soruya yanıt olan yanlış seçenek değildir."
+      ]
+    },
+    {
+      "question": "I. Hareket eğitimi bireysel bir keşiftir. II. Hareket eğitimi öğrenci merkezlidir. III. Temelinde problem çözme bulunur. IV. Geleneksel beden eğitiminden daha az formal yapıdadır. Yukarıdaki Hareket eğitiminin özelliklerinden hangisi veya hangileri doğrudur?",
+      "options": [
+        "I",
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hareket eğitimi; bireysel keşfe dayanan, öğrenci merkezli, problem çözmeyi temel alan ve geleneksel beden eğitimine kıyasla daha az formal/yapılandırılmış bir yaklaşımdır. Bu nedenle I, II, III ve IV ifadelerinin tümü doğrudur.",
+      "optionNotes": [
+        "Yalnızca I ifadesini doğru kabul etmek eksiktir; II, III ve IV ifadeleri de hareket eğitiminin doğru özellikleridir.",
+        "I-II ifadelerini doğru kabul etmek eksiktir; III (problem çözme temeli) ve IV (daha az formal yapı) ifadeleri de doğrudur ve göz ardı edilmemelidir.",
+        "II-III ifadelerini seçmek, hareket eğitiminin bireysel keşif (I) ve daha az formal yapı (IV) özelliklerini dışarıda bırakır; oysa bu ifadeler de doğrudur.",
+        "I-II-III ifadelerini doğru kabul etmek, hareket eğitiminin geleneksel beden eğitiminden daha az formal olduğu (IV) gerçeğini dışarıda bırakır; bu ifade de doğrudur.",
+        "Doğru yanıt: Hareket eğitimi bireysel bir keşiftir, öğrenci merkezlidir, temelinde problem çözme vardır ve geleneksel beden eğitiminden daha az formal bir yapıya sahiptir; dolayısıyla I, II, III ve IV ifadelerinin tümü doğrudur."
+      ]
+    },
+    {
+      "question": "Hareket kavramları ve temel hareket becerileri …………….döneminde ve………… öğrenilmelidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Erken çocukluk – ilkokulda",
+        "Erken çocukluk – ortaokulda",
+        "Geç çocukluk – ilkokulda",
+        "Geç çocukluk - ortaokulda",
+        "Ergenlik – lisede"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hareket kavramları ve temel hareket becerileri, çocuğun motor gelişiminin en hızlı olduğu erken çocukluk döneminde kazanılmaya başlanmalı ve ilkokul döneminde geliştirilip pekiştirilmelidir; bu beceriler daha sonraki spora özgü becerilerin temelini oluşturur.",
+      "optionNotes": [
+        "Doğru yanıt: Hareket kavramları ve temel hareket becerileri erken çocukluk döneminde kazanılmaya başlanmalı ve ilkokul döneminde geliştirilip pekiştirilmelidir.",
+        "'Ortaokulda' ifadesi yanlıştır; temel hareket becerilerinin pekiştirilmesi gereken dönem ilkokul çağıdır, ortaokula kadar geciktirilmemelidir.",
+        "'Geç çocukluk' ifadesi yanlıştır; bu beceriler erken çocukluk döneminde kazanılmaya başlanmalıdır, geç çocukluğa bırakılması gelişimsel pencerenin kaçırılmasına yol açar.",
+        "Hem 'geç çocukluk' hem de 'ortaokul' ifadeleri yanlıştır; doğru dönemler erken çocukluk ve ilkokuldur.",
+        "'Ergenlik–lise' dönemi, temel hareket becerilerinin kazanılması için çok geç bir dönemdir; bu beceriler çok daha önce, çocukluk döneminde oturtulmalıdır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Temel Hareket Kavramlarından biri değildir?",
+      "options": [
+        "Vücut Farkındalığı",
+        "Alan Farkındalığı",
+        "Beceri Temaları",
+        "Efor Farkındalığı",
+        "Hareket İlişkileri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Temel Hareket Kavramları; vücut farkındalığı, alan farkındalığı, efor (çaba/nitelik) farkındalığı ve hareket ilişkileri olmak üzere dört boyutta ele alınır. Beceri temaları (lokomotor, lokomotor olmayan ve manipülatif beceriler) ise hareket kavramlarından ayrı, paralel bir kategori olan temel hareket becerileri başlığında incelenir; dolayısıyla hareket kavramlarının bir bileşeni değildir.",
+      "optionNotes": [
+        "Vücut farkındalığı (ne hareket ettiği), temel hareket kavramlarının dört boyutundan biridir; bu seçenek sınıflandırmanın gerçek bir üyesidir.",
+        "Alan farkındalığı (nerede hareket edildiği), temel hareket kavramlarının bir boyutudur; bu seçenek gerçek bir hareket kavramıdır.",
+        "Doğru yanıt: Beceri temaları, hareket kavramlarından ayrı bir kategori olup lokomotor, lokomotor olmayan ve manipülatif becerileri kapsar; temel hareket kavramlarının (vücut, alan, efor, ilişki farkındalığı) bir parçası değildir.",
+        "Efor farkındalığı (hareketin nasıl yapıldığı; hız, kuvvet, akış) temel hareket kavramlarının bir boyutudur.",
+        "Hareket ilişkileri (kiminle/neyle ilişkili hareket edildiği) temel hareket kavramlarının dört boyutundan biridir."
+      ]
+    },
+    {
+      "question": "Çocuğun hareket ederken kollarını açtığında sahip olduğu varsayılan alan boşluğuna ne ad verilir?",
+      "options": [
+        "Genel alan",
+        "Kişisel alan",
+        "Geniş alan",
+        "Dar alan",
+        "Orta alan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kişisel alan, bir bireyin yerinde dururken kollarını ve bacaklarını her yöne uzatarak kapladığı, kendi vücudunun çevresindeki alanı ifade eder; bu alan hareket eğitiminde alan farkındalığının temel bileşenlerinden biridir.",
+      "optionNotes": [
+        "Genel alan, bireyin kişisel alanının dışında, başkalarıyla paylaşılan ve yer değiştirerek hareket edilen ortak alanı ifade eder; kolları açıldığında kaplanan alan değildir.",
+        "Doğru yanıt: Kişisel alan, bireyin yerinde dururken kollarını, bacaklarını her yöne uzatarak erişebildiği, kendi bedeninin etrafındaki sınırlı alanı tanımlar.",
+        "'Geniş alan', hareket eğitimi literatüründe standart bir kavram değildir ve kişisel alanın tanımını karşılamaz.",
+        "'Dar alan' da standart bir alan kavramı olarak tanımlanmaz; kollarını açtığında sahip olunan alanı ifade etmez.",
+        "'Orta alan' hareket eğitiminde tanımlı bir kavram değildir; soruda tarif edilen kişisel alan kavramıyla karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Şato topu, 10 sayı oyunu, dizlere dokunma, yengeç futbolu, yakan top gibi oyunlar hangi gruba girmektedir?",
+      "options": [
+        "Taklit Oyunları",
+        "Mücadele Oyunları",
+        "Basit Sportif Oyun Formları",
+        "Sınıf oyunları",
+        "Salon oyunları"
+      ],
+      "correctIndex": 2,
+      "explanation": "Şato topu, 10 sayı oyunu, dizlere dokunma, yengeç futbolu, yakan top gibi oyunlar; belirli kurallara dayanan, organize bir yapıda oynanan ve sporu andıran basit oyun formlarıdır; bu nedenle basit sportif oyun formları grubuna girerler.",
+      "optionNotes": [
+        "Taklit oyunları, bir hayvan ya da nesneye benzeyerek hareket etmeye dayanır (örn. tavşan sıçraması); şato topu veya yakan top gibi kurallı oyunlar bu gruba girmez.",
+        "Mücadele oyunları, iki taraf arasında doğrudan güç/beceri mücadelesine dayanan oyunlardır (örn. itişme-çekişme); listedeki oyunlar bu özellikte değildir.",
+        "Doğru yanıt: Şato topu, 10 sayı oyunu, yengeç futbolu, yakan top gibi kurallara dayalı, organize ve sporu andıran oyunlar basit sportif oyun formları olarak sınıflandırılır.",
+        "Sınıf oyunları, oynandığı ortama (sınıf içi) göre yapılan bir sınıflandırmadır; bu oyunların sportif-kural temelli yapısını tanımlamaz.",
+        "Salon oyunları, kapalı mekânda oynanan oyunları ifade eden ortam temelli bir kategoridir; listedeki oyunların sportif kural yapısını karşılamaz."
+      ]
+    },
+    {
+      "question": "Rudolf Laban tarafından geliştirilen hareket eğitimi, aşağıdakilerden hangisini içermez?",
+      "options": [
+        "Problem çözme becerisi",
+        "Bilişsel ve yaratıcı olarak katılımı",
+        "Çözüme ulaşmada bilgiyi keşfetme",
+        "Analiz etme",
+        "Bireysel farklılıkları yok saymayı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Laban'ın hareket eğitimi yaklaşımı; öğrencinin problem çözme becerisini kullanmasını, bilişsel ve yaratıcı olarak sürece katılmasını, çözüme ulaşırken bilgiyi keşfetmesini ve kendi hareketini analiz etmesini içerir. Bu yaklaşım, her öğrencinin kendi düzeyinde çözüm üretmesine olanak tanıyarak bireysel farklılıkları esas alır; dolayısıyla bireysel farklılıkları yok saymak, hareket eğitiminin temel mantığına aykırıdır ve içermediği unsurdur.",
+      "optionNotes": [
+        "Problem çözme becerisi, Laban'ın hareket eğitiminin temel bileşenlerinden biridir; bu seçenek yaklaşımın gerçekten içerdiği bir unsurdur.",
+        "Bilişsel ve yaratıcı katılım, öğrencinin hareket problemlerine kendi çözümlerini üretmesini sağlayan, yaklaşımın gerçekten içerdiği bir unsurdur.",
+        "Çözüme ulaşmada bilgiyi keşfetme, hareket eğitiminin keşfe dayalı öğrenme ilkesinin bir parçasıdır ve yaklaşımca gerçekten içerilir.",
+        "Analiz etme, öğrencinin kendi hareketini değerlendirip geliştirmesini sağlayan, yaklaşımın gerçekten içerdiği bir süreçtir.",
+        "Doğru yanıt: Hareket eğitimi, her öğrencinin kendi düzeyine ve yeteneğine göre çözüm üretmesine dayanır; bu nedenle bireysel farklılıkları yok saymak yaklaşımın mantığına aykırıdır ve Laban'ın hareket eğitiminin içermediği tek unsur budur."
+      ]
+    },
+    {
+      "question": "I. Çocukların keşfetmelerine yardımcı olmak ve hareket deneyimleri yaratmak II. Çocukları hareket problemlerini tanımlamaya ve çözmeye teşvik etmek III. Çocukları eşleri veya grupla çalışmaları için uygun ortamlar sağlamak Yukarıda verilenlerden hangileri hareket eğitimi yaklaşımını kullanan öğreticilerin dikkat etmeleri gereken hususlardır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hareket eğitimi yaklaşımını kullanan öğreticiler; çocukların keşfetmelerine yardımcı olmalı ve hareket deneyimleri yaratmalı, çocukları hareket problemlerini tanımlamaya/çözmeye teşvik etmeli ve eşli/grup çalışmaları için uygun ortamlar sağlamalıdır. Bu nedenle I, II ve III ifadelerinin tamamı doğrudur.",
+      "optionNotes": [
+        "Yalnızca I'i doğru kabul etmek eksiktir; II ve III de hareket eğitimi öğreticilerinin dikkat etmesi gereken gerçek hususlardır.",
+        "Yalnızca II'yi doğru kabul etmek eksiktir; I (keşfetmeye yardım, deneyim yaratma) ve III (uygun ortam sağlama) de doğru hususlardır.",
+        "I-II ifadelerini seçmek, eşli/grup çalışmaları için uygun ortam sağlama (III) hususunu dışarıda bırakır; oysa bu da doğru bir ifadedir.",
+        "II-III ifadelerini seçmek, öğretmenin çocukların keşfetmelerine yardımcı olma ve hareket deneyimi yaratma görevini (I) dışarıda bırakır; oysa bu da doğrudur.",
+        "Doğru yanıt: Hareket eğitimi yaklaşımını kullanan öğreticiler, çocukların keşfetmesine yardımcı olmalı, hareket deneyimleri yaratmalı, hareket problemlerini tanımlama/çözmeyi teşvik etmeli ve eşli/grup çalışmaları için uygun ortam sağlamalıdır; bu nedenle I, II ve III'ün tamamı doğrudur."
+      ]
+    },
+    {
+      "question": "….yaşından….yaşına kadarki dönemde çocuğun, algısal yetenekleri keskinleşir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1 – 4",
+        "4 – 8",
+        "6 – 9",
+        "6 – 12",
+        "8 – 14"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kaynağa göre çocuğun algısal (perseptüel) yeteneklerinin keskinleştiği, duyusal-motor koordinasyonun belirgin biçimde geliştiği dönem 6-12 yaş aralığıdır; bu dönemde çocuklar çevresel uyaranları daha etkili biçimde algılayıp hareketlerine yansıtabilirler.",
+      "optionNotes": [
+        "1-4 yaş, temel duyusal-motor refleks ve ilk keşif hareketlerinin görüldüğü dönemdir; algısal yeteneklerin keskinleştiği dönem olarak tanımlanmaz.",
+        "4-8 yaş aralığı, kaynakta belirtilen 6-12 yaş dönemini tam karşılamaz; başlangıç noktası çok erken, bitiş noktası da erken bırakılmıştır.",
+        "6-9 yaş aralığı, doğru başlangıç yaşını içerse de dönemi eksik kapsar; kaynağa göre bu gelişim 12 yaşına kadar sürer.",
+        "Doğru yanıt: Kaynağa göre çocuğun algısal yeteneklerinin keskinleştiği dönem 6 ile 12 yaş arasıdır.",
+        "8-14 yaş aralığı, başlangıcı kaynaktaki 6 yaşından daha ileri aldığı ve bitişi ergenliğe taşıdığı için algısal keskinleşme dönemini doğru yansıtmaz."
+      ]
+    },
+    {
+      "question": "I. Eğilme II. Esnetme III. Top sürme IV. Raketle vurma Yukarıda verilenlerden hangileri dengeleme gerektiren hareketlerdendir?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dengeleme gerektiren (lokomotor olmayan/denge) hareketler; eğilme ve esnetme gibi vücudun denge merkezini koruyarak gerçekleştirilen hareketleri kapsar. Top sürme ve raketle vurma ise manipülatif (nesne kontrolü gerektiren) becerilerdir, dengeleme hareketleri kategorisine girmez.",
+      "optionNotes": [
+        "Yalnızca I'i (eğilme) doğru kabul etmek eksiktir; esnetme (II) de denge gerektiren hareketler grubuna dahildir.",
+        "Doğru yanıt: Eğilme ve esnetme, vücudun denge merkezini koruyarak gerçekleştirilen, yer değiştirme içermeyen dengeleme hareketleridir; top sürme ve raketle vurma ise manipülatif becerilerdir.",
+        "Top sürmeyi (III) dengeleme hareketlerine dahil etmek yanlıştır; top sürme bir nesneyi kontrol etmeye dayanan manipülatif bir beceridir, dengeleme hareketi değildir.",
+        "Top sürme (III) ve raketle vurma (IV), nesne kontrolüne dayanan manipülatif becerilerdir; dengeleme hareketleri kategorisine girmezler, bu kombinasyon yanlıştır.",
+        "Top sürme ve raketle vurmayı da dengeleme hareketlerine eklemek yanlıştır; bu iki beceri manipülatif beceri grubuna aittir, dengeleme/denge hareketlerine değil."
+      ]
+    },
+    {
+      "question": "Çocukların güvenli bir şekilde yer değiştirme yapabileceği, sınırları belli olan alana ne ad verilir?",
+      "options": [
+        "Genel alan",
+        "Kişisel alan",
+        "Geniş alan",
+        "Dar alan",
+        "Orta alan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genel alan; çocukların kişisel alanlarının dışında, diğer katılımcılarla paylaşılan, sınırları belirlenmiş olan ve içinde güvenli biçimde yer değiştirerek hareket edilebilen ortak alanı ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Genel alan, sınırları belirli olan ve çocukların içinde güvenli şekilde yer değiştirerek hareket edebildiği paylaşılan ortak alandır.",
+        "Kişisel alan, bireyin yerinde dururken kollarını uzatarak kapladığı sınırlı alanı ifade eder; yer değiştirmeye uygun geniş, paylaşılan bir alan değildir.",
+        "'Geniş alan', hareket eğitimi literatüründe tanımlı standart bir terim değildir; sorudaki sınırlı/güvenli yer değiştirme alanı kavramını karşılamaz.",
+        "'Dar alan' da standart bir terim değildir ve sınırları belirli, güvenli yer değiştirme alanı olan genel alan kavramıyla örtüşmez.",
+        "'Orta alan' hareket eğitiminde tanımlı bir kavram değildir; sorudaki genel alan tanımıyla karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Dağcılık, Roger Caillois'e göre hangi oyun sınıflandırılmasına girer?",
+      "options": [
+        "Macera – Heyecan Oyunları",
+        "Gösteri – Rol Oyunları",
+        "Şans Oyunları",
+        "Mücadele – Yarışma Oyunları",
+        "Geleneksel – Kültür Oyunları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dağcılık, yükseklik ve denge kaybına bağlı baş dönmesi/heyecan hissi yaratan, fiziksel risk içeren bir etkinlik olduğundan Caillois'nın sınıflandırmasında Ilinx (baş dönmesi/heyecan) kategorisine, yani Macera-Heyecan Oyunları başlığına girer.",
+      "optionNotes": [
+        "Doğru yanıt: Dağcılık, yükseklik ve denge kaybına bağlı heyecan/baş dönmesi hissi uyandıran bir etkinlik olduğu için Caillois'nın Ilinx (Macera-Heyecan) kategorisine girer.",
+        "Gösteri-Rol Oyunları (Mimicry), bir kimliği veya rolü canlandırmaya dayanır (örn. tiyatro); dağcılıkta rol yapma veya taklit söz konusu değildir.",
+        "Şans Oyunları (Alea), sonucun kontrol edilemeyen rastlantıya bağlı olduğu oyunlardır (örn. zar, kura); dağcılıkta sonuç beceri ve fiziksel kontrolle belirlenir, şansa değil.",
+        "Mücadele-Yarışma Oyunları (Agon), rakip karşısında üstünlük kurmaya dayanan rekabetçi oyunlardır; dağcılık temelde doğayla/kendiyle baş etmeye dayanır, bir rakiple doğrudan rekabet değildir.",
+        "'Geleneksel-Kültür Oyunları', Caillois'nın dört temel kategorisinden (Agon, Alea, Mimicry, Ilinx) biri değildir; bu nedenle dağcılığın sınıflandırılacağı doğru kategori olamaz."
+      ]
+    },
+    {
+      "question": "Meddah, Tiyatro, Opera, Sinema. Yukarıda verilen oyunlar, Roger Caillois'e göre hangi oyun sınıflandırmaya girmektedir?",
+      "options": [
+        "Macera - Heyecan Oyunları",
+        "Gösteri – Rol Oyunları",
+        "Şans Oyunları",
+        "Mücadele – Yarışma Oyunları",
+        "Geleneksel – Kültür Oyunları"
+      ],
+      "correctIndex": 1,
+      "explanation": "Meddah, tiyatro, opera ve sinema; bir karakteri, rolü ya da kurmaca bir gerçekliği canlandırmaya/sunmaya dayandığından Caillois'nın Mimicry (gösteri-rol) kategorisine girer.",
+      "optionNotes": [
+        "Macera-Heyecan Oyunları (Ilinx), baş dönmesi ve fiziksel risk/heyecan arayışına dayanır (örn. dağcılık); meddah, tiyatro, opera gibi sahne sanatlarını tanımlamaz.",
+        "Doğru yanıt: Meddah, tiyatro, opera ve sinema, bir rol veya kurmaca gerçekliği canlandırmaya dayandığından Caillois'nın Gösteri-Rol (Mimicry) kategorisine girer.",
+        "Şans Oyunları (Alea), sonucun rastlantıya bağlı olduğu oyunlardır; tiyatro veya sinemada sonuç önceden kurgulanmış bir senaryo ve performansa bağlıdır, şansa değil.",
+        "Mücadele-Yarışma Oyunları (Agon), doğrudan rekabete dayanır; sahne sanatları rekabetten değil rol canlandırmadan ibarettir.",
+        "'Geleneksel-Kültür Oyunları', Caillois'nın dört temel kategorisinden (Agon, Alea, Mimicry, Ilinx) biri değildir; bu nedenle doğru sınıflandırma olamaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden oyunlardan hangisi Yaş Gruplarına Göre Sınıflandırmalardan biri değildir?",
+      "options": [
+        "Okul öncesi dönemi oyunları",
+        "İlkokul dönemi oyunları",
+        "Ferdî oyunlar",
+        "Ortaokul dönemi oyunları",
+        "Lise dönemi oyunları"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yaş Gruplarına Göre Sınıflandırma; okul öncesi, ilkokul, ortaokul ve lise dönemi oyunları gibi gelişim/yaş dönemlerine göre yapılan bir ayrımdır. Ferdî (bireysel) oyunlar ise katılımcı sayısına göre yapılan farklı bir sınıflandırma ölçütüne aittir, yaş grubu temelli değildir.",
+      "optionNotes": [
+        "Okul öncesi dönemi oyunları, yaş gruplarına göre yapılan sınıflandırmanın gerçek bir kategorisidir.",
+        "İlkokul dönemi oyunları da yaş gruplarına göre sınıflandırmanın bir parçasıdır; bu seçenek sorunun yanıtı değildir.",
+        "Doğru yanıt: Ferdî oyunlar, katılımcı sayısına (bireysel/grup) göre yapılan bir sınıflandırmaya aittir; yaş gruplarına göre sınıflandırmanın (okul öncesi, ilkokul, ortaokul, lise) bir kategorisi değildir.",
+        "Ortaokul dönemi oyunları, yaş gruplarına göre sınıflandırmanın gerçek bir kategorisidir.",
+        "Lise dönemi oyunları da yaş gruplarına göre sınıflandırmanın bir parçasıdır; bu nedenle soruya yanıt olan seçenek değildir."
+      ]
+    },
+    {
+      "question": "Hareket becerileri ve hareket kavramlarıyla hareketin keşfedilmesi ve üretilmesi olarak tanımlanan kavrama ne ad verilir?",
+      "options": [
+        "Beceri temaları",
+        "Temel hareket kavramları",
+        "Vücut farkındalığı",
+        "Hareket ilişkileri",
+        "Temel hareket becerileri"
+      ],
+      "correctIndex": 4,
+      "explanation": "Temel hareket becerileri; hareket kavramları ve beceri temalarının (lokomotor, lokomotor olmayan, manipülatif) birleşiminden oluşan, hareketin keşfedilmesi ve üretilmesi sürecini ifade eden kapsayıcı kavramdır.",
+      "optionNotes": [
+        "Beceri temaları, temel hareket becerilerinin bir bileşeni (lokomotor, lokomotor olmayan, manipülatif beceriler) olup, hareketin keşfi ve üretimini tek başına tanımlayan kapsayıcı kavram değildir.",
+        "Temel hareket kavramları (vücut, alan, efor, ilişki farkındalığı), hareketin 'nasıl, nerede, kiminle' yapıldığını açıklar; hareketin keşfi ve üretimini bütünüyle tanımlayan kavram temel hareket becerileridir.",
+        "Vücut farkındalığı, temel hareket kavramlarının sadece bir alt boyutudur; sorudaki geniş tanımı tek başına karşılamaz.",
+        "Hareket ilişkileri, temel hareket kavramlarının bir alt boyutu olup bireyin diğer kişi/nesnelerle ilişkisini ifade eder; sorudaki kapsayıcı tanımı tek başına karşılamaz.",
+        "Doğru yanıt: Temel hareket becerileri, hareket kavramları ve beceri temalarıyla birlikte hareketin keşfedilmesi ve üretilmesi süreci olarak tanımlanır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Yer Değiştirme Gerektiren Hareketlerden biridir?",
+      "options": [
+        "Ağırlık aktarma",
+        "Atlama ve konma",
+        "Başlama – durma",
+        "Dinamik-statik denge",
+        "Atlama – sıçrama"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yer değiştirme gerektiren (lokomotor) hareketler, vücudun bir noktadan başka bir noktaya taşınmasını içerir. Atlama-sıçrama, vücudun mekân içinde yer değiştirmesini sağladığından lokomotor bir harekettir. Ağırlık aktarma, başlama-durma ve dinamik-statik denge ise temelde yer değiştirme içermeyen, denge/stabilite temelli (lokomotor olmayan) hareketlerdir.",
+      "optionNotes": [
+        "Ağırlık aktarma, vücut ağırlığının bir destek noktasından diğerine transferini ifade eden dengeleme temelli bir harekettir; yer değiştirme gerektiren bir hareket olarak sınıflandırılmaz.",
+        "Atlama ve konma, hareketin iniş/konma (denge sağlama) boyutunu vurgular; bu haliyle dengeleme hareketleri grubunda değerlendirilir, 'atlama-sıçrama'nın temsil ettiği saf yer değiştirme hareketiyle karıştırılmamalıdır.",
+        "Başlama-durma, hareketin başlatılması ve durdurulmasını, yani vücut kontrolünü ifade eden bir denge/kontrol hareketidir; kendisi bir yer değiştirme biçimi değildir.",
+        "Dinamik-statik denge, hareket sırasında veya sabit dururken denge merkezinin korunmasını ifade eder; tanım gereği dengeleme hareketleri grubuna aittir, yer değiştirme hareketi değildir.",
+        "Doğru yanıt: Atlama-sıçrama, vücudun havaya kalkıp bir noktadan başka bir noktaya taşınmasını sağlayan tipik bir yer değiştirme (lokomotor) hareketidir."
+      ]
+    }
+  ]
+}

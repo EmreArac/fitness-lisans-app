@@ -1,0 +1,304 @@
+{
+  "course": "yonetim1",
+  "unit_index": 1,
+  "topic": "Sporda Yönetim ve Organizasyon",
+  "questions": [
+    {
+      "question": "Yönetim kavramı ve yaklaşımlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Yönetim evrensel bir kavramdır",
+        "Yönetimin konusu insandır.",
+        "İnsanın diğer kişilerle ilişkilerini ve davranışlarını inceler.",
+        "Ekonomistlere göre yönetim; bir otorite sistemidir.",
+        "Yönetim insanlık tarihi kadar eski bir kavramdır."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Yönetimi toprak, sermaye ve iş gücü ile birlikte üretim fonksiyonlarından bir olarak tanımlayan grup aşağıdakilerden hangisidir?",
+      "options": [
+        "Ekonomistler",
+        "Yönetim Bilimciler",
+        "Politikacılar",
+        "Psikologlar",
+        "Felsefeciler"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "……………..yönetimin bir otorite sistemi olduğunu belirtirler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Ekonomistler",
+        "Yönetim Bilimciler",
+        "Politikacılar",
+        "Psikologlar",
+        "Felsefeciler"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Saptanan amaçlara en etkin ve en verimli bir şekilde ulaşabilmek için insanların çabalarını birleştiren ve düzenleştiren iş ve eylemlerin tümüne ne ad verilir?",
+      "options": [
+        "Misyon",
+        "Vizyon",
+        "Yönetim",
+        "Sistem",
+        "Bürokrasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Yönetimin nasıl olduğu II. Yönetimin nasıl olması gerektiği III. Yönetimin nasıl olacağı Yukarıda verilenlerden hangileri, yönetim biliminin yönetimi ele aldığı noktalardandır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "• Milattan binlerce yıl önce başlayıp milattan sonra 1778 yıllarına kadar süren oldukça uzun dönem………………………..olarak nitelendirilebilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı",
+        "Endüstri Öncesi Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Endüstri Devriminden, İkinci Dünya Savaşına kadar geçen dönemde görülen uygulamalar, aşağıdaki verilen yaklaşımlardan hangisiyle ilgilidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "1940’lı yıllardan başlayıp, 1960’lı yıllara kadar süren dönemde aşağıda verilen yaklaşımlardan hangisi etkili olmuştur?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "1960’lı yıllardan günümüze kadar süren yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Modern Yönetim Yaklaşımı kendi içerisinde kaça ayrılmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "1980’li yılların başında yönetim konusunda yeni bir akım başladığı ve daha önce yönetim süreci içerisinde yer alarak başarılı olmuş olan düşünür ve uygulamacıların ortaya koymuş oldukları yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Yönetimde Mükemmellik Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bir ticari örgütün her seviyede yönetsel sistemini kapsayarak bütün birimlerine baştan sona stratejik vizyonu genişletmeyi amaçlayan bir yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Endüstri Öncesi Yönetim Yaklaşımı",
+        "Klasik Yönetim Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Stratejik yönetim"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. İş bölümü ve uzmanlaşma II. Komuta birliği III. Kademe zinciri IV. Merkeziyetçilik Yukarıdakilerden hangileri Henry Fayol’ un yönetim ilkeleri arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "MÖ 3000 yıllarında hangi medeniyette vergi sistemleri din adamlarınca düzenlenmiştir?",
+      "options": [
+        "Sümer",
+        "Babil",
+        "Mısır",
+        "Yunan",
+        "Çin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aynı zamanda “Taylorizm” olarak da adlandırılan yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "Bilimsel Yönetim Yaklaşımı",
+        "Yönetim Süreci Yaklaşımı",
+        "Bürokrasi Yaklaşımı",
+        "Neo-Klasik Yönetim Yaklaşımı",
+        "Endüstri Öncesi Yönetim Yaklaşımı"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "• 2000’li yıllara doğru gelişen dünya ve artan rekabet koşulları çerçevesinde yarışmanın ve ayakta kalmanın yolunun, üretilen mal ve hizmetlerin kalitesinden geçtiğinin yaygın olarak anlaşılarak vurgulanmasını takiben ise…………………………… özellikle küreselleşen dünyada etkili olmaya başlamıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Klasik Yönetim Yaklaşımı",
+        "Yönetimde Toplam Kalite Yönetimi Yaklaşımı",
+        "Davranışsal (Neo-Klasik) Yönetim Yaklaşımı",
+        "Modern Yönetim Yaklaşımı",
+        "Stratejik yönetim"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bilimsel yönetim adıyla bilinen yaklaşımın en önemli öncüsü kimdir?",
+      "options": [
+        "Frederick Taylor",
+        "M. Gilberth",
+        "Frank B. Lillian",
+        "Harry L. Gantt",
+        "Max Weber"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bürokrasi yaklaşımının öncüsü aşağıdakilerden hangisidir?",
+      "options": [
+        "Henri Fayol",
+        "Frederick Taylor",
+        "A.H. Maslow",
+        "Max Weber",
+        "Robert Waterman"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "1911 yılında yayımlanan “Bilimsel Yönetim İlkeleri” adlı kitap kime aittir?",
+      "options": [
+        "M. Gilberth",
+        "Frank B. Lillian",
+        "Harry L. Gantt",
+        "Max Weber",
+        "Frederick Taylor"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Bilimsel yönetim yaklaşımının ilkelerinden biri değildir?",
+      "options": [
+        "Çalışanların yaptığı işin her bir ögesi, bilimsel bir analize tabi tutulmalıdır",
+        "Çalışanlar, nasıl yapılacağı önceden belirlenmiş işleri yapabilecek şekilde seçilmeli, bu işler için eğitilip geliştirilmelidir.",
+        "Belirli bir iş için işin genelinde uzmanlaşılmalıdır",
+        "İşletmedeki bütün işler planlanıp, programlanmalıdır.",
+        "Çalışanları teşvik edici ücret sistemi geliştirilmelidir"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "20. yüzyılın başlarında ustabaşı ve işçileri iş uygulamalarını geliştirmeye zorlayan bir ödeme sistemi geliştiren kişi kimdir?",
+      "options": [
+        "Henri Fayol",
+        "Max Weber",
+        "Henry Gantt",
+        "Frederick Taylor",
+        "Abraham Maslow"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Yönetim Süreci Yaklaşımının öncülüğünü kim yapmıştır?",
+      "options": [
+        "Max Weber",
+        "Henri Fayol",
+        "Frederick Taylor",
+        "A.H. Maslow",
+        "Robert Waterman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Henri Fayol’a ait kaç adet yönetim ilkesi vardır?",
+      "options": [
+        "4",
+        "8",
+        "10",
+        "14",
+        "18"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "1895 yılında Amerikan Makine Mühendisleri Derneğinin yayın organı olan Transaction adlı dergide yayımlanan “Parça Başı Sistemi” adlı makale kime aittir?",
+      "options": [
+        "Frederick Taylor",
+        "M. Gilberth",
+        "Frank B. Lillian",
+        "Harry L. Gantt",
+        "Max Weber"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "………….eldeki kaynakların en verimli biçimde kullanılmasını öğreten bilim dalıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Misyon",
+        "Vizyon",
+        "Yönetim",
+        "Sistem",
+        "Bürokrasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Toplumsal bilimlerin bilim sayılması kaç temel koşula bağlıdır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Tosun’a göre………... bir amaca ulaşmak, bir isteği gerçekleştirmek veya bir hedefi elde etmek için yapılan işler, yürütülen etkinlikler ve çabalardır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Misyon",
+        "Yönetim",
+        "Vizyon",
+        "Sistem",
+        "Bürokrasi"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

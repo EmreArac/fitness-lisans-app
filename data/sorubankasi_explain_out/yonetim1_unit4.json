@@ -1,0 +1,397 @@
+{
+  "course": "yonetim1",
+  "unit_index": 4,
+  "topic": "Sporda İletişim ve Halkla İlişkiler",
+  "questions": [
+    {
+      "question": "Duygu, düşünce ya da bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon olarak tanımlanan kavrama ne ad verilir?",
+      "options": ["Yönetim", "İşletme", "Liderlik", "İletişim", "Hukuk"],
+      "correctIndex": 3,
+      "explanation": "İletişim, duygu, düşünce ve bilgilerin söz, yazı, görüntü ya da beden dili gibi akla gelebilecek her türlü yolla bir kaynaktan bir alıcıya aktarılması sürecidir; bu süreç literatürde bildirişim, haberleşme ya da komünikasyon olarak da adlandırılır. Soruda verilen tanım doğrudan iletişim kavramının AÖF ders kitaplarındaki klasik tanımıdır.",
+      "optionNotes": [
+        "Yönetim, belirlenen amaçlara ulaşmak için insan ve diğer kaynakları planlama, örgütleme, yöneltme ve denetleme sürecidir; duygu ve bilginin aktarılmasını değil amaca yönelik kaynak kullanımını ifade eder.",
+        "İşletme, mal ve hizmet üretmek amacıyla kurulan ekonomik birimdir; iletişim sürecinin tanımıyla ilgisi yoktur.",
+        "Liderlik, bir grubu ortak hedefler doğrultusunda etkileme ve yönlendirme yeteneğidir; mesaj aktarım sürecini değil etkileme becerisini tanımlar.",
+        "Doğru yanıt: Tanımda geçen \"duygu, düşünce ya da bilgilerin her türlü yolla başkalarına aktarılması\" ifadesi iletişimin birebir tanımıdır; bildirişim, haberleşme ve komünikasyon kavramları da iletişimin eş anlamlılarıdır.",
+        "Hukuk, toplumu düzenleyen kurallar bütünüdür; bir aktarım ya da paylaşım sürecini ifade etmediğinden bu tanımla örtüşmez."
+      ]
+    },
+    {
+      "question": "I. İnsan ilişkilerinde anlama II. Anlaşma III. Duygudaşlık yapma IV. Paylaşma tekniklerinin belirlenmesi, analiz edilmesi ve açıklanması Yukarıda verilenlerden hangileri İletişimin temel görevlerindendir?",
+      "options": ["I", "I – II", "I – II – III", "I – III – IV", "I – II – III – IV"],
+      "correctIndex": 4,
+      "explanation": "İletişimin temel görevleri arasında insan ilişkilerinde karşılıklı anlama, anlaşma sağlama, duygudaşlık (empati) kurma ve paylaşım tekniklerinin belirlenmesi, analizi ve açıklanması yer alır; bu dört unsur birlikte iletişimin işlevsel kapsamını oluşturur, dolayısıyla hepsi doğrudur.",
+      "optionNotes": [
+        "Sadece anlama unsurunu kapsar, iletişimin anlaşma, duygudaşlık ve paylaşım gibi diğer temel görevlerini dışarıda bırakır, bu nedenle eksiktir.",
+        "Anlaşmayı da eklese de duygudaşlık kurma ve paylaşım tekniklerinin belirlenmesini kapsam dışı bırakır.",
+        "Duygudaşlığı içerse de paylaşım tekniklerinin belirlenmesi, analiz edilmesi ve açıklanmasını (IV) listeye almadığı için eksik bir seçenektir.",
+        "Anlaşma unsurunu (II) atladığı için iletişimin temel görevlerinin tamamını kapsamaz.",
+        "Doğru yanıt: Anlama, anlaşma, duygudaşlık kurma ve paylaşım tekniklerinin belirlenmesi/analizi/açıklanması dört unsurun tümü birlikte iletişimin temel görevlerini oluşturur."
+      ]
+    },
+    {
+      "question": "Örgütsel iletişimin vazgeçilmez aracı aşağıdakilerden hangisidir?",
+      "options": ["Halkla ilişkiler", "Spor pazarlaması", "Spor yöneticileri", "Kulüp personelleri", "Sponsorlar"],
+      "correctIndex": 0,
+      "explanation": "Örgütsel iletişim, bir kurumun içindeki ve dışındaki hedef kitlelerle güvene dayalı ilişkiler kurmasını sağlar; bu ilişkilerin planlı, sistemli ve iki yönlü biçimde yürütülmesi halkla ilişkiler faaliyeti aracılığıyla gerçekleşir, bu nedenle halkla ilişkiler örgütsel iletişimin vazgeçilmez aracı olarak kabul edilir.",
+      "optionNotes": [
+        "Doğru yanıt: Kurumun iç ve dış hedef kitleleriyle planlı, dürüst ve iki yönlü iletişim kurmasını sağlayan temel araç halkla ilişkilerdir; örgütsel iletişim büyük ölçüde bu fonksiyon üzerinden yürütülür.",
+        "Spor pazarlaması, spor ürün ve hizmetlerinin satışını ve tüketimini artırmaya yönelik pazarlama faaliyetlerini kapsar; örgütsel iletişimin aracı değil pazarlama fonksiyonunun bir alt dalıdır.",
+        "Spor yöneticileri iletişimi yürüten kişilerdir, ancak kendileri bir \"araç\" değil örgütsel iletişimi uygulayan özne/aktördür.",
+        "Kulüp personelleri de iletişimin tarafı olan kişilerdir, iletişimi sağlayan bir yöntem veya araç değildir.",
+        "Sponsorlar, kulübe maddi/ayni destek sağlayan dış paydaşlardır; örgütsel iletişimin aracı olmaktan çok iletişimin hedef kitlelerinden biridir."
+      ]
+    },
+    {
+      "question": "“doğru mesajı, doğru hedef kitleye, doğru araçlarla vermemizi sağlayacak uygulamalar” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": ["Halkla ilişkiler", "Spor pazarlaması", "Spor yöneticileri", "Kulüp personelleri", "Sponsorlar"],
+      "correctIndex": 0,
+      "explanation": "Halkla ilişkiler, doğru mesajın doğru hedef kitleye doğru iletişim araçlarıyla ulaştırılmasını sağlayan planlı ve sistemli uygulamalar bütünüdür; bu tanım halkla ilişkilerin stratejik iletişim yönetimi boyutunu öne çıkarır.",
+      "optionNotes": [
+        "Doğru yanıt: Doğru mesajı doğru hedef kitleye doğru araçlarla iletme işlevi doğrudan halkla ilişkilerin stratejik iletişim planlaması boyutunu tanımlar.",
+        "Pazarlama, ürün/hizmetin satışını artırmaya odaklanır; mesaj-hedef kitle-araç uyumunu sağlayan genel iletişim planlaması değil, satış ve tutundurma stratejilerini kapsar.",
+        "Bu bir kavram tanımı değil bir meslek grubu/kişi tanımıdır; soru bir uygulama/süreç tanımı sorduğu için uygun değildir.",
+        "Kulüp personelleri bir çalışan grubunu ifade eder, tanımda sorulan iletişim uygulamasını değil bu uygulamayı yürütebilecek kişileri belirtir.",
+        "Sponsorlar kurumsal destek sağlayan taraflardır, doğru mesaj-hedef kitle-araç eşleştirmesini yapan bir uygulama değildir."
+      ]
+    },
+    {
+      "question": "I. Eski Mısır II. Mezopotamya III. İran Yukarıdaki medeniyetlerin hangilerinde propaganda amaçlı tabletler bulunmuştur?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 4,
+      "explanation": "Halkla ilişkiler ve propaganda tarihine ilişkin kaynaklar, Eski Mısır, Mezopotamya ve İran medeniyetlerinde hükümdarların gücünü ve başarılarını halka duyurmak amacıyla kil tabletler, yazıtlar ve anıtlar kullandıklarını göstermektedir; bu nedenle üç medeniyetin de propaganda amaçlı tabletlere sahip olduğu kabul edilir.",
+      "optionNotes": [
+        "Sadece Eski Mısır'ı kapsayarak Mezopotamya ve İran'daki benzer propaganda uygulamalarını göz ardı eder.",
+        "Sadece Mezopotamya'yı içerir, Eski Mısır ve İran'daki tablet ve yazıt uygulamalarını dışarıda bırakır.",
+        "Eski Mısır ve Mezopotamya'yı kapsasa da İran medeniyetindeki propaganda amaçlı tabletleri eksik bırakır.",
+        "Mezopotamya ve İran'ı içerse de konunun başlangıç noktası sayılan Eski Mısır'daki uygulamaları dışarıda tutar.",
+        "Doğru yanıt: Eski Mısır, Mezopotamya ve İran medeniyetlerinin üçünde de hükümdarların gücünü halka duyurmaya yönelik propaganda amaçlı tabletler/yazıtlar bulunmuştur."
+      ]
+    },
+    {
+      "question": "Agora toplantılarını hangi medeniyet yapmıştır?",
+      "options": ["Eski Mısır", "Mezopotamya", "İran", "Eski Yunan", "Eski Roma"],
+      "correctIndex": 3,
+      "explanation": "Agora, Eski Yunan şehir devletlerinde halkın toplanıp siyasi, ticari ve sosyal konuları tartıştığı açık meydanlardır; bu toplantılar katılımcı demokrasinin ve kamuoyu oluşturmanın ilk örneklerinden sayılır ve halkla ilişkiler tarihinde önemli bir aşama olarak kabul edilir.",
+      "optionNotes": [
+        "Eski Mısır'da iletişim daha çok hiyeroglif yazıtlar ve anıtlarla tek yönlü propaganda şeklinde yürütülmüştür, agora tipi açık meydan toplantıları bu medeniyete ait değildir.",
+        "Mezopotamya'da iletişim kil tabletler ve yazılı kayıtlar üzerinden yürütülmüştür; agora toplantıları Yunan şehir devletlerine özgüdür.",
+        "İran'da halkla ilişkiler, hükümdarların imgesini güçlendiren portre ve törenler şeklinde görülür, agora kavramı Yunan kültürüne aittir.",
+        "Doğru yanıt: Agora, Eski Yunan'da halkın toplanıp kamusal meseleleri tartıştığı meydan/toplantı biçimidir ve kamuoyu oluşturmanın tarihsel örneklerinden biridir.",
+        "Roma'daki karşılığı agora değil forumdur; agora terimi özellikle Yunan şehir devletleriyle ilişkilendirilir."
+      ]
+    },
+    {
+      "question": "Forumlar hangi medeniyet tarafından yapılmıştır?",
+      "options": ["Eski Mısır", "Mezopotamya", "İran", "Eski Yunan", "Eski Roma"],
+      "correctIndex": 4,
+      "explanation": "Forum, Eski Roma'da agoraya benzer biçimde halkın toplandığı, ticari, siyasi ve hukuki faaliyetlerin yürütüldüğü kamusal meydanlardır; Roma'da kamuoyuyla iletişim ve bilgilendirme forumlar aracılığıyla gerçekleştirilmiştir.",
+      "optionNotes": [
+        "Eski Mısır'da kamusal meydan toplantıları yerine anıtsal yazıtlar ve hiyeroglifler kullanılmıştır, forum kavramı bu medeniyete ait değildir.",
+        "Mezopotamya iletişiminde kil tabletler esas alınmıştır; forum, Roma'nın kamusal meydan uygulamasıdır.",
+        "İran'da forumlar yerine hükümdar imgesini güçlendiren portre ve törensel uygulamalar görülür.",
+        "Yunan medeniyetindeki karşılığı forum değil agoradır; forum terimi özellikle Roma'ya aittir.",
+        "Doğru yanıt: Forum, Roma'da halkın toplandığı ve kamusal işlerin görüşüldüğü meydandır, Agoranın Roma'daki karşılığıdır."
+      ]
+    },
+    {
+      "question": "Pers İmparatoru Dara’yı yendikten sonra İran halkının karşısına Perslerin yerel giysileriyle çıkarak sempati kazanmaya çalışan ve bir bakıma o dönemde halkla ilişkiler faaliyeti yapan hükümdar kimdir?",
+      "options": ["Büyük İskender", "Konstantin", "Theodosius", "Kleopatra", "Humbaba"],
+      "correctIndex": 0,
+      "explanation": "Büyük İskender, Pers İmparatoru III. Darius'u (Dara) yendikten sonra fethettiği halkların desteğini kazanmak amacıyla Pers yerel kıyafetlerini giyerek halkın karşısına çıkmış, bu davranışıyla dönemin koşullarında bir halkla ilişkiler/imaj yönetimi uygulaması gerçekleştirmiştir.",
+      "optionNotes": [
+        "Doğru yanıt: Darius'u yendikten sonra Pers halkının sempatisini kazanmak için yerel giysilerle halkın karşısına çıkan hükümdar Büyük İskender'dir.",
+        "Konstantin, Roma İmparatorluğu'nda Hristiyanlığı resmi olarak tanıyan imparator olarak bilinir; Pers halkına yönelik bu tür bir sempati kazanma girişimiyle anılmaz.",
+        "Theodosius, Hristiyanlığı Roma'nın resmi dini yapan ve pagan inançları yasaklayan imparatordur; Pers halkıyla ilgili bu olayla ilişkilendirilmez.",
+        "Kleopatra, Mısır kraliçesidir ve Roma ile ilişkileriyle tanınır; Pers halkının karşısına yerel kıyafetle çıkma olayının öznesi değildir.",
+        "Humbaba, Mezopotamya mitolojisinde (Gılgamış Destanı) geçen efsanevi bir yaratıktır, tarihsel bir hükümdar değildir."
+      ]
+    },
+    {
+      "question": "I. Pers II. Babil III. Asurlular Yukarıdaki medeniyetlerin hangileri özenle işledikleri portrelerle ‘güçlü imparator’ imajının tarih boyunca korunmasını sağlamışlardır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 4,
+      "explanation": "Pers, Babil ve Asur medeniyetlerinde hükümdarların gücünü ve otoritesini vurgulamak amacıyla özenle işlenmiş portreler, kabartmalar ve anıtlar yapılmış; bu uygulamalar sayesinde \"güçlü imparator\" imgesi tarih boyunca korunmuş ve sonraki nesillere taşınmıştır.",
+      "optionNotes": [
+        "Sadece Pers'i kapsayarak Babil ve Asurlulardaki benzer portre/imaj uygulamalarını göz ardı eder.",
+        "Sadece Babil'i içerir, Pers ve Asurlulardaki aynı amaçla yapılan işlemeleri dışarıda bırakır.",
+        "Pers ve Babil'i kapsasa da Asurlulardaki özenle işlenmiş imparator portrelerini eksik bırakır.",
+        "Babil ve Asurlulardaki örnekleri içerse de konunun kapsamındaki Pers medeniyetini dışarıda tutar.",
+        "Doğru yanıt: Pers, Babil ve Asurluların üçü de hükümdarlarının gücünü imgeleştiren özenli portreler ve kabartmalarla \"güçlü imparator\" imajını tarih boyunca koruyabilmiştir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi James Grunig’in halkla ilişkiler uygulamalarından biri değildir?",
+      "options": ["Tanıtım", "Bilgilendirme", "Çapraz iletişim", "İki yönlü asimetrik iletişim", "İki yönlü simetrik iletişim"],
+      "correctIndex": 2,
+      "explanation": "James Grunig halkla ilişkiler uygulamalarını dört model halinde sınıflandırmıştır: tanıtım (basın ajansı) modeli, bilgilendirme modeli, iki yönlü asimetrik iletişim modeli ve iki yönlü simetrik iletişim modeli. \"Çapraz iletişim\" bu dört model arasında yer almayan, Grunig'in sınıflandırmasına ait olmayan bir kavramdır.",
+      "optionNotes": [
+        "Grunig'in dört modelinden biri olan tanıtım (basın ajansı) modelidir; kurumun kendini olumlu tanıtmaya yönelik tek yönlü iletişimini ifade eder, bu nedenle modele dahildir ve soruda aranan \"olmayan\" seçenek değildir.",
+        "Grunig'in bilgilendirme modeli, kamuoyuna doğru ve nesnel bilgi sunmayı esas alan tek yönlü ama dürüst bir iletişim biçimidir; dört modelden biridir.",
+        "Doğru yanıt: Grunig'in halkla ilişkiler modelleri tanıtım, bilgilendirme, iki yönlü asimetrik ve iki yönlü simetrik iletişimden oluşur; \"çapraz iletişim\" bu dörtlü sınıflandırmada yer almayan bir kavramdır.",
+        "Bu, Grunig'in modellerinden biridir; kurumun ikna amacıyla geri bildirim topladığı ama gücün kurumda kaldığı iletişim biçimidir.",
+        "Bu da Grunig'in dört modelinden biridir; kurum ile kamuoyu arasında karşılıklı anlayışa dayanan dengeli iletişimi ifade eder."
+      ]
+    },
+    {
+      "question": "Amerika’da modern halkla ilişkilerin öncüsü olarak kabul edilen kişi kimdir?",
+      "options": ["James Grunig", "Silberblatt", "Henry Fayol", "Max Weber", "Edward Bernays"],
+      "correctIndex": 4,
+      "explanation": "Edward Bernays, halkla ilişkiler kavramını bilimsel ve sistematik bir çerçeveye kavuşturan, \"Kristalize Eden Kamuoyu\" gibi çalışmalarıyla tanınan ve Amerika'da modern halkla ilişkiler uygulamalarının öncüsü/babası olarak kabul edilen kişidir.",
+      "optionNotes": [
+        "Grunig, halkla ilişkiler modellerini (tanıtım, bilgilendirme, asimetrik/simetrik iletişim) geliştiren akademisyendir, ancak modern halkla ilişkilerin Amerika'daki öncüsü olarak anılan kişi değildir.",
+        "Bu isim halkla ilişkiler tarihinin öncü/kurucu figürleri arasında anılan bilinen bir isim değildir, soruda aranan öncü kişiyi karşılamaz.",
+        "Fayol, klasik yönetim teorisinin kurucularından biri olup yönetimin evrensel ilkelerini (planlama, örgütleme vb.) geliştirmiştir; halkla ilişkiler alanıyla ilişkilendirilmez.",
+        "Max Weber, bürokrasi teorisi ve otorite türleri üzerine çalışmış bir sosyologdur; halkla ilişkilerin öncüsü olarak değil yönetim/sosyoloji kuramcısı olarak bilinir.",
+        "Doğru yanıt: Edward Bernays, halkla ilişkiler uygulamalarını kuramsallaştıran ve Amerika'da bu alanın öncüsü sayılan isimdir."
+      ]
+    },
+    {
+      "question": "Anadolu Ajansı ve Matbuat ve İstihbarat Umum Müdürlüğü kaç yılında kurulmuştur?",
+      "options": ["1900", "1905", "1915", "1920", "1930"],
+      "correctIndex": 3,
+      "explanation": "Türkiye'de Kurtuluş Savaşı döneminde haber ve propaganda faaliyetlerini yürütmek üzere Anadolu Ajansı ile Matbuat ve İstihbarat Umum Müdürlüğü 1920 yılında, Milli Mücadele'nin örgütlenme sürecinde kurulmuştur.",
+      "optionNotes": [
+        "Bu tarihte Türkiye'de henüz Milli Mücadele dönemi başlamamış, bahsi geçen kurumlar henüz mevcut değildi.",
+        "Anadolu Ajansı ve Matbuat ve İstihbarat Umum Müdürlüğü bu tarihte kurulmamıştır; dönem Osmanlı İmparatorluğu'nun son yıllarına aittir ve bu kurumlarla ilgisi yoktur.",
+        "I. Dünya Savaşı yıllarına denk gelen bu tarihte söz konusu kurumlar henüz kurulmamıştı.",
+        "Doğru yanıt: Anadolu Ajansı ve Matbuat ve İstihbarat Umum Müdürlüğü, Milli Mücadele'nin haber ve propaganda ihtiyacını karşılamak üzere 1920 yılında kurulmuştur.",
+        "Bu tarih, Cumhuriyet'in ilanından sonraki bir dönemdir; söz konusu kurumlar bundan önce, 1920'de kurulmuştur."
+      ]
+    },
+    {
+      "question": "İrade-i Milliye gazetesi hangi ilde çıkarılmıştır?",
+      "options": ["Sivas", "Erzurum", "İstanbul", "İzmir", "Ankara"],
+      "correctIndex": 0,
+      "explanation": "İrade-i Milliye gazetesi, Mustafa Kemal Atatürk önderliğinde Milli Mücadele'nin sesini duyurmak amacıyla Sivas Kongresi sürecinde Sivas'ta çıkarılmış bir gazetedir.",
+      "optionNotes": [
+        "Doğru yanıt: İrade-i Milliye gazetesi, Sivas Kongresi döneminde Milli Mücadele'yi halka duyurmak amacıyla Sivas'ta yayımlanmıştır.",
+        "Erzurum, Erzurum Kongresi'nin yapıldığı ve farklı yayın faaliyetlerinin bulunduğu bir ildir; İrade-i Milliye bu ilde çıkarılmamıştır.",
+        "İstanbul, dönemin işgal altındaki başkenti olup Milli Mücadele'nin merkezi değildi; İrade-i Milliye bu şehirde yayımlanmamıştır.",
+        "İzmir, bu dönemde Yunan işgali altında olan bir şehirdir; İrade-i Milliye'nin çıkarıldığı yer değildir.",
+        "Ankara, Milli Mücadele'nin daha sonraki aşamalarında merkez haline gelmiştir; gazete bu aşamadan önce Sivas'ta çıkarılmıştır."
+      ]
+    },
+    {
+      "question": "Ülkemizde ilk internet bağlantısı hangi yılda yapılmıştır?",
+      "options": ["1990", "1991", "1992", "1993", "1994"],
+      "correctIndex": 3,
+      "explanation": "Türkiye'de ilk internet bağlantısı, 1993 yılında Orta Doğu Teknik Üniversitesi (ODTÜ) aracılığıyla gerçekleştirilmiştir ve bu tarih ülkemizde internet çağının başlangıcı olarak kabul edilir.",
+      "optionNotes": [
+        "Bu tarihte Türkiye'de henüz internet altyapısı kurulmamıştı; bağlantı daha sonraki bir tarihte sağlanmıştır.",
+        "İlk internet bağlantısı bu yılda değil, 1993 yılında gerçekleşmiştir.",
+        "Bu tarihte Türkiye henüz internete bağlanmamıştı; çalışmalar sürüyordu ancak resmi bağlantı 1993'te sağlandı.",
+        "Doğru yanıt: Türkiye'de ilk internet bağlantısı 1993 yılında ODTÜ üzerinden gerçekleştirilmiştir.",
+        "İlk bağlantı bu tarihten bir yıl önce, 1993'te zaten sağlanmış durumdaydı."
+      ]
+    },
+    {
+      "question": "Ülkemizin ilk özel televizyon kanalı aşağıdakilerden hangisidir?",
+      "options": ["Trt", "Magic Box", "Show Tv", "Fox", "Kanal D"],
+      "correctIndex": 1,
+      "explanation": "Türkiye'nin ilk özel televizyon kanalı, 1989-1990 yıllarında Almanya üzerinden uydu yoluyla yayın yapmaya başlayan ve \"Magic Box\" çatısı altında kurulan Star 1'dir; bu kanal, TRT'nin devlet tekelini kıran ilk özel yayıncılık girişimi olarak kabul edilir.",
+      "optionNotes": [
+        "TRT, Türkiye'nin kamu/devlet televizyon kurumudur, özel bir kanal değildir; soru özellikle \"ilk özel televizyon kanalı\"nı sormaktadır.",
+        "Doğru yanıt: Magic Box (Star 1), Almanya üzerinden uydu yayını yaparak TRT tekelini kıran Türkiye'nin ilk özel televizyon kanalıdır.",
+        "Show TV, Magic Box'tan (Star 1) sonra yayın hayatına başlayan özel kanallardan biridir, ilk olma unvanını taşımaz.",
+        "Fox TV (önceki adıyla), Türkiye özel televizyon tarihinde daha sonraki bir dönemde faaliyete geçmiştir, ilk özel kanal değildir.",
+        "Kanal D de Magic Box'tan sonra kurulan özel kanallar arasındadır, Türkiye'nin ilk özel televizyon kanalı unvanına sahip değildir."
+      ]
+    },
+    {
+      "question": "Kendi çıkarları doğrultusunda herhangi bir konuda yasama kademelerini etkilemek ve ikna etmek için yapılan girişimleri yürütmek hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": ["Lobicilik", "Sponsorluk", "Kurumsal Kimlik Çalışmaları", "Kültürlerarası iletişim", "Danışmanlık"],
+      "correctIndex": 0,
+      "explanation": "Lobicilik, kişi ya da kurumların kendi çıkarları doğrultusunda yasama organlarını ve kamu yöneticilerini etkilemek, belirli bir karar veya düzenlemeyi kendi lehlerine yönlendirmek amacıyla ikna girişimlerinde bulunduğu halkla ilişkiler faaliyet alanıdır.",
+      "optionNotes": [
+        "Doğru yanıt: Yasama kademelerini etkilemek ve ikna etmek için yürütülen çıkar odaklı girişimler lobicilik faaliyetidir.",
+        "Sponsorluk, karşılıklı fayda esasına dayanan ayni/nakdi destek anlaşmalarını kapsar, yasama sürecini etkilemeye yönelik bir faaliyet değildir.",
+        "Bu alan, kurumun logo, kurumsal kültür ve görünümüyle ilgili çalışmaları kapsar; yasama organlarını etkilemekle ilgisi yoktur.",
+        "Bu alan farklı kültürler arasındaki iletişim farklılıklarının yönetimiyle ilgilidir, yasal düzenlemeleri etkilemeye yönelik bir faaliyet değildir.",
+        "Danışmanlık, kurumlara iletişim stratejileri konusunda uzman görüşü sunmayı ifade eder; doğrudan yasama kademelerini etkileme girişimi değildir."
+      ]
+    },
+    {
+      "question": "I. Haber bültenleri II. Basın toplantıları III. Konuşmalar IV. Özel haberler Yukarıdakilerden hangileri duyurum türleri arasında yer alır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "I – II – III", "I – II – III – IV"],
+      "correctIndex": 4,
+      "explanation": "Duyurum (publicity), bir kurum ya da olay hakkında medya aracılığıyla ücretsiz ve kontrol edilemeyen bir şekilde bilgi yayılmasını ifade eder; haber bültenleri, basın toplantıları, konuşmalar ve özel haberler bu duyurum türlerinin tamamını oluşturur.",
+      "optionNotes": [
+        "Sadece haber bültenlerini kapsar, basın toplantıları, konuşmalar ve özel haberler gibi diğer duyurum türlerini dışarıda bırakır.",
+        "Sadece basın toplantılarını içerir, haber bültenleri, konuşmalar ve özel haberleri kapsam dışı tutar.",
+        "Haber bültenleri ve basın toplantılarını kapsasa da konuşmalar ve özel haberleri eksik bırakır.",
+        "Konuşmaları da ekler ama özel haberleri (IV) duyurum türleri listesine almadığı için eksiktir.",
+        "Doğru yanıt: Haber bültenleri, basın toplantıları, konuşmalar ve özel haberlerin dördü de duyurum (publicity) türleri arasında yer alır."
+      ]
+    },
+    {
+      "question": "Kaynak ile hedef arasında “mesaj alışverişi, bilgi üretme, aktarma ve anlamlandırma sürecine ne ad verilir?",
+      "options": ["Yönetim", "İşletme", "Liderlik", "İletişim", "Hukuk"],
+      "correctIndex": 3,
+      "explanation": "İletişim süreci, bir kaynaktan çıkan mesajın bir kanal aracılığıyla hedefe (alıcıya) iletilmesi, bu süreçte bilginin üretilmesi, aktarılması ve anlamlandırılmasını kapsar; bu tanım iletişim kavramının kaynak-mesaj-kanal-hedef modeline dayanan klasik açıklamasıdır.",
+      "optionNotes": [
+        "Yönetim, kaynakların amaçlar doğrultusunda planlanıp denetlenmesi sürecidir; kaynak-hedef arası mesaj alışverişini tanımlamaz.",
+        "İşletme, mal/hizmet üretimi yapan ekonomik birimi ifade eder, bir iletişim sürecini tanımlamaz.",
+        "Liderlik, grubu etkileme ve yönlendirme yeteneğidir; kaynak-hedef arası mesaj alışverişi sürecini değil etkileme kapasitesini ifade eder.",
+        "Doğru yanıt: Kaynak ile hedef arasındaki mesaj alışverişi, bilgi üretme, aktarma ve anlamlandırma süreci doğrudan iletişimin tanımıdır.",
+        "Hukuk, toplumsal düzeni sağlayan kurallar sistemidir; mesaj alışverişi ve anlamlandırma sürecini ifade etmez."
+      ]
+    },
+    {
+      "question": "Beden dili, insanlar arasındaki yüz yüze etkileşimde yüzde kaç etkilidir?",
+      "options": ["7", "38", "55", "70", "90"],
+      "correctIndex": 2,
+      "explanation": "Albert Mehrabian'ın iletişim araştırmalarına göre yüz yüze etkileşimde mesajın etkisi; kelimeler (sözel içerik) %7, ses tonu %38 ve beden dili (sözsüz unsurlar) ise %55 oranında etkilidir; bu nedenle beden dilinin yüz yüze iletişimdeki etkisi en yüksek paya sahiptir.",
+      "optionNotes": [
+        "Bu oran, Mehrabian'ın modelinde sözlerin/kelimelerin (sözel içeriğin) etki oranını ifade eder, beden dilinin oranı değildir.",
+        "Bu oran, ses tonu ve tonlamanın iletişimdeki etkisini ifade eder, beden diline ait pay değildir.",
+        "Doğru yanıt: Mehrabian'ın 7-38-55 kuralına göre beden dili, yüz yüze etkileşimde mesajın %55'ini oluşturacak kadar etkilidir.",
+        "Bu oran, Mehrabian'ın modelindeki üç bileşenden (kelime, ses tonu, beden dili) hiçbirine karşılık gelmez.",
+        "Bu oran da modelde yer almaz ve beden dilinin gerçek etkisini aşan, abartılı bir değerdir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi iletişimi engelleyen örgütsel açıdan teknik faktörlerden biri değildir?",
+      "options": ["Gürültü", "Tutum ve davranışlar", "Mesajdan kaynaklanan engel ve bozukluklar", "İletişim araçlarından kaynaklanan bozukluklar", "Dil güçlüklerinden kaynaklanan engeller"],
+      "correctIndex": 1,
+      "explanation": "Örgütsel iletişimi engelleyen teknik faktörler; gürültü, mesajın kendisinden kaynaklanan bozukluklar, iletişim araçlarındaki arızalar ve dil güçlükleri gibi iletişim kanalının fiziksel/yapısal işleyişiyle ilgili sorunlardır. \"Tutum ve davranışlar\" ise bireylerin kişilik, önyargı ve algılarıyla ilgili olup psikolojik/sosyal nitelikte bir engeldir, teknik faktör kapsamına girmez.",
+      "optionNotes": [
+        "Gürültü, iletişim kanalındaki fiziksel parazitleri ifade eden klasik bir teknik engeldir, bu nedenle teknik faktörler arasındadır.",
+        "Doğru yanıt: Tutum ve davranışlar, bireylerin kişilik, önyargı ve algı farklılıklarından kaynaklanan psikolojik/sosyal bir engel türüdür; teknik faktörler arasında sayılmaz, bu nedenle sorudaki \"olmayan\" seçenektir.",
+        "Mesajın kodlanmasında, netliğinde ya da yapısında ortaya çıkan bozukluklar teknik nitelikli bir iletişim engelidir.",
+        "Kullanılan iletişim araç ve teknolojilerindeki arızalar, teknik kaynaklı engellerin tipik bir örneğidir.",
+        "Terminoloji, jargon ya da dil farklılıklarından kaynaklanan sorunlar, mesajın iletim/kodlanma sürecini etkileyen teknik bir engeldir."
+      ]
+    },
+    {
+      "question": "Yargılardan kaçınarak, tavsiyede bulunmadan, karşıdakinin duygularını anlamaya çalışarak dinlemeye ne ad verilir?",
+      "options": ["Ayırt Edici Dinleme", "Estetik Dinleme", "Etkili Dinleme", "Eleştirel Dinleme", "Empatik Dinleme"],
+      "correctIndex": 4,
+      "explanation": "Empatik dinleme, karşıdaki kişiyi yargılamadan, öğüt ya da tavsiye vermeden, onun duygu ve bakış açısını anlamaya çalışarak dinleme biçimidir; bu dinleme türünde amaç karşı tarafı anlamak ve duygularını paylaşmaktır.",
+      "optionNotes": [
+        "Bu dinleme türü, sesler ve mesajlar arasındaki farkları algılamaya odaklanır, duyguları anlamaya yönelik yargısız bir dinleme biçimi değildir.",
+        "Estetik dinleme, müzik, şiir gibi sanatsal içerikleri zevk amacıyla dinlemeyi ifade eder, karşıdakinin duygularını anlamaya yönelik değildir.",
+        "Etkili dinleme genel olarak dikkatli ve odaklanmış dinlemeyi ifade eden geniş bir kavramdır; sorudaki tanımın özgül karşılığı olan empatik dinlemeden farklıdır.",
+        "Eleştirel dinleme, mesajı değerlendirme ve yargılama amacı taşır; tam tersine sorudaki tanım yargılardan kaçınmayı vurgular.",
+        "Doğru yanıt: Yargılamadan, tavsiye vermeden karşıdakinin duygularını anlamaya çalışarak dinleme, empatik dinlemenin tanımıdır."
+      ]
+    },
+    {
+      "question": "Spor insanlarının korona virüsünden olumsuz etkilenen insanlar için yardım kampanyası düzenlenmesi, hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": ["Sosyal sorumluluk projeleri", "Kulüp içi iletişim", "Kulüpler arası iletişim", "Kulüp halkla ilişkiler", "Kulüp medya ilişkileri"],
+      "correctIndex": 0,
+      "explanation": "Spor kulüplerinin ya da spor insanlarının toplumsal bir krize (örneğin korona virüs pandemisi) karşı yardım kampanyası düzenlemesi, kâr amacı gütmeyen, toplumsal fayda odaklı bir halkla ilişkiler faaliyeti olan sosyal sorumluluk projeleri kapsamına girer.",
+      "optionNotes": [
+        "Doğru yanıt: Toplumsal bir sorunda (pandemi mağdurları gibi) yardım kampanyası düzenlemek, kurumun toplumsal fayda sağlamaya yönelik sosyal sorumluluk faaliyetidir.",
+        "Bu alan, kulüp çalışanları ve sporcular arasındaki iç iletişimi kapsar, dış toplumsal gruplara yönelik yardım kampanyasını ifade etmez.",
+        "Bu alan kulüplerin birbiriyle olan ilişkilerini kapsar, toplumdaki pandemi mağdurlarına yönelik bir yardım faaliyetiyle ilgili değildir.",
+        "Bu, kulübün genel halkla ilişkiler fonksiyonunu ifade eden daha genel bir kavramdır; soruda tarif edilen spesifik faaliyet sosyal sorumluluk kapsamına girer.",
+        "Bu alan kulübün basın ve medya kuruluşlarıyla ilişkilerini kapsar, doğrudan toplumsal yardım kampanyasını tanımlamaz."
+      ]
+    },
+    {
+      "question": "Sporcularla görüşmeler, maç öncesi toplantılar hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": ["Kulüpler arası iletişim", "Kulüp halkla ilişkiler", "Kulüp içi iletişim", "Kulüp medya ilişkileri", "Sosyal sorumluluk projeleri"],
+      "correctIndex": 2,
+      "explanation": "Sporcularla yapılan görüşmeler ve maç öncesi toplantılar, kulüp bünyesindeki sporcu, teknik ekip ve yöneticiler arasında yürütülen iletişim faaliyetleri olduğundan kulüp içi iletişim kapsamında değerlendirilir.",
+      "optionNotes": [
+        "Bu alan farklı kulüpler arasındaki ilişkileri kapsar, aynı kulüp içindeki sporcu görüşmelerini ve toplantıları ifade etmez.",
+        "Bu, kulübün dış kamuoyuyla ilişkilerini kapsayan daha genel bir kavramdır; sporcu görüşmeleri gibi iç faaliyetleri özel olarak tanımlamaz.",
+        "Doğru yanıt: Sporcularla görüşmeler ve maç öncesi toplantılar, kulüp bünyesinde yürütülen iç iletişim faaliyetlerindendir.",
+        "Bu alan kulübün basın/medya kuruluşlarıyla ilişkilerini kapsar, sporcularla yapılan iç toplantılarla ilgili değildir.",
+        "Bu alan toplumsal fayda odaklı dış faaliyetleri kapsar, kulüp içindeki sporcu toplantılarıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Karşılıklı yarar sağlayan iki yönlü iletişime dayanan dürüst ve sorumlu uygulamalarla kamuoyunu etkilemeye yönelik planlı çabalara ne ad verilir?",
+      "options": ["Spor pazarlaması", "Halkla ilişkiler", "Spor yöneticileri", "Kulüp personelleri", "Sponsorlar"],
+      "correctIndex": 1,
+      "explanation": "Halkla ilişkiler, karşılıklı yarar sağlayan iki yönlü iletişime dayanan, dürüst ve sorumlu uygulamalarla kamuoyunun desteğini ve güvenini kazanmaya yönelik planlı ve sistemli çabalar bütünüdür.",
+      "optionNotes": [
+        "Spor pazarlaması, ürün ve hizmetlerin tüketimini artırmaya yönelik satış odaklı faaliyetleri kapsar; karşılıklı yarar esaslı dürüst iletişim tanımına karşılık gelmez.",
+        "Doğru yanıt: Karşılıklı yarar sağlayan iki yönlü iletişime dayanan dürüst ve sorumlu uygulamalarla kamuoyunu etkilemeye yönelik planlı çabalar halkla ilişkilerin tanımıdır.",
+        "Bu, bir meslek grubunu ifade eder, bir kavram/süreç tanımı değildir.",
+        "Kulüp personelleri çalışan grubunu ifade eder, iki yönlü iletişime dayalı planlı bir faaliyeti tanımlamaz.",
+        "Sponsorlar, kuruma destek sağlayan dış paydaşlardır; tanımda anlatılan planlı iletişim sürecinin öznesi değildir."
+      ]
+    },
+    {
+      "question": "Korona virüsü nedeni ile iptal edilen müsabakalar konusunda taraftarları bilgilendirmek, hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": ["Kamusal ilişkiler", "Finansal ilişkiler", "Stratejik iletişim", "Kriz yönetimi", "Çevresel faktörleri takip etmek"],
+      "correctIndex": 3,
+      "explanation": "Korona virüsü nedeniyle iptal edilen müsabakalar konusunda taraftarların bilgilendirilmesi, beklenmedik ve olumsuz bir durumun (pandemi) yönetimi ve kamuoyuyla şeffaf iletişim kurulmasını içerdiğinden kriz yönetimi kapsamında bir halkla ilişkiler faaliyetidir.",
+      "optionNotes": [
+        "Bu alan kurumun kamu otoriteleri ve toplumla genel ilişkilerini kapsar; acil ve beklenmedik bir durumun (pandemi nedeniyle iptal) özel olarak yönetilmesini tanımlamaz.",
+        "Finansal ilişkiler, yatırımcılar ve mali çevrelerle olan ilişkileri kapsar, taraftarların müsabaka iptali konusunda bilgilendirilmesiyle ilgili değildir.",
+        "Stratejik iletişim daha genel, uzun dönemli ve planlı iletişim yönetimini ifade eder; burada vurgulanan ani ve olumsuz bir duruma karşı yönetim kriz yönetimine özgüdür.",
+        "Doğru yanıt: Pandemi nedeniyle iptal edilen müsabakalar hakkında taraftarları bilgilendirmek, beklenmedik olumsuz bir durumu yönetmeyi içeren kriz yönetimi faaliyetidir.",
+        "Bu, kurumun dış çevredeki gelişmeleri izlemesini ifade eder; burada ise zaten gerçekleşmiş bir krizin yönetimi ve taraftarların bilgilendirilmesi söz konusudur."
+      ]
+    },
+    {
+      "question": "Hedef kitle taraftarların özelliklerine göre mesaj oluşturarak iletişimi sağlamak, hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": ["Metin yazımı", "Yayım idaresi", "Etkinlik yönetimi", "Kültürlerarası iletişim", "Danışmanlık"],
+      "correctIndex": 0,
+      "explanation": "Hedef kitlenin (taraftarların) özelliklerine uygun mesajlar oluşturarak iletişim kurmak, halkla ilişkiler metinlerinin hedef kitleye göre biçimlendirilmesini gerektiren metin yazımı faaliyeti kapsamına girer.",
+      "optionNotes": [
+        "Doğru yanıt: Hedef kitlenin özelliklerine göre mesaj/metin oluşturmak, halkla ilişkiler uygulamalarında metin yazımı alanının temel işlevidir.",
+        "Yayım idaresi, kurumun yayın faaliyetlerinin (dergi, bülten vb.) yönetimini ve dağıtımını kapsar, mesaj içeriğinin hedef kitleye göre oluşturulmasını değil yayın sürecini ifade eder.",
+        "Etkinlik yönetimi, organizasyon ve etkinliklerin planlanıp yürütülmesini kapsar, mesaj/metin oluşturma sürecini tanımlamaz.",
+        "Bu alan farklı kültürel gruplar arasındaki iletişim farklılıklarının yönetimini kapsar, taraftar kitlesine özel mesaj oluşturmanın genel tanımı değildir.",
+        "Danışmanlık, kurumlara iletişim stratejisi konusunda uzman görüşü sunmayı ifade eder, doğrudan mesaj/metin oluşturma eylemini tanımlamaz."
+      ]
+    },
+    {
+      "question": "İki firma arasında karşılıklı fayda ilişkisine dayalı spor, sanat, kültür ve sosyal olaylara ayni veya nakdi destek yapmak amacıyla gerçekleştirilen anlaşmaları yapmak hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": ["Lobicilik", "Sponsorluk", "Kurumsal Kimlik Çalışmaları", "Kültürlerarası iletişim", "Danışmanlık"],
+      "correctIndex": 1,
+      "explanation": "İki firma arasında karşılıklı fayda ilişkisine dayanarak spor, sanat, kültür ve sosyal etkinliklere ayni veya nakdi destek sağlamak amacıyla yapılan anlaşmalar, sponsorluk faaliyet alanının tanımıdır.",
+      "optionNotes": [
+        "Lobicilik, yasama ve kamu otoritelerini etkilemeye yönelik ikna faaliyetlerini kapsar, iki firma arasındaki destek anlaşmalarıyla ilgili değildir.",
+        "Doğru yanıt: Karşılıklı fayda esasına dayalı olarak spor, sanat, kültür ve sosyal etkinliklere ayni/nakdi destek sağlamak üzere yapılan anlaşmalar sponsorluktur.",
+        "Bu alan kurumun logo, isim ve görsel kimliğiyle ilgili çalışmaları kapsar, iki firma arasındaki destek anlaşmalarını tanımlamaz.",
+        "Bu alan farklı kültürler arası iletişim farklarının yönetimini kapsar, firmalar arası destek anlaşmalarıyla ilgili değildir.",
+        "Danışmanlık, kurumlara uzman görüşü sunma hizmetidir; iki firma arasındaki ayni/nakdi destek anlaşmasını ifade etmez."
+      ]
+    },
+    {
+      "question": "Enformasyon, ikna ve uyum aracılığıyla organizasyonların, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesine ne ad verilir?",
+      "options": ["Spor pazarlaması", "Spor yöneticileri", "Kulüp personelleri", "Sponsorlar", "Halkla ilişkiler"],
+      "correctIndex": 4,
+      "explanation": "Halkla ilişkiler, enformasyon sağlama, ikna etme ve uyum sağlama süreçleri aracılığıyla bir organizasyonun ününü, gelişim eğilimlerini veya örgütlenmesini kamuoyunun desteğiyle buluşturmaya çalışan planlı bir uygulamadır.",
+      "optionNotes": [
+        "Spor pazarlaması, ürün ve hizmetlerin tüketimini artırmaya odaklı faaliyetleri kapsar, kamunun genel desteğini kazanma denemesini tanımlayan geniş kavram değildir.",
+        "Bu bir meslek grubu tanımıdır, enformasyon-ikna-uyum süreciyle kamu desteği kazanmaya yönelik bir uygulamayı ifade etmez.",
+        "Kulüp personelleri çalışan grubunu ifade eder, tanımdaki süreci yürüten bir kavram değildir.",
+        "Sponsorlar kuruma destek veren dış paydaşlardır, enformasyon ve ikna yoluyla kamu desteği kazanma sürecinin tanımına karşılık gelmez.",
+        "Doğru yanıt: Enformasyon, ikna ve uyum aracılığıyla kamunun desteğini kazanmaya çalışmak doğrudan halkla ilişkilerin klasik tanımlarından biridir."
+      ]
+    },
+    {
+      "question": "Halkla ilişkiler enstitüsü 1948 yılında nerede kurulmuştur?",
+      "options": ["Amerika", "Fransa", "İngiltere", "İngiltere", "Rusya"],
+      "correctIndex": 3,
+      "explanation": "Halkla ilişkiler mesleğinin kurumsallaşması sürecinde önemli bir kilometre taşı olan Halkla İlişkiler Enstitüsü (Institute of Public Relations), 1948 yılında İngiltere'de kurulmuştur ve bu kuruluş mesleğin etik ve mesleki standartlarının belirlenmesine öncülük etmiştir.",
+      "optionNotes": [
+        "Halkla ilişkilerin öncü isimleri (Bernays gibi) Amerika'da yetişmiş olsa da, 1948'de kurulan Halkla İlişkiler Enstitüsü Amerika'da değil İngiltere'de kurulmuştur.",
+        "Fransa, bu enstitünün kurulduğu ülke değildir; söz konusu kurumsallaşma İngiltere'de gerçekleşmiştir.",
+        "Bu seçenek metin olarak doğru ülkeyi gösterse de soru bankasında seçenek listesinde yinelenmiş bir girdidir; soru kümesinde doğru kabul edilen ve işaretlenen seçenek, listenin bir sonraki (4.) sırasındaki İngiltere seçeneğidir.",
+        "Doğru yanıt: Halkla İlişkiler Enstitüsü, 1948 yılında İngiltere'de kurulmuş ve mesleğin kurumsallaşmasında öncü bir rol oynamıştır.",
+        "Rusya, bu enstitünün kurulduğu ülke değildir; 1948'deki kuruluş İngiltere'de gerçekleşmiştir."
+      ]
+    },
+    {
+      "question": "Bilgi Edinme Hakkı Yasası kaç yılında Resmî Gazetede yayımlanmıştır?",
+      "options": ["1999", "2001", "2003", "2005", "2007"],
+      "correctIndex": 2,
+      "explanation": "Türkiye'de Bilgi Edinme Hakkı Kanunu (4982 sayılı), vatandaşların kamu kurumlarından bilgi edinme hakkını düzenlemek amacıyla 2003 yılında Resmî Gazete'de yayımlanarak yürürlüğe girmiştir; bu yasa halkla ilişkiler ve kamu bilgilendirme uygulamaları açısından önemli bir hukuki dayanak oluşturur.",
+      "optionNotes": [
+        "Bu tarihte Bilgi Edinme Hakkı Yasası henüz hazırlanmamıştı; yasa 2003 yılında yayımlanmıştır.",
+        "Yasa bu tarihte değil, iki yıl sonra 2003'te Resmî Gazetede yayımlanmıştır.",
+        "Doğru yanıt: Bilgi Edinme Hakkı Yasası, 2003 yılında Resmî Gazetede yayımlanarak kabul edilmiştir.",
+        "Yasa bu tarihten iki yıl önce, 2003'te zaten yayımlanmış ve yürürlüğe girmişti.",
+        "Bu tarih yasanın yayımlanma tarihinden sonraki bir dönemdir, yasa çok daha önce 2003'te yayımlanmıştır."
+      ]
+    }
+  ]
+}

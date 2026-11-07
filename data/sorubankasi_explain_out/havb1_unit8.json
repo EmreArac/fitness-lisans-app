@@ -1,0 +1,539 @@
+{
+  "course": "havb1",
+  "unit_index": 8,
+  "topic": "Yetenek Seçimi ve İlkeleri",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi yetenek seçiminde etkili faktörlerden aileyle ilgili değildir?",
+      "options": [
+        "Ebeveynler",
+        "Akrabalar",
+        "Ekonomik ve Sosyal Durum",
+        "Eğitim Düzeyi",
+        "Yöneticiler"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yetenek seçiminde aile ile ilişkili faktörler arasında ebeveynlerin tutumu, akrabaların desteği, ailenin ekonomik ve sosyal durumu ile eğitim düzeyi sayılır; bunların tümü çocuğun spora yönelmesinde ve devamlılığında doğrudan ailevi çevreyi yansıtır. Yöneticiler ise kulüp, federasyon veya okul düzeyinde görev yapan kurumsal/idari aktörlerdir ve ailenin bir bileşeni değildir; bu nedenle aile ile ilgili faktörler arasında sayılmaz.",
+      "optionNotes": [
+        "Ebeveynler çocuğun spora yönlendirilmesinde ve desteklenmesinde doğrudan rol oynayan en temel aile üyeleridir, dolayısıyla ailevi bir faktördür.",
+        "Akrabalar da genişletilmiş aile çevresinin parçası olarak çocuğun spora teşvikinde etkili olabilen ailevi bir faktördür.",
+        "Ailenin ekonomik ve sosyal durumu, spor malzemesi, ulaşım ve antrenman imkanlarına erişimi belirleyen ailevi bir faktördür.",
+        "Ailenin eğitim düzeyi, sporun değerinin ve öneminin çocuğa aktarılmasında etkili olan ailevi bir faktördür.",
+        "Doğru yanıt: Yöneticiler kulüp veya federasyon gibi kurumsal yapılarda görev yapan kişilerdir; aile bireyi olmadıklarından aileyle ilgili faktörler arasında yer almazlar."
+      ]
+    },
+    {
+      "question": "özellikle erken özelleşme ile küçük yaşlarda başlayan yoğun antrenmanların kadınlarda ilerleyen yıllarda………………..adıyla sağlık problemlerine neden olmaktadır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Pazartesi",
+        "Peter Pan",
+        "Huzursuz Bacaklar",
+        "Kadın Spor Üçlemesi",
+        "Stockholm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Erken yaşta başlayan ve erken özelleşmeyle yoğunlaşan antrenmanlar, özellikle kadın sporcularda enerji alımının gereksinimi karşılayamaması sonucunda \"Kadın Spor Üçlemesi\" (Female Athlete Triad) adı verilen klinik tabloya yol açabilir. Bu üçleme; düşük enerji mevcudiyeti/yeme bozuklukları, menstrüel düzensizlik (amenore) ve düşük kemik mineral yoğunluğu (osteoporoz) bileşenlerinden oluşur ve ileriki yıllarda kalıcı sağlık sorunlarına neden olabilir.",
+      "optionNotes": [
+        "Pazartesi sendromu gibi bir kavram bu bağlamda kullanılan tıbbi bir terim değildir, soruyla ilgisi yoktur.",
+        "Peter Pan sendromu, yetişkinlik sorumluluklarından kaçışla ilişkili psikolojik bir kavramdır; erken spor özelleşmesine bağlı kadın sağlığı sorunlarıyla ilgisi yoktur.",
+        "Huzursuz Bacaklar Sendromu, uykuda bacaklarda rahatsızlık hissiyle seyreden nörolojik bir durumdur; erken antrenman özelleşmesinin kadınlardaki sonucu değildir.",
+        "Doğru yanıt: Erken özelleşme ile aşırı antrenman yükü, enerji dengesizliği yoluyla yeme bozukluğu, adet düzensizliği ve kemik yoğunluğu kaybından oluşan Kadın Spor Üçlemesi'ne yol açabilir.",
+        "Stockholm sendromu, mağdurun saldırganına karşı duygusal bağ geliştirmesini ifade eden psikolojik bir kavramdır; spor sağlığı sorunlarıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Bireyin düzenli spor yaptığı veya spor eğitimi aldığı sürenin yıl olarak ifade edilmesine ne ad verilir?",
+      "options": [
+        "Bağıl Yaş",
+        "Antrenman Yaşı",
+        "Biyolojik yaş",
+        "Relatif yaş",
+        "Takvim Yaşı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antrenman yaşı, bireyin düzenli olarak spor yaptığı veya sistemli bir spor eğitimi aldığı sürenin yıl olarak ifade edilmesidir. Bu kavram, bireyin kaç yıldır antrenman geçmişine sahip olduğunu gösterir ve performans gelişimini doğum tarihinden değil, spora başlama tarihinden itibaren değerlendirir.",
+      "optionNotes": [
+        "Bağıl yaş, bireyin gelişimsel durumunun takvim yaşına göre ileri veya geri oluşunu ifade eden farklı bir kavramdır, antrenman süresini göstermez.",
+        "Doğru yanıt: Antrenman yaşı, bireyin düzenli spor yaptığı/spor eğitimi aldığı toplam yıl sayısını ifade eder.",
+        "Biyolojik yaş, bedenin fizyolojik olgunluk düzeyini ifade eder; antrenmanla geçen süreyle değil, bedensel gelişimle ilgilidir.",
+        "Relatif yaş, doğum ayına bağlı hesaplanan bir yaş türüdür; antrenmanda geçirilen süreyi ifade etmez.",
+        "Takvim yaşı, doğumdan itibaren geçen toplam süreyi ifade eder; sporla geçirilen özel süreyi değil, bireyin genel yaşını gösterir."
+      ]
+    },
+    {
+      "question": "İnsanın…………..yaşı dış görünüşü, fiziksel yapısı, kas kütlesi, kemik yaşı ve laboratuvar testleriyle hormon ölçümleri ve telomer testi ile alınan kan örneklerinden elde edilen bulgular incelenerek belirlenmeye çalışılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Bağıl",
+        "Antrenman",
+        "Biyolojik",
+        "Relatif",
+        "Takvim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biyolojik yaş; bireyin dış görünüşü, fiziksel yapısı, kas kütlesi, kemik yaşı gibi bedensel özellikler ile hormon ölçümleri ve telomer testi gibi laboratuvar bulguları üzerinden belirlenmeye çalışılan, fizyolojik olgunluk düzeyini yansıtan bir yaş türüdür. Takvim yaşından farklı olarak bedenin gerçek gelişim/olgunlaşma düzeyini gösterir.",
+      "optionNotes": [
+        "Bağıl yaş, gelişimsel ileri/geri oluşu ifade eder; hormon ölçümü veya telomer testi gibi laboratuvar yöntemleriyle belirlenen bir kavram değildir.",
+        "Antrenman yaşı, spor yapılan yıl sayısını ifade eder; bedensel/fizyolojik olgunlukla belirlenen bir kavram değildir.",
+        "Doğru yanıt: Biyolojik yaş, bedenin fiziksel/fizyolojik olgunluk düzeyinin dış görünüş, kemik yaşı, hormon ve telomer ölçümleri gibi bulgularla belirlenmeye çalışıldığı yaş türüdür.",
+        "Relatif yaş, doğum ayına göre hesaplanan bir yaş türüdür; hormon veya telomer testiyle ilişkili değildir.",
+        "Takvim yaşı, doğumdan itibaren geçen süreyi ifade eder; dış görünüş, kas kütlesi veya hormon ölçümleriyle belirlenmez, sadece doğum tarihine bakılır."
+      ]
+    },
+    {
+      "question": "Ergenlik öncesi 8-12 yaş aralığında takvim yaşı ile biyolojik yaş arasında fark kaçla kaç arasında olabilir?",
+      "options": [
+        "1 – 3",
+        "1 – 5",
+        "2 – 4",
+        "3 – 5",
+        "4 – 6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ergenlik öncesi dönemde, yani 8-12 yaş aralığında, çocukların takvim yaşı ile biyolojik yaşı arasındaki fark genellikle sınırlıdır ve literatürde bu farkın 1 ile 3 yıl arasında değişebileceği belirtilmektedir. Ergenlik döneminde bireysel olgunlaşma hızındaki farklılıklar arttığı için bu aralık ergenlikle birlikte daha da genişleyebilir.",
+      "optionNotes": [
+        "Doğru yanıt: Ergenlik öncesi 8-12 yaş aralığında takvim yaşı ile biyolojik yaş arasındaki fark genellikle 1 ile 3 yıl arasında değişmektedir.",
+        "1-5 yıllık fark, ergenlik öncesi dönem için fazla geniş bir aralıktır; bu denli büyük farklar daha çok ergenlik dönemindeki hızlı ve değişken olgunlaşmada görülür.",
+        "2-4 yıllık aralık, literatürde ergenlik öncesi dönem için belirtilen alt sınırı (1 yıl) karşılamadığından verilen değerle örtüşmez.",
+        "3-5 yıllık fark, ergenlik öncesi 8-12 yaş grubu için beklenenden daha büyük bir sapmayı ifade eder, bu aralık daha ileri yaş gruplarında görülebilir.",
+        "4-6 yıllık fark aşırı büyük bir sapmadır ve 8-12 yaş aralığındaki normal gelişimsel farklılık düzeyini aşar."
+      ]
+    },
+    {
+      "question": "Bireyin kronolojik yaşına göre doğduğu ay dikkate alınarak hesaplandığı yaş aşağıdakilerden hangisidir?",
+      "options": [
+        "Bağıl Yaş",
+        "Antrenman Yaşı",
+        "Biyolojik yaş",
+        "Relatif yaş",
+        "Takvim Yaşı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Relatif yaş, bireyin kronolojik yaşının yalnızca doğum yılı değil, doğduğu ay da dikkate alınarak hesaplanmasıdır. Bu kavram, aynı seçim/kayıt döneminde (örneğin aynı yaş kategorisinde) yer alan ama yılın farklı aylarında doğmuş bireyler arasındaki gelişimsel farkları açıklamakta kullanılır ve \"relatif yaş etkisi\" olarak bilinen seçim yanlılığının temelini oluşturur.",
+      "optionNotes": [
+        "Bağıl yaş, bireyin biyolojik gelişiminin takvim yaşına göre ileri veya geri olma durumunu ifade eder; doğum ayına dayalı bir hesaplama değildir.",
+        "Antrenman yaşı, bireyin spor yaptığı toplam yıl sayısını ifade eder; doğum ayıyla bir ilgisi yoktur.",
+        "Biyolojik yaş, bedenin fizyolojik olgunluk düzeyini ifade eder; doğum ayına göre değil, bedensel/hormonal bulgulara göre belirlenir.",
+        "Doğru yanıt: Relatif yaş, bireyin kronolojik yaşının doğduğu ay da hesaba katılarak belirlenmesidir ve relatif yaş etkisinin temelini oluşturur.",
+        "Takvim yaşı, doğumdan itibaren geçen toplam süreyi yıl olarak ifade eder; doğum ayının ayrıca dikkate alınmasını gerektirmez."
+      ]
+    },
+    {
+      "question": "İnsanların doğumundan itibaren yaşadığı sürenin an itibariyle yıl olarak ifadesine ne ad verilir?",
+      "options": [
+        "Bağıl Yaş",
+        "Antrenman Yaşı",
+        "Biyolojik yaş",
+        "Relatif yaş",
+        "Takvim Yaşı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Takvim yaşı, bireyin doğumundan itibaren yaşadığı sürenin, ölçümün yapıldığı an itibariyle yıl olarak ifade edilmesidir. Nüfus cüzdanında/resmi belgelerde yer alan yaş budur ve bireyin bedensel olgunluk düzeyini değil sadece doğum tarihinden geçen süreyi gösterir.",
+      "optionNotes": [
+        "Bağıl yaş, gelişimsel ileri/geri oluşu ifade eden bir kavramdır; sadece doğumdan geçen süreyi gösteren bir ölçü değildir.",
+        "Antrenman yaşı, doğum tarihinden değil spora başlama tarihinden itibaren geçen süreyi ifade eder.",
+        "Biyolojik yaş, bedenin fizyolojik olgunluk düzeyini yansıtır; doğumdan geçen takvim süresiyle birebir örtüşmeyebilir.",
+        "Relatif yaş, doğum ayının da hesaba katıldığı özel bir hesaplamadır; sadece doğumdan geçen toplam yılı ifade eden genel bir ölçü değildir.",
+        "Doğru yanıt: Takvim yaşı, bireyin doğumundan itibaren yaşadığı sürenin an itibariyle yıl olarak ifadesidir."
+      ]
+    },
+    {
+      "question": "Sol el bilek kemiklerinin parmaklar hafif bitişik ve dorsal pozisyonda çekilen radyografileri incelenerek belirlenen yaş aşağıdakilerden hangisidir?",
+      "options": [
+        "Kemik Yaşı",
+        "Gelişim Yaşı",
+        "Antrenman Yaşı",
+        "Bağıl Yaş",
+        "Relatif yaş"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kemik yaşı, sol el bilek kemiklerinin parmaklar hafif bitişik ve dorsal pozisyonda çekilen radyografilerinin incelenmesiyle belirlenen, iskelet olgunlaşma düzeyini gösteren bir yaş türüdür. Bu yöntem (örneğin Greulich-Pyle veya Tanner-Whitehouse atlasları gibi standart referanslarla karşılaştırma) biyolojik olgunlaşmanın objektif göstergelerinden biri olarak kullanılır.",
+      "optionNotes": [
+        "Doğru yanıt: Kemik yaşı, sol el bilek kemiklerinin radyografik incelemesiyle belirlenen iskelet olgunluk düzeyini ifade eder.",
+        "Gelişim yaşı, bilişsel, duyuşsal ve psikomotor alanlardaki gelişim düzeyine göre belirlenir; radyografi ile ilgili bir yöntem değildir.",
+        "Antrenman yaşı, spor yapılan yıl sayısını ifade eder; röntgen incelemesiyle belirlenen bir kavram değildir.",
+        "Bağıl yaş, gelişimsel ileri/geri oluşu ifade eden kavramdır; el bilek radyografisiyle değil farklı değerlendirme yöntemleriyle ilişkilendirilir.",
+        "Relatif yaş, doğum ayına dayalı hesaplanan bir yaş türüdür; kemik radyografisiyle belirlenmez."
+      ]
+    },
+    {
+      "question": "Bireyin bilişsel, duyuşsal ve psikomotor öğrenme alanlarındaki gelişiminin farklı alan testleri ve gözlemler yapılarak uzman değerlendirmeleri sonucunda mevcut gelişim düzeyinin belirlenmesi ve aynı düzeyde bulunan diğer bireylerin ortalama takvim yaşına göre gelişim yaşının ifade edilmesine ne ad verilir?",
+      "options": [
+        "Kemik Yaşı",
+        "Gelişim Yaşı",
+        "Antrenman Yaşı",
+        "Bağıl Yaş",
+        "Relatif yaş"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gelişim yaşı; bireyin bilişsel, duyuşsal ve psikomotor öğrenme alanlarındaki gelişiminin farklı alan testleri, gözlemler ve uzman değerlendirmeleri yoluyla belirlenmesi ve bu düzeyin, aynı gelişim seviyesindeki diğer bireylerin ortalama takvim yaşına göre ifade edilmesidir. Bu sayede bireyin kronolojik yaşından bağımsız olarak gelişimsel olarak \"kaç yaşında\" olduğu ortaya konur.",
+      "optionNotes": [
+        "Kemik yaşı, el-bilek radyografisiyle belirlenen iskelet olgunluğunu ifade eder; bilişsel/duyuşsal/psikomotor gelişim testleriyle belirlenmez.",
+        "Doğru yanıt: Gelişim yaşı, bilişsel, duyuşsal ve psikomotor alanlardaki gelişim düzeyinin uzman değerlendirmesiyle belirlenip aynı düzeydeki bireylerin ortalama takvim yaşına göre ifade edilmesidir.",
+        "Antrenman yaşı, bireyin spor yaptığı yıl sayısını ifade eder; bilişsel/psikomotor gelişim testleriyle ilgili değildir.",
+        "Bağıl yaş, gelişimsel ileri/geri oluşu genel olarak ifade eden farklı bir kavramdır; burada tanımlanan çok yönlü alan testi sürecini karşılamaz.",
+        "Relatif yaş, doğum ayına bağlı hesaplanan bir kavramdır; bilişsel-duyuşsal-psikomotor alan testleriyle belirlenmez."
+      ]
+    },
+    {
+      "question": "I. Yatkınlık II. Eğilim III. Sportif uygunluk Yukarıdakilerden hangileri yetenek seçimi ve yönlendirme sürecinin önemli alt bileşenlerdendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yetenek seçimi ve yönlendirme süreci; bireyin belirli bir spor dalına karşı doğal bir eğilim/yatkınlığının (yatkınlık), bu alana ilgi ve istek düzeyinin (eğilim) ve mevcut fiziksel/fonksiyonel uygunluğunun (sportif uygunluk) birlikte değerlendirilmesini gerektirir. Bu üç bileşen birbirini tamamlayan ve sürecin bütününü oluşturan temel alt unsurlardır; bu nedenle doğru yanıt üçünün de (I-II-III) birlikte yer aldığı seçenektir.",
+      "optionNotes": [
+        "Yalnız yatkınlığın (I) yeterli görülmesi, eğilim ve sportif uygunluk bileşenlerini dışladığından sürecin bütününü yansıtmaz.",
+        "Yatkınlık ve eğilimin (I-II) seçilmesi, sportif uygunluk (III) bileşenini dışarıda bıraktığından eksik bir yanıttır.",
+        "Yatkınlık ve sportif uygunluğun (I-III) seçilmesi, eğilim (II) bileşenini göz ardı ettiğinden sürecin tamamını kapsamaz.",
+        "Eğilim ve sportif uygunluğun (II-III) seçilmesi, bireyin doğal yatkınlığını (I) dışladığından eksik bir yanıttır.",
+        "Doğru yanıt: Yatkınlık, eğilim ve sportif uygunluk (I-II-III), yetenek seçimi ve yönlendirme sürecinin birbirini tamamlayan önemli alt bileşenlerinin tümüdür."
+      ]
+    },
+    {
+      "question": "Günümüzde bireyin sportif performansını etkileyen kaç gen türü tespit edilmiştir?",
+      "options": [
+        "99",
+        "119",
+        "189",
+        "209",
+        "239"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor bilimleri literatüründe yapılan genetik araştırmalar, bireyin sportif performansını (kuvvet, dayanıklılık, sürat gibi motorik özellikleri) etkileyen günümüze kadar 239 farklı gen türünün tespit edildiğini ortaya koymuştur. Bu sayı, performansın büyük ölçüde kalıtsal/genetik bir temele dayandığını ve yetenek seçiminde genetik faktörlerin önemini gösteren güncel bulgulardan biridir.",
+      "optionNotes": [
+        "99 sayısı, literatürde belirtilen güncel gen sayısının oldukça altında kalan, yanıltıcı düşük bir değerdir.",
+        "119 sayısı da tespit edilen gen türü sayısının gerçek değerinden belirgin biçimde düşüktür.",
+        "189 sayısı, doğru değere yaklaşsa da literatürde belirtilen güncel sayı ile örtüşmemektedir.",
+        "209 sayısı doğru değere yakın olsa da kaynakta belirtilen kesin sayı olan 239 ile karıştırılmamalıdır.",
+        "Doğru yanıt: Araştırmalar, bireyin sportif performansını etkileyen 239 farklı gen türünün tespit edildiğini göstermektedir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Koordinatif yeteneklerden biri değildir?",
+      "options": [
+        "Denge",
+        "Antisipasyon",
+        "Ritim",
+        "Reaksiyon",
+        "Esneklik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Koordinatif yetenekler; denge, antisipasyon (tahmin etme), ritim ve reaksiyon gibi sinir-kas sisteminin hareketleri düzenleme, uyumlama ve zamanlama kapasitesiyle ilgili özellikleri kapsar. Esneklik ise eklem hareket genişliğiyle ilgili olup kondisyonel (biyomotor/fiziksel kapasite) yetenekler grubunda değerlendirilir; bu nedenle koordinatif yetenekler arasında sayılmaz.",
+      "optionNotes": [
+        "Denge, vücudun duruşunu kontrol etme becerisidir ve koordinatif yeteneklerin tipik bir örneğidir.",
+        "Antisipasyon, bir olayı önceden tahmin ederek tepki hızını artıran bir süreçtir ve koordinatif yetenekler arasında yer alır.",
+        "Ritim, hareketlerin zamanlama ve akış düzenini ifade eder ve koordinatif yeteneklerden biridir.",
+        "Reaksiyon, uyarana hızlı tepki verme yetisidir ve koordinatif yeteneklerin bir bileşenidir.",
+        "Doğru yanıt: Esneklik, eklem hareket açıklığıyla ilgili kondisyonel (fiziksel) bir yetenektir; koordinatif yetenekler grubunda değil, kondisyonel yetenekler grubunda yer alır."
+      ]
+    },
+    {
+      "question": "Dış kuvvetler karşısında, destek noktaları üzerinde vücudun merkezde duruşunu sürdürme ve muhafaza yeteneğine ne ad verilir?",
+      "options": [
+        "Antisipasyon",
+        "Denge",
+        "Hareketlilik",
+        "Ritim",
+        "Esneklik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Denge; dış kuvvetler karşısında vücudun destek noktaları üzerinde merkezi duruşunu sürdürme ve bu duruşu koruma yeteneğidir. Vestibüler sistem, görsel sistem ve propriyoseptif reseptörlerin ortak çalışmasıyla sağlanan bu yetenek, hem statik (sabit duruşta) hem de dinamik (hareket halinde) durumlarda vücut dengesinin korunmasını kapsar.",
+      "optionNotes": [
+        "Antisipasyon, bir hareketi gerçekleştirmeden önce olayı zihinde canlandırarak tahmin etmeyi ifade eder; vücut duruşunun korunmasıyla ilgili değildir.",
+        "Doğru yanıt: Denge, dış kuvvetler karşısında vücudun destek noktaları üzerindeki merkezi duruşunu sürdürme ve muhafaza etme yeteneğidir.",
+        "Hareketlilik, eklemlerin hareket genişliği veya genel hareket kabiliyetiyle ilişkilidir; duruş kontrolünü doğrudan tanımlamaz.",
+        "Ritim, hareketlerin zamansal düzenini ve akıcılığını ifade eder; vücut duruşunun korunmasıyla ilgili bir kavram değildir.",
+        "Esneklik, eklem hareket açıklığı ile ilgili kondisyonel bir özelliktir; duruş dengesiyle ilgili bir tanım değildir."
+      ]
+    },
+    {
+      "question": "Denge yeteneğinin gelişimi anne karnında kaçıncı haftadan itibaren oluşmaya başlar?",
+      "options": [
+        "12. Hafta",
+        "16. Hafta",
+        "20. Hafta",
+        "24. Hafta",
+        "30. Hafta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Denge yeteneğinin fizyolojik temelini oluşturan vestibüler sistem, anne karnındaki gelişim sürecinde erken dönemde oluşmaya başlasa da, literatürde denge yeteneğinin gelişiminin işlevsel olarak belirginleşmesinin 24. haftadan itibaren başladığı kabul edilmektedir. Bu dönemden sonra fetüsün denge ile ilişkili sinirsel yapıları olgunlaşmaya devam eder.",
+      "optionNotes": [
+        "12. hafta, denge yeteneğinin gelişiminin başladığı kabul edilen dönemden daha erken bir zaman dilimidir.",
+        "16. hafta da literatürde belirtilen 24. haftadan önceki bir dönemi işaret eder ve doğru kabul edilen başlangıç noktası değildir.",
+        "20. hafta, doğru kabul edilen 24. haftaya yakın olsa da kaynakta belirtilen kesin dönemle örtüşmemektedir.",
+        "Doğru yanıt: Denge yeteneğinin gelişimi anne karnında 24. haftadan itibaren oluşmaya başlar.",
+        "30. hafta, belirtilen başlangıç dönemine göre daha ileri/gecikmiş bir zaman dilimidir."
+      ]
+    },
+    {
+      "question": "Bireyin, motorik bir hareketi gerçekleştirmeden önce karşılaşacağı olayı veya durumu önceden tahmin ederek ve zihninde canlandırarak daha hızlı tepkide bulunmasını sağlayan zihinsel sürece ne ad verilir?",
+      "options": [
+        "Denge",
+        "Antisipasyon",
+        "Ritim",
+        "Reaksiyon",
+        "Esneklik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antisipasyon; bireyin motorik bir hareketi gerçekleştirmeden önce karşılaşacağı olay veya durumu önceden tahmin ederek ve zihninde canlandırarak daha hızlı ve etkili tepkide bulunmasını sağlayan zihinsel/bilişsel bir süreçtir. Özellikle takım sporlarında rakibin veya topun hareketini önceden sezme bu yeteneğin tipik bir uygulamasıdır.",
+      "optionNotes": [
+        "Denge, vücudun duruşunu koruma yeteneğidir; olayı önceden tahmin etme süreciyle ilgili değildir.",
+        "Doğru yanıt: Antisipasyon, bir hareketi gerçekleştirmeden önce karşılaşılacak durumu zihinde canlandırıp önceden tahmin ederek daha hızlı tepki vermeyi sağlayan zihinsel süreçtir.",
+        "Ritim, hareketlerin zamansal düzenini ifade eder; geleceği tahmin etme süreciyle ilgili bir kavram değildir.",
+        "Reaksiyon, bir uyaran gerçekleştikten sonra ona verilen hızlı tepkiyi ifade eder; uyarandan önceki tahmin sürecini değil, sonrasındaki tepkiyi kapsar.",
+        "Esneklik, eklem hareket genişliğiyle ilgili kondisyonel bir özelliktir; zihinsel tahmin süreciyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Çocukların ve gençlerin; kişisel tercihleri, ailelerinin istek ve beklentileri, yaşadıkları çevrenin Sosyo - kültürel yapısı gibi öznel faktörlerin etkisiyle spora yönelmesine dayalı yöntem aşağıdakilerden hangisidir?",
+      "options": [
+        "Doğal seçim",
+        "Bilimsel seçim",
+        "Dolaylı seçim",
+        "Doğrudan seçim",
+        "Bireysel seçim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Doğal seçim; çocukların ve gençlerin kişisel tercihleri, ailelerinin istek ve beklentileri ile yaşadıkları çevrenin sosyo-kültürel yapısı gibi öznel ve çevresel faktörlerin etkisiyle kendiliğinden belirli bir spor dalına yönelmesini ifade eden yöntemdir. Bilimsel seçimden farklı olarak burada standart test bataryaları veya objektif ölçütler değil, bireysel ve çevresel etkenler belirleyicidir.",
+      "optionNotes": [
+        "Doğru yanıt: Doğal seçim, kişisel tercihler, aile beklentileri ve sosyo-kültürel çevrenin etkisiyle bireyin kendiliğinden bir spor dalına yönelmesini ifade eder.",
+        "Bilimsel seçim, objektif test ve ölçüm yöntemleriyle yapılan sistematik bir seçim sürecidir; öznel/çevresel etkilere dayalı kendiliğinden yönelimi ifade etmez.",
+        "Dolaylı seçim, bu bağlamda tanımlanan öznel faktörlere dayalı doğal yönelim sürecini karşılayan standart bir kavram değildir.",
+        "Doğrudan seçim, doğal/kendiliğinden gelişen süreci değil, daha planlı ve hedefe yönelik bir seçim yaklaşımını çağıştırır.",
+        "Bireysel seçim ifadesi, ailenin ve sosyo-kültürel çevrenin etkisini içeren tanımı tam karşılamaz; soru metninde vurgulanan aile ve çevre etkisini göz ardı eder."
+      ]
+    },
+    {
+      "question": "Sinir kas sisteminin uzun süreli olarak ve tekrarlı bir şekilde kuvvet üretimini sürdürebilme özelliğine ne ad verilir?",
+      "options": [
+        "Reaksiyon sürati",
+        "İvmelenme sürati",
+        "Hareket sürati",
+        "Maksimal kuvvet",
+        "Kuvvette devamlılık"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kuvvette devamlılık; sinir-kas sisteminin uzun süreli ve tekrarlı bir şekilde belirli düzeyde kuvvet üretimini sürdürebilme özelliğidir. Bu özellik, kuvvetin tek seferlik maksimal üretiminden farklı olarak, kuvvetin zaman içinde yorgunluğa karşı dirençli biçimde devam ettirilebilmesiyle ilgilidir ve dayanıklılık gerektiren kuvvet performanslarının temelini oluşturur.",
+      "optionNotes": [
+        "Reaksiyon sürati, bir uyarana karşı verilen tepkinin hızını ifade eder; uzun süreli kuvvet üretimiyle ilgili değildir.",
+        "İvmelenme sürati, hareket hızının kısa sürede artırılabilmesi yeteneğidir; kuvvetin sürekliliğiyle değil hızlanmayla ilgilidir.",
+        "Hareket sürati, bir hareketin gerçekleştirilme hızını ifade eder; kuvvetin uzun süre sürdürülmesiyle ilgili bir kavram değildir.",
+        "Maksimal kuvvet, kas sisteminin tek bir seferde üretebildiği en yüksek kuvveti ifade eder; kuvvetin tekrarlı/uzun süreli üretimini değil, anlık tepe değerini tanımlar.",
+        "Doğru yanıt: Kuvvette devamlılık, sinir-kas sisteminin uzun süreli ve tekrarlı şekilde kuvvet üretimini sürdürebilme özelliğidir."
+      ]
+    },
+    {
+      "question": "Araştırmacılar kaç yaşından itibaren fiziksel ritim yeteneğinin doğrusal bir gelişim gösterdiğini ifade etmiştir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Araştırmacılar, fiziksel ritim yeteneğinin 4 yaşından itibaren doğrusal (lineer) bir gelişim seyri izlediğini ifade etmektedir. Bu bulgu, ritim yeteneğinin erken çocukluk döneminde sistemli bir şekilde gelişmeye başladığını ve bu yaştan sonra düzenli olarak artış gösterdiğini ortaya koymaktadır.",
+      "optionNotes": [
+        "2 yaşı, ritim yeteneğinin doğrusal gelişiminin başladığı olarak belirtilen yaştan daha erken bir dönemdir.",
+        "Doğru yanıt: Araştırmacılar, fiziksel ritim yeteneğinin 4 yaşından itibaren doğrusal bir gelişim gösterdiğini ifade etmiştir.",
+        "6 yaşı, belirtilen başlangıç noktasından daha ileri bir dönemi işaret eder ve doğru kabul edilen yaşla örtüşmez.",
+        "8 yaşı, ritim gelişiminin doğrusal seyrinin başladığı belirtilen yaştan oldukça ileridedir.",
+        "10 yaşı, verilen bulguya göre ritim yeteneğinin gelişiminin çok daha önce başladığı gerçeğiyle uyuşmamaktadır."
+      ]
+    },
+    {
+      "question": "Yüksek denge ve koordinasyon, estetik görüntü, ritim ve akıcılık özelliklerinin önemli olduğu spor branşı aşağıdakilerden hangisidir?",
+      "options": [
+        "Cimnastik",
+        "Güreş",
+        "Bisiklet",
+        "Futbol",
+        "Kayak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cimnastik; yüksek düzeyde denge ve koordinasyon, estetik görünüm, ritim ve hareket akıcılığının performansın merkezinde olduğu bir spor branşıdır. Sporcunun vücut kontrolü, duruş estetiği ve hareketler arasındaki akıcı geçişler, bu branşta teknik ve artistik değerlendirmenin temel unsurlarını oluşturur.",
+      "optionNotes": [
+        "Doğru yanıt: Cimnastikte yüksek denge ve koordinasyon, estetik görüntü, ritim ve akıcılık performansın belirleyici unsurlarıdır.",
+        "Güreşte temel belirleyici özellikler kuvvet, çabukluk ve mücadele gücüdür; estetik görünüm ve ritim bu branşta birincil öncelik değildir.",
+        "Bisiklette dayanıklılık, güç ve aerodinamik verimlilik ön plandadır; estetik akıcılık bu branşın temel performans ölçütü değildir.",
+        "Futbolda takım taktiği, sürat, çabukluk ve dayanıklılık belirleyicidir; estetik görüntü ve ritim bu branşın öncelikli unsurları arasında değildir.",
+        "Kayakta hız, denge ve teknik kontrol önemlidir ancak estetik görüntü ve ritim, cimnastikteki kadar merkezi bir performans unsuru değildir."
+      ]
+    },
+    {
+      "question": "Maraton branşı için gerekli olan en temel yetenek………….özelliğidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Dayanıklılık",
+        "Kuvvet",
+        "Sürat",
+        "Esneklik",
+        "Denge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maraton, uzun süre sabit ve ekonomik bir tempoda koşmayı gerektiren bir branş olduğundan, bu branş için gerekli en temel yetenek dayanıklılıktır. Aerobik enerji sistemlerinin etkin kullanımı ve yorgunluğa karşı direnç, maraton performansının belirleyici unsurudur.",
+      "optionNotes": [
+        "Doğru yanıt: Maraton gibi uzun süreli bir dayanıklılık branşında performansı belirleyen en temel özellik dayanıklılıktır.",
+        "Kuvvet, patlayıcı veya maksimal güç gerektiren branşlarda belirleyicidir; maratonun temel performans unsuru değildir.",
+        "Sürat, kısa süreli maksimal hız gerektiren branşlarda önemlidir; uzun süreli bir dayanıklılık yarışı olan maratonun temel özelliği değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir; maraton performansını belirleyen temel biyomotor özellik değildir.",
+        "Denge, vücut duruşunun korunmasıyla ilgilidir; maratonun temel ve belirleyici yeteneği olarak kabul edilmez."
+      ]
+    },
+    {
+      "question": "Araştırmalar aerobik sistemin dinlenme sırasında ATP üretirken…..oranında yağları kullandığını….oranında karbonhidratları kullandığını göstermektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "%20 - %60",
+        "%30 - %50",
+        "%40 - %40",
+        "%50 - %30",
+        "%70 - %30"
+      ],
+      "correctIndex": 4,
+      "explanation": "Araştırmalar, dinlenme halindeyken aerobik enerji sisteminin ATP üretiminde kullandığı substratların oranının yaklaşık %70 yağ ve %30 karbonhidrat şeklinde olduğunu göstermektedir. Dinlenme koşullarında düşük yoğunluklu metabolizma, bol oksijen varlığında yağ asitlerinin oksidasyonunu tercih eder; egzersiz yoğunluğu arttıkça bu oran karbonhidrat kullanımı yönünde değişir.",
+      "optionNotes": [
+        "%20-%60 oranı, dinlenme halindeki yağ kullanım oranını gerçek değerinden belirgin şekilde düşük göstermektedir.",
+        "%30-%50 oranı da dinlenme sırasındaki yağ kullanımını olması gerekenden düşük, karbonhidrat kullanımını ise yüksek göstermektedir.",
+        "%40-%40 eşit oranı, dinlenme halinde yağların karbonhidratlara göre daha fazla kullanıldığı gerçeğini yansıtmamaktadır.",
+        "%50-%30 oranı, dinlenme sırasında yağ kullanımının karbonhidrata oranla çok daha yüksek (yaklaşık %70) olduğu bulgusunu yansıtmamakta, yağ oranını gerçek değerinden düşük göstermektedir.",
+        "Doğru yanıt: Dinlenme sırasında aerobik sistem ATP üretiminde yaklaşık %70 oranında yağ, %30 oranında karbonhidrat kullanmaktadır."
+      ]
+    },
+    {
+      "question": "Bir cimnastikçinin seri oluşturması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Tepki Yetisi",
+        "Durum Değiştirme Yetisi",
+        "Oryantasyon Yetisi",
+        "Hareketi Bağlama Yetisi",
+        "Denge Yetisi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hareketi bağlama yetisi; farklı vücut bölümlerinin hareketlerini veya ayrı hareket parçalarını zaman ve mekan açısından uyumlu, akıcı bir bütün (seri/kombinasyon) haline getirebilme yeteneğidir. Bir cimnastikçinin birbirini takip eden hareketleri birleştirerek bir seri/kombinasyon oluşturması, bu koordinatif yetinin tipik bir uygulama örneğidir.",
+      "optionNotes": [
+        "Tepki yetisi, bir uyarana en kısa sürede hareketle cevap verme becerisidir; ayrı hareket parçalarını birleştirip seri oluşturmayla ilgili değildir.",
+        "Durum değiştirme yetisi, beklenmedik bir duruma göre hareketi hızla uyarlama/değiştirme becerisidir; önceden planlanmış bir seri oluşturma sürecini tanımlamaz.",
+        "Oryantasyon yetisi, vücudun mekan içindeki konumunu ve yönünü belirleme becerisidir; hareketlerin art arda bağlanarak seri oluşturulmasını değil, uzamsal farkındalığı ifade eder.",
+        "Doğru yanıt: Hareketi bağlama yetisi, ayrı hareket parçalarını akıcı ve uyumlu bir bütün hâline getirme becerisidir; cimnastikçinin seri oluşturması bu yetinin tipik örneğidir.",
+        "Denge yetisi, vücudun duruşunu koruma becerisidir; hareketlerin art arda bağlanarak bir seri oluşturulmasıyla doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "question": "VO2Maks değerleri elit dayanıklılık sporcularında ortalama kaç ml/kg’dır?",
+      "options": [
+        "30",
+        "45",
+        "55",
+        "70",
+        "85"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elit dayanıklılık sporcularında (örneğin uzun mesafe koşucuları, bisikletçiler, kayakçılar) ortalama maksimal oksijen tüketimi (VO2maks) değerleri yaklaşık 70 ml/kg/dk düzeyindedir. Bu yüksek değer, kardiyovasküler ve solunum sistemlerinin üst düzey aerobik kapasiteye adapte olduğunu gösterir ve dayanıklılık performansının fizyolojik göstergelerinden biridir.",
+      "optionNotes": [
+        "30 ml/kg değeri, sedanter/antrenmansız bireylerin ortalama VO2maks düzeyine yakın olup elit dayanıklılık sporcuları için oldukça düşüktür.",
+        "45 ml/kg değeri, orta düzey aktif bireylerin kapasitesine yakın bir değerdir; elit dayanıklılık sporcularının ortalama düzeyini yansıtmaz.",
+        "55 ml/kg değeri, iyi antrenmanlı ama elit seviyenin altındaki sporcuların değerlerine daha yakındır.",
+        "Doğru yanıt: Elit dayanıklılık sporcularında ortalama VO2maks değerleri yaklaşık 70 ml/kg/dk düzeyindedir.",
+        "85 ml/kg değeri, sadece dünya çapında en üst düzey sporcularda görülebilen istisnai değerlere yakındır ve belirtilen ortalama değerin üzerindedir."
+      ]
+    },
+    {
+      "question": "Araştırmacılar, çocukların temel spor eğitimine kaç yaşından itibaren başlamasını önermektedir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Araştırmacılar, çocukların temel spor eğitimine (temel hareket becerileri, koordinasyon ve genel motorik gelişimi kapsayan eğitime) 4 yaşından itibaren başlamalarının uygun olduğunu önermektedir. Bu yaş, çocuğun sinir-kas sisteminin temel koordinatif yetenekleri kazanmaya hazır olduğu dönem olarak kabul edilir.",
+      "optionNotes": [
+        "2 yaşı, temel spor eğitimi için önerilen başlangıç yaşından daha erken bir dönemdir ve bu yaşta çocuğun motor gelişimi henüz yeterli değildir.",
+        "Doğru yanıt: Araştırmacılar, çocukların temel spor eğitimine 4 yaşından itibaren başlamasını önermektedir.",
+        "6 yaşı, önerilen başlangıç yaşından daha ileri bir dönemi ifade eder.",
+        "8 yaşı, temel spor eğitimine başlama için önerilen yaştan belirgin biçimde daha ileridedir.",
+        "10 yaşı, temel spor eğitimine başlamak için önerilen erken dönemden çok daha ileri bir yaştır."
+      ]
+    },
+    {
+      "question": "I. Erken Katılım II. Geç Katılım III. Rekreasyonel Katılım Yukarıdakilerden hangileri Doğal seçim dönemleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Doğal seçim süreci; bireylerin spora erken yaşta katılımı (erken katılım), daha ileri yaşlarda katılımı (geç katılım) ve performans odaklı olmayan, keyif ve sağlık amaçlı katılımı (rekreasyonel katılım) gibi farklı dönemleri/biçimleri kapsar. Bu üç dönem de doğal seçim sürecinin farklı yollarını temsil ettiğinden doğru yanıt üçünün birlikte yer aldığı seçenektir.",
+      "optionNotes": [
+        "Yalnız erken katılımın (I) seçilmesi, geç katılım ve rekreasyonel katılımın da doğal seçim dönemleri arasında yer aldığı gerçeğini göz ardı eder.",
+        "Erken ve geç katılımın (I-II) seçilmesi, rekreasyonel katılımı (III) dışarıda bıraktığından eksik bir yanıttır.",
+        "Erken katılım ve rekreasyonel katılımın (I-III) seçilmesi, geç katılımı (II) dışladığından sürecin tamamını kapsamaz.",
+        "Geç katılım ve rekreasyonel katılımın (II-III) seçilmesi, erken katılımı (I) göz ardı ettiğinden eksik bir yanıttır.",
+        "Doğru yanıt: Erken katılım, geç katılım ve rekreasyonel katılım (I-II-III), doğal seçim sürecinin farklı dönemlerini/biçimlerini oluşturan unsurların tümüdür."
+      ]
+    },
+    {
+      "question": "Bir ya da birden çok uyarana karşı en kısa zamanda hareket etme yetisine ne ad verilir?",
+      "options": [
+        "Tepki Yetisi",
+        "Durum Değiştirme Yetisi",
+        "Oryantasyon Yetisi",
+        "Hareketi Bağlama Yetisi",
+        "Denge Yetisi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tepki yetisi; bir ya da birden çok uyarana karşı mümkün olan en kısa zaman içerisinde amaca uygun hareketle cevap verebilme yetisidir. Bu yetenek, sportif ortamlarda ani gelişen durumlara (örneğin bir pas, bir ıslık sesi veya rakibin ani hareketi) hızlı tepki vermeyi sağlar ve koordinatif yeteneklerin önemli bir alt bileşenidir.",
+      "optionNotes": [
+        "Doğru yanıt: Tepki yetisi, bir ya da birden çok uyarana karşı en kısa zamanda hareketle cevap verebilme becerisidir.",
+        "Durum değiştirme yetisi, hareket sırasında ortaya çıkan ani değişikliklere göre hareketi hızla uyarlama becerisidir; uyarana ilk tepki verme hızını değil, devam eden hareketin uyarlanmasını ifade eder.",
+        "Oryantasyon yetisi, vücudun mekan içindeki konumunu belirleme becerisidir; uyarana karşı hız odaklı tepki vermeyi tanımlamaz.",
+        "Hareketi bağlama yetisi, farklı hareket parçalarını akıcı bir bütün haline getirme becerisidir; tek bir uyarana en hızlı tepkiyi vermeyi ifade etmez.",
+        "Denge yetisi, vücut duruşunun korunmasıyla ilgilidir; uyarana karşı hızlı tepki verme sürecini tanımlamaz."
+      ]
+    },
+    {
+      "question": "Hareket hızını en kısa süre içerisinde artırabilme yeteneği olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Reaksiyon sürati",
+        "İvmelenme sürati",
+        "Hareket sürati",
+        "Maksimal kuvvet",
+        "Kuvvette devamlılık"
+      ],
+      "correctIndex": 1,
+      "explanation": "İvmelenme sürati; bireyin hareket hızını, hareketin başlangıcından itibaren en kısa süre içerisinde artırabilme yeteneğidir. Bu özellik özellikle sprint başlangıçları veya ani hızlanma gerektiren spor durumlarında belirleyicidir ve mevcut hızdan daha yüksek bir hıza en kısa sürede ulaşabilmeyi ifade eder.",
+      "optionNotes": [
+        "Reaksiyon sürati, bir uyarana karşı tepkinin başlama hızını ifade eder; hareketin hızının sonradan artırılması sürecini değil, tepkinin başlangıcını kapsar.",
+        "Doğru yanıt: İvmelenme sürati, hareket hızını en kısa süre içerisinde artırabilme yeteneğidir.",
+        "Hareket sürati, bir hareketin tek başına gerçekleştirilme hızını ifade eder; hızın zaman içinde artırılma sürecini özel olarak tanımlamaz.",
+        "Maksimal kuvvet, kas sisteminin üretebildiği en yüksek kuvveti ifade eder; hareket hızının artırılma yeteneğiyle doğrudan ilgili değildir.",
+        "Kuvvette devamlılık, kuvvet üretiminin uzun süre sürdürülebilmesiyle ilgilidir; hareket hızının kısa sürede artırılmasıyla ilgili bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Çocuklar, yaşadıkları çevrenin ve ailenin etkisiyle bazen yetenek ve istekleri ile örtüşmeyen bazı spor branşlarına başladıktan sonra……………….ile dallarını değiştirebilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Çapraz katılım",
+        "Geç katılım",
+        "Rekreasyonel katılım",
+        "Erken katılım",
+        "Tesadüfen katılım"
+      ],
+      "correctIndex": 0,
+      "explanation": "Çapraz katılım; çocukların, çevrenin veya ailenin etkisiyle başladıkları ancak yetenek ve istekleriyle tam örtüşmeyen bir spor branşından, kendilerine daha uygun başka bir branşa geçiş yapmasını ifade eden kavramdır. Bu süreç, bireyin farklı bir dalda denenerek asıl yeteneğinin ortaya çıkmasına imkan tanır.",
+      "optionNotes": [
+        "Doğru yanıt: Çapraz katılım, bireyin başladığı ama yetenek/istekleriyle örtüşmeyen bir branştan, kendisine daha uygun başka bir dala geçiş yapmasını ifade eder.",
+        "Geç katılım, spora ileri yaşta başlamayı ifade eder; branş değiştirme sürecini değil, başlama zamanını tanımlar.",
+        "Rekreasyonel katılım, performans odaklı olmayan, keyif ve sağlık amaçlı spor katılımını ifade eder; branş değiştirme sürecini tanımlamaz.",
+        "Erken katılım, spora küçük yaşta başlamayı ifade eder; bir branştan başka bir branşa geçişi değil, başlangıç zamanını tanımlar.",
+        "Tesadüfen katılım ifadesi, bu bağlamda tanımlanan planlı/yönlendirilmiş branş değiştirme sürecini karşılayan standart bir kavram değildir."
+      ]
+    }
+  ]
+}

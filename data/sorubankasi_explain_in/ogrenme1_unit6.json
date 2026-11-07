@@ -1,0 +1,326 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 6,
+  "topic": "Spor Pedagojisi",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi açık(gözlenebilir) davranışlardan biri değildir?",
+      "options": [
+        "Konuşma",
+        "Yürüme",
+        "Koşma",
+        "Yemek yeme",
+        "Düşünme"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Kişinin kendini gerçekleştirmesini sağlamak II. Bireyi yaratıcı ve üretici yaşama hazırlamak III. Erdemli, girişimci ve sağlam karakterli bir kişilik yetiştirmek Yukarıdakilerden hangileri eğitimin amaçlarındandır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Bireyin çevresini ve dünyayı anlaması ve açıklaması, kavraması, problem çözmesi, analiz ve sentez yapması, değerlendirmesi gibi zihinsel faaliyetleri ve süreçleri içeren alana ne ad verilir?",
+      "options": [
+        "Bilişsel alan",
+        "Duyuşsal alan",
+        "Psikomotor alan",
+        "Öğretim",
+        "Öğrenme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Öğrenmeyi kolaylaştıracak etkinlikleri düzenleme, araç-gereçleri sağlama ve kılavuzluk etme işi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Bilişsel alan",
+        "Duyuşsal alan",
+        "Psikomotor alan",
+        "Öğretim",
+        "Öğrenme"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Bireyin davranışlarında kendi yaşantısı yoluyla kasıtlı olarak istendik davranış değişikliği meydana getirme sürecine ne ad verilir?",
+      "options": [
+        "Öğretme",
+        "Öğrenme",
+        "Olgunlaşma",
+        "Büyüme",
+        "Eğitim"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Öğrenecek olan organizmanın istenilen davranışı (davranış değişikliğini) göstermek için gerekli biyolojik donanıma sahip olmasına ne denir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Genel Uyarılmışlık hali ve kaygı",
+        "Eski yaşantılar",
+        "Güdü"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hastalık, ilaç kullanımı, alkol kullanımı vb. durumlarda organizmanın gösterdiği davranışlara ne ad verilir?",
+      "options": [
+        "Refleks",
+        "İçgüdüsel davranış",
+        "Geçici davranışlar",
+        "Sonradan kazanılan davranışlar",
+        "Pedagojik davranış"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Doğuştan getirilen, türe özgü davranış örüntülerine ne ad verilir?",
+      "options": [
+        "Refleks",
+        "İçgüdüsel davranış",
+        "Geçici davranışlar",
+        "Sonradan kazanılan davranışlar",
+        "Pedagojik davranış"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Doğuştan gelen davranışlar II. Geçici davranışlar III. Sonradan kazanılan davranışlar Yukarıdakilerden hangileri insan davranış sınıfları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Bireyin genetik olarak doğuştan getirdiği ve zamanı geldiğinde kendiliğinden meydana gelen biyolojik değişikliklere ne ad verilir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Genel Uyarılmışlık hali ve kaygı",
+        "Eski yaşantılar",
+        "Güdü"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Organizmayı harekete geçiren durumlara ne ad verilmektedir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Genel Uyarılmışlık hali ve kaygı",
+        "Eski yaşantılar",
+        "Güdü"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Konuya ihtiyaç duyulduğunda yoğunca çalışılmasını ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Konu çalışması",
+        "Aktif katılım",
+        "Geri bildirim"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Öğrenene öğrenme sonucunun bildirilmesine ne ad verilir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Bütün halinde çalışma",
+        "Parçalara bölerek çalışma",
+        "Geri bildirim"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Davranışçı öğrenme kuramcılarından biri değildir?",
+      "options": [
+        "Pavlov",
+        "Watson",
+        "Thorndike",
+        "Bandura",
+        "Guthrie"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Badmintonda önceden öğrenilen ayak hareketlerinin, voleyboldaki ayak hareketlerini öğrenmeyi kolaylaştırması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Güdü",
+        "Olumlu aktarım",
+        "Olumsuz aktarım"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Masa tenisindeki forehand vuruşunun, tenisteki forehand vuruşunu zorlaştırması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Güdü",
+        "Olumlu aktarım",
+        "Olumsuz aktarım"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun yapamadığı beceri için daha fazla çalışması ve ihtiyacı kendisinin hissetmesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "İçsel güdülenme",
+        "Dışsal güdülenme",
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Eski yaşantılar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "İlgili konunun her gün veya haftada tekrar edilmesi, yani konunun sistematik olarak çalışılmasını içeren kavrama ne ad verilir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Konu çalışması",
+        "Aktif katılım",
+        "Geri bildirim"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sıçrayarak atış, smaç gibi becerileri öğretirken etkili olan öğrenme yöntemi aşağıdakilerden hangisidir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Bütün halinde çalışma",
+        "Parçalara bölerek çalışma",
+        "Konu çalışması"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Klasik koşullamanın sporcuyu etkileyen en önemli ilkelerinden biri olan ve sporcunun ne kadar çaba harcarsa harcasın, durumu değiştiremeyeceğini öğrenmesine ne denir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Bir oyuncunun antrenmanda kendini küçük düşüren Antrenörü gördüğünde paniklerken diğer Antrenörlere böyle bir tepki vermemesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sporcunun bir uyarıcı ile sürekli karşılaşması durumunda o uyarıcıya başlangıçta gösterilen tepkiden daha az tepki gösterilmesi veya tepkinin yok olması hangi ilkeyle ilgilidir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Sporcunun belli bir uyarana maruz kalmasının sonucu olarak, aynı uyarana karşı normalden daha fazla tepki vermesine ne ad verilir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Başı ağrıyan bir sporcunun ağrı kesici alarak antrenman/müsabakada oynaması ve istenilen performansı göstermesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Su korkusu olan ve havuza girmeyi reddeden bir çocuğa, önce havuz resmi gösterilmesi, daha sonra mesafenin biraz daha azaltılması, belli bir süre sonra havuza sadece ellerini ve sonra ayağını sokması, ilerleyen aşamalarda ayak bileklerine ve dizlerine kadar havuza girmesi, bu sürecin sonunda su ve havuz korkusu yok edilmeye çalışılması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "İstenilen davranıştan sonra sporcuya hoşa giden uyarıcılar verilmesine ne ad verilir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Örneğin; antrenmanların başarılı bir şekilde tamamlanması halinde, antrenmanın sonunda sporculara maç yaptırmak aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "İstenmeyen davranışı zayıflatmaya yönelik uyarıcılara ne ad verilir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sosyal bilişsel öğrenme kuramı kim tarafından ortaya konulmuştur?",
+      "options": [
+        "Pavlov",
+        "Bandura",
+        "Watson",
+        "Thorndike",
+        "Guthrie"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

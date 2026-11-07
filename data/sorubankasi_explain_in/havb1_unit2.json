@@ -1,0 +1,293 @@
+{
+  "course": "havb1",
+  "unit_index": 2,
+  "topic": "Genel Antrenman Bilimi: Antrenmanı Oluşturan Ögeler",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi Antrenman faktörleri piramidinde yer almaz?",
+      "options": [
+        "Psikolojik Antrenman",
+        "Taktik Antrenman",
+        "Teknik Antrenman",
+        "Fiziksel Antrenman",
+        "Özel Antrenman"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Tekniğin başlangıç yapısı II. Hareket zenginliği III. Koordinasyon eğitimi Yukarıdakilerden hangileri mükemmel spor tekniğine ulaşabilmenin temel ilkeleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun hedefe ulaşmasında branşa özgü hareketleri doğru ve en ekonomik şekilde sergilemesine ne ad verilir?",
+      "options": [
+        "Teknik",
+        "Taktik",
+        "Teorik",
+        "Uygulama",
+        "Pratik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Şut atan futbolcuya karşı savunma yapan oyuncunun ne zaman, nasıl ve ne şekilde davranacağı hangi taktiğe girmektedir?",
+      "options": [
+        "Genel taktik",
+        "Özel taktik",
+        "Bireysel taktik",
+        "Kolektif taktik",
+        "Pratik taktik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Yapılan spor dalına özgü olan taktiktir. Futbolda hücum ve savunma taktiği gibi. Yukarıda özellikleri verilen taktik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel taktik",
+        "Özel taktik",
+        "Bireysel taktik",
+        "Kolektif taktik",
+        "Pratik taktik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sporcunun geçmişteki müsabaka pozisyonlarını da göz önünde bulundurarak aktüel durum için “duruma özgü bellek” oluşturmaya yönelmesi kaçıncı basamak taktiğinde yer alır?",
+      "options": [
+        "1. basamak",
+        "2. basamak",
+        "3. basamak",
+        "4. basamak",
+        "5. Basamak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Genel II. Özel III. Bireysel IV. Kolektif Yukarıdakilerden hangileri Birinci tip taktik sınıflamasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bir müsabakada taktik davranışı gerçekleştirebilmek için gereken önemli becerilerin ve yeteneklerin sistematik olarak geliştirilmesi ve yerleştirilmesi amacıyla yapılan antrenmana ne ad verilir?",
+      "options": [
+        "Taktik anlayış",
+        "Taktik eğitim",
+        "Teorik Eğitim",
+        "Pratik-Uygulamalı Eğitim",
+        "Taktik antrenman"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Temel antrenman dönemi II. Gelişim antrenman dönemi III. Üst düzey antrenman dönemi Yukarıdakilerden hangileri Uzun süreli antrenman aşamaları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Kişinin teknik bir modeli bireysel olarak ortaya koyma biçimi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Sportif teknik",
+        "Taktik",
+        "Stil",
+        "Fizik",
+        "Model"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Bireysel Taktik II. Grup Taktiği III. Takım Taktiği Yukarıdakilerden hangileri Üçüncü tip taktik sınıflamasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi taktik uygulama aşamasında 1. Sırada yer alır?",
+      "options": [
+        "Müsabaka pozisyonunu algılamak ve analiz etmek",
+        "Düşünce olarak çözümü bulmak",
+        "Taktik görevin motorik çözümünü gerçekleştirmek",
+        "Bir konuya yoğunlaşabilme",
+        "Pozisyonun gelişimini önceden sezme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Kendi kendine konuşma antrenmanı II. Gizli algı antrenmanı III. Kendini hayal etme antrenmanı Yukarıdakilerden hangileri Zihinsel Antrenman yöntemleri arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun, idealize ettiği bir sporcuyu belli bir hareketi yaparken zihninde canlandırması ve hayal etmesi hangi zihinsel antrenman yöntemine girmektedir?",
+      "options": [
+        "Kendi kendine konuşma antrenmanı",
+        "Gizli algı antrenmanı",
+        "Kendini hayal etme antrenmanı",
+        "İmgeleme – ideomotor antrenmanı",
+        "Zihinsel – Psikolojik antrenman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sportif tekniğin otomatik hâle getirildiği teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Üst düzey antrenman safhası",
+        "Sağlamlaştırma ve pekiştirme safhası",
+        "Kaba koordinasyon safhası"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Kondisyon düzeltilir ve geliştirilir. Teknik ve taktik yanında zihinsel ve psikolojik gelişime yer verilir. Yukarıda özellikleri verilen Uzun süreli antrenman aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel antrenman dönemi",
+        "Gelişim antrenman dönemi",
+        "Üst düzey antrenman dönemi",
+        "Genel Fiziksel Antrenman Dönemi",
+        "Özel fiziksel Antrenman Dönemi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Bütünden parçaya II. Parçadan bütüne III. Bilinenden bilinmeyene IV. Kolaydan zora, basitten karmaşığa Yukarıdakilerden hangileri Taktik eğitim gelişiminde uygulanan yöntemler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun belli bir hareketin nasıl yapılması gerektiğini zihinsel olarak kendisiyle konuşması, hangi zihinsel antrenman yöntemine girmektedir?",
+      "options": [
+        "Kendi kendine konuşma antrenmanı",
+        "Gizli algı antrenmanı",
+        "Kendini hayal etme antrenmanı",
+        "İmgeleme – ideomotor antrenmanı",
+        "Zihinsel – Psikolojik antrenman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sporcuya hareketin bütünlüğü içerisinde hareketin ana safhaları öğretilmeye çalışıldığı teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Üst düzey antrenman safhası",
+        "Kaba koordinasyon safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Sağlamlaştırma ve pekiştirme safhası"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Çok Yönlü Teknik Eğitim II. Genel Teknik Eğitimi III. Özel Teknik Eğitim Yukarıdakilerden hangileri tekniğin eğitim aşamaları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun, belli bir hareketi kendisinin nasıl uyguladığını ve uygulaması gerektiğini hayâl etmesi hangi zihinsel antrenman yöntemine girmektedir?",
+      "options": [
+        "Kendi kendine konuşma antrenmanı",
+        "Gizli algı antrenmanı",
+        "Kendini hayal etme antrenmanı",
+        "Zihinsel – Psikolojik antrenman",
+        "Fiziksel Antrenman"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hareketin bütün olarak tanımlandığı ve algılamalar yoluyla öğrenim yapıldığı teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Üst düzey antrenman safhası",
+        "Kaba koordinasyon safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Sağlamlaştırma ve pekiştirme safhası"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bilerek ve ayrıntıları çözüme ulaştıracak şekilde teknik uygulamaların söz konusu olduğu teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Üst düzey antrenman safhası",
+        "Kaba koordinasyon safhası",
+        "Sağlamlaştırma ve pekiştirme safhası"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Branşa özgü kondisyon mükemmelleştirilir. Teknik ve taktik gelişim yarışma koşullarında uygulanır. Yukarıda özellikleri verilen Uzun süreli antrenman aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel antrenman dönemi",
+        "Gelişim antrenman dönemi",
+        "Üst düzey antrenman dönemi",
+        "Genel Fiziksel Antrenman Dönemi",
+        "Özel fiziksel Antrenman Dönemi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Araştırmak II. Gizlemek III. Duruma uygun davranış uygulaması Yukarıdakilerden hangileri Brath'ın taktik eğitiminde yer alan yöntemsel temel ilkelerdendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Taktik Antrenmanın Metodik İlkeleriyle ilgili yanlış bir bilgidir?",
+      "options": [
+        "Taktik eğitim, teori ve uygulama bütünleşmelidir",
+        "Teknik ve taktik eğitim paralel olarak geliştirilmelidir",
+        "Taktik çalışmalarda öncelikle varyasyonlar ve alternatif uygulamalar çalışılır",
+        "Görsel yeteneğin gelişimi taktik uygulama yeteneğinin gelişimi üzerinde çok etkilidir",
+        "Taktik anlayış zorlaştırılmış iç ve dış faktörler altında geliştirilse istenilen taktik olgunluğa erişmek daha kolay olacaktır."
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

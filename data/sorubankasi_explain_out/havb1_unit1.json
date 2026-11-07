@@ -1,0 +1,482 @@
+{
+  "course": "havb1",
+  "unit_index": 1,
+  "topic": "Antrenmanla İlgili Temel Kuram ve Kavramlar",
+  "questions": [
+    {
+      "question": "Bir sporcunun değişik egzersizler uygulanarak fiziksel, teknik, taktik, zihinsel, psikolojik ve moral hazırlanmasına ne ad verilir?",
+      "options": [
+        "Performans",
+        "Fiziksel aktivite",
+        "Egzersiz",
+        "Antrenman",
+        "Antrenör"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenman, bir sporcunun fiziksel, teknik, taktik, zihinsel, psikolojik ve moral açıdan çok yönlü olarak hazırlanması sürecidir; sistemli, planlı ve tekrarlı egzersiz uygulamaları yoluyla performansın geliştirilmesini amaçlar. Bu nedenle soruda tanımlanan çok boyutlu hazırlık süreci antrenman kavramına karşılık gelir.",
+      "optionNotes": [
+        "Performans, antrenmanın sonucunda ortaya çıkan verim/başarı düzeyidir; hazırlanma sürecinin kendisini değil, bu sürecin çıktısını ifade eder, dolayısıyla tanıma uymaz.",
+        "Fiziksel aktivite, günlük yaşamda enerji harcamasına yol açan her türlü bedensel hareketi kapsar; teknik, taktik ve psikolojik hazırlığı içeren sistemli bir süreç değildir.",
+        "Egzersiz, antrenmanın içerisinde kullanılan planlı bir alt bileşen/araçtır; tek başına sporcunun tüm yönlerden (teknik, taktik, zihinsel vb.) hazırlanması anlamına gelmez.",
+        "Doğru yanıt: Antrenman, sporcunun fiziksel, teknik, taktik, zihinsel, psikolojik ve moral açıdan bütünsel olarak geliştirilmesini sağlayan sistemli ve planlı eğitim sürecidir.",
+        "Antrenör, bu süreci planlayıp yöneten kişidir; sorudaki tanım bir süreci, antrenör ise bir kişiyi/rolü ifade eder."
+      ]
+    },
+    {
+      "question": "Genel ya da ilgili spor dalına özgü bir biçimde, spor etkinliklerini ve antrenmanlarını yaptırarak; sporcuyu teknik, taktik, kondisyon, psikolojik, sosyolojik ve zihinsel açıdan amacına uygun şekilde basamaklı olarak üst düzey verimliliğe ulaştıran eğitici kişi aşağıdakilerden hangisidir?",
+      "options": [
+        "Performans",
+        "Antrenör",
+        "Fiziksel aktivite",
+        "Egzersiz",
+        "Antrenman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antrenör, sporcuyu teknik, taktik, kondisyonel, psikolojik, sosyolojik ve zihinsel yönlerden amaca uygun biçimde kademeli olarak üst düzey performansa ulaştıran eğitici kişidir. Sorudaki tanım, antrenmanı planlayan ve uygulayan kişiyi, yani antrenörü işaret eder.",
+      "optionNotes": [
+        "Performans bir kişi değil, ulaşılan verim düzeyini ifade eden bir sonuçtur; eğitici bir rolü tanımlamaz.",
+        "Doğru yanıt: Sporcuyu çok yönlü olarak kademeli şekilde üst düzey performansa taşıyan eğitici kişi antrenördür.",
+        "Fiziksel aktivite bir kişiyi değil, enerji harcanan bedensel hareketleri ifade eden bir kavramdır.",
+        "Egzersiz, antrenman içinde kullanılan planlı hareket uygulamalarıdır; bir eğitici kişiyi tanımlamaz.",
+        "Antrenman, antrenörün sporcuya uyguladığı eğitim sürecidir; sorudaki 'kişi' tanımına karşılık gelen antrenördür, antrenman bir süreçtir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Sürantrenmanın giderilebilmesi için alınması gereken ‘’Fizik tedavi önlemleri’’ arasında yer almaz?",
+      "options": [
+        "Yüzme",
+        "34-37 derece suda 15-20 dakika banyo",
+        "Sabahlar soğuk duş",
+        "Masaj",
+        "Sıcak sauna"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sürantrenmanın (overtraining) giderilmesinde fizik tedavi önlemleri arasında yüzme, ılık su banyoları, sabahları soğuk duş ve masaj gibi dolaşımı düzenleyici, gevşetici ve iyileşmeyi destekleyici uygulamalar yer alır. Sıcak sauna ise aşırı termal ve kardiyovasküler yük oluşturarak zaten yorgun ve stres altında olan organizmayı daha fazla zorlayabileceğinden bu önlemler arasında sayılmaz.",
+      "optionNotes": [
+        "Yüzme, düşük şiddetli ve eklemlere binen yükü azaltan bir aktif toparlanma yöntemi olarak fizik tedavi önlemleri arasında yer alır, bu yüzden doğru yanıt değildir.",
+        "Ilık su banyosu kasları gevşetip dolaşımı rahatlatan bir fizik tedavi uygulamasıdır; listede yer aldığı için aranan 'yer almayan' seçenek değildir.",
+        "Soğuk duş, vücudu uyarıp dolaşımı canlandıran, sürantrenman tedavisinde kullanılan bilinen bir fizik tedavi önlemidir; bu nedenle doğru yanıt olamaz.",
+        "Masaj, kas gerginliğini azaltıp toparlanmayı hızlandıran klasik bir fizik tedavi önlemidir, dolayısıyla listede yer alır.",
+        "Doğru yanıt: Sıcak sauna, bitkin ve stres altındaki organizmaya ek kardiyovasküler/termal yük bindirdiğinden sürantrenmanın fizik tedavi önlemleri arasında sayılmaz."
+      ]
+    },
+    {
+      "question": "I. İştahın artırılması II. Sebze ve meyve ağırlıklı beslenilmesi III. Kafein, nikotin ve alkolün kısıtlanması IV. Mineralce zengin içeceklerin tüketilmesi Yukarıdakilerden hangileri Sürantrenmanın giderilebilmesi için alınması gereken ‘’Besin Rejimi önlemleri’’ arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sürantrenmanın giderilmesinde besin rejimine yönelik önlemler; iştahın artırılması, sebze ve meyve ağırlıklı dengeli beslenme, kafein-nikotin-alkol gibi sinir sistemini uyaran/yorgunluğu artıran maddelerin kısıtlanması ve mineralce zengin içeceklerle elektrolit dengesinin desteklenmesini kapsar. Bu dört önlem birlikte sürantrenmış sporcunun biyokimyasal ve metabolik toparlanmasını hedefler, bu nedenle hepsi doğrudur.",
+      "optionNotes": [
+        "Sadece iştahın artırılmasını içermesi, diğer üç besin rejimi önleminin (meyve-sebze, uyarıcı kısıtlama, mineral destek) göz ardı edilmesi nedeniyle eksiktir.",
+        "Sadece sebze-meyve ağırlıklı beslenmeyi kapsaması, iştah, uyarıcı kısıtlaması ve mineral desteği gibi diğer önlemleri dışladığı için yetersizdir.",
+        "İştah artırma ve sebze-meyve beslenmesini içerse de, kafein/nikotin/alkol kısıtlaması ile mineralce zengin içecekleri dışarıda bıraktığından eksik bir seçenektir.",
+        "Üç önlemi kapsasa da mineralce zengin içeceklerin tüketilmesi (IV) önlemini dışladığı için tam listeyi yansıtmaz.",
+        "Doğru yanıt: Sürantrenmanın besin rejimiyle giderilmesinde iştah artırma, sebze-meyve ağırlıklı beslenme, uyarıcı kısıtlaması ve mineral desteği önlemlerinin tümü birlikte uygulanır."
+      ]
+    },
+    {
+      "question": "Sakin ortamlarda (orman, kırsal alan) dinlenmek, Sürantrenmanın giderilebilmesi için alınması gereken önlemlerden hangisine girmektedir?",
+      "options": [
+        "Antrenmanla ilgili alınacak önlemler",
+        "Fizik tedavi önlemleri",
+        "İklimsel tedavi",
+        "Besin Rejimi",
+        "Uyku düzeni"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sakin, doğal ortamlarda (orman, kırsal alan) dinlenme; sporcuyu kentsel/antrenman ortamının uyaran yükünden uzaklaştırarak sinir sistemi ve psikolojik toparlanmayı destekleyen bir iklimsel/çevresel tedavi önlemidir. Bu nedenle bu uygulama 'iklimsel tedavi' başlığı altında değerlendirilir.",
+      "optionNotes": [
+        "Bu seçenek yük, şiddet ve programlamayla ilgili düzenlemeleri kapsar; sakin ortamda dinlenme bir antrenman programı değişikliği değil, çevresel bir önlemdir.",
+        "Fizik tedavi önlemleri masaj, banyo, duş gibi bedensel/fiziksel uygulamaları kapsar; doğada sakin ortamda dinlenme bunun yerine çevresel/iklimsel bir öneridir.",
+        "Doğru yanıt: Orman ve kırsal alan gibi sakin ortamlarda dinlenmek, sporcuyu stres kaynaklarından uzaklaştıran bir iklimsel tedavi önlemidir.",
+        "Besin rejimi beslenme düzenlemeleriyle ilgilidir; sakin ortamda dinlenmenin beslenmeyle doğrudan bir ilgisi yoktur.",
+        "Uyku düzeni, uyku saatleri ve kalitesiyle ilgili önlemleri kapsar; sakin bir ortamda dinlenmek uyku değil, genel çevresel rahatlama anlamına gelir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Sürantrenmanın Psikolojik Belirtileri arasından yer almaz?",
+      "options": [
+        "Nefret duygusu",
+        "Genel bir neşesizlik",
+        "Karakter değişmeleri",
+        "Devamlı aksilik",
+        "Soluk bir yüz"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sürantrenmanın psikolojik belirtileri; nefret duygusu, genel bir neşesizlik, karakter değişmeleri ve devamlı aksilik gibi ruhsal/duygusal durum değişiklikleridir. Soluk bir yüz ise dolaşım ve genel sağlık durumuna bağlı fiziksel/somatik bir belirtidir, psikolojik belirtiler kategorisine girmez.",
+      "optionNotes": [
+        "Nefret duygusu, sürantrenmanlı sporcuda görülen tipik bir duygusal/psikolojik belirtidir, bu yüzden listede yer alır.",
+        "Genel neşesizlik (motivasyon ve keyif kaybı), sürantrenmanın bilinen psikolojik belirtilerindendir.",
+        "Karakter değişmeleri, kişilik ve davranışlardaki değişimi ifade eden psikolojik bir belirtidir, listede yer alır.",
+        "Devamlı aksilik (huzursuzluk, sinirlilik), sürantrenmanın psikolojik belirtileri arasında sayılan bir durumdur.",
+        "Doğru yanıt: Soluk bir yüz, dolaşım/fizyolojik kökenli bedensel bir belirtidir; ruhsal durumu yansıtan psikolojik belirtiler arasında değerlendirilmez."
+      ]
+    },
+    {
+      "question": "Antrenmana herhangi bir sebepten dolayı haddinden fazla verilen aranın sonucunda sporcularda oluşan performansın gerilemesi durumuna “sendromuna” ne ad verilir?",
+      "options": [
+        "Sürantrenman",
+        "Antrenmansızlaşma",
+        "Süperkompenzasyon",
+        "Fazla Tamlama",
+        "Overtraining"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antrenmansızlaşma (detraining), herhangi bir nedenle antrenmana haddinden fazla ara verilmesi sonucunda kazanılmış fizyolojik ve performans adaptasyonlarının kısmen veya tamamen kaybolmasıyla ortaya çıkan gerileme sürecidir. Soruda tanımlanan 'fazla ara verme sonucu performans gerilemesi' doğrudan bu kavrama karşılık gelir.",
+      "optionNotes": [
+        "Sürantrenman, antrenmanın eksik değil tam tersine aşırı ve dengesiz yüklenmesi sonucu oluşan bir yorgunluk/performans düşüşü sendromudur; soruda anlatılan 'ara verme' durumuyla karışmamalıdır.",
+        "Doğru yanıt: Antrenmana fazla ara verilmesi sonucu kazanılmış adaptasyonların ve performansın gerilemesi antrenmansızlaşma olarak adlandırılır.",
+        "Süperkompenzasyon, yüklenme sonrası toparlanmayla performansın başlangıç düzeyinin üzerine çıkmasını ifade eder; performans artışı değil gerilemesiyle ilgili olan bu soruya uymaz.",
+        "Fazla Tamlama, süperkompenzasyonla ilişkili bir kazanım/artış durumunu anlatır; sorudaki performans kaybı durumunu ifade etmez.",
+        "Overtraining, sürantrenmanın İngilizce karşılığıdır ve aşırı yüklenmeye bağlı bir sendromdur; sorudaki 'ara verme' kaynaklı gerilemeyle aynı kavram değildir."
+      ]
+    },
+    {
+      "question": "Kas gücünde ve kuvvetinde azalma durumuna ne ad verilir?",
+      "options": [
+        "Atrofi",
+        "Hipertrofi",
+        "Hiperplazi",
+        "Arterio",
+        "Venöz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atrofi, kullanılmama, inaktivite veya antrenmana ara verilmesi sonucunda kas lifi çapının ve buna bağlı olarak kas gücü/kuvvetinin azalmasıdır. Soruda tanımlanan 'kas gücü ve kuvvetinde azalma' doğrudan atrofi kavramını karşılar.",
+      "optionNotes": [
+        "Doğru yanıt: Kas gücü ve kuvvetindeki azalma, kas kütlesinin ve lif çapının küçülmesi anlamına gelen atrofi ile adlandırılır.",
+        "Hipertrofi, kas lifi çapının ve kuvvetinin artmasıdır; soruda sorulan azalma durumunun tam tersidir.",
+        "Hiperplazi, kas lifi sayısındaki artışı ifade eder; kuvvet azalmasıyla ilgili değildir.",
+        "Arterio, damar sistemiyle (arterlerle) ilgili bir terimdir; kas gücü kaybını tanımlayan bağımsız bir kavram değildir.",
+        "Venöz, toplardamarlarla ilgili bir terimdir; kas kuvveti kaybını ifade eden bir kavram değildir."
+      ]
+    },
+    {
+      "question": "I. Yorgunluk II. Yenilenme III. Fazla Tamamlama Yukarıdakilerden hangisi Bir antrenman biriminde Süperkompenzasyonun evreleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bir antrenman biriminde süperkompenzasyon süreci sırasıyla yorgunluk (yüklenme sonrası performans düşüşü), yenilenme (bazal düzeye dönüş/restitüsyon) ve fazla tamamlama (performansın başlangıç düzeyinin üzerine çıkması) evrelerinden oluşur. Bu üç evre birlikte süperkompenzasyon eğrisini tanımladığından hepsi doğrudur.",
+      "optionNotes": [
+        "Sadece yorgunluk evresini içermesi, yenilenme ve fazla tamamlama evrelerini göz ardı ettiği için süreci eksik tanımlar.",
+        "Yorgunluk ve yenilenmeyi kapsasa da, performansın başlangıcın üzerine çıktığı fazla tamamlama evresini dışarıda bıraktığından eksiktir.",
+        "Yorgunluk ve fazla tamamlamayı içerse de, aradaki yenilenme (restitüsyon) evresini atladığından süreci bütünüyle yansıtmaz.",
+        "Yenilenme ve fazla tamamlamayı kapsasa da, sürecin başlangıcındaki yorgunluk evresini dışladığı için tam değildir.",
+        "Doğru yanıt: Süperkompenzasyonun evreleri sırasıyla yorgunluk, yenilenme ve fazla tamamlamadır; bu üçü birlikte tüm süreci oluşturur."
+      ]
+    },
+    {
+      "question": "I. Örnekleme aşaması II. Uzmanlaşma aşaması III. Yatırım aşaması Yukarıdakilerden hangileri Spor Katılım Modeli (DMSP) aşamaları arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor Katılım Modeli (DMSP – Developmental Model of Sport Participation), sporcu gelişimini örnekleme (sampling), uzmanlaşma (specializing) ve yatırım (investment) aşamaları olmak üzere üç temel evrede ele alır. Bu nedenle verilen üç aşamanın tamamı modele aittir.",
+      "optionNotes": [
+        "Sadece örnekleme aşamasını içermesi, modelin uzmanlaşma ve yatırım aşamalarını dışladığı için eksiktir.",
+        "Örnekleme ve uzmanlaşmayı kapsasa da, modelin son evresi olan yatırım aşamasını dışarıda bıraktığından tam değildir.",
+        "Örnekleme ve yatırımı içerse de, aradaki uzmanlaşma aşamasını atladığı için modeli bütünüyle yansıtmaz.",
+        "Uzmanlaşma ve yatırımı kapsasa da, modelin başlangıç evresi olan örneklemeyi dışladığından eksiktir.",
+        "Doğru yanıt: DMSP modeli örnekleme, uzmanlaşma ve yatırım aşamalarının üçünü birden kapsar."
+      ]
+    },
+    {
+      "question": "Organizmanın antrenman yüklenmelerine uyumu ile performans artışı üzerine etkisinin doğal bir sonucu olarak kas glikojen depolarının dolmasına ne ad verilir?",
+      "options": [
+        "Fazla Tamlama",
+        "Sürantrenman",
+        "Antrenmansızlaşma",
+        "Detraining",
+        "Overtraining"
+      ],
+      "correctIndex": 0,
+      "explanation": "Organizmanın antrenman yüklenmelerine uyum sağlaması sürecinde, kas glikojen depolarının normal düzeyin üzerine çıkarak dolması; süperkompenzasyonla ilişkili 'fazla tamlama' (overcompensation) olgusunun klasik bir örneğidir. Bu artış, performansı destekleyen olumlu bir adaptasyon göstergesidir.",
+      "optionNotes": [
+        "Doğru yanıt: Glikojen depolarının antrenman adaptasyonu sonucu normal düzeyin üzerine çıkarak dolması, fazla tamlama (overcompensation) olgusudur.",
+        "Sürantrenman, aşırı yüklenmeye bağlı performans düşüşü ve yorgunluk birikimini ifade eder; glikojen depolarının dolması gibi olumlu bir adaptasyonu anlatmaz.",
+        "Antrenmansızlaşma, antrenmana ara verilmesiyle kazanımların kaybolmasını ifade eder; depoların dolması değil azalmasıyla ilişkilidir.",
+        "Detraining, antrenmansızlaşmanın İngilizce karşılığıdır ve kayıp/gerileme sürecini anlatır; glikojen depolarının dolmasıyla ilgili olumlu bir adaptasyon değildir.",
+        "Overtraining, sürantrenmanın İngilizce karşılığıdır; aşırı yüklenme sonucu oluşan olumsuz bir sendromu ifade eder, depo dolumunu değil tükenmeyi çağrıştırır."
+      ]
+    },
+    {
+      "question": "Atrofi haftada yüzde kaç oranında azalır?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antrenmana ara verildiğinde ortaya çıkan kas atrofisi kademeli bir süreçtir; kaynaklarda kas kütlesinin/kuvvetinin haftalık kayıp oranı yaklaşık %1 olarak belirtilir. Bu nedenle 'haftada yüzde 1' ifadesi atrofinin ilerleme hızını doğru yansıtır.",
+      "optionNotes": [
+        "Doğru yanıt: Kaynaklara göre atrofi haftada ortalama %1 oranında ilerler.",
+        "Yüzde 3'lük haftalık kayıp oranı, kaynaklarda belirtilen atrofi hızından daha yüksek bir değerdir ve verilen oranla uyuşmaz.",
+        "Yüzde 5'lik oran, gerçek atrofi hızını abartılı şekilde yüksek gösterir; bu denli hızlı bir kuvvet kaybı tipik atrofi sürecini yansıtmaz.",
+        "Yüzde 7'lik haftalık kayıp, atrofi için beklenenin çok üzerinde bir değerdir ve kaynaklardaki oranla örtüşmez.",
+        "Yüzde 10'luk bir haftalık kayıp aşırı yüksektir; bu oran atrofiden çok daha hızlı, akut bir kas kaybı sürecini ifade eder ve soruyla uyuşmaz."
+      ]
+    },
+    {
+      "question": "Antrenman bırakıldıktan 12 hafta sonra aerobik enzimlerinin yüzde kaçı kaybedilmektedir?",
+      "options": [
+        "30",
+        "50",
+        "65",
+        "75",
+        "90"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenmana tamamen ara verilmesinden (detraining) 12 hafta sonra, aerobik kapasiteyi destekleyen oksidatif enzim aktivitesinde belirgin bir düşüş yaşanır; kaynaklarda bu sürede aerobik enzimlerin yaklaşık %75'inin kaybedildiği belirtilir. Bu büyük kayıp, uzun süreli antrenmansızlığın aerobik metabolizma üzerindeki ağır etkisini gösterir.",
+      "optionNotes": [
+        "Yüzde 30'luk kayıp, 12 haftalık uzun bir antrenmansızlık dönemi için düşük kalan, daha kısa süreli ara vermelerde görülebilecek bir orandır.",
+        "Yüzde 50'lik kayıp genellikle daha kısa detraining sürelerinde (örn. birkaç hafta) gözlenen bir orandır, 12 haftalık süreyi tam yansıtmaz.",
+        "Yüzde 65'lik oran kaynaklarda belirtilen 12 haftalık kayıp oranına yakın olsa da, verilen doğru değerin altında kalır.",
+        "Doğru yanıt: Antrenmana 12 hafta ara verildiğinde aerobik enzim aktivitesinin yaklaşık %75'i kaybedilir.",
+        "Yüzde 90'lık kayıp aşırı yüksektir; bu oran aerobik enzimlerin neredeyse tamamen yok olduğunu ima eder ve kaynaklardaki 12 haftalık veriyle uyuşmaz."
+      ]
+    },
+    {
+      "question": "Spor Katılım Modeli (DMSP), sporcu gelişimini kaç aşamaya ayırmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spor Katılım Modeli (DMSP), sporcu gelişimini üç temel aşamaya ayırır: örnekleme, uzmanlaşma ve yatırım yılları. Bu üçlü yapı, modelin temel çatısını oluşturur.",
+      "optionNotes": [
+        "İki aşamalı bir yapı, modelin örnekleme-uzmanlaşma-yatırım şeklindeki üçlü ayrımını eksik yansıtır.",
+        "Doğru yanıt: DMSP modeli sporcu gelişimini örnekleme, uzmanlaşma ve yatırım olmak üzere üç aşamaya ayırır.",
+        "Dört aşamalı bir sayım, modelde tanımlanan üç temel evreden fazladır ve DMSP'nin klasik yapısıyla uyuşmaz.",
+        "Beş aşama, DMSP modelinin üç evreli yapısından oldukça fazladır; bu sayı modeli yanlış tanımlar.",
+        "Altı aşama, DMSP'nin üç evreli temel yapısıyla hiçbir şekilde örtüşmeyen, abartılı bir sayıdır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Antrenmansızlaşma durumunda meydana gelen Kalp Solunum İşlevindeki Değişikliklerden biri değildir?",
+      "options": [
+        "Kapiller yoğunlukta azalır",
+        "Arterio venöz oksijen farkı azalır",
+        "Oksidatif enzim aktivitesi azalır",
+        "Kalp debisi ve atım hacmi azalır",
+        "Yüklenme nabzı azalır"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenmansızlaşma sürecinde kalp-solunum sisteminde kapiller yoğunluk, arterio-venöz oksijen farkı, oksidatif enzim aktivitesi, kalp debisi ve atım hacmi gibi değerler azalır. Ancak aynı şiddetteki bir egzersizde (submaksimal yüklenmede) kalp daha az verimli çalıştığından, yüklenme nabzı azalmaz, tam tersine artar; bu nedenle bu seçenek listeye ait değildir.",
+      "optionNotes": [
+        "Kılcal damar yoğunluğunun azalması, antrenmansızlaşmada oksijen taşınımının zayıflamasıyla ilişkili bilinen bir değişikliktir.",
+        "Doku düzeyinde oksijen kullanımının azalmasına bağlı olarak arterio-venöz oksijen farkının düşmesi antrenmansızlaşmanın tipik bulgularındandır.",
+        "Aerobik enzim aktivitesinin düşmesi, antrenmansızlaşmada aerobik kapasitenin gerilemesinin temel nedenlerinden biridir.",
+        "Kalbin tek atımda pompaladığı kan hacminin ve toplam debinin azalması, antrenmansızlaşmada kalp fonksiyonunun zayıflamasını gösterir.",
+        "Doğru yanıt: Antrenmansızlaşmada aynı yüklenme şiddetinde kalp daha verimsiz çalıştığından yüklenme nabzı azalmaz, aksine artar; bu yüzden listedeki diğer değişikliklerin tersine bu ifade yanlıştır."
+      ]
+    },
+    {
+      "question": "Yüksek antrenmanlı sporcular……. Hafta içinde antrenmansız dönem performans düzeyine inerler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1",
+        "2 – 3",
+        "5",
+        "4 – 8",
+        "8 – 12"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yüksek düzeyde antrenmanlı sporcularda bile kazanılmış adaptasyonlar kalıcı değildir; antrenmana ara verildiğinde performans göstergeleri hızla gerilemeye başlar ve kaynaklara göre yaklaşık 2-3 hafta içinde antrenmansız bireylerin performans düzeyine yaklaşılabilir. Bu durum, üst düzey performansın sürekli ve düzenli antrenmanla korunması gerektiğini gösterir.",
+      "optionNotes": [
+        "Bir haftalık süre, yüksek düzeyde antrenmanlı bir sporcunun kazanılmış adaptasyonlarını kaybetmesi için kaynaklarda belirtilenden daha kısa bir süredir.",
+        "Doğru yanıt: Yüksek antrenmanlı sporcularda performans, antrenmansız kalındığında yaklaşık 2-3 hafta içinde antrenmansız düzeye yaklaşabilir.",
+        "Beş haftalık süre, kaynaklarda belirtilen 2-3 haftalık süreden daha uzun bir aralığı ifade eder ve verilen bilgiyle örtüşmez.",
+        "4-8 haftalık aralık, antrenmansız düzeye inişten daha ileri evredeki (örneğin aerobik enzim kaybı gibi) başka bir süreci tanımlar, sorudaki süreyle uyuşmaz.",
+        "8-12 haftalık süre, çok daha uzun vadeli detraining etkilerini (örneğin enzim/kapasite kayıplarının ilerlemesini) tanımlar, sorudaki hızlı performans düşüşü süresiyle uyuşmaz."
+      ]
+    },
+    {
+      "question": "Sporcuların çoklu spor aktivitelerine eğlenceli, keyifli bir ortamda katıldığı ve çok yönlü temel hareket becerilerini geliştirdiği Spor Katılım Modeli (DMSP), aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Örnekleme aşaması",
+        "Uzmanlaşma aşaması",
+        "Yatırım aşaması",
+        "Öneri aşaması",
+        "Yarışma aşaması"
+      ],
+      "correctIndex": 0,
+      "explanation": "Örnekleme aşaması (sampling years), DMSP modelinin ilk evresidir; bu dönemde çocuklar çoklu spor branşlarını eğlenceli ve keyifli bir ortamda deneyerek çok yönlü temel hareket becerileri geliştirir, henüz tek bir branşa yönelmezler. Soruda tarif edilen özellikler bu aşamaya karşılık gelir.",
+      "optionNotes": [
+        "Doğru yanıt: Çoklu spor aktivitelerine eğlenceli bir ortamda katılım ve temel hareket becerilerinin geliştirilmesi örnekleme aşamasının özellikleridir.",
+        "Uzmanlaşma aşamasında çocuk, spor sayısını azaltıp belirli branşlara yönelmeye başlar; sorudaki çoklu ve eğlence odaklı katılım tanımına uymaz.",
+        "Yatırım aşaması, tek bir spora adanmış, yüksek düzeyde ciddi ve planlı antrenumu ifade eder; eğlenceli çoklu spor katılımıyla değil üst düzey performans hedefiyle örtüşür.",
+        "DMSP modelinde 'öneri aşaması' adıyla tanımlanmış bir evre bulunmaz; bu seçenek modele ait olmayan bir isimdir.",
+        "DMSP modelinde ayrı bir 'yarışma aşaması' tanımlanmaz; yarışma unsuru modelin uzmanlaşma ve yatırım aşamaları içinde daha ileri düzeyde yer alır."
+      ]
+    },
+    {
+      "question": "Spor Katılım(DMSP) modelinde Uzmanlık Yılları aşamasının yaş aralığı aşağıdakilerden hangisidir?",
+      "options": [
+        "0 – 6",
+        "7 – 10",
+        "6 – 12",
+        "13 – 15",
+        "16 +"
+      ],
+      "correctIndex": 3,
+      "explanation": "DMSP modelinde uzmanlaşma (uzmanlık) yılları, çocukların örnekleme döneminden sonra daha az sayıda spora yönelip daha yapılandırılmış antrenmanlara katıldığı dönemdir ve genellikle 13-15 yaş aralığını kapsar. Bu yaş aralığı, örnekleme (6-12 yaş) ile yatırım yıllarının (16 ve sonrası) arasında kalan geçiş dönemidir.",
+      "optionNotes": [
+        "Bu yaş aralığı DMSP'de henüz yapılandırılmış spor katılımının başlamadığı erken çocukluk dönemine karşılık gelir, uzmanlaşma yıllarıyla ilgisi yoktur.",
+        "Bu yaş aralığı örnekleme yıllarının içinde kalır; çocuklar bu dönemde henüz çoklu spora eğlence amaçlı katılır, uzmanlaşmaya geçmemiştir.",
+        "Bu aralık DMSP modelinde örnekleme yıllarını tanımlar, uzmanlaşma yıllarından önceki evredir.",
+        "Doğru yanıt: DMSP modelinde uzmanlaşma (uzmanlık) yılları 13-15 yaş aralığını kapsar.",
+        "16 yaş ve sonrası DMSP modelinde yatırım yıllarına karşılık gelir; uzmanlaşma yıllarından sonraki, tek spora tam adanmışlığın yaşandığı evredir."
+      ]
+    },
+    {
+      "question": "- Tek bir spora odaklanma - Planlı antrenmanlar ağırlıklı Yukarıda özellikleri verilen Spor Katılım Modeli (DMSP), aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Yatırım yılları",
+        "Yarışma yılları",
+        "Örnekleme yılları",
+        "Uzmanlık yılları",
+        "Öneri yılları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yatırım yılları, DMSP modelinin son aşamasıdır; bu dönemde sporcu tek bir spor branşına tam anlamıyla odaklanır ve antrenmanlar büyük ölçüde planlı, yapılandırılmış ve yarışma/performans odaklı hale gelir. Soruda belirtilen 'tek spora odaklanma' ve 'planlı antrenman ağırlığı' özellikleri bu aşamanın temel karakteristikleridir.",
+      "optionNotes": [
+        "Doğru yanıt: Tek bir spora odaklanma ve ağırlıklı olarak planlı antrenmanlar yatırım yıllarının belirleyici özellikleridir.",
+        "DMSP modelinde bağımsız bir 'yarışma yılları' aşaması tanımlanmaz; yarışma unsuru yatırım yılları içinde değerlendirilir.",
+        "Örnekleme yıllarında çocuk çoklu spora eğlence amaçlı katılır, tek bir spora odaklanma ya da yoğun planlı antrenman bu evrenin özelliği değildir.",
+        "Uzmanlık yıllarında spor sayısı azalsa da hâlâ bir ölçüde çeşitlilik ve esneklik vardır; tam anlamıyla tek spora odaklanma ve ağırlıklı planlı antrenman yatırım yıllarında belirginleşir.",
+        "DMSP modelinde 'öneri yılları' adıyla tanımlanmış bir aşama bulunmamaktadır."
+      ]
+    },
+    {
+      "question": "I. Yüzme II. Basketbol III. Halter IV. Okçuluk Yukarıdakilerden hangileri Geç Özelleşilen Sporlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Geç özelleşilen sporlar, sporcunun erken yaşta tek bir branşa kilitlenmesini gerektirmeyen, genel atletik/fiziksel gelişime dayanan ve uzmanlaşmanın ergenlik sonrasına bırakılabildiği branşlardır. Yüzme, basketbol, halter ve okçuluk bu kategoriye giren, erken yaşta dar uzmanlaşma gerektirmeyen sporlar arasında sayılır.",
+      "optionNotes": [
+        "Sadece yüzmeyi içermesi, basketbol, halter ve okçuluğun da aynı kategoriye ait olduğunu göz ardı eder.",
+        "Sadece basketbolu içermesi, yüzme, halter ve okçuluğun da geç özelleşilen sporlar arasında yer aldığını dışlar.",
+        "Yüzme ve basketbolu kapsasa da, halter ve okçuluğu dışarıda bıraktığından listeyi eksik yansıtır.",
+        "Yüzme, basketbol ve halteri içerse de, okçuluğun da geç özelleşilen sporlar arasında yer aldığını göz ardı eder.",
+        "Doğru yanıt: Yüzme, basketbol, halter ve okçuluğun tümü, erken yaşta dar uzmanlaşma gerektirmeyen geç özelleşilen sporlar arasında yer alır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Erken Özelleşme Modelinde yer almaz?",
+      "options": [
+        "Temel Eğitim Aşaması",
+        "Antrenman ve Eğitim Aşaması",
+        "Antrenman ve Müsabaka Aşaması",
+        "Antrenman ve Kazanma Aşaması",
+        "Emeklilik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Erken özelleşme modeli; antrenman ve eğitim aşaması, antrenman ve müsabaka aşaması, antrenman ve kazanma aşaması ile emeklilik aşamasından oluşur ve sporcuyu erken yaşta doğrudan branşa özgü yoğun antrenmana yönlendirir. 'Temel Eğitim Aşaması' ise genel, çok yönlü temel beceri gelişimine odaklanan geç özelleşme/çok yönlü gelişim modellerine ait bir evredir, erken özelleşme modelinde yer almaz.",
+      "optionNotes": [
+        "Doğru yanıt: Temel Eğitim Aşaması, çok yönlü genel gelişime dayanan modellere ait bir evredir ve erken özelleşme modelinde yer almaz.",
+        "Bu aşama, erken özelleşme modelinin branşa özgü teknik ve fiziksel gelişimi hedefleyen evrelerinden biridir, modele dahildir.",
+        "Bu aşama, sporcunun yarışma performansına yönelik hazırlandığı, erken özelleşme modelinin bir parçası olan evredir.",
+        "Bu aşama, üst düzey başarı ve kazanma odaklı antrenumun yapıldığı, erken özelleşme modelinin ileri evresidir.",
+        "Emeklilik, erken özelleşme modelinin sporcu kariyerinin sona erdiği son aşamasıdır, modelin bir parçasıdır."
+      ]
+    },
+    {
+      "question": "Uzun vadeli sporcu gelişimi (UVSG), kaç aşamadan oluşmaktadır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 4,
+      "explanation": "Uzun Vadeli Sporcu Gelişimi (UVSG/LTAD) modeli, sporcu gelişimini yedi aşamaya ayırır: aktif başlangıç, temel eğitim, antrenmanı öğrenmek, antrenman için antrenman, yarışma için antrenman, kazanmak için antrenman ve yaşam boyu aktif kalma. Bu yedili yapı, modelin bütün yaşam evrelerini kapsayan en ayırt edici özelliğidir.",
+      "optionNotes": [
+        "Üç aşamalı bir yapı, UVSG modelinin yedi evreli ayrıntılı gelişim basamaklarını büyük ölçüde eksik bırakır.",
+        "Dört aşama, UVSG'nin yedi evreli kapsamlı yapısının önemli bir bölümünü (örneğin yaşam boyu aktiflik gibi ileri evreleri) dışarıda bırakır.",
+        "Beş aşama da UVSG modelinin tam yedili yapısını yansıtmaz, modelin bazı evrelerini eksik bırakır.",
+        "Altı aşama, UVSG'nin yedi evresine yakın olsa da bir evreyi dışarıda bıraktığından modeli tam yansıtmaz.",
+        "Doğru yanıt: UVSG modeli sporcu gelişimini yedi aşamaya ayırır."
+      ]
+    },
+    {
+      "question": "I. Atletizm II. Jimnastik III. Artistik Buz Yukarıdakilerden hangileri Erken Özelleşilen Sporlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Erken özelleşilen sporlar, üst düzey performans için çok genç yaşlardan itibaren branşa özgü teknik beceri ve yoğun antrenman gerektiren spor türleridir; bu kaynakta atletizm, jimnastik ve artistik buz pateni bu grup içinde sayılmaktadır. Bu üç branş da erken yaşta yoğun teknik çalışma gerektirdiğinden erken özelleşilen sporlar arasında değerlendirilir.",
+      "optionNotes": [
+        "Sadece atletizmi içermesi, jimnastik ve artistik buz patenin de aynı grupta sayıldığını göz ardı eder.",
+        "Atletizm ve jimnastiği kapsasa da, artistik buz patenini dışarıda bıraktığından listeyi eksik yansıtır.",
+        "Atletizm ve artistik buz patenini içerse de, jimnastiği dışladığından tam bir sınıflandırma sunmaz.",
+        "Jimnastik ve artistik buz patenini kapsasa da, atletizmin de bu kaynakta erken özelleşilen sporlar arasında sayıldığını göz ardı eder.",
+        "Doğru yanıt: Bu kaynağa göre atletizm, jimnastik ve artistik buz pateninin üçü de erken özelleşilen sporlar arasında sayılır."
+      ]
+    },
+    {
+      "question": "İlk fiziksel aktivite programları 1860 yılında nerede oluşturulmuştur?",
+      "options": [
+        "İngiltere",
+        "Amerika",
+        "Fransa",
+        "Almanya",
+        "İtalya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tarihsel kaynaklara göre ilk düzenli fiziksel aktivite/beden eğitimi programları 1860 yılında Amerika Birleşik Devletleri'nde oluşturulmuş ve okul ile toplum temelli fiziksel aktivite uygulamalarının öncüsü olmuştur.",
+      "optionNotes": [
+        "İngiltere, modern sporun kurumsallaşmasında önemli bir rol oynamış olsa da, 1860'taki ilk fiziksel aktivite programlarının kaynağı olarak bu metinde gösterilen ülke değildir.",
+        "Doğru yanıt: İlk fiziksel aktivite programları 1860 yılında Amerika'da oluşturulmuştur.",
+        "Fransa, özellikle olimpizm hareketinde önemli bir yere sahiptir, ancak 1860'taki ilk fiziksel aktivite programlarıyla ilişkilendirilen ülke değildir.",
+        "Almanya, jimnastik (Turnen) hareketinin gelişiminde öncü bir ülke olsa da, soruda belirtilen 1860 tarihli ilk fiziksel aktivite programlarının kaynağı olarak gösterilmez.",
+        "İtalya, bu tarihsel bağlamda ilk fiziksel aktivite programlarının ortaya çıktığı ülke olarak anılmaz."
+      ]
+    },
+    {
+      "question": "Erkekler için 16-18 yaş ve kızlar için 15-17 yaş aralığını kapsayan Uzun vadeli sporcu gelişimi (UVSG), aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Aktif Başlangıç",
+        "Temel Eğitim",
+        "Yarışma İçin Antrenman",
+        "Antrenmanı Yapmayı Öğrenmek",
+        "Antrenman İçin Antrenman"
+      ],
+      "correctIndex": 2,
+      "explanation": "UVSG modelinde 'Yarışma İçin Antrenman' aşaması, erkeklerde 16-18, kızlarda 15-17 yaş aralığını kapsar; bu dönemde sporcu artık temel beceri ve kapasite gelişiminden ziyade yarışma performansına özgü teknik, taktik ve fiziksel hazırlığa yoğunlaşır.",
+      "optionNotes": [
+        "Aktif Başlangıç, UVSG modelinin en erken evresidir (yaklaşık okul öncesi yaşlar); genel hareket zevkini kazandırmayı hedefler, soruda belirtilen ergenlik sonrası yaş aralığıyla ilgisi yoktur.",
+        "Temel Eğitim aşaması, çocukluk döneminde temel hareket becerilerinin kazandırıldığı evredir; soruda belirtilen 15-18 yaş aralığından çok öncedir.",
+        "Doğru yanıt: Erkeklerde 16-18, kızlarda 15-17 yaş aralığı UVSG modelinde Yarışma İçin Antrenman aşamasına karşılık gelir.",
+        "Bu aşama, UVSG modelinde daha küçük yaşlarda temel antrenman alışkanlıklarının öğrenildiği evredir, 15-18 yaş aralığına karşılık gelmez.",
+        "Bu aşama, ergenlik öncesi/başlangıcında fiziksel kapasite temelini oluşturmayı hedefler ve soruda belirtilen yaş aralığından önceki evredir."
+      ]
+    }
+  ]
+}

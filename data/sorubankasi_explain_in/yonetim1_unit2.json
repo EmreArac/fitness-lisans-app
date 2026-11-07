@@ -1,0 +1,304 @@
+{
+  "course": "yonetim1",
+  "unit_index": 2,
+  "topic": "Spor İşletmeciliği",
+  "questions": [
+    {
+      "question": "I. Genel araştırma II. Uygulamalı araştırma III. Alan araştırmaları Yukarıdakilerden hangisi araştırma çeşitleri kapsamında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Yeni bilgi ve anlayışların elde edilmesine yönelik olarak yapılan çalışmalara ne ad verilir?",
+      "options": [
+        "Genel araştırma",
+        "Uygulamalı araştırma",
+        "Alan araştırmaları",
+        "Basit Geliştirme",
+        "Teknolojik Geliştirme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Belirli uygulamalara yönelik mal ve hizmetler ile üretim süreçleri üzerinde yapılan ve yeni bilgilerin elde edilmesine yol açan çalışmalara ne ad verilir?",
+      "options": [
+        "Genel araştırma",
+        "Uygulamalı araştırma",
+        "Alan araştırmaları",
+        "Basit Geliştirme",
+        "Teknolojik Geliştirme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Zamanı gelince kullanmak üzere bir alanla ilgili tamamlayıcı bilgilerin araştırılarak keşfedilmesi ne ad verilir?",
+      "options": [
+        "Genel araştırma",
+        "Uygulamalı araştırma",
+        "Alan araştırmaları",
+        "Basit Geliştirme",
+        "Teknolojik Geliştirme"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Diyalog ve Basit Geliştirme II. Teknolojik Geliştirme III. Bilimsel Geliştirme Yukarıdakilerden hangisi geliştirme çeşitleri kapsamında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Spor işletmesinde çalışan bir elemanın içinde bulunduğu ortamı eleştirerek, yeni önerilerde bulunması, hangi geliştirme çeşidine girmektedir?",
+      "options": [
+        "Genel",
+        "Uygulamalı",
+        "Alan",
+        "Basit",
+        "Teknolojik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Spor işletmesine devam eden bir müşterinin içinde bulunduğu spor ortamını gözleyerek geliştirmeye yönelik önerilerde bulunulması, hangi geliştirme çeşidine girmektedir?",
+      "options": [
+        "Genel",
+        "Uygulamalı",
+        "Alan",
+        "Basit",
+        "Teknolojik"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Broşür II. El kitapçığı III. Afiş IV. Pankart V. El ilanları Yukarıdakilerden hangileri halkı spor programları konusunda bilgilendirmeye yönelik kullanılan Halkla İlişkiler yöntemlerindendir?",
+      "options": [
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "İşletmeler, ar-ge ve yenilik çalışmalarına büyük önem vermelerinin temel nedenlerini kaç grupta toplamışlardır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Endüstride yenilikçi olarak isim yapmak ve bunu sürdürmek hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Önde giden işletme olmak ve korumak, rakiplere karşı koyabilmek için yeni ürün geliştirmek hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Değişiklik bekleyen tüketiciyi tatmin etmek, hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Yetenekli ve istekli araştırmacıları işletmeye çekebilmek, hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "…………. sanayi toplumunun en temel ögelerinden biridir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Okullar",
+        "İşletmeler",
+        "Hastaneler",
+        "Bankalar",
+        "Kulüpler"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Bir alet, makine veya benzeri bir aracı çalıştırma II. Çeşitli iş ve faaliyetlerin yapıldığı yer, iş yeri III. Maddi ve beşeri fonksiyonlardan oluşan bir üretim birimi Yukarıdakilerden hangileri İşletme kavramının anlamları arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Kişi ve kurumların ihtiyaçlarını karşılamak üzere, üretim faktörlerini bir araya getirerek mal veya hizmet üreten/pazarlayan ve sonunda maddi ve manevi bir kâr elde etmeyi amaçlayan iktisadi, teknik ve hukuki birimlere ne ad verilir?",
+      "options": [
+        "Satın alma",
+        "Üretim",
+        "İşletme",
+        "Pazarlama",
+        "Fon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "İktisadi açıdan bir mal veya hizmetin kaç özelliği bulunması gereklidir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aşağıdakilerden hangisi soyut olarak nitelenen hizmetlerden biridir?",
+      "options": [
+        "Kitap",
+        "Yiyecek",
+        "Spor malzemesi",
+        "Eğitim",
+        "Elbise"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Fiziki değerleri, emek insan gücünü, toprak gibi yer üstü ve yer altı kaynaklarını ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Sermaye",
+        "Bilgi",
+        "Doğa",
+        "Hizmet",
+        "Beşeri kapasite"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bir mal ve hizmetin üretilip sunulması için gerekli olan tecrübe, yetenek ve kapasiteyi ifaden kavrama ne ad verilir?",
+      "options": [
+        "Sermaye",
+        "Bilgi",
+        "Doğa",
+        "Hizmet",
+        "Beşeri kapasite"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "İşletme içi ve işletmeler arası olay ve faaliyetlerle ilgili sebep-sonuç ilişkilerini ele alarak bir işletmenin amaçlarına en etkin biçimde nasıl ulaşılacağını inceleyen kavrama ne ad verilir?",
+      "options": [
+        "İhtiyaç",
+        "Trampa",
+        "Okinomika",
+        "İşletme bilimi",
+        "Merkezleşme"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Organizmanın duyduğu bir eksiklik olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "İşletme bilimi",
+        "Trampa",
+        "Okinomika",
+        "Merkezleşme",
+        "İhtiyaç"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "İhtiyaçlar dizisinin temelinde yer alan ve motivasyonun ilk adımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oksijen alma, yeme, içme, uyku, giyinme ve barınma hangi ihtiyaç hiyerarşisine girmektedir?",
+      "options": [
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Temel Fizyolojik İhtiyaçlar",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "İhtiyaçlar dizisinin ikinci sırasında yer alan, ihtiyaç aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sporcunun bir spor takımında yer alma, birlikte başarılı olma isteği hangi ihtiyaçla ilgilidir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Özgüven, başarıyla övünme, başarının başkaları tarafından takdiri, rekabet edebilme duygusu, benliğine saygı duyma, bağımsız ve özgür olma hangi ihtiyaç hiyerarşisine girmektedir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

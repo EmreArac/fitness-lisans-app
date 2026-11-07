@@ -1,0 +1,304 @@
+{
+  "course": "havb1",
+  "unit_index": 3,
+  "topic": "Genel Antrenman Bilimi: Antrenman İlkeleri",
+  "questions": [
+    {
+      "question": "Çok yönlü gelişim ilkesi piramidinin en üstünde aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Yüksek Performans",
+        "Özel Antrenman",
+        "Çok yönlü gelişim",
+        "Özelleşme",
+        "Uyum etkisi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Yüzme branşının spora başlama yaş aralığı aşağıdakilerden hangisidir?",
+      "options": [
+        "3 – 7",
+        "5 – 6",
+        "7 – 8",
+        "11 – 12",
+        "13 – 14"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Elit bir sporcu, yılda kaç saate yakın antrenman yapmaktadır?",
+      "options": [
+        "500 saat",
+        "750 saat",
+        "1000 saat",
+        "1500 saat",
+        "2000 saat"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "……………….….antrenmanların yarışma şartlarına uygun hâle getirilerek yapılmasıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Model antrenman ilkesi",
+        "Çeşitlilik İlkesi",
+        "Bireyselleştirme İlkesi",
+        "Özelleşme (Branşlaşma) İlkesi",
+        "Çok Yönlü Gelişim İlkesi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antrenman yöntemlerini yüklenme yoğunluğunu, sıklığını, süresini, kapsamını ve dinlenme aralıklarını içeren yüklenme türü aşağıdakilerden hangisidir?",
+      "options": [
+        "İç yüklenme",
+        "Dış yüklenme",
+        "Arka yüklenme",
+        "Ön yüklenme",
+        "Ters yüklenme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi tam dinlenme aralığı gerektiren çalışmalardan biridir?",
+      "options": [
+        "Süratte devamlılık çalışması",
+        "Kuvvette devamlılık çalışması",
+        "Dikkat ve koordinasyon çalışmaları",
+        "Temel ve özel dayanıklılık",
+        "İradi güç gelişimi çalışmaları"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ardışık bağlanmış sistem yaklaşımı olarak da tanımlanan yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Bağlantılı Sıralanan Yüklenme"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Antrenman yükünün sürekli artırılması ilkesi ile esneklik nasıl artar?",
+      "options": [
+        "Günden güne",
+        "Haftadan haftaya",
+        "Aydan aya",
+        "Ay – yıl süreci içerisinde",
+        "Artmaz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kısa süreli aşırı yüklenme olarak tanımlanan yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Kasların kuvvet, dayanıklılık ve hipertrofisinin sadece kasa verilen zaman periyodu içerisinde, maksimal kuvvetini ve dayanıklılık kapasitesini yüke karşı kullanarak geliştirmeyi hedefleyen prensibe ne ad verilir?",
+      "options": [
+        "Yüklenme",
+        "Güç",
+        "Overload",
+        "Parobeller",
+        "Adaptasyon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bir antrenmandaki yüklenme ve dinlenme safhaları arasındaki zamansal ilişkiye ne ad verilir?",
+      "options": [
+        "Yüklenmenin Şiddeti",
+        "Yüklenmenin Süresi",
+        "Yüklenmenin Kapsamı",
+        "Yüklenmenin Tarihi",
+        "Yüklenmenin Sıklığı"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Siff ve Verkhoshansky odaklanmış yüklenme evresinin kesilmesinden…….hafta sonra verim düzeyinde artış sağlandığını belirtmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1 – 3",
+        "3 – 7",
+        "3 – 10",
+        "4 – 8",
+        "4 – 12"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Spor yapma amaçları ve kapsamı II. Antrenmandan beklentiler III. Zararlı alışkanlıkların önlenmesi IV. Toparlanma süreçleri Yukarıdakilerden hangileri Antrenmana bilinçli ve aktif katılımda rol alan ilkeler arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Çok yönlü gelişim ilkesi piramidinin temelinde yer alan çocukluk evresinin karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        "Yüksek Performans",
+        "Sistemlilik",
+        "Özel Antrenman",
+        "Çok yönlü gelişim",
+        "Periyotlama"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Atletizm sporunun branşlaşma yaş aralığı aşağıdakilerden hangisidir?",
+      "options": [
+        "3 – 7",
+        "5 – 6",
+        "7 – 8",
+        "11 – 12",
+        "13 – 14"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun hayat tarzı, okul, iş ve evinin antrenman yerine olan mesafesi gibi faktörler hangi efor kapasitesine bağlıdır?",
+      "options": [
+        "Antrenmana olan uyum",
+        "Sporcunun vücut yapısı ve kişiliği",
+        "Antrenman yükü ve sporcunun toparlanma hızı",
+        "Antrenman ve sağlık durumu",
+        "Antrenman altyapısı"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Yüklenme, nicelik ve nitelik bakımından kaç ana ögeden oluşmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşamalı artan yüklenimlerden sonra, az yüklenmeli (yükselmesiz boşaltma) bir evrenin geldiği, geleneksel ya da klasik antrenman dönemlemesi olarak tanımlanan yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşağıdakilerden hangisi yüklenme yaklaşımlarından biri değildir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Ters Yüklenme"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Antrenmanın hazırlık döneminde yapılan yüklenmelerin çeşitliliğini ve sıklığını içeren yüklenme yaklaşımına ne ad verilir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sportif verimin gelişiminin, sadece sporcuların maksimal çalışma düzeylerinin üzerindeki aşamalı artan yüklenmelerle gerçekleştirilebileceğini öne süren yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Yapılan çalışmaların süre, mesafe ve yapılan tekrarlar olarak ifade edilmesi kavramına ne ad verilir?",
+      "options": [
+        "Yüklenmenin Şiddeti",
+        "Yüklenmenin Süresi",
+        "Yüklenmenin Kapsamı",
+        "Yüklenmenin Tarihi",
+        "Yüklenmenin Sıklığı"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "4-6 saat süren antrenmanlarda kısa aralıklarla birbirini takip eden rutin çalışmaları yapan bir cimnastik sporcusu ülke çapında bir sporcu olmak için yılda yaklaşık olarak kaç saat çalışması gerekmektedir?",
+      "options": [
+        "500",
+        "800",
+        "1000",
+        "1200",
+        "1400"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi antrenmanlarda gözlenen en yaygın hatalardan biri değildir?",
+      "options": [
+        "Aşırı antrenman",
+        "Antrenman azlığı",
+        "Antrenman sıklığı",
+        "Antrenman programının sporcuyla paylaşılması",
+        "Zirve antrenmanından müsabakaya geçişte yaşanan başarısızlık"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Organizmadaki fizyolojik, biyokimyasal karakterine, kuvvetine ve psikolojik uyum derecesine göre………………olarak tanımlanmaktadır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Dış yüklenme",
+        "Arka yüklenme",
+        "Ön yüklenme",
+        "Ters yüklenme",
+        "İç yüklenme"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Yüklenme şiddetiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Bir uyarım seviyesinde zaman birimi içerisindeki işle tanımlanır",
+        "Birçok spor dalında uyaranın şiddeti sayısal değerler olarak ifade edilir",
+        "Şiddet ifadesinden kasıt, yapılan işin toplam olarak ne olduğu yerine yapılan işin zorluğunun ön plana çıkmasıdır",
+        "Antrenman bütünlüğü içerisinde, antrenman şiddeti ile antrenman kapsamının bir bağlılık içerisinde olması gerekir",
+        "Şiddetle kapsam arasında doğru orantılı gelişim ilişkisi vardır"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sadece üst düzey sporcular tarafından uygulanması önerilen yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 4
+    }
+  ]
+}

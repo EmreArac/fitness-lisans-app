@@ -1,0 +1,520 @@
+{
+  "course": "saglik1",
+  "unit_index": 3,
+  "topic": "Sporda Beslenme",
+  "questions": [
+    {
+      "question": "Organizmanın yaşamını ve fonksiyonlarını sürdürebilmesine olanak sağlayacak şekilde vücut için gerekli enerjinin sağlandığı beslenme ne olarak tanımlanmaktadır?",
+      "options": [
+        "Yeterli beslenme",
+        "Dengeli beslenme",
+        "Besin",
+        "Enerji",
+        "Kalori"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yeterli beslenme, organizmanın yaşamsal faaliyetlerini ve vücut fonksiyonlarını sürdürebilmesi için gereken enerjinin besinlerle karşılanmasını ifade eder; burada vurgu enerjinin miktar olarak yeterli olup olmadığıdır, besin çeşitliliği veya besin ögelerinin birbirine oranı değil.",
+      "optionNotes": [
+        "Doğru yanıt: Yeterli beslenme, vücudun yaşamını ve fonksiyonlarını sürdürmesi için gereken enerji miktarının besinlerle sağlanması olarak tanımlanır; burada ölçüt enerjinin miktar olarak yeterli olmasıdır.",
+        "Dengeli beslenme, alınan enerjinin miktarından çok besin ögelerinin (karbonhidrat, protein, yağ, vitamin, mineral) birbirine oranla uygun ve dengeli biçimde tüketilmesini ifade eder; soru ise sadece enerji yeterliliğini tanımlamaktadır.",
+        "Besin, vücuda alınan gıda maddelerinin kendisini ifade eder; bir beslenme biçimini tanımlayan kavram değil, beslenmenin öznesi olan maddedir.",
+        "Enerji, vücudun kullandığı güç birimidir; beslenme şeklini tanımlayan bir terim değildir, sorudaki tanım bir beslenme türünü karşılamaktadır.",
+        "Kalori, enerjinin ölçü birimidir; bir beslenme biçimini değil, enerjinin nicel ifadesini belirtir."
+      ]
+    },
+    {
+      "question": "Sağlığın ve vücut fonksiyonlarının korunması ve yaşamın ve büyümenin sürdürülmesi için tüketilen gıda maddeleri olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Yeterli beslenme",
+        "Dengeli beslenme",
+        "Besin",
+        "Enerji",
+        "Kalori"
+      ],
+      "correctIndex": 2,
+      "explanation": "Besin, sağlığın ve vücut fonksiyonlarının korunması, yaşamın ve büyümenin sürdürülebilmesi için organizmanın dışarıdan aldığı gıda maddelerine verilen genel addır; karbonhidrat, protein, yağ, vitamin, mineral ve su gibi ögeleri içeren bu maddeler vücuda enerji ve yapı taşı sağlar.",
+      "optionNotes": [
+        "Yeterli beslenme, besinlerin miktar olarak ihtiyacı karşılayıp karşılamadığını ifade eden bir beslenme biçimidir; burada tanımlanan ise gıda maddesinin kendisidir.",
+        "Dengeli beslenme, besin ögelerinin birbirine oranla uygun dağılımda alınmasını ifade eden bir beslenme şeklidir, gıda maddesinin tanımı değildir.",
+        "Doğru yanıt: Besin, sağlığın korunması, vücut fonksiyonlarının sürdürülmesi ve büyümenin desteklenmesi için tüketilen gıda maddeleri olarak tanımlanır.",
+        "Enerji, besinlerin metabolize edilmesiyle açığa çıkan güçtür; tüketilen gıda maddesinin kendisi değil, ondan elde edilen çıktıdır.",
+        "Kalori, enerjinin ölçüm birimidir; gıda maddesini değil, o maddenin sağladığı enerjinin miktarını ifade eder."
+      ]
+    },
+    {
+      "question": "Üst düzey dayanıklılık sporcularında günlük kalori ihtiyacı kaç kilokalori civarındadır?",
+      "options": [
+        "2000",
+        "4000",
+        "6000",
+        "8000",
+        "10000"
+      ],
+      "correctIndex": 4,
+      "explanation": "Üst düzey dayanıklılık sporcuları (örneğin profesyonel bisikletçiler, uzun mesafe koşucuları) yoğun ve uzun süreli antrenman/yarış yükleri nedeniyle çok yüksek enerji harcarlar; literatürde bu sporcuların günlük enerji ihtiyacının 10000 kilokaloriye ulaşabildiği belirtilmektedir, bu nedenle doğru yanıt en yüksek seçenek olan 10000'dir.",
+      "optionNotes": [
+        "2000 kkal, sedanter bir yetişkinin ortalama günlük enerji ihtiyacına yakındır; üst düzey dayanıklılık sporcusunun yoğun antrenman yükünü karşılamaz.",
+        "4000 kkal, orta-yüksek düzeyde aktif sporcular için makul olsa da üst düzey dayanıklılık sporcusunun azami ihtiyacını yansıtacak kadar yüksek değildir.",
+        "6000 kkal, yoğun antrenman gören sporcularda görülebilecek bir değer olsa da soruda belirtilen üst düzey dayanıklılık sporcusu için belirtilen tavan değer değildir.",
+        "8000 kkal, üst düzey dayanıklılık sporcularında rastlanabilecek yüksek bir değerdir ancak literatürde belirtilen üst sınır bu seçenekten daha yüksektir.",
+        "Doğru yanıt: Üst düzey dayanıklılık sporcularında, özellikle çok uzun süreli ve yüksek şiddetli antrenman/yarış dönemlerinde günlük enerji ihtiyacı yaklaşık 10000 kilokaloriye kadar çıkabilmektedir."
+      ]
+    },
+    {
+      "question": "14 yaşında 55 kg erkek bir ergenin günlük enerji ihtiyacı kaçtır?",
+      "options": [
+        "2573 kkal/ gün",
+        "2755 kkal/ gün",
+        "2991 kkal/ gün",
+        "3182 kkal/ gün",
+        "3352 kkal/ gün"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adolesan dönemdeki erkeklerde enerji ihtiyacı, yaş, vücut ağırlığı ve büyüme hızına bağlı olarak hesaplanan kilogram başına enerji katsayıları ile belirlenir. 14 yaşındaki 55 kg bir erkek ergen için bu dönemde kullanılan referans tablolardaki kg başına enerji gereksinimi değeri ile vücut ağırlığı çarpıldığında günlük enerji ihtiyacı yaklaşık 3182 kkal olarak hesaplanmaktadır.",
+      "optionNotes": [
+        "2573 kkal/gün, bu yaş ve kiloya göre hesaplanan referans değerin altında kalmaktadır; büyüme çağındaki bir ergenin enerji ihtiyacını eksik yansıtır.",
+        "2755 kkal/gün, hesaplanan değere yakın olsa da referans tablolardaki kg başına enerji katsayısıyla uyuşan doğru sonuç değildir.",
+        "2991 kkal/gün, doğru değere yakın bir rakam olmakla birlikte, 55 kg ve 14 yaş için hesaplanan tam referans değeri karşılamaz.",
+        "Doğru yanıt: 14 yaşında 55 kg bir erkek ergen için kullanılan kg başına enerji ihtiyacı katsayısı ile vücut ağırlığı çarpıldığında günlük enerji ihtiyacı yaklaşık 3182 kkal olarak bulunur.",
+        "3352 kkal/gün, hesaplanan referans değerin üzerinde kalmaktadır; bu denli yüksek bir değer bu yaş ve ağırlık için öngörülen enerji ihtiyacını aşar."
+      ]
+    },
+    {
+      "question": "7 yaşında bir çocuğun kilogram başına enerji harcaması, bir yetişkinden yaklaşık yüzde kaç yüksektir?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctIndex": 4,
+      "explanation": "Çocuklarda büyüme ve gelişme süreci, yüksek bazal metabolizma hızı ve vücut yüzey alanının kütleye oranının yetişkinlere göre daha fazla olması nedeniyle kilogram başına enerji harcaması yetişkinlere kıyasla önemli ölçüde yüksektir; 7 yaş civarındaki bir çocukta bu fark yaklaşık %25 düzeyindedir.",
+      "optionNotes": [
+        "%5'lik bir fark, çocukluk döneminde büyüme ve yüksek metabolik hız nedeniyle gözlenen farkı büyük ölçüde küçümsemektedir.",
+        "%10'luk fark da gerçek değerin oldukça altında kalmaktadır; büyüme çağındaki enerji harcaması bundan daha fazla artış gösterir.",
+        "%15'lik fark, 7 yaş çocuğundaki kilogram başına enerji harcaması artışını hafife alan bir değerdir.",
+        "%20'lik fark gerçek değere yaklaşsa da, 7 yaşındaki bir çocuk için literatürde belirtilen oran bundan daha yüksektir.",
+        "Doğru yanıt: 7 yaşındaki bir çocuğun kilogram başına enerji harcaması, yüksek büyüme hızı ve metabolik aktivite nedeniyle bir yetişkinden yaklaşık %25 daha fazladır."
+      ]
+    },
+    {
+      "question": "Kalori, joule terimi ile de belirlenmektedir. Bir kalori yaklaşık kaç joule’e eşittir?",
+      "options": [
+        "1,256",
+        "2,470",
+        "3,690",
+        "4,184",
+        "5,365"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enerji birimleri arasında kalori ile joule birbirine dönüştürülebilir; uluslararası birim sistemine göre 1 kalori yaklaşık 4,184 joule'e eşittir, bu nedenle beslenme biliminde enerji değerleri bazen kalori bazen de joule cinsinden ifade edilebilir.",
+      "optionNotes": [
+        "1,256 joule, 1 kalorinin gerçek karşılığından çok düşük bir değerdir, bu dönüşüm oranı yanlıştır.",
+        "2,470 joule, doğru dönüşüm değerinin yaklaşık yarısı kadardır ve kalori-joule eşdeğerliğini doğru yansıtmaz.",
+        "3,690 joule, doğru değere yakın görünse de kalori-joule dönüşümünde kabul edilen kesin oran değildir.",
+        "Doğru yanıt: 1 kalori, uluslararası birim sistemine göre yaklaşık 4,184 joule'e eşittir.",
+        "5,365 joule, gerçek dönüşüm değerinin üzerinde kalan, kalori-joule eşdeğerliğini yanlış yansıtan bir rakamdır."
+      ]
+    },
+    {
+      "question": "Bir gram protein kaç kilokalori enerji vermektedir?",
+      "options": [
+        "1",
+        "4",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "Üç temel makro besin ögesinden biri olan proteinler, karbonhidratlar gibi gram başına 4 kilokalori enerji sağlar; bu değer yağların (9 kkal/g) sağladığı enerjiden belirgin şekilde daha azdır.",
+      "optionNotes": [
+        "1 kkal/g, proteinin sağladığı enerjinin çok altında bir değerdir ve hiçbir makro besin ögesinin enerji değerine karşılık gelmez.",
+        "Doğru yanıt: Bir gram protein, karbonhidratlarla aynı şekilde 4 kilokalori enerji sağlar.",
+        "7 kkal/g, protein veya diğer temel makro besin ögelerinin standart enerji değerleriyle örtüşmeyen bir rakamdır.",
+        "9 kkal/g, proteinin değil yağların gram başına sağladığı enerji değeridir; bu seçenek protein ile yağı karıştırmaktadır.",
+        "11 kkal/g, hiçbir makro besin ögesinin gram başına enerji değerine karşılık gelmeyen, gerçeği yansıtmayan bir rakamdır."
+      ]
+    },
+    {
+      "question": "I. Adenin II. Riboz III. Fosfat Yukarıdakilerden hangileri ATP molekülünün yapısında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "ATP (adenozin trifosfat) molekülü, bir adenin bazı, bir riboz şekeri ve bu ikilinin oluşturduğu adenozine bağlı üç fosfat grubundan oluşur; dolayısıyla adenin, riboz ve fosfat, ATP'nin yapısını oluşturan üç temel bileşendir.",
+      "optionNotes": [
+        "Yalnız I (Adenin) seçeneği eksiktir; adenin ATP'nin yapısında bulunur ama riboz ve fosfat grupları da molekülün ayrılmaz parçasıdır.",
+        "I-II (Adenin-Riboz) seçeneği, bu iki bileşenin adenozini oluşturduğunu doğru yansıtsa da ATP'nin yapısında bulunan fosfat gruplarını dışarıda bırakmaktadır.",
+        "I-III (Adenin-Fosfat) seçeneği, ATP molekülünün omurgasını oluşturan riboz şekerini atlamaktadır.",
+        "II-III (Riboz-Fosfat) seçeneği, molekülün temel bazı olan adenini içermediği için eksiktir.",
+        "Doğru yanıt: ATP molekülü adenin, riboz ve fosfat gruplarının üçünü de bir arada barındırır; adenin ve riboz adenozini oluşturur, buna bağlı üç fosfat grubu da yüksek enerjili bağları meydana getirir."
+      ]
+    },
+    {
+      "question": "Üç veya daha fazla şeker birimi içeren karbonhidratlara ne ad verilir?",
+      "options": [
+        "Basit",
+        "Kompleks",
+        "Monosakkaritler",
+        "Disakkaritler",
+        "Polisakkaritler"
+      ],
+      "correctIndex": 4,
+      "explanation": "Karbonhidratlar yapısındaki şeker (sakkarit) birim sayısına göre sınıflandırılır; bir ya da iki şeker biriminden oluşanlar basit karbonhidratlar (mono ve disakkaritler) olarak adlandırılırken, üç ve daha fazla şeker birimi içeren, çok sayıda monosakkaritin birleşmesiyle oluşan karbonhidratlar polisakkarit olarak tanımlanır; nişasta ve glikojen bu grubun örnekleridir.",
+      "optionNotes": [
+        "Basit karbonhidratlar terimi, tek veya iki şeker birimi içeren mono ve disakkaritleri kapsar; üç ve daha fazla şeker birimli yapıları tanımlamaz.",
+        "Kompleks karbonhidrat terimi genel bir sınıflandırma olup, sorudaki 'üç veya daha fazla şeker birimi' tanımına karşılık gelen özel terim polisakkarittir.",
+        "Monosakkaritler, tek bir şeker biriminden oluşan en basit karbonhidrat yapılarıdır; sorudaki tanımla (üç veya daha fazla birim) örtüşmez.",
+        "Disakkaritler, iki şeker biriminin birleşmesiyle oluşur; sorudaki üç ve daha fazla birim tanımını karşılamaz.",
+        "Doğru yanıt: Üç veya daha fazla monosakkarit biriminin birleşmesiyle oluşan karbonhidratlara polisakkarit adı verilir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi kompleks karbonhidratlar grubunda yer alır?",
+      "options": [
+        "Helva",
+        "Pekmez",
+        "Ekmek",
+        "Çay şekeri",
+        "Reçel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kompleks karbonhidratlar, çok sayıda şeker biriminin zincir biçiminde birleşmesiyle oluşan nişasta temelli besinlerdir; ekmek, tahıl kaynaklı nişasta içeriği nedeniyle kompleks karbonhidrat grubuna girer. Helva, pekmez, çay şekeri ve reçel ise yüksek oranda basit şeker (sakkaroz, glikoz, fruktoz) içeren besinlerdir.",
+      "optionNotes": [
+        "Helva, yoğun şeker ve tahin/un şekeri karışımıyla hazırlanan, basit şeker oranı yüksek bir tatlıdır, kompleks karbonhidrat kaynağı değildir.",
+        "Pekmez, meyve şırasının koyulaştırılmasıyla elde edilen, büyük oranda basit şekerlerden (glikoz, fruktoz) oluşan bir besindir.",
+        "Doğru yanıt: Ekmek, nişasta ağırlıklı tahıl ürünü olduğu için kompleks karbonhidrat grubunda yer alır.",
+        "Çay şekeri (sakkaroz), bir disakkarit olup basit karbonhidratlar grubuna girer, kompleks yapılı değildir.",
+        "Reçel, meyve ve ilave şeker ile hazırlanan, basit şeker oranı yüksek bir besindir, kompleks karbonhidrat kaynağı sayılmaz."
+      ]
+    },
+    {
+      "question": "Karbonhidratlar vücutta karaciğerde glikojen olarak kaç gram depolanır?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400",
+        "500"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vücutta karbonhidratlar glikojen formunda hem kasta hem karaciğerde depolanır; karaciğerde depolanan glikojen miktarı ortalama 100 gram civarındadır ve kan şekeri düzeyinin düzenlenmesinde kritik rol oynar, kaslarda depolanan glikojen miktarı ise bundan daha fazladır.",
+      "optionNotes": [
+        "Doğru yanıt: Karaciğerde glikojen depoları ortalama 100 gram civarındadır ve kan glukoz düzeyinin dengelenmesinde kullanılır.",
+        "200 gram, karaciğer glikojen deposunun gerçek ortalama miktarının üzerinde bir değerdir.",
+        "300 gram, karaciğerdeki değil kas dokusundaki toplam glikojen deposu miktarına daha yakın bir rakamdır.",
+        "400 gram, kas glikojen deposu miktarına yakın olup karaciğer deposunu tanımlamaz.",
+        "500 gram, karaciğer glikojen deposu için gerçekçi olmayan, aşırı yüksek bir değerdir."
+      ]
+    },
+    {
+      "question": "Günde 4-5 saat ve üzerinde antrenman yapıldığı durumlarda vücut ağırlığının kilogramı başına ortalama kaç gram karbonhidrat tüketilmesi gerekir?",
+      "options": [
+        "3 – 5",
+        "5 – 7",
+        "6 – 10",
+        "10 – 12",
+        "13 – 15"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenman yoğunluğu ve süresi arttıkça karbonhidrat ihtiyacı da artar; spor beslenmesi kılavuzlarına göre günde 4-5 saat ve üzerinde yüksek yoğunluklu antrenman yapan sporcuların glikojen depolarını yeterince doldurabilmesi için vücut ağırlığının kilogramı başına günlük 10-12 gram karbonhidrat tüketmesi önerilmektedir.",
+      "optionNotes": [
+        "3-5 g/kg, düşük yoğunluklu veya kısa süreli antrenman yapan bireyler için önerilen bir aralıktır, 4-5 saatlik yoğun antrenman ihtiyacını karşılamaz.",
+        "5-7 g/kg, orta düzeyde (günde ortalama 1 saat) antrenman yapan sporcular için uygun bir aralıktır, soruda tanımlanan yoğun antrenman yükü için yetersizdir.",
+        "6-10 g/kg, orta-yüksek yoğunlukta dayanıklılık antrenmanı yapanlar için önerilen bir aralıktır, ancak 4-5 saat ve üzerindeki ekstrem yük için üst sınır daha yüksektir.",
+        "Doğru yanıt: Günde 4-5 saat ve üzerinde antrenman yapan sporcularda glikojen depolarının yeterince doldurulabilmesi için vücut ağırlığı kilogramı başına 10-12 gram karbonhidrat tüketimi önerilir.",
+        "13-15 g/kg, önerilen üst sınırın üzerinde olup pratikte sindirim ve enerji dengesi açısından sürdürülebilir bir hedef olarak kabul edilmez."
+      ]
+    },
+    {
+      "question": "Kas glikojen depoları maksimal oksijen tüketiminin %65-80’i şiddetinde yapılan antrenmanlarda kaçıncı dakikadan itibaren boşalacaktır?",
+      "options": [
+        "15.",
+        "30.",
+        "45.",
+        "60.",
+        "90."
+      ],
+      "correctIndex": 4,
+      "explanation": "Maksimal oksijen tüketiminin (VO2maks) %65-80'i şiddetinde yürütülen uzun süreli antrenmanlarda kas glikojen depoları, bu şiddette sürdürülen egzersizin yaklaşık 90. dakikasından itibaren önemli ölçüde boşalmaya başlar; bu nedenle uzun süreli dayanıklılık performansında karbonhidrat alımı kritik önem taşır.",
+      "optionNotes": [
+        "15. dakika, bu şiddetteki bir antrenmanda glikojen depolarının henüz ciddi biçimde tükenmeye başlamadığı, oldukça erken bir zaman dilimidir.",
+        "30. dakika da glikojen kullanımının arttığı ancak depoların henüz önemli ölçüde boşalmadığı bir süredir.",
+        "45. dakika, orta düzeyde glikojen kullanımının sürdüğü ama depoların kritik düzeyde azalmadığı bir zaman noktasıdır.",
+        "60. dakika, glikojen tüketiminin belirgin şekilde arttığı fakat depoların tam anlamıyla boşalmaya başladığı eşik olarak kabul edilen süre değildir.",
+        "Doğru yanıt: %65-80 VO2maks şiddetindeki antrenmanlarda kas glikojen depoları yaklaşık 90. dakikadan itibaren önemli ölçüde boşalmaya başlar."
+      ]
+    },
+    {
+      "question": "Antrenman öncesi büyük öğün bireyler arası farklılıklar göstermesine karşın yaklaşık olarak antrenmandan kaç saat öncesinde tüketilmelidir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antrenman öncesi tüketilen büyük öğünün mide boşalma süresi ve bireysel sindirim farklılıkları göz önüne alınarak genel kural olarak antrenmandan yaklaşık 3 saat önce tüketilmesi önerilir; bu süre, besinlerin sindirilip enerjiye dönüştürülmesi için yeterli zamanı sağlarken egzersiz sırasında mide rahatsızlığı riskini de azaltır.",
+      "optionNotes": [
+        "2 saat, büyük ve doyurucu bir öğün için sindirimin tamamlanması açısından genellikle yetersiz kabul edilen, daha kısa bir süredir.",
+        "Doğru yanıt: Antrenman öncesi büyük öğünün, bireysel farklılıklar olmakla birlikte genel kural olarak antrenmandan yaklaşık 3 saat önce tüketilmesi önerilir.",
+        "4 saat, bazı bireyler için uygun olabilse de genel kural olarak belirtilen süreden daha uzundur.",
+        "5 saat, büyük öğün için önerilen süreden daha fazla olup pratikte sporcuların öğün planlamasında genel kural olarak kullanılmaz.",
+        "6 saat, antrenman öncesi büyük öğün için önerilen süreden belirgin şekilde daha uzun bir aralıktır."
+      ]
+    },
+    {
+      "question": "4 yemek kaşığı balın glisemik indeks değeri kaçtır?",
+      "options": [
+        "61",
+        "64",
+        "72",
+        "83",
+        "87"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bal, içerdiği yüksek oranda basit şeker (fruktoz ve glikoz) nedeniyle yüksek glisemik indekse sahip bir besindir; 4 yemek kaşığı bal için glisemik indeks değeri yaklaşık 87 olarak kabul edilir, bu da kan şekerini hızlı yükselten besinler grubuna girdiğini gösterir.",
+      "optionNotes": [
+        "61 değeri, balın gerçek glisemik indeksinin oldukça altında, orta düzey bir glisemik indeks değeridir.",
+        "64 değeri de balın yüksek glisemik indeksini yansıtacak kadar yüksek değildir.",
+        "72 değeri, yüksek glisemik indeksli besinler sınırına yaklaşsa da bal için kabul edilen tam değeri karşılamaz.",
+        "83 değeri, doğru değere yakın olsa da bal için referans alınan tam glisemik indeks değeri değildir.",
+        "Doğru yanıt: 4 yemek kaşığı balın glisemik indeks değeri yaklaşık 87'dir ve bu değer balı yüksek glisemik indeksli besinler arasına yerleştirir."
+      ]
+    },
+    {
+      "question": "2 orta dilim çavdar ekmeğinin glisemik indeks değeri kaçtır?",
+      "options": [
+        "42",
+        "46",
+        "49",
+        "51",
+        "58"
+      ],
+      "correctIndex": 0,
+      "explanation": "Çavdar ekmeği, lif içeriğinin yüksek olması ve nişastasının sindirim hızının buğday ekmeğine göre daha yavaş olması nedeniyle düşük-orta glisemik indekse sahiptir; 2 orta dilim çavdar ekmeği için glisemik indeks değeri yaklaşık 42 olarak kabul edilir.",
+      "optionNotes": [
+        "Doğru yanıt: 2 orta dilim çavdar ekmeğinin glisemik indeks değeri yaklaşık 42'dir, bu da onu düşük-orta glisemik indeksli besinler arasına yerleştirir.",
+        "46 değeri, çavdar ekmeği için kabul edilen referans değere yakın olsa da tam değeri karşılamaz.",
+        "49 değeri, gerçek değerden daha yüksek olup çavdar ekmeğinin glisemik indeksini gerçekte olduğundan daha yüksek göstermektedir.",
+        "51 değeri, çavdar ekmeğinin düşük-orta glisemik indeks özelliğini doğru yansıtmayan, fazla yüksek bir rakamdır.",
+        "58 değeri, çavdar ekmeği için kabul edilen değerden belirgin şekilde yüksek olup orta-yüksek glisemik indeks sınırına yaklaşmaktadır."
+      ]
+    },
+    {
+      "question": "Aşağıda verilenlerden hangisi Orta Glisemik İndeksli Besinler (60-40) grubunda yer alır?",
+      "options": [
+        "Elma",
+        "Makarna",
+        "Üzüm",
+        "Dondurma",
+        "Fıstık"
+      ],
+      "correctIndex": 2,
+      "explanation": "Orta glisemik indeksli besinler (yaklaşık 60-40 aralığında) grubunda, kan şekerini elma veya fıstığa göre daha hızlı ancak beyaz ekmek gibi yüksek glisemik indeksli besinlere göre daha yavaş yükselten besinler yer alır; üzüm, içerdiği doğal şekerler nedeniyle bu orta grupta değerlendirilir.",
+      "optionNotes": [
+        "Elma, yüksek lif ve fruktoz içeriği nedeniyle düşük glisemik indeksli besinler grubunda yer alır, orta grupta değerlendirilmez.",
+        "Makarna, özellikle az pişirildiğinde düşük glisemik indeksli besinler arasında sayılır, bu soruda tanımlanan orta grupla eşleşmez.",
+        "Doğru yanıt: Üzüm, orta glisemik indeksli besinler (60-40 aralığı) grubunda yer alan bir meyvedir.",
+        "Dondurma, içerdiği yağ ve protein nedeniyle şeker oranına rağmen glisemik indeksi düşürülmüş, genellikle düşük-orta grupta değerlendirilen bir besindir, soruda sorulan orta grubun tipik örneği değildir.",
+        "Fıstık, yüksek yağ ve protein içeriği nedeniyle çok düşük glisemik indeksli besinler arasında yer alır, orta grupla ilişkilendirilmez."
+      ]
+    },
+    {
+      "question": "I. Kuru Fasulye II. Mercimek III. Çiğ Havuç Yukarıdakilerden hangisi Düşük Glisemik İndeksli Besinler (40 - >) grubunda yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Düşük glisemik indeksli besinler grubu, kan şekerini yavaş ve kademeli yükselten, genellikle yüksek lif içeriğine sahip besinleri kapsar; kuru fasulye, mercimek gibi kurubaklagiller ve çiğ havuç yüksek lif ve düşük nişasta sindirim hızı nedeniyle bu gruba girer.",
+      "optionNotes": [
+        "Yalnız I (Kuru Fasulye) seçeneği eksiktir; mercimek ve çiğ havuç da aynı şekilde düşük glisemik indeksli besinler grubuna dahildir.",
+        "I-II (Kuru Fasulye-Mercimek) seçeneği, kurubaklagilleri doğru şekilde kapsasa da çiğ havucun da düşük glisemik indeksli besinler arasında olduğunu göz ardı etmektedir.",
+        "I-III (Kuru Fasulye-Çiğ Havuç) seçeneği, mercimeğin de düşük glisemik indeksli besinler grubunda yer aldığını dışarıda bırakmaktadır.",
+        "II-III (Mercimek-Çiğ Havuç) seçeneği, kuru fasulyenin de aynı düşük glisemik indeks grubuna ait olduğunu göz ardı etmektedir.",
+        "Doğru yanıt: Kuru fasulye, mercimek ve çiğ havuç, yüksek lif içerikleri ve yavaş sindirilen yapıları nedeniyle düşük glisemik indeksli besinler grubunun üçü de bu gruba girer."
+      ]
+    },
+    {
+      "question": "Proteinlerin yapı taşları aminoasitlerdir. Bilinen 22 aminoasitten kaç tanesi vücut hücreleri tarafından sentezlenemez?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aminoasitler, vücut tarafından sentezlenip sentezlenemediğine göre esansiyel (elzem) ve esansiyel olmayan (elzem olmayan) olarak ikiye ayrılır; klasik sınıflandırmaya göre bilinen aminoasitlerden 8'i vücut hücreleri tarafından sentezlenemez ve mutlaka besinlerle dışarıdan alınması gerekir.",
+      "optionNotes": [
+        "2 aminoasit, esansiyel aminoasit sayısını büyük ölçüde eksik göstermektedir; bu sayı gerçek değerin çok altındadır.",
+        "4 aminoasit de esansiyel aminoasit sayısını gerçek değerin altında göstermektedir.",
+        "6 aminoasit, doğru sayıya yaklaşsa da standart sınıflandırmada kabul edilen esansiyel aminoasit sayısını tam karşılamaz.",
+        "Doğru yanıt: Bilinen aminoasitlerden 8'i vücut hücreleri tarafından sentezlenemediği için besinlerle dışarıdan alınması gereken esansiyel (elzem) aminoasitlerdir.",
+        "10 aminoasit, standart sınıflandırmada kabul edilen esansiyel aminoasit sayısının üzerinde, gerçek değerden fazla bir sayıdır."
+      ]
+    },
+    {
+      "question": "I. Fenilalanin II. Lizin III. Treonin Yukarıda verilen hangileri esansiyel(elzem) aminoasitler grubunda yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – III",
+        "I –II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Fenilalanin, lizin ve treonin, vücut hücreleri tarafından sentezlenemeyen ve mutlaka besinlerle alınması gereken esansiyel (elzem) aminoasitler grubunun klasik üyeleridir; bu nedenle üçü de esansiyel aminoasit listesinde yer alır.",
+      "optionNotes": [
+        "Yalnız I (Fenilalanin) seçeneği eksiktir; lizin ve treonin de aynı şekilde esansiyel aminoasitler grubuna dahildir.",
+        "Yalnız II (Lizin) seçeneği de eksiktir; fenilalanin ve treonin da esansiyel aminoasitler arasında sayılır.",
+        "I-II (Fenilalanin-Lizin) seçeneği, treoninin de esansiyel aminoasitler grubunda yer aldığını göz ardı etmektedir.",
+        "I-III (Fenilalanin-Treonin) seçeneği, lizinin de klasik esansiyel aminoasitler listesinde bulunduğunu dışarıda bırakmaktadır.",
+        "Doğru yanıt: Fenilalanin, lizin ve treoninin üçü de vücutta sentezlenemeyen, besinlerle alınması gereken esansiyel aminoasitlerdir."
+      ]
+    },
+    {
+      "question": "I. Lösin II. İzlösin III. Valin Yukarıda verilen hangileri dallı zincirli aminoasitler grubunda yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – III",
+        "I –II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Lösin, izolösin ve valin, yan zincirlerinde dallanmış karbon yapısı bulunan ve bu özellikleriyle 'dallı zincirli aminoasitler' (BCAA) olarak adlandırılan esansiyel aminoasit grubunu oluşturur; bu üç aminoasit özellikle kas protein sentezi ve egzersiz metabolizmasında önemli rol oynar.",
+      "optionNotes": [
+        "Yalnız I (Lösin) seçeneği eksiktir; izolösin ve valin de aynı dallı zincirli aminoasit grubunun üyeleridir.",
+        "Yalnız II (İzolösin) seçeneği de eksiktir; lösin ve valin da dallı zincirli aminoasitler arasında yer alır.",
+        "I-II (Lösin-İzolösin) seçeneği, valinin de bu üçlü grubun bir parçası olduğunu göz ardı etmektedir.",
+        "I-III (Lösin-Valin) seçeneği, izolösinin de dallı zincirli aminoasitler grubunda bulunduğunu dışarıda bırakmaktadır.",
+        "Doğru yanıt: Lösin, izolösin ve valinin üçü birlikte dallı zincirli aminoasitler (BCAA) grubunu oluşturur."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi çocukluk döneminde özellikle de ilk yıllarda vücutta üretilemeyen ve çocuklar için esansiyel aminoasitlerdendir?",
+      "options": [
+        "Histidin ve arginin",
+        "Treonin ve metionin",
+        "Lösin ve izlösin",
+        "Fenilalanin ve lizin",
+        "Valin ve arginin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yetişkinlerde esansiyel olmayan bazı aminoasitler, hızlı büyüme dönemindeki bebek ve çocuklarda vücudun ihtiyacı kadar hızlı sentezlenemediğinden bu dönemde 'koşullu esansiyel' kabul edilir; histidin ve arginin, özellikle çocukluk döneminin ilk yıllarında bu şekilde dışarıdan alınması gereken aminoasitler arasında sayılır.",
+      "optionNotes": [
+        "Doğru yanıt: Histidin ve arginin, yetişkinlerde yeterince sentezlenebilse de çocukluk döneminin ilk yıllarında vücutta yeterli miktarda üretilemediği için bu dönemde esansiyel kabul edilen aminoasitlerdir.",
+        "Treonin ve metionin, yaş grubuna bakılmaksızın tüm yaşam dönemlerinde klasik esansiyel aminoasitler arasında sayılır, çocukluğa özgü koşullu esansiyel aminoasitler değildir.",
+        "Lösin ve izolösin, dallı zincirli esansiyel aminoasitler grubunda yer alır; çocukluğa özgü koşullu esansiyellik ile ilişkilendirilmezler.",
+        "Fenilalanin ve lizin, tüm yaş gruplarında geçerli olan klasik esansiyel aminoasitlerdir, sadece çocukluk dönemine özgü bir durumu tanımlamazlar.",
+        "Valin ve arginin seçeneğinde valin dallı zincirli esansiyel bir aminoasittir; arginin doğru olsa da valin bu çocukluğa özgü koşullu esansiyel aminoasit grubuna ait değildir."
+      ]
+    },
+    {
+      "question": "Protein kalitesi açısından ………… ve …………. En başta gelen protein kaynaklarıdır. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Havuç – patates",
+        "Soğan – sarımsak",
+        "Çilek – muz",
+        "Yumurta – anne sütü",
+        "Balık – tavuk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Protein kalitesi, bir proteinin esansiyel aminoasit içeriği ve vücut tarafından kullanılabilirliği (biyolojik değeri) ile ölçülür; yumurta ve anne sütü, içerdikleri aminoasit profilinin vücut ihtiyaçlarına en yakın ve en yüksek biyolojik değere sahip olması nedeniyle referans protein kaynakları olarak kabul edilir.",
+      "optionNotes": [
+        "Havuç ve patates, bitkisel kaynaklı besinler olup protein içerikleri düşüktür ve protein kalitesi açısından referans kaynak olarak kabul edilmez.",
+        "Soğan ve sarımsak, esasen baharat ve aroma vericisi olarak kullanılan, protein içeriği çok düşük besinlerdir, protein kalitesiyle ilişkilendirilmezler.",
+        "Çilek ve muz, karbonhidrat ve vitamin kaynağı meyvelerdir, protein kalitesi açısından öne çıkan kaynaklar değildir.",
+        "Doğru yanıt: Yumurta ve anne sütü, içerdikleri aminoasit profili vücut ihtiyacına en yakın olan, protein kalitesi açısından referans (en başta gelen) protein kaynaklarıdır.",
+        "Balık ve tavuk, kaliteli protein kaynakları olmakla birlikte, protein kalitesinde referans standart olarak kabul edilen en başta gelen kaynaklar yumurta ve anne sütüdür."
+      ]
+    },
+    {
+      "question": "Uykudan önce alınan 30-40 gram……….gece boyunca sindirilerek kas protein sentez düzeylerini gereken miktarlarda tutmaktadır.",
+      "options": [
+        "Kazein",
+        "Yoğurt",
+        "Kefir",
+        "Süt",
+        "Su"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kazein, sütün ana proteini olup sindirimi yavaş gerçekleşen bir protein türüdür; bu özelliği nedeniyle uykudan önce tüketilen 30-40 gram kazein, gece boyunca kademeli olarak sindirilip aminoasit salımını sürdürerek kas protein sentezinin gece boyunca desteklenmesini sağlar.",
+      "optionNotes": [
+        "Doğru yanıt: Kazein, yavaş sindirilen yapısı nedeniyle uykudan önce alındığında gece boyunca aminoasit sağlayarak kas protein sentez düzeyini desteklemeye uygun bir proteindir.",
+        "Yoğurt, kazein içerse de saf kazein kadar yoğun ve yavaş salınımlı bir protein kaynağı değildir, soruda tanımlanan etkiyi sağlayan asıl bileşen kazeindir.",
+        "Kefir, probiyotik içeriğiyle bilinen fermente bir süt ürünüdür, gece boyu yavaş sindirilen protein kaynağı olarak öne çıkan besin değildir.",
+        "Süt, kazein ve whey proteinini birlikte içerir ancak soruda özellikle tanımlanan yavaş sindirim özelliğine sahip saf bileşen kazeindir, sütün kendisi değildir.",
+        "Su, protein içermeyen bir sıvıdır, kas protein sentezine doğrudan katkı sağlayamaz."
+      ]
+    },
+    {
+      "question": "Yağ asitlerinin bir gliserol molekülü ile yapmış olduğu esterlere ne ad verilir?",
+      "options": [
+        "Gliserid",
+        "Monogliserid",
+        "Trigliserid",
+        "Doymuş yağ asitleri",
+        "Doymamış yağ asitleri"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yağ asitlerinin bir gliserol molekülü ile esterleşmesi sonucu oluşan bileşiklere genel olarak gliserid adı verilir; bağlanan yağ asidi sayısına göre bu yapı monogliserid, digliserid veya trigliserid olarak alt gruplara ayrılır, ancak sorudaki genel tanım (bir gliserol ile yapılan ester) gliserid terimine karşılık gelir.",
+      "optionNotes": [
+        "Doğru yanıt: Yağ asitlerinin gliserol molekülü ile yaptığı esterlere genel olarak gliserid adı verilir.",
+        "Monogliserid, gliserol molekülüne yalnızca bir yağ asidinin bağlandığı özel bir alt türdür, sorudaki genel tanımı değil özel bir durumu ifade eder.",
+        "Trigliserid, gliserol molekülüne üç yağ asidinin bağlandığı özel ve en yaygın alt türdür, sorudaki genel ester tanımından daha spesifik bir kavramdır.",
+        "Doymuş yağ asitleri, karbon zincirinde çift bağ bulunmayan yağ asidi türünü ifade eder, gliserol ile oluşan ester yapısını tanımlamaz.",
+        "Doymamış yağ asitleri, karbon zincirinde bir veya daha fazla çift bağ bulunan yağ asidi türüdür, gliserolle oluşan ester bağını tanımlayan bir terim değildir."
+      ]
+    },
+    {
+      "question": "Vücuda 1 gram EPA ve DHA içeren balık yağı alabilmek için kaç gram uskumru veya somon tüketilmelidir?",
+      "options": [
+        "50 gram",
+        "100 gram",
+        "200 gram",
+        "250 gram",
+        "300 gram"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 gram EPA ve DHA (omega-3 yağ asitleri) elde edebilmek için, bu yağ asitlerini yoğun olarak içeren uskumru veya somon gibi yağlı balıklardan yaklaşık 100 gram tüketilmesi gerekmektedir; bu balık türleri omega-3 bakımından en zengin kaynaklar arasında yer alır.",
+      "optionNotes": [
+        "50 gram, bu miktarda balığın sağlayabileceği EPA ve DHA içeriği 1 gramlık hedefi karşılamak için yetersizdir.",
+        "Doğru yanıt: 1 gram EPA ve DHA elde etmek için yaklaşık 100 gram uskumru veya somon tüketilmesi gerekir.",
+        "200 gram, hedeflenen 1 gram EPA/DHA miktarını elde etmek için gereken miktarın üzerinde, gereğinden fazla bir değerdir.",
+        "250 gram da gerekli miktarın oldukça üzerinde bir rakamdır.",
+        "300 gram, 1 gram EPA ve DHA elde etmek için gerekenden çok daha fazla balık tüketimini ifade eden, gerçekçi olmayan bir değerdir."
+      ]
+    },
+    {
+      "question": "Vita kelimesi ne anlama gelmektedir?",
+      "options": [
+        "Yaşam",
+        "Sağlık",
+        "Spor",
+        "Egzersiz",
+        "Bilim"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Vita' kelimesi Latincede 'yaşam' anlamına gelir; 'vitamin' terimi de başlangıçta 'yaşam için gerekli amin' anlamında 'vital amine' ifadesinden türetilmiştir, bu nedenle vitaminlerin isimlendirilmesinde 'yaşam' kavramı temel alınmıştır.",
+      "optionNotes": [
+        "Doğru yanıt: Latince kökenli 'vita' kelimesi 'yaşam' anlamına gelir ve vitamin teriminin kökenini oluşturur.",
+        "Sağlık, vitaminlerin vücut fonksiyonlarına katkısıyla ilişkilendirilebilecek bir kavram olsa da 'vita' kelimesinin doğrudan sözlük anlamı değildir.",
+        "Spor, 'vita' kelimesinin kökeniyle ilgisi olmayan, bağlamsal bir çağrışımdan ibaret bir kavramdır.",
+        "Egzersiz, 'vita' kelimesinin Latince kökenindeki gerçek anlamını yansıtmayan bir kavramdır.",
+        "Bilim, 'vita' kelimesinin anlamı olmayıp beslenme bilimi gibi genel bir alanı çağrıştırmaktadır, kelimenin kökenini doğru yansıtmaz."
+      ]
+    }
+  ]
+}

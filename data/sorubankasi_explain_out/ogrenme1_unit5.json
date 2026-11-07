@@ -1,0 +1,558 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 5,
+  "topic": "Ölçme ve Değerlendirme",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi Ölçme ve değerlendirmenin kullanılma amaçlarından biri değildir?",
+      "options": [
+        "Farklılaştırma",
+        "Yerleştirme",
+        "Tanı",
+        "Başarının değerlendirilmesi",
+        "Motivasyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ölçme ve değerlendirmenin bilinen kullanılma amaçları; yerleştirme, tanı (teşhis), başarının değerlendirilmesi ve motivasyon olarak sayılır. 'Farklılaştırma' bu klasik amaç listesinde yer almaz; bu nedenle soruda sorulan 'amaç olmayan' seçenek budur.",
+      "optionNotes": [
+        "Doğru yanıt: Farklılaştırma, ölçme ve değerlendirmenin ders kitaplarında sayılan klasik kullanım amaçları (yerleştirme, tanı, başarı değerlendirme, motivasyon) arasında yer almaz.",
+        "Yerleştirme, bireyleri mevcut düzeylerine göre uygun gruplara ayırmak için kullanılan bilinen bir ölçme-değerlendirme amacıdır, dolayısıyla soruda aranan 'olmayan amaç' değildir.",
+        "Tanı (teşhis), bireyin eksik veya hatalı öğrenmelerinin nedenini belirlemek için kullanılan temel amaçlardan biridir, bu nedenle 'olmayan amaç' olamaz.",
+        "Başarının değerlendirilmesi, bir öğretim sürecinin sonunda ulaşılan düzeyi belirlemek için kullanılan en yaygın ve bilinen amaçtır.",
+        "Motivasyon, ölçme sonuçlarının bireyi daha çok çalışmaya yöneltmek için kullanılmasını ifade eden, literatürde tanınan bir amaçtır."
+      ]
+    },
+    {
+      "question": "Varlık ya da olayların belli bir nitel veya nicel özelliğe sahip oluş derecelerini belirleme işlemine ne ad verilir?",
+      "options": [
+        "Ölçme",
+        "Frekans",
+        "Mod",
+        "Medyan",
+        "Ölçüt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu ifade, ölçmenin ders kitabındaki standart tanımıdır: ölçme, nesne ya da olayların belirli bir özelliğe sahip olma derecesinin sayı ya da sembollerle ifade edilmesi işlemidir. Diğer seçenekler ise istatistiksel betimleme ya da değerlendirme kavramlarıdır, ölçme işleminin kendisini tanımlamaz.",
+      "optionNotes": [
+        "Doğru yanıt: Bu tanım ölçmenin kendisidir; ölçme, bir özelliğe sahip olma derecesinin sayı/sembollerle ifade edilmesidir.",
+        "Frekans, bir veri setinde belirli bir değerin kaç kez tekrar ettiğini gösteren istatistiksel bir sayıdır, ölçme işleminin tanımı değildir.",
+        "Mod, bir veri setinde en çok tekrar eden değeri ifade eden bir merkezi eğilim ölçüsüdür, ölçme sürecinin tanımı değildir.",
+        "Medyan, sıralanmış bir veri setini ortadan ikiye bölen değerdir, ölçme işleminin kendisini tanımlamaz.",
+        "Ölçüt, ölçme sonuçlarının karşılaştırıldığı sabit bir değerdir; ölçme işleminin tanımı değil, değerlendirmede kullanılan bir dayanak noktasıdır."
+      ]
+    },
+    {
+      "question": "Sayısal olarak herhangi iki değer arasında daima başka değer bulunabilen değişken aşağıdakilerden hangisidir?",
+      "options": [
+        "Nicel Değişken",
+        "Nitel Değişken",
+        "Sürekli Değişken",
+        "Süreksiz Değişken",
+        "Bağımlı Değişken"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sürekli değişken, teorik olarak iki değer arasında sonsuz sayıda ara değerin bulunabildiği değişken türüdür; boy, ağırlık ve zaman gibi değişkenler bu gruba girer. Bu özellik, sürekli değişkeni süreksiz değişkenden ayıran temel noktadır.",
+      "optionNotes": [
+        "Nicel değişken, sayısal olarak ifade edilen değişkenlerin genel (üst) kategorisidir; sürekli ve süreksiz değişkenleri kapsar ama sorudaki 'ara değerlerin sonsuzluğu' özel tanımını tek başına karşılamaz.",
+        "Nitel değişken, sayısal olmayan, kategorik olarak ifade edilen değişkendir (örn. cinsiyet, göz rengi); sayısal ara değerlerden söz edilemeyeceği için bu tanıma uymaz.",
+        "Doğru yanıt: Sürekli değişken, iki değer arasında teorik olarak sonsuz sayıda ara değerin bulunabildiği değişkendir (örn. boy, ağırlık, zaman).",
+        "Süreksiz (kesikli) değişken, yalnızca belirli ve sınırlı değerler alabilen, ara değerlerin bulunmadığı ya da sınırlı olduğu değişkendir (örn. kişi sayısı); tanımın tam tersidir.",
+        "Bağımlı değişken, başka bir değişkene bağlı olarak değer alan değişkendir; bu ayrım sürekli/süreksiz ayrımıyla değil, neden-sonuç ilişkisiyle ilgilidir."
+      ]
+    },
+    {
+      "question": "Atılan şut sayısı, vurulan smaç sayısı, boy uzunluğu hangi ölçme türüne girmektedir?",
+      "options": [
+        "Doğrudan",
+        "Dolaylı",
+        "Türetilmiş",
+        "Bağıl",
+        "Mutlak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Şut sayısı, smaç sayısı ve boy uzunluğu gibi özellikler, herhangi bir hesaplama ya da aracı göstergeye gerek kalmadan doğrudan gözlem veya sayma yoluyla ölçülebilir. Bu nedenle bu örnekler doğrudan ölçmeye girer; doğrudan ölçme, güvenirliği en yüksek ölçme türüdür.",
+      "optionNotes": [
+        "Doğru yanıt: Şut sayısı, smaç sayısı ve boy uzunluğu doğrudan gözlem veya sayma yoluyla, başka bir hesaplamaya gerek kalmadan ölçülür; bu doğrudan ölçmeye örnektir.",
+        "Dolaylı ölçme, doğrudan gözlemlenemeyen bir özelliğin, ondan etkilenen başka bir gösterge aracılığıyla (örn. zekânın test puanıyla) ölçülmesidir; burada ise doğrudan sayma/gözlem söz konusudur.",
+        "Türetilmiş ölçme, en az iki ölçüm sonucunun bir formülle birleştirilmesini gerektirir (örn. hız=yol/zaman); burada tek bir doğrudan ölçüm yeterlidir, formül gerekmez.",
+        "Bağıl, göreceli/karşılaştırmalı bir ölçüt ya da sıfır türü kavramıdır; doğrudan/dolaylı/türetilmiş şeklindeki ölçme türü sınıflamasına ait değildir.",
+        "Mutlak, gerçek sıfır noktasını ifade eden bir ölçüt/ölçek kavramıdır; bu sorudaki ölçme türü sınıflamasına (doğrudan/dolaylı/türetilmiş) karşılık gelmez."
+      ]
+    },
+    {
+      "question": "I. Doğrudan Ölçme II. Dolaylı Ölçme III. Türetilmiş Ölçme\nYukarıdakilerden hangileri ölçme türleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ölçme, literatürde doğrudan, dolaylı ve türetilmiş ölçme olmak üzere üç temel türe ayrılır. Bu üç tür birbirini tamamlayan bir sınıflama oluşturur; bu nedenle I, II ve III'ün tamamı doğru kabul edilmelidir.",
+      "optionNotes": [
+        "Sadece doğrudan ölçmeyi doğru sayar, ancak dolaylı ve türetilmiş ölçme de literatürde tanımlanan geçerli ölçme türleridir; bu seçenek eksik bir sınıflama sunar.",
+        "Sadece dolaylı ölçmeyi doğru sayar; oysa doğrudan ve türetilmiş ölçme de tanınan ölçme türleridir, bu seçenek eksiktir.",
+        "Doğrudan ve dolaylı ölçmeyi kapsar ama türetilmiş ölçmeyi dışarıda bırakır; türetilmiş ölçme de (örn. hız, yoğunluk gibi formülle hesaplanan büyüklükler) üçüncü temel ölçme türüdür.",
+        "Dolaylı ve türetilmiş ölçmeyi kapsar ama en temel ölçme türü olan doğrudan ölçmeyi dışarıda bırakır, bu nedenle eksiktir.",
+        "Doğru yanıt: Literatürde ölçme; doğrudan, dolaylı ve türetilmiş ölçme olmak üzere üç temel türe ayrılır, bu nedenle I, II ve III'ün tümü doğrudur."
+      ]
+    },
+    {
+      "question": "Katılımcıların yarısı yüzme bilen, diğer yarısı ise yüzme bilmeyen bir grubu uygun gruplara ayırarak eğitim vermek ölçme değerlendirmenin hangi amacıyla ilgilidir?",
+      "options": [
+        "Yerleştirme",
+        "Tanı(Teşhis)",
+        "Başarının değerlendirilmesi",
+        "Motivasyon",
+        "Tahmin (Kestirim)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Katılımcıları mevcut bilgi/beceri düzeylerine (yüzme bilen-bilmeyen) göre uygun gruplara ayırarak eğitim planlamak, yerleştirme amacının tipik bir örneğidir. Yerleştirmede amaç, bireyleri düzeylerine en uygun öğretim ortamına veya grubuna yönlendirmektir.",
+      "optionNotes": [
+        "Doğru yanıt: Katılımcıları mevcut bilgi/beceri düzeylerine göre uygun gruplara ayırarak eğitim planlamak, yerleştirme amacının klasik bir örneğidir.",
+        "Tanı (teşhis), bireyin eksik veya hatalı öğrenmelerinin nedenini araştırmaya yöneliktir; burada amaç neden araştırmak değil, mevcut düzeye göre gruplama yapmaktır.",
+        "Başarının değerlendirilmesi, bir öğretim sürecinin sonunda ulaşılan başarı düzeyini belirlemeye yöneliktir; burada eğitim henüz başlamadan önce gruplama yapılmaktadır.",
+        "Motivasyon amacı, ölçme sonuçlarının bireyi çalışmaya özendirmek için kullanılmasıyla ilgilidir, gruplara ayırma işlemiyle doğrudan ilişkili değildir.",
+        "Tahmin (kestirim), mevcut ölçme sonuçlarından yola çıkarak gelecekteki bir performansı öngörmeyi ifade eder; burada amaç gelecek tahmini değil, mevcut düzeye göre gruplamadır."
+      ]
+    },
+    {
+      "question": "…………..ölçme ile güvenirliği ve geçerliği yüksek bir ölçme elde edilmektedir.\nYukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Doğrudan",
+        "Dolaylı",
+        "Türetilmiş",
+        "Bağıl",
+        "Mutlak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Doğrudan ölçmede özellik, herhangi bir aracı gösterge kullanılmadan doğrudan gözlemlenip ölçüldüğünden ek hata kaynakları devreye girmez. Bu durum, doğrudan ölçmenin dolaylı ve türetilmiş ölçmeye kıyasla güvenirlik ve geçerliğinin daha yüksek olmasını sağlar.",
+      "optionNotes": [
+        "Doğru yanıt: Doğrudan ölçmede özellik aracısız biçimde doğrudan gözlemlenip ölçüldüğünden hata kaynağı azalır, bu da ölçmenin güvenirlik ve geçerliğini artırır.",
+        "Dolaylı ölçmede özellik başka bir gösterge üzerinden tahmin edildiğinden ek hata kaynakları devreye girer, bu da güvenirlik ve geçerliği doğrudan ölçmeye göre düşürür.",
+        "Türetilmiş ölçme, birden fazla ölçüm sonucunun birleştirilmesine dayandığından her bir ölçümün hata payı birikir, bu da güvenirliği doğrudan ölçmeye göre azaltabilir.",
+        "Bağıl, bir sıfır/ölçüt türü kavramıdır; güvenirlik-geçerlik açısından en yüksek değeri taşıyan ölçme türü olarak tanımlanan doğrudan ölçmenin yerine konamaz.",
+        "Mutlak, gerçek bir sıfır noktasına sahip ölçek/ölçüt türünü ifade eder; cümledeki boşluğa ölçme türü (doğrudan/dolaylı/türetilmiş) sınıflamasından biri gelmelidir."
+      ]
+    },
+    {
+      "question": "……………ölçme yapılabilmesi için en az iki ölçme sonucunun olması şarttır.\nYukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Doğrudan",
+        "Dolaylı",
+        "Türetilmiş",
+        "Bağıl",
+        "Mutlak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Türetilmiş ölçme, en az iki doğrudan ya da dolaylı ölçme sonucunun belirli bir formülle (örneğin hız = yol / zaman) birleştirilmesiyle elde edilir. Bu nedenle türetilmiş ölçme yapabilmek için birden fazla ölçüm sonucuna sahip olmak gereklidir.",
+      "optionNotes": [
+        "Doğrudan ölçme, tek bir gözlem/sayma işlemiyle tamamlanır; en az iki ölçme sonucuna ihtiyaç duymaz.",
+        "Dolaylı ölçmede de genellikle tek bir gösterge üzerinden (örn. bir test puanı) sonuca gidilir, iki ayrı ölçüm sonucunun birleştirilmesi şartı yoktur.",
+        "Doğru yanıt: Türetilmiş ölçme, en az iki doğrudan ya da dolaylı ölçme sonucunun bir formülle (örn. hız=yol/zaman) birleştirilmesiyle elde edilir.",
+        "Bağıl, göreceli bir ölçüt/sıfır türünü ifade eder; ölçme sonuçlarının sayısıyla ilgili bir tanım değildir.",
+        "Mutlak, gerçek sıfır noktası bulunan ölçek/ölçüt türünü ifade eder; en az iki ölçüm sonucu gerekliliğiyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "Zekâ, sıcaklık, akademik başarı hangi ölçme türüne girmektedir?",
+      "options": [
+        "Doğrudan",
+        "Dolaylı",
+        "Türetilmiş",
+        "Bağıl",
+        "Mutlak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zekâ, sıcaklık ve akademik başarı gibi özellikler doğrudan gözlemlenemez; bunlar, kendilerinden etkilenen gözlemlenebilir bir gösterge aracılığıyla ölçülür (örneğin zekâ bir test puanıyla, sıcaklık cıvanın yükselmesiyle). Bu nedenle bu örnekler dolaylı ölçmeye girer.",
+      "optionNotes": [
+        "Zekâ, sıcaklık ve akademik başarı gözle doğrudan görülüp sayılamaz; bu özellikler doğrudan gözlemle değil, bir gösterge aracılığıyla ölçülür.",
+        "Doğru yanıt: Zekâ, sıcaklık ve akademik başarı gibi doğrudan gözlemlenemeyen özellikler, onlardan etkilenen gözlemlenebilir bir gösterge (test puanı, cıva yüksekliği gibi) aracılığıyla ölçülür; bu dolaylı ölçmedir.",
+        "Türetilmiş ölçme, birden fazla ölçüm sonucunun formülle birleştirilmesini gerektirir; zekâ veya sıcaklık ölçümünde böyle bir birleştirme yoktur, doğrudan tek bir gösterge kullanılır.",
+        "Bağıl, bir ölçüt ya da sıfır türü kavramıdır, ölçme türü sınıflaması (doğrudan/dolaylı/türetilmiş) değildir.",
+        "Mutlak, gerçek sıfır noktasını ifade eden bir ölçek/ölçüt kavramıdır, burada sorulan ölçme türü sınıflamasına karşılık gelmez."
+      ]
+    },
+    {
+      "question": "I. Eşitlik II. Genellik III. Kullanışlılık\nYukarıdakilerden hangileri ölçme biriminin özellikleri arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "İyi bir ölçme biriminde eşitlik (her yerde aynı büyüklüğü temsil etmesi), genellik (yaygın olarak kabul görmesi) ve kullanışlılık (kolay uygulanabilir ve pratik olması) özelliklerinin üçü de birlikte bulunmalıdır. Bu nedenle I, II ve III'ün tamamı doğrudur.",
+      "optionNotes": [
+        "Sadece eşitliği kabul eder; oysa genellik ve kullanışlılık da iyi bir ölçme biriminde bulunması gereken temel özelliklerdir, bu seçenek eksiktir.",
+        "Sadece genelliği kabul eder; eşitlik ve kullanışlılık da ölçme biriminin aranan özellikleri arasındadır, bu seçenek eksiktir.",
+        "Eşitlik ve genelliği kapsar ama kullanışlılığı dışarıda bırakır; kullanışlılık da (birimin kolay uygulanabilir, pratik olması) aranan özelliklerden biridir.",
+        "Genellik ve kullanışlılığı kapsar ama en temel özellik olan eşitliği (birimlerin her yerde aynı büyüklüğü ifade etmesi) dışarıda bırakır.",
+        "Doğru yanıt: İyi bir ölçme biriminde eşitlik, genellik ve kullanışlılık özelliklerinin üçü de bulunmalıdır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi ölçek türlerinden biri değildir?",
+      "options": [
+        "Sınıflama",
+        "Sıralama",
+        "Eşit Aralıklı",
+        "Eşit Oranlı",
+        "Türetilmiş"
+      ],
+      "correctIndex": 4,
+      "explanation": "Dört temel ölçek türü sınıflama, sıralama, eşit aralıklı ve eşit oranlı ölçektir. 'Türetilmiş' ise bir ölçek türü değil, birden fazla ölçüm sonucunun formülle birleştirilmesiyle elde edilen bir ölçme türüdür; bu nedenle ölçek türleri arasında yer almaz.",
+      "optionNotes": [
+        "Sınıflama ölçeği, nesneleri niteliklerine göre kategorilere ayıran, dört temel ölçek türünden biridir, dolayısıyla doğru bir ölçek türüdür.",
+        "Sıralama ölçeği, birimleri bir özellik bakımından büyükten küçüğe veya küçükten büyüğe dizen, tanınan bir ölçek türüdür.",
+        "Eşit aralıklı ölçek, ardışık birimler arasındaki farkın sabit olduğu, gerçek sıfır noktası bulunmayan bilinen bir ölçek türüdür.",
+        "Eşit oranlı ölçek, gerçek/mutlak sıfır noktasına sahip, en gelişmiş düzeydeki tanınan ölçek türüdür.",
+        "Doğru yanıt: Türetilmiş, bir ölçme türüdür (birden fazla ölçümün formülle birleştirilmesi); sınıflama, sıralama, eşit aralıklı ve eşit oranlı gibi dört temel ölçek türünden biri değildir."
+      ]
+    },
+    {
+      "question": "Bilimsel anlamdaki ölçmelerde kullanılan en basit düzeydeki ve en az anlam içeren bilginin elde edilebileceği ölçek türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Sıralama",
+        "Eşit Aralıklı",
+        "Eşit Oranlı",
+        "Sınıflama",
+        "Doğrudan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sınıflama ölçeği, birimleri yalnızca ortak özelliklerine göre kategorilere ayırır; büyüklük-küçüklük, eşit aralık ya da oran bilgisi vermez. Bu nedenle dört ölçek türü arasında en basit ve en az bilgi içeren ölçek türüdür.",
+      "optionNotes": [
+        "Sıralama ölçeği, sınıflamadan daha fazla bilgi verir çünkü birimler arasında büyüklük-küçüklük ilişkisini de gösterir; en basit düzey bu değildir.",
+        "Eşit aralıklı ölçek, birimler arası farkların da ölçülebildiği, sınıflama ve sıralamadan daha ileri düzeyde bilgi veren bir ölçektir.",
+        "Eşit oranlı ölçek, gerçek sıfır noktasına sahip olup dört ölçek türü arasında en fazla bilgi içeren, en gelişmiş düzeydeki ölçektir.",
+        "Doğru yanıt: Sınıflama ölçeği, birimleri yalnızca ortak özelliklerine göre kategorilere ayırır; sıralama, eşit aralık gibi ek bilgi vermediğinden en basit ve en az bilgi içeren ölçek türüdür.",
+        "Doğrudan, bir ölçme türüdür (ölçek türü değildir); bu soru ise ölçek türlerinin bilgi düzeyini sormaktadır."
+      ]
+    },
+    {
+      "question": "Her birimden kaç tane olduğunu gösteren sayı aşağıdakilerden hangisidir?",
+      "options": [
+        "Mod",
+        "Frekans",
+        "Medyan",
+        "Standart sapma",
+        "Aritmetik ortalama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frekans, bir veri setindeki her bir değerin veya birimin kaç kez tekrar ettiğini gösteren sayıdır. Bu tanım, frekansın istatistikteki temel anlamını doğrudan ifade eder.",
+      "optionNotes": [
+        "Mod, bir veri setinde en yüksek frekansa sahip olan (en çok tekrar eden) değerin kendisidir, frekansın tanımı değildir.",
+        "Doğru yanıt: Frekans, bir veri setindeki her bir birimin/değerin kaç kez tekrar ettiğini gösteren sayıdır.",
+        "Medyan, sıralı bir veri setini ortadan ikiye bölen değerdir, tekrar sayısıyla ilgili değildir.",
+        "Standart sapma, veri setindeki değerlerin ortalamadan ne kadar yayıldığını gösteren bir dağılım ölçüsüdür, tekrar sayısı değildir.",
+        "Aritmetik ortalama, veri setindeki tüm değerlerin toplamının veri sayısına bölünmesiyle bulunan merkezi eğilim ölçüsüdür, tekrar sayısını göstermez."
+      ]
+    },
+    {
+      "question": "Bir veri setinde çok tekrar eden birime ne ad verilir?",
+      "options": [
+        "Frekans",
+        "Medyan",
+        "Standart sapma",
+        "Aritmetik ortalama",
+        "Mod"
+      ],
+      "correctIndex": 4,
+      "explanation": "Mod, bir veri setinde en sık tekrar eden, en yüksek frekansa sahip olan değerdir. Frekans tekrar sayısını gösterirken, mod bu en çok tekrar eden değerin kendisini ifade eder.",
+      "optionNotes": [
+        "Frekans, bir değerin kaç kez tekrar ettiğini gösteren sayıdır; soruda sorulan ise en çok tekrar eden birimin kendisidir, frekans bu tekrarın sayısal ifadesidir.",
+        "Medyan, veri setini büyüklük sırasına göre ortadan ikiye bölen değerdir, tekrar sıklığıyla ilgili değildir.",
+        "Standart sapma, verilerin ortalama etrafındaki yayılımını gösterir, en çok tekrar eden değeri ifade etmez.",
+        "Aritmetik ortalama, tüm değerlerin toplanıp veri sayısına bölünmesiyle elde edilen bir merkezi değerdir, tekrar sıklığıyla ilgisi yoktur.",
+        "Doğru yanıt: Mod, bir veri setinde en sık tekrar eden, en yüksek frekansa sahip olan birim/değerdir."
+      ]
+    },
+    {
+      "question": "Termometre, takvim hangi ölçek türüne girmektedir?",
+      "options": [
+        "Sıralama",
+        "Eşit Aralıklı",
+        "Eşit Oranlı",
+        "Sınıflama",
+        "Dolaylı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Termometre (örneğin Celsius) ve takvim, ardışık birimler arasındaki farkın sabit olduğu ancak gerçek bir sıfır noktasının bulunmadığı ölçeklerdir. Bu özellik onları eşit aralıklı ölçeğin tipik örnekleri yapar.",
+      "optionNotes": [
+        "Sıralama ölçeği birimler arasında yalnızca büyüklük-küçüklük ilişkisi kurar, eşit aralık garanti etmez; termometre ve takvimde ise birimler arası farklar sabittir.",
+        "Doğru yanıt: Termometre ve takvim, ardışık birimler arasındaki farkın sabit/eşit olduğu ancak gerçek bir sıfır noktasının bulunmadığı eşit aralıklı ölçeğe örnektir.",
+        "Eşit oranlı ölçek gerçek bir sıfır noktası gerektirir; Celsius'ta 0 derece 'sıcaklığın hiç olmaması' anlamına gelmez, bu nedenle termometre eşit oranlı değildir.",
+        "Sınıflama ölçeği birimleri sadece kategorilere ayırır, sıralama ya da eşit aralık bilgisi vermez; termometre ve takvim bundan daha fazla bilgi sunar.",
+        "Dolaylı, bir ölçme türüdür, ölçek türü (sınıflama/sıralama/eşit aralıklı/eşit oranlı) sınıflamasına ait değildir."
+      ]
+    },
+    {
+      "question": "Bir Antrenörün Kronometre ile zaman tutması, hangi ölçek türüne girmektedir?",
+      "options": [
+        "Sıralama",
+        "Eşit Aralıklı",
+        "Eşit Oranlı",
+        "Sınıflama",
+        "Dolaylı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kronometre ile tutulan zaman, gerçek/mutlak bir sıfır noktasına (0 saniye, hiç zaman geçmemesi anlamına gelir) sahiptir ve oranlı karşılaştırmalara (örneğin 10 saniye, 5 saniyenin iki katıdır) izin verir. Bu özellikler zamanı eşit oranlı ölçeğin bir örneği yapar.",
+      "optionNotes": [
+        "Sıralama ölçeği sadece büyüklük sırası bilgisi verir; kronometreyle tutulan zamanda hem sıralama hem eşit aralık hem de gerçek sıfır noktası bilgisi vardır, bu da onu sıralamadan daha ileri bir ölçek yapar.",
+        "Eşit aralıklı ölçekte gerçek bir sıfır noktası yoktur; kronometredeki '0' ise gerçekten 'hiç zaman geçmemiş olması' anlamına gelir, bu da ölçeği eşit aralıklıdan ayırır.",
+        "Doğru yanıt: Kronometreyle tutulan zaman, gerçek bir sıfır noktasına (0 saniye = hiç zaman geçmemesi) sahip olduğundan ve oranlı karşılaştırmalara izin verdiğinden eşit oranlı ölçeğe örnektir.",
+        "Sınıflama ölçeği sadece kategorik ayrım yapar, sayısal büyüklük veya sıfır noktası bilgisi içermez; zaman ölçümü bundan çok daha fazla bilgi sunar.",
+        "Dolaylı, bir ölçme türü sınıflamasıdır (ölçek türü değildir); ayrıca kronometreyle zaman tutmak doğrudan bir ölçme işlemidir."
+      ]
+    },
+    {
+      "question": "Birimlerin küçükten büyüğe sıralandığında veri setini ortadan ikiye bölen değer aşağıdakilerden hangisidir?",
+      "options": [
+        "Mod",
+        "Medyan",
+        "Standart sapma",
+        "Frekans",
+        "Aritmetik ortalama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Medyan (ortanca), veriler küçükten büyüğe sıralandığında veri setini ortadan ikiye bölen değerdir. Uç değerlerden aritmetik ortalamaya göre daha az etkilenir, bu nedenle çarpık dağılımlarda tercih edilen bir merkezi eğilim ölçüsüdür.",
+      "optionNotes": [
+        "Mod, veri setinde en çok tekrar eden değerdir, sıralı dizinin ortasındaki değeri değil, en sık görüleni ifade eder.",
+        "Doğru yanıt: Medyan (ortanca), veriler küçükten büyüğe sıralandığında veri setini ortadan ikiye bölen değerdir.",
+        "Standart sapma, verilerin ortalama etrafındaki dağılım/yayılım derecesini gösterir, sıralı dizinin ortasındaki değeri ifade etmez.",
+        "Frekans, bir değerin veri setinde kaç kez tekrar ettiğini gösterir, sıralamadaki orta değeri belirtmez.",
+        "Aritmetik ortalama, tüm değerlerin toplanıp veri sayısına bölünmesiyle bulunur; bu, sıralı dizinin tam ortasındaki değer olan medyandan farklıdır ve uç değerlerden etkilenir."
+      ]
+    },
+    {
+      "question": "Başarılı – başarısız  Türkiye’nin bölgeleri  İllerin telefon kodları\nYukarıda örnekleri verilen ölçek türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Sınıflama Ölçeği",
+        "Sıralama Ölçeği",
+        "Eşit Aralıklı Ölçek",
+        "Eşit Oranlı Ölçek",
+        "Türetilmiş Ölçek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Başarılı-başarısız, bölgeler ve telefon kodları gibi örnekler, birimleri sadece ortak özelliklerine göre kategorilere ayırır; aralarında büyüklük-küçüklük ya da sayısal bir ilişki bulunmaz. Bu, sınıflama ölçeğinin temel özelliğidir.",
+      "optionNotes": [
+        "Doğru yanıt: Başarılı-başarısız, bölgeler ve telefon kodları gibi örnekler birimleri sadece ortak özelliklerine göre kategorilere ayırır, aralarında büyüklük-küçüklük ya da sayısal bir ilişki yoktur; bu sınıflama ölçeğinin özelliğidir.",
+        "Sıralama ölçeği, kategoriler arasında büyükten küçüğe bir dizilim gerektirir; başarılı-başarısız veya telefon kodları arasında böyle bir sıra/büyüklük ilişkisi yoktur.",
+        "Eşit aralıklı ölçek, birimler arasında sabit sayısal farkların bulunmasını gerektirir; verilen örnekler sayısal büyüklük taşımayan kategorik verilerdir.",
+        "Eşit oranlı ölçek, gerçek sıfır noktasına sahip sayısal verileri gerektirir; bölge adları veya telefon kodları sayısal büyüklük ifade etmez, sadece etiket/kategoridir.",
+        "Türetilmiş, bir ölçme türüdür (birden fazla ölçümün formülle birleştirilmesi), ölçek türü sınıflamasına ait değildir."
+      ]
+    },
+    {
+      "question": "I. Mutlak II. Bağıl III. Eşit\nYukarıdakilerden hangileri ölçmede kullanılan sıfırlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ölçmede kullanılan sıfırlar mutlak sıfır (gerçek, 'hiç yokluk' ifade eden sıfır) ve bağıl sıfır (keyfi/göreceli olarak belirlenen başlangıç noktası) olmak üzere ikiye ayrılır. 'Eşit sıfır' diye bir kavram ölçme literatüründe tanımlanmadığından yalnızca I ve II doğrudur.",
+      "optionNotes": [
+        "Sadece mutlak sıfırı kabul eder; bağıl sıfır da ölçmede tanımlanan diğer temel sıfır türüdür, bu seçenek eksiktir.",
+        "Sadece bağıl sıfırı kabul eder; mutlak sıfır da ölçmede tanımlanan diğer temel sıfır türüdür, bu seçenek eksiktir.",
+        "Doğru yanıt: Ölçmede kullanılan sıfırlar mutlak sıfır ve bağıl sıfır olmak üzere ikiye ayrılır; 'eşit sıfır' diye bir ölçme kavramı yoktur.",
+        "Bağıl sıfırı doğru kabul eder ancak 'eşit sıfır' diye bir kavram ölçme literatüründe yer almaz; bu seçenek var olmayan bir kavramı içerdiği için hatalıdır.",
+        "Mutlak ve bağıl sıfırı doğru kabul eder ancak listeye 'eşit sıfır' gibi literatürde tanımlanmayan bir kavramı da dahil eder, bu nedenle hatalıdır."
+      ]
+    },
+    {
+      "question": "Boy uzunluğu, akademik başarı puanı, zeka puanı, ağırlık, yaş gibi örnekler hangi değişken türüne girmektedir?",
+      "options": [
+        "Nicel Değişken",
+        "Nitel Değişken",
+        "Sürekli Değişken",
+        "Süreksiz Değişken",
+        "Bağımlı Değişken"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boy, akademik başarı puanı, zekâ puanı, ağırlık ve yaş sayısal değerlerle ifade edilen özelliklerdir. Sayısal olarak ifade edilebilen bu tür değişkenlerin genel ve kapsayıcı adı nicel değişkendir.",
+      "optionNotes": [
+        "Doğru yanıt: Boy, başarı puanı, zekâ puanı, ağırlık ve yaş sayısal değerlerle ifade edilen özelliklerdir; bu tür değişkenler nicel değişken kategorisine girer.",
+        "Nitel değişken, sayısal olmayan, kategorik olarak ifade edilen özelliklerdir (örn. cinsiyet, medeni durum); burada verilen örneklerin tümü sayısaldır, nitel değildir.",
+        "Sürekli değişken, nicel değişkenin bir alt türüdür; soru genel kategoriyi (nicel) sormaktadır, ayrıca verilen örneklerin tamamı sürekli değişken sınıfına girmek zorunda değildir.",
+        "Süreksiz değişken, sadece belirli ve sınırlı değerler alan nicel değişken alt türüdür; verilen örneklerin genel sınıflandırması daha kapsayıcı olan nicel kategorisidir.",
+        "Bağımlı değişken, başka bir değişkene bağlı olarak değer alan değişkeni ifade eder; bu ayrım nicel/nitel ayrımından farklı, neden-sonuç ilişkisine dayanan bir sınıflamadır."
+      ]
+    },
+    {
+      "question": "Bir değişkenin, iki değeri arasında ya hiç başka değer bulunmadığı ya da bulunan değerlerin birkaç değerle sınırlı kaldığı değişkene ne ad verilir?",
+      "options": [
+        "Nicel Değişken",
+        "Nitel Değişken",
+        "Sürekli Değişken",
+        "Süreksiz Değişken",
+        "Bağımlı Değişken"
+      ],
+      "correctIndex": 3,
+      "explanation": "Süreksiz (kesikli) değişken, iki değer arasında hiç ara değer bulunmayan veya bulunan ara değerlerin sınırlı sayıda olduğu değişkendir; kişi sayısı, kardeş sayısı gibi örnekler bu gruba girer. Bu özellik, süreksiz değişkeni sürekli değişkenden ayırır.",
+      "optionNotes": [
+        "Nicel değişken, sayısal olarak ifade edilen değişkenlerin genel adıdır; hem sürekli hem süreksiz değişkenleri kapsar, bu sorudaki özel tanımı (ara değer sınırlılığı) tam karşılamaz.",
+        "Nitel değişken, sayısal olmayan kategorik değişkenleri ifade eder; soru sayısal ara değerlerin sınırlılığından bahsetmektedir, bu nicel bir ayrımdır.",
+        "Sürekli değişken, tam tersine iki değer arasında teorik olarak sonsuz sayıda ara değerin bulunabildiği değişkendir; tanım bu sorudakinin zıttıdır.",
+        "Doğru yanıt: Süreksiz (kesikli) değişken, iki değer arasında hiç ara değer bulunmayan veya bulunan ara değerlerin sınırlı sayıda olduğu değişkendir (örn. kişi sayısı, kardeş sayısı).",
+        "Bağımlı değişken, başka bir değişkene bağlı olarak değer alan değişkendir; bu sınıflandırma, sürekli/süreksiz ayrımındaki ara değer sayısıyla ilgili değildir."
+      ]
+    },
+    {
+      "question": "Başka bir değişkene bağlı olmadan değer alabilen değişkenlere ne ad verilir?",
+      "options": [
+        "Nitel Değişken",
+        "Bağımsız Değişken",
+        "Sürekli Değişken",
+        "Süreksiz Değişken",
+        "Bağımlı Değişken"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bağımsız değişken, araştırmacı tarafından kontrol edilen veya değeri başka bir değişkene bağlı olmayan, kendi başına değer alabilen değişkendir. Bu özellik onu, değeri başka bir değişkenin etkisiyle değişen bağımlı değişkenden ayırır.",
+      "optionNotes": [
+        "Nitel değişken, sayısal olmayan kategorik özellikleri ifade eder; soru ise bir değişkenin başka bir değişkene bağlılığı/bağımsızlığı ile ilgilidir, bu farklı bir sınıflama boyutudur.",
+        "Doğru yanıt: Bağımsız değişken, değeri başka bir değişkene bağlı olmayan, kendi başına değer alabilen değişkendir.",
+        "Sürekli değişken, iki değer arasında sonsuz ara değer bulunan değişken türüdür; bu, değişkenin başka bir değişkene bağlı olup olmamasıyla ilgili değildir.",
+        "Süreksiz değişken, sınırlı sayıda değer alabilen değişken türüdür; bağımlılık/bağımsızlık ayrımıyla ilgili değildir.",
+        "Bağımlı değişken, tam tersine başka bir değişkenin etkisiyle değer alan değişkendir; sorudaki tanımın zıttını ifade eder."
+      ]
+    },
+    {
+      "question": "Değişkenlere bağlı olarak farklı değerler alabilen değişkenlere ne ad verilir?",
+      "options": [
+        "Bağımsız Değişken",
+        "Nitel Değişken",
+        "Sürekli Değişken",
+        "Süreksiz Değişken",
+        "Bağımlı Değişken"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bağımlı değişken, başka bir (bağımsız) değişkenin etkisi sonucunda farklı değerler alan, araştırmada genellikle sonuç olarak ölçülen değişkendir. Bu tanım, bağımlı değişkeni bağımsız değişkenden ayıran temel noktadır.",
+      "optionNotes": [
+        "Bağımsız değişken, tam tersine başka bir değişkene bağlı olmadan kendi başına değer alabilen değişkendir; sorudaki tanımın zıttıdır.",
+        "Nitel değişken, sayısal olmayan kategorik özellikleri ifade eder; bu sınıflama bağımlılık/bağımsızlık ayrımıyla ilgili değildir.",
+        "Sürekli değişken, iki değer arasında sonsuz ara değer bulunabilen nicel değişken türüdür; değişkenin başka bir değişkene bağlılığıyla ilgili bir tanım değildir.",
+        "Süreksiz değişken, sınırlı sayıda değer alabilen nicel değişken türüdür; bağımlılık ayrımı ile ilgisi yoktur.",
+        "Doğru yanıt: Bağımlı değişken, başka bir (bağımsız) değişkenin etkisi sonucunda farklı değerler alan, araştırmada sonuç olarak ölçülen değişkendir."
+      ]
+    },
+    {
+      "question": "Hız, yaş, denklem problemleri çözerken hangi ölçmeden yararlanılmaktadır?",
+      "options": [
+        "Doğrudan",
+        "Dolaylı",
+        "Türetilmiş",
+        "Bağıl",
+        "Mutlak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hız (yol/zaman), yaş (belirli bir tarihten belirli bir tarihe geçen süre) ve denklem problemlerinin çözümü, en az iki ölçüm sonucunun bir formülle birleştirilmesini gerektirir. Bu nedenle bu örnekler türetilmiş ölçmeye girer.",
+      "optionNotes": [
+        "Doğrudan ölçme, tek bir gözlem veya sayma işlemiyle sonuca ulaşır; hız veya yaş hesaplama gibi işlemler ise birden fazla ölçümün birleştirilmesini (formül kullanımını) gerektirir.",
+        "Dolaylı ölçme, gözlemlenemeyen bir özelliğin tek bir gösterge üzerinden tahmin edilmesidir; hız ve yaş hesaplamada ise birden fazla ölçüm sonucu bir formülle birleştirilir.",
+        "Doğru yanıt: Hız, yaş ve denklem problemlerinin çözümü, en az iki ölçüm sonucunun bir formülle (örn. hız=yol/zaman) birleştirilmesini gerektirdiğinden türetilmiş ölçmeye örnektir.",
+        "Bağıl, bir ölçüt/sıfır türü kavramıdır, ölçme türü sınıflamasına (doğrudan/dolaylı/türetilmiş) ait değildir.",
+        "Mutlak, gerçek sıfır noktasını ifade eden bir kavramdır, bu sorudaki ölçme türü sınıflamasına karşılık gelmez."
+      ]
+    },
+    {
+      "question": "Süper ligdeki takımların puan sıraları, hangi ölçek türüne girmektedir?",
+      "options": [
+        "Sıralama",
+        "Eşit Aralıklı",
+        "Eşit Oranlı",
+        "Sınıflama",
+        "Dolaylı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Takımların puanlarına göre oluşturulan sıralama (1., 2., 3. sıra gibi), takımlar arasında sadece büyüklük-küçüklük ilişkisi kurar; sıralar arasındaki farkın eşit olmasını garanti etmez. Bu özellik, lig sıralamasını sıralama ölçeğinin bir örneği yapar.",
+      "optionNotes": [
+        "Doğru yanıt: Takımların puanlarına göre oluşturulan sıralama, takımlar arasında sadece büyüklük-küçüklük ilişkisi kurar, bu nedenle sıralama ölçeğine örnektir.",
+        "Eşit aralıklı ölçek, sıralar arasındaki farkların sabit/eşit olmasını gerektirir; ligde 1. ile 2. takım arasındaki puan farkı, 2. ile 3. arasındaki farkla aynı olmak zorunda değildir, dolayısıyla bu sadece bir sıra bilgisidir.",
+        "Eşit oranlı ölçek gerçek bir sıfır noktası ve oranlı karşılaştırma gerektirir; takımların sıradaki konumu oranlı bir büyüklük ifade etmez, sadece sırayı gösterir.",
+        "Sınıflama ölçeği, birimleri sadece kategorilere ayırır, aralarında büyüklük-küçüklük ilişkisi kurmaz; oysa lig sıralamasında takımlar arasında belirgin bir büyüklük sırası vardır.",
+        "Dolaylı, bir ölçme türüdür, ölçek türü sınıflamasına (sınıflama/sıralama/eşit aralıklı/eşit oranlı) ait değildir."
+      ]
+    },
+    {
+      "question": "Bir ölçme işleminden elde edilen ölçme sonuçlarının bir ölçütle karşılaştırılarak ölçülen özellik hakkında bir karara varma sürecine ne ad verilir?",
+      "options": [
+        "Nitelik",
+        "Ölçme kuralı",
+        "Ölçüm",
+        "Ölçüt",
+        "Değerlendirme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Değerlendirme, ölçme sonucunun önceden belirlenmiş bir ölçütle karşılaştırılarak ölçülen özellik hakkında bir yargıya/karara ulaşılması sürecidir. Bu tanım, değerlendirmeyi ölçme işleminin bir sonraki ve yorumlayıcı aşaması olarak tanımlar.",
+      "optionNotes": [
+        "Nitelik, ölçülmek istenen özelliğin kendisidir (örn. hız, zekâ); ölçme sonucunu bir ölçütle karşılaştırıp karar verme sürecini ifade etmez.",
+        "Ölçme kuralı, bir özelliğe sayı ya da sembol atfetme işleminde izlenen yöntemi ifade eder, karşılaştırma yoluyla karar verme sürecinin adı değildir.",
+        "Ölçüm, ölçme işleminin sonucunda elde edilen sayısal/sembolik değerin kendisidir, bu değerin bir ölçütle karşılaştırılıp yorumlanması sürecini ifade etmez.",
+        "Ölçüt, ölçme sonuçlarının karşılaştırıldığı sabit değer/kriterin kendisidir; karşılaştırma sonucunda karara varma sürecinin adı değil, karşılaştırmada kullanılan dayanak noktasıdır.",
+        "Doğru yanıt: Değerlendirme, ölçme sonucunun bir ölçütle karşılaştırılarak ölçülen özellik hakkında bir yargıya/karara ulaşılması sürecidir."
+      ]
+    },
+    {
+      "question": "I. Eşit oranlı ölçüt II. Mutlak Ölçüt III. Bağıl Ölçüt\nYukarıdakilerden hangisi değerlendirme ögeleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 3,
+      "explanation": "Değerlendirmede ölçme sonuçları, önceden belirlenmiş sabit bir standarda göre (mutlak ölçüt) ya da grup içindeki diğer bireylerle karşılaştırılarak (bağıl ölçüt) yorumlanır. 'Eşit oranlı ölçüt' ise bir değerlendirme ölçütü değil, bir ölçek türüdür (eşit oranlı ölçek); bu nedenle doğru yanıt yalnız II ve III'tür.",
+      "optionNotes": [
+        "Sadece eşit oranlı ölçütü kabul eder; ancak 'eşit oranlı', bir ölçek türüdür, değerlendirme ölçütü (mutlak/bağıl) sınıflamasına ait bir kavram değildir.",
+        "Sadece mutlak ölçütü kabul eder; bağıl ölçüt de değerlendirmede kullanılan diğer temel ölçüt türüdür, bu seçenek eksiktir.",
+        "Mutlak ölçütü doğru kabul eder ancak 'eşit oranlı ölçüt' diye bir değerlendirme ölçütü türü yoktur (eşit oranlı bir ölçek türüdür), bu nedenle hatalıdır.",
+        "Doğru yanıt: Değerlendirmede sonuçlar, önceden belirlenmiş sabit bir standarda göre (mutlak ölçüt) ya da grup içindeki diğer bireylere göre (bağıl ölçüt) karşılaştırılır; bunlar değerlendirmenin temel ölçüt türleridir.",
+        "Mutlak ve bağıl ölçütü doğru kabul eder ancak listeye 'eşit oranlı ölçüt' gibi gerçekte bir ölçek türü olan, değerlendirme ölçütü olmayan bir kavramı da dahil eder, bu nedenle hatalıdır."
+      ]
+    },
+    {
+      "question": "Ölçme sonuçlarının karşılaştırıldığı ve değerlendirmeye dayanak olarak belirlenmiş sabit değer ya da kritere ne ad verilir?",
+      "options": [
+        "Nitelik",
+        "Ölçme kuralı",
+        "Ölçüm",
+        "Ölçüt",
+        "Değerlendirme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ölçüt, ölçme sonuçlarının karşılaştırıldığı, değerlendirmeye temel oluşturan önceden belirlenmiş sabit değer veya kriterdir. Değerlendirme sürecinde elde edilen ölçme sonucu, anlam kazanması için bu ölçütle karşılaştırılır.",
+      "optionNotes": [
+        "Nitelik, ölçülen özelliğin kendisidir (örn. hız, ağırlık), karşılaştırma için kullanılan sabit değeri ifade etmez.",
+        "Ölçme kuralı, bir özelliğe sayı/sembol verme sürecinde izlenen yöntemdir, karşılaştırma standardı olan sabit değeri ifade etmez.",
+        "Ölçüm, ölçme işleminin sonucunda elde edilen değerin kendisidir; karşılaştırma yapılan sabit referans değeri değil, ölçülen sonucu ifade eder.",
+        "Doğru yanıt: Ölçüt, ölçme sonuçlarının karşılaştırıldığı, değerlendirmeye temel oluşturan önceden belirlenmiş sabit değer veya kriterdir.",
+        "Değerlendirme, ölçme sonucunun bir ölçütle karşılaştırılarak karara varılması sürecidir; ölçütün kendisi değil, onu kullanan süreçtir."
+      ]
+    },
+    {
+      "question": "Boyu 185 cm’den uzun olanlar takıma girer ifadesi hangi ölçüt türüne girmektedir?",
+      "options": [
+        "Doğrudan ölçüt",
+        "Dolaylı ölçüt",
+        "Türetilmiş ölçüt",
+        "Mutlak ölçüt",
+        "Bağıl ölçüt"
+      ],
+      "correctIndex": 3,
+      "explanation": "'185 cm'den uzun olma' şartı, grup performansından bağımsız olarak önceden belirlenmiş sabit bir standarttır; kimin takıma gireceği diğer katılımcıların boyuna göre değil, bu sabit eşiğe göre belirlenir. Bu nedenle bu ifade mutlak ölçüte örnektir.",
+      "optionNotes": [
+        "'Doğrudan ölçüt' şeklinde bir değerlendirme ölçütü sınıflaması bulunmamaktadır; doğrudan kavramı ölçme türleri sınıflamasında kullanılır, ölçüt türlerinde değil.",
+        "'Dolaylı ölçüt' değerlendirme ölçütü sınıflamasında yer alan bir kavram değildir; dolaylı, ölçme türleri sınıflamasına ait bir terimdir.",
+        "'Türetilmiş ölçüt' diye bir değerlendirme ölçütü türü yoktur; türetilmiş, birden fazla ölçümün formülle birleştirildiği bir ölçme türüdür, ölçüt sınıflaması değildir.",
+        "Doğru yanıt: '185 cm'den uzun olma' şartı, grup performansından bağımsız olarak önceden belirlenmiş sabit bir standarttır; bu nedenle mutlak ölçüte örnektir.",
+        "Bağıl ölçüt, bireyin performansının grup içindeki diğer bireylerle karşılaştırılmasına dayanır (örn. en uzun boylu %10); burada ise grup performansına bakılmaksızın sabit bir eşik (185 cm) kullanılmaktadır, bu bağıl değil mutlak ölçüttür."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 1,
+  "topic": "Antrenörlük Mesleğine Giriş",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi spor ortamlarında yer alan ilişkiler örüntüsünden biri değildir?",
+      "options": [
+        "Antrenör",
+        "Sporcu",
+        "Hakem",
+        "Antrenman etkinlikleri",
+        "Veliler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spor ortamlarındaki temel ilişkiler örüntüsü; antrenör, sporcu, veliler ve antrenman etkinlikleri arasındaki etkileşimlerden oluşur. Hakem, müsabaka anında devreye giren ve kuralların uygulanmasıyla ilgili dışsal bir aktördür; antrenörlük sürecinin günlük ve gelişimsel ilişki ağının doğrudan bir bileşeni değildir, bu nedenle sporcu gelişimini şekillendiren temel ilişkiler örüntüsü içinde sayılmaz.",
+      "optionNotes": [
+        "Antrenör, spor ortamındaki ilişkiler örüntüsünün merkezinde yer alan ve sporcuyla doğrudan etkileşen temel bir unsurdur, bu nedenle bu soruda yanlış seçenektir.",
+        "Sporcu, ilişkiler örüntüsünün odağındaki kişidir; antrenör, veliler ve antrenman etkinlikleri onun gelişimi etrafında şekillenir, dolayısıyla bu seçenek yanlıştır.",
+        "Doğru yanıt: Hakem, müsabaka anında görev alan ve kuralların uygulanmasından sorumlu dışsal bir aktördür; antrenörlük sürecindeki günlük ve gelişimsel ilişkiler örüntüsünün (antrenör-sporcu-veli-antrenman etkinlikleri) doğrudan bir parçası değildir.",
+        "Antrenman etkinlikleri, sporcunun gelişimini sağlayan içeriği oluşturduğu için ilişkiler örüntüsünün bir bileşeni sayılır, bu yüzden bu seçenek yanlıştır.",
+        "Veliler, özellikle çocuk ve genç sporcularda antrenör ve sporcuyla sürekli etkileşim içinde olan bir paydaş grubudur, bu nedenle ilişkiler örüntüsünün parçasıdır ve bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "question": "19. yüzyılda alt zümrelere ait sporları(örneğin boks, yürüyüş gibi) öğreten kişilere ne ad verilirdi?",
+      "options": [
+        "Coaching",
+        "Character",
+        "Caring",
+        "Competence",
+        "Trainer"
+      ],
+      "correctIndex": 4,
+      "explanation": "19. yüzyılda İngiltere'de sosyal sınıf ayrımı spor terminolojisine de yansımıştır. Boks ve yürüyüş (pedestrianism) gibi işçi sınıfına/alt zümrelere ait sporlarda çalışanlar \"trainer\" olarak adlandırılırken, üst zümrelerin sporlarında görev alan kişiler \"coach\" olarak tanımlanmıştır. Bu ayrım, antrenörlük mesleğinin tarihsel kökenindeki sınıfsal farklılaşmayı gösterir.",
+      "optionNotes": [
+        "Coaching terimi tarihsel olarak üst zümrelere ait sporlarla (örneğin kürek, kriket) ilişkilendirilmiştir, alt zümre sporlarını öğretenler için kullanılan terim değildir.",
+        "Character (karakter), sporcu gelişiminin bütünsel boyutlarından biri olan bir kavramdır; 19. yüzyılda belirli bir sosyal sınıfın sporunu öğreten kişiye verilen bir unvan değildir.",
+        "Caring (şefkat/ilgi), sporcu gelişiminde antrenör-sporcu ilişkisinin niteliğini tanımlayan bir kavramdır, tarihsel bir meslek unvanı değildir.",
+        "Competence (yetkinlik), sporcunun teknik-taktik beceri düzeyini ifade eden bir gelişim boyutudur; bu soruda sorulan tarihsel meslek unvanıyla ilgisi yoktur.",
+        "Doğru yanıt: 19. yüzyılda boks, yürüyüş gibi alt zümrelere ait sporları öğreten kişilere 'trainer' denirken, üst zümre sporlarında bu kişiler 'coach' olarak adlandırılmıştır; bu nedenle alt zümre sporları öğreten kişi 'trainer' unvanını taşır."
+      ]
+    },
+    {
+      "question": "I. Boks II. Yürüyüş III. Kürek IV. Kriket Yukarıda verilenlerden hangileri 19. Yüzyılda üst zümre tarafından yapılan sporlar arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I - II – III – IV"
+      ],
+      "correctIndex": 3,
+      "explanation": "19. yüzyıl İngiltere'sinde kürek (rowing) ve kriket (cricket), geleneksel olarak elit eğitim kurumlarında ve üst sınıf çevrelerde yaygın olan, \"coach\" unvanlı kişilerce öğretilen sporlardı. Boks ve yürüyüş (pedestrianism) ise işçi sınıfı ve alt zümrelere ait, \"trainer\" unvanlı kişilerce çalıştırılan sporlar arasında yer alıyordu. Bu nedenle üst zümreye ait sporlar kürek ve kriket (III-IV)'tir.",
+      "optionNotes": [
+        "Yalnız boksu (I) içerir; ancak boks tarihsel olarak üst zümre sporu değil, alt zümrelere ait bir spor olarak sınıflandırılmıştır, dolayısıyla eksik ve hatalı bir seçimdir.",
+        "Boks ve yürüyüşü (I-II) birlikte verir; bu iki spor da 19. yüzyılda üst zümre sporu değil, alt zümre/işçi sınıfı sporları arasında sayılmıştır.",
+        "Yürüyüş, kürek ve kriketi (II-III-IV) birlikte verir; yürüyüş (pedestrianism) üst zümre sporu değil alt zümreye ait bir spordur, bu yüzden listeye hatalı dahil edilmiştir.",
+        "Doğru yanıt: Kürek ve kriket (III-IV), 19. yüzyılda üst zümrenin yaygın olarak katıldığı ve 'coach' unvanlı kişilerce öğretilen sporlar arasındaydı.",
+        "Tüm sporları (I-II-III-IV) birlikte verir; ancak boks ve yürüyüş üst zümre sporu değil alt zümre sporu olarak kabul edildiğinden bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Sporcuların bütünsel gelişimine yönelik amaçlarından biri değildir?",
+      "options": [
+        "Yetkinlik",
+        "Özgüven",
+        "Gönüllülük",
+        "Bağ kurma",
+        "Karakter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sporcuların bütünsel gelişimi, literatürde genellikle \"5C modeli\" ile açıklanır: Yetkinlik (Competence), Özgüven (Confidence), Bağ kurma (Connection), Karakter (Character) ve Umursama/Şefkat (Caring). \"Gönüllülük\" bu beş boyuttan biri değildir; modeldeki beşinci boyut gönüllülük değil, başkalarını önemseme ve şefkat göstermedir (Caring).",
+      "optionNotes": [
+        "Yetkinlik (Competence), 5C modelinin bir boyutudur ve sporcunun teknik-taktik becerilerini, performans gelişimini kapsar; bu nedenle bütünsel gelişim amaçlarından biridir, soruda aranan cevap değildir.",
+        "Özgüven (Confidence), sporcunun kendi yeteneklerine olan inancını ifade eden 5C modelinin bir bileşenidir, bütünsel gelişim amaçları arasında yer alır.",
+        "Doğru yanıt: Gönüllülük, sporcuların bütünsel gelişim modelindeki (5C) beş boyuttan biri değildir; modelin beşinci boyutu gönüllülük değil 'Caring' (şefkat/başkalarını önemseme)'dir, bu yüzden gönüllülük bu listeye dahil edilmemiştir.",
+        "Bağ kurma (Connection), sporcunun antrenörü, takım arkadaşları ve diğer bireylerle kurduğu olumlu ilişkileri ifade eden 5C modelinin bir bileşenidir, bütünsel gelişim amaçları arasındadır.",
+        "Karakter, sporcunun ahlaki ve etik değerlerinin gelişimini ifade eden 5C modelinin bir boyutudur, bütünsel gelişim amaçları arasında yer alır."
+      ]
+    },
+    {
+      "question": "Aynı yıl doğumlu akran grupları içerisinde ayca büyük olan çocukların diğerlerine karşı sağladığı avantaj olarak tanımlanan kavrama ne ad verilir?",
+      "options": [
+        "Bağıl yaş etkisi",
+        "Katılım sporu ortamı",
+        "Performans sporu ortamı",
+        "Performans sporcusu",
+        "Takvim yaş etkisi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bağıl yaş etkisi (relative age effect), aynı yaş kategorisi/doğum yılı içinde yer alan ancak takvim yılının daha başında doğmuş olan çocukların, yılın sonunda doğmuş akranlarına kıyasla fiziksel olgunlaşma, boy-kilo ve motor beceri açısından geçici bir avantaja sahip olmasını ve bunun seçilme/başarı şanslarını artırmasını ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Bağıl yaş etkisi, aynı yaş grubunda yılın erken aylarında doğan çocukların, geç doğan akranlarına göre fiziksel gelişim ve dolayısıyla performans/seçilme açısından sağladığı avantajı ifade eden kavramdır.",
+        "Katılım sporu ortamı, bireyin yarışma ve kazanma odaklı olmayan, kişisel gelişim ve zevk amaçlı spor etkinliklerine katıldığı ortamı ifade eder; akran grubu içindeki yaş avantajıyla ilgili bir kavram değildir.",
+        "Performans sporu ortamı, yüksek performans ve yarışma başarısı odaklı etkinliklerin yapıldığı ortamı tanımlar; doğum ayı kaynaklı avantajla ilgili bir terim değildir.",
+        "Performans sporcusu, belirli bir gelişim düzeyine erişmiş ve yarışma odaklı çalışan sporcu tipini tanımlayan bir kategoridir; akranlar arası yaş avantajını açıklayan bir kavram değildir.",
+        "Takvim yaş etkisi değil bağıl yaş etkisi doğru terimdir; soruda tanımlanan avantaj, kronolojik yaşın kendisinden değil aynı kategori içindeki doğum ayı farkından kaynaklanır, bu adlandırma kavramı tam karşılamaz."
+      ]
+    },
+    {
+      "question": "I. Yetişkinler II. Ergenler III. Çocuklar Yukarıda verilen süreçlerinden hangileri ‘katılım sporu ortamı’ kapsamında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Katılım sporu ortamı (participation sport environment), yaşam boyu sürebilen ve rekabetten çok kişisel gelişim, eğlence ve sağlıklı yaşamı amaçlayan bir spor ortamıdır; bu ortam çocuklar, ergenler ve yetişkinler olmak üzere üç temel bileşenden oluşur. Dolayısıyla her üç grup da katılım sporu ortamı kapsamında değerlendirilir.",
+      "optionNotes": [
+        "Yalnız yetişkinleri (I) içerir; ancak katılım sporu ortamı yalnızca yetişkinlerle sınırlı değildir, çocuklar ve ergenler de bu ortamın bileşenleridir.",
+        "Yalnız ergenleri (II) içerir; ancak katılım sporu ortamı yalnızca ergenlerle sınırlı değildir, çocuklar ve yetişkinler de bu kapsama girer.",
+        "Yetişkinler ve ergenleri (I-II) birlikte verir; ancak çocuklar da katılım sporu ortamının bir bileşeni olduğundan bu seçenek eksiktir.",
+        "Ergenler ve çocukları (II-III) birlikte verir; ancak yetişkinler de katılım sporu ortamının bir bileşeni olduğundan bu seçenek eksiktir.",
+        "Doğru yanıt: Katılım sporu ortamı; çocuklar, ergenler ve yetişkinler olmak üzere yaşam boyu süren üç bileşenden oluşur, bu nedenle I-II-III'ün tümü bu kapsamda yer alır."
+      ]
+    },
+    {
+      "question": "Sporcunun yaptığı spordaki tekniktaktik becerilere, performans gelişimine, sağlıklı ve iyi bir spora özgü fiziksel uygunluğa sahip olma durumuna ne ad verilir?",
+      "options": [
+        "Özgüven",
+        "Bağ kurma",
+        "Yetkinlik",
+        "Karakter",
+        "Umursama – umursanma"
+      ],
+      "correctIndex": 2,
+      "explanation": "5C modelinde Yetkinlik (Competence), sporcunun yaptığı spor dalındaki teknik ve taktik becerilerini, performans gelişimini ve o spora özgü fiziksel uygunluğunu kapsayan boyuttur. Antrenörün bu alandaki temel görevlerinden biri sporcunun yetkinlik düzeyini geliştirmektir.",
+      "optionNotes": [
+        "Özgüven (Confidence), sporcunun kendi yeteneklerine duyduğu inancı ifade eder; teknik-taktik becerilerin ve fiziksel uygunluğun kendisini değil, bunlara ilişkin öz-algıyı tanımlar.",
+        "Bağ kurma (Connection), sporcunun antrenör ve takım arkadaşlarıyla kurduğu sosyal ilişkileri ifade eder; teknik beceri ve performans gelişimiyle doğrudan ilgili değildir.",
+        "Doğru yanıt: Yetkinlik, sporcunun spor dalına özgü teknik-taktik becerilerini, performans gelişimini ve fiziksel uygunluğunu kapsayan 5C boyutudur.",
+        "Karakter, sporcunun ahlaki değerleri, sorumluluk ve spor ahlakı gibi özelliklerini ifade eder; teknik beceri veya fiziksel uygunlukla ilgili bir kavram değildir.",
+        "Umursama – umursanma (Caring), sporcunun başkalarını önemsemesi ve önemsenmesiyle ilgili sosyal-duygusal bir boyuttur; teknik-taktik beceri veya fiziksel uygunlukla ilgili değildir."
+      ]
+    },
+    {
+      "question": "I. Yönetici II. Antrenör III. Sporcu IV. Ebeveynler Yukarıda verilenlerden hangileri spor ortamlarının temel paydaşları arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor ortamlarının temel paydaşları; yöneticiler, antrenörler, sporcular ve ebeveynler olmak üzere dört ana grubu kapsar. Bu paydaşların her biri, spor ortamının işleyişinde ve sporcu gelişiminde farklı ama birbirini tamamlayan roller üstlenir.",
+      "optionNotes": [
+        "Yalnız yöneticiyi (I) içerir; ancak antrenör, sporcu ve ebeveynler de spor ortamının temel paydaşları arasında yer aldığından bu seçenek eksiktir.",
+        "Yönetici ve antrenörü (I-II) birlikte verir; ancak sporcu ve ebeveynler de temel paydaşlar arasında olduğundan bu seçenek eksiktir.",
+        "Yönetici, antrenör ve sporcuyu (I-II-III) birlikte verir; ancak ebeveynler de özellikle çocuk ve genç sporcularda temel paydaş grubuna dahil olduğundan bu seçenek eksiktir.",
+        "Yönetici, sporcu ve ebeveynleri (I-III-IV) verir, antrenörü dışarıda bırakır; ancak antrenör spor ortamının en temel paydaşlarından biridir, bu nedenle bu seçenek eksiktir.",
+        "Doğru yanıt: Spor ortamının temel paydaşları yönetici, antrenör, sporcu ve ebeveynlerden oluşur; bu nedenle I-II-III-IV'ün tümü doğrudur."
+      ]
+    },
+    {
+      "question": "Ergenlik dönemini tamamlamış bireylerden oluşur. Amaç katılım spor ortamının önceki dönemlerindeki kazanımlarını korumak ve geliştirmektir. Yukarıda özellikleri verilen Katılım sporu bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Çocuklar",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Katılım sporu ortamının \"yetişkinler\" bileşeni, ergenlik dönemini tamamlamış bireylerden oluşur. Bu dönemde temel amaç, çocukluk ve ergenlik dönemlerinde kazanılan beceri, sağlık ve alışkanlıkların korunması ve mümkünse geliştirilmesidir; artık yeni ve yoğun bir beceri kazanım süreci değil, sürdürülebilirlik ön plandadır.",
+      "optionNotes": [
+        "Doğru yanıt: Yetişkinler bileşeni, ergenliğini tamamlamış bireylerden oluşur ve amacı önceki dönemlerde (çocukluk-ergenlik) kazanılan beceri ve alışkanlıkların korunması ve geliştirilmesidir.",
+        "Ergenler bileşeni, henüz ergenlik sürecinde olan ve genellikle yeni beceriler kazanmaya devam eden bireyleri kapsar; soruda tarif edilen 'ergenliği tamamlamış' özelliğiyle uyuşmaz.",
+        "Çocuklar bileşeni, spora başlangıç yaşından yaklaşık 12 yaşına kadar olan, temel becerileri kazanma sürecindeki bireyleri kapsar; ergenliğini tamamlamış bireylerle ilgili değildir.",
+        "Yüksek performans sporcusu, performans sporu ortamının bir bileşenidir ve elit düzeyde yarışma başarısı hedefleyen sporcuları tanımlar; katılım sporu ortamıyla ilgili bir kategori değildir.",
+        "Performans sporcusu, performans sporu ortamına ait bir bileşendir; katılım sporu ortamının yetişkinler bileşeniyle karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Önceleri eğitim alanında bir kişiyi yetiştiren, ona bir şeyi öğreten özel öğretmen anlamına gelen “…………” kelimesi, 19. yüzyılda sanayileşme ve şehirleşmenin gelişimi ile Antrenörlük mesleğini tanımlamaya başlamıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Coaching",
+        "Trainer",
+        "Character",
+        "Caring",
+        "Competence"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Coach\" kelimesi, köken olarak eğitim alanında bir öğrenciye özel ders veren, onu bir konuda yetiştiren kişi (özel öğretmen) anlamında kullanılmaktaydı. 19. yüzyılda sanayileşme ve şehirleşmeyle birlikte spor etkinliklerinin kurumsallaşması sürecinde bu kelime, günümüzdeki \"antrenörlük\" (coaching) mesleğini tanımlamak için kullanılmaya başlanmıştır.",
+      "optionNotes": [
+        "Doğru yanıt: 'Coach/Coaching' kelimesi, eğitimde özel öğretmenlik anlamından türeyerek 19. yüzyılda sanayileşme ve şehirleşme ile birlikte antrenörlük mesleğini tanımlayan terim haline gelmiştir.",
+        "Trainer, bu dönemde özellikle alt zümrelere ait sporları (boks, yürüyüş gibi) çalıştıran kişiler için kullanılan ayrı bir unvandır; eğitimdeki özel öğretmenlik kökenine sahip terim değildir.",
+        "Character (karakter), sporcu gelişiminin bir boyutunu ifade eden kavramsal bir terimdir; tarihsel olarak antrenörlük mesleğini tanımlamak için kullanılan bir kelime değildir.",
+        "Caring (şefkat/ilgi), antrenör-sporcu ilişkisinin niteliğini belirten bir kavramdır; eğitimdeki özel öğretmenlik kökenli antrenörlük terimiyle ilgisi yoktur.",
+        "Competence (yetkinlik), sporcunun beceri ve performans düzeyini ifade eden bir gelişim boyutudur; bu soruda sorulan tarihsel kökenli meslek adlandırmasıyla ilgili değildir."
+      ]
+    },
+    {
+      "question": "Spor ortamının en temel paydaşları aşağıdakilerden hangisidir?",
+      "options": [
+        "Antrenör – Sporcu",
+        "Antrenör – Ebeveynler",
+        "Antrenör – Yönetici",
+        "Sporcu – Ebeveynler",
+        "Sporcu – Yönetici"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spor ortamının en temel ve ayrılmaz ilişkisi antrenör ile sporcu arasındaki etkileşimdir; diğer tüm paydaşlar (yönetici, veli vb.) bu temel ilişkiyi destekleyici/çevresel unsurlar olarak konumlanır. Antrenörlük sürecinin özü bu ikili ilişki üzerine kuruludur.",
+      "optionNotes": [
+        "Doğru yanıt: Antrenör-Sporcu ilişkisi, spor ortamının merkezinde yer alan ve diğer tüm paydaş ilişkilerinin etrafında şekillendiği en temel ilişkidir.",
+        "Antrenör-Ebeveynler ilişkisi önemli olsa da, spor ortamının merkezinde yer alan temel ilişki değildir; ebeveynler genellikle destekleyici/çevresel bir paydaş konumundadır.",
+        "Antrenör-Yönetici ilişkisi, kurumsal/idari işleyişle ilgilidir; sporcu gelişiminin merkezinde yer alan temel ilişki değildir.",
+        "Sporcu-Ebeveynler ilişkisi aile içi bir ilişkidir ve spor ortamının yapısal temelini oluşturan antrenör-sporcu etkileşimiyle karıştırılmamalıdır.",
+        "Sporcu-Yönetici ilişkisi, idari/organizasyonel bir ilişkidir; antrenörlük sürecinin ve sporcu gelişiminin özünü oluşturan temel ilişki değildir."
+      ]
+    },
+    {
+      "question": "Cesaretlendirme yoluyla bir sporcuyu, ulaşması istenilen hedeflere ulaşmasında ve spor ortamındaki diğer bireylerin yapıcı bir şekilde desteklemelerine yardımcı olan strateji aşağıdakilerden hangisidir?",
+      "options": [
+        "Sporcular ile etkili iletişim kurma",
+        "İlgi / Samimiyet",
+        "Ulaşılabilir olma",
+        "Pozitif destek",
+        "Güven"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pozitif destek, antrenörün cesaretlendirme yoluyla sporcuyu hedeflerine ulaşmaya motive etmesini ve spor ortamındaki diğer bireylerin birbirlerini yapıcı bir şekilde desteklemelerine katkıda bulunmasını ifade eden bir antrenörlük stratejisidir. Olumlu geri bildirim ve cesaretlendirme, sporcunun özgüvenini ve motivasyonunu artırır.",
+      "optionNotes": [
+        "Sporcular ile etkili iletişim kurma, bilgi ve duyguların açık biçimde paylaşılmasını ifade eder; cesaretlendirme yoluyla hedeflere ulaşmayı destekleyen stratejinin tanımı değildir.",
+        "İlgi/Samimiyet, antrenörün sporcuya karşı gösterdiği kişisel yakınlık ve ilgiyi ifade eder; cesaretlendirme yoluyla hedef gerçekleştirmeyi destekleyen stratejiden farklıdır.",
+        "Ulaşılabilir olma, antrenörün sporcu için erişilebilir ve ona zaman ayırabilir olmasını ifade eder; soruda tanımlanan cesaretlendirme temelli destek stratejisini karşılamaz.",
+        "Doğru yanıt: Pozitif destek, cesaretlendirme yoluyla sporcuyu hedeflerine ulaştırmayı ve diğer bireylerin birbirini yapıcı şekilde desteklemesine yardımcı olmayı ifade eden stratejidir.",
+        "Güven, antrenör-sporcu ilişkisinde karşılıklı itimadı ifade eden bir kavramdır; cesaretlendirme yoluyla destek sağlama stratejisinin doğrudan tanımı değildir."
+      ]
+    },
+    {
+      "question": "…………...çocukların spora katılımına yönelik düşünceleri ve davranışları, çocukların psikolojik ve davranışsal kazanımları ile doğrudan etkilidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Yönetici",
+        "Antrenör",
+        "Ebeveynler",
+        "Sporcu",
+        "Hakem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ebeveynlerin çocukların spora katılımına yönelik tutum, düşünce ve davranışları; çocukların bu süreçten elde edeceği psikolojik (özgüven, motivasyon) ve davranışsal (disiplin, sosyal beceri) kazanımları doğrudan etkiler. Bu nedenle ebeveynler, çocuk sporcuların gelişiminde antrenör kadar belirleyici bir paydaş konumundadır.",
+      "optionNotes": [
+        "Yönetici, spor kulübü veya kurumunun idari işleyişinden sorumludur; çocuğun günlük spor deneyimini ve psikolojik kazanımlarını doğrudan şekillendiren yakın paydaş değildir.",
+        "Antrenör önemli bir etkiye sahip olsa da, soruda tanımlanan ve çocuğun aile/ev ortamındaki spora katılım algısını şekillendiren düşünce ve davranışlar antrenöre değil ebeveyne aittir.",
+        "Doğru yanıt: Ebeveynlerin çocukların spora katılımına yönelik düşünce ve davranışları, çocukların psikolojik ve davranışsal kazanımlarını doğrudan etkiler; bu nedenle çocuk sporcu gelişiminde kritik bir paydaştır.",
+        "Sporcu, cümlede özne olarak zaten geçen çocuğun kendisidir; boşluğa gelecek olan onun davranışlarını etkileyen dışsal bir paydaş olmalıdır, kendisi değil.",
+        "Hakem, müsabaka kurallarının uygulanmasından sorumlu bir aktördür; çocuğun spora katılımına yönelik düşünce ve davranışlarıyla doğrudan ilişkili bir paydaş değildir."
+      ]
+    },
+    {
+      "question": "I. Yüksek performans sporcusu II. Performans sporcusu III. Gelişmekte olan sporcu Yukarıda verilen süreçlerinden hangileri ‘performans sporu ortamı’ kapsamında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Performans sporu ortamı; gelişmekte olan sporcu, performans sporcusu ve yüksek performans sporcusu olmak üzere üç temel bileşenden oluşur. Bu bileşenler, sporcunun yarışma odaklı gelişim sürecindeki farklı aşamalarını temsil eder.",
+      "optionNotes": [
+        "Yalnız yüksek performans sporcusunu (I) içerir; ancak performans sporcusu ve gelişmekte olan sporcu da bu ortamın bileşenleri olduğundan eksik bir seçimdir.",
+        "Yalnız performans sporcusunu (II) içerir; ancak yüksek performans sporcusu ve gelişmekte olan sporcu da performans sporu ortamının bileşenleri olduğundan eksik bir seçimdir.",
+        "Yüksek performans sporcusu ve performans sporcusunu (I-II) birlikte verir; ancak gelişmekte olan sporcu da bu ortamın bir bileşeni olduğundan eksik bir seçimdir.",
+        "Performans sporcusu ve gelişmekte olan sporcuyu (II-III) birlikte verir; ancak yüksek performans sporcusu da bu ortamın bir bileşeni olduğundan eksik bir seçimdir.",
+        "Doğru yanıt: Performans sporu ortamı; gelişmekte olan sporcu, performans sporcusu ve yüksek performans sporcusu olmak üzere üç bileşenden oluşur, bu nedenle I-II-III'ün tümü doğrudur."
+      ]
+    },
+    {
+      "question": "Spora katılım piramidine göre birey, spora ilk ve en yoğun olarak nereden başlamaktadır?",
+      "options": [
+        "Elit Yarışmalar",
+        "Ulusal Yarışmalar",
+        "Okul sporu - Beden Eğitim",
+        "Bölgesel Yarışmalar",
+        "Yerel Yarışmalar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spora katılım piramidinin en geniş ve taban kısmını oluşturan okul sporu ve beden eğitimi, bireylerin spora ilk ve en yoğun biçimde maruz kaldığı ortamdır; piramidin üst kademelerine (bölgesel, ulusal, elit yarışmalar) doğru çıkıldıkça katılımcı sayısı azalır ve rekabet düzeyi artar.",
+      "optionNotes": [
+        "Elit yarışmalar, piramidin en tepesinde yer alır ve çok az sayıda sporcunun eriştiği düzeydir; bireylerin spora ilk başladığı yoğun katılım noktası değildir.",
+        "Ulusal yarışmalar, piramidin üst kademelerinde yer alan ve sınırlı sayıda sporcuyu kapsayan bir düzeydir; spora ilk ve en yoğun başlangıç noktası değildir.",
+        "Doğru yanıt: Spora katılım piramidinin tabanını oluşturan okul sporu ve beden eğitimi, bireylerin spora ilk ve en yoğun biçimde katıldığı ortamdır.",
+        "Bölgesel yarışmalar, piramidin orta kademelerinde yer alır ve okul sporuna göre daha az katılımcıyı kapsar; ilk ve en yoğun katılım noktası değildir.",
+        "Yerel yarışmalar, okul sporu-beden eğitimi düzeyinden sonra gelen ve daha dar bir katılımcı kitlesine sahip bir kademedir; piramidin tabanı değildir."
+      ]
+    },
+    {
+      "question": "Bireyin kişisel hedefleri ve beklentileri (eğlenmek, beceri geliştirmek ve sağlıklı yaşam alışkanlığı kazanma vb.) önceliğinde asıl amacın yarışmak ve kazanmak olmadığı spor ortamlarını ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Katılım spor ortamı",
+        "Performans spor ortamı",
+        "Amaçlı Oyun",
+        "Amaçlı Alıştırma",
+        "Fiziksel Uygunluk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Katılım sporu ortamı, bireyin kişisel hedef ve beklentilerini (eğlenme, beceri geliştirme, sağlıklı yaşam alışkanlığı kazanma) ön planda tuttuğu, asıl amacın yarışmak ve kazanmak olmadığı spor ortamlarını ifade eder. Bu ortamda rekabet ikincil, kişisel gelişim ve zevk birincil amaçtır.",
+      "optionNotes": [
+        "Doğru yanıt: Katılım sporu ortamı, bireyin yarışmak ve kazanmaktan çok kişisel hedef ve beklentilerini (eğlenme, beceri geliştirme, sağlık) önceliklendirdiği spor ortamını ifade eder.",
+        "Performans sporu ortamı, tam tersine yarışmak ve yüksek performans göstermek amacıyla yapılan etkinlikleri ifade eder; bu nedenle soruda tanımlanan rekabet-dışı odak bu kavrama uymaz.",
+        "Amaçlı oyun, çocukların kendi kurallarını koyduğu, kuralların esnek olduğu ve içsel motivasyonla yapılan oyun temelli bir etkinlik türüdür; soruda tanımlanan genel spor ortamı kavramından farklıdır.",
+        "Amaçlı alıştırma, belirli bir beceriyi geliştirmeye yönelik yapılandırılmış ve tekrara dayalı pratik etkinlikleri ifade eder; soruda tanımlanan genel katılım odaklı spor ortamı kavramıyla aynı değildir.",
+        "Fiziksel uygunluk, bireyin fiziksel kapasitesinin bir göstergesidir; bir spor ortamı türünü tanımlayan bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Bireyin sportif kapasitesini geliştirmeyi amaçlayan ve bunu performans normları ile karşılaştırarak ve yarışmalarda yüksek performans göstermek üzere etkinliklerin yapıldığı ortamları ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Katılım spor ortamı",
+        "Performans spor ortamı",
+        "Amaçlı Oyun",
+        "Amaçlı Alıştırma",
+        "Fiziksel Uygunluk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Performans sporu ortamı, bireyin sportif kapasitesini geliştirmeyi ve bunu performans normlarıyla kıyaslayarak yarışmalarda yüksek performans göstermeyi amaçlayan etkinliklerin yürütüldüğü ortamı ifade eder. Bu ortamda asıl odak rekabet başarısı ve performans gelişimidir.",
+      "optionNotes": [
+        "Katılım sporu ortamı, yarışma ve kazanmanın değil kişisel gelişim, eğlence ve sağlığın ön planda olduğu ortamı ifade eder; soruda tanımlanan performans normlarıyla kıyaslama ve yüksek performans hedefiyle örtüşmez.",
+        "Doğru yanıt: Performans sporu ortamı, sportif kapasiteyi performans normlarıyla kıyaslayarak geliştirmeyi ve yarışmalarda yüksek performans göstermeyi amaçlayan etkinliklerin yapıldığı ortamdır.",
+        "Amaçlı oyun, kuralların esnek olduğu, içsel motivasyona dayalı ve çoğunlukla çocukluk döneminde görülen bir etkinlik türüdür; performans normlarıyla karşılaştırmaya dayalı sistemli bir ortamı tanımlamaz.",
+        "Amaçlı alıştırma, belirli bir beceriyi geliştirmeye yönelik tekrara dayalı pratik çalışmaları ifade eder; bir spor ortamı kategorisi olan performans sporu ortamının tüm kapsamını karşılamaz.",
+        "Fiziksel uygunluk, bireyin fiziksel kapasite düzeyini gösteren bir ölçüttür; bir spor ortamı türünü tanımlayan kavram değildir."
+      ]
+    },
+    {
+      "question": "Spora başlama yaşlarından genellikle 12 yaş civarına kadar süren, çeşitli spor dallarına katılım göstererek gerekli becerileri kazanmayı amaçlayan katılım sporu bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Çocuklar",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Katılım sporu ortamının \"çocuklar\" bileşeni, spora başlama yaşından genellikle 12 yaş civarına kadar süren, çeşitli spor dallarına katılarak temel motor ve sportif becerilerin kazanıldığı dönemi kapsar. Bu dönemde çeşitlilik ve keyif alma ön plandadır.",
+      "optionNotes": [
+        "Yetişkinler bileşeni, ergenliğini tamamlamış bireyleri kapsar ve amacı önceki kazanımları korumaktır; spora başlangıçtan 12 yaşa kadar süren beceri kazanım dönemiyle ilgili değildir.",
+        "Ergenler bileşeni, çocukluk dönemini tamamlamış ve ergenlik sürecindeki bireyleri kapsar; soruda tanımlanan 12 yaşa kadar süren erken dönem değildir.",
+        "Doğru yanıt: Çocuklar bileşeni, spora başlama yaşından yaklaşık 12 yaşına kadar süren, çeşitli spor dallarına katılarak temel becerilerin kazanıldığı katılım sporu dönemidir.",
+        "Yüksek performans sporcusu, performans sporu ortamının bir bileşenidir ve elit yarışma düzeyini tanımlar; katılım sporu ortamındaki erken çocukluk dönemiyle ilgisi yoktur.",
+        "Performans sporcusu, performans sporu ortamına ait bir bileşendir; katılım sporu ortamının çocukluk döneminiyle karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Beceri ve performans gelişimini sağlamaya yönelik olarak tasarlanan etkinliklere ne ad verilir?",
+      "options": [
+        "Katılım spor ortamı",
+        "Performans spor ortamı",
+        "Amaçlı Oyun",
+        "Amaçlı Alıştırma",
+        "Fiziksel Uygunluk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Amaçlı alıştırma (deliberate practice), belirli bir beceri veya performans unsurunu geliştirmek amacıyla bilinçli, yapılandırılmış ve tekrara dayalı olarak tasarlanan etkinlikleri ifade eder. Amaçlı oyundan farklı olarak kurallar daha sabittir ve odak doğrudan beceri/performans gelişimidir.",
+      "optionNotes": [
+        "Katılım sporu ortamı, beceri geliştirmeye özgü yapılandırılmış bir etkinlik türü değil, genel bir spor ortamı kategorisidir; soruda tanımlanan spesifik etkinlik türüyle aynı düzeyde değildir.",
+        "Performans sporu ortamı da bir etkinlik türü değil, geniş bir spor ortamı kategorisidir; beceri ve performans geliştirmeye özgü tasarlanmış spesifik etkinliği ifade etmez.",
+        "Amaçlı oyun, kuralların esnek ve değiştirilebilir olduğu, içsel motivasyon ve eğlenceye dayalı bir etkinlik türüdür; sistematik beceri/performans geliştirme amacı taşıyan yapılandırılmış pratiği tanımlamaz.",
+        "Doğru yanıt: Amaçlı alıştırma, beceri ve performans gelişimini sağlamaya yönelik olarak bilinçli ve yapılandırılmış biçimde tasarlanan etkinlikleri ifade eder.",
+        "Fiziksel uygunluk, bireyin fiziksel kapasite düzeyini gösteren bir sonuç ölçütüdür; beceri geliştirmeye yönelik tasarlanmış bir etkinlik türü değildir."
+      ]
+    },
+    {
+      "question": "Antrenman ve etkinliklerin odak noktası yarışmak ve bu yarışmalarda başarılı olmak için gerekli olan kapasitelerin gelişimi olan performans spor ortamı bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Çocuklar",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 4,
+      "explanation": "Performans sporu ortamının \"performans sporcusu\" bileşeni, antrenman ve etkinliklerin odak noktasının yarışmak ve bu yarışmalarda başarılı olmak için gerekli kapasitelerin geliştirilmesi olduğu dönemi kapsar. Bu aşamada sporcu, gelişmekte olan sporcu düzeyinin ötesine geçmiş ve doğrudan rekabet başarısına odaklanmıştır.",
+      "optionNotes": [
+        "Yetişkinler, katılım sporu ortamının bir bileşenidir; performans sporu ortamındaki yarışma odaklı kapasite geliştirme aşamasını tanımlamaz.",
+        "Ergenler, katılım sporu ortamının bir bileşenidir; soruda tanımlanan yarışma ve başarı odaklı performans sporu bileşenini ifade etmez.",
+        "Çocuklar, katılım sporu ortamının bir bileşenidir; performans sporu ortamındaki rekabet odaklı gelişim aşamasıyla ilgili değildir.",
+        "Yüksek performans sporcusu, performans sporu ortamının en üst ve en az katılımcıya sahip aşamasıdır; soruda tanımlanan ara aşama olan 'yarışmak ve başarılı olmak için kapasite geliştirme' performans sporcusu düzeyine karşılık gelir, yüksek performans düzeyine değil.",
+        "Doğru yanıt: Performans sporcusu bileşeni, antrenman ve etkinliklerin odağının yarışmak ve bu yarışmalarda başarılı olmak için gerekli kapasitelerin geliştirilmesi olduğu performans sporu aşamasıdır."
+      ]
+    },
+    {
+      "question": "Bu gruptaki bireyler yetişkinlerden oluşmaktadır. Performans sporu ortamının en az katılımı bu grupta yer alır. Yukarıda özellikleri verilen Performans spor ortamı bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Gelişmekte olan sporcu",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Performans sporu ortamının \"yüksek performans sporcusu\" bileşeni, yetişkin bireylerden oluşur ve piramidin en tepesinde yer alır; bu düzeye erişen sporcu sayısı en azdır çünkü elit ve uluslararası düzeyde rekabet gerektirir.",
+      "optionNotes": [
+        "Yetişkinler, katılım sporu ortamının bir bileşenidir ve önceki kazanımları koruma amacı taşır; performans sporu ortamındaki en az katılımlı elit düzeyi tanımlamaz.",
+        "Ergenler, katılım sporu ortamına ait bir bileşendir; soruda tanımlanan yetişkinlerden oluşan ve en az katılımlı performans düzeyiyle ilgili değildir.",
+        "Gelişmekte olan sporcu, performans sporu ortamının henüz elit düzeye ulaşmamış, gelişim sürecindeki bileşenidir; soruda tanımlanan en az katılımlı en üst düzey değildir.",
+        "Doğru yanıt: Yüksek performans sporcusu, yetişkin bireylerden oluşan ve performans sporu ortamının en az katılımcıya sahip en üst (elit) düzeyini temsil eden bileşendir.",
+        "Performans sporcusu, yüksek performans düzeyinden önceki ara aşamadır; en az katılımın görüldüğü en üst düzey olan yüksek performans sporcusu ile karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Bir spor dalının becerilerini geliştirmek ve elit sporcu olmak amacı ile bu spor ortamını tercih eden 13 – 15 yaş arasındaki bireylere yönelik yapılan Antrenörlük aşağıdakilerden hangisidir?",
+      "options": [
+        "Katılım Sporu-Çocuk Antrenörlüğü",
+        "Katılım Sporu- Ergen ve Yetişkin Antrenörlüğü",
+        "Performans Sporu Antrenörlüğü – Gelişmekte olan Sporcu",
+        "Performans Sporu Ortamı Antrenörlüğü – Performans Dönemi",
+        "Performans Sporu Antrenörlüğü – Yüksek Performans Dönemi"
+      ],
+      "correctIndex": 2,
+      "explanation": "13-15 yaş aralığında, belirli bir spor dalında elit sporcu olma hedefiyle performans sporu ortamını tercih eden bireylere yönelik antrenörlük, \"Performans Sporu Antrenörlüğü – Gelişmekte Olan Sporcu\" kademesinde ele alınır. Bu dönemde sporcu, katılım sporundan performans sporuna geçiş sürecindedir ve beceri gelişimi ile birlikte rekabetçi kapasite oluşturmaya başlar.",
+      "optionNotes": [
+        "Katılım Sporu-Çocuk Antrenörlüğü, genellikle 12 yaş civarına kadar süren ve çeşitli sporlara katılarak temel beceri kazanmayı amaçlayan dönemi kapsar; 13-15 yaş arası elit hedefli performans sürecini tanımlamaz.",
+        "Katılım Sporu-Ergen ve Yetişkin Antrenörlüğü, yarışma ve kazanma odaklı olmayan, kişisel gelişim amaçlı katılım sporu ortamındaki ergen ve yetişkinleri kapsar; elit sporcu olma hedefiyle performans sporunu seçen bireyleri tanımlamaz.",
+        "Doğru yanıt: 13-15 yaş arasında elit sporcu olma amacıyla performans sporu ortamını tercih eden bireylere yönelik antrenörlük, 'Performans Sporu Antrenörlüğü – Gelişmekte Olan Sporcu' kademesinde ele alınır.",
+        "Performans Sporu Ortamı Antrenörlüğü – Performans Dönemi, gelişmekte olan sporcu aşamasını geçmiş, doğrudan yarışma başarısına odaklanan daha ileri bir sporcu grubunu kapsar; 13-15 yaş aralığındaki geçiş/gelişim sürecini tanımlamaz.",
+        "Performans Sporu Antrenörlüğü – Yüksek Performans Dönemi, elit düzeyde yetişkin sporculara yönelik en üst antrenörlük kademesidir; 13-15 yaş arasındaki gelişmekte olan sporcu grubunu değil, performans piramidinin en tepesindeki sporcuları kapsar."
+      ]
+    }
+  ]
+}

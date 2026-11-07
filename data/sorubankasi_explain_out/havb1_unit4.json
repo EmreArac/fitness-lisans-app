@@ -1,0 +1,406 @@
+{
+  "course": "havb1",
+  "unit_index": 4,
+  "topic": "Genel Antrenman Bilimi: Biyomotor Özellikler",
+  "questions": [
+    {
+      "question": "İskelet kasları ve merkezî sinir sisteminin uyum içinde çalışarak amaca yönelik hareketler meydana getirmesine ne ad verilir?",
+      "options": [
+        "Dayanıklılık",
+        "Sürat",
+        "Kuvvet",
+        "Beceri",
+        "Esneklik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Beceri, iskelet kaslarıyla merkezi sinir sisteminin uyumlu çalışması sonucu amaca yönelik, ekonomik ve hatasız hareketlerin ortaya çıkmasını sağlayan koordinatif bir biyomotor özelliktir. Soruda tanımlanan 'kas-sinir sistemi uyumu ile amaca yönelik hareket' ifadesi doğrudan beceri kavramının tanımıdır.",
+      "optionNotes": [
+        "Dayanıklılık yorgunluğa karşı direnç gösterme ve performansı sürdürme yeteneğidir, kas-sinir koordinasyonunu değil süreklilik unsurunu ifade eder.",
+        "Sürat, bir hareketi veya mesafeyi en kısa zamanda gerçekleştirme yeteneğidir; burada tanımlanan sinir-kas uyumu değil zaman unsuru esastır.",
+        "Kuvvet, dışsal/içsel bir dirence karşı koyma veya onu yenme kapasitesidir; kas kasılma gücüyle ilgilidir, hareketin amaca yönelik koordinasyonuyla ilgili değildir.",
+        "Doğru yanıt: Beceri, kasların merkezi sinir sistemi kontrolünde uyum içinde çalışarak amaca yönelik, ekonomik ve isabetli hareketler üretebilme yeteneğidir; soru tam olarak bu koordinatif süreci tanımlamaktadır.",
+        "Esneklik, eklemlerin hareket genişliği (ROM) ile ilgilidir; kas-sinir koordinasyonuyla amaca yönelik hareket üretme tanımını karşılamaz."
+      ]
+    },
+    {
+      "question": "I. Duyu organlarının impulslarla algılaması II. Uyarının merkezî sinir sistemine gelmesi ve emrin oluşması III. Oluşan emrin kaslara iletilmesi IV. Emrin kaslara ulaşmasından sonra, kasta mekanik bir olayın oluşması Yukarıdakilerden hangileri Reaksiyon zamanı içerisinde oluşan işlemlerdendir?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Reaksiyon zamanı, bir uyaranın duyu organları tarafından algılanmasından, bu uyarının merkezi sinir sistemine iletilip orada işlenerek bir emrin oluşmasına, bu emrin ilgili kaslara iletilmesine ve son olarak kasta mekanik bir yanıtın (hareketin) ortaya çıkmasına kadar geçen tüm süreci kapsar. Dolayısıyla verilen dört aşamanın tamamı reaksiyon zamanının bileşenidir.",
+      "optionNotes": [
+        "Sadece duyusal algılamayı içerir, oysa reaksiyon zamanı algılamadan kasın mekanik yanıtına kadar olan tüm zinciri kapsar; bu aşama tek başına yetersizdir.",
+        "Sadece merkezi sinir sisteminde emrin oluşumunu kapsar, duyusal algılama ile emrin kasa iletimi ve kasta mekanik yanıt aşamalarını dışarıda bırakır.",
+        "Algılama ve emrin oluşmasını içerir ama emrin kaslara iletilmesi ve kasta mekanik yanıtın oluşması aşamalarını eksik bırakır.",
+        "Emrin kaslara iletilmesine kadar olan süreci kapsar ama kasta gerçek mekanik hareketin oluşma aşamasını (IV) dışarıda bırakır, bu nedenle reaksiyon zamanının tamamını yansıtmaz.",
+        "Doğru yanıt: Reaksiyon zamanı; duyusal algılama, merkezi sinir sisteminde emrin oluşması, emrin kaslara iletilmesi ve kasta mekanik yanıtın gerçekleşmesi aşamalarının tümünü kapsayan zincirleme bir süreçtir."
+      ]
+    },
+    {
+      "question": "Kuvvet, antrenman söz konusu olmadan vücudun gelişimine paralel olarak……..yaşına kadar gelişir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "5 – 10",
+        "10 – 15",
+        "15 – 20",
+        "20 – 25",
+        "25 – 30"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kuvvet, herhangi bir antrenman uygulanmasa da vücudun büyüme ve gelişimine (kas kütlesi, iskelet ve hormonal gelişim) paralel olarak doğal bir artış gösterir; bu doğal gelişim süreci yaklaşık 25-30 yaşına kadar sürer ve bu yaştan sonra kuvvet düzeyi antrenmansız durumda platoya girer ya da azalmaya başlar.",
+      "optionNotes": [
+        "Bu yaş aralığı erken çocukluk dönemidir; bu dönemde nöromüsküler sistem ve kas kütlesi henüz yeterince gelişmediğinden kuvvetteki doğal artış süreci bu yaşta sona ermez.",
+        "Bu aralık ergenlik öncesi/başlangıcı dönemine denk gelir; kuvvet gelişimi bu yaşlarda hızlanarak sürer ancak vücut gelişimine paralel artış bu yaşta tamamlanmaz.",
+        "Ergenlik döneminde hormonal etkilerle kuvvet artışı hızlanır, fakat vücudun kas kütlesi ve iskelet gelişimi bu yaşta tamamlanmadığından doğal kuvvet artışı sona ermez.",
+        "Bu dönemde kuvvet gelişimi büyük ölçüde tamamlanmaya yaklaşsa da, antrenmansız doğal artış literatürde biraz daha ileri bir yaşa, yaklaşık 25-30'a kadar uzatılmaktadır.",
+        "Doğru yanıt: Vücudun doğal büyüme ve gelişim süreci, iskelet-kas sisteminin olgunlaşmasıyla birlikte yaklaşık 25-30 yaşına kadar sürer ve kuvvet de antrenman yapılmasa bile bu sürece paralel olarak bu yaşa kadar artış gösterir."
+      ]
+    },
+    {
+      "question": "I. Dayanıklılık II. Kuvvet III. Sürat IV. Esneklik V. Beceri Yukarıdakilerden hangileri temel motorik özellikler arasında yer alır?",
+      "options": [
+        "I – II – III",
+        "II – IV",
+        "I – II – IV",
+        "I –II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genel antrenman bilimi literatüründe temel motorik (biyomotor) özellikler; organizmanın fiziksel performans kapasitesini doğrudan belirleyen kondisyonel nitelikler olan dayanıklılık, kuvvet ve sürat olarak ele alınır. Esneklik ve beceri ise bu temel özelliklerin etkin kullanılmasını destekleyen tamamlayıcı/koordinatif nitelikler olarak değerlendirilir, bu nedenle doğru yanıt dayanıklılık-kuvvet-sürat üçlüsüdür.",
+      "optionNotes": [
+        "Doğru yanıt: Dayanıklılık, kuvvet ve sürat; organizmanın fiziksel performansını doğrudan belirleyen temel (kondisyonel) motorik özellikler olarak sınıflandırılır.",
+        "Sadece kuvvet ve esnekliği içerir; dayanıklılık ve sürat gibi temel motorik özellikleri dışarıda bırakır, ayrıca esneklik bu sınıflamada temel değil tamamlayıcı özellik olarak kabul edilir.",
+        "Dayanıklılık ve kuvveti doğru şekilde içerse de esnekliği temel motorik özellik olarak eklemesi ve sürati dışarıda bırakması hatalıdır.",
+        "Dayanıklılık, kuvvet ve sürati doğru içerse de esnekliği de temel motorik özellik sayması, esnekliğin bu sınıflamada tamamlayıcı nitelik olarak görülmesiyle çelişir.",
+        "Beceriyi de temel motorik özellik sayar; ancak beceri koordinatif bir özelliktir ve genel sınıflamada ayrı bir kategori olarak değerlendirilir, temel motorik özelliklere dahil edilmez."
+      ]
+    },
+    {
+      "question": "Kısaca; vücudun karşı direnci olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Dayanıklılık",
+        "Sürat",
+        "Kuvvet",
+        "Beceri",
+        "Esneklik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ders kitabında dayanıklılık kavramı kısaca 'vücudun (yüklenmeye/yorgunluğa) karşı direnci' olarak tanımlanır; yani organizmanın uzun süreli yüklenmeler karşısında performans düşüşüne direnç göstermesi ve bu direnci sürdürebilme yeteneğidir.",
+      "optionNotes": [
+        "Doğru yanıt: Dayanıklılık, kısaca vücudun yüklenmelere ve yorgunluğa karşı gösterdiği direnç olarak tanımlanır; bu direnci ne kadar uzun süre koruyabildiği dayanıklılık düzeyini belirler.",
+        "Sürat, zamana karşı en hızlı hareketi gerçekleştirme yeteneğidir; direnç göstermekle değil, hızla ilgilidir.",
+        "Kuvvet bir direnci yenme veya ona karşı kuvvet üretme kapasitesidir; burada vurgulanan süreklilik/dirence dayanma değil, anlık kuvvet üretimidir.",
+        "Beceri, sinir-kas koordinasyonu ile amaca yönelik hareket üretme yeteneğidir; vücudun dirence karşı koyması kavramıyla ilgisi yoktur.",
+        "Esneklik, eklem hareket genişliği ile ilgili bir özelliktir; dirence karşı koyma/dayanma kavramını ifade etmez."
+      ]
+    },
+    {
+      "question": "I. Genel dayanıklılık II. Özel dayanıklılık III. Aerobik dayanıklılık Yukarıdakilerden hangileri spor türüne göre dayanıklılık sınıflandırılmasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dayanıklılık, spor türüne (branşa) göre yapılan sınıflandırmada genel dayanıklılık ve özel dayanıklılık olmak üzere ikiye ayrılır. Genel dayanıklılık branştan bağımsız temel organik kapasiteyi, özel dayanıklılık ise ilgili spor branşının özgül hareket ve enerji gereksinimlerine yönelik dayanıklılığı ifade eder. Aerobik dayanıklılık ise enerji sistemine (oksijen kullanımına) göre yapılan ayrı bir sınıflandırmaya aittir.",
+      "optionNotes": [
+        "Sadece genel dayanıklılığı içerir; spor türüne göre yapılan sınıflandırmada özel dayanıklılık da yer aldığından bu seçenek eksiktir.",
+        "Doğru yanıt: Spor türüne (branşa) göre dayanıklılık, genel dayanıklılık ve özel dayanıklılık olarak ikiye ayrılır; aerobik dayanıklılık ise enerji sistemine göre yapılan farklı bir sınıflandırmaya aittir.",
+        "Genel dayanıklılığı doğru içerir ancak aerobik dayanıklılığı eklemesi hatalıdır; aerobik dayanıklılık spor türüne göre değil enerji sistemine (metabolik yola) göre yapılan bir sınıflandırmaya aittir.",
+        "Özel dayanıklılığı doğru içerir ancak genel dayanıklılığı dışarıda bırakıp yerine aerobik dayanıklılığı eklemesi hatalıdır; spor türüne göre sınıflandırmanın iki temel bileşeni genel ve özel dayanıklılıktır.",
+        "Genel ve özel dayanıklılığı doğru içerse de aerobik dayanıklılığı da bu sınıflamaya dahil etmesi hatalıdır; aerobik dayanıklılık enerji sistemine göre yapılan ayrı bir sınıflandırmaya aittir."
+      ]
+    },
+    {
+      "question": "İnsan organizmasının fizyolojik açılardan dirence karşı koyabilmesi veya direnç gösterebilmesi için ortaya çıkan bir motorsal özelliğe ne ad verilir?",
+      "options": [
+        "Dayanıklılık",
+        "Sürat",
+        "Kuvvet",
+        "Beceri",
+        "Esneklik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuvvet, kas-sinir sisteminin fizyolojik mekanizmalar aracılığıyla dışsal veya içsel bir dirence karşı koyabilme ya da bu direnci yenebilme kapasitesidir; soruda tanımlanan 'dirence karşı koyma/direnç gösterme' motorsal özelliği doğrudan kuvveti ifade eder.",
+      "optionNotes": [
+        "Dayanıklılık, yorgunluğa karşı direnç gösterme ve bu direnci zaman içinde sürdürme yeteneğidir; burada vurgulanan andaki fizyolojik kuvvet üretimi değil süreklilik unsurudur.",
+        "Sürat, bir hareketin veya mesafenin en kısa zamanda tamamlanması yeteneğidir; dirence karşı koyma ile ilgili değil zaman/hız unsuruyla ilgilidir.",
+        "Doğru yanıt: Kuvvet, organizmanın fizyolojik mekanizmalarla dışsal/içsel bir dirence karşı koyabilme veya bu direnci yenebilme yeteneğidir.",
+        "Beceri, sinir-kas koordinasyonu sayesinde amaca yönelik hareket üretme yeteneğidir; fizyolojik direnç üretimiyle doğrudan ilişkili değildir.",
+        "Esneklik, eklemlerin hareket genişliği (ROM) ile ilgili bir özelliktir; dirence karşı koyma kavramını karşılamaz."
+      ]
+    },
+    {
+      "question": "Karaciğer ve kaslarda glikojen, kanda glikoz olarak bulunan ‘’karbonhidrat depolarının’’ toplam enerji değeri kaçtır?",
+      "options": [
+        "400 kcal.",
+        "800 kcal.",
+        "1200 kcal.",
+        "1600 kcal.",
+        "2000 kcal."
+      ],
+      "correctIndex": 4,
+      "explanation": "İnsan vücudundaki toplam karbonhidrat deposu; karaciğer glikojeni, kas glikojeni ve kandaki glikozun toplamından oluşur. Egzersiz fizyolojisi kaynaklarında bu toplam enerji deposunun yaklaşık 2000 kcal düzeyinde olduğu belirtilir; bu miktar yağ depolarına kıyasla oldukça sınırlıdır ve uzun süreli egzersizlerde tükenme riski taşır.",
+      "optionNotes": [
+        "Bu değer, karbonhidrat depolarının toplamından çok daha düşüktür; yaklaşık olarak sadece kan glikozu ve bir kısım karaciğer glikojenine karşılık gelebilecek küçük bir miktardır.",
+        "Bu değer toplam karbonhidrat deposunun yaklaşık yarısına karşılık gelir, kas ve karaciğer glikojeni ile kan glikozunun toplam enerji içeriğini tam olarak yansıtmaz.",
+        "Bu değer gerçek toplam depodan belirgin şekilde azdır; özellikle kas glikojeninin katkısı tam hesaba katılmadığında ortaya çıkabilecek eksik bir tahmindir.",
+        "Toplam karbonhidrat enerji deposuna yakın olsa da yine kabul edilen referans değerin (2000 kcal) altında kalan bir tahmindir.",
+        "Doğru yanıt: Karaciğer ve kas glikojeni ile kan glikozundan oluşan toplam karbonhidrat deposunun enerji değeri yaklaşık 2000 kcal olarak kabul edilir."
+      ]
+    },
+    {
+      "question": "Dış dirençlere karşı, bir uyaranla başlayan ve belirlenmiş hareketin tamamlanması, belirlenmiş mesafenin kat edilmesi için geçen zaman süresinin azlığı ile oluşan fiziksel değere ne ad verilir?",
+      "options": [
+        "Dayanıklılık",
+        "Sürat",
+        "Kuvvet",
+        "Beceri",
+        "Esneklik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sürat; bir uyaranla başlayan, dış dirençlere karşı belirli bir hareketin tamamlanması veya belirli bir mesafenin kat edilmesi için geçen zamanın kısalığıyla ifade edilen fiziksel bir değerdir. Tanımın merkezinde 'zaman süresinin azlığı' vurgusu bulunduğundan bu soru doğrudan sürati tanımlar.",
+      "optionNotes": [
+        "Dayanıklılık, yorgunluğa karşı direnç gösterme ve performansı uzun süre sürdürme yeteneğidir; burada vurgulanan zamanın kısalığı değil sürekliliktir.",
+        "Doğru yanıt: Sürat, bir uyaranla başlayan hareketin veya belirli bir mesafenin en kısa zamanda tamamlanmasını ifade eden fiziksel değerdir.",
+        "Kuvvet, bir dirence karşı kas kuvveti üretme kapasitesidir; zaman unsuru değil üretilen kuvvetin büyüklüğü esastır.",
+        "Beceri, sinir-kas koordinasyonuyla amaca yönelik hareket üretme yeteneğidir; burada tanımlanan zaman kısalığı ölçütüyle ilgili değildir.",
+        "Esneklik, eklem hareket genişliğiyle ilgilidir; zaman ve mesafe temelli bir tanım değildir."
+      ]
+    },
+    {
+      "question": "Latince “flexibilis” kelimesinden türetilen ve Range of Motion (ROM) terimi ile eş anlamlı olan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Dayanıklılık",
+        "Sürat",
+        "Kuvvet",
+        "Beceri",
+        "Esneklik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Esneklik kavramı Latince 'flexibilis' (eğilebilir, bükülebilir) kelimesinden türetilmiştir ve eklemlerin ulaşabildiği hareket genişliğini ifade eden 'Range of Motion (ROM)' terimiyle eş anlamlı olarak kullanılır.",
+      "optionNotes": [
+        "Dayanıklılık, yorgunluğa karşı direnç gösterme yeteneğidir; eklem hareket genişliği (ROM) ile bir ilgisi yoktur.",
+        "Sürat, zamana karşı hız performansını ifade eder; 'flexibilis' kökeniyle veya ROM terimiyle ilişkisi yoktur.",
+        "Kuvvet, dirence karşı kuvvet üretme kapasitesidir; eklem hareket genişliğini tanımlayan ROM terimiyle eş anlamlı değildir.",
+        "Beceri, sinir-kas koordinasyonu ile hareket üretme yeteneğidir; eklem hareket açıklığı kavramıyla ilgili değildir.",
+        "Doğru yanıt: Esneklik, Latince 'flexibilis' kelimesinden türemiştir ve eklemlerin hareket genişliğini ifade eden Range of Motion (ROM) terimiyle eş anlamlı olarak kullanılır."
+      ]
+    },
+    {
+      "question": "I. Kısa süreli dayanıklılık II. Orta süreli dayanıklılık III. Uzun süreli dayanıklılık Yukarıdakilerden hangileri süre acısından dayanıklılık sınıflandırılmasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Dayanıklılık, süre açısından kısa süreli, orta süreli ve uzun süreli dayanıklılık olmak üzere üçe ayrılır; dolayısıyla verilen üç madde de bu sınıflandırmanın parçasıdır.",
+      "optionNotes": [
+        "Sadece kısa süreli dayanıklılığı içerir, orta ve uzun süreli dayanıklılık kategorilerini dışarıda bırakır; süreye göre sınıflandırma üç kategoriyi birden kapsar.",
+        "Kısa ve orta süreli dayanıklılığı içerir ancak uzun süreli dayanıklılık kategorisini eksik bırakır.",
+        "Kısa ve uzun süreli dayanıklılığı içerir ancak aradaki orta süreli dayanıklılık kategorisini dışarıda bırakır, bu nedenle sınıflandırma eksik kalır.",
+        "Orta ve uzun süreli dayanıklılığı içerir ancak kısa süreli dayanıklılık kategorisini eksik bırakır.",
+        "Doğru yanıt: Süre açısından dayanıklılık; kısa süreli, orta süreli ve uzun süreli dayanıklılık olmak üzere üç kategoride sınıflandırılır ve verilen üç madde de bu sınıflamanın birer parçasıdır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi kuvvetin oluşmasının etkileyen Koordinatif faktörlerden biridir?",
+      "options": [
+        "Sporcunun antropometrik Ölçüleri",
+        "Kas metabolizması",
+        "Morfolojik ve fonksiyonel yeteneklerin iş birliği",
+        "Kasın morfolojik ve fizyolojik faktör yapısı",
+        "Sporcudaki motivasyon gücü"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuvvetin oluşmasını etkileyen faktörler morfolojik, koordinatif (sinirsel) ve psikolojik faktörler olarak gruplandırılır. Koordinatif faktörler, kasın morfolojik özellikleriyle sinir sisteminin fonksiyonel kontrol yeteneğinin uyum içinde (iş birliği içinde) çalışmasını, yani kas içi ve kaslar arası koordinasyonu ifade eder; bu nedenle 'morfolojik ve fonksiyonel yeteneklerin iş birliği' koordinatif faktöre örnektir.",
+      "optionNotes": [
+        "Boy, kol-bacak uzunluğu gibi antropometrik ölçüler morfolojik faktörler arasında değerlendirilir, koordinatif (sinirsel iş birliği) bir faktör değildir.",
+        "Kas metabolizması, enerji üretimiyle ilgili fizyolojik/metabolik bir faktördür, sinir-kas koordinasyonunu ifade eden koordinatif faktörler grubunda yer almaz.",
+        "Doğru yanıt: Morfolojik ve fonksiyonel yeteneklerin iş birliği, kas içi ve kaslar arası sinirsel koordinasyonu ifade eden koordinatif faktörlerin tanımına karşılık gelir.",
+        "Bu ifade kasın yapısal (morfolojik) ve fizyolojik özelliklerine atıfta bulunur, koordinasyon kavramıyla değil kas yapısıyla ilgilidir.",
+        "Motivasyon, kuvveti etkileyen psikolojik faktörler grubuna girer, koordinatif faktörlerle ilgili değildir."
+      ]
+    },
+    {
+      "question": "Sporcunun kendi vücut ağırlığına karşı geliştirebildiği mümkün olan en büyük kuvvete ne ad verilir?",
+      "options": [
+        "Kuvvette devamlılık",
+        "Statik kuvvet",
+        "Dinamik kuvvet",
+        "Relatif kuvvet",
+        "Salt kuvvet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Relatif (bağıl) kuvvet, sporcunun kendi vücut ağırlığına oranla geliştirebildiği en büyük kuvveti ifade eder; yani salt kuvvetin vücut ağırlığına oranlanmasıyla elde edilen değerdir ve özellikle vücut ağırlığının taşınmasının önemli olduğu branşlarda (cimnastik, güreş gibi) belirleyicidir.",
+      "optionNotes": [
+        "Kuvvette devamlılık (kuvvette dayanıklılık), kasın bir kuvveti uzun süre veya tekrarlı şekilde sürdürebilme yeteneğidir; vücut ağırlığına oranlanan en büyük kuvvetle ilgili değildir.",
+        "Statik kuvvet, kasın boyunda gözle görülür bir değişiklik olmadan (izometrik) ürettiği kuvvettir; vücut ağırlığına oranlanmış kuvvetle ilgili değildir.",
+        "Dinamik kuvvet, kasın boyu değişerek (konsantrik/eksantrik) hareket sırasında ürettiği kuvvettir; vücut ağırlığına oranlanan en büyük kuvvet kavramını ifade etmez.",
+        "Doğru yanıt: Relatif kuvvet, sporcunun kendi vücut ağırlığına karşı geliştirebildiği mümkün olan en büyük kuvveti ifade eder.",
+        "Salt (maksimal) kuvvet, sporcunun vücut ağırlığından bağımsız olarak üretebildiği mutlak en büyük kuvvettir; vücut ağırlığına göre oranlanan kuvvet değil mutlak değerdir."
+      ]
+    },
+    {
+      "question": "I. Kişinin genetik olarak kas lifi tipi II. Adım uzunluğu III. Ruhsal durumu Yukarıdakilerden hangileri sürati etkileyen faktörler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sürat; genetik olarak belirlenen hızlı kasılan (tip II) kas lifi oranı, hareketin biyomekanik özelliklerinden adım uzunluğu ve sporcunun motivasyon/konsantrasyon gibi ruhsal durumu dahil olmak üzere birçok faktörden etkilenir; bu nedenle verilen üç faktörün tümü sürati etkileyen unsurlar arasındadır.",
+      "optionNotes": [
+        "Sadece genetik kas lifi tipini içerir; adım uzunluğu ve ruhsal durum gibi sürati etkileyen diğer önemli faktörleri dışarıda bırakır.",
+        "Genetik kas lifi tipi ve adım uzunluğunu içerir ancak sporcunun ruhsal/psikolojik durumunun sürat performansı üzerindeki etkisini göz ardı eder.",
+        "Genetik faktör ve ruhsal durumu içerir ancak hareketin biyomekanik bir bileşeni olan adım uzunluğunu dışarıda bırakır.",
+        "Adım uzunluğu ve ruhsal durumu içerir ancak sürati büyük ölçüde belirleyen genetik kas lifi tipi faktörünü eksik bırakır.",
+        "Doğru yanıt: Genetik kas lifi tipi, adım uzunluğu ve ruhsal durum; sürat performansını etkileyen faktörler arasında birlikte yer alır."
+      ]
+    },
+    {
+      "question": "Hareketlerdeki özel dinamik değişimleri fark ederek bu dinamik değişimlere göre hareket edebilme yeteneğine ne ad verilir?",
+      "options": [
+        "Kinestetik Ayrımlama",
+        "Boyutsal Yön Belirleme",
+        "Denge",
+        "Ritim",
+        "Reaksiyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ritim yeteneği, bir hareketin akışındaki özel dinamik değişimleri (hızlanma, yavaşlama, kuvvet değişimleri) algılayıp bu değişimlere uygun şekilde hareket edebilme becerisidir; koordinatif yeteneklerden biri olarak özellikle dans, cimnastik gibi ritim duyarlılığı gerektiren branşlarda önem taşır.",
+      "optionNotes": [
+        "Kinestetik ayrımlama, kas-sinir sisteminden gelen bilgilerle hareketin ince derecelerde farklılaştırılmasını sağlar; dinamik değişimleri fark edip ritmik uyum sağlamaktan farklı bir yetenektir.",
+        "Bu yetenek, vücudun ve nesnelerin mekân içindeki konumunu/yönünü algılamayla ilgilidir; hareketin dinamik (zamansal) değişimlerine uyum sağlamakla ilgili değildir.",
+        "Denge, vücudun istenen pozisyonunu koruma ve kas aktivitesini koordine etme yeteneğidir; hareketteki dinamik değişimleri algılayıp buna göre hareket etmekle doğrudan ilgili değildir.",
+        "Doğru yanıt: Ritim, hareketteki özel dinamik değişimleri fark ederek bu değişimlere uygun şekilde hareket edebilme yeteneğidir.",
+        "Reaksiyon, bir uyarana karşı en kısa zamanda tepki verme yeteneğidir; devam eden bir hareketteki dinamik değişimlere uyum sağlamaktan farklıdır."
+      ]
+    },
+    {
+      "question": "Kas aktivitesinin koordinasyonudur. Hareket sırasında vücudun istenen pozisyonunu sağlayabilme yeteneğidir. Yukarıda verilen beceriye ait özellik aşağıdakilerden hangisidir?",
+      "options": [
+        "Kinestetik Ayrımlama",
+        "Boyutsal Yön Belirleme",
+        "Denge",
+        "Ritim",
+        "Reaksiyon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Denge, kas aktivitelerinin koordinasyonu sayesinde vücudun hareket sırasında veya durağan halde istenen pozisyonunu koruyabilme ya da bozulan dengeyi hızla yeniden kurabilme yeteneğidir.",
+      "optionNotes": [
+        "Bu yetenek, hareketin ince derecelerde farklılaştırılmasıyla ilgilidir, vücut pozisyonunun korunmasıyla ilgili kas koordinasyonunu doğrudan ifade etmez.",
+        "Bu yetenek, vücudun mekân içindeki konumunu/yönünü algılamakla ilgilidir, pozisyon koruma kas koordinasyonundan farklıdır.",
+        "Doğru yanıt: Denge, kas aktivitesinin koordinasyonu yoluyla vücudun istenen pozisyonunu sağlayabilme ve koruyabilme yeteneğidir.",
+        "Ritim, hareketin dinamik (zamansal) değişimlerine uyum sağlamakla ilgilidir, istenen vücut pozisyonunu koruma tanımını karşılamaz.",
+        "Reaksiyon, bir uyarana en kısa sürede tepki verme yeteneğidir; vücut pozisyonunun sürdürülmesiyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "Yüksek atlama sporcusunun çıtanın yüksekliğini ve yerini iyi algılayarak daha iyi bir yerden ve iyi bir zamanlama ile sıçrayabilmesi hangi beceri özelliğiyle ilgilidir?",
+      "options": [
+        "Kinestetik Ayrımlama",
+        "Boyutsal Yön Belirleme",
+        "Denge",
+        "Ritim",
+        "Reaksiyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boyutsal yön belirleme (mekânsal yönelim), sporcunun kendi vücudunun ve çevresindeki nesnelerin (örneğin çıtanın yüksekliği ve konumu) mekân içindeki konumunu doğru algılayarak hareketini buna göre zamanlaması ve yönlendirmesi yeteneğidir; yüksek atlama örneğinde tam olarak bu yetenek devreye girer.",
+      "optionNotes": [
+        "Bu yetenek, kas-sinir sisteminden gelen bilgilerle hareketin ince ayarlanmasıyla ilgilidir; çıtanın mekândaki konumunu algılamaktan farklı bir süreçtir.",
+        "Doğru yanıt: Boyutsal yön belirleme, sporcunun çıtanın yüksekliğini ve konumunu doğru algılayarak sıçramasını en uygun yer ve zamanlamayla gerçekleştirmesini sağlayan yetenektir.",
+        "Denge, vücudun istenen pozisyonunu koruma yeteneğidir; çıtanın yükseklik ve konumunu algılayarak zamanlama yapmakla doğrudan ilgili değildir.",
+        "Ritim, hareketin dinamik akışındaki değişimlere uyum sağlamakla ilgilidir; mekândaki bir nesnenin konumunu algılama yeteneğini ifade etmez.",
+        "Reaksiyon, bir uyarana en kısa sürede tepki verme yeteneğidir; çıtanın konumunu önceden algılayıp sıçrama noktasını ayarlama sürecinden farklıdır."
+      ]
+    },
+    {
+      "question": "Bir becerinin öğrenilmesinde ………………………özelliği önemlidir. Bu özellik sayesinde hareketlerdeki hassas farklılaşmalar ve derecelendirmeler ortaya konulabilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Kinestetik Ayrımlama",
+        "Boyutsal Yön Belirleme",
+        "Denge",
+        "Ritim",
+        "Reaksiyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kinestetik ayrımlama, kaslardan, tendonlardan ve eklemlerden gelen derin duyusal (proprioseptif) bilgilerin merkezi sinir sisteminde işlenmesiyle hareketler arasındaki hassas farklılaşmaların ve kuvvet/genlik derecelendirmelerinin yapılabilmesini sağlayan koordinatif bir yetenektir; bu nedenle becerinin öğrenilmesinde kritik rol oynar.",
+      "optionNotes": [
+        "Doğru yanıt: Kinestetik ayrımlama, proprioseptif bilgilerin değerlendirilmesiyle hareketlerdeki hassas farklılaşma ve derecelendirmelerin ortaya konulmasını sağlayan yetenektir ve bir becerinin öğrenilmesinde önemlidir.",
+        "Bu yetenek, vücudun mekân içindeki konum ve yönünü algılamakla ilgilidir, hareketin hassas derecelendirilmesiyle ilgili değildir.",
+        "Denge, vücudun istenen pozisyonunu koruma yeteneğidir; hareketin ince farklılaştırılması ve derecelendirilmesiyle ilgili değildir.",
+        "Ritim, hareketteki dinamik değişimlere uyum sağlama yeteneğidir; hassas kuvvet/genlik ayarlamalarını doğrudan ifade etmez.",
+        "Reaksiyon, bir uyarana en kısa sürede tepki verme yeteneğidir; hareketin ince derecelerde farklılaştırılmasıyla ilgili değildir."
+      ]
+    },
+    {
+      "question": "Ayakta dururken gövdeyi alt ekstremiteye yaklaştırmak hangi esneklik türüne örnektir?",
+      "options": [
+        "Aktif esneklik",
+        "Pasif esneklik",
+        "Dinamik esneklik",
+        "Genel esneklik",
+        "Özel esneklik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aktif esneklik, kişinin kendi kas kuvvetini kullanarak, herhangi bir dış yardım veya dış kuvvet olmadan eklem hareket genişliğinin sınırına ulaşmasıdır. Ayakta dururken gövdeyi kendi kas kuvvetiyle öne eğerek alt ekstremiteye yaklaştırmak, dış bir yardım alınmadan gerçekleştirilen bir hareket olduğundan aktif esneklik örneğidir.",
+      "optionNotes": [
+        "Doğru yanıt: Ayakta dururken gövdeyi kendi kas kuvvetiyle alt ekstremiteye yaklaştırmak, dış yardım almadan gerçekleştirilen bir hareket olduğundan aktif esnekliğe örnektir.",
+        "Pasif esneklik, dış bir kuvvet veya yardımcı (partner, cihaz, yer çekimi gibi) aracılığıyla ulaşılan eklem hareketliliğidir; soruda tanımlanan hareket kişinin kendi kas kuvvetiyle yaptığı bir harekettir, dış yardım içermez.",
+        "Dinamik esneklik, hareketin akışı içinde, sıçrama veya salınım gibi hareketlerle eklem hareket genişliğinin kullanılmasıdır; soruda statik bir eğilme hareketi tanımlanmaktadır.",
+        "Genel esneklik, vücudun büyük eklem gruplarındaki genel hareket yeteneğini ifade eden geniş kapsamlı bir kavramdır, soruda tanımlanan spesifik hareket türünü (aktif/pasif ayrımını) karşılamaz.",
+        "Özel esneklik, belirli bir spor branşının gerektirdiği özgül eklem hareketliliğini ifade eder; soruda branşa özgü bir durum değil genel bir hareket türü (aktif-pasif ayrımı) sorulmaktadır."
+      ]
+    },
+    {
+      "question": "Sporcunun yaklaşık 30 m kadar oluşturduğu süreye ne ad verilir?",
+      "options": [
+        "Maksimum sürat",
+        "Ortalama sürat",
+        "Sprint sürati",
+        "Hareket sürati",
+        "Algılama sürati"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sprint sürati, sporcunun yaklaşık 30 metre gibi kısa bir mesafede gösterdiği hız performansını ifade eder ve genellikle sürat testlerinde (örneğin 30 m sprint testi) bu mesafe esas alınır.",
+      "optionNotes": [
+        "Maksimum sürat, sporcunun ulaşabildiği en yüksek hız değeridir ve genellikle daha uzun bir hızlanma mesafesinin ardından (30 m'den sonra) ortaya çıkar; 30 m'lik mesafenin kendisini tanımlamaz.",
+        "Ortalama sürat, belirli bir mesafe boyunca alınan hızların ortalamasını ifade eden genel bir kavramdır, özel olarak 30 m'lik mesafeyi tanımlayan bir terim değildir.",
+        "Doğru yanıt: Sprint sürati, sporcunun yaklaşık 30 metrelik mesafede oluşturduğu süreyi ifade eder.",
+        "Hareket sürati, tek bir hareketin (örneğin bir vuruşun) yapılma hızıyla ilgilidir, mesafe bazlı bir sprint ölçümünü ifade etmez.",
+        "Algılama sürati, bir uyaranın duyu organları tarafından fark edilme hızıyla ilgilidir, koşu mesafesiyle ilgili bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Sporcuyu dış yardım alarak dış kuvvetlerin etkisi ile daha büyük eklem hareketliliğine ulaştıran esneklik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Aktif esneklik",
+        "Pasif esneklik",
+        "Dinamik esneklik",
+        "Genel esneklik",
+        "Özel esneklik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pasif esneklik, sporcunun bir yardımcı, partner, cihaz veya yerçekimi gibi dış kuvvetlerin etkisiyle, kendi kas kuvvetiyle ulaşabileceğinden daha büyük bir eklem hareket genişliğine erişmesidir.",
+      "optionNotes": [
+        "Aktif esneklik, kişinin yalnızca kendi kas kuvvetiyle, dış yardım almadan ulaştığı eklem hareket genişliğidir; soruda tanımlanan dış kuvvetlerin etkisiyle ulaşılan daha büyük hareketlilik değildir.",
+        "Doğru yanıt: Pasif esneklik, sporcunun dış yardım alarak dış kuvvetlerin etkisiyle kendi kas gücüyle ulaşamayacağı daha büyük bir eklem hareketliliğine erişmesidir.",
+        "Dinamik esneklik, hareket halindeyken (sıçrama, salınım gibi) eklem hareket genişliğinin kullanılmasıdır; dış yardım alınarak ulaşılan statik bir hareketliliği ifade etmez.",
+        "Genel esneklik, vücudun büyük eklem gruplarındaki genel hareketlilik düzeyini ifade eden kapsamlı bir kavramdır; dış yardımla ulaşılan hareketliliği tanımlayan aktif/pasif ayrımıyla ilgili değildir.",
+        "Özel esneklik, belirli bir spor branşına özgü eklem hareketliliğini ifade eder; burada sorulan dış yardım alma durumu değil branşa özgülük söz konusu değildir."
+      ]
+    }
+  ]
+}

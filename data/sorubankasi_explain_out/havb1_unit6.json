@@ -1,0 +1,558 @@
+{
+  "course": "havb1",
+  "unit_index": 6,
+  "topic": "Genel Antrenman Bilimi: Antrenman Planlama ve Periyotlama",
+  "questions": [
+    {
+      "question": "Makro planlar genellikle…..çalışmaları kapsarken mikro planlar……yani haftalık çalışmaları kapsamaktadır. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1-2 haftalık 2-3 günlük",
+        "3-5 haftalık 3-5 günlük",
+        "2-6 haftalık 3-7 günlük",
+        "3-7 haftalık 6-9 günlük",
+        "5-10 haftalık 7-12 günlük"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antrenman planlamasında mezo (makro) döngüler birkaç haftayı kapsayan orta süreli planlardır ve genellikle 2-6 hafta arasında sürer; mikro döngüler ise bu döngülerin içindeki haftalık planlardır ve bir haftayı oluşturan 3-7 günlük antrenman düzenini ifade eder. Bu nedenle boşluklara '2-6 haftalık' ve '3-7 günlük' ifadeleri gelmelidir.",
+      "optionNotes": [
+        "1-2 haftalık 2-3 günlük: Bir mezo döngü için 1-2 hafta çok kısadır; verilen günlük aralık da haftanın tamamını (3-7 gün) kapsamadığı için yetersizdir.",
+        "3-5 haftalık 3-5 günlük: Standart olarak kabul edilen 2-6 hafta ve 3-7 gün aralıklarına kısmen yaklaşsa da tam karşılamaz, üst sınırları eksik bırakır.",
+        "Doğru yanıt: Mezo (makro) döngüler 2-6 hafta arası sürmektedir, mikro döngüler ise bir haftayı oluşturan 3-7 günlük antrenman birimlerini kapsar; bu aralıklar antrenman bilimi literatüründe kabul edilen standart değerlerdir.",
+        "3-7 haftalık 6-9 günlük: Mikro döngü bir haftadan (en fazla 7 gün) daha uzun olamayacağı için 6-9 gün ifadesi gerçekçi değildir.",
+        "5-10 haftalık 7-12 günlük: Hem haftalık hem günlük değerler gerçek sınırların çok üzerindedir; bir mikro döngü (hafta) 12 gün süremez."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Antrenman planlaması şemasında yer almaz?",
+      "options": [
+        "Ön koşullar",
+        "Metotlar",
+        "Denetim",
+        "Uygulama",
+        "Geri bildirim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenman planlaması şeması; ön koşulların belirlenmesi, uygulanacak metotların seçimi, planın uygulamaya geçirilmesi ve sürecin denetlenmesi aşamalarından oluşur. 'Geri bildirim' bu şemanın ayrı, adlandırılmış bir bileşeni değildir; sürecin izlenmesi ve düzeltilmesi zaten denetim aşamasının kapsamındadır.",
+      "optionNotes": [
+        "Ön koşullar: Planlamaya başlamadan önce sporcunun durumu ve hedeflerin değerlendirildiği, şemada yer alan bir aşamadır.",
+        "Metotlar: Planın hangi antrenman metotlarıyla uygulanacağının belirlendiği, şemada yer alan bir aşamadır.",
+        "Denetim: Planın uygulanma sürecinin kontrol edilmesi şemanın bir parçasıdır.",
+        "Uygulama: Belirlenen planın pratiğe geçirilmesi şemada yer alan aşamalardan biridir.",
+        "Doğru yanıt: Geri bildirim, antrenman planlaması şemasının resmi bileşenlerinden biri değildir; şema ön koşullar, metotlar, uygulama ve denetim aşamalarından oluşur."
+      ]
+    },
+    {
+      "question": "Günlük antrenman olarak da ifade edebileceğimiz……………..antrenman planlamasının en küçük parçasıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Birim Antrenman",
+        "Makro döngü",
+        "Yıllık Plan",
+        "Olimpik döngü",
+        "Dönemleme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birim antrenman (günlük antrenman), antrenman planlamasının hiyerarşisinde en küçük yapı taşıdır; mikro döngüler birim antrenmanlardan, mezo döngüler mikro döngülerden, makro döngüler ise mezo döngülerden oluşur.",
+      "optionNotes": [
+        "Doğru yanıt: Birim antrenman, bir günde gerçekleştirilen antrenman oturumunu ifade eder ve planlama hiyerarşisinin en küçük parçasıdır.",
+        "Makro döngü: Aylar ya da sezonu kapsayan büyük ölçekli bir planlama birimidir, en küçük parça olamaz.",
+        "Yıllık Plan: Bir sezonun/yılın tamamını kapsayan en kapsamlı plandır, günlük antrenmanla karıştırılmamalıdır.",
+        "Olimpik döngü: Dört yıllık (olimpiyatlar arası) en büyük planlama dönemidir, günlük antrenmanın tam tersi bir kapsam genişliğine sahiptir.",
+        "Dönemleme: Antrenmanın dönemlere ayrılması ilkesidir, somut bir zaman birimi değil bir planlama yaklaşımıdır."
+      ]
+    },
+    {
+      "question": "I. Başlangıç (giriş) II. Isınma III. Temel (ana) IV. Bitiriş (soğuma) Yukarıdakilerden hangileri Birim Antrenmanın bölümleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Birim antrenman; sporcuların toplandığı ve bilgilendirildiği başlangıç (giriş), vücudu faaliyete hazırlayan ısınma, asıl çalışmaların yapıldığı temel (ana) bölüm ve vücudu dinlenmeye geçiren bitiriş (soğuma) bölümlerinden oluşur. Dolayısıyla I, II, III ve IV'ün tümü birim antrenmanın bölümleri arasındadır.",
+      "optionNotes": [
+        "Yalnız I: Sadece başlangıcı içerir, ısınma, temel ve bitiriş bölümlerini dışarıda bırakan eksik bir yanıttır.",
+        "Yalnız II: Sadece ısınmayı kapsar, antrenmanın diğer üç temel bölümünü göz ardı eder.",
+        "I – II: Başlangıç ve ısınmayı kapsar ama asıl çalışmanın yapıldığı temel bölüm ile bitiriş bölümünü dışarıda bırakır.",
+        "I – II – III: Bitiriş (soğuma) bölümünü dışarıda bırakır, oysa soğuma da birim antrenmanın zorunlu bir parçasıdır.",
+        "Doğru yanıt: Birim antrenman başlangıç, ısınma, temel ve bitiriş olmak üzere dört bölümden oluşur; I, II, III ve IV bölümlerinin tamamı bu yapıya dahildir."
+      ]
+    },
+    {
+      "question": "…………..göre, “Bir antrenman birimi, aşamalı artan yüklenme ilkesine bağlı olarak antrenörün yapılan çalışmadaki artış ve azalmayı izlemelerine olanak sağlayacak bir biçimde düzenlenmelidir.” Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Bompa’ya",
+        "Balyi’ye",
+        "McBride’a",
+        "Matwejew’e",
+        "Karl’a"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu ifade, antrenman biliminin önde gelen isimlerinden Tudor Bompa'nın görüşüdür. Bompa'ya göre bir antrenman birimi, aşamalı artan yüklenme ilkesine uygun şekilde düzenlenmeli ve antrenörün yüklenmedeki artış-azalışı izleyip gerekli ayarlamaları yapabilmesine olanak sağlamalıdır.",
+      "optionNotes": [
+        "Doğru yanıt: Bu görüş, periyotlama ve antrenman planlaması alanının öncü kuramcısı Tudor Bompa'ya aittir.",
+        "Balyi’ye: İstvan Balyi, uzun dönemli sporcu gelişimi (LTAD) modeliyle tanınır, bu özel ifade onunla ilişkilendirilmez.",
+        "McBride’a: McBride, kuvvet ve kondisyon antrenmanı alanında çalışan bir araştırmacıdır, bu ilke doğrudan ona atfedilmez.",
+        "Matwejew’e: Matveyev, periyotlamanın klasik modelini ve tek/çift uçlu periyodizasyon tablolarını geliştirmiştir, ancak bu spesifik ifade Bompa'ya aittir.",
+        "Karl’a: Bu isim, antrenman biriminin yapısına ilişkin bu özel görüşle anılan bir kuramcı değildir."
+      ]
+    },
+    {
+      "question": "Isınmanın en önemli özelliği vücut ısısının ….°C kadar artırılmasıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Isınmanın temel fizyolojik amacı, kas ve vücut sıcaklığını performansı artıracak düzeye çıkarmaktır. Literatürde bu artışın yaklaşık 1°C olması gerektiği belirtilir; bu ölçülü artış kas elastikiyetini, enzim aktivitesini ve kan akışını olumlu yönde etkiler.",
+      "optionNotes": [
+        "Doğru yanıt: Isınmanın en önemli özelliği vücut ısısının yaklaşık 1°C kadar artırılmasıdır; bu artış performans için yeterli fizyolojik hazırlığı sağlar.",
+        "3: Bu değer gerçek ısınma etkisinin üzerindedir, vücut ısısı ısınma sırasında bu kadar yükselmez.",
+        "5: Fizyolojik olarak aşırı ve gerçekçi olmayan bir artış miktarıdır, böyle bir yükselme sağlık riski oluşturur.",
+        "7: Bu derece bir artış vücut için tehlikeli olup ısınmanın hedeflediği ölçülü etkiyle uyuşmaz.",
+        "9: Bu değer gerçek dışıdır; vücut ısısındaki böylesine büyük bir artış hipertermiye yol açar, ısınmanın amacı bu değildir."
+      ]
+    },
+    {
+      "question": "Antrenmanın giriş bölümünde aşağıdakilerden hangisi yapılmaz?",
+      "options": [
+        "Sporcuların toplanmaları sağlanır",
+        "Yoklama alınır",
+        "Grubun özelliğine göre yapılacak olan antrenmanın içeriği anlatılır",
+        "Sporcunun antrenmana motive olmasını sağlanır",
+        "Sporcunun fiziksel ve fizyolojik olarak hazır hâle getirilmesi sağlanmalıdır."
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenmanın giriş (başlangıç) bölümünde sporcuların toplanması, yoklama alınması, o günkü antrenman içeriğinin anlatılması ve sporcuların motive edilmesi gerçekleştirilir. Sporcunun fiziksel ve fizyolojik olarak hazır hâle getirilmesi ise ısınma bölümünün görevidir, giriş bölümünde yapılmaz.",
+      "optionNotes": [
+        "Sporcuların toplanmaları sağlanır: Giriş bölümünün tipik ve gerekli bir uygulamasıdır.",
+        "Yoklama alınır: Giriş bölümünde yapılan idari/organizasyonel bir uygulamadır.",
+        "Grubun özelliğine göre yapılacak olan antrenmanın içeriği anlatılır: Giriş bölümünde sporculara bilgilendirme yapılması gereken bir uygulamadır.",
+        "Sporcunun antrenmana motive olmasını sağlanır: Giriş bölümünün psikolojik hazırlık işlevidir.",
+        "Doğru yanıt: Sporcunun fiziksel ve fizyolojik olarak hazır hâle getirilmesi, giriş bölümünde değil ısınma bölümünde gerçekleştirilen bir uygulamadır."
+      ]
+    },
+    {
+      "question": "Antrenmanın ısınma bölümüyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "İdeal ısınma süresi 25-30 dakika kadar olmalıdır",
+        "Isınmanın en önemli özelliği vücut ısısının 1°C kadar artırılmasıdır",
+        "Isınma için aktif ve pasif ısınma olarak ikiye ayrılır.",
+        "Aktif ısınma, fiziksel aktivite uygulamaları ile kas ve vücut ısısının yükseltilmesi için yapılan uygulamalar olarak tanımlanır.",
+        "Aktif ısınma ise sauna, sıcak duş, sıcak banyolar, ısıtma torbaları ve diatermi gibi yöntemleri kapsar"
+      ],
+      "correctIndex": 4,
+      "explanation": "Aktif ısınma, koşu ve hareketli germe gibi fiziksel aktivite uygulamalarıyla kas ve vücut ısısının yükseltilmesidir; sauna, sıcak duş, sıcak banyo, ısıtma torbası ve diatermi gibi dışsal ısı kaynaklarıyla yapılan ısınma ise pasif ısınma olarak tanımlanır. Bu nedenle 'Aktif ısınma ise sauna, sıcak duş... diatermi gibi yöntemleri kapsar' ifadesi yanlıştır; çünkü bu tanım aslında pasif ısınmaya aittir.",
+      "optionNotes": [
+        "İdeal ısınma süresi 25-30 dakika kadar olmalıdır: Bu ifade doğrudur ve literatürle uyumludur.",
+        "Isınmanın en önemli özelliği vücut ısısının 1°C kadar artırılmasıdır: Bu ifade doğrudur.",
+        "Isınma için aktif ve pasif ısınma olarak ikiye ayrılır.: Bu sınıflandırma doğrudur.",
+        "Aktif ısınma, fiziksel aktivite uygulamaları ile kas ve vücut ısısının yükseltilmesi için yapılan uygulamalar olarak tanımlanır.: Bu tanım doğrudur.",
+        "Doğru yanıt: Bu ifade yanlıştır; sauna, sıcak duş, sıcak banyo, ısıtma torbaları ve diatermi gibi dışsal yöntemler aktif ısınmayı değil pasif ısınmayı tanımlar, çünkü bu yöntemlerde sporcunun kendi fiziksel aktivitesi yer almaz."
+      ]
+    },
+    {
+      "question": "Sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel Biyomotor yetileri ve psikolojik niteliklerini geliştirmek antrenmanın hangi bölümüne girmektedir?",
+      "options": [
+        "Başlangıç",
+        "Isınma",
+        "Temel",
+        "Bitiriş",
+        "Soğuma"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yeni beceri kazandırma, teknik-taktik davranışları öğretme, özel biyomotor yetileri ve psikolojik nitelikleri geliştirme, antrenmanın asıl çalışmanın yapıldığı temel (ana) bölümünde gerçekleştirilir; çünkü bu bölüm antrenmanın hedeflerine yönelik en yoğun ve amaca özgü çalışmaların yapıldığı kısımdır.",
+      "optionNotes": [
+        "Başlangıç: Sadece organizasyon, bilgilendirme ve motivasyon içerir, beceri/teknik öğretimi bu bölümde yapılmaz.",
+        "Isınma: Vücudu çalışmaya hazırlamaya yönelik bir bölümdür, yeni beceri öğretimi burada gerçekleşmez.",
+        "Doğru yanıt: Yeni beceri, teknik-taktik öğretimi ve biyomotor/psikolojik niteliklerin geliştirilmesi, antrenmanın temel (ana) bölümünde yapılır; bu bölüm antrenmanın asıl amacına hizmet eden kısmıdır.",
+        "Bitiriş: Vücudu dinlenmeye geçirme amacı taşır, yeni öğrenme veya gelişim hedefleri burada değil temel bölümde ele alınır.",
+        "Soğuma: Bitiriş bölümünün bir diğer adıdır ve toparlanmaya yöneliktir, beceri öğretimiyle ilişkili değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi antrenmanın ana bölümünde gerçekleştirilmesi gereken uygulamalardan biri değildir?",
+      "options": [
+        "Taktik ögelerinin öğrenilmesi",
+        "Çevikliğin geliştirilmesi",
+        "Yorgunluğu azaltan hareketlerin yapılması",
+        "Kuvvetin geliştirilmesi",
+        "Dayanıklılığın geliştirilmesi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antrenmanın ana (temel) bölümünde taktik öğrenme, çeviklik, kuvvet ve dayanıklılık gibi biyomotor yetilerin geliştirilmesine yönelik yoğun çalışmalar yapılır. Yorgunluğu azaltan hareketler ise vücudu dinlenme durumuna geçirmeyi amaçlayan bitiriş (soğuma) bölümüne ait bir uygulamadır, bu nedenle ana bölümde yer almaz.",
+      "optionNotes": [
+        "Taktik ögelerinin öğrenilmesi: Ana bölümde gerçekleştirilen tipik bir çalışmadır.",
+        "Çevikliğin geliştirilmesi: Biyomotor yeti geliştirme ana bölümün kapsamındadır.",
+        "Doğru yanıt: Yorgunluğu azaltan hareketlerin yapılması ana bölüme değil, antrenmanın bitiriş (soğuma) bölümüne aittir; ana bölümün amacı yüklenmeyi azaltmak değil artırmaktır.",
+        "Kuvvetin geliştirilmesi: Biyomotor yeti geliştirme olarak ana bölümde yapılan bir çalışmadır.",
+        "Dayanıklılığın geliştirilmesi: Ana bölümde hedeflenen biyomotor gelişim çalışmalarından biridir."
+      ]
+    },
+    {
+      "question": "Antrenman biriminin ana bölümünün tamamlanmasının ardından hangi evreye geçilmektedir?",
+      "options": [
+        "Giriş",
+        "Başlangıç",
+        "Isınma",
+        "Temel",
+        "Bitiriş"
+      ],
+      "correctIndex": 4,
+      "explanation": "Birim antrenmanın sıralaması başlangıç, ısınma, temel (ana) ve bitiriş şeklindedir. Bu nedenle ana bölümün tamamlanmasının ardından sırayla bitiriş (soğuma) bölümüne geçilir.",
+      "optionNotes": [
+        "Giriş: Başlangıç bölümüyle eş anlamlı olup antrenmanın en başında yer alır, ana bölümden sonra tekrar bu aşamaya dönülmez.",
+        "Başlangıç: Antrenmanın ilk bölümüdür, ana bölümden önce gelir, sonra gelmez.",
+        "Isınma: Ana bölümden önceki aşamadır, sıralama mantığına göre ana bölümden sonra tekrar ısınmaya dönülmez.",
+        "Temel: Sorunun bahsettiği ana bölümün kendisidir, kendisinden sonra yine kendisine geçilmez.",
+        "Doğru yanıt: Ana (temel) bölüm tamamlandıktan sonra sıradaki ve son aşama olan bitiriş (soğuma) bölümüne geçilir."
+      ]
+    },
+    {
+      "question": "Soğuma yaklaşık….dakika civarı süren….ana bölümden oluşur. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "10 – 2",
+        "15 – 3",
+        "20 – 2",
+        "20 – 3",
+        "30 – 4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soğuma (bitiriş) bölümü, vücudu antrenman öncesi dinlenik duruma döndürmeyi hedefler ve literatürde yaklaşık 20 dakika sürdüğü, aktif ve pasif soğuma olmak üzere iki ana bölümden oluştuğu belirtilir.",
+      "optionNotes": [
+        "10 – 2: Süre olarak gerçek değerin altındadır, soğumanın etkili olması için bu süre yetersiz kalır.",
+        "15 – 3: Hem süre hem bölüm sayısı kabul edilen standarttan (20 dakika, 2 bölüm) farklıdır.",
+        "Doğru yanıt: Soğuma yaklaşık 20 dakika sürer ve aktif ile pasif soğuma olmak üzere 2 ana bölümden oluşur.",
+        "20 – 3: Süre doğru olsa da bölüm sayısı yanlıştır, soğuma iki ana bölümden oluşur, üç değil.",
+        "30 – 4: Hem süre hem bölüm sayısı gerçek değerlerin oldukça üzerindedir."
+      ]
+    },
+    {
+      "question": "Antrenman biriminin süresi birçok etmene bağlı olmasına karşın ortalama olarak kaç dakika sürmektedir?",
+      "options": [
+        "45",
+        "60",
+        "100",
+        "120",
+        "160"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenman biriminin süresi sporcunun seviyesine, branşa ve döneme göre değişmekle birlikte literatürde ortalama süre yaklaşık 120 dakika (2 saat) olarak kabul edilir.",
+      "optionNotes": [
+        "45: Bu süre çok kısa bir antrenman birimi için uygun olabilir ama ortalama değeri yansıtmaz.",
+        "60: Bir saatlik süre ortalama antrenman biriminin oldukça altında kalır.",
+        "100: Ortalama değere yaklaşsa da kabul edilen standart süre olan 120 dakikadan farklıdır.",
+        "Doğru yanıt: Antrenman biriminin süresi birçok etmene bağlı olsa da literatürde ortalama 120 dakika olarak kabul edilir.",
+        "160: Bu süre ortalama değerin oldukça üzerindedir ve çoğu antrenman birimi için gerçekçi değildir."
+      ]
+    },
+    {
+      "question": "3 ve 4 bölümlü antrenman biriminde ısınma bölümü kaç dakikadır?",
+      "options": [
+        "10",
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 ve 4 bölümlü (yani başlangıç, ısınma, temel, bitiriş bölümlerinin ayrı ayrı planlandığı) antrenman birimlerinde ısınma bölümünün süresi literatürde yaklaşık 30 dakika olarak belirtilir.",
+      "optionNotes": [
+        "10: Bu süre tam bir ısınma için oldukça kısadır, yeterli fizyolojik hazırlığı sağlamaz.",
+        "Doğru yanıt: 3 ve 4 bölümlü antrenman biriminde ısınma bölümü yaklaşık 30 dakika sürmektedir.",
+        "40: Kabul edilen standart süreden daha uzundur.",
+        "50: Isınma için gerçekçi olmayan derecede uzun bir süredir, toplam antrenman süresinin önemli bir kısmını alır.",
+        "60: Bu süre neredeyse antrenmanın tamamına yakın bir zamanı ısınmaya ayırmayı gerektirir, gerçek uygulamayla uyuşmaz."
+      ]
+    },
+    {
+      "question": "Bireysel branşlardaki sporcuların yıl (sezon) içerisinde en fazla kaç defa zirve performansa çıkabilecekleri öngörülmektedir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Periyotlama teorisinde, özellikle çift uçlu periyodizasyon modelinde, bireysel branşlardaki sporcuların bir sezon içinde fizyolojik ve psikolojik olarak en fazla 2 defa zirve (doruk) performansa çıkabilecekleri öngörülür; daha fazla zirve hedeflemek performans düşüşüne ve sakatlık riskine yol açabilir.",
+      "optionNotes": [
+        "Doğru yanıt: Bireysel branşlarda sporcuların yıl içinde en fazla 2 defa zirve performansa çıkabileceği öngörülmektedir.",
+        "3: Bu sayı kabul edilen üst sınırı aşar, art arda bu kadar zirve performansı korumak fizyolojik olarak sürdürülebilir değildir.",
+        "4: Zirve performans sayısının bu kadar yüksek olması periyotlama teorisiyle uyuşmaz.",
+        "5: Gerçekçi olmayan derecede yüksek bir sayıdır, yorgunluk ve toparlanma dengesini bozar.",
+        "6: Bu sayı bireysel branşlar için öngörülen sınırın çok üzerindedir."
+      ]
+    },
+    {
+      "question": "Tek uçlu Periyodizasyon ve Çift uçlu Periyodizasyon tabloları kime aittir?",
+      "options": [
+        "Bompa",
+        "Balyi",
+        "McBride",
+        "Matwejew",
+        "Karl"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tek uçlu ve çift uçlu periyodizasyon (single-peak ve double-peak periodization) tabloları, periyotlamanın klasik modelini geliştiren Rus bilim adamı L.P. Matveyev'e (Matwejew) aittir.",
+      "optionNotes": [
+        "Bompa: Periyotlama alanında önemli bir diğer kuramcıdır ancak bu spesifik tek/çift uçlu tablolar Matveyev'e aittir.",
+        "Balyi: Uzun dönemli sporcu gelişim modeliyle (LTAD) tanınır, periyodizasyon tabloları onunla anılmaz.",
+        "McBride: Kuvvet antrenmanı araştırmalarıyla bilinir, bu tablolarla ilişkilendirilmez.",
+        "Doğru yanıt: Tek uçlu ve çift uçlu periyodizasyon tabloları, periyotlama teorisinin kurucularından Matveyev'e (Matwejew) aittir.",
+        "Karl: Bu isim periyodizasyon tablolarıyla anılan bilinen bir kuramcı değildir."
+      ]
+    },
+    {
+      "question": "Mikro antrenman planlaması……….yapılacak olan birim antrenman sayısının belirlenmesidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Günlük",
+        "Haftalık",
+        "6 aylık",
+        "9 aylık",
+        "Yıllık"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mikro antrenman planlaması, bir hafta içinde yapılacak birim antrenman sayısının ve içeriğinin belirlenmesidir; mikro döngü kavramı doğrudan haftalık planlamayı ifade eder.",
+      "optionNotes": [
+        "Günlük: Günlük planlama birim antrenmanın kendisiyle ilgilidir, mikro döngü kavramı haftalık süreyi ifade eder.",
+        "Doğru yanıt: Mikro antrenman planlaması, haftalık olarak yapılacak birim antrenman sayısının belirlenmesidir.",
+        "6 aylık: Bu süre mezo döngü veya dönemleme kapsamına girer, mikro döngü ile ilişkilendirilmez.",
+        "9 aylık: Bu kadar uzun bir süre makro/yıllık planlama kapsamına girer, mikro döngünün tanımıyla uyuşmaz.",
+        "Yıllık: Yıllık planlama makro döngü/yıllık plan kavramına karşılık gelir, mikro döngü haftalık bir birimdir."
+      ]
+    },
+    {
+      "question": "Mezo döngüler içinde yer alan tek haftalık Planlamalara ne ad verilir?",
+      "options": [
+        "Birim Antrenman",
+        "Makro döngü",
+        "Yıllık Plan",
+        "Olimpik döngü",
+        "Mikro döngü"
+      ],
+      "correctIndex": 4,
+      "explanation": "Mezo döngüler birkaç mikro döngüden oluşur; bu mikro döngülerin her biri bir haftalık antrenman planlamasını temsil eder. Bu nedenle mezo döngü içindeki tek haftalık planlamaya mikro döngü adı verilir.",
+      "optionNotes": [
+        "Birim Antrenman: Günlük antrenmanı ifade eder, haftalık bir planlama birimi değildir.",
+        "Makro döngü: Aylar ya da bir sezonu kapsayan en büyük planlama birimidir, tek haftalık bir planlama değildir.",
+        "Yıllık Plan: Bir yıllık/sezonluk tüm planlamayı kapsar, haftalık ölçekte değildir.",
+        "Olimpik döngü: Dört yıllık bir dönemi ifade eder, haftalık planlamayla hiçbir ölçek benzerliği taşımaz.",
+        "Doğru yanıt: Mezo döngüler içindeki tek haftalık planlamalara mikro döngü adı verilir."
+      ]
+    },
+    {
+      "question": "Yukarıda görselde verilen mikro döngü türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Tek zirveli mikro döngü",
+        "İki zirveli mikro döngü",
+        "İki zirveli aşırı yüklemeli mikro döngü",
+        "İki zirveli hafta sonu müsabaka olan mikro döngü",
+        "Üç zirveli mikro döngü"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soruda görsel üzerinden bir mikro döngü yüklenme/dinlenme dağılımı verilmektedir. Tek zirveli mikro döngülerde hafta içinde tek bir yüklenme doruğu (en yüksek şiddetli antrenman günü) bulunur ve diğer günler bu doruğa hazırlık veya toparlanma amacıyla düzenlenir; görseldeki dağılım bu tek doruk yapısına uyduğu için doğru yanıt tek zirveli mikro döngüdür.",
+      "optionNotes": [
+        "Doğru yanıt: Görseldeki yüklenme dağılımı, hafta içinde tek bir yoğunluk doruğu bulunan tek zirveli mikro döngü yapısına karşılık gelmektedir.",
+        "İki zirveli mikro döngü: Bu tür hafta içinde iki ayrı yüklenme doruğu içerir; görseldeki yapı tek doruk gösterdiği için bu seçenek uymaz.",
+        "İki zirveli aşırı yüklemeli mikro döngü: Hem iki doruk hem de aşırı yükleme özelliği taşıyan daha karmaşık bir yapıdır, tek doruklu dağılımla örtüşmez.",
+        "İki zirveli hafta sonu müsabaka olan mikro döngü: Müsabaka odaklı ve çift doruklu özel bir mikro döngü türüdür, görseldeki genel yapıyla uyuşmaz.",
+        "Üç zirveli mikro döngü: Üç ayrı yüklenme doruğu içerir, görselde sadece bir doruk bulunduğu için bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "question": "Antrenörler yeni başlayan gruplarda antrenmanları haftada…..veya….birim olarak yaptırmalıdır. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1 – 2",
+        "2 – 3",
+        "3 – 4",
+        "4 – 5",
+        "5 – 6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yeni başlayan sporcu gruplarında antrenmana adaptasyon sürecini kolaylaştırmak ve sakatlık riskini azaltmak amacıyla haftada 3 veya 4 birim antrenman yapılması önerilir.",
+      "optionNotes": [
+        "1 – 2: Yeni başlayanlar için bile bu sıklık, gelişim sağlamak için yetersiz kalabilir.",
+        "2 – 3: Önerilen standart aralığın biraz altında kalan bir değerdir.",
+        "Doğru yanıt: Antrenörler yeni başlayan gruplarda antrenmanları haftada 3 veya 4 birim olarak yaptırmalıdır.",
+        "4 – 5: Yeni başlayanlar için önerilen sıklığın üzerinde olup aşırı yüklenme riski taşır.",
+        "5 – 6: Bu sıklık, deneyimsiz/yeni başlayan sporcular için fazla yoğun olup toparlanmayı zorlaştırır."
+      ]
+    },
+    {
+      "question": "I. Sporcunun antrenman seviyesi II. Sporcunun sağlık durumu III. Sporcunun fiziksel ve motorik gelişimi IV. Sporcunun teknik-taktik seviyesi V. Sporcunun psikolojik durumu Yukarıdakilerden hangileri Antrenörlerin sporcular için mikro döngüler hazırlanırken dikkat etmesi gereken ön koşullar arasında yer alır?",
+      "options": [
+        "I – II – III",
+        "II – IV",
+        "I – II – IV",
+        "I – II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenörler sporcular için mikro döngü hazırlarken sporcunun antrenman seviyesi, sağlık durumu, fiziksel-motorik gelişimi, teknik-taktik seviyesi ve psikolojik durumu olmak üzere beş ön koşulun tamamını dikkate almalıdır; bu bütüncül değerlendirme sporcuya uygun bir yüklenme planı oluşturmak için gereklidir.",
+      "optionNotes": [
+        "I – II – III: Teknik-taktik seviyesi ve psikolojik durumu dışarıda bırakır, eksik bir seçenektir.",
+        "II – IV: Sadece sağlık durumu ve teknik-taktik seviyesini kapsar, diğer üç önemli ön koşulu göz ardı eder.",
+        "I – II – IV: Fiziksel-motorik gelişim ve psikolojik durumu dışarıda bırakır, eksik bir kombinasyondur.",
+        "I – II – III – IV: Psikolojik durumu dışarıda bırakır, oysa psikolojik durum da mikro döngü planlamasında dikkat edilmesi gereken bir ön koşuldur.",
+        "Doğru yanıt: Mikro döngü hazırlanırken sporcunun antrenman seviyesi, sağlık durumu, fiziksel-motorik gelişimi, teknik-taktik seviyesi ve psikolojik durumu olmak üzere tüm bu beş ön koşulun dikkate alınması gerekir."
+      ]
+    },
+    {
+      "question": "Takım sporları için hazırlık dönemine yönelik 1 haftalık antrenman programında Rejenerasyon Koşusu hangi gün kaç dakika yapılmaktadır?",
+      "options": [
+        "Pazartesi sabah – 15 dakika",
+        "Salı sabah – 15 dakika",
+        "Çarşamba öğleden sonra – 15 dakika",
+        "Perşembe öğleden sonra – 30 dakika",
+        "Pazar öğleden sonra – 30 dakika"
+      ],
+      "correctIndex": 4,
+      "explanation": "Takım sporlarında hazırlık dönemine yönelik örnek 1 haftalık antrenman programında, haftanın yoğun yüklenmelerinin ardından toparlanmayı desteklemek amacıyla rejenerasyon koşusu, haftanın son günü olan Pazar öğleden sonra 30 dakika olarak planlanır.",
+      "optionNotes": [
+        "Pazartesi sabah – 15 dakika: Haftanın başındaki bu zaman dilimi genellikle yoğun çalışmaya ayrılır, rejenerasyon koşusunun planlandığı gün ve süre bu değildir.",
+        "Salı sabah – 15 dakika: Örnek programda rejenerasyon koşusu bu gün ve süreyle eşleşmez.",
+        "Çarşamba öğleden sonra – 15 dakika: Hem gün hem süre, programdaki rejenerasyon koşusu zamanlamasıyla uyuşmaz.",
+        "Perşembe öğleden sonra – 30 dakika: Süre doğru olsa da gün, programdaki yerleşimle örtüşmez.",
+        "Doğru yanıt: Örnek haftalık programda rejenerasyon koşusu, haftanın toparlanma amaçlı son günü olan Pazar öğleden sonra 30 dakika olarak uygulanır."
+      ]
+    },
+    {
+      "question": "Gençlere yönelik haftalık döngü 5+1 antrenman biriminde hangi gün boş bırakılır?",
+      "options": [
+        "Pazartesi",
+        "Salı",
+        "Çarşamba",
+        "Perşembe",
+        "Cuma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gençlere yönelik haftalık 5+1 antrenman döngüsünde, haftada 5 gün antrenman yapılıp 1 gün dinlenmeye ayrılır; bu örnek programda dinlenme/boş gün olarak Pazartesi günü belirlenmiştir.",
+      "optionNotes": [
+        "Doğru yanıt: Gençlere yönelik 5+1 haftalık döngüde boş (dinlenme) günü Pazartesi olarak belirlenmiştir.",
+        "Salı: Bu gün programda antrenman günü olarak yer alır, boş gün değildir.",
+        "Çarşamba: Haftanın ortasında yer alan bu gün programda antrenmana ayrılmıştır.",
+        "Perşembe: Bu gün de 5 antrenman gününden biri olarak planlanmıştır.",
+        "Cuma: Programda antrenman yapılan günlerden biridir, dinlenme günü olarak belirlenmemiştir."
+      ]
+    },
+    {
+      "question": "Elit performans sporcularına yönelik yüksek seviye antrenman birimi haftada kaç kez yapılmaktadır?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elit performans sporcularında yüksek antrenman hacmine ve sıklığına ihtiyaç duyulduğundan, yüksek seviye antrenman birimi haftada 9 kez (günde birden fazla birim antrenman uygulanarak) gerçekleştirilebilir.",
+      "optionNotes": [
+        "3: Bu sıklık elit sporcular için antrenman hacmi açısından oldukça yetersizdir.",
+        "5: Bu sayı genellikle günde tek birim antrenman yapılan orta düzey bir programa karşılık gelir, elit düzey için yetersizdir.",
+        "7: Günde tek antrenmanla haftanın her günü çalışmaya karşılık gelebilir ama elit sporcular için öngörülen üst sınırın altında kalır.",
+        "Doğru yanıt: Elit performans sporcularına yönelik yüksek seviye antrenman programında haftada 9 birim antrenman uygulanabilmektedir (günde birden fazla antrenman yapılarak).",
+        "11: Bu sayı literatürde öngörülen üst sınırın üzerinde, gerçekçi olmayan derecede yüksektir."
+      ]
+    },
+    {
+      "question": "Makro döngü antrenman programı hangi takvime göre hazırlanmalıdır?",
+      "options": [
+        "Günlük",
+        "Haftalık",
+        "Yarışma",
+        "Yıllık",
+        "Olimpik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Makro döngü antrenman programları, sporcunun önemli yarışmalara en iyi performans düzeyinde ulaşmasını sağlamak amacıyla yarışma (müsabaka) takvimine göre hazırlanır; dönemleme bu takvim doğrultusunda hazırlık, yarışma ve geçiş dönemlerine ayrılır.",
+      "optionNotes": [
+        "Günlük: Bu ölçek birim antrenman planlamasıyla ilişkilidir, makro döngü gibi geniş kapsamlı bir planlama günlük takvime göre hazırlanmaz.",
+        "Haftalık: Bu ölçek mikro döngü planlamasına karşılık gelir, makro döngü haftalık takvime göre düzenlenmez.",
+        "Doğru yanıt: Makro döngü antrenman programı, sporcunun hedeflediği yarışmalara göre performansını zirveye taşıyabilmesi için yarışma takvimine göre hazırlanmalıdır.",
+        "Yıllık: Yıllık plan daha genel bir çerçevedir, makro döngünün kendisi doğrudan yarışma takvimine göre şekillenir.",
+        "Olimpik: Bu takvim dört yıllık bir döngüyü ifade eder, makro döngü gibi daha kısa süreli bir planlama biriminin temel referansı değildir."
+      ]
+    },
+    {
+      "question": "Farklı hedefler ve branşlar için hazırlanacak bir makro döngü antrenman programı kaç hafta arasını kapsamaktadır?",
+      "options": [
+        "1 – 2",
+        "1 – 4",
+        "2 – 3",
+        "2 – 7",
+        "3 – 8"
+      ],
+      "correctIndex": 3,
+      "explanation": "Farklı hedefler ve branşlara göre hazırlanan makro döngüler, genellikle 2 ile 7 hafta arasında değişen sürelere sahiptir; bu süre, dönemin amacına (hazırlık, yarışma, geçiş) ve branşın özelliklerine göre belirlenir.",
+      "optionNotes": [
+        "1 – 2: Bu aralık bir makro döngü için oldukça kısa kalır, çoğu hedefe ulaşmak için yetersizdir.",
+        "1 – 4: Alt sınır gerçekçi olmayan kadar kısadır ve kabul edilen üst sınırı (7 hafta) kapsamaz.",
+        "2 – 3: Bu aralık gerçek üst sınırın (7 hafta) çok altında kalır, yalnızca çok kısa makro döngüleri kapsar.",
+        "Doğru yanıt: Farklı hedef ve branşlara göre hazırlanan bir makro döngü antrenman programı 2-7 hafta arasını kapsamaktadır.",
+        "3 – 8: Alt sınır doğru aralığın biraz üzerinde başlar ve üst sınır da kabul edilen değerin ötesine geçer."
+      ]
+    },
+    {
+      "question": "Hazırlık döneminde makro döngünün süresi kaç hafta arasında sürmektedir?",
+      "options": [
+        "1 – 3",
+        "1 – 5",
+        "2 – 3",
+        "4 – 7",
+        "5 – 8"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hazırlık döneminde uygulanan makro döngülerin süresi, genel ve özel hazırlık çalışmalarının yeterli düzeyde yapılabilmesi için literatürde yaklaşık 4-7 hafta arasında belirtilmektedir.",
+      "optionNotes": [
+        "1 – 3: Bu süre hazırlık döneminin makro döngüsü için oldukça kısadır, yeterli adaptasyon sağlanamaz.",
+        "1 – 5: Alt sınır gerçekçi değildir, kabul edilen aralığın başlangıcından (4 hafta) daha kısadır.",
+        "2 – 3: Bu aralık kabul edilen 4-7 haftalık sürenin önemli ölçüde altında kalır.",
+        "Doğru yanıt: Hazırlık döneminde makro döngünün süresi 4-7 hafta arasında sürmektedir.",
+        "5 – 8: Alt sınır doğru aralığın biraz üzerinde başlar ve üst sınır da kabul edilen değerin dışına taşar."
+      ]
+    },
+    {
+      "question": "Geçiş dönemlerine göre makro döngüler oluşturulmaktayken takım sporlarında sezon öncesi hazırlık dönemi yaklaşık kaç hafta kadar sürmektedir?",
+      "options": [
+        "1 – 4",
+        "2 – 4",
+        "4 – 6",
+        "6 – 8",
+        "8 – 10"
+      ],
+      "correctIndex": 3,
+      "explanation": "Geçiş dönemlerine göre şekillenen makro döngüler içinde, takım sporlarında sezon öncesi hazırlık dönemi genellikle 6-8 hafta arasında sürmektedir; bu süre fiziksel kondisyonun, taktik ve teknik altyapının sezona hazır hâle getirilmesi için gereklidir.",
+      "optionNotes": [
+        "1 – 4: Bu süre takım sporlarında sezon öncesi hazırlık için oldukça kısa kalır, yeterli hazırlığı sağlamaz.",
+        "2 – 4: Kabul edilen 6-8 haftalık aralığın epey altında kalan kısa bir süredir.",
+        "4 – 6: Üst sınırı doğru aralığa yaklaşsa da genel olarak kabul edilen 6-8 haftalık süreden kısadır.",
+        "Doğru yanıt: Takım sporlarında sezon öncesi hazırlık dönemi yaklaşık 6-8 hafta sürmektedir.",
+        "8 – 10: Alt sınır doğru değere yakın olsa da üst sınır kabul edilen aralığın üzerine çıkmaktadır."
+      ]
+    },
+    {
+      "question": "Yıllık plan……………kavramına ve ilkelerine dayanmaktadır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Birim",
+        "Makro",
+        "Aylık",
+        "Olimpik",
+        "Dönemleme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yıllık plan, antrenman sürecinin hazırlık, yarışma ve geçiş dönemleri gibi alt bölümlere ayrılmasını sağlayan dönemleme (periyotlama) kavramına ve bu kavramın ilkelerine dayanmaktadır.",
+      "optionNotes": [
+        "Birim: Bu kavram günlük antrenmanı ifade eder, yıllık planın dayandığı temel kavram değildir.",
+        "Makro: Makro döngü, yıllık planın içindeki bir alt bileşendir; yıllık planın kendisi dönemleme ilkesine dayanır.",
+        "Aylık: Bu şekilde adlandırılan resmi bir planlama birimi antrenman biliminde standart değildir ve yıllık planın temel dayanağı değildir.",
+        "Olimpik: Dört yıllık bir döngüyü ifade eder, yıllık planın kendisinin dayandığı kavram değildir.",
+        "Doğru yanıt: Yıllık plan, antrenman sürecini hazırlık, yarışma ve geçiş dönemlerine ayıran dönemleme (periyotlama) kavramına ve ilkelerine dayanmaktadır."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 3,
+  "topic": "Hareket Eğitimi ve Oyun",
+  "questions": [
+    {
+      "testNum": 1,
+      "num": 1,
+      "question": "Oyun ya bir yarışmaya benzer ya da bir şeye en iyi benzemek için yarıştır'' diyen fizyoloji profesörü kimdir?",
+      "options": ["Huizinga", "Gilliom", "Kirchner", "Russell", "Stanley"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 2,
+      "question": "Bir organizmanın çeşitli kısımlarının birbirine göre durumunu ya da yerini değiştirmesine ne ad verilmektedir?",
+      "options": ["Hareket", "Oyun", "Yarış", "Düzen", "Etkinlik"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 3,
+      "question": "Hareket eğitimi kim tarafından geliştirilmiştir?",
+      "options": ["Gilliom", "Rudolf Laban", "Kirchner", "Logsdon ve arkadaşları", "Maulden ve Redfen"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 4,
+      "question": "Çocuklar için temel hareket becerilerinin en hassas olduğu yaş dönemi aşağıdakilerden hangisidir?",
+      "options": ["0 – 2", "2 – 5", "3 – 6", "5 – 7", "6 – 9"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 5,
+      "question": "Aşağıdakilerden hangisi Dengeleme Gerektiren Hareketlerinden biri değildir?",
+      "options": ["Eğilme", "Esnetme", "Dönme", "Salınım", "Tırmanma"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 6,
+      "question": "Roger Caillois oyun sınıflandırmasını kaç ana başlık altında toplamıştır?",
+      "options": ["2", "3", "4", "5", "6"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 7,
+      "question": "Aşağıdakilerden hangisi Roger Caillois'ın oyun sınıflandırmasından biri değildir?",
+      "options": ["Şans Oyunları", "Gösteri – Rol Oyunları", "Macera – Heyecan Oyunları", "Topluluk oyunları", "Mücadele - Yarışma Oyunları"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 8,
+      "question": "Tavşan sıçraması, kanguru, ördek yürüyüşü gibi oyuncuların bir şeye benzeyerek yarıştığı oyunlara ne ad verilir?",
+      "options": ["Taklit Oyunları", "Mücadele Oyunları", "Basit Sportif Oyun Formları", "Sınıf oyunları", "Salon oyunları"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 9,
+      "question": "Eğitsel oyunların her zaman, her ortamda ve her yaş grubunda ilgi görmesini sağlayan özelliklerinden biri değildir?",
+      "options": ["Motivasyon", "Özgür ortam olması", "Motorik özellikleri test etme imkânı", "Sonucun belirliliği", "Karmaşıklık"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 10,
+      "question": "I. Hareket eğitimi bireysel bir keşiftir. II. Hareket eğitimi öğrenci merkezlidir. III. Temelinde problem çözme bulunur. IV. Geleneksel beden eğitiminden daha az formal yapıdadır. Yukarıdaki Hareket eğitiminin özelliklerinden hangisi veya hangileri doğrudur?",
+      "options": ["I", "I – II", "II – III", "I – II – III", "I – II – III – IV"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 11,
+      "question": "Hareket kavramları ve temel hareket becerileri …………….döneminde ve………… öğrenilmelidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["Erken çocukluk – ilkokulda", "Erken çocukluk – ortaokulda", "Geç çocukluk – ilkokulda", "Geç çocukluk - ortaokulda", "Ergenlik – lisede"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 12,
+      "question": "Aşağıdakilerden hangisi Temel Hareket Kavramlarından biri değildir?",
+      "options": ["Vücut Farkındalığı", "Alan Farkındalığı", "Beceri Temaları", "Efor Farkındalığı", "Hareket İlişkileri"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 13,
+      "question": "Çocuğun hareket ederken kollarını açtığında sahip olduğu varsayılan alan boşluğuna ne ad verilir?",
+      "options": ["Genel alan", "Kişisel alan", "Geniş alan", "Dar alan", "Orta alan"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 14,
+      "question": "Aşağıdakilerden hangisi Roger Caillois'e göre şans oyunlarından biri değildir?",
+      "options": ["Kâğıt Oyunları", "Zar Oyunları", "Fal Oyunları", "Rulet Oyunları", "Treiking"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 15,
+      "question": "Şato topu, 10 sayı oyunu, dizlere dokunma, yengeç futbolu, yakan top gibi oyunlar hangi gruba girmektedir?",
+      "options": ["Taklit Oyunları", "Mücadele Oyunları", "Basit Sportif Oyun Formları", "Sınıf oyunları", "Salon oyunları"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 1,
+      "question": "Rudolf Laban tarafından geliştirilen hareket eğitimi, aşağıdakilerden hangisini içermez?",
+      "options": ["Problem çözme becerisi", "Bilişsel ve yaratıcı olarak katılımı", "Çözüme ulaşmada bilgiyi keşfetme", "Analiz etme", "Bireysel farklılıkları yok saymayı"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 2,
+      "question": "I. Çocukların keşfetmelerine yardımcı olmak ve hareket deneyimleri yaratmak II. Çocukları hareket problemlerini tanımlamaya ve çözmeye teşvik etmek III. Çocukları eşleri veya grupla çalışmaları için uygun ortamlar sağlamak Yukarıda verilenlerden hangileri hareket eğitimi yaklaşımını kullanan öğreticilerin dikkat etmeleri gereken hususlardır?",
+      "options": ["Yalnız I", "Yalnız II", "I – II", "II – III", "I – II – III"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 3,
+      "question": "….yaşından….yaşına kadarki dönemde çocuğun, algısal yetenekleri keskinleşir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["1 – 4", "4 – 8", "6 – 9", "6 – 12", "8 – 14"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 4,
+      "question": "I. Eğilme II. Esnetme III. Top sürme IV. Raketle vurma Yukarıda verilenlerden hangileri dengeleme gerektiren hareketlerdendir?",
+      "options": ["I", "I – II", "I – II – III", "I – III – IV", "I – II – III – IV"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 5,
+      "question": "Aşağıdakilerden hangisi Nesne Kontrolü Gerektiren Hareketlerden biri değildir?",
+      "options": ["Yakalama", "Ayakla vurma", "Galop – kayma", "Yuvarlama", "Durdurma kontrol"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 6,
+      "question": "Çocukların güvenli bir şekilde yer değiştirme yapabileceği, sınırları belli olan alana ne ad verilir?",
+      "options": ["Genel alan", "Kişisel alan", "Geniş alan", "Dar alan", "Orta alan"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 7,
+      "question": "Dağcılık, Roger Caillois'e göre hangi oyun sınıflandırılmasına girer?",
+      "options": ["Macera – Heyecan Oyunları", "Gösteri – Rol Oyunları", "Şans Oyunları", "Mücadele – Yarışma Oyunları", "Geleneksel – Kültür Oyunları"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 8,
+      "question": "Meddah, Tiyatro, Opera, Sinema. Yukarıda verilen oyunlar, Roger Caillois'e göre hangi oyun sınıflandırmaya girmektedir?",
+      "options": ["Macera - Heyecan Oyunları", "Gösteri – Rol Oyunları", "Şans Oyunları", "Mücadele – Yarışma Oyunları", "Geleneksel – Kültür Oyunları"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 9,
+      "question": "Aşağıdakilerden oyunlardan hangisi Yaş Gruplarına Göre Sınıflandırmalardan biri değildir?",
+      "options": ["Okul öncesi dönemi oyunları", "İlkokul dönemi oyunları", "Ferdî oyunlar", "Ortaokul dönemi oyunları", "Lise dönemi oyunları"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 10,
+      "question": "Aşağıdakilerden oyunlardan hangisi Oynandıkları Alanlara Göre Sınıflandırmalardan biri değildir?",
+      "options": ["Sınıf oyunları", "Grup oyunları", "Salon oyunları", "Kış oyunları", "Su oyunları"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 11,
+      "question": "Aşağıdakilerden hangisi Hareket eğitiminin özelliklerinden biri değildir?",
+      "options": [
+        "Motor becerilerin öğrenilmesini kolaylaştırır",
+        "Hareketlerin yapılış sırasında çocuk tarafından tatmin duygusunun yaşanmasını sağlar",
+        "Hareket analizini destekler",
+        "Uygun malzeme (araç-gereç) gerektirir, bu araç-gereçler kolay bulunabilen ve ekonomik araç-gereçlerdir.",
+        "Hareket eğitimindeki gelişmelerin ölçülmesine gerek yoktur."
+      ],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 12,
+      "question": "Hareket becerileri ve hareket kavramlarıyla hareketin keşfedilmesi ve üretilmesi olarak tanımlanan kavrama ne ad verilir?",
+      "options": ["Beceri temaları", "Temel hareket kavramları", "Vücut farkındalığı", "Hareket ilişkileri", "Temel hareket becerileri"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 13,
+      "question": "Aşağıdakilerden hangisi Nesne Kontrolü Gerektiren Hareketlerden biridir?",
+      "options": ["Yürüme", "Koşma", "Adım al sek", "Raketle vurma", "Tırmanma"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 14,
+      "question": "Aşağıdakilerden hangisi Yer Değiştirme Gerektiren Hareketlerden biri değildir?",
+      "options": ["Yürüme", "Dönme", "Koşma", "Tırmanma", "Adım al sek"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 15,
+      "question": "Aşağıdakilerden hangisi Yer Değiştirme Gerektiren Hareketlerden biridir?",
+      "options": ["Ağırlık aktarma", "Atlama ve konma", "Başlama – durma", "Dinamik-statik denge", "Atlama – sıçrama"],
+      "correctIndex": 4
+    }
+  ]
+}

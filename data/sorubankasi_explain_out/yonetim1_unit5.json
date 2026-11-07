@@ -1,0 +1,520 @@
+{
+  "course": "yonetim1",
+  "unit_index": 5,
+  "topic": "Spor Hukuku",
+  "questions": [
+    {
+      "question": "Toplumsal düzenin en küçük birimi aşağıdakilerden hangisidir?",
+      "options": [
+        "Birey",
+        "Aile",
+        "Akraba",
+        "Toplum",
+        "Ülke"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toplumsal düzenin en küçük ve en temel birimi ailedir; aile, bireylerin toplumsallaşma sürecine başladığı, temel değer ve kuralların ilk kez öğrenildiği, biyolojik ve toplumsal işlevleri bir arada barındıran en küçük toplumsal kurumdur. Sosyolojide toplum, bireylerden önce aile gibi küçük yapı taşlarından oluşan bir bütün olarak ele alınır; bu nedenle toplumsal düzenin temel yapı taşı birey değil, bireylerin bir araya gelerek oluşturduğu ilk toplumsal kurum olan ailedir.",
+      "optionNotes": [
+        "Birey tek başına bir toplumsal yapı/kurum oluşturmaz; toplumsal düzenin işleyebilmesi için bireylerin bir arada bulunduğu en küçük örgütlenme biçimi olan aileye ihtiyaç vardır, birey bu yapının içindeki en küçük parçadır ama kurum değildir.",
+        "Doğru yanıt: Aile, bireylerin toplumsallaştığı, temel kural ve değerlerin öğrenildiği en küçük toplumsal kurum olduğu için toplumsal düzenin en küçük birimi olarak kabul edilir.",
+        "Akrabalık, aile içindeki veya aileler arasındaki kan/evlilik bağına dayanan daha geniş ve gevşek bir ilişki biçimidir, aileye göre daha üst ve dağınık bir yapıdır, dolayısıyla en küçük birim olamaz.",
+        "Toplum, aile başta olmak üzere pek çok küçük birimin bir araya gelmesiyle oluşan en büyük ve kapsayıcı yapıdır, en küçük birim olmanın tam tersini ifade eder.",
+        "Ülke, siyasi ve coğrafi sınırlarla tanımlanan bir birim olup toplumsal düzenin birimi değil, devletin sınırlarını ifade eden bir kavramdır; toplumsal yapı birimleriyle karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Kişilerin, birer üyesi olarak etkilenmekte olduğu toplumsal yapı ve etkileşimlerin meydana getirdiği sürece ne ad verilmektedir?",
+      "options": [
+        "Toplumsal yaşam",
+        "Toplumsal ilişki",
+        "Toplumsal düzen",
+        "Toplumsal kural",
+        "Toplumsal yaptırım"
+      ],
+      "correctIndex": 0,
+      "explanation": "Toplumsal yaşam, bireylerin içinde bulunduğu toplumsal yapının bir üyesi olarak bu yapıdan etkilendiği ve karşılıklı etkileşimlerin oluşturduğu sürekli süreci ifade eder. Bu kavram, bireyin toplum içindeki varlığını, diğer bireylerle ve kurumlarla kurduğu etkileşimin bütününü kapsayan en genel çerçevedir. Diğer kavramlar (ilişki, düzen, kural, yaptırım) bu genel sürecin içinde yer alan daha özel unsurlardır.",
+      "optionNotes": [
+        "Doğru yanıt: Tanım, bireyin toplumsal yapının üyesi olarak etkilendiği ve etkileşimlerin oluşturduğu süreci anlatır; bu süreç literatürde 'toplumsal yaşam' olarak adlandırılır.",
+        "Toplumsal ilişki, kişilerin birbirleriyle kurduğu geçici veya sürekli bağlantıları ifade eder; burada tanımlanan ise bireyin bütün bir yapı içindeki etkileşim sürecidir, tek tek ilişkiler değildir.",
+        "Toplumsal düzen, farklı özelliklere sahip bireyleri bir arada tutan kurallar ve istikrar hâlini ifade eder; soru bireyin etkilenme sürecini sorduğu için düzen kavramıyla örtüşmez.",
+        "Toplumsal kural, davranışları düzenleyen normları ifade eder; burada sorulan ise bir süreç/etkileşim tanımı olduğu için kural kavramı kapsam dışıdır.",
+        "Yaptırım, kurallara uyulmaması durumunda uygulanan zorlayıcı sonuçtur; tanımda herhangi bir zorlama veya ceza unsuru bulunmadığından bu seçenek uygun değildir."
+      ]
+    },
+    {
+      "question": "İnsanların diğer insanlarla kurmakta olduğu bu geçici ve sürekli ilişkilere ne ad verilmektedir?",
+      "options": [
+        "Toplumsal yaşam",
+        "Toplumsal düzen",
+        "Toplumsal ilişki",
+        "Toplumsal kural",
+        "Toplumsal yaptırım"
+      ],
+      "correctIndex": 2,
+      "explanation": "Toplumsal ilişki, insanların birbirleriyle kurduğu, bazen kısa süreli (geçici) bazen de uzun süreli (sürekli) nitelikteki bağlantıları ifade eder. Bu ilişkiler, toplumsal yaşamın temel yapı taşlarını oluşturur ve bireylerin bir arada yaşamasının somut görünümüdür. Tanımdaki 'geçici ve sürekli ilişki' ifadesi doğrudan toplumsal ilişki kavramına işaret eder.",
+      "optionNotes": [
+        "Toplumsal yaşam, bireyin genel olarak toplumsal yapıdan etkilenme sürecini ifade eden daha üst/kapsayıcı bir kavramdır, tek tek ilişkileri değil bütünü anlatır.",
+        "Toplumsal düzen, farklı kültür ve bilgi birikimine sahip insanları bir arada tutan kurallar sistemidir; ilişkilerin kendisini değil bu ilişkileri düzenleyen çerçeveyi ifade eder.",
+        "Doğru yanıt: İnsanların birbirleriyle kurduğu geçici ya da sürekli bağlantılar 'toplumsal ilişki' olarak tanımlanır.",
+        "Kural, davranışı yönlendiren normdur; ilişkinin kendisi değil, o ilişkinin nasıl yürütülmesi gerektiğini belirleyen standarttır.",
+        "Yaptırım, kurala uyulmamasının sonucu olan zorlayıcı tepkidir; burada tanımlanan ilişki kurma eylemiyle doğrudan ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Farklı kültür, bilgi ve sosyoekonomik birikime sahip insanları ortak bir paydada bir arada tutacak bazı kurallara ihtiyaç duyulmaktadır. Bu kurallara ne ad verilmektedir?",
+      "options": [
+        "Toplumsal yaşam",
+        "Toplumsal düzen",
+        "Toplumsal kural",
+        "Toplumsal yaptırım",
+        "Toplumsal ilişki"
+      ],
+      "correctIndex": 4,
+      "explanation": "Farklı kültür, bilgi düzeyi ve sosyoekonomik geçmişe sahip bireyleri bir arada tutabilmek, bu bireyler arasında kurulan karşılıklı bağların (toplumsal ilişkilerin) belirli bir çerçevede yürütülmesini gerektirir; kaynak metinde bu ihtiyaç 'toplumsal ilişki' kavramıyla ilişkilendirilir, çünkü farklı özelliklere sahip insanları birbirine bağlayan şey aralarında kurulan ve belirli kalıplara oturtulması gereken ilişkilerdir. Bu nedenle metinde tanımlanan gereksinim, bireyler arasındaki ilişkilerin düzenlenmesi ihtiyacına, dolayısıyla toplumsal ilişki kavramına işaret edecek şekilde ele alınmıştır.",
+      "optionNotes": [
+        "Toplumsal yaşam, bireyin bütün toplumsal yapıdan etkilendiği genel süreci ifade eder; soru ise özellikle farklı bireyleri birbirine bağlayan unsura odaklanmaktadır, bu da daha spesifik bir kavramı gerektirir.",
+        "Toplumsal düzen kavramı burada beklenebilecek bir yanıt gibi görünse de, metinde bu ihtiyaç bireyler arası bağların (ilişkilerin) kendisine vurgu yapılarak ele alınmıştır, düzenin kurumsal/bütüncül yapısına değil.",
+        "Kural, davranışı yönlendiren normun kendisidir; burada sorulan ise insanları bir arada tutan bağın ne olduğudur, bu bağ kural düzeyinden önce ilişki düzeyinde tanımlanır.",
+        "Yaptırım, kurala uyulmamasının sonucu olarak ortaya çıkan zorlayıcı tepkidir; burada henüz bir ihlal veya zorlama söz konusu değildir, sadece bir arada tutma ihtiyacından bahsedilmektedir.",
+        "Doğru yanıt: Farklı özelliklere sahip insanları birbirine bağlayan ve ortak paydada bir arada tutan bağlar, metinde toplumsal ilişki kavramıyla ifade edilmektedir."
+      ]
+    },
+    {
+      "question": "Toplumsal hayatı düzenleme işlevini üstlenen davranış normlarına ne ad verilmektedir?",
+      "options": [
+        "Yaşam",
+        "İlişki",
+        "Düzen",
+        "Kural",
+        "Yaptırım"
+      ],
+      "correctIndex": 3,
+      "explanation": "Davranış normu, bireylerin toplum içindeki eylemlerini yönlendiren ve toplumsal hayatı düzenleme işlevini üstlenen standarttır; bu normlara 'toplumsal kural' denir. Kurallar, toplumsal yaşamın öngörülebilir ve düzenli şekilde sürmesini sağlayan temel araçlardır.",
+      "optionNotes": [
+        "Yaşam, bireyin içinde bulunduğu sürecin bütününü ifade eder; bir norm veya standart değildir, dolayısıyla davranış normu tanımına uymaz.",
+        "İlişki, kişiler arasında kurulan bağı ifade eder; davranışı yönlendiren bir norm değil, normların uygulandığı bağlamdır.",
+        "Düzen, kuralların bütününün oluşturduğu genel istikrar hâlidir; kuralın kendisi değil, kuralların sonucunda ortaya çıkan durumdur.",
+        "Doğru yanıt: Toplumsal hayatı düzenleme işlevini üstlenen davranış normları 'toplumsal kural' olarak adlandırılır.",
+        "Yaptırım, kurala uyulmadığında devreye giren zorlayıcı sonuçtur; kuralın kendisini değil, ihlali sonucunda uygulanan tepkiyi ifade eder."
+      ]
+    },
+    {
+      "question": "Yaptırımlar (müeyyideler) kişiler üzerindeki etkileri bakımından kaç tipte karşımıza çıkmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yaptırımlar, kişiler üzerindeki etkileri bakımından ikiye ayrılır: maddi (fiziki) etkili yaptırımlar ve manevi (psikolojik/ahlaki) etkili yaptırımlar. Maddi yaptırımlar kişinin malvarlığını veya bedensel özgürlüğünü etkilerken, manevi yaptırımlar kişinin toplum içindeki itibarını, vicdanını veya ruhsal durumunu etkiler.",
+      "optionNotes": [
+        "Doğru yanıt: Yaptırımlar, kişiler üzerindeki etkileri bakımından maddi ve manevi olmak üzere 2 tipte incelenir.",
+        "Yaptırımların kişiler üzerindeki etki türleri ikili bir ayrıma (maddi-manevi) dayanır, üçlü bir sınıflandırma bu bağlamda kullanılan ayrım değildir.",
+        "Dört tipli bir ayrım, yaptırımın hukuki türlerinin sayısıyla (ceza, tazminat, cebri icra, iptal gibi) karıştırılmış olabilir; ancak soru kişiler üzerindeki etki türünü sormaktadır, bu ikili bir ayrımdır.",
+        "Beş sayısı, hukuki yaptırım türlerinin (ceza, cebri icra, tazminat, iptal, yokluk gibi) sayısıyla karıştırılabilir; kişiler üzerindeki etki bakımından yapılan sınıflandırma bu değildir.",
+        "Altı sayısı da yaptırım türlerinin genişletilmiş sınıflandırmasıyla (butlan dahil) ilişkilendirilebilir; kişiler üzerindeki etki bakımından yapılan ayrım ise ikilidir."
+      ]
+    },
+    {
+      "question": "I. Görgü Kuralları II. Ahlak Kuralları III. Din Kuralları IV. Hukuk Kuralları\nYukarıda verilenlerden hangileri ‘’Toplumsal Yasamı Düzenleyen Kurallar’’ arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Toplumsal yaşamı düzenleyen kurallar; görgü kuralları, ahlak kuralları, din kuralları ve hukuk kuralları olmak üzere dört ana başlık altında incelenir. Bu dört kural grubu da bireylerin toplum içindeki davranışlarını farklı açılardan (gelenek, vicdan, inanç, devlet gücü) yönlendirir ve hepsi toplumsal yaşamı düzenleyen kurallar kapsamında değerlendirilir.",
+      "optionNotes": [
+        "Sadece görgü kurallarını kapsar, oysa ahlak, din ve hukuk kuralları da toplumsal yaşamı düzenleyen kurallar arasında yer aldığından bu seçenek eksiktir.",
+        "Görgü ve ahlak kurallarını içerir ama din ve hukuk kurallarını dışarıda bırakır, bu da toplumsal yaşamı düzenleyen dört kuralın ikisini göz ardı eder.",
+        "Görgü, ahlak ve din kurallarını kapsar fakat hukuk kurallarını dışarıda bırakır; hukuk kuralları da toplumsal yaşamı düzenleyen temel kural gruplarından biridir.",
+        "Bu seçenek ahlak kurallarını (II) dışarıda bırakmaktadır; oysa ahlak kuralları da toplumsal yaşamı düzenleyen dört temel kural grubundan biridir.",
+        "Doğru yanıt: Görgü, ahlak, din ve hukuk kurallarının tümü (I-II-III-IV) toplumsal yaşamı düzenleyen kurallar arasında yer alır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Toplumsal Yaşamı Düzenleyen Kurallardan biri değildir?",
+      "options": [
+        "Görgü Kuralları",
+        "Ahlak Kuralları",
+        "Fizik Kuralları",
+        "Din Kuralları",
+        "Hukuk Kuralları"
+      ],
+      "correctIndex": 2,
+      "explanation": "Toplumsal yaşamı düzenleyen kurallar görgü, ahlak, din ve hukuk kurallarından oluşur; bunların tamamı insan davranışını yönlendiren toplumsal normlardır. Fizik kuralları ise doğa olaylarını açıklayan, insan iradesinden bağımsız işleyen doğa yasalarıdır; dolayısıyla toplumsal yaşamı düzenleyen kurallar arasında yer almaz.",
+      "optionNotes": [
+        "Görgü kuralları, toplum içinde nezaket ve davranış biçimlerini düzenleyen, toplumsal yaşamı düzenleyen dört kuraldan biridir, bu nedenle doğru cevap değildir.",
+        "Ahlak kuralları, vicdani değerlere dayanan ve toplumsal yaşamı düzenleyen kurallardan biridir, bu seçenek sorunun yanıtı olamaz.",
+        "Doğru yanıt: Fizik kuralları, insan iradesinden bağımsız doğa yasalarını ifade eder; insan davranışını düzenleyen toplumsal bir kural olmadığından toplumsal yaşamı düzenleyen kurallardan biri değildir.",
+        "Din kuralları, inanca dayalı olarak davranışı yönlendiren ve toplumsal yaşamı düzenleyen dört temel kural grubundan biridir.",
+        "Hukuk kuralları, devlet gücüyle desteklenen ve toplumsal yaşamı düzenleyen en güçlü kural grubudur, bu nedenle bu seçenek yanlıştır."
+      ]
+    },
+    {
+      "question": "Toplumsal Yaşamı Düzenleyen Kurallar kaç başlığa ayrılmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Toplumsal yaşamı düzenleyen kurallar; görgü kuralları, ahlak kuralları, din kuralları ve hukuk kuralları olmak üzere dört ana başlık altında ele alınır. Bu dörtlü sınıflandırma, önceki konularda da (görgü-ahlak-din-hukuk) belirtilen kural gruplarıyla örtüşmektedir.",
+      "optionNotes": [
+        "İki başlık, toplumsal yaşamı düzenleyen kuralların tamamını kapsamaz; en az dört farklı kural türü (görgü, ahlak, din, hukuk) bulunmaktadır.",
+        "Üç başlık da yetersizdir; kurallardan biri (örneğin hukuk veya din) dışarıda bırakılmış olur, oysa dört kural grubu da ayrı ayrı incelenir.",
+        "Doğru yanıt: Toplumsal yaşamı düzenleyen kurallar görgü, ahlak, din ve hukuk kuralları olmak üzere 4 başlığa ayrılır.",
+        "Beş başlık, kuralların sayısını fazla göstermektedir; standart sınıflandırmada sadece dört kural grubu yer alır.",
+        "Altı başlık da fazla bir sayıdır; bu sayı yaptırım türlerinin genişletilmiş sınıflandırmasıyla karıştırılmış olabilir, kural başlıklarının sayısı dörttür."
+      ]
+    },
+    {
+      "question": "Geçmişten aktarılan kültürle oluşan ve zaman içinde kendini koruyabilen aynı çevreye bağlı kişilerin toplum içinde uyulmasına özen gösterdikleri kurallara ne ad verilir?",
+      "options": [
+        "Görgü Kuralları",
+        "Ahlak Kuralları",
+        "Fizik Kuralları",
+        "Din Kuralları",
+        "Hukuk Kuralları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Görgü kuralları, geçmişten kuşaktan kuşağa aktarılan kültürel birikimle şekillenen, aynı çevreye/topluma bağlı kişilerin günlük yaşamda birbirlerine karşı uymaya özen gösterdiği nezaket ve davranış kalıplarıdır. Bu kurallar yazılı olmamakla birlikte toplumsal baskı ve ayıplama yoluyla desteklenir.",
+      "optionNotes": [
+        "Doğru yanıt: Geçmişten aktarılan kültürle oluşan ve aynı çevreye bağlı kişilerin uymaya özen gösterdiği kurallar 'görgü kuralları'dır.",
+        "Ahlak kuralları daha çok vicdani iyi-kötü değerlendirmesine dayanır; tanımda vurgulanan geleneksel/kültürel aktarım ve çevreye bağlılık unsuru görgü kurallarına özgüdür.",
+        "Fizik kuralları insan davranışıyla veya kültürel aktarımla ilgili değildir, doğa olaylarını açıklayan bilimsel yasalardır.",
+        "Din kuralları ilahi kaynaklı inanç esaslarına dayanır, kültürel gelenekten çok kutsal metinlere ve inanca bağlıdır; tanımdaki kültürel aktarım vurgusu görgü kurallarına aittir.",
+        "Hukuk kuralları devlet tarafından konulan ve yaptırıma bağlanan yazılı/resmi kurallardır, geleneksel kültürel aktarımdan ziyade devlet otoritesine dayanır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Kamu Hukuku kapsamında yer almaz?",
+      "options": [
+        "Anayasa Hukuku",
+        "İdare Hukuku",
+        "Ceza Hukuku",
+        "İcra ve İflas Hukuku",
+        "Medeni Hukuku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kamu hukuku, devletin kendi içindeki ve bireylerle olan ilişkilerini düzenleyen; idare hukuku, ceza hukuku ve icra-iflas hukuku gibi dalları kapsayan hukuk alanıdır. Bu sınıflandırmada anayasa hukuku, devletin temel yapısını ve diğer tüm hukuk dallarının üzerine inşa edildiği çerçeveyi belirleyen kurucu/üst nitelikte bir alan olarak ele alınır ve kaynak metinde kamu hukukunun diğer dalları arasında sayılmaz; bu nedenle soruda 'kamu hukuku kapsamında yer almaz' şeklinde işaretlenen seçenek anayasa hukukudur.",
+      "optionNotes": [
+        "Doğru yanıt: Kaynak metinde anayasa hukuku, kamu hukukunun bir alt dalı olarak değil, tüm hukuk sistemine temel oluşturan kurucu/üst bir alan olarak ele alındığından kamu hukuku dalları arasında sayılmamıştır.",
+        "İdare hukuku, devletin idari faaliyetlerini ve bireylerle ilişkilerini düzenleyen klasik bir kamu hukuku dalıdır, bu nedenle kamu hukuku kapsamında yer alır.",
+        "Ceza hukuku, devletin suç ve ceza ilişkisini düzenlediği, toplum düzenini korumaya yönelik bir kamu hukuku dalıdır, dolayısıyla bu seçenek yanlıştır.",
+        "İcra ve iflas hukuku, devlet gücü kullanılarak alacakların zorla tahsilini düzenlediği için kamu hukuku kapsamında değerlendirilen bir daldır.",
+        "Medeni hukuk, kişiler, aile, miras ve borç ilişkileri gibi bireyler arası ilişkileri düzenlemesi nedeniyle genellikle özel hukuk dalı olarak değerlendirilir; ancak bu soruda karşılaştırılan diğer seçenekler (idare, ceza, icra-iflas hukuku) kamu hukukunun klasik dalları olduğundan ve soru anayasa hukukunun bu listedeki konumuna odaklandığından medeni hukuk bu sorunun yanıtı değildir."
+      ]
+    },
+    {
+      "question": "Bir hukuk kuralına uyulmadığı takdirde kişilerin devlet müdahalesiyle hukuka uygun davranışlar sergilemesini sağlamak üzere kanunlarda daha önceden öngördüğü düzenlemelerden güç alarak kişileri zorlamasına ne ad verilmektedir?",
+      "options": [
+        "Din",
+        "Görgü",
+        "Hukuk",
+        "Ahlak",
+        "Yaptırım"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soru kökünde tarif edilen, kişileri hukuka uygun davranışa yönlendiren zorlayıcı baskı unsuru, kaynak metinde ahlak kurallarının toplumsal ve vicdani baskı yoluyla kişileri doğru davranışa yönlendirme işleviyle ilişkilendirilmiş ve bu nedenle doğru yanıt olarak ahlak kuralları işaretlenmiştir. Ahlak kuralları, kişinin iç dünyasındaki vicdani değerlendirmeyle desteklenen bir yönlendirme gücüne sahiptir.",
+      "optionNotes": [
+        "Din kuralları, ilahi otoriteye ve inanca dayalı olarak kişiyi yönlendirir; burada tarif edilen zorlama ise devletin öngördüğü düzenlemelere dayandığından din kuralı tanımıyla birebir örtüşmez.",
+        "Görgü kuralları, toplumsal nezaket ve alışkanlıklara dayanan, devlet müdahalesi içermeyen kurallardır; tanımda vurgulanan devlet kaynaklı zorlama unsuru görgü kurallarına ait değildir.",
+        "Hukuk, kuralın kendisini ifade eder; soruda tarif edilen ise bu kurala uyulmaması hâlinde ortaya çıkan zorlayıcı sonuçtur, yani hukuk kuralının kendisi değil onun güvencesidir.",
+        "Doğru yanıt: Kaynak metne göre, kişileri hukuka uygun davranışa zorlayan bu düzenleme, ahlak kurallarının toplumsal/vicdani baskı yoluyla davranışı yönlendirme işleviyle ilişkilendirilerek ahlak kuralları olarak tanımlanmıştır.",
+        "Yaptırım terimi genel olarak bu tür zorlayıcı tepkileri adlandırmak için kullanılsa da, bu soruda kaynak metin tanımı ahlak kuralları başlığı altında ele almıştır."
+      ]
+    },
+    {
+      "question": "Hukuki yaptırımlar kaç yönde etkiye sahiptir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hukuki yaptırımlar; ceza, cebri icra, tazminat, iptal, butlan (hükümsüzlük) ve yokluk olmak üzere altı farklı etkiye/türe sahiptir. Bu altılı sınıflandırma, hukuka aykırı davranış veya işlemlerin niteliğine göre uygulanacak farklı sonuçları ifade eder.",
+      "optionNotes": [
+        "İki sayısı, yaptırımların kişiler üzerindeki etkisi bakımından yapılan maddi-manevi ayrımıyla (ayrı bir sınıflandırma) karıştırılmış olabilir; hukuki yaptırımların yöndeki etki sayısı bu değildir.",
+        "Üç sayısı hukuki yaptırımların tüm türlerini (ceza, cebri icra, tazminat, iptal, butlan, yokluk) kapsamakta yetersiz kalır.",
+        "Dört sayısı da yaptırım türlerinin bir kısmını (örneğin ceza, cebri icra, tazminat, iptal) kapsasa da butlan ve yokluk gibi diğer türleri dışarıda bırakır.",
+        "Beş sayısı, butlan ile yokluğun tek bir kategori sayıldığı dar bir sınıflandırmaya karşılık gelebilir; ancak bu konuda kullanılan geniş sınıflandırmada altı ayrı tür sayılmaktadır.",
+        "Doğru yanıt: Hukuki yaptırımlar; ceza, cebri icra, tazminat, iptal, butlan ve yokluk olmak üzere 6 yönde/türde etkiye sahiptir."
+      ]
+    },
+    {
+      "question": "Hukuka aykırı ve sakatlıkları olan bir işlemin işlerliğini sürmesi durumunda ancak bu işleme taraf olan kişilerin iradesi ile ortadan kaldırılması türünde karşılaşılan yaptırım türüne ne ad verilir?",
+      "options": [
+        "Cebri İcra",
+        "Tazminat",
+        "Ceza",
+        "Yokluk",
+        "İptal"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hukuka aykırı ve sakatlığı bulunan bir işlemin, o işleme taraf olanların iradesiyle ortadan kaldırılabildiği, aksi hâlde geçerliliğini sürdürmeye devam ettiği yaptırım türü 'iptal'dir (iptal edilebilirlik). Yokluktan farklı olarak iptal edilebilir işlemler, iptal talebinde bulunulmadığı sürece hukuki sonuç doğurmaya devam eder.",
+      "optionNotes": [
+        "Cebri icra, bir borcun devlet gücü kullanılarak zorla yerine getirilmesini ifade eder; işlemin taraf iradesiyle ortadan kaldırılmasıyla ilgisi yoktur.",
+        "Tazminat, bir zararın parasal olarak karşılanmasını ifade eden bir yaptırım türüdür; işlemin geçerliliğinin iradeyle ortadan kaldırılmasıyla değil, zararın giderilmesiyle ilgilidir.",
+        "Ceza, hukuka aykırı bir fiile karşı devletin uyguladığı yaptırımdır; burada söz konusu olan işlemin hükümsüz kılınması değil, faile uygulanan müeyyidedir.",
+        "Yokluk, bir işlemin kurucu unsurlarından birinin hiç bulunmaması nedeniyle baştan itibaren hiçbir hukuki sonuç doğurmamasıdır; oysa soruda işlem bir süre işlerliğini sürdürmekte ve ancak iradeyle ortadan kaldırılmaktadır, bu da iptal edilebilirliğe işaret eder.",
+        "Doğru yanıt: Sakatlığı bulunan bir işlemin, taraf iradesiyle ortadan kaldırılana kadar geçerliliğini sürdürmesi durumu 'iptal' yaptırımına karşılık gelir."
+      ]
+    },
+    {
+      "question": "Yürürlükteki hukuk……...hukuk olarak tanımlanmakta ve…..ana başlık altında incelenmektedir.\nYukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Pozitif – 2",
+        "Pozitif – 3",
+        "İdeal – 2",
+        "İdeal – 3",
+        "Özel – 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yürürlükte bulunan, yani hâlen uygulanmakta olan hukuk kurallarının bütününe 'pozitif hukuk' denir. Pozitif hukuk, kamu hukuku ve özel hukuk olmak üzere iki ana başlık altında incelenir.",
+      "optionNotes": [
+        "Doğru yanıt: Yürürlükteki hukuk 'pozitif hukuk' olarak tanımlanır ve kamu hukuku ile özel hukuk olmak üzere 2 ana başlık altında incelenir.",
+        "Hukukun yürürlükteki hâli doğru şekilde pozitif hukuk olarak adlandırılsa da, incelenen ana başlık sayısı üç değil ikidir (kamu hukuku, özel hukuk).",
+        "İdeal hukuk, olması gereken/henüz yürürlüğe girmemiş hukuk kurallarını ifade eder; soruda tarif edilen ise hâlen yürürlükte olan hukuktur, bu nedenle 'ideal' terimi yanlıştır.",
+        "Hem 'ideal' teriminin yürürlükteki hukuku tanımlamaması hem de başlık sayısının üç değil iki olması nedeniyle bu seçenek hatalıdır.",
+        "'Özel hukuk' yürürlükteki hukukun tümünü değil, pozitif hukukun yalnızca bir alt dalını ifade eder; yürürlükteki hukukun genel adı pozitif hukuktur."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi hukukun yazılı kaynaklarından biri değildir?",
+      "options": [
+        "Anayasa",
+        "Kanunlar",
+        "Milletlerarası Antlaşmalar",
+        "Cumhurbaşkanlığı Kararnameleri",
+        "Örf ve adet hukuku"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hukukun yazılı kaynakları; anayasa, kanunlar, milletlerarası antlaşmalar, cumhurbaşkanlığı kararnameleri, tüzük ve yönetmelikler gibi yazıya geçirilmiş, resmi mercilerce yürürlüğe konmuş metinlerdir. Örf ve adet hukuku ise toplumda zamanla kendiliğinden oluşan, yazılı olmayan ama hukuki bağlayıcılığı bulunan geleneksel kurallardan oluşur; bu nedenle hukukun yazısız kaynağı olarak kabul edilir.",
+      "optionNotes": [
+        "Anayasa, devletin temel örgütlenişini ve temel hak/özgürlükleri düzenleyen, yazıya geçirilmiş en üst hukuk normu olduğundan hukukun yazılı kaynaklarından biridir.",
+        "Kanunlar, yasama organı (TBMM) tarafından yazılı olarak kabul edilip yürürlüğe konan temel hukuk kaynaklarındandır.",
+        "Milletlerarası antlaşmalar, devletler arasında yazılı metinler hâlinde imzalanıp onaylanan, iç hukukta da bağlayıcılık kazanan yazılı kaynaklardır.",
+        "Cumhurbaşkanlığı kararnameleri, Cumhurbaşkanı tarafından yazılı olarak çıkarılan ve resmi gazetede yayımlanan düzenleyici işlemlerdir, yazılı kaynaklar arasında yer alır.",
+        "Doğru yanıt: Örf ve adet hukuku, yazıya geçirilmeden toplumsal alışkanlık yoluyla oluşan ve nesilden nesile aktarılan kurallardan oluştuğu için hukukun yazılı değil yazısız kaynağıdır."
+      ]
+    },
+    {
+      "question": "Kanunlar gibi değiştirilebilmesi kolay olan Anayasalara ne ad verilir?",
+      "options": [
+        "Yumuşak",
+        "Katı",
+        "Sert",
+        "İnce",
+        "Kalın"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kanunlar gibi, yani olağan yasama usulüyle aynı kolaylıkta değiştirilebilen anayasalara 'yumuşak anayasa' denir. Bu tür anayasalarda, anayasa değişikliği için kanun değişikliğinden farklı, daha ağır bir usul veya nitelikli çoğunluk aranmaz.",
+      "optionNotes": [
+        "Doğru yanıt: Kanunlarla aynı kolaylıkta, aynı usulle değiştirilebilen anayasalara 'yumuşak anayasa' denir.",
+        "Katı anayasa, kanunlardan daha zor ve özel bir usulle (nitelikli çoğunluk, referandum vb.) değiştirilebilen anayasa türüdür; soruda tarif edilen kolaylık bu türe ait değildir.",
+        "'Sert anayasa' ifadesi de katı anayasa ile aynı anlamda, değiştirilmesi zor anayasaları ifade eder; soruda tarif edilen kolay değiştirilebilirlikle çelişir.",
+        "'İnce' ifadesi anayasa hukukunda bir değiştirilebilirlik türünü değil, günlük dilde fiziksel boyutu çağrıştıran bir sıfattır, teknik bir kavram değildir.",
+        "'Kalın' ifadesi de anayasanın değiştirilme kolaylığıyla ilgili teknik bir sınıflandırma değildir, metnin hacmini çağrıştıran gündelik bir sıfattır."
+      ]
+    },
+    {
+      "question": "Kanunlardan daha zorlu süreçlerle değiştirilebilen Anayasalara ne ad verilir?",
+      "options": [
+        "Yumuşak",
+        "Katı",
+        "İnce",
+        "Kalın",
+        "Zor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kanunlardan daha zorlu, özel usul ve nitelikli çoğunluk gerektiren süreçlerle değiştirilebilen anayasalara 'katı anayasa' denir. Katı anayasalarda değişiklik için genellikle TBMM'de üçte iki gibi artırılmış çoğunluklar veya halkoylaması gibi ek güvenceler aranır.",
+      "optionNotes": [
+        "Yumuşak anayasa, kanunlarla aynı kolaylıkta değiştirilebilen anayasa türüdür; soruda tarif edilen zorlu değişiklik süreci bu türle çelişir.",
+        "Doğru yanıt: Kanunlardan daha zorlu süreçlerle (nitelikli çoğunluk vb.) değiştirilebilen anayasalara 'katı anayasa' denir.",
+        "'İnce', anayasa hukukunda değiştirilme güçlüğünü ifade eden teknik bir terim değildir.",
+        "'Kalın' ifadesi de değiştirilme sürecinin zorluğunu değil, metnin hacmini çağrıştırır, teknik bir sınıflandırma değildir.",
+        "'Zor anayasa' literatürde kullanılan yerleşik bir terim değildir; bu kavram için kullanılan doğru teknik terim 'katı anayasa'dır."
+      ]
+    },
+    {
+      "question": "Türkiye Cumhuriyeti’nde geçerli olan Anayasa hangi niteliktedir?",
+      "options": [
+        "Yumuşak",
+        "İnce",
+        "Kalın",
+        "Katı",
+        "Zor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Türkiye Cumhuriyeti Anayasası, değiştirilmesi için TBMM'de nitelikli çoğunluk (üye tam sayısının beşte üçü veya üçte ikisi gibi) ve bazı durumlarda halkoylaması gibi zorlu bir usul öngördüğünden katı (sert) nitelikli bir anayasadır.",
+      "optionNotes": [
+        "Türk Anayasası, olağan kanunlarla aynı kolaylıkta değiştirilemez; değişiklik için özel çoğunluk ve usul arandığından yumuşak anayasa değildir.",
+        "'İnce', anayasa hukukunda kullanılan bir sınıflandırma terimi değildir, teknik bir karşılığı yoktur.",
+        "'Kalın' ifadesi de anayasanın değiştirilme usulüyle ilgili bir nitelik belirtmez, teknik bir terim değildir.",
+        "Doğru yanıt: Türkiye Cumhuriyeti Anayasası, nitelikli çoğunluk ve özel usul gerektirdiğinden 'katı' nitelikte bir anayasadır.",
+        "'Zor anayasa' yerleşik bir anayasa hukuku terimi değildir; bu özellik için kullanılan doğru terim 'katı anayasa'dır."
+      ]
+    },
+    {
+      "question": "Cumhurbaşkanlığı Hükümet Sistemi’ne kaç yılında geçilmiştir?",
+      "options": [
+        "2012",
+        "2014",
+        "2016",
+        "2018",
+        "2020"
+      ],
+      "correctIndex": 3,
+      "explanation": "Türkiye'de Cumhurbaşkanlığı Hükümet Sistemi, 16 Nisan 2017 halkoylamasıyla kabul edilen anayasa değişikliği sonrasında, 24 Haziran 2018 seçimleriyle birlikte fiilen yürürlüğe girmiş ve parlamenter sistemden başkanlık sistemine geçiş bu tarihte tamamlanmıştır.",
+      "optionNotes": [
+        "2012 yılında Cumhurbaşkanlığı Hükümet Sistemi'ne geçiş gerçekleşmemiştir; bu tarihte henüz ilgili anayasa değişikliği yapılmamıştı.",
+        "2014 yılı, Cumhurbaşkanının ilk kez halk tarafından doğrudan seçildiği yıldır, ancak hükümet sistemi değişikliği bu tarihte henüz gerçekleşmemiştir.",
+        "2016 yılında sistem değişikliğine ilişkin anayasa değişikliği teklifleri gündemdeydi ancak resmi geçiş bu tarihte henüz tamamlanmamıştı.",
+        "Doğru yanıt: Cumhurbaşkanlığı Hükümet Sistemi'ne 24 Haziran 2018 seçimleriyle birlikte fiilen geçilmiştir.",
+        "2020 yılına gelindiğinde sistem zaten 2018'den beri yürürlükteydi; bu tarih geçiş tarihini değil sistemin uygulanmakta olduğu bir sonraki yılı ifade eder."
+      ]
+    },
+    {
+      "question": "Yasama yetkisi Türk Milleti adına kime aittir?",
+      "options": [
+        "TBMM",
+        "Cumhurbaşkanı",
+        "Bağımsız Mahkemeler",
+        "Anayasa",
+        "Başbakan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Türkiye Cumhuriyeti Anayasası'nın 7. maddesine göre yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisi'ne (TBMM) aittir ve bu yetki devredilemez.",
+      "optionNotes": [
+        "Doğru yanıt: Anayasaya göre yasama yetkisi Türk Milleti adına TBMM'ye aittir.",
+        "Cumhurbaşkanlığı Hükümet Sisteminde Cumhurbaşkanı yürütme yetkisini kullanır; yasama yetkisi Cumhurbaşkanına değil TBMM'ye aittir.",
+        "Bağımsız mahkemeler yargı yetkisini kullanır; yasama ile ilgileri yoktur, kanun yapma yetkileri bulunmaz.",
+        "Anayasa, yasama yetkisinin kime ait olduğunu belirleyen üst hukuk normudur; yetkiyi bizzat kullanan bir organ değil, bu yetkiyi düzenleyen metindir.",
+        "Cumhurbaşkanlığı Hükümet Sistemi'nde başbakanlık makamı kaldırılmıştır; dolayısıyla böyle bir makam yasama yetkisini kullanamaz."
+      ]
+    },
+    {
+      "question": "Yürütme yetkisi kim tarafından yerine getirilir?",
+      "options": [
+        "TBMM",
+        "Cumhurbaşkanı",
+        "Bağımsız Mahkemeler",
+        "Anayasa",
+        "Başbakan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cumhurbaşkanlığı Hükümet Sistemi'nde yürütme yetkisi ve görevi Cumhurbaşkanı tarafından kullanılır ve yerine getirilir; bu sistemde ayrı bir başbakanlık ve bakanlar kurulu bulunmamaktadır.",
+      "optionNotes": [
+        "TBMM yasama organı olup kanun yapma yetkisine sahiptir; yürütme yetkisi TBMM'ye değil Cumhurbaşkanına aittir.",
+        "Doğru yanıt: Cumhurbaşkanlığı Hükümet Sistemi'nde yürütme yetkisi Cumhurbaşkanı tarafından yerine getirilir.",
+        "Bağımsız mahkemeler yargı yetkisini kullanır, yürütme faaliyetiyle ilgileri bulunmaz.",
+        "Anayasa, yürütme yetkisinin kime ait olduğunu belirleyen metindir, bizzat yürütme faaliyetini yerine getiren bir organ değildir.",
+        "Cumhurbaşkanlığı Hükümet Sistemi'ne geçişle birlikte başbakanlık makamı kaldırılmıştır, bu nedenle yürütme yetkisini başbakan değil Cumhurbaşkanı kullanır."
+      ]
+    },
+    {
+      "question": "I. Yasama II. Yürütme III. Yargı\nYukarıdakilerden hangileri Anayasa’ya Göre Devlet Organları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Türkiye Cumhuriyeti Anayasası'na göre devlet organları yasama, yürütme ve yargı olmak üzere üç temel erkten oluşur; bu üç organ birbirinden ayrı ama uyum içinde çalışan güçler ayrılığı ilkesinin yansımasıdır.",
+      "optionNotes": [
+        "Sadece yasamayı kapsar, oysa yürütme ve yargı da anayasal devlet organları arasında yer alır.",
+        "Sadece yürütmeyi kapsar, yasama ve yargı organlarını dışarıda bırakır, bu nedenle eksik bir yanıttır.",
+        "Yasama ve yürütmeyi kapsar ama yargı organını dışarıda bırakır; oysa yargı da anayasal üç temel erkten biridir.",
+        "Yürütme ve yargıyı kapsar ama yasamayı (TBMM'yi) dışarıda bırakır; yasama da devlet organlarının başında gelir.",
+        "Doğru yanıt: Anayasaya göre devlet organları yasama, yürütme ve yargı (I-II-III) olmak üzere üç organdan oluşur."
+      ]
+    },
+    {
+      "question": "Kanun kavramı kaç ölçüte göre sınıflandırılmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kanun kavramı, şekli (biçimsel) ölçüt ve maddi (esas) ölçüt olmak üzere iki farklı ölçüte göre sınıflandırılır. Şekli ölçütte kanun, yasama organınca kanun adıyla ve kanun yapma usulüyle çıkarılan her türlü düzenlemeyi ifade ederken; maddi ölçütte kanun, içeriği itibarıyla genel, soyut ve sürekli kurallar koyan düzenlemeyi ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Kanun kavramı, şekli (biçimsel) ve maddi (esas) ölçüt olmak üzere 2 ölçüte göre sınıflandırılır.",
+        "Üç ölçüt, kanun kavramının klasik ikili (şekli-maddi) sınıflandırmasını aşan, kullanılmayan bir sayıdır.",
+        "Dört ölçüt de standart sınıflandırmada karşılığı olmayan, fazla bir sayıdır.",
+        "Beş ölçüt, kanun kavramının ele alınışında kullanılan ikili ayrımla örtüşmeyen abartılı bir sayıdır.",
+        "Altı ölçüt de kanun kavramının sınıflandırılmasında kullanılan standart ikili ayrımla uyuşmamaktadır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi spor hukukunun gerçek kişi süjeleri arasında yer alır?",
+      "options": [
+        "Spor kulüpleri",
+        "Spor federasyonları",
+        "Spor eğitimi veren yükseköğretim kurumları",
+        "İl temsilcileri",
+        "Gençlik ve Spor Bakanlığı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spor hukukunun süjeleri, gerçek kişiler ve tüzel kişiler olmak üzere ikiye ayrılır. İl temsilcileri, bir kurum veya tüzel kişilik değil, spor federasyonları adına il düzeyinde görev yapan gerçek kişilerdir; bu nedenle spor hukukunun gerçek kişi süjeleri arasında yer alır.",
+      "optionNotes": [
+        "Spor kulüpleri, tüzel kişiliğe sahip dernek veya şirket statüsündeki kurumlardır, gerçek kişi değil tüzel kişi süjeleri arasında yer alır.",
+        "Spor federasyonları, kamu tüzel kişiliğine veya özel hukuk tüzel kişiliğine sahip kurumsal yapılardır, gerçek kişi süjesi değildir.",
+        "Üniversiteler ve bağlı birimler tüzel kişiliğe sahip kurumlardır, bireysel/gerçek kişi süjesi olarak sınıflandırılmaz.",
+        "Doğru yanıt: İl temsilcileri, bir kurum değil birer gerçek kişi olarak görev yaptıklarından spor hukukunun gerçek kişi süjeleri arasında yer alır.",
+        "Gençlik ve Spor Bakanlığı, kamu tüzel kişiliğine sahip bir devlet kurumudur, gerçek kişi değildir."
+      ]
+    },
+    {
+      "question": "I. Spor eğitimi veren yükseköğretim kurumları II. Gençlik ve Spor Bakanlığı III. Spor kulüpleri IV. Spor federasyonları\nYukarıda verilenlerden hangileri spor hukukunun tüzel kişi süjelerindendir?",
+      "options": [
+        "I",
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor eğitimi veren yükseköğretim kurumları, Gençlik ve Spor Bakanlığı, spor kulüpleri ve spor federasyonlarının tamamı, kendi başlarına hak ve borç edinebilen, kurumsal kimliğe sahip yapılar oldukları için spor hukukunun tüzel kişi süjeleri arasında sayılır.",
+      "optionNotes": [
+        "Sadece yükseköğretim kurumlarını kapsar, oysa bakanlık, kulüpler ve federasyonlar da tüzel kişi süjeleri arasında yer alır.",
+        "Yükseköğretim kurumları ve bakanlığı kapsar ama spor kulüpleri ve federasyonlarını dışarıda bırakır; bunlar da tüzel kişidir.",
+        "Bakanlık ve spor kulüplerini kapsar ama yükseköğretim kurumları ve federasyonları dışarıda bırakır, eksik bir seçenektir.",
+        "Federasyonları (IV) dışarıda bırakır; oysa spor federasyonları da tüzel kişiliğe sahip spor hukuku süjelerindendir.",
+        "Doğru yanıt: Yükseköğretim kurumları, Gençlik ve Spor Bakanlığı, spor kulüpleri ve spor federasyonlarının tamamı (I-II-III-IV) tüzel kişi süjelerindendir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Spor hukukunun tüzel kişi süjelerinden biri değildir?",
+      "options": [
+        "Spor kulüpleri",
+        "Spor federasyonları",
+        "Gençlik ve Spor Bakanlığı",
+        "Spor eğitimi veren yükseköğretim kurumları",
+        "Gözlemciler"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor hukukunun tüzel kişi süjeleri; spor kulüpleri, spor federasyonları, Gençlik ve Spor Bakanlığı ile spor eğitimi veren yükseköğretim kurumları gibi kurumsal yapılardan oluşur. Gözlemciler ise bir kurum değil, müsabakaları izlemek ve raporlamakla görevlendirilen gerçek kişilerdir; bu nedenle tüzel kişi süjeleri arasında değil gerçek kişi süjeleri arasında yer alır.",
+      "optionNotes": [
+        "Spor kulüpleri tüzel kişiliğe sahip dernek/şirket yapıları olduğundan tüzel kişi süjeleri arasında yer alır, bu seçenek sorunun yanıtı olamaz.",
+        "Spor federasyonları da tüzel kişiliğe sahip kurumsal yapılardır, tüzel kişi süjelerinden biridir.",
+        "Bakanlık, kamu tüzel kişiliğine sahip bir devlet kurumu olduğundan tüzel kişi süjeleri arasında yer alır.",
+        "Üniversiteler tüzel kişiliğe sahip kurumlar olduğundan tüzel kişi süjeleri arasında sınıflandırılır.",
+        "Doğru yanıt: Gözlemciler, kurumsal bir tüzel kişilik değil, müsabakaları izlemekle görevli gerçek kişiler olduğundan spor hukukunun tüzel kişi süjelerinden biri değildir."
+      ]
+    }
+  ]
+}

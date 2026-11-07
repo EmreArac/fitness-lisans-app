@@ -1,0 +1,482 @@
+{
+  "course": "saglik1",
+  "unit_index": 4,
+  "topic": "Sporcu Sağlığı ve İlk Yardım",
+  "questions": [
+    {
+      "question": "Kas, tendon veya bağ dokusu yaralandığı zaman bölgedeki………….yırtılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Kan damarları",
+        "Tendon damarları",
+        "Kas damarları",
+        "Kas lifleri",
+        "Bağ damarları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kas, tendon ve bağ dokusunda meydana gelen yaralanmalarda bölgedeki kan damarları (kılcal damarlar) yırtılır; bu durum kanama, şişlik (ödem) ve hematom oluşumuna yol açar. Bu nedenle yaralanma sonrası bölgede morarma ve şişlik görülür, ilk yardımda kanamayı azaltmak için buz, kompresyon ve elevasyon uygulanır.",
+      "optionNotes": [
+        "Doğru yanıt: Yaralanma anında bölgedeki kılcal kan damarları yırtılır, bu da kanama ve ardından şişlik/morarmaya neden olur.",
+        "Tendon dokusunun kendi içinde yoğun damarlanma yoktur; \"tendon damarları\" diye özel bir yapı tanımlanmaz, bu seçenek yanlış bir terim uydurur.",
+        "Kas dokusu damarlardan beslenir ama yırtılan yapı kasa özgü ayrı bir damar sistemi değil, bölgedeki genel kan damarlarıdır; bu seçenek gereksiz şekilde kası damar türüyle sınırlar.",
+        "Kas lifleri yırtılabilir ama soru damar/dokunun yırtılmasını sorgulamaktadır; burada vurgulanan kanamaya neden olan yapı kan damarlarıdır, kas lifi yırtığı ayrı bir durumdur (kas zorlanması/strain).",
+        "\"Bağ damarları\" diye ayrı bir anatomik yapı yoktur; doğru yanıt bağ, tendon ve kasın ortak öğesi olan kan damarlarını işaret eder."
+      ]
+    },
+    {
+      "question": "Fiziksel zihinsel ve sosyal yönden iyi olma hâline ne ad verilir?",
+      "options": [
+        "Spor",
+        "Aktivite",
+        "Stres",
+        "Sağlık",
+        "İlk yardım"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dünya Sağlık Örgütü (WHO)'nün tanımına göre sağlık, yalnızca hastalık ya da sakatlığın olmaması değil; fiziksel, zihinsel (ruhsal) ve sosyal yönden tam bir iyilik hâlidir. Bu tanım sağlığın çok boyutlu bir kavram olduğunu, bedensel sağlığın yanında psikolojik ve toplumsal uyumu da kapsadığını ifade eder.",
+      "optionNotes": [
+        "Spor, fiziksel aktivite biçimidir, sağlığın tanımı değildir; sağlığı geliştiren bir araçtır ama kavramın kendisi değildir.",
+        "Aktivite genel bir hareket/etkinlik kavramıdır, WHO'nun iyi olma hâli tanımını karşılamaz.",
+        "Stres, bedenin içsel veya dışsal uyaranlara verdiği tepkidir; sağlığın tanımıyla ilgisi yoktur, aksine sağlığı olumsuz etkileyebilen bir durumdur.",
+        "Doğru yanıt: WHO tanımına göre sağlık, fiziksel, zihinsel ve sosyal yönden tam bir iyi olma hâlidir, sadece hastalığın yokluğu değildir.",
+        "İlk yardım, yaralanma veya hastalık durumunda yapılan acil müdahaledir; iyi olma hâlini tanımlamaz."
+      ]
+    },
+    {
+      "question": "Ağrının derecesi ve lokalizasyonu belirlendiği TOTAPS aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Konuş",
+        "Gözle",
+        "Dokun",
+        "Aktif Hareket",
+        "Pasif Hareket"
+      ],
+      "correctIndex": 4,
+      "explanation": "TOTAPS değerlendirmesinde Pasif Hareket aşamasında sporcunun ekstremitesi muayeneyi yapan kişi tarafından hareket ettirilir; sporcu herhangi bir kas kasılması yapmaz. Bu sırada ortaya çıkan ağrının şiddeti ve tam olarak hangi bölgede hissedildiği (lokalizasyon) net biçimde belirlenebilir, çünkü hareket kontrollüdür ve ağrıyı tetikleyen eklem/doku hareketi izole edilebilir.",
+      "optionNotes": [
+        "Konuş aşamasında sporcudan sözel olarak yaralanmanın öyküsü ve genel ağrı hissi sorgulanır, ama ağrının kesin derecesi/lokalizasyonu bu aşamada netleşmez.",
+        "Gözle aşamasında şişlik, renk değişikliği, deformite gibi görsel bulgular incelenir; ağrı derecesi gözle belirlenemez.",
+        "Dokun aşamasında hassasiyet, ısı artışı ve şişlik palpasyonla değerlendirilir; bu aşama lokalizasyonu kısmen gösterse de ağrının derecesini hareketle test etmez.",
+        "Aktif harekette sporcu eklemi kendisi hareket ettirir, bu kas kontrolünü ve hareket açıklığını test eder; ağrının tam derece ve lokalizasyonunu izole etmek pasif harekete göre daha güçtür.",
+        "Doğru yanıt: Muayeneyi yapan kişi ekstremiteyi pasif olarak hareket ettirdiğinde sporcunun kas katkısı olmadan ağrının şiddeti ve yeri net olarak belirlenebilir."
+      ]
+    },
+    {
+      "question": "Spor yaralanmalarını önleme piramidinin dördüncü basamağı aşağıdakilerden hangisidir?",
+      "options": [
+        "Bir Hedef Belirleme-Risk Faktörü analizi",
+        "Yüklenme yönetimi",
+        "Atletik gelişim, kuvvet ve kondisyon kalitesinin iyileştirilmesi",
+        "Hareket Verimliliğinin Arttırılması",
+        "Önceki yaralanma-Etkin rehabilitasyon süreci"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spor yaralanmalarını önleme piramidi, aşağıdan yukarıya doğru şu basamaklardan oluşur: (1) hedef belirleme ve risk faktörü analizi, (2) yüklenme yönetimi, (3) atletik gelişim/kuvvet-kondisyon kalitesinin iyileştirilmesi, (4) hareket verimliliğinin arttırılması ve (5) önceki yaralanma öyküsü ile etkin rehabilitasyon süreci. Dördüncü basamak, sporcunun hareket paternlerinin (biyomekanik verimlilik) geliştirilmesine odaklanır; bu, yaralanma riskini azaltıcı hareket kalitesini artırmayı amaçlar.",
+      "optionNotes": [
+        "Bu, piramidin temel (birinci) basamağıdır, dördüncü basamak değildir.",
+        "Bu, piramidin ikinci basamağıdır; antrenman yükünün planlanmasıyla ilgilidir, dördüncü basamak değildir.",
+        "Bu, üçüncü basamaktır; fiziksel kapasitenin geliştirilmesini kapsar, dördüncü basamak değildir.",
+        "Doğru yanıt: Piramidin dördüncü basamağı, sporcunun hareket kalitesi ve biyomekanik verimliliğinin geliştirilmesini kapsar.",
+        "Bu, piramidin beşinci (en üst) basamağıdır, dördüncü değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi şok belirtilerinden biri değildir?",
+      "options": [
+        "Derinin soluklaşması",
+        "Soğuk terleme",
+        "Göz bebeklerinin genişlemesi",
+        "Nabzın hızlanması",
+        "Kan basıncı yükselmesi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Şok, dolaşım sisteminin dokulara yeterli oksijen ve kan taşıyamadığı kritik bir durumdur. Tipik şok belirtileri arasında derinin soluk ve nemli (soğuk terleme) olması, göz bebeklerinin genişlemesi (dilatasyon) ve kalbin yetersiz dolaşımı kompanse etmeye çalışması sonucu nabzın hızlanması (taşikardi) yer alır. Ancak kan basıncı şokta YÜKSELMEZ, aksine dolaşan kan hacmi veya etkinliği azaldığı için düşer (hipotansiyon). Bu nedenle \"kan basıncı yükselmesi\" şok belirtisi değildir.",
+      "optionNotes": [
+        "Şokta periferik damarlar büzülerek kanı hayati organlara yönlendirir, bu da deride solukluğa neden olur; bu gerçek bir şok belirtisidir.",
+        "Şokta sempatik sinir sistemi aktivasyonu terlemeye, azalan kan akımı ise deride soğumaya yol açar; bu klasik bir şok bulgusudur.",
+        "Şokta oksijen yetersizliği ve sempatik aktivasyon göz bebeklerinde dilatasyona (büyümeye) neden olur; bu doğru bir şok belirtisidir.",
+        "Kalp, düşen kan basıncını ve doku perfüzyonunu kompanse etmek için daha hızlı atmaya başlar; taşikardi tipik bir şok bulgusudur.",
+        "Doğru yanıt (bu seçenek şok belirtisi DEĞİLDİR): Şokta kan basıncı dolaşım yetersizliği nedeniyle düşer, yükselmez; bu seçenek şokun fizyolojisiyle çelişir."
+      ]
+    },
+    {
+      "question": "I. Hayati tehlikenin ortadan kaldırılması, II. Yaşamsal fonksiyonların sürdürülmesinin sağlanması III. Hasta/ yaralının durumunun kötüleşmesinin önlenmesi IV. İyileşmenin kolaylaştırılması Yukarıdakilerden hangileri İlk yardımın öncelikli amaçları arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "İlk yardımın temel/öncelikli amaçları dört başlıkta özetlenir: hayati tehlikenin ortadan kaldırılması, yaşamsal fonksiyonların (solunum, dolaşım) sürdürülmesinin sağlanması, hasta/yaralının durumunun kötüleşmesinin (komplikasyon gelişmesinin) önlenmesi ve iyileşmenin kolaylaştırılmasıdır. Dolayısıyla verilen dört ifadenin (I, II, III, IV) tümü ilk yardımın öncelikli amaçları arasındadır.",
+      "optionNotes": [
+        "Bu seçenek yalnızca hayati tehlikenin ortadan kaldırılmasını içerir, ancak diğer üç amaç (yaşamsal fonksiyonların sürdürülmesi, kötüleşmenin önlenmesi, iyileşmenin kolaylaştırılması) da ilk yardımın öncelikli hedefleri arasındadır; eksik bir seçimdir.",
+        "Bu seçenek III ve IV'ü dışarıda bırakır; oysa durumun kötüleşmesinin önlenmesi ve iyileşmenin kolaylaştırılması da ilk yardımın temel amaçlarındandır.",
+        "Bu seçenek hayati tehlikenin ortadan kaldırılmasını (I) dışarıda bırakır, oysa bu ilk yardımın en öncelikli ve ilk amacıdır.",
+        "Bu seçenek, ilk yardımın en kritik iki amacı olan hayati tehlikenin ortadan kaldırılmasını ve yaşamsal fonksiyonların sürdürülmesini dışarıda bırakır; eksik bir seçimdir.",
+        "Doğru yanıt: Hayati tehlikenin ortadan kaldırılması, yaşamsal fonksiyonların sürdürülmesi, durumun kötüleşmesinin önlenmesi ve iyileşmenin kolaylaştırılması ilk yardımın dört öncelikli amacını oluşturur."
+      ]
+    },
+    {
+      "question": "Yorgunluk olmaksızın mesleki, boş zaman ve günlük yaşam aktivitelerini başarılı bir şekilde yapma ve bu uygunluğu yaşam boyu devam ettirebilme yeteneğine ne ad verilir?",
+      "options": [
+        "İlk yardım",
+        "Sağlık",
+        "Fiziksel uygunluk",
+        "Bilinç",
+        "Hareket yeteneği"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fiziksel uygunluk, bireyin yorgunluğa yenilmeden mesleki, günlük yaşam ve boş zaman aktivitelerini etkin biçimde yerine getirebilme ve bu kapasiteyi yaşam boyu sürdürebilme yeteneği olarak tanımlanır. Kardiyorespiratuvar dayanıklılık, kas kuvveti/dayanıklılığı, esneklik ve vücut kompozisyonu gibi bileşenleri kapsayan bütüncül bir kavramdır.",
+      "optionNotes": [
+        "İlk yardım, acil durumlarda yapılan müdahaledir; yorgunluk olmaksızın aktivite yapabilme kapasitesiyle ilgili değildir.",
+        "Sağlık daha genel bir iyi olma hâlidir (fiziksel, zihinsel, sosyal); fiziksel uygunluk ise bu genel sağlığın spesifik bir bileşeni olup performans/kapasite odaklıdır.",
+        "Doğru yanıt: Fiziksel uygunluk, yorgunluk olmaksızın günlük/mesleki/boş zaman aktivitelerini sürdürebilme ve bunu yaşam boyu koruyabilme yeteneğidir.",
+        "Bilinç, kişinin kendisi ve çevresinin farkında olma durumudur; fiziksel performans kapasitesiyle ilgisi yoktur.",
+        "Hareket yeteneği (motor beceri) fiziksel uygunluğun bir alt bileşeni olabilir ama tanımın bütününü (yorgunluksuz sürdürülebilirlik) karşılamaz."
+      ]
+    },
+    {
+      "question": "Kas iskelet sistemi yaralanmalarını tedavi etmede kullanılan en güncel ilk yardım metodu aşağıdakilerden hangisidir?",
+      "options": [
+        "TOTAPS",
+        "POLICE",
+        "ALİCE",
+        "SPİKE",
+        "FRİCE"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kas-iskelet sistemi yaralanmalarının akut döneminde kullanılan en güncel yaklaşım POLICE protokolüdür (Protection-Koruma, Optimal Loading-Uygun Dozda Yüklenme, Ice-Buz, Compression-Kompresyon, Elevation-Elevasyon). Bu protokol, eski RICE/PRICE yaklaşımındaki tam istirahat yerine kontrollü ve uygun dozda yüklenmeyi önererek doku iyileşmesini daha etkili desteklediği için güncel literatürde tercih edilmektedir.",
+      "optionNotes": [
+        "TOTAPS bir değerlendirme/muayene protokolüdür (Konuş-Gözle-Dokun-Aktif-Pasif Hareket-Beceri Testleri), tedavi metodu değildir.",
+        "Doğru yanıt: POLICE, Protection-Optimal Loading-Ice-Compression-Elevation bileşenleriyle kas iskelet sistemi yaralanmalarında güncel kabul gören ilk yardım/tedavi yaklaşımıdır.",
+        "\"ALİCE\" sporcu sağlığı literatüründe tanınan bir yaralanma tedavi protokolü değildir; bu seçenek var olmayan bir kısaltmadır.",
+        "\"SPİKE\" de kas iskelet sistemi yaralanma tedavisiyle ilişkili bilinen bir protokol değildir; kötü haber verme iletişiminde kullanılan SPIKES protokolüyle karıştırılmamalıdır ve konuyla ilgisi yoktur.",
+        "\"FRİCE\" tanınan/standart bir ilk yardım protokolü değildir; POLICE ile karıştırılmaması gereken uydurma bir kısaltmadır."
+      ]
+    },
+    {
+      "question": "Eski protokolde (PRICE) yaralanmış bölgenin istirahat etmesi sağlanarak iyileşmenin hızlanması beklenirdi ama yapılan çalışmalarla………………………..ile dokuda iyileşmenin daha iyi olduğu gözlenmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Koruma",
+        "Uygun dozda yüklenme",
+        "Buz",
+        "Kompresyon",
+        "Elevasyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eski PRICE protokolünde (Protection, Rest, Ice, Compression, Elevation) yaralı bölgenin tam istirahat etmesi önerilirdi. Ancak yapılan güncel araştırmalar, tam istirahat yerine dokunun toleransına uygun, kontrollü ve aşamalı yüklenmenin (optimal loading) iyileşmeyi hızlandırdığını ve doku adaptasyonunu desteklediğini göstermiştir. Bu nedenle \"Rest\" yerine \"Optimal Loading\" (Uygun Dozda Yüklenme) kavramı POLICE protokolüne eklenmiştir.",
+      "optionNotes": [
+        "Koruma (Protection) hem eski hem yeni protokolde zaten yer alan ortak bir basamaktır, istirahatin yerine geçen yeni/değişen unsur değildir.",
+        "Doğru yanıt: Tam istirahat yerine dokunun tolere edebildiği ölçüde kontrollü yüklenmenin iyileşmeyi daha iyi desteklediği gösterilmiştir.",
+        "Buz (Ice) uygulaması zaten hem PRICE hem POLICE protokolünde bulunan değişmeyen bir bileşendir, istirahatin yerini alan yeni unsur değildir.",
+        "Kompresyon da her iki protokolde ortak olarak bulunur; sorudaki boşluk istirahatin yerine geçen yeni yaklaşımı sormaktadır, kompresyonu değil.",
+        "Elevasyon (yüksekte tutma) de her iki protokolde değişmeden yer alan bir basamaktır, istirahatin yerine konan güncel kavram değildir."
+      ]
+    },
+    {
+      "question": "I. Konuş II. Gözle III. Aktif Hareket IV. Beceri Testleri Yukarıdakilerden hangileri TOTAPS aşamaları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "TOTAPS, sporcu yaralanmalarının saha kenarında değerlendirilmesinde kullanılan sistematik bir muayene yöntemidir ve şu aşamalardan oluşur: Talk/Konuş, Observe/Gözle, Touch/Dokun, Active Movement/Aktif Hareket, Passive Movement/Pasif Hareket ve Skill Tests/Beceri Testleri. Soruda verilen Konuş, Gözle, Aktif Hareket ve Beceri Testleri ifadelerinin tümü bu altı aşamadan biridir, dolayısıyla hepsi TOTAPS'ın parçasıdır.",
+      "optionNotes": [
+        "Bu seçenek yalnızca Konuş aşamasını kapsar, ancak Gözle, Aktif Hareket ve Beceri Testleri de TOTAPS'ın birer aşamasıdır; eksik bir seçimdir.",
+        "Bu seçenek Aktif Hareket ve Beceri Testleri aşamalarını dışarıda bırakır, oysa bunlar da TOTAPS'ın tanımlı basamaklarındandır.",
+        "Bu seçenek Konuş aşamasını (I) dışarıda bırakır; oysa Konuş, TOTAPS'ın ilk ve önemli basamağıdır.",
+        "Bu seçenek Konuş ve Gözle aşamalarını dışarıda bırakır; oysa bu iki aşama da TOTAPS değerlendirmesinin bir parçasıdır.",
+        "Doğru yanıt: Konuş, Gözle, Aktif Hareket ve Beceri Testleri, TOTAPS'ın altı aşamasından dördünü oluşturur ve hepsi bu değerlendirme sürecine dahildir."
+      ]
+    },
+    {
+      "question": "Yaralanan ya da aniden hastalanan kişilere, sağlık personeli tarafından eldeki olanaklar kullanılarak geçici olarak yapılan ilaçsız müdahalelere ne ad verilir?",
+      "options": [
+        "Spor",
+        "Aktivite",
+        "Stres",
+        "Sağlık",
+        "İlk yardım"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yaralanan ya da aniden hastalanan kişiye, olay yerinde mevcut araç-gereçlerle, tıbbi ilaç kullanılmaksızın ve profesyonel sağlık desteği sağlanana kadar geçici olarak yapılan müdahalelere ilk yardım denir. İlk yardımın temel özelliği, ilaç kullanılmaması ve amacının hayati tehlikeyi ortadan kaldırmak ile durumun kötüleşmesini önlemek olmasıdır.",
+      "optionNotes": [
+        "Spor, fiziksel aktivite ve performans odaklı bir uğraştır; acil müdahale tanımını karşılamaz.",
+        "Aktivite genel bir hareket/etkinlik ifadesidir, yaralı/hasta kişiye yönelik geçici tıbbi müdahaleyi tanımlamaz.",
+        "Stres bir fizyolojik/psikolojik tepki durumudur, yaralıya yapılan müdahale türü değildir.",
+        "Sağlık genel iyi olma hâlini ifade eder, yaralı/hastaya yapılan geçici ilaçsız müdahaleyi tanımlamaz.",
+        "Doğru yanıt: Tanımda belirtilen, olay yerinde mevcut olanaklarla, ilaç kullanılmadan yapılan geçici müdahale, ilk yardımın tanımıdır."
+      ]
+    },
+    {
+      "question": "Bilinç kapalı olduğunda solunum değerlendirilmesi nasıl yapılmaktadır?",
+      "options": [
+        "Bak – dinle – hisset",
+        "Bak – gör – hisset",
+        "Bak – dokun – hisset",
+        "Dokun – hisset – gör",
+        "Hisset – dinle – dokun"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bilinci kapalı (yanıtsız) bir kişide solunumun olup olmadığını değerlendirmek için \"bak-dinle-hisset\" yöntemi kullanılır: göğüs hareketlerine bakılır, nefes sesleri dinlenir ve yanaktan/elden hava akımı hissedilmeye çalışılır. Bu üçlü değerlendirme, solunumun varlığı ve yeterliliği konusunda hızlı ve güvenilir bilgi sağlar.",
+      "optionNotes": [
+        "Doğru yanıt: Göğüs hareketine bakma, nefes seslerini dinleme ve hava akımını hissetme, bilinci kapalı kişide solunum değerlendirmesinin standart yöntemidir.",
+        "\"Gör\" ifadesi \"bak\" ile aynı duyuyu (görme) tekrar eder, dinleme (işitme) bileşenini içermez; bu solunum değerlendirmesinde kullanılan yöntem değildir.",
+        "\"Dokun\" ile \"hisset\" aynı duyuyu (dokunma) tekrarlayan gereksiz bir ifadedir; işitsel (dinleme) bileşeni eksiktir, standart yöntem değildir.",
+        "Bu sıralama görsel, işitsel ve dokunsal bileşenleri doğru sırada ve içerikte birleştirmez; standart \"bak-dinle-hisset\" yöntemiyle örtüşmez.",
+        "Bu seçenek de \"hisset\" ve \"dokun\" bileşenlerini tekrar eder ve görsel gözlem (bakma) adımını içermez; doğru yöntem değildir."
+      ]
+    },
+    {
+      "question": "….….renkte deri oksijenin yetersizliğinin belirtisidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Gri",
+        "Kırmızı",
+        "Sarı",
+        "Mavi",
+        "Pembe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dokulara yeterli oksijen taşınamadığında, kanda oksijenlenmemiş hemoglobin oranı artar ve bu durum deride (özellikle dudak, tırnak yatağı gibi bölgelerde) mavi-mor bir renk değişikliğine yol açar. Bu bulgu tıpta siyanoz olarak adlandırılır ve oksijen yetersizliğinin klasik bir belirtisidir.",
+      "optionNotes": [
+        "Gri renk genellikle ölüm sonrası ya da çok ciddi dolaşım kollapsı gibi farklı durumlarla ilişkilendirilir, oksijen yetersizliğinin klasik/doğrudan göstergesi siyanoz (mavi) değildir.",
+        "Kırmızı renk genellikle aşırı ısınma, ateş veya karbonmonoksit zehirlenmesi gibi durumlarda görülür; oksijen yetersizliğini göstermez.",
+        "Sarı renk (sarılık/ikter) karaciğer fonksiyon bozukluğu veya bilirubin birikimiyle ilişkilidir, oksijen yetersizliğiyle ilgili değildir.",
+        "Doğru yanıt: Oksijenlenmemiş hemoglobinin artışı deride mavi-mor renk değişikliğine (siyanoz) yol açar, bu oksijen yetersizliğinin tipik belirtisidir.",
+        "Pembe renk genellikle iyi oksijenlenmiş, sağlıklı dolaşımı yansıtır; oksijen yetersizliğiyle ters bir bulgudur."
+      ]
+    },
+    {
+      "question": "Nabız atım sayısı yetişkinlerde kaçla kaç arasındadır?",
+      "options": [
+        "40 – 60",
+        "60 – 80",
+        "60 – 100",
+        "80 – 100",
+        "90 – 100"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sağlıklı bir yetişkinde dinlenik nabız atım sayısı dakikada 60 ile 100 arasında normal kabul edilir. Bu değerin altı bradikardi, üstü ise taşikardi olarak tanımlanır ve klinik değerlendirmede referans aralık olarak kullanılır.",
+      "optionNotes": [
+        "Bu aralık dinlenik yetişkin nabzı için genellikle bradikardik kabul edilir (çok düşük); normal aralığın tamamını kapsamaz.",
+        "Bu aralık normal nabzın alt-orta bölümünü kapsar ama normal aralığın üst sınırı olan 100'e kadar uzanmadığı için eksik/dar bir aralıktır.",
+        "Doğru yanıt: Yetişkinlerde normal dinlenik nabız atım sayısı dakikada 60-100 arasında kabul edilir.",
+        "Bu aralık normal nabzın sadece üst bölümünü kapsar, 60-80 arasındaki normal değerleri dışarıda bırakır.",
+        "Bu aralık çok dar ve normal nabzın büyük bir kısmını (60-90 arası) dışarıda bırakır; normal aralığı doğru yansıtmaz."
+      ]
+    },
+    {
+      "question": "1. Derece Bilinç Kaybının karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        "Tüm uyarılara cevap verir.",
+        "Sözlü ve gürültülü uyaranlara cevap verir.",
+        "Ağrılı uyaranlara cevap verir.",
+        "Tüm uyaranlara karşı tepkisizdir.",
+        "Cevap vermez."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bilinç düzeyleri değerlendirilirken 1. derece bilinç kaybında kişi, sözlü uyarana (seslenme) veya gürültülü/şiddetli uyaranlara cevap verir ancak tam bilinçli değildir; bu durum hafif düzeyde bilinç bulanıklığını (letarji) ifade eder. Daha ileri derecelerde kişi yalnızca ağrılı uyaranlara cevap verir (2. derece) veya hiçbir uyarana cevap vermez (3. derece/koma).",
+      "optionNotes": [
+        "Bu, tam bilinçli (açık bilinç) durumunu tanımlar, bilinç kaybı değildir.",
+        "Doğru yanıt: 1. derece bilinç kaybında kişi sözlü/gürültülü uyaranlara tepki verir ama tam bilinçli değildir.",
+        "Bu tanım, sözlü uyaranlara artık cevap vermeyen daha ileri bir bilinç kaybı düzeyini (2. derece) ifade eder, 1. dereceyi değil.",
+        "Bu, en ağır bilinç kaybı düzeyini (koma, 3. derece) tanımlar, 1. derece değildir.",
+        "Bu ifade de hiçbir uyarana tepkisizliği, yani en ileri bilinç kaybını tanımlar; 1. derece bilinç kaybının tanımı değildir."
+      ]
+    },
+    {
+      "question": "I. Kuru boğulma II. Yaş boğulma III. İkincil boğulma Yukarıda verilenlerden hangisi veya hangileri boğulma durumlarındandır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Boğulma olayları farklı şekillerde sınıflandırılabilir: kuru boğulma (laringospazm nedeniyle akciğere su girmeden gelişen boğulma), yaş boğulma (akciğerlere su girmesiyle gelişen boğulma) ve ikincil boğulma (sudan kurtarılan kişinin bir süre sonra akciğerde gelişen komplikasyonlar nedeniyle kaybedilmesi). Bu üç durumun hepsi boğulma sınıflandırması içinde yer alır.",
+      "optionNotes": [
+        "Bu seçenek yalnızca kuru boğulmayı kapsar, yaş boğulma ve ikincil boğulma da tanımlanmış boğulma türleri arasındadır; eksiktir.",
+        "Bu seçenek ikincil boğulmayı (III) dışarıda bırakır, oysa bu da literatürde tanımlanan bir boğulma türüdür.",
+        "Bu seçenek yaş boğulmayı (II) dışarıda bırakır, oysa yaş boğulma en yaygın görülen boğulma türlerinden biridir.",
+        "Bu seçenek kuru boğulmayı (I) dışarıda bırakır, oysa kuru boğulma da tanımlanan bir boğulma türüdür.",
+        "Doğru yanıt: Kuru boğulma, yaş boğulma ve ikincil boğulma, boğulma olaylarının farklı sınıflandırmalarını oluşturur ve hepsi geçerlidir."
+      ]
+    },
+    {
+      "question": "Bilinç düzeyleri kaça ayrılır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bilinç düzeyleri genel olarak dört kategoride değerlendirilir: tam bilinçli (açık) durum, 1. derece bilinç kaybı (sözlü/gürültülü uyarana cevap), 2. derece bilinç kaybı (ağrılı uyarana cevap) ve 3. derece bilinç kaybı/koma (hiçbir uyarana cevap yok). Bu dörtlü sınıflandırma, ilk yardımda hasta/yaralının bilinç durumunu hızlı değerlendirmek için kullanılır.",
+      "optionNotes": [
+        "Bilinç değerlendirmesi ikili bir ayrıma (örneğin sadece \"açık/kapalı\") indirgenmez; standart sınıflandırma dört düzeyi kapsar.",
+        "Üçlü bir sınıflandırma, bilinç kaybının ara derecelerini (1. ve 2. derece) ayırt etmek için yetersiz kalır; standart kabul dört düzeydir.",
+        "Doğru yanıt: Bilinç düzeyleri; tam bilinçli, 1. derece, 2. derece ve 3. derece (koma) olmak üzere dört kategoride değerlendirilir.",
+        "Beşli bir sınıflandırma, bilinç değerlendirmesinde standart olarak kullanılan dörtlü sisteme karşılık gelmez; bu seçenek fazla basamak öne sürer.",
+        "Altılı bir sınıflandırma da standart bilinç düzeyi değerlendirmesinde kullanılan kategorilerden fazladır; gerçek sınıflandırma dört düzeydir."
+      ]
+    },
+    {
+      "question": "Yaralanmış bölge üzerinde basınç oluşturarak kanamayı durdurmak, kontrol altına almak ve şişliği önlemeye ne ad verilir?",
+      "options": [
+        "Uygun dozda yüklenme",
+        "Kompresyon",
+        "Elevasyon",
+        "Buz",
+        "Koruma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yaralanmış bölge üzerine doğrudan ve kontrollü basınç uygulanarak kanamanın durdurulması, kontrol altına alınması ve doku içinde sıvı birikiminin (şişliğin) sınırlandırılması işlemine kompresyon denir. POLICE protokolünün bileşenlerinden biri olan kompresyon, bandaj veya elle uygulanan basınçla gerçekleştirilir.",
+      "optionNotes": [
+        "Bu, dokunun kontrollü şekilde yüklenmesiyle ilgilidir, basınç uygulayarak kanama durdurma anlamına gelmez.",
+        "Doğru yanıt: Yaralı bölgeye basınç uygulayarak kanamayı durdurma, kontrol altına alma ve şişliği önleme işlemi kompresyondur.",
+        "Elevasyon, yaralı bölgenin kalp seviyesinin üzerinde tutulmasıyla kan akışını ve şişliği azaltma işlemidir, doğrudan basınç uygulamayı ifade etmez.",
+        "Buz uygulaması, soğuk yoluyla damar büzülmesi ve ağrı/şişlik azaltma sağlar; doğrudan basınç uygulayarak kanama kontrolü anlamına gelmez.",
+        "Koruma, yaralı bölgenin daha fazla zarar görmesini önlemeye yönelik genel bir tedbirdir; basınç uygulayarak kanama durdurmayı özel olarak tanımlamaz."
+      ]
+    },
+    {
+      "question": "Yaralanan bölgeye 2 saat arayla……dakikalık buz uygulaması yapılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spor yaralanmalarında buz uygulaması, doku hasarını (donma yanığı) önlemek amacıyla genellikle 15 dakika süreyle yapılır ve 2 saat arayla tekrarlanır. Bu süre, soğuğun damar büzülmesi, ağrı ve şişliği azaltma etkisini sağlarken deri ve yüzeyel dokularda soğuk hasarına yol açmayacak şekilde belirlenmiştir.",
+      "optionNotes": [
+        "Bu süre, soğuğun etkili bir fizyolojik yanıt (vazokonstriksiyon, ağrı azaltma) oluşturması için genellikle yetersiz kabul edilir.",
+        "Bu süre standart uygulamadan kısadır; önerilen süre 15 dakikadır.",
+        "Doğru yanıt: Yaralı bölgeye 2 saat arayla 15 dakikalık buz uygulaması yapılması, doku hasarını önlerken etkili soğutma sağlayan standart süredir.",
+        "Bu süre, önerilen 15 dakikadan daha uzun olup deri ve yüzeyel dokularda soğuk kaynaklı hasar (donma benzeri yanık) riskini artırabilir.",
+        "Bu süre standart uygulamadan belirgin şekilde uzundur ve soğuk kaynaklı doku hasarı riskini artırır; önerilen protokolle uyumlu değildir."
+      ]
+    },
+    {
+      "question": "Ortam sıcaklığının çok düşük olması sonucuna bağlı olarak vücutta bir takım belirtilerin ortaya çıkmasına ne ad verilir?",
+      "options": [
+        "Boğulma",
+        "Donma",
+        "Terleme",
+        "Isınma",
+        "Bilinç kaybı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ortam sıcaklığının çok düşük olması sonucunda vücut ısısının aşırı kaybolmasıyla gelişen ve ciltte/dokularda hasara yol açan duruma donma denir. Donma, özellikle açıkta kalan burun, kulak, el ve ayak gibi bölgelerde doku hasarına neden olabilir.",
+      "optionNotes": [
+        "Boğulma, solunum yollarına su girmesi ya da tıkanma sonucu oksijen alımının durmasıyla ilişkilidir, düşük ortam sıcaklığıyla doğrudan ilgili değildir.",
+        "Doğru yanıt: Çok düşük ortam sıcaklığı sonucu vücutta ortaya çıkan doku hasarı ve belirtiler bütününe donma denir.",
+        "Terleme, vücut sıcaklığını düşürmeye yönelik bir tepkidir, genellikle sıcak ortamlarla ilişkilidir, düşük sıcaklık belirtisi değildir.",
+        "Isınma, vücut sıcaklığının artmasını ifade eder, düşük ortam sıcaklığının sonucu olan bir durum değildir.",
+        "Bilinç kaybı ciddi hipotermide görülebilecek bir sonuçtur ama düşük sıcaklığın kendisinin genel adı değildir; soru doğrudan \"donma\" kavramını sormaktadır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi ilk yardım çantasında bulunması gereken ilaçlardan biri değildir?",
+      "options": [
+        "Kodein",
+        "Pudra",
+        "Oksijenli su",
+        "Vazelin",
+        "Soğuk sprey"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sporcu ilk yardım çantasında genellikle ağrı kesici (kodein gibi), pudra, vazelin ve soğuk sprey gibi malzemeler bulundurulur. Oksijenli su (hidrojen peroksit) ise güncel yara bakımı yaklaşımlarında doku üzerinde tahriş edici etkisi ve iyileşmeyi geciktirebilme riski nedeniyle önerilmemekte, bu yüzden standart ilk yardım çantası listesinde yer almamaktadır.",
+      "optionNotes": [
+        "Kodein, ağrı kesici özelliğiyle sporcu ilk yardım çantasında bulunması beklenen ilaçlardan biridir.",
+        "Pudra, sürtünmeyi azaltmak ve deri tahrişini önlemek amacıyla ilk yardım çantasında standart olarak bulunan malzemelerden biridir.",
+        "Doğru yanıt: Oksijenli su (hidrojen peroksit), dokuya tahriş edici etkisi nedeniyle güncel yaklaşımda önerilmez ve ilk yardım çantasında bulunması gereken ilaçlar arasında sayılmaz.",
+        "Vazelin, sürtünmeyi azaltma ve cildi koruma amacıyla ilk yardım çantasında yaygın olarak bulunan bir malzemedir.",
+        "Soğuk sprey, anlık ağrı ve şişliği azaltmak için sahada kullanılan, ilk yardım çantasında standart olarak bulunan bir üründür."
+      ]
+    },
+    {
+      "question": "Esas boğulmadan kurtulan kişinin 15 gün sonra akciğerde gelişen ödem, kapanma vb. nedenlerle kaybedilmesi durumuna ne ad verilir?",
+      "options": [
+        "Birincil boğulma",
+        "İkincil boğulma",
+        "Kuru boğulma",
+        "Yaş boğulma",
+        "Sıvı boğulma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sudan canlı olarak çıkarılan ancak akciğerlere kaçan suyun yol açtığı ödem, inflamasyon veya solunum yetmezliği gibi komplikasyonlar nedeniyle günler sonra (örneğin 15 gün sonra) hayatını kaybeden kişilerdeki durum ikincil boğulma olarak adlandırılır. Bu durum, olay anında değil, gecikmiş komplikasyonlar sonucu gelişen bir boğulma biçimidir.",
+      "optionNotes": [
+        "Birincil boğulma, olay anında veya kısa süre içinde gerçekleşen boğulmayı ifade eder, günler sonra gelişen gecikmiş komplikasyonu tanımlamaz.",
+        "Doğru yanıt: Boğulmadan kurtulan kişinin günler sonra akciğerdeki gecikmiş komplikasyonlar (ödem, kapanma) nedeniyle kaybedilmesi ikincil boğulma olarak tanımlanır.",
+        "Kuru boğulma, akciğere su girmeden laringospazm sonucu gelişen boğulma türüdür, günler sonra gelişen komplikasyonla ilgili değildir.",
+        "Yaş boğulma, akciğerlere su girmesiyle olay anında gelişen boğulma türüdür, gecikmiş (15 gün sonraki) ölümü tanımlamaz.",
+        "\"Sıvı boğulma\" literatürde tanımlı standart bir boğulma terimi değildir; bu seçenek var olmayan bir kategoriyi işaret eder."
+      ]
+    },
+    {
+      "question": "I. Önceki Yaralanma Öyküsü II. Yaş III. Cinsiyet IV. Yetersiz Fiziksel Uygunluk Düzeyi Yukarıdakilerden hangileri spor yaralanmalarında kişinin kendisinden kaynaklı faktörler arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I - II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor yaralanmalarına yol açan faktörler, kişiden kaynaklanan (intrinsik) ve çevreden/dışsal kaynaklanan (ekstrinsik) faktörler olarak ikiye ayrılır. Önceki yaralanma öyküsü, yaş, cinsiyet ve yetersiz fiziksel uygunluk düzeyi, sporcunun kendi bünyesi ve geçmişiyle ilgili olduğundan kişisel/intrinsik risk faktörleri arasında sayılır.",
+      "optionNotes": [
+        "Bu seçenek yalnızca önceki yaralanma öyküsünü kapsar, yaş, cinsiyet ve fiziksel uygunluk düzeyi de kişisel risk faktörleri arasındadır; eksiktir.",
+        "Bu seçenek cinsiyet ve yetersiz fiziksel uygunluk düzeyini dışarıda bırakır, oysa bunlar da kişiden kaynaklanan faktörlerdir.",
+        "Bu seçenek önceki yaralanma öyküsünü (I) dışarıda bırakır, oysa geçmiş yaralanma öyküsü en güçlü kişisel risk faktörlerinden biridir.",
+        "Bu seçenek önceki yaralanma öyküsü ve yaşı dışarıda bırakır, oysa bu ikisi de literatürde tanımlanan kişisel/intrinsik risk faktörleridir.",
+        "Doğru yanıt: Önceki yaralanma öyküsü, yaş, cinsiyet ve yetersiz fiziksel uygunluk düzeyi, sporcunun kendisinden kaynaklanan (intrinsik) risk faktörlerinin tümünü oluşturur."
+      ]
+    },
+    {
+      "question": "Spor Yaralanmalarını Önleme Piramidi kaç basamaktan oluşmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spor Yaralanmalarını Önleme Piramidi, hedef belirleme-risk faktörü analizi, yüklenme yönetimi, atletik gelişim/kuvvet-kondisyon kalitesinin iyileştirilmesi, hareket verimliliğinin arttırılması ve önceki yaralanma öyküsü-etkin rehabilitasyon süreci olmak üzere toplam beş basamaktan oluşur.",
+      "optionNotes": [
+        "İki basamaklı bir yapı, piramidin kapsadığı risk analizi, yüklenme, kondisyon, hareket verimliliği ve rehabilitasyon gibi beş farklı boyutu yansıtamayacak kadar azdır.",
+        "Üç basamaklı bir yapı da piramidin beş ayrı bileşenini (hedef belirleme, yüklenme, kondisyon, hareket verimliliği, rehabilitasyon) kapsamakta yetersiz kalır.",
+        "Dört basamak, piramidin standart olarak tanımlanan beşinci bileşenini (örneğin hareket verimliliği veya rehabilitasyon basamağını) dışarıda bırakır.",
+        "Doğru yanıt: Spor Yaralanmalarını Önleme Piramidi, hedef belirleme, yüklenme yönetimi, kondisyon geliştirme, hareket verimliliği ve rehabilitasyon olmak üzere beş basamaktan oluşur.",
+        "Altı basamaklı bir yapı, piramit modelinde tanımlanan beş standart bileşenden daha fazlasını öne sürer ve modele uygun değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi TOTAPS aşamalarından biri değildir?",
+      "options": [
+        "Konuş",
+        "Gözle",
+        "Dokun",
+        "Bilişsel testler",
+        "Aktif Hareket"
+      ],
+      "correctIndex": 3,
+      "explanation": "TOTAPS, Konuş (Talk), Gözle (Observe), Dokun (Touch), Aktif Hareket (Active Movement), Pasif Hareket (Passive Movement) ve Beceri Testleri (Skill Tests) aşamalarından oluşan sahada kullanılan bir değerlendirme protokolüdür. \"Bilişsel testler\" bu altı aşamadan biri değildir; TOTAPS kas-iskelet sistemi yaralanmalarını değerlendirmeye yönelik fiziksel bir muayene yöntemidir, bilişsel (kognitif) fonksiyonları değerlendirmez.",
+      "optionNotes": [
+        "Konuş, TOTAPS'ın sporcudan öykü alınan ilk aşamasıdır, dolayısıyla TOTAPS'ın bir parçasıdır.",
+        "Gözle, yaralanan bölgenin görsel olarak incelendiği TOTAPS aşamalarından biridir.",
+        "Dokun, palpasyon yoluyla hassasiyet ve ısı değişikliğinin değerlendirildiği TOTAPS aşamalarından biridir.",
+        "Doğru yanıt: Bilişsel testler, TOTAPS'ın tanımlı aşamaları arasında yer almaz; TOTAPS fiziksel/motor değerlendirmeye odaklanır, bilişsel fonksiyon testi içermez.",
+        "Aktif Hareket, sporcunun eklemi kendi kas kontrolüyle hareket ettirdiği TOTAPS aşamalarından biridir."
+      ]
+    }
+  ]
+}

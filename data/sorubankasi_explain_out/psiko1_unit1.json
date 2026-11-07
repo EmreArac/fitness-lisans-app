@@ -1,0 +1,539 @@
+{
+  "course": "psiko1",
+  "unit_index": 1,
+  "topic": "Spor Tarihi",
+  "questions": [
+    {
+      "question": "Kökeni tarih öncesi çağlara dayanan sportif aktiviteler karşısında “spor” terimi ancak………………itibaren şekillenmeye başlamıştır. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": [
+        "Maden çağından",
+        "İlkçağdan",
+        "Ortaçağdan",
+        "Yeniçağdan",
+        "Yakınçağdan"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Spor\" terimi, tarih öncesinden beri var olan fiziksel oyun ve yarışma etkinliklerinin bugünkü anlamda adlandırılmasından çok daha sonra ortaya çıkmıştır. Sözcük, Eski Fransızca \"desport\" (eğlenme, vakit geçirme) kökünden Orta İngilizceye geçmiş ve bu kullanım Ortaçağ döneminde şekillenmeye başlamıştır. Dolayısıyla sportif etkinlikler tarih öncesine uzansa da \"spor\" terimi ilk olarak Ortaçağ'dan itibaren bugünkü anlamına yaklaşan bir içerik kazanmıştır.",
+      "optionNotes": [
+        "Maden çağı (Tunç/Bakır Çağı) tarih öncesi bir dönemdir; bu dönemde henüz yazılı dil ve \"spor\" gibi bir terim oluşmamıştır, sadece fiziksel aktivitenin kendisi vardır.",
+        "İlkçağ (Antik Çağ) Yunan ve Roma'da \"agon\", \"athlos\", \"ludus\" gibi kendi terimlerini üretmiştir; \"spor\" sözcüğü bu dönemde henüz ortaya çıkmamıştır.",
+        "Doğru yanıt: \"Spor\" sözcüğü Eski Fransızca \"desport\"tan türeyerek Orta İngilizceye geçmiş ve bu kullanım Ortaçağ'da şekillenmeye başlamıştır.",
+        "Yeniçağ (Rönesans sonrası) döneminde terim, Orta İngilizce aracılığıyla zaten var olan bir kavram olarak kullanılıyordu; terimin ilk şekillenişi bu döneme değil daha öncesine denk gelir.",
+        "Yakınçağ modern spor kurumlarının (federasyon, olimpiyat vb.) ortaya çıktığı dönemdir; ancak \"spor\" teriminin dildeki ilk oluşumu bundan çok daha önce gerçekleşmiştir."
+      ]
+    },
+    {
+      "question": "Eski Roma’da tatil günlerinde yapılan oyun, eğlence ve sporlar anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Athletes",
+        "Athlos",
+        "Agon",
+        "Gymnastes",
+        "Ludus"
+      ],
+      "correctIndex": 4,
+      "explanation": "Eski Roma'da tatil günlerinde (dies ludorum) düzenlenen oyun, eğlence ve gösteri niteliğindeki etkinlikler Latince \"ludus\" (oyun, eğlence) kavramıyla ifade edilirdi; kamusal Roma oyunları da bu kökten \"ludi\" olarak anılırdı. Diğer seçenekler Yunanca kökenlidir ve farklı kavramları (sporcu, mücadele/çaba, yarışma, çıplak beden eğitmeni) karşılayarak Roma'ya değil Yunan dünyasına aittir.",
+      "optionNotes": [
+        "\"Athletes\" Yunanca kökenlidir ve \"ödül için mücadele eden kişi, sporcu\" anlamına gelir; bir etkinlik/eğlence kavramı değil, kişiyi tanımlayan bir sözcüktür.",
+        "\"Athlos\" Yunanca \"mücadele, çaba, sınav\" anlamındadır ve İngilizcedeki \"athletics\" sözcüğünün kökenidir; Roma'daki tatil eğlencelerini değil Yunan yarışma anlayışını ifade eder.",
+        "\"Agon\" Yunanca \"yarışma, mücadele\" anlamına gelir ve Yunan kültüründeki rekabetçi müsabaka ruhunu ifade eder; Latince bir Roma terimi değildir.",
+        "\"Gymnastes\" Yunanca kökenlidir ve çıplak biçimde beden eğitimi yaptıran kişiyi/eğitmeni ifade eder; bir tatil eğlencesi veya oyun kavramı değildir.",
+        "Doğru yanıt: \"Ludus\" Latince \"oyun, eğlence\" anlamına gelir ve Roma'da tatil günlerinde düzenlenen oyun, eğlence ve gösteri etkinliklerini karşılayan kavramdır."
+      ]
+    },
+    {
+      "question": "Türk dilinin sportif etkinliklere ilişkin en eski sözcükleri aşağıdakilerden hangisidir?",
+      "options": [
+        "Oyun ve yarış",
+        "Atlet ve egzersiz",
+        "Oyun ve atlet",
+        "Yarış ve egzersiz",
+        "Yarış ve atlet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Türk dilinin sportif etkinliklere ilişkin en eski, öz Türkçe kökenli sözcükleri \"oyun\" ve \"yarış\"tır; bu sözcükler Göktürk ve Uygur dönemine ait yazıtlarda ve metinlerde karşımıza çıkar. \"Atlet\" ve \"egzersiz\" ise Batı dillerinden (Yunanca/Latince kökenli) Türkçeye sonradan girmiş alıntı sözcüklerdir ve eski Türk dilinde karşılığı bulunmaz.",
+      "optionNotes": [
+        "Doğru yanıt: \"Oyun\" ve \"yarış\" öz Türkçe kökenli sözcüklerdir ve Türk dilinin sportif etkinliklere ilişkin bilinen en eski sözcükleridir.",
+        "\"Atlet\" ve \"egzersiz\" Batı dillerinden (Yunanca/Latince) alınmış sonraki dönem alıntı sözcükleridir, eski Türkçeye ait değildir.",
+        "\"Atlet\" kelimesi öz Türkçe değil alıntı bir sözcüktür; bu nedenle \"oyun\" ile birlikte eski Türkçe sözcük çifti oluşturmaz.",
+        "\"Egzersiz\" Batı kökenli bir alıntı sözcüktür; \"yarış\" öz Türkçe olsa da bu ikili eski Türkçeye ait özgün bir sözcük çifti değildir.",
+        "\"Atlet\" alıntı bir sözcük olduğundan \"yarış\" ile birlikte eski Türkçeye ait özgün bir sözcük çifti oluşturmaz."
+      ]
+    },
+    {
+      "question": "Türkçede spor anlamında kullanılan “yarış” teriminin ilk örnekleri hangi yazıtlarda belgelenmiştir?",
+      "options": [
+        "Uygur",
+        "Göktürk",
+        "Karabalsagun",
+        "Sümer",
+        "Taryat"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Yarış\" teriminin Türkçede spor anlamında kullanılan ilk örnekleri, bilinen en eski Türkçe yazılı belgeler olan 8. yüzyıla tarihlenen Göktürk (Orhun) yazıtlarında belgelenmiştir. Uygur, Karabalsagun ve Taryat yazıtları ise Göktürklerden daha sonraki döneme (Uygur Kağanlığı dönemine) aittir; Sümer yazıtları ise Türk diliyle hiçbir ilgisi olmayan, çok daha eski ve farklı bir dil ailesine ait Mezopotamya belgeleridir.",
+      "optionNotes": [
+        "Uygur yazıtları (örn. Karabalsagun, Taryat) Göktürklerden sonraki döneme aittir; \"yarış\" teriminin belgelendiği en eski kaynak değildir.",
+        "Doğru yanıt: \"Yarış\" teriminin ilk örnekleri, bilinen en eski Türkçe yazılı anıtlar olan 8. yüzyıl Göktürk (Orhun) yazıtlarında yer alır.",
+        "Karabalsagun (Kara Balasagun) yazıtı Uygur dönemine aittir ve Göktürk yazıtlarından kronolojik olarak daha sonradır.",
+        "Sümer yazıtları Mezopotamya'ya ait, Türk diliyle akraba olmayan tamamen farklı bir dil ve kültüre aittir; Türkçe \"yarış\" sözcüğüyle ilgisi yoktur.",
+        "Taryat yazıtı da Uygur dönemine ait bir belgedir ve Göktürk yazıtlarından sonraki bir tarihe tarihlenir."
+      ]
+    },
+    {
+      "question": "İslamiyet ile birlikte Türkçeye giren ve “bir işte beceri geliştirmek için yapılan tekrar anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "İdmancı",
+        "İdman yurdu",
+        "Terbiye-i Bedeniye",
+        "İdman",
+        "Sport"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"İdman\", Arapça kökenli olup İslamiyet'in etkisiyle Türkçeye giren ve \"bir işte beceri kazanmak/geliştirmek için yapılan tekrar, alıştırma\" anlamına gelen kavramdır. \"İdmancı\" bu kavramdan türetilmiş kişi adı, \"idman yurdu\" ise idman faaliyetlerinin yapıldığı bir kurum/mekân adıdır; \"terbiye-i bedeniye\" Osmanlıcada daha geniş kapsamlı \"beden eğitimi\" anlamına gelen ayrı bir kavramdır, \"sport\" ise Batı kökenli, çok daha sonra Türkçeye giren bir alıntı sözcüktür.",
+      "optionNotes": [
+        "\"İdmancı\", idman yapan kişiyi ifade eden türetilmiş bir sözcüktür; tekrar/alıştırma kavramının kendisi değil, bu eylemi yapan kişiyi tanımlar.",
+        "\"İdman yurdu\", idman etkinliklerinin yapıldığı kurum/mekânı belirten bileşik bir kurum adıdır; beceri geliştirmek için yapılan tekrarın kendisini ifade etmez.",
+        "\"Terbiye-i bedeniye\" Osmanlıcada \"beden eğitimi/bedensel disiplin\" anlamına gelen daha geniş kapsamlı bir kavramdır; özellikle \"tekrar yoluyla beceri geliştirme\" anlamını taşımaz.",
+        "Doğru yanıt: \"İdman\", Arapça kökenli olarak İslamiyet ile Türkçeye giren ve bir işte beceri geliştirmek için yapılan tekrar/alıştırma anlamına gelen kavramdır.",
+        "\"Sport\" Batı dillerinden (İngilizce/Fransızca) Türkçeye çok daha sonraki bir dönemde, Batılılaşma sürecinde giren bir alıntı sözcüktür; İslamiyet'in etkisiyle giren bir kavram değildir."
+      ]
+    },
+    {
+      "question": "İdman spor dergisi kaç yılında yayımlanmıştır?",
+      "options": [
+        "1900",
+        "1905",
+        "1908",
+        "1914",
+        "1920"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"İdman\" adlı spor dergisi, Türk spor basınının erken örneklerinden biri olarak 1914 yılında yayımlanmaya başlamıştır. Bu tarih, Türkiye'de spor yayıncılığının ve spor bilincinin kurumsallaşma sürecindeki önemli bir aşamayı işaret eder.",
+      "optionNotes": [
+        "1900 yılı, Türk spor basınının kurumsallaşma sürecinde İdman dergisinin yayımlandığı tarihten önceki bir dönemdir.",
+        "1905 yılı da dergi için belirtilen 1914 tarihinden önceye denk gelir ve bu yayınla ilişkilendirilmez.",
+        "1908 yılı II. Meşrutiyet'in ilanıyla önemli bir siyasi dönüm noktasıdır ancak İdman dergisinin yayın tarihi değildir.",
+        "Doğru yanıt: İdman dergisi 1914 yılında yayımlanmıştır.",
+        "1920 yılı, derginin yayımlandığı tarihten sonraki bir döneme aittir."
+      ]
+    },
+    {
+      "question": "Cimnastik teriminin Türkçe bir eserde kullanımı……Fransızcadan çevrilen Risale-i Cimnastik kitabıyla olmuştur. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": [
+        "1700 yılında",
+        "1758 yılında",
+        "1807 yılında",
+        "1828 yılında",
+        "1847 yılında"
+      ],
+      "correctIndex": 4,
+      "explanation": "Cimnastik teriminin Türkçe bir eserde kullanımı, Fransızcadan çevrilen \"Risale-i Cimnastik\" adlı kitapla 1847 yılında gerçekleşmiştir. Bu çeviri eser, Batı kökenli jimnastik/beden eğitimi kavramlarının Osmanlı Türkçesine girişinde önemli bir kilometre taşı olarak kabul edilir.",
+      "optionNotes": [
+        "1700 yılı, Batı'da jimnastik düşüncesinin henüz sistemli biçimde gelişmediği çok daha erken bir tarihtir; Risale-i Cimnastik ile ilişkisi yoktur.",
+        "1758 yılı Batı beden eğitimi düşüncesinde önemli eserlerin ortaya çıktığı dönemle ilgili olsa da Risale-i Cimnastik'in Türkçe yayım tarihi değildir.",
+        "1807 yılı, eserin Türkçeye çevrilip yayımlandığı tarihten önceki bir dönemdir.",
+        "1828 yılı da verilen doğru tarihten önceye denk gelir ve bu çeviri eserle ilişkilendirilmez.",
+        "Doğru yanıt: Risale-i Cimnastik, Fransızcadan çevrilerek 1847 yılında yayımlanmış ve \"cimnastik\" teriminin Türkçe bir eserde kullanıldığı ilk örneklerden biri olmuştur."
+      ]
+    },
+    {
+      "question": "Spor teriminin Türkçedeki ilk kez 1895 yılında hangi gazetede kullanılmıştır?",
+      "options": [
+        "Akşam",
+        "İkdam",
+        "Açık söz",
+        "Karagöz",
+        "Volkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"Spor\" teriminin Türkçede ilk kez kullanıldığı 1895 tarihli gazete İkdam'dır. İkdam, 1894'te kurulmuş, dönemin önde gelen ve Batılı/modern kavramların Türkçeye girişinde öncü rol oynayan gazetelerinden biridir.",
+      "optionNotes": [
+        "Akşam gazetesi daha sonraki bir dönemde (1918) yayın hayatına başlamıştır; 1895 tarihli \"spor\" kullanımıyla ilişkilendirilemez.",
+        "Doğru yanıt: \"Spor\" terimi Türkçede ilk kez 1895 yılında İkdam gazetesinde kullanılmıştır.",
+        "Açık Söz gazetesi de İkdam'dan sonraki bir döneme aittir ve bu ilk kullanımla ilişkili değildir.",
+        "Karagöz, mizah/eğlence içerikli bir yayın olup \"spor\" teriminin 1895'teki ilk kullanıldığı gazete olarak bilinmez.",
+        "Volkan gazetesi de farklı bir döneme ve farklı bir yayın çizgisine ait olup bu ilk kullanımla ilişkilendirilmez."
+      ]
+    },
+    {
+      "question": "İdealist tarih görüşüne göre ilk bilinçli sportif hareket formları aşağıdakilerden hangisidir?",
+      "options": [
+        "Büyüsel-ayinsel danslar",
+        "Mızrak atma",
+        "Yay",
+        "Bumerang",
+        "Avcılık"
+      ],
+      "correctIndex": 0,
+      "explanation": "İdealist tarih görüşü, insanlık tarihini maddi/ekonomik koşullardan çok düşünce, inanç ve bilinç gelişimi üzerinden açıklar; bu yaklaşıma göre ilk bilinçli sportif hareket formları, dinsel/sihirsel amaçlarla (avın bereketini sağlama, doğaüstü güçleri etkileme vb.) icra edilen büyüsel-ayinsel danslardır. Mızrak atma, yay, bumerang ve avcılık ise daha çok maddi/pratik hayatta kalma ihtiyaçlarına dayanan, materyalist bakış açısıyla ilişkilendirilen fiziksel etkinliklerdir.",
+      "optionNotes": [
+        "Doğru yanıt: İdealist tarih görüşüne göre ilk bilinçli sportif hareket formları, dinsel-sihirsel içerikli büyüsel-ayinsel danslardır.",
+        "Mızrak atma, avcılık amaçlı pratik/materyal bir beceridir; idealist görüşün vurguladığı bilinçli-ayinsel/sembolik boyutu taşımaz.",
+        "Yay kullanımı da avcılığa dayanan pratik bir araç-beceri etkinliğidir; bilinç/inanç temelli ilk sportif form olarak kabul edilmez.",
+        "Bumerang kullanımı maddi hayatta kalma ihtiyaçlarıyla ilişkili pratik bir etkinliktir, idealist tarih görüşünün öne çıkardığı ayinsel boyutu içermez.",
+        "Avcılık, temel geçim faaliyeti olup materyalist tarih görüşüyle ilişkilendirilen bir etkinliktir; idealist görüşün vurguladığı \"ilk bilinçli\" form değildir."
+      ]
+    },
+    {
+      "question": "İsabet kaydı için ana uygulama öncesi “antrenman” gerektiren………....alıştırmalarının sporun önceli sayılabilecek en eski fiziksel alıştırmalar olduğu söylenebilir. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": [
+        "Büyüsel – ayinsel danslar",
+        "Yay",
+        "Mızrak atma",
+        "Bumerang",
+        "Avcılık"
+      ],
+      "correctIndex": 2,
+      "explanation": "İsabet/hedef tutturma kaydı için ana uygulamadan (avdan) önce ayrıca antrenman ve alıştırma gerektiren mızrak atma, hedefe doğru atış tekniğinin geliştirilmesini zorunlu kıldığından sporun önceli sayılabilecek en eski fiziksel alıştırmalardan biri olarak kabul edilir. Diğer seçenekler ya daha sembolik/ayinsel (büyüsel-ayinsel danslar) ya da doğrudan avın kendisi/genel bir araç kullanımı (yay, bumerang, avcılık) olup bu ifadede özellikle mızrak atmaya atıf yapılır.",
+      "optionNotes": [
+        "Büyüsel-ayinsel danslar sembolik/dinsel içerikli etkinliklerdir; isabet kaydı veya nişan alma pratiğiyle doğrudan ilişkili değildir.",
+        "Yay kullanımı da isabet gerektiren bir etkinlik olsa da bu ifadede özellikle mızrak atma alıştırmaları vurgulanır; yay bu bağlamda doğru yanıt değildir.",
+        "Doğru yanıt: Mızrak atma, isabet kaydı için ana avlanma faaliyeti öncesinde antrenman gerektiren, sporun önceli sayılabilecek en eski fiziksel alıştırmalardan biridir.",
+        "Bumerang, fırlatma ve geri dönüş özelliğiyle bilinen farklı bir araçtır; metinde belirtilen \"isabet için antrenman gerektiren\" alıştırma özellikle mızrak atmaya işaret eder.",
+        "Avcılık, bu alıştırmaların nihai/ana uygulama alanıdır; alıştırmanın kendisi değil, alıştırmanın yapıldığı amaç faaliyettir."
+      ]
+    },
+    {
+      "question": "Avustralya, Avrupa ve Asya’da yoğun olarak kullanılan ve bir kültür haline gelen fiziksel aktivite aşağıdakilerden hangisidir?",
+      "options": [
+        "Büyüsel – ayinsel danslar",
+        "Mızrak atma",
+        "Yay",
+        "Bumerang",
+        "Avcılık"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bumerang, özellikle Avustralya yerlileri arasında geliştirilmiş olmakla birlikte benzer fırlatma araçlarının Avrupa'da ve Asya'da da kullanıldığı bilinmektedir; bu yaygın kullanım bumerangı zamanla bir avlanma aracından öteye geçirip bir kültür unsuru hâline getirmiştir. Diğer seçenekler bumerang kadar bu üç coğrafyaya özgü ayırt edici bir kültürel yaygınlığa sahip değildir.",
+      "optionNotes": [
+        "Büyüsel-ayinsel danslar belirli coğrafyalara özgü olmaktan çok evrensel bir ritüel pratiğidir; sorudaki üç kıtaya özgü somut bir araç/aktivite değildir.",
+        "Mızrak atma dünya genelinde yaygın bir avlanma tekniğidir ancak özellikle Avustralya, Avrupa ve Asya'yı birbirine bağlayan belirgin bir kültürel sembol olarak anılmaz.",
+        "Yay da pek çok kültürde kullanılmış evrensel bir araçtır; sorunun özellikle işaret ettiği bumerang kadar bu üç bölgeye özgülenen bir kültürel kimlik taşımaz.",
+        "Doğru yanıt: Bumerang, Avustralya, Avrupa ve Asya'da yoğun olarak kullanılmış ve zamanla bir kültür hâline gelmiş fiziksel aktivite/araçtır.",
+        "Avcılık, bumerang gibi araçların kullanıldığı genel faaliyet alanıdır; sorudaki özel soruya cevap olan belirli bir araç değildir."
+      ]
+    },
+    {
+      "question": "Tarımın başladığı, tahılın depolandığı ve hayvanların evcilleştirildiği bir kültür evresi olarak tanımlanan çağ aşağıdakilerden hangisidir?",
+      "options": [
+        "Mezolitik Çağ",
+        "Neolitik Çağ",
+        "Kalkolitik Çağ",
+        "Orta çağ",
+        "Yakın çağ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tarımın başladığı, tahılın depolanmaya başladığı ve hayvanların evcilleştirildiği kültür evresi Neolitik Çağ (Cilalı Taş Devri) olarak tanımlanır. Mezolitik Çağ henüz avcı-toplayıcı yaşam biçiminin sürdüğü, tarıma geçişin tam olarak gerçekleşmediği ara dönemdir; Kalkolitik Çağ ise Neolitik'ten sonra bakır kullanımının başladığı dönemdir; Orta Çağ ve Yakın Çağ ise çok daha sonraki tarihi dönemlerdir ve tarımın \"başlangıcı\" ile ilgili değildir.",
+      "optionNotes": [
+        "Mezolitik Çağ, avcı-toplayıcılıktan tarıma geçişin henüz tamamlanmadığı bir ara dönemdir; tarımın, tahıl depolamanın ve hayvan evcilleştirmenin sistematik biçimde başladığı çağ değildir.",
+        "Doğru yanıt: Neolitik Çağ, tarımın başladığı, tahılın depolandığı ve hayvanların evcilleştirildiği kültür evresi olarak tanımlanır.",
+        "Kalkolitik Çağ, Neolitik sonrasında bakır kullanımının yaygınlaştığı bir dönemdir; tarımın \"başlangıcı\" bu çağdan önceki Neolitik döneme aittir.",
+        "Orta Çağ, tarih öncesi değil tarihî bir dönemdir ve tarımın ilk kez başladığı kültür evresiyle ilgisi yoktur.",
+        "Yakın Çağ, 18. yüzyıl sonrasını kapsayan modern döneme aittir; tarımın tarih öncesindeki ilk ortaya çıkışıyla bir ilgisi bulunmamaktadır."
+      ]
+    },
+    {
+      "question": "Girit – Miken devrinde dinsel festivaller kapsamında sportif yarışmaların da yapıldığı ayin yerine ne ad verilirdi?",
+      "options": [
+        "Olimpiya",
+        "Delphi",
+        "Korinth",
+        "Nemea",
+        "Poseidon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Girit-Miken döneminde dinsel festivaller kapsamında sportif yarışmaların da yapıldığı kutsal alan Olimpiya'dır; bu bölge, klasik dönemde düzenli Olimpiyat Oyunları'na ev sahipliği yapmadan önce de Miken dönemi dinsel/kült uygulamalarına sahne olmuştur. Delphi, Korinth ve Nemea ise klasik dönemde kendi pan-Helenik oyunlarına (Pythia, İsthmia, Nemea Oyunları) ev sahipliği yapan ayrı kutsal merkezlerdir; Poseidon ise bir tanrı adıdır, bir ayin yeri değildir.",
+      "optionNotes": [
+        "Doğru yanıt: Girit-Miken devrinde dinsel festivaller kapsamında sportif yarışmaların yapıldığı kutsal alan Olimpiya'dır.",
+        "Delphi, Apollon'a adanmış ayrı bir kutsal merkezdir ve kendi pan-Helenik oyunu olan Pythia Oyunları'na ev sahipliği yapar; Girit-Miken dönemiyle ilişkilendirilen yer değildir.",
+        "Korinth, İsthmia Oyunları'nın düzenlendiği ayrı bir kültsel merkezdir; soruda sorulan Girit-Miken dönemi ayin yeri değildir.",
+        "Nemea, Zeus'a adanmış ve Nemea Oyunları'nın düzenlendiği başka bir pan-Helenik kutsal merkezdir, Girit-Miken dönemi ayin yeriyle karıştırılmamalıdır.",
+        "Poseidon bir tanrı adıdır (deniz ve deprem tanrısı); bir ayin yerinin/mekânın adı değildir."
+      ]
+    },
+    {
+      "question": "Antik olimpiyat oyunlarında şampiyon olanların adları hangi çağdan itibaren kayıt altına alınmaya başlanmıştır?",
+      "options": [
+        "Girit – Miken Çağı",
+        "Klasik Çağ",
+        "Arkaik Çağ",
+        "Helenistik Çağı",
+        "Roma Çağı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antik Olimpiyat Oyunları'nda şampiyonların adlarının sistematik olarak kayıt altına alınması, geleneksel başlangıç tarihi MÖ 776 olan ve bu tarihten itibaren düzenli Olimpiyat kayıtlarının tutulduğu Arkaik Çağ'dan itibaren başlamıştır. Girit-Miken Çağı bu kayıtlardan önceki, yazılı Olimpiyat geleneğinin henüz kurumsallaşmadığı dönemdir; Klasik, Helenistik ve Roma çağları ise Arkaik Çağ'dan sonra gelen ve zaten düzenli kayıtların sürdürüldüğü dönemlerdir.",
+      "optionNotes": [
+        "Girit-Miken Çağı, düzenli Olimpiyat şampiyon kayıtlarının henüz tutulmadığı, daha dağınık dinsel-kültürel uygulamaların görüldüğü daha eski bir dönemdir.",
+        "Klasik Çağ, şampiyon kayıtlarının zaten Arkaik Çağ'dan beri sürdürüldüğü, kurumsallaşmanın tamamlandığı bir sonraki dönemdir; kayıtların \"başladığı\" çağ değildir.",
+        "Doğru yanıt: Antik Olimpiyat şampiyonlarının adları, geleneksel başlangıcı MÖ 776 olan Arkaik Çağ'dan itibaren kayıt altına alınmaya başlanmıştır.",
+        "Helenistik Çağ, Arkaik Çağ'dan çok sonra, İskender sonrası döneme aittir; kayıtların başlangıcıyla ilgili değildir.",
+        "Roma Çağı, Olimpiyat Oyunları'nın sona erdirildiği döneme kadar süren, kayıtların çok daha sonraki bir evresidir; kayıtların ilk başladığı çağ değildir."
+      ]
+    },
+    {
+      "question": "Kadınların top oyunlarından bahsedildiği Çağ aşağıdakilerden hangisidir?",
+      "options": [
+        "Girit – Miken Çağı",
+        "Klasik Çağ",
+        "Helenistik Çağı",
+        "Roma Çağı",
+        "Arkaik Çağı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kadınların top oyunlarına katıldığına ilişkin bilgiler, Arkaik Çağ'a ait edebi kaynaklarda (örneğin Homeros'a atfedilen eserlerdeki betimlemelerde) geçmektedir. Bu dönemde kadınların, erkeklerin resmi müsabakalarından farklı olarak daha ziyade sosyal/eğlence amaçlı top oyunları oynadığına ilişkin referanslar bulunur; diğer çağlar (Girit-Miken, Klasik, Helenistik, Roma) bu özel referansla değil farklı spor uygulamalarıyla anılır.",
+      "optionNotes": [
+        "Girit-Miken Çağı'na ait kaynaklar daha çok dinsel ayin ve festivallerle ilişkili sportif faaliyetlerden bahseder; kadınların top oyunlarına özel bir referans bu döneme ait değildir.",
+        "Klasik Çağ kaynaklarında daha çok erkeklerin resmi atletik müsabakaları ve eğitim kurumları (gymnasium, palestra) ön plandadır; kadın top oyunlarına ilişkin atıf bu döneme değildir.",
+        "Helenistik Çağ'da sportif kurumsallaşma ve profesyonelleşme öne çıkar; kadınların top oyunlarına dair belirtilen referans bu döneme ait değildir.",
+        "Roma Çağı'nda gösteri sporları (gladyatör dövüşleri, at yarışları) ön plandadır; kadın top oyunlarına ilişkin söz konusu referans bu dönemle ilişkilendirilmez.",
+        "Doğru yanıt: Kadınların top oyunlarından bahsedildiği çağ Arkaik Çağ'dır."
+      ]
+    },
+    {
+      "question": "I. Pedagojik II. Tıbbi III. Askeri IV. Estetik jimnastik Yukarıdakilerden hangileri Ling’in felsefesi doğrultusunda İsveç jimnastiğinin ana bölümleri arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Pehr Henrik Ling'in geliştirdiği İsveç jimnastik sistemi, felsefesi doğrultusunda dört ana bölüme ayrılır: pedagojik (eğitici), tıbbi (ortopedik/terapötik), askeri ve estetik jimnastik. Bu dört bölüm birlikte Ling'in bütüncül beden eğitimi anlayışını oluşturur; dolayısıyla sadece bir veya birkaç bölümün seçilmesi Ling sisteminin kapsamını eksik yansıtır.",
+      "optionNotes": [
+        "Yalnızca \"Pedagojik\" seçeneği, Ling'in sisteminin sadece bir bölümünü kapsar; tıbbi, askeri ve estetik bölümleri dışarıda bırakarak eksik bir yanıt oluşturur.",
+        "\"I-II\" (Pedagojik-Tıbbi) seçeneği, Ling sisteminin askeri ve estetik jimnastik bölümlerini kapsam dışı bırakarak eksik bir yanıttır.",
+        "\"I-II-III\" (Pedagojik-Tıbbi-Askeri) seçeneği, Ling'in sisteminde yer alan estetik jimnastik bölümünü dışarıda bırakarak eksik kalmaktadır.",
+        "\"I-III-IV\" (Pedagojik-Askeri-Estetik) seçeneği, Ling sisteminin önemli bir bileşeni olan tıbbi/ortopedik jimnastik bölümünü atlayarak eksik bir yanıt sunmaktadır.",
+        "Doğru yanıt: Ling'in felsefesi doğrultusunda İsveç jimnastiğinin ana bölümleri pedagojik, tıbbi, askeri ve estetik jimnastiktir; dolayısıyla I-II-III-IV'ün tümü doğrudur."
+      ]
+    },
+    {
+      "question": "Klasik Çağda, güreş, boks, uzun atlama vb. için yapılan küçük tesislere ne ad verilirdi?",
+      "options": [
+        "Gymnasium",
+        "Stadium",
+        "Palestra",
+        "Hipodrom",
+        "Sparta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Klasik Çağ'da güreş, boks, uzun atlama gibi dalların uygulandığı ve genellikle gymnasium'a bağlı veya bağımsız olarak kurulan küçük ölçekli tesislere \"palestra\" adı verilirdi. Gymnasium ise daha büyük, hem fiziksel hem entelektüel eğitimin verildiği kapsamlı bir kompleksti; stadium koşu yarışları için uzun bir pist, hipodrom at/araba yarışları için düzenlenmiş geniş bir alan, Sparta ise bir şehir devletinin adıdır, bir tesis türü değildir.",
+      "optionNotes": [
+        "Gymnasium, palestradan daha büyük ve kapsamlı bir kompleks olup hem fiziksel hem de entelektüel eğitimin verildiği bir yapıdır; soruda tarif edilen \"küçük tesis\" tanımına uymaz.",
+        "Stadium, özellikle koşu yarışları için düzenlenmiş uzun ve dar bir pisttir; güreş, boks gibi dalların yapıldığı küçük tesis tanımına karşılık gelmez.",
+        "Doğru yanıt: Güreş, boks, uzun atlama gibi dallar için kullanılan küçük tesislere \"palestra\" adı verilirdi.",
+        "Hipodrom, at ve araba yarışları için tasarlanmış büyük bir yarış alanıdır; güreş ve boks gibi dalların yapıldığı küçük tesisi ifade etmez.",
+        "Sparta, Antik Yunan'da bir şehir devletinin adıdır; bir spor tesisi türü değildir."
+      ]
+    },
+    {
+      "question": "I. Performans II. Rekabet III. Rekor Yukarıdakilerden hangileri modern sporun temel prensipleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Modern sporun temel prensipleri arasında performans (en iyi sonucu elde etme), rekabet (karşılaştırmalı üstünlük arayışı) ve rekor (ölçülebilir en üst başarının kayıt altına alınması ve aşılmaya çalışılması) birlikte yer alır. Bu üç unsur modern sporu geleneksel/arkaik oyun ve etkinliklerden ayıran, birbirini tamamlayan temel özelliklerdir; bu nedenle sadece bir veya iki unsurun seçilmesi modern sporun bütüncül tanımını eksik yansıtır.",
+      "optionNotes": [
+        "\"Yalnız I\" (Performans) seçeneği, modern sporun rekabet ve rekor gibi diğer temel bileşenlerini göz ardı ederek eksik bir tanımlama sunar.",
+        "\"I-II\" (Performans-Rekabet) seçeneği, modern sporun önemli bir unsuru olan \"rekor\" arayışını dışarıda bırakarak eksik kalır.",
+        "\"I-III\" (Performans-Rekor) seçeneği, modern sporun temel bir bileşeni olan \"rekabet\" unsurunu kapsam dışı bırakmaktadır.",
+        "\"II-III\" (Rekabet-Rekor) seçeneği, modern sporun en temel unsurlarından biri olan \"performans\" kavramını atlayarak eksik bir yanıttır.",
+        "Doğru yanıt: Performans, rekabet ve rekor birlikte modern sporun temel prensipleri arasında yer alır."
+      ]
+    },
+    {
+      "question": "MS 385’te düzenlenen 291. Oyunlarında yarışan ve son antik olimpiyat oyunları şampiyonu olarak adı günümüze kadar ulaşan Pers Varazdates hangi branşta bu zafere ulaşmıştır?",
+      "options": [
+        "Güreş",
+        "Boks",
+        "Halter",
+        "Okçuluk",
+        "At yarışı"
+      ],
+      "correctIndex": 1,
+      "explanation": "MS 385'te düzenlenen 291. Olimpiyat Oyunları'nda yarışan ve adı günümüze kadar son antik olimpiyat şampiyonu olarak ulaşan Pers (Ermeni kökenli) Varazdates, boks dalında galip gelerek bu unvanı kazanmıştır. Diğer branşlar (güreş, halter, okçuluk, at yarışı) bu tarihi kayıtla ilişkilendirilen branş değildir.",
+      "optionNotes": [
+        "Güreş, antik olimpiyatların önemli dallarından biri olmakla birlikte, Varazdates'in MS 385'teki zaferiyle anılan branş değildir.",
+        "Doğru yanıt: Varazdates, MS 385'teki 291. Olimpiyat Oyunları'nda boks dalında şampiyon olmuştur.",
+        "Halter (ağırlık kaldırma), antik Olimpiyat programında bu şekilde yer alan bir disiplin değildi ve Varazdates'in zaferiyle ilişkilendirilmez.",
+        "Okçuluk, antik Olimpiyat Oyunları'nın resmi bir dalı değildi; bu nedenle Varazdates'in galibiyetiyle ilişkilendirilmesi doğru değildir.",
+        "At yarışı (hipodrom yarışları) antik olimpiyatlarda ayrı bir dal olmakla birlikte, Varazdates'in bu tarihi zaferi boks dalında kazanılmıştır, at yarışında değil."
+      ]
+    },
+    {
+      "question": "İlk profesyonel futbol takımları hangi ülkede kurulmuştur?",
+      "options": [
+        "Almanya",
+        "Fransa",
+        "ABD",
+        "Rusya",
+        "İngiltere"
+      ],
+      "correctIndex": 4,
+      "explanation": "İlk profesyonel futbol takımları İngiltere'de kurulmuştur; İngiltere Futbol Federasyonu'nun (The FA) 1885 yılında profesyonelliği resmen tanımasıyla birlikte futbol, amatör bir okul/kulüp etkinliğinden profesyonel bir meslek/endüstri hâline dönüşmeye başlamıştır. Diğer ülkeler futbolun daha sonraki yayılma ve kurumsallaşma sürecinde önemli rol oynamış olsa da profesyonelleşmenin kökeni İngiltere'dir.",
+      "optionNotes": [
+        "Almanya, futbolun Avrupa'da yayılma sürecinde önemli bir ülke olsa da ilk profesyonel futbol takımlarının kurulduğu ülke değildir.",
+        "Fransa'da futbol kulüpleri gelişmiş olsa da profesyonel futbolun kökeni ve ilk profesyonel takımların kurulduğu ülke Fransa değildir.",
+        "ABD'de futbol (soccer) daha sınırlı bir gelişim göstermiştir; ilk profesyonel futbol takımlarının ortaya çıktığı ülke değildir.",
+        "Rusya'da futbol daha sonraki bir dönemde yaygınlaşmış olup ilk profesyonel takımların kurulduğu ülke olarak bilinmez.",
+        "Doğru yanıt: İlk profesyonel futbol takımları, 1885'te profesyonelliğin resmen tanındığı İngiltere'de kurulmuştur."
+      ]
+    },
+    {
+      "question": "1828 – 1842 yılları arasında Rugby Koleji’nin direktörlüğünü kim yapmıştır?",
+      "options": [
+        "Thomas Arnold",
+        "Branting",
+        "Nyblæus",
+        "Coubertin",
+        "Faber"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thomas Arnold, 1828-1842 yılları arasında Rugby Koleji'nin direktörlüğünü yapmış, okulda disiplinli spor ve oyun faaliyetlerini eğitim programının bir parçası haline getirerek \"kaslı Hristiyanlık\" (muscular Christianity) anlayışının ve modern İngiliz okul sporculuğunun öncülerinden biri olmuştur. Branting ve Nyblæus İsveç jimnastik geleneğiyle ilişkili isimlerdir, Coubertin modern Olimpiyat Oyunları'nın kurucusudur, Faber ise bu dönemdeki Rugby Koleji direktörlüğüyle ilişkilendirilmez.",
+      "optionNotes": [
+        "Doğru yanıt: Thomas Arnold, 1828-1842 yılları arasında Rugby Koleji'nin direktörlüğünü yapmış ve okul sporculuğunun gelişiminde öncü bir rol oynamıştır.",
+        "Branting, İsveç jimnastik/spor hareketiyle ilişkilendirilen bir isimdir; Rugby Koleji direktörlüğüyle ilgisi yoktur.",
+        "Nyblæus da İsveç jimnastik geleneğine ait bir isimdir; İngiltere'deki Rugby Koleji'nin yönetimiyle ilişkili değildir.",
+        "Coubertin, modern Olimpiyat Oyunları'nın kurucusu olarak tanınır; 1828-1842 döneminde Rugby Koleji direktörlüğü yapmamıştır.",
+        "Faber, bu döneme ve Rugby Koleji direktörlüğüne ilişkin bilinen bir isim değildir; soruda sorulan kişi değildir."
+      ]
+    },
+    {
+      "question": "Antik Olimpiyat Oyunları, MS 4. Yüzyılda kimler tarafından yasaklanmıştır?",
+      "options": [
+        "Yunanlılar",
+        "Mısırlılar",
+        "Romalılar",
+        "Sümerler",
+        "Persler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antik Olimpiyat Oyunları, Hristiyanlığın Roma İmparatorluğu'nda resmi din haline gelmesinin ardından, pagan kökenli dinsel uygulamalara karşı çıkan İmparator I. Theodosius tarafından MS 4. yüzyılın sonunda (MS 393'te) yasaklanmıştır; dolayısıyla oyunları yasaklayanlar Romalılardır. Yunanlılar oyunların asıl sahibi ve düzenleyicisiydi, Mısırlılar, Sümerler ve Persler ise bu yasaklama kararıyla ilgili taraflar değildir.",
+      "optionNotes": [
+        "Yunanlılar, Antik Olimpiyat Oyunları'nı düzenleyen ve kutlayan taraf olup oyunları yasaklayan değil, yüzyıllarca sürdüren taraftır.",
+        "Mısırlılar, Antik Olimpiyat Oyunları'nın yasaklanma sürecinde herhangi bir yetkiye veya rol sahibi değildir; bu dönemde oyunlar Roma İmparatorluğu'nun kontrolündeydi.",
+        "Doğru yanıt: Antik Olimpiyat Oyunları, MS 4. yüzyılda Hristiyanlığı resmi din kabul eden Roma İmparatorluğu (İmparator I. Theodosius) tarafından pagan bir uygulama olarak yasaklanmıştır.",
+        "Sümerler, Antik Olimpiyat Oyunları döneminden çok daha önce var olmuş bir Mezopotamya medeniyetidir; bu yasaklama kararıyla hiçbir ilgisi yoktur.",
+        "Persler, Antik Yunan'ın tarihsel rakibi olmakla birlikte MS 4. yüzyılda oyunları yasaklama yetkisine sahip taraf değildi; o dönemde Yunanistan Roma İmparatorluğu'nun kontrolündeydi."
+      ]
+    },
+    {
+      "question": "Cotswold Olimpiyat Oyunları adlı ilk yerel olimpiyat denemesi hangi ülkede düzenlenmiştir?",
+      "options": [
+        "Almanya",
+        "Fransa",
+        "ABD",
+        "İngiltere",
+        "Rusya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cotswold Olimpiyat Oyunları (Robert Dover's Olimpick Games), 17. yüzyıl başında (1612) İngiltere'de düzenlenmiş ve antik Olimpiyat fikrinden esinlenerek yerel ölçekte gerçekleştirilen ilk olimpiyat denemesi olarak kabul edilir. Bu etkinlik, modern Olimpiyat hareketinin doğuşundan çok önce İngiliz kırsalında geleneksel oyun ve yarışmaları bir araya getirmiştir.",
+      "optionNotes": [
+        "Almanya'da da sonraki dönemlerde yerel spor/olimpiyat denemeleri görülmüştür ancak Cotswold Oyunları Almanya'da düzenlenmemiştir.",
+        "Fransa, modern Olimpiyat hareketinin (Coubertin ile) merkezi olmakla birlikte, Cotswold Oyunları'nın düzenlendiği ülke değildir.",
+        "ABD'de bu tarz yerel oyunlar çok daha sonraki bir döneme aittir; 17. yüzyıl başındaki Cotswold Oyunları ile ilişkilendirilmez.",
+        "Doğru yanıt: Cotswold Olimpiyat Oyunları, 1612 yılında İngiltere'de düzenlenen ilk yerel olimpiyat denemesidir.",
+        "Rusya'da bu döneme ait böyle bir yerel olimpiyat denemesi bilinmemektedir; Cotswold Oyunları İngiltere'ye özgüdür."
+      ]
+    },
+    {
+      "question": "Basitten karmaşığa doğru giden “basamaklama” metodunu beden eğitiminde bir prensip haline getiren kişi aşağıdakilerden hangisidir?",
+      "options": [
+        "Francois Rabelais",
+        "Luis Vives",
+        "Jean Jacques Rousseau",
+        "John Locke",
+        "Pestalozzi"
+      ],
+      "correctIndex": 4,
+      "explanation": "Basitten karmaşığa doğru giden \"basamaklama\" (kademeli ilerleme) metodunu eğitimde ve beden eğitiminde bir prensip hâline getiren kişi İsviçreli pedagog Johann Heinrich Pestalozzi'dir; Pestalozzi, öğrenmenin basit, somut unsurlardan başlayarak adım adım karmaşık kavramlara ilerlemesi gerektiğini savunmuş ve bu yaklaşımı fiziksel/bedensel eğitime de uygulamıştır. Rabelais, Vives, Rousseau ve Locke ise eğitim ve beden eğitimi düşüncesine önemli katkılar yapmış olsa da bu basamaklama/kademeli ilerleme prensibiyle özdeşleşen isim değildir.",
+      "optionNotes": [
+        "Francois Rabelais, Rönesans hümanizmi çerçevesinde bedensel eğitimin önemini vurgulamış bir yazardır, fakat \"basamaklama\" metodunun sistemleştiricisi olarak tanınmaz.",
+        "Luis Vives, hümanist eğitim anlayışına katkı sağlamış bir düşünürdür; kademeli/basamaklama ilkesini beden eğitiminde sistemleştiren kişi olarak bilinmez.",
+        "Jean Jacques Rousseau, doğal eğitim ve çocuğun gelişim aşamalarına duyarlı eğitim anlayışıyla tanınır, ancak \"basamaklama\" metodunu beden eğitimi prensibi olarak sistemleştiren kişi değildir.",
+        "John Locke, deneyci (ampirist) eğitim felsefesiyle tanınan bir düşünürdür; basitten karmaşığa basamaklama metodunun beden eğitimindeki sistemleştiricisi olarak anılmaz.",
+        "Doğru yanıt: Pestalozzi, basitten karmaşığa doğru giden \"basamaklama\" metodunu eğitimde ve beden eğitiminde bir prensip hâline getirmiştir."
+      ]
+    },
+    {
+      "question": "Baron Pierre de Coubertin kaç yılında nerede vefat etmiştir?",
+      "options": [
+        "1937 – İsviçre",
+        "1937 – Paris",
+        "1947 – Londra",
+        "1947 – Roma",
+        "1937 – Berlin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Modern Olimpiyat Oyunları'nın kurucusu Baron Pierre de Coubertin, 1937 yılında İsviçre'nin Cenevre kentinde vefat etmiştir; kalbi onun isteği doğrultusunda Olimpiya'ya (Yunanistan) gömülmüştür, ancak kendisi İsviçre'de hayatını kaybetmiştir. Diğer seçeneklerdeki tarih ve/veya şehir bilgileri (Paris, Berlin, Londra, Roma, 1947) tarihsel olarak yanlıştır.",
+      "optionNotes": [
+        "Doğru yanıt: Baron Pierre de Coubertin, 1937 yılında İsviçre'de vefat etmiştir.",
+        "1937 tarihi doğru olsa da Coubertin bu tarihte Paris'te değil İsviçre'de vefat etmiştir; Paris, kendisinin daha çok yaşamının başında etkin olduğu şehirdir.",
+        "1947 yılı, Coubertin'in gerçek ölüm tarihi olan 1937'den on yıl sonrasına denk gelir; ayrıca Londra, vefat ettiği şehir değildir.",
+        "1947 yılı yanlış bir tarihtir (gerçek tarih 1937'dir) ve Roma, Coubertin'in vefat ettiği şehir değildir.",
+        "1937 tarihi doğru olmakla birlikte Coubertin, Berlin'de değil İsviçre'de vefat etmiştir; Berlin bu olayla ilişkilendirilen şehir değildir."
+      ]
+    },
+    {
+      "question": "Güreş Müsabaka alanı………...adı verilen, kazılmış ve içi kum doldurulmuş bir zemindi. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": [
+        "Dromos",
+        "Sıklet",
+        "Skamma",
+        "Dolichos",
+        "Stad"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antik Yunan'da güreş müsabakalarının yapıldığı, kazılarak hazırlanmış ve içi kumla doldurulmuş zemine \"skamma\" adı verilirdi; bu terim doğrudan \"kazılmış yer\" anlamına gelir ve güreşçilerin düşmelerini yumuşatmak amacıyla hazırlanırdı. Dromos ve Stad (stadion) koşu pistleriyle, Dolichos uzun mesafe koşu yarışıyla, \"sıklet\" ise ağırlık/kilo kategorisiyle ilgili kavramlardır; güreş zemini anlamına gelmezler.",
+      "optionNotes": [
+        "\"Dromos\" koşu pistini/yolunu ifade eden bir terimdir; kazılmış kumlu güreş zeminini karşılamaz.",
+        "\"Sıklet\", sporcuların ağırlık/kilo kategorisini belirten bir terimdir; bir müsabaka alanı veya zemin türünü ifade etmez.",
+        "Doğru yanıt: Güreş müsabaka alanı, kazılmış ve içi kum doldurulmuş zemin olan \"skamma\" olarak adlandırılırdı.",
+        "\"Dolichos\" antik Yunan'da uzun mesafe koşu yarışının adıdır; bir güreş zeminini ifade eden terim değildir.",
+        "\"Stad\" (stadion), koşu yarışları için kullanılan standart ölçü/pisti ifade eden bir terimdir; güreş için hazırlanan kumlu zemini karşılamaz."
+      ]
+    },
+    {
+      "question": "I. Atina II. Paris III. St. Louis IV. Londra Yukarıdakilerden oyunlardan hangileri organizasyonel sorunlar nedeniyle başarısız olmuştur?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "II – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 3,
+      "explanation": "1900 Paris, 1904 St. Louis ve 1908 Londra Olimpiyat Oyunları, dünya fuarlarıyla eşzamanlı/iç içe düzenlenmeleri, uzun süreye yayılan ve karmaşık programları, yetersiz organizasyon ve tanıtım gibi nedenlerle ciddi organizasyonel sorunlar yaşamış oyunlar olarak değerlendirilir. 1896 Atina Oyunları ise modern Olimpiyat hareketinin ilk ve nispeten başarılı sayılan oyunları olduğundan bu başarısız organizasyonlar listesine dahil edilmez.",
+      "optionNotes": [
+        "\"Yalnız I\" (Atina) seçeneği yanlıştır; 1896 Atina Oyunları ilk modern Olimpiyat Oyunları olarak genel kabul görmüş, nispeten başarılı sayılan bir organizasyondur.",
+        "\"I-II\" (Atina-Paris) seçeneği de Atina'yı başarısız oyunlar arasına dahil ettiği için hatalıdır; asıl sorunlu oyunlar Paris, St. Louis ve Londra'dır.",
+        "\"I-II-III\" (Atina-Paris-St.Louis) seçeneği hem Atina'yı hatalı biçimde başarısızlar arasına katar hem de listeye dahil edilmesi gereken Londra Oyunları'nı dışarıda bırakır.",
+        "Doğru yanıt: Paris (1900), St. Louis (1904) ve Londra (1908) Olimpiyat Oyunları, organizasyonel sorunlar nedeniyle başarısız sayılan oyunlardır.",
+        "\"I-II-III-IV\" (tümü) seçeneği yanlıştır; Atina (1896) Oyunları bu başarısız organizasyonlar listesine dahil edilmemelidir, zira ilk modern Olimpiyat olarak nispeten başarılı kabul edilir."
+      ]
+    },
+    {
+      "question": "Stockholm Olimpiyat Oyunları kaç yılında düzenlenmiştir?",
+      "options": [
+        "1896",
+        "1900",
+        "1908",
+        "1912",
+        "1916"
+      ],
+      "correctIndex": 3,
+      "explanation": "Stockholm Olimpiyat Oyunları, modern Olimpiyat hareketinin erken dönem oyunlarından biri olarak 1912 yılında İsveç'in başkenti Stockholm'de düzenlenmiştir; bu oyunlar, daha önceki (Paris, St. Louis, Londra) oyunlara kıyasla organizasyon açısından daha düzenli ve başarılı bulunmuştur.",
+      "optionNotes": [
+        "1896, ilk modern Olimpiyat Oyunları'nın Atina'da düzenlendiği tarihtir; Stockholm Oyunları ile ilgili değildir.",
+        "1900, Paris Olimpiyat Oyunları'nın düzenlendiği tarihtir; Stockholm'de düzenlenen oyunların tarihi değildir.",
+        "1908, Londra Olimpiyat Oyunları'nın düzenlendiği tarihtir; bu tarih Stockholm Oyunları'na ait değildir.",
+        "Doğru yanıt: Stockholm Olimpiyat Oyunları 1912 yılında düzenlenmiştir.",
+        "1916, I. Dünya Savaşı nedeniyle iptal edilen Berlin Olimpiyat Oyunları'na ait planlanan tarihtir; Stockholm Oyunları ile ilgisi yoktur."
+      ]
+    }
+  ]
+}

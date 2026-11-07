@@ -1,0 +1,282 @@
+{
+  "course": "havb1",
+  "unit_index": 1,
+  "topic": "Antrenmanla İlgili Temel Kuram ve Kavramlar",
+  "questions": [
+    {
+      "question": "Bir sporcunun değişik egzersizler uygulanarak fiziksel, teknik, taktik, zihinsel, psikolojik ve moral hazırlanmasına ne ad verilir?",
+      "options": [
+        "Performans",
+        "Fiziksel aktivite",
+        "Egzersiz",
+        "Antrenman",
+        "Antrenör"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Genel ya da ilgili spor dalına özgü bir biçimde, spor etkinliklerini ve antrenmanlarını yaptırarak; sporcuyu teknik, taktik, kondisyon, psikolojik, sosyolojik ve zihinsel açıdan amacına uygun şekilde basamaklı olarak üst düzey verimliliğe ulaştıran eğitici kişi aşağıdakilerden hangisidir?",
+      "options": [
+        "Performans",
+        "Antrenör",
+        "Fiziksel aktivite",
+        "Egzersiz",
+        "Antrenman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Sürantrenmanın giderilebilmesi için alınması gereken ‘’Fizik tedavi önlemleri’’ arasında yer almaz?",
+      "options": [
+        "Yüzme",
+        "34-37 derece suda 15-20 dakika banyo",
+        "Sabahlar soğuk duş",
+        "Masaj",
+        "Sıcak sauna"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. İştahın artırılması II. Sebze ve meyve ağırlıklı beslenilmesi III. Kafein, nikotin ve alkolün kısıtlanması IV. Mineralce zengin içeceklerin tüketilmesi Yukarıdakilerden hangileri Sürantrenmanın giderilebilmesi için alınması gereken ‘’Besin Rejimi önlemleri’’ arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sakin ortamlarda (orman, kırsal alan) dinlenmek, Sürantrenmanın giderilebilmesi için alınması gereken önlemlerden hangisine girmektedir?",
+      "options": [
+        "Antrenmanla ilgili alınacak önlemler",
+        "Fizik tedavi önlemleri",
+        "İklimsel tedavi",
+        "Besin Rejimi",
+        "Uyku düzeni"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Sürantrenmanın Psikolojik Belirtileri arasından yer almaz?",
+      "options": [
+        "Nefret duygusu",
+        "Genel bir neşesizlik",
+        "Karakter değişmeleri",
+        "Devamlı aksilik",
+        "Soluk bir yüz"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Antrenmana herhangi bir sebepten dolayı haddinden fazla verilen aranın sonucunda sporcularda oluşan performansın gerilemesi durumuna “sendromuna” ne ad verilir?",
+      "options": [
+        "Sürantrenman",
+        "Antrenmansızlaşma",
+        "Süperkompenzasyon",
+        "Fazla Tamlama",
+        "Overtraining"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kas gücünde ve kuvvetinde azalma durumuna ne ad verilir?",
+      "options": [
+        "Atrofi",
+        "Hipertrofi",
+        "Hiperplazi",
+        "Arterio",
+        "Venöz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Yorgunluk II. Yenilenme III. Fazla Tamamlama Yukarıdakilerden hangisi Bir antrenman biriminde Süperkompenzasyonun evreleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Örnekleme aşaması II. Uzmanlaşma aşaması III. Yatırım aşaması Yukarıdakilerden hangileri Spor Katılım Modeli (DMSP) aşamaları arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Organizmanın antrenman yüklenmelerine uyumu ile performans artışı üzerine etkisinin doğal bir sonucu olarak kas glikojen depolarının dolmasına ne ad verilir?",
+      "options": [
+        "Fazla Tamlama",
+        "Sürantrenman",
+        "Antrenmansızlaşma",
+        "Detraining",
+        "Overtraining"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Atrofi haftada yüzde kaç oranında azalır?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antrenman bırakıldıktan 12 hafta sonra aerobik enzimlerinin yüzde kaçı kaybedilmektedir?",
+      "options": [
+        "30",
+        "50",
+        "65",
+        "75",
+        "90"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Spor Katılım Modeli (DMSP), sporcu gelişimini kaç aşamaya ayırmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Antrenmansızlaşma durumunda meydana gelen Kalp Solunum İşlevindeki Değişikliklerden biri değildir?",
+      "options": [
+        "Kapiller yoğunlukta azalır",
+        "Arterio venöz oksijen farkı azalır",
+        "Oksidatif enzim aktivitesi azalır",
+        "Kalp debisi ve atım hacmi azalır",
+        "Yüklenme nabzı azalır"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Yüksek antrenmanlı sporcular……. Hafta içinde antrenmansız dönem performans düzeyine inerler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1",
+        "2 – 3",
+        "5",
+        "4 – 8",
+        "8 – 12"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sporcuların çoklu spor aktivitelerine eğlenceli, keyifli bir ortamda katıldığı ve çok yönlü temel hareket becerilerini geliştirdiği Spor Katılım Modeli (DMSP), aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Örnekleme aşaması",
+        "Uzmanlaşma aşaması",
+        "Yatırım aşaması",
+        "Öneri aşaması",
+        "Yarışma aşaması"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Spor Katılım(DMSP) modelinde Uzmanlık Yılları aşamasının yaş aralığı aşağıdakilerden hangisidir?",
+      "options": [
+        "0 – 6",
+        "7 – 10",
+        "6 – 12",
+        "13 – 15",
+        "16 +"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "- Tek bir spora odaklanma - Planlı antrenmanlar ağırlıklı Yukarıda özellikleri verilen Spor Katılım Modeli (DMSP), aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Yatırım yılları",
+        "Yarışma yılları",
+        "Örnekleme yılları",
+        "Uzmanlık yılları",
+        "Öneri yılları"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Yüzme II. Basketbol III. Halter IV. Okçuluk Yukarıdakilerden hangileri Geç Özelleşilen Sporlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Erken Özelleşme Modelinde yer almaz?",
+      "options": [
+        "Temel Eğitim Aşaması",
+        "Antrenman ve Eğitim Aşaması",
+        "Antrenman ve Müsabaka Aşaması",
+        "Antrenman ve Kazanma Aşaması",
+        "Emeklilik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uzun vadeli sporcu gelişimi (UVSG), kaç aşamadan oluşmaktadır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Atletizm II. Jimnastik III. Artistik Buz Yukarıdakilerden hangileri Erken Özelleşilen Sporlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "İlk fiziksel aktivite programları 1860 yılında nerede oluşturulmuştur?",
+      "options": [
+        "İngiltere",
+        "Amerika",
+        "Fransa",
+        "Almanya",
+        "İtalya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Erkekler için 16-18 yaş ve kızlar için 15-17 yaş aralığını kapsayan Uzun vadeli sporcu gelişimi (UVSG), aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Aktif Başlangıç",
+        "Temel Eğitim",
+        "Yarışma İçin Antrenman",
+        "Antrenmanı Yapmayı Öğrenmek",
+        "Antrenman İçin Antrenman"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

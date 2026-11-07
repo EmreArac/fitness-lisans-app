@@ -1,0 +1,217 @@
+{
+  "course": "psiko1",
+  "unit_index": 1,
+  "topic": "Spor Tarihi",
+  "questions": [
+    {
+      "testNum": 1,
+      "num": 1,
+      "question": "Kökeni tarih öncesi çağlara dayanan sportif aktiviteler karşısında “spor” terimi ancak………………itibaren şekillenmeye başlamıştır. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": ["Maden çağından", "İlkçağdan", "Ortaçağdan", "Yeniçağdan", "Yakınçağdan"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 2,
+      "question": "Eski Roma’da tatil günlerinde yapılan oyun, eğlence ve sporlar anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": ["Athletes", "Athlos", "Agon", "Gymnastes", "Ludus"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 3,
+      "question": "Türk dilinin sportif etkinliklere ilişkin en eski sözcükleri aşağıdakilerden hangisidir?",
+      "options": ["Oyun ve yarış", "Atlet ve egzersiz", "Oyun ve atlet", "Yarış ve egzersiz", "Yarış ve atlet"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 4,
+      "question": "Türkçede spor anlamında kullanılan “yarış” teriminin ilk örnekleri hangi yazıtlarda belgelenmiştir?",
+      "options": ["Uygur", "Göktürk", "Karabalsagun", "Sümer", "Taryat"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 5,
+      "question": "İslamiyet ile birlikte Türkçeye giren ve “bir işte beceri geliştirmek için yapılan tekrar anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": ["İdmancı", "İdman yurdu", "Terbiye-i Bedeniye", "İdman", "Sport"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 6,
+      "question": "İdman spor dergisi kaç yılında yayımlanmıştır?",
+      "options": ["1900", "1905", "1908", "1914", "1920"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 7,
+      "question": "Cimnastik teriminin Türkçe bir eserde kullanımı……Fransızcadan çevrilen Risale-i Cimnastik kitabıyla olmuştur. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": ["1700 yılında", "1758 yılında", "1807 yılında", "1828 yılında", "1847 yılında"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 8,
+      "question": "Spor teriminin Türkçedeki ilk kez 1895 yılında hangi gazetede kullanılmıştır?",
+      "options": ["Akşam", "İkdam", "Açık söz", "Karagöz", "Volkan"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 9,
+      "question": "İdealist tarih görüşüne göre ilk bilinçli sportif hareket formları aşağıdakilerden hangisidir?",
+      "options": ["Büyüsel-ayinsel danslar", "Mızrak atma", "Yay", "Bumerang", "Avcılık"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 10,
+      "question": "İsabet kaydı için ana uygulama öncesi “antrenman” gerektiren………....alıştırmalarının sporun önceli sayılabilecek en eski fiziksel alıştırmalar olduğu söylenebilir. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": ["Büyüsel – ayinsel danslar", "Yay", "Mızrak atma", "Bumerang", "Avcılık"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 11,
+      "question": "Avustralya, Avrupa ve Asya’da yoğun olarak kullanılan ve bir kültür haline gelen fiziksel aktivite aşağıdakilerden hangisidir?",
+      "options": ["Büyüsel – ayinsel danslar", "Mızrak atma", "Yay", "Bumerang", "Avcılık"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 12,
+      "question": "Tarımın başladığı, tahılın depolandığı ve hayvanların evcilleştirildiği bir kültür evresi olarak tanımlanan çağ aşağıdakilerden hangisidir?",
+      "options": ["Mezolitik Çağ", "Neolitik Çağ", "Kalkolitik Çağ", "Orta çağ", "Yakın çağ"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 13,
+      "question": "Girit – Miken devrinde dinsel festivaller kapsamında sportif yarışmaların da yapıldığı ayin yerine ne ad verilirdi?",
+      "options": ["Olimpiya", "Delphi", "Korinth", "Nemea", "Poseidon"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 14,
+      "question": "Antik olimpiyat oyunlarında şampiyon olanların adları hangi çağdan itibaren kayıt altına alınmaya başlanmıştır?",
+      "options": ["Girit – Miken Çağı", "Klasik Çağ", "Arkaik Çağ", "Helenistik Çağı", "Roma Çağı"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 15,
+      "question": "Kadınların top oyunlarından bahsedildiği Çağ aşağıdakilerden hangisidir?",
+      "options": ["Girit – Miken Çağı", "Klasik Çağ", "Helenistik Çağı", "Roma Çağı", "Arkaik Çağ"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 1,
+      "question": "I. Pedagojik II. Tıbbi III. Askeri IV. Estetik jimnastik Yukarıdakilerden hangileri Ling’in felsefesi doğrultusunda İsveç jimnastiğinin ana bölümleri arasında yer alır?",
+      "options": ["I", "I – II", "I – II – III", "I – III – IV", "I – II – III – IV"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 2,
+      "question": "Klasik Çağda, güreş, boks, uzun atlama vb. için yapılan küçük tesislere ne ad verilirdi?",
+      "options": ["Gymnasium", "Stadium", "Palestra", "Hipodrom", "Sparta"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 3,
+      "question": "I. Performans II. Rekabet III. Rekor Yukarıdakilerden hangileri modern sporun temel prensipleri arasında yer alır?",
+      "options": ["Yalnız I", "I – II", "I – III", "II – III", "I – II – III"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 4,
+      "question": "Aşağıdakilerden hangisi Modern sporun İngiltere’de doğmuş olmasının ön şartlarından biri değildir?",
+      "options": ["İngiliz Püritenizmi", "Yerel olimpiyat denemeleri", "İngilizlerin bahis tutkusu ve soyluların yarışma Hamiliği", "Primogenitur yasası", "İngiliz yönetim modeli"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 5,
+      "question": "Aşağıdakilerden hangisi Arkaik Çağ kutsal oyunlarından biri değildir?",
+      "options": ["Olimpiyat Oyunları", "Pythia Oyunları", "İsthmia Oyunları", "Heraia Oyunları", "Nemea Oyunları"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 6,
+      "question": "MS 385’te düzenlenen 291. Oyunlarında yarışan ve son antik olimpiyat oyunları şampiyonu olarak adı günümüze kadar ulaşan Pers Varazdates hangi branşta bu zafere ulaşmıştır?",
+      "options": ["Güreş", "Boks", "Halter", "Okçuluk", "At yarışı"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 7,
+      "question": "İlk profesyonel futbol takımları hangi ülkede kurulmuştur?",
+      "options": ["Almanya", "Fransa", "ABD", "Rusya", "İngiltere"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 8,
+      "question": "1828 – 1842 yılları arasında Rugby Koleji’nin direktörlüğünü kim yapmıştır?",
+      "options": ["Thomas Arnold", "Branting", "Nyblæus", "Coubertin", "Faber"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 9,
+      "question": "Antik Olimpiyat Oyunları, MS 4. Yüzyılda kimler tarafından yasaklanmıştır?",
+      "options": ["Yunanlılar", "Mısırlılar", "Romalılar", "Sümerler", "Persler"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 10,
+      "question": "Cotswold Olimpiyat Oyunları adlı ilk yerel olimpiyat denemesi hangi ülkede düzenlenmiştir?",
+      "options": ["Almanya", "Fransa", "ABD", "İngiltere", "Rusya"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 11,
+      "question": "Basitten karmaşığa doğru giden “basamaklama” metodunu beden eğitiminde bir prensip haline getiren kişi aşağıdakilerden hangisidir?",
+      "options": ["Francois Rabelais", "Luis Vives", "Jean Jacques Rousseau", "John Locke", "Pestalozzi"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 12,
+      "question": "Baron Pierre de Coubertin kaç yılında nerede vefat etmiştir?",
+      "options": ["1937 – İsviçre", "1937 – Paris", "1947 – Londra", "1947 – Roma", "1937 – Berlin"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 13,
+      "question": "Güreş Müsabaka alanı………...adı verilen, kazılmış ve içi kum doldurulmuş bir zemindi. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": ["Dromos", "Sıklet", "Skamma", "Dolichos", "Stad"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 14,
+      "question": "I. Atina II. Paris III. St. Louis IV. Londra Yukarıdakilerden oyunlardan hangileri organizasyonel sorunlar nedeniyle başarısız olmuştur?",
+      "options": ["I", "I – II", "I – II – III", "II – III – IV", "I – II – III – IV"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 15,
+      "question": "Stockholm Olimpiyat Oyunları kaç yılında düzenlenmiştir?",
+      "options": ["1896", "1900", "1908", "1912", "1916"],
+      "correctIndex": 3
+    }
+  ]
+}

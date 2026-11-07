@@ -1,0 +1,282 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 2,
+  "topic": "Beceri Öğrenimi",
+  "questions": [
+    {
+      "question": "I. Motor Öğrenme II. Motor Gelişim III. Motor Kontrol Yukarıda verilenlerden hangileri Motor davranış alanları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Ülkemizde daha iyi anlaşılabilmesi açısından motor gelişim alanına genel olarak ne ad verilmektedir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Beceri Sınıflanması",
+        "Düzenleyici Şartlar",
+        "Psikomotor Gelişim",
+        "Canlılık Düzeyi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Alıştırma ve deneyim sonucu harekette meydana gelen değişiklikleri inceleyen davranış alanı aşağıdakilerden hangisidir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Motor Gelişim",
+        "Motor Kontrol",
+        "Psikomotor Gelişim",
+        "Performans"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nasıl ve neden hareketlerin çocukluk döneminde geliştiğini ve yaşla gerilediğini inceleyen davranış alanı aşağıdakilerden hangisidir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Motor Gelişim",
+        "Motor Kontrol",
+        "Performans",
+        "Öğrenme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hareketlerin nasıl kontrol edildiğini, merkezi sinir sisteminin kas ve eklem hareketlerini nasıl organize ettiğini inceleyen davranış alanı aşağıdakilerden hangisidir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Motor Gelişim",
+        "Performans",
+        "Öğrenme",
+        "Motor Kontrol"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "“beceriyi uygulama eylemi” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Motor beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi öğrenme kavramının temel özellikleriyle ilgili yanlış bilgidir?",
+      "options": [
+        "Öğrenme bir süreçtir.",
+        "Öğrenme zaman ile gelişir ve bu süreç içerisinde davranışın üretilebilme kapasitesi kazanılır.",
+        "Öğrenme alıştırma/pratik yapmanın ve/ veya deneyimin sonucunda oluşur.",
+        "Öğrenme kapasitede oluşan veya oluştuğu varsayılan göreceli kalıcı değişimlerdir.",
+        "Öğrenme doğrudan gözlemlenir, çıkarım yapılmasına gerek yoktur."
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Guthrie’ ye göre belirli bir sonuca maksimum kesinlik ve minimum enerji veya zaman harcayarak ulaşma yeteneğine ne ad verilir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vücudun büyük kas kitlelerini kullanarak yaptığı ve başarılı bir uygulama için kesinliğin çok önemli olmadığı becerilere ne ad verilmektedir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Genellikle kısa süreli ve başı ile sonu belli hareketlere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Başı ve sonu tam olarak belli olmayan ve dakikalarca devam edebilen hareketlere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Eylem sırasında çevresel şartların değişken olduğu ve tahmin edilemediği beceriye ne ad verilmektedir?",
+      "options": [
+        "Devamlı Beceri",
+        "Açık Beceri",
+        "Kapalı Beceri",
+        "Motor Beceriler",
+        "Zihinsel Beceriler"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "‘’Satranç oynamak’’ hangi tür beceri sınıflandırılmasında yer almaktadır?",
+      "options": [
+        "Devamlı Beceri",
+        "Açık Beceri",
+        "Kapalı Beceri",
+        "Motor Beceriler",
+        "Zihinsel Beceriler"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi seri becerilere örnektir?",
+      "options": [
+        "Top atma",
+        "Yüzme",
+        "Ormanlık alanda koşu",
+        "Cimnastikte yer hareketleri",
+        "Dart atışı"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Uyaranın verilmesi ile tepkinin başlangıcı arasındaki zamana ne ad verilir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Motor beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Merkezi sinir sisteminin aktivasyonu” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Algı",
+        "Canlılık düzeyi",
+        "Dikkat",
+        "Reaksiyon",
+        "Seçici dikkat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vücudun küçük kaslarıyla ve göz-el koordinasyonu ile yüksek derecede kesinliğin gerektiği becerilere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Birçok kesik hareketin bir araya getirilmesi ile oluşan karmaşık hareketlere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına ne ad verilir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Motor beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Öğrenme bir süreçtir. II. Öğrenme deneyim sonucunda oluşur. III. Öğrenme göreceli kalıcı değişimlerdir. IV. Öğrenme doğrudan gözlemlenebilir. Yukarıda verilenlerden hangileri öğrenmenin temel özellikleriyle ilgili doğru bilgidir?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşağıdakilerden hangisi performans kavramıyla ilgili yanlış bir bilgidir?",
+      "options": [
+        "Genel olarak bir eylem olarak adlandırılır.",
+        "Performans kalıcıdır.",
+        "Çok çeşitli etkenlerden dolayı değişiklik gösterebilir.",
+        "Hastalık veya dikkatsizlik gibi sebeplerle azalma olabilir",
+        "Motivasyon, şans veya alınan takviye besinler gibi sebeplerle artış olabilir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi tek boyutlu sınıflama kapsamında değildir?",
+      "options": [
+        "Kullanılan kas büyüklüğüne göre",
+        "Hareketin başlama ve bitiş netliğine göre",
+        "Düzenleyici Şartlar ve Hareket Gerekliliklerine göre",
+        "Çevrenin tahmin edilebilirlik düzeyine göre",
+        "Motor ve bilişsel öğelerin önemine göre"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Çevre şartları II. Denemeler III. Vücut hareketleri IV. Nesne manipülasyonu Yukarıda verilenlerden hangisi Düzenleyici Şartların alt boyutları arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Çok Boyutlu Beceri Sınıflaması, motor becerilerin kaç şekilde tanımlanmasına imkân vermektedir?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Kas Büyüklüğüne Göre beceriler kaça ayrılmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

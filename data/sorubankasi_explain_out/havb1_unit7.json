@@ -1,0 +1,520 @@
+{
+  "course": "havb1",
+  "unit_index": 7,
+  "topic": "Genel Antrenman Bilimi: Ölçme ve Değerlendirme",
+  "questions": [
+    {
+      "question": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi kaçıncı sınıfa devam eden öğrenciler üzerinden yürütülmeye başlanmıştır?",
+      "options": [
+        "İlkokul 3. Sınıf",
+        "İlkokul 4. Sınıf",
+        "Ortaokul 6. Sınıf",
+        "Ortaokul 8. Sınıf",
+        "Lise 9. sınıf"
+      ],
+      "correctIndex": 0,
+      "explanation": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi, çocukların sportif yeteneklerinin erken yaşta belirlenebilmesi amacıyla ilkokul 3. sınıfa devam eden öğrenciler üzerinde uygulanmaya başlanmıştır. Bu kademe, temel hareket becerilerinin gözlemlenebilir hale geldiği ve yetenek göstergelerinin ayırt edilebildiği bir dönem olarak seçilmiştir.",
+      "optionNotes": [
+        "Doğru yanıt: Proje, sportif yetenek belirleme sürecinin erken başlatılabilmesi için ilkokul 3. sınıf öğrencileri temel alınarak yürütülmeye başlanmıştır.",
+        "İlkokul 4. sınıf, projenin başlangıç kademesi değildir; bu seçenek bir alt/üst kademeyle karıştırılmıştır.",
+        "Ortaokul 6. sınıf, ilkokul döneminden sonraki bir eğitim kademesidir ve tarama bu kademede başlamamıştır.",
+        "Ortaokul 8. sınıf, ilkokul kademesinden tamamen farklı ve daha ileri bir öğretim yılıdır; proje bu kademeyle başlamamıştır.",
+        "Lise 9. sınıf, ortaöğretimin ilk yılıdır ve projenin hedef aldığı ilkokul kademesiyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi en az kaçıncı kademe Antrenörlük belgesine sahip öğreticilere destek sağlamak amacıyla hazırlanmıştır?",
+      "options": [
+        "1. Kademe",
+        "2. Kademe",
+        "3. Kademe",
+        "4. Kademe",
+        "5. Kademe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proje, okullarda tarama uygulamalarını yürütecek öğreticilerin en az 2. Kademe Antrenörlük Belgesine sahip olmasını esas alır; bu kademe, test ve ölçüm uygulamalarını doğru ve güvenilir biçimde yürütebilecek asgari teknik bilgi ve deneyim düzeyini temsil eder.",
+      "optionNotes": [
+        "1. Kademe antrenörlük belgesi en başlangıç düzeyini temsil eder ve tarama protokolünü güvenilir şekilde uygulamak için yeterli teknik birikim sağlamadığı kabul edilir.",
+        "Doğru yanıt: Proje, test ve ölçümleri uygulayacak öğreticiler için asgari koşul olarak en az 2. Kademe Antrenörlük Belgesini şart koşmuştur.",
+        "3. Kademe, projenin belirttiği asgari koşulun üzerinde bir antrenörlük düzeyidir; soru asgari kademeyi sorduğu için bu seçenek yanlıştır.",
+        "4. Kademe, çok daha ileri ve uzmanlaşmış bir antrenörlük düzeyidir; proje bu denli yüksek bir asgari koşul öngörmemiştir.",
+        "5. Kademe, antrenörlük hiyerarşisinin en üst seviyesidir; projenin öğretici tabanını bu denli sınırlayan bir koşulu yoktur."
+      ]
+    },
+    {
+      "question": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi….aylık süreci kapsayan ve kendi içerisinde de birbirini takip eden….aşamadan oluşan eğitim programıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "3 – 3",
+        "6 – 3",
+        "9 – 3",
+        "12 – 3",
+        "15 – 3"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eğitim programı, toplam 12 aylık bir süreci kapsayacak şekilde planlanmış ve bu süreç kendi içinde birbirini takip eden 3 aşamadan oluşturulmuştur. Böylece öğrencinin gelişimi bir yıllık düzenli bir takip ve aşamalı eğitim süreciyle izlenebilmektedir.",
+      "optionNotes": [
+        "3 aylık süre, programın toplam süresinden çok daha kısadır ve sadece bir alt modülün süresiyle karıştırılmış olabilir.",
+        "6 aylık süre, programın tamamını değil yalnızca bir bölümünü (örneğin tek bir modülü) kapsayan bir zaman dilimidir.",
+        "9 aylık süre, programın gerçek toplam süresi olan 12 aya denk gelmemektedir.",
+        "Doğru yanıt: Program toplam 12 ay sürmekte ve birbirini takip eden 3 aşamadan oluşmaktadır.",
+        "15 aylık süre, programda tanımlanan 12 aylık toplam süreden daha fazladır ve bu haliyle doğru değildir."
+      ]
+    },
+    {
+      "question": "Çoklu Branş Gelişimini İçeren Spor Eğitimi Modülü kaç ay sürmektedir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "Çoklu Branş Gelişimini İçeren Spor Eğitimi Modülü, öğrencilerin farklı spor branşlarıyla tanışıp temel beceriler kazanmasını sağlamak amacıyla 6 aylık bir süreyi kapsayacak şekilde tasarlanmıştır.",
+      "optionNotes": [
+        "2 aylık süre, bu modül için tanımlanan süreden oldukça kısadır ve farklı branşlarda yeterli deneyim kazandırmaya yetmez.",
+        "4 aylık süre, modülün gerçek süresi olan 6 aya ulaşmayan eksik bir zaman dilimidir.",
+        "Doğru yanıt: Çoklu Branş Gelişimini İçeren Spor Eğitimi Modülü 6 ay sürmektedir.",
+        "8 aylık süre, modül için belirlenen 6 aylık süreden fazladır ve programın zaman çizelgesiyle uyuşmaz.",
+        "10 aylık süre, programın toplam 12 aylık süresine yakın bir değer olup tek bir modülün süresiyle karıştırılmıştır."
+      ]
+    },
+    {
+      "question": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesinde yüzde kaçlık dilime giren öğrenciler temel hareket ve sportif beceriler eğitimine davet edilmiştir?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tarama sonuçlarına göre performans açısından en üst dilimde yer alan öğrenciler, yani yüzde 10'luk dilime giren öğrenciler, temel hareket ve sportif beceriler eğitimine davet edilerek bir sonraki aşamaya yönlendirilmiştir.",
+      "optionNotes": [
+        "Yüzde 5'lik dilim, projede tanımlanan davet oranından daha küçük bir kesimi ifade eder ve doğru orana karşılık gelmez.",
+        "Doğru yanıt: Tarama sonucunda yüzde 10'luk dilime giren öğrenciler temel hareket ve sportif beceriler eğitimine davet edilmiştir.",
+        "Yüzde 15'lik dilim, projede belirtilen orandan daha geniş bir kesimi kapsar ve bu haliyle yanlıştır.",
+        "Yüzde 20'lik dilim, davet edilen öğrenci oranını gerçek değerinin iki katına yakın göstermektedir.",
+        "Yüzde 25'lik dilim, tanımlanan orandan oldukça uzak ve aşırı geniş bir kesimi temsil eder."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesinde yer alan Antropometrik test ve ölçümlerden biri değildir?",
+      "options": [
+        "Boy uzunluğu",
+        "Vücut ağırlığı",
+        "Dikey sıçrama",
+        "Kulaç uzunluğu",
+        "Bacak uzunluğu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antropometrik ölçümler, bireyin vücut yapısına ait boyutsal verileri (boy, ağırlık, çeşitli uzunluk ölçümleri gibi) içerir. Dikey sıçrama ise bir antropometrik ölçüm değil, alt ekstremite patlayıcı kuvvetini belirlemeye yönelik bir motor performans testidir; bu nedenle antropometrik test ve ölçümler arasında sayılmaz.",
+      "optionNotes": [
+        "Boy uzunluğu, bireyin vücut boyutunu ifade eden tipik bir antropometrik ölçümdür; bu nedenle soruda aranan 'olmayan' seçenek değildir.",
+        "Vücut ağırlığı da klasik bir antropometrik ölçüm olup vücut kompozisyonu hakkında bilgi verir; bu yüzden istisna seçenek değildir.",
+        "Doğru yanıt: Dikey sıçrama, vücut yapısını ölçen bir antropometrik test değil, patlayıcı gücü/performansı ölçen bir motor beceri testidir.",
+        "Kulaç uzunluğu, kolların açıklığını ölçen bir antropometrik uzunluk ölçümüdür; bu nedenle antropometrik ölçümler kapsamındadır.",
+        "Bacak uzunluğu da vücut segment ölçümü olduğundan antropometrik ölçümler arasında yer alır."
+      ]
+    },
+    {
+      "question": "Erken çocukluk evresinin 4-5 yaşları arasında, yıllık boy artışı……vücut ağırlığı artışı……olarak artmaya devam eder. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "2 cm – 4 kg",
+        "3 cm – 5kg",
+        "4 cm – 6 kg",
+        "5 cm – 1 kg",
+        "6 cm – 2 kg"
+      ],
+      "correctIndex": 4,
+      "explanation": "Erken çocukluk evresinde (4-5 yaş aralığında) büyüme hızı bebeklik dönemine göre yavaşlamış olsa da devam eder; bu dönemde yıllık boy artışı yaklaşık 6 cm, vücut ağırlığı artışı ise yaklaşık 2 kg olarak gerçekleşir.",
+      "optionNotes": [
+        "2 cm – 4 kg değerleri, boy artışını gerçek değerinden düşük, ağırlık artışını ise gerçek değerinden yüksek göstererek bu yaş dönemine ait büyüme oranlarıyla uyuşmamaktadır.",
+        "3 cm – 5 kg değerleri, bu yaş aralığındaki tipik büyüme hızından sapmaktadır; boy artışı düşük, ağırlık artışı ise fazla gösterilmiştir.",
+        "4 cm – 6 kg değerleri, özellikle ağırlık artışını aşırı yüksek vererek bu dönemin beklenen büyüme örüntüsünü yansıtmamaktadır.",
+        "5 cm – 1 kg değerleri, boy artışını olması gerekenden az, ağırlık artışını da olması gerekenden az göstermektedir.",
+        "Doğru yanıt: 4-5 yaş aralığında yıllık boy artışı yaklaşık 6 cm, vücut ağırlığı artışı ise yaklaşık 2 kg olarak sürmektedir."
+      ]
+    },
+    {
+      "question": "Oturma yüksekliği testinde sandalyeye oturur pozisyonda dizler kaç derece açıda olmalıdır?",
+      "options": [
+        "15",
+        "30",
+        "45",
+        "60",
+        "90"
+      ],
+      "correctIndex": 4,
+      "explanation": "Oturma yüksekliği testinde öğrenci sandalyeye otururken diz ekleminin 90 derece açı oluşturması istenir; bu standart pozisyon, ölçümün tutarlı ve tekrarlanabilir biçimde yapılabilmesini sağlar.",
+      "optionNotes": [
+        "15 derece gibi çok dar bir diz açısı, oturma pozisyonunu bozar ve testin standardizasyonuna uygun değildir.",
+        "30 derecelik bir açı da dizin yeterince bükülü olmadığı, standart oturma pozisyonunu sağlamayan bir değerdir.",
+        "45 derecelik açı, oturma yüksekliği testinin gerektirdiği dik oturma pozisyonunu temsil etmez.",
+        "60 derecelik açı da diz ekleminin dik açıya ulaşmadığı, dolayısıyla standart protokole uymayan bir pozisyondur.",
+        "Doğru yanıt: Oturma yüksekliği testinde dizler 90 derece açıda olacak şekilde sandalyeye oturulur."
+      ]
+    },
+    {
+      "question": "Kulaç uzunluğu testinde her iki kolun ………parmakları arasındaki uzaklık ölçülecektir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Serçe",
+        "Yüzük",
+        "Orta",
+        "İşaret",
+        "Baş"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kulaç uzunluğu testinde öğrenci kollarını yana doğru tam açar ve ölçüm, her iki elin orta parmak uçları arasındaki uzaklık baz alınarak yapılır; orta parmak, kol açıklığının en uç ve en doğru referans noktasını temsil eder.",
+      "optionNotes": [
+        "Serçe parmak, elin en kısa ve en dış kenarındaki parmak olduğundan kulaç ölçümünde referans parmak olarak kullanılmaz.",
+        "Yüzük parmağı da kulaç uzunluğu ölçümünde esas alınan referans parmak değildir; ölçüm protokolünde bu parmak belirtilmemiştir.",
+        "Doğru yanıt: Kulaç uzunluğu testinde her iki kolun orta parmakları arasındaki uzaklık ölçülür.",
+        "İşaret parmağı, kolun tam açıklığını en uç noktadan yansıtmadığı için bu testte referans alınmaz.",
+        "Baş parmak, elin en kısa ve farklı konumlanmış parmağıdır; kulaç uzunluğu gibi tam kol açıklığını ölçen bir testte referans noktası olarak kullanılmaz."
+      ]
+    },
+    {
+      "question": "İlk denemeden sonra 5-10 sn. kadar dinlenmenin verildiği test aşağıdakilerden hangisidir?",
+      "options": [
+        "Kulaç uzunluğu",
+        "Esneklik",
+        "Oturma yüksekliği",
+        "Vücut ağırlığı",
+        "Boy uzunluğu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Esneklik testinde ilk deneme sonrasında kaslara adaptasyon sağlanması ve sakatlanma riskinin azaltılması amacıyla öğrenciye 5-10 saniyelik kısa bir dinlenme süresi verilir, ardından asıl ölçüm tekrar yapılır.",
+      "optionNotes": [
+        "Kulaç uzunluğu, statik bir antropometrik ölçüm olduğundan denemeler arası dinlenme gerektiren bir performans testi değildir.",
+        "Doğru yanıt: Esneklik testinde ilk denemeden sonra kasların adaptasyonu için 5-10 saniyelik bir dinlenme süresi verilir.",
+        "Oturma yüksekliği de statik bir antropometrik ölçüm olup fiziksel efor gerektirmediğinden dinlenme süresi öngörülmez.",
+        "Vücut ağırlığı ölçümü tek seferlik ve statik bir ölçüm olduğundan tekrarlar arası dinlenmeye gerek yoktur.",
+        "Boy uzunluğu da tek seferlik yapılan statik bir antropometrik ölçüm olduğundan dinlenme süresi gerektirmez."
+      ]
+    },
+    {
+      "question": "Öğrencinin bir dinamometre yardımıyla kuvvetinin ölçüldüğü test aşağıdakilerden hangisidir?",
+      "options": [
+        "El kavrama testi",
+        "Dikey sıçrama",
+        "Esneklik",
+        "Kulaç uzunluğu",
+        "Oturma yüksekliği"
+      ],
+      "correctIndex": 0,
+      "explanation": "El kavrama testi, öğrencinin el ve ön kol kaslarının kuvvetini bir el dinamometresi yardımıyla doğrudan sayısal olarak ölçen bir testtir; dinamometre kullanımı bu testin temel özelliğidir.",
+      "optionNotes": [
+        "Doğru yanıt: El kavrama testinde öğrencinin kuvveti bir el dinamometresi aracılığıyla ölçülür.",
+        "Dikey sıçrama, bacak kaslarının patlayıcı gücünü sıçrama yüksekliği üzerinden değerlendirir; dinamometre değil mesafe/yükseklik ölçümü kullanılır.",
+        "Esneklik testi, eklem hareket genişliğini bir cetvel veya esneklik ölçüm aracıyla değerlendirir; kuvvet ölçen bir dinamometre kullanılmaz.",
+        "Kulaç uzunluğu, kolların açıklığını belirleyen bir antropometrik ölçümdür ve kuvvetle değil uzunlukla ilgilidir.",
+        "Oturma yüksekliği, gövde ve bacak oranlarını belirleyen bir antropometrik ölçümdür; kuvvet ölçümüyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Geriye sağlık topu atma testinde Atış alanı açısı kaç derecedir?",
+      "options": [
+        "15 derece",
+        "30 derece",
+        "45 derece",
+        "60 derece",
+        "90 derece"
+      ],
+      "correctIndex": 1,
+      "explanation": "Geriye sağlık topu atma testinde atışın geçerli sayılabilmesi için topun belirli bir açı aralığına düşmesi gerekir; bu test protokolünde atış alanı 30 derecelik bir açıyla sınırlandırılmıştır.",
+      "optionNotes": [
+        "15 derecelik bir açı, protokolde tanımlanan atış alanından daha dar bir alanı ifade eder.",
+        "Doğru yanıt: Geriye sağlık topu atma testinde atış alanı 30 derecelik bir açıyla belirlenmiştir.",
+        "45 derecelik açı, testte tanımlanan atış alanı açısından daha geniş bir değerdir.",
+        "60 derecelik açı, protokolde belirtilen değerin iki katına yakın olup gerçek atış alanı açısıyla uyuşmaz.",
+        "90 derecelik açı tam bir çeyrek daireyi ifade eder ve bu testin dar atış alanı tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "question": "Bir öğrenci Çeviklik testinde parkurun orta çizgisinin kaç cm gerisinde hazırda bekler?",
+      "options": [
+        "10 cm",
+        "30 cm",
+        "50 cm",
+        "70 cm",
+        "90 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Çeviklik testinde öğrenci, parkurun ortasındaki çizgiye göre simetrik bir başlangıç pozisyonu alır ve bu pozisyon, orta çizginin 50 cm gerisinde, hazır (başlama) duruşunda bekleyerek oluşturulur.",
+      "optionNotes": [
+        "10 cm'lik bir mesafe, başlangıç pozisyonu için protokolde tanımlanan mesafeden çok daha kısadır.",
+        "30 cm'lik mesafe de testin gerektirdiği 50 cm'lik başlangıç mesafesine ulaşmayan bir değerdir.",
+        "Doğru yanıt: Öğrenci, çeviklik testinde parkurun orta çizgisinin 50 cm gerisinde hazır pozisyonda bekler.",
+        "70 cm'lik mesafe, protokolde belirtilen değerden daha büyük bir uzaklığı ifade eder.",
+        "90 cm'lik mesafe, gerçek başlangıç mesafesinin oldukça üzerinde bir değerdir ve parkur ölçüleriyle uyuşmaz."
+      ]
+    },
+    {
+      "question": "20 M Sürat koşusunda öğrenci fotoselin kaç metre gerisinde pozisyon alır?",
+      "options": [
+        "1 metre",
+        "1.5 metre",
+        "2 metre",
+        "2.5 metre",
+        "3 metre"
+      ],
+      "correctIndex": 0,
+      "explanation": "20 metre sürat koşusu testinde öğrenci, fotosel tarafından yanlış veya erken tetiklenmeyi önlemek amacıyla başlangıç fotoselinin 1 metre gerisinde pozisyon alarak koşuya başlar.",
+      "optionNotes": [
+        "Doğru yanıt: Öğrenci, 20 m sürat koşusunda başlangıç fotoselinin 1 metre gerisinde pozisyon alır.",
+        "1,5 metre, protokolde tanımlanan standart başlangıç mesafesinden daha fazladır.",
+        "2 metre, gerçek başlangıç mesafesinin iki katına yakın bir değer olup ölçüm standardıyla uyuşmaz.",
+        "2,5 metre, protokolde belirtilen 1 metrelik mesafeden oldukça uzak bir değerdir.",
+        "3 metre, testin başlangıç pozisyonu için tanımlanan mesafeyi önemli ölçüde aşmaktadır."
+      ]
+    },
+    {
+      "question": "Öğrencinin postüral salınım olarak da ifade edilen…………yetisi destek ayağı üzerinde, ağırlık merkezinin durağanlığı ya da hareketliliğini tespit etmek amacıyla yapılmaktadır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Denge",
+        "Sürat",
+        "Esneklik",
+        "Dayanıklılık",
+        "Reaksiyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Postüral salınım olarak da ifade edilen yeti dengedir; denge testi, bireyin destek ayağı üzerinde ağırlık merkezini ne kadar durağan ya da hareketli tutabildiğini belirlemek amacıyla uygulanır.",
+      "optionNotes": [
+        "Doğru yanıt: Postüral salınım, denge yetisinin bir göstergesi olup ağırlık merkezinin durağanlığını/hareketliliğini belirlemek için ölçülür.",
+        "Sürat, belirli bir mesafenin en kısa zamanda koşulmasıyla ilgili bir motor özelliktir; postüral salınımla ilgisi yoktur.",
+        "Esneklik, eklem hareket genişliğiyle ilgili bir özelliktir ve ağırlık merkezinin durağanlığını ölçmez.",
+        "Dayanıklılık, uzun süreli efor gösterebilme kapasitesidir ve destek ayağı üzerindeki salınımla ilişkili değildir.",
+        "Reaksiyon, bir uyarana verilen tepki hızıyla ilgilidir; ağırlık merkezinin kontrolüyle değil sinirsel tepki süresiyle ilişkilidir."
+      ]
+    },
+    {
+      "question": "Denge testi toplam kaç saniye sürmektedir?",
+      "options": [
+        "30",
+        "50",
+        "70",
+        "90",
+        "120"
+      ],
+      "correctIndex": 2,
+      "explanation": "Denge testi, öğrencinin tek ayak üzerinde durarak ağırlık merkezini kontrol etmesini ölçen bir test olup protokolde toplam 70 saniye sürecek şekilde tanımlanmıştır.",
+      "optionNotes": [
+        "30 saniye, denge testi için tanımlanan toplam süreden oldukça kısadır.",
+        "50 saniye de testin gerçek toplam süresi olan 70 saniyeye ulaşmayan bir değerdir.",
+        "Doğru yanıt: Denge testi toplamda 70 saniye sürmektedir.",
+        "90 saniye, protokolde belirtilen süreden daha fazladır.",
+        "120 saniye, gerçek test süresinin oldukça üzerinde, abartılı bir değerdir."
+      ]
+    },
+    {
+      "question": "Herhangi bir uyaranın sinirler yoluyla merkezî sinir sistemine ulaştırılması ve burada karar oluşturarak tekrar sinirler yoluyla kaslara iletilmesi ve kasların ilgili emir doğrultusunda bilinçli olarak harekete geçmesine ne ad verilir?",
+      "options": [
+        "Denge",
+        "Reaksiyon",
+        "Sürat",
+        "Esneklik",
+        "Dayanıklılık"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu tanım reaksiyon kavramının tam karşılığıdır: bir uyaranın duyu organları/sinirler yoluyla merkezi sinir sistemine iletilmesi, burada değerlendirilip bir karar oluşturulması ve bu kararın tekrar sinirler yoluyla kaslara ulaştırılarak bilinçli hareketin ortaya çıkmasıdır.",
+      "optionNotes": [
+        "Denge, ağırlık merkezinin kontrolüyle ilgili bir yetidir; sinirsel uyarı-karar-hareket zincirini tanımlamaz.",
+        "Doğru yanıt: Tanımlanan süreç, uyaranın algılanıp merkezi sinir sisteminde değerlendirilmesi ve kasa iletilmesiyle oluşan reaksiyondur.",
+        "Sürat, kat edilen mesafe ile geçen zaman arasındaki ilişkiyi ifade eder; sinirsel karar sürecini tanımlamaz.",
+        "Esneklik, eklemlerin hareket genişliğiyle ilgilidir ve uyaran-karar-hareket zincirini ifade etmez.",
+        "Dayanıklılık, uzun süreli efora karşı direnç göstermeyi ifade eder; bu tanımla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Uyaranın gelmesiyle tepkinin başlamasına kadar geçen zamana ne ad verilir?",
+      "options": [
+        "Denge",
+        "Sürat",
+        "Tepki süresi",
+        "Reaksiyon zamanı",
+        "Esneklik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reaksiyon zamanı, bir uyaranın ortaya çıkmasıyla (gelmesiyle) organizmanın bu uyarana karşı tepkisinin başlamasına kadar geçen süre olarak tanımlanır; bu süre sinirsel iletim ve karar verme aşamalarını kapsar.",
+      "optionNotes": [
+        "Denge, ağırlık merkezinin kontrolüyle ilgili bir motor özelliktir ve zamana dayalı bir tanım değildir.",
+        "Sürat, birim zamanda alınan yol ile ilgilidir; uyaran-tepki arasındaki süreyi tanımlamaz.",
+        "Tepki süresi, bu metinde sorulan tanımdan farklı olarak uyaranın başlama zamanı ile tepkinin başladığı zaman arasındaki süreyi ifade eder; burada sorulan 'uyaranın gelmesi' ifadesiyle örtüşmez.",
+        "Doğru yanıt: Uyaranın gelmesiyle tepkinin başlamasına kadar geçen süreye reaksiyon zamanı denir.",
+        "Esneklik, eklem hareket genişliğiyle ilgili bir kavramdır ve zamanla ilgili bir ölçüt değildir."
+      ]
+    },
+    {
+      "question": "Uyaranın başlama zamanı ile tepkinin başladığı zaman arasında geçen süreye ne ad verilir?",
+      "options": [
+        "Denge",
+        "Sürat",
+        "Tepki süresi",
+        "Esneklik",
+        "Reaksiyon zamanı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tepki süresi, uyaranın başlama zamanı ile organizmanın bu uyarana karşı tepkisinin başladığı zaman arasında geçen süre olarak tanımlanır; bu tanım, 'uyaranın gelmesiyle tepkinin başlaması' şeklinde ifade edilen reaksiyon zamanı tanımından terminolojik olarak ayrı ele alınmıştır.",
+      "optionNotes": [
+        "Denge, ağırlık merkezinin kontrolüyle ilgili bir kavramdır ve uyaran-tepki arasındaki zaman aralığını ifade etmez.",
+        "Sürat, kat edilen mesafeyle geçen zaman arasındaki ilişkiyi ifade eder; uyaran başlangıcı ile tepki başlangıcı arasındaki süreyle ilgili değildir.",
+        "Doğru yanıt: Uyaranın başlama zamanı ile tepkinin başladığı zaman arasındaki süreye tepki süresi denir.",
+        "Esneklik, eklemlerin hareket genişliğiyle ilgili bir kavramdır ve zamana dayalı bir tanım değildir.",
+        "Reaksiyon zamanı, bu soruda tanımlanan kavramdan farklı bir bağlamda (uyaranın gelmesiyle tepkinin başlaması) kullanılan ayrı bir terimdir."
+      ]
+    },
+    {
+      "question": "Görsel reaksiyon testiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Her lamba için en az 3 uyarıcı verilerek toplam 24 tekrar sonrasında test sonlandırılır",
+        "Teste aşina olması kapsamında 5 adet sensör rastgele yanarak öğrencinin demen yapması istenir",
+        "Öğrencilerin, görsel reaksiyon test cihazına ait bir pano üzerine sabitlenmiş 8 lamba üzerinde rastgele yanan renkler arasından kırmızı rengi yakalamaları istenir.",
+        "Testin asıl aşaması için sensörlerden biri yanar ve öğrencinin lambaya elini yaklaştırması ile (yaklaşık 3 cm) test başlar.",
+        "Tablet üzerinden sonuçları içeren “Qr kod” diğer tablete okutulup diğer öğrencinin testine geçilir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Görsel reaksiyon test cihazında panoya sabitlenmiş toplam 8 lamba bulunur ve öğrenci bunlar arasından kırmızı rengi yakalamaya çalışır. 'Teste aşina olması kapsamında 5 adet sensörün rastgele yanması' ifadesi bu düzenle çelişmektedir; cihazdaki lamba/sensör sayısı 5 değil 8'dir, bu nedenle bu seçenek gerçek bilgiyle uyuşmayan, yani soruda sorulan 'yanlış' ifadedir.",
+      "optionNotes": [
+        "Bu ifade doğrudur: test, her lamba için en az 3 uyarıcı verilerek toplamda 24 tekrara ulaşıldığında sona erer; bu nedenle soruda aranan yanlış seçenek değildir.",
+        "Doğru yanıt: Cihazda 8 lamba bulunduğu halde bu seçenekte '5 adet sensör' denilmesi gerçek düzenle çelişmektedir; bu nedenle bu ifade yanlıştır.",
+        "Bu ifade doğrudur: öğrencilerden panodaki 8 lamba arasında rastgele yanan renkler içinden kırmızıyı yakalamaları istenir; dolayısıyla yanlış olan seçenek bu değildir.",
+        "Bu ifade doğrudur: testin asıl aşamasında bir sensör yanar ve öğrenci elini yaklaşık 3 cm yaklaştırdığında test başlar; bu nedenle aranan yanlış seçenek değildir.",
+        "Bu ifade doğrudur: sonuçları içeren QR kodun diğer tablete okutularak sıradaki öğrencinin testine geçilmesi prosedürün bir parçasıdır; bu nedenle yanlış olan seçenek bu değildir."
+      ]
+    },
+    {
+      "question": "Mekik koşusu…..km/s hızla başlar, koşuya özgü oluşturulmuş sinyallerin ileriki aşamalarında her seviyede….km/s artacak şekilde tempo artar. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "2 – 0,5",
+        "4 – 0,5",
+        "7 – 0,5",
+        "7 – 1",
+        "8 – 3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mekik koşusu (20 m shuttle run) testi 7 km/s hızla başlar ve sinyaller eşliğinde her seviyede tempo 0,5 km/s artacak şekilde kademeli olarak hızlanır; bu kademeli artış, aerobik kapasitenin giderek artan yüklenmelerle test edilmesini sağlar.",
+      "optionNotes": [
+        "2 km/s başlangıç hızı, testin gerçek başlangıç hızı olan 7 km/s'den çok daha düşüktür.",
+        "4 km/s de testin başlangıç hızından belirgin şekilde düşük bir değerdir.",
+        "Doğru yanıt: Mekik koşusu 7 km/s hızla başlar ve her seviyede 0,5 km/s artacak şekilde tempo yükselir.",
+        "7-1 seçeneğinde başlangıç hızı doğru olsa da seviye artışı 1 km/s olarak verilmiştir; gerçek artış miktarı 0,5 km/s'dir, bu nedenle seçenek bütün olarak yanlıştır.",
+        "8-3 seçeneğinde hem başlangıç hızı hem de seviye artışı gerçek değerlerden belirgin şekilde yüksektir."
+      ]
+    },
+    {
+      "question": "Mekik koşusu testinde kaç adet koşu yolu oluşturulur?",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mekik koşusu testinin uygulanabilmesi için parkur üzerinde aynı anda birden fazla öğrencinin koşabilmesini sağlayacak şekilde 10 adet koşu yolu (hat) oluşturulur.",
+      "optionNotes": [
+        "5 koşu yolu, testin eş zamanlı uygulanabilmesi için oluşturulan gerçek hat sayısından azdır.",
+        "7 koşu yolu da protokolde belirtilen 10 hatlık düzenlemeye ulaşmayan bir sayıdır.",
+        "Doğru yanıt: Mekik koşusu testinde 10 adet koşu yolu oluşturulur.",
+        "15 koşu yolu, gerçek düzenlemede belirtilen sayıdan fazladır.",
+        "20 koşu yolu, protokolde tanımlanan hat sayısının iki katı olup gerçek uygulamayla uyuşmaz."
+      ]
+    },
+    {
+      "question": "Mekik koşusu testinde kaç adet kuka kullanılır?",
+      "options": [
+        "11",
+        "23",
+        "33",
+        "40",
+        "55"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mekik koşusu parkurunun sınırlarını ve hatlarını belirlemek amacıyla toplamda 33 adet kuka kullanılır; bu kukalar koşu yollarının başlangıç ve bitiş noktalarını işaretler.",
+      "optionNotes": [
+        "11 kuka, parkurun tüm hatlarını işaretlemek için gereken gerçek kuka sayısından oldukça azdır.",
+        "23 kuka da protokolde belirtilen 33'lük sayıya ulaşmayan bir değerdir.",
+        "Doğru yanıt: Mekik koşusu testinde parkur düzenlemesi için 33 adet kuka kullanılır.",
+        "40 kuka, gerçek uygulamada kullanılan sayıdan fazladır.",
+        "55 kuka, protokolde belirtilen değerin oldukça üzerinde bir rakamdır."
+      ]
+    },
+    {
+      "question": "Mekik koşusu testi kaç metrelik parkurdan oluşmaktadır?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mekik koşusu testi, standart olarak 20 metrelik bir parkur üzerinde, öğrencinin bu mesafeyi sinyal sesleriyle belirlenen tempoda gidip gelerek kat etmesi esasına dayanır.",
+      "optionNotes": [
+        "10 metre, testin standart parkur uzunluğunun yarısı kadardır ve gerçek protokolle uyuşmaz.",
+        "15 metre de testin tanımlı mesafesi olan 20 metreye ulaşmayan bir değerdir.",
+        "Doğru yanıt: Mekik koşusu testi 20 metrelik bir parkurdan oluşur.",
+        "25 metre, protokolde belirtilen 20 metrelik mesafeden fazladır.",
+        "30 metre, gerçek parkur uzunluğunun oldukça üzerinde bir değerdir."
+      ]
+    },
+    {
+      "question": "Alttan Üstten engel geçiş testinde engeller arası mesafe kaç metredir?",
+      "options": [
+        "1 metre",
+        "2 metre",
+        "3 metre",
+        "4 metre",
+        "5 metre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alttan üstten engel geçiş testinde öğrencinin düzenli bir ritimle engelleri geçebilmesi için engeller birbirinden 1 metre aralıklarla yerleştirilir.",
+      "optionNotes": [
+        "Doğru yanıt: Alttan üstten engel geçiş testinde engeller arasındaki mesafe 1 metredir.",
+        "2 metre, protokolde tanımlanan engeller arası mesafeden fazladır.",
+        "3 metre de gerçek mesafe olan 1 metreden oldukça uzaktır.",
+        "4 metre, parkurun gerçek düzenlemesinde belirtilen mesafeyle uyuşmaz.",
+        "5 metre, engeller arası tanımlı mesafenin beş katı kadar fazla bir değerdir."
+      ]
+    },
+    {
+      "question": "Alttan Üstten engel geçiş testinde ikinci ve dördüncü engel yüksekliği ve genişliği kaç cm’dir?",
+      "options": [
+        "80 cm – 130 cm",
+        "60 cm – 120 cm",
+        "40 cm – 130 cm",
+        "60 cm – 140 cm",
+        "70 cm – 150 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alttan üstten engel geçiş testinde parkurdaki engeller farklı yükseklik ve genişliklere sahiptir; ikinci ve dördüncü engelin yüksekliği 40 cm, genişliği ise 130 cm olarak belirlenmiştir.",
+      "optionNotes": [
+        "80 cm – 130 cm seçeneğinde yükseklik değeri gerçek değerden (40 cm) fazla verilmiştir.",
+        "60 cm – 120 cm seçeneğinde hem yükseklik hem genişlik değerleri gerçek ölçülerle (40 cm – 130 cm) uyuşmamaktadır.",
+        "Doğru yanıt: İkinci ve dördüncü engelin yüksekliği 40 cm, genişliği 130 cm'dir.",
+        "60 cm – 140 cm seçeneğinde yükseklik gerçek değerden fazla, genişlik de gerçek değerden fazla verilmiştir.",
+        "70 cm – 150 cm seçeneğinde her iki ölçü de gerçek engel boyutlarının oldukça üzerindedir."
+      ]
+    },
+    {
+      "question": "Elle ve ayakla top yer değiştirme testinde çemberler arası uzaklık kaç cm’dir?",
+      "options": [
+        "40 cm",
+        "60 cm",
+        "80 cm",
+        "100 cm",
+        "120 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elle ve ayakla top yer değiştirme testinde öğrencinin topu çemberler arasında taşıyarak hareket edebilmesi için çemberler birbirinden 100 cm aralıklarla yerleştirilir.",
+      "optionNotes": [
+        "40 cm, çemberler arası tanımlı mesafe olan 100 cm'den oldukça kısadır.",
+        "60 cm de gerçek mesafeye ulaşmayan, protokolle uyuşmayan bir değerdir.",
+        "80 cm, testte tanımlanan 100 cm'lik mesafeden az bir değerdir.",
+        "Doğru yanıt: Elle ve ayakla top yer değiştirme testinde çemberler arası uzaklık 100 cm'dir.",
+        "120 cm, protokolde belirtilen gerçek mesafeden fazla bir değerdir."
+      ]
+    }
+  ]
+}

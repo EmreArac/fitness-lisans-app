@@ -1,0 +1,463 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 4,
+  "topic": "Motor Gelişim",
+  "questions": [
+    {
+      "question": "Genotipte genellikle büyük harfle gösterilen ve heterozigot durumda dış görünüşte (fenotipte) etkisini gösterebilen gen türüne ne ad verilir?",
+      "options": [
+        "Baskın gen",
+        "Çekinik gen",
+        "Homozigot",
+        "Heterozigot",
+        "Fenotip"
+      ],
+      "correctIndex": 0,
+      "explanation": "Baskın gen, genotipte büyük harfle (örneğin A) simgelenen ve heterozigot (Aa) durumda bile fenotipte etkisini gösterebilen gen türüdür. Heterozigot bir bireyde baskın alel, çekinik aleli baskılayarak dış görünüşü belirler.",
+      "optionNotes": [
+        "Doğru yanıt: Baskın gen büyük harfle gösterilir ve heterozigot (Aa) genotipte dahi fenotipte kendini gösterir; çekinik aleli baskılar.",
+        "Çekinik gen küçük harfle gösterilir ve sadece homozigot (aa) durumda fenotipte etkisini gösterebilir; heterozigot durumda baskın gen tarafından maskelenir, soruda tarif edilenin tersidir.",
+        "Homozigot bir gen türü değildir; iki alelin birbirinin aynı (AA veya aa) olduğu genotip durumunu ifade eder.",
+        "Heterozigot da bir gen türü değildir; iki alelin farklı (Aa) olduğu genotip durumunu belirtir, sorudaki gibi tek bir gen türünün özelliğini tanımlamaz.",
+        "Fenotip, genotip ile çevrenin etkileşimi sonucu ortaya çıkan dış görünüştür; bir gen türü değil, genin yansıdığı sonuçtur."
+      ]
+    },
+    {
+      "question": "İki alel genin baskın ya da çekinik olma özelliklerinin aynı olmasına ne denir?",
+      "options": [
+        "Baskın gen",
+        "Çekinik gen",
+        "Homozigot",
+        "Heterozigot",
+        "Fenotip"
+      ],
+      "correctIndex": 2,
+      "explanation": "Homozigot, bir bireyin belirli bir özellik için taşıdığı iki alel genin baskınlık-çekiniklik açısından birbirinin aynısı olması (AA ya da aa) durumudur.",
+      "optionNotes": [
+        "Baskın gen, tek bir alelin özelliğidir ve büyük harfle gösterilir; iki alelin birbirine eşit olup olmadığını tanımlamaz.",
+        "Çekinik gen de tek bir alelin özelliğidir ve küçük harfle gösterilir; alellerin birbirine benzerliğini ifade eden bir kavram değildir.",
+        "Doğru yanıt: Homozigot, iki alelin ikisinin de baskın (AA) ya da ikisinin de çekinik (aa) olarak aynı özellikte bulunmasıdır.",
+        "Heterozigot tam tersine, iki alelin farklı (biri baskın biri çekinik, Aa) olduğu durumu ifade eder.",
+        "Fenotip, genotipin dışa yansıyan görünümüdür; alellerin birbirine eşitliğiyle ilgili bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Piaget’in, bilişsel gelişim kuramı kaç dönemden oluşmaktadır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piaget’in bilişsel gelişim kuramı dört temel dönemden oluşur: Duyusal Motor Dönem, İşlem Öncesi Dönem, Somut İşlemler Dönemi ve Soyut (Formal) İşlemler Dönemi.",
+      "optionNotes": [
+        "3 sayısı yanlıştır; bu, dört dönemden birinin (genellikle Somut İşlemler ya da İşlem Öncesi Dönem) sayıma dahil edilmemesinden kaynaklanan bir karıştırmadır.",
+        "Doğru yanıt: Piaget kuramını Duyusal Motor, İşlem Öncesi, Somut İşlemler ve Soyut İşlemler olmak üzere dört döneme ayırmıştır.",
+        "5 sayısı Piaget’in kuramındaki gerçek dönem sayısından fazladır; kuramda beşinci bir dönem tanımlanmamıştır.",
+        "6 sayısı da fazladır; bu derece ayrıntılı bir dönemlendirme Piaget’in kuramında yer almaz.",
+        "7 sayısı kuramdaki dönem sayısının çok üzerindedir; Piaget’in dönemlendirmesiyle örtüşmez."
+      ]
+    },
+    {
+      "question": "Piaget’in, bilişsel gelişim kuramında 2 – 6 yaş aralığı hangi döneme denk gelmektedir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piaget’e göre İşlem Öncesi Dönem yaklaşık 2-7 yaş aralığını kapsar; bu dönemde çocuk sembolik düşünceyi kullanmaya başlar ancak henüz mantıksal işlemleri gerçekleştiremez.",
+      "optionNotes": [
+        "Doğru yanıt: 2-6 (yaklaşık 7) yaş aralığı İşlem Öncesi Dönem’e karşılık gelir; sembolik oyun ve dil gelişiminin hızlandığı evredir.",
+        "Somut İşlemler Dönemi 7-11 yaş aralığını kapsar; bu, soruda belirtilen yaş aralığından daha ileri bir dönemdir.",
+        "Duyusal Motor Dönem doğumdan 2 yaşına kadar sürer; 2-6 yaş aralığından önceki, henüz dilin gelişmediği dönemdir.",
+        "Soyut İşlemler Dönemi 11 yaş ve sonrasını kapsayan, soyut ve mantıksal düşüncenin geliştiği en ileri dönemdir; 2-6 yaşla hiçbir ilgisi yoktur.",
+        "Erken Çocukluk, Piaget’in bilişsel gelişim dönemlerinden biri değildir; gelişim psikolojisinde kullanılan genel bir yaş sınıflandırmasıdır."
+      ]
+    },
+    {
+      "question": "……....aşamasında, çocuklar çevreyle etkileşimde bulunarak duyma, dokunma, görme vb. yollarla bilgi edinirler. İkinci aşama olan……….aşaması, çocukların, elde ettikleri bilgiye tepki vermesinden sonrasında, verdikleri tepkilerde değişiklikler meydana geldiği süreçtir. Son faz olan……….aşamasındaysa çocuk, mevcut durumda tepki verdiği bilgiye uyum sağlayarak yeni tepkiler geliştirir. Yukarıdaki boşluklara aşağıdakilerden hangileri getirilmelidir?",
+      "options": [
+        "Özümleme – uyma – adaptasyon",
+        "Özümleme – adaptasyon – uyma",
+        "Uyma – özümleme – adaptasyon",
+        "Uyma – adaptasyon – özümleme",
+        "Adaptasyon – uyma – özümleme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piaget’e göre öğrenme süreci üç aşamada gerçekleşir: özümleme aşamasında çocuk çevreyle etkileşerek bilgi edinir; uyma (akomodasyon) aşamasında edinilen bilgiye verilen tepkilerde değişiklik olur; adaptasyon aşamasında ise çocuk mevcut bilgiye uyum sağlayarak yeni tepkiler geliştirir.",
+      "optionNotes": [
+        "Doğru yanıt: Sıralama özümleme (bilgi edinme) – uyma (tepkide değişim) – adaptasyon (yeni tepki geliştirme) şeklindedir ve soru metnindeki aşama tanımlarıyla birebir örtüşür.",
+        "Bu seçenekte son iki aşamanın yeri değiştirilmiştir; adaptasyon sürecin sonunda ortaya çıkan uyum olduğu için uymadan önce gelemez.",
+        "Bu seçenekte ilk aşama olması gereken bilgi edinme (özümleme) ikinci sıraya atılmıştır; bilgiye tepkide değişim (uyma) bilgi edinilmeden önce gerçekleşemez.",
+        "Bu seçenekte süreç tamamen ters sıralanmıştır; bilgi edinme en başta olması gerekirken en sona bırakılmıştır.",
+        "Bu seçenekte sürecin nihai ürünü olan adaptasyon ilk aşama olarak gösterilmiştir; bu, sürecin mantıksal akışına terstir."
+      ]
+    },
+    {
+      "question": "Bir çocuk, ‘bopopter’ dediğinde aslında helikopterden bahsetmesi ya da elini yukarı kaldırıp salladığında, o anda uçan bir helikopterin pervanesini işaret etmeye çalışması Piaget’in, bilişsel gelişim kuramında hangi döneme denk gelmektedir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Çocuğun nesneleri sembollerle (kelime ya da hareketle) ifade etmeye çalışması, ancak dili ve sembolleri henüz tam doğru kullanamaması, İşlem Öncesi Dönem’in sembolik işlev özelliğidir.",
+      "optionNotes": [
+        "Doğru yanıt: Sembolik düşüncenin geliştiği fakat henüz tam olgunlaşmadığı için kelime ve hareketlerin gerçek nesneyle birebir örtüşmediği bu örnek İşlem Öncesi Dönem’e aittir.",
+        "Somut İşlemler Dönemi’nde çocuklar somut nesneler üzerinde mantıklı işlemler yapabilir; bu tür sembolik dil hataları bu evreden daha önceki, küçük yaşlarda görülür.",
+        "Duyusal Motor Dönem’de henüz dil ve sembolik temsil gelişmemiştir; bebek dünyayı doğrudan duyu ve hareketle tanır, kelime üretip nesneyi sembolize etmez.",
+        "Soyut İşlemler Dönemi, ileri yaşlarda görülen ve soyut/mantıksal akıl yürütmenin hâkim olduğu dönemdir; basit sembolik dil hatalarıyla ilgisi yoktur.",
+        "Erken Çocukluk, Piaget’in bilişsel dönemlerinden biri değildir; genel bir yaş evresi tanımıdır."
+      ]
+    },
+    {
+      "question": "Nesnelerin sürekliliği, taklit etme ve deneme-yanılma gibi kavramların ele alındığı Piaget’in, bilişsel gelişim dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Duyusal Motor Dönem (0-2 yaş), bebeğin nesne sürekliliği kazanması, taklit becerisi geliştirmesi ve deneme-yanılma yoluyla öğrenmesiyle karakterize edilir.",
+      "optionNotes": [
+        "İşlem Öncesi Dönem’de nesne sürekliliği zaten kazanılmış durumdadır; bu dönemin odağı sembolik düşünce ve dildir, deneme-yanılma bu döneme özgü bir kavram değildir.",
+        "Somut İşlemler Dönemi mantıksal işlemler ve korunum kavramlarıyla ilgilidir; nesne sürekliliği gibi bebeklik dönemine özgü kazanımlarla ilişkili değildir.",
+        "Doğru yanıt: Nesne sürekliliği, taklit ve deneme-yanılma öğrenmesi Duyusal Motor Dönem’in (0-2 yaş) temel özellikleridir.",
+        "Soyut İşlemler Dönemi en ileri bilişsel dönemdir ve soyut akıl yürütmeyle ilgilidir; bebeklik dönemi kazanımlarıyla ilgisi yoktur.",
+        "Erken Çocukluk, Piaget’in dönemlerinden biri değildir; genel bir yaş sınıflandırmasıdır."
+      ]
+    },
+    {
+      "question": "Mantığın daha ön planda olduğu ve nesneler arasında kurulan nedensel mantık olarak adlandırılan, Piaget’in, bilişsel gelişim dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Somut İşlemler Dönemi’nde (7-11 yaş) çocuklar somut nesneler arasında neden-sonuç ilişkisi kurabilir ve mantıksal işlemler yapabilir; ancak bu mantık henüz soyut kavramlara genellenemez, nesnelere bağlı kalır.",
+      "optionNotes": [
+        "İşlem Öncesi Dönem’de mantık henüz zayıftır; çocuk egosantrik düşünür ve nedensellik ilişkilerini tam olarak kuramaz.",
+        "Doğru yanıt: Somut İşlemler Dönemi’nde mantık ön plana çıkar ve nesneler arasında nedensel ilişkiler kurulabilir, fakat bu akıl yürütme somut nesnelerle sınırlıdır.",
+        "Duyusal Motor Dönem’de henüz mantıksal işlem yapılamaz; bilgi doğrudan duyu ve hareket yoluyla edinilir.",
+        "Soyut İşlemler Dönemi’nde de mantık vardır, ancak bu dönemdeki akıl yürütme nesnelerle sınırlı değildir, soyut ve hipotetik kavramlara genellenir; soru özellikle somut nesneler arası sınırlı mantığı tanımladığı için bu dönem yanlıştır.",
+        "Erken Çocukluk, Piaget’in bilişsel dönemlerinden biri değildir."
+      ]
+    },
+    {
+      "question": "Çocukların düşünce sisteminin yetişkinlerle aynı seviyeye ulaştığı ve sorunlara tümdengelim ya da tümevarım yoluyla yaklaşabildikleri, bilişsel gelişim dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soyut (Formal) İşlemler Dönemi’nde (11 yaş ve sonrası) birey yetişkin düzeyinde soyut düşünebilir; tümdengelim ve tümevarım yoluyla problem çözme becerisi bu dönemde kazanılır.",
+      "optionNotes": [
+        "İşlem Öncesi Dönem’de mantıksal akıl yürütme oldukça sınırlıdır; tümdengelim/tümevarım gibi ileri düzey işlemler bu dönemde yapılamaz.",
+        "Somut İşlemler Dönemi’nde akıl yürütme hâlâ somut nesnelerle sınırlıdır; yetişkin düzeyinde soyut mantık bu dönemde henüz tam gelişmemiştir.",
+        "Duyusal Motor Dönem en ilkel bilişsel dönemdir; dil ve mantıksal akıl yürütme bu dönemde mevcut değildir.",
+        "Doğru yanıt: Soyut İşlemler Dönemi’nde düşünce sistemi yetişkin düzeyine ulaşır, birey tümdengelim ve tümevarımla soyut problemleri çözebilir.",
+        "Erken Çocukluk, Piaget’in bilişsel gelişim dönemlerinden biri değildir ve bu yaş aralığıyla da örtüşmez."
+      ]
+    },
+    {
+      "question": "Çevre tarafından sunulan ve öğrenmeye etki ederek, gelişimsel özelliklerin ortaya çıkmasına katkıda bulunan edinimlere ne ad verilmektedir?",
+      "options": [
+        "Motor öğrenme",
+        "Motor kontrol",
+        "Motor davranış",
+        "Motor performans",
+        "Deneyim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Deneyim, bireyin çevresiyle etkileşimi sonucu edindiği ve öğrenmeyi, dolayısıyla gelişimsel özelliklerin ortaya çıkmasını etkileyen kazanımları ifade eder.",
+      "optionNotes": [
+        "Motor öğrenme, pratik ve deneyim sonucunda motor becerilerde meydana gelen nispeten kalıcı değişim sürecidir; çevre tarafından sunulan edinimlerin genel adı değildir, bu edinimlerin bir sonucudur.",
+        "Motor kontrol, hareketin sinir sistemi tarafından düzenlenmesi ve yönetilmesiyle ilgilidir; çevresel edinimleri tanımlamaz.",
+        "Motor davranış, hareketle ilgili gözlenebilir davranışları kapsayan genel bir şemsiye terimdir; sorudaki çevresel edinim tanımına özgü değildir.",
+        "Motor performans, belirli bir anda gözlenen hareket icrasının kendisidir; çevresel edinim kavramını karşılamaz.",
+        "Doğru yanıt: Deneyim, çevrenin sunduğu ve öğrenmeyi etkileyerek gelişimsel özelliklerin ortaya çıkmasına katkı sağlayan edinimlerdir."
+      ]
+    },
+    {
+      "question": "Embriyonun oluşmasından, fiziksel olgunlaşma sürecinin sonuna kadar birey üzerinde etkisi bulunan, çevresel faktörlerden etkilenen vücut ölçülerindeki niceliksel artışı ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Büyüme",
+        "Gelişim",
+        "Hareket",
+        "Öğrenme",
+        "Olgunlaşma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Büyüme, embriyonun oluşumundan fiziksel olgunlaşmanın tamamlanmasına kadar süren, çevresel faktörlerden de etkilenen, vücut ölçülerindeki (boy, kilo vb.) niceliksel artışı ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Büyüme, embriyonik dönemden olgunlaşmanın sonuna kadar vücut ölçülerindeki niceliksel (sayısal) artışı tanımlar.",
+        "Gelişim, hem niceliksel (büyüme) hem niteliksel (olgunlaşma, öğrenme) değişimleri kapsayan daha geniş bir kavramdır; sadece ölçülerdeki artışla sınırlı değildir.",
+        "Hareket, vücudun uzaydaki yer değiştirmesiyle ilgili bir kavramdır; vücut ölçülerindeki artışla ilgisi yoktur.",
+        "Öğrenme, deneyim ve pratik sonucu davranışta meydana gelen kalıcı değişimdir; fiziksel ölçülerle ilgili bir kavram değildir.",
+        "Olgunlaşma, genetik programa bağlı niteliksel/işlevsel gelişimi ifade eder; niceliksel (sayısal) ölçü artışını değil yapısal ve işlevsel yetkinleşmeyi tanımlar."
+      ]
+    },
+    {
+      "question": "Bir voleybolcunun smaç vuruşu sırasında bacaklarının, kollarının, gövdesinin ve başının oluşturduğu fiziksel düzen………olarak adlandırılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Hareket",
+        "Form",
+        "Motor beceri",
+        "Temel motor beceriler",
+        "Spor becerisi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Form, bir hareketin icrası sırasında vücut bölümlerinin (bacak, kol, gövde, baş) oluşturduğu fiziksel düzen ve duruşu ifade eder; sporcunun tekniği bu düzen üzerinden değerlendirilir.",
+      "optionNotes": [
+        "Hareket, genel olarak vücudun ya da bir uzvun yer/konum değiştirmesidir; vücut bölümlerinin o anki duruş düzenini özel olarak tanımlamaz.",
+        "Doğru yanıt: Form, hareket sırasında bacak, kol, gövde ve baş gibi vücut bölümlerinin oluşturduğu fiziksel düzeni ifade eder.",
+        "Motor beceri, belirli bir hareketi etkili ve verimli biçimde gerçekleştirme yeteneğidir; vücudun anlık duruş düzenini değil genel yetkinliği ifade eder.",
+        "Temel motor beceriler; yürüme, koşma, atma gibi genel ve temel hareket kalıplarıdır; smaç gibi spora özgü bir hareketin duruş düzenini tanımlamaz.",
+        "Spor becerisi, belirli bir spor dalına özgü bütünsel teknik beceriyi ifade eder; sadece vücut bölümlerinin anlık fiziksel düzenini tanımlayan 'form' kavramından daha geneldir."
+      ]
+    },
+    {
+      "question": "Yetişkin bireylerde vücudun kendini korumak için gerçekleştirdiği tepkilere ne ad verilir?",
+      "options": [
+        "Refleks",
+        "Reaksiyon",
+        "Öğrenme",
+        "Olgunlaşma",
+        "Gelişim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Refleks, vücudun bir uyarana karşı bilinçli kontrol gerektirmeden, otomatik ve hızlı biçimde kendini korumak amacıyla verdiği tepkidir (örneğin göz kırpma, elini aniden çekme).",
+      "optionNotes": [
+        "Doğru yanıt: Refleksler, yetişkinlerde de vücudu korumaya yönelik istemsiz ve otomatik tepkilerdir.",
+        "Reaksiyon, bir uyarana karşı bilinçli ve öğrenilmiş tepki süresini ifade eder; reflekslerin istemsiz ve otomatik doğasından farklıdır.",
+        "Öğrenme, deneyim yoluyla davranışta kalıcı değişim sürecidir; doğuştan gelen koruyucu tepkilerle ilgili bir kavram değildir.",
+        "Olgunlaşma, genetik programa bağlı biyolojik gelişim sürecidir; anlık koruyucu tepkiyi tanımlamaz.",
+        "Gelişim, yaşam boyu süren genel değişim sürecidir; belirli bir koruyucu tepkiyi ifade etmek için kullanılan özel bir terim değildir."
+      ]
+    },
+    {
+      "question": "Kişinin olgunlaşma ve öğrenme süreçleri sonucunda, belli bir işi yapabilecek duruma gelmesi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Hareket",
+        "Öğrenme",
+        "Psikomotor Gelişim",
+        "Hazırbulunuşluk",
+        "Olgunlaşma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hazırbulunuşluk, bireyin olgunlaşma ve öğrenme süreçlerinin bir sonucu olarak belirli bir işi veya beceriyi yapabilecek fiziksel ve zihinsel düzeye gelmesidir.",
+      "optionNotes": [
+        "Hareket, vücut ya da uzuvların yer değiştirmesidir; olgunlaşma-öğrenme sonucu oluşan hazır oluş durumunu tanımlamaz.",
+        "Öğrenme, hazırbulunuşluğu oluşturan iki süreçten sadece biridir; tek başına sorudaki tanımı karşılamaz.",
+        "Psikomotor Gelişim, zihinsel süreçlerle motor becerilerin birlikte gelişimini ifade eden geniş bir kavramdır; 'belirli bir işi yapabilecek duruma gelme' tanımını hazırbulunuşluk kadar doğrudan karşılamaz.",
+        "Doğru yanıt: Hazırbulunuşluk, olgunlaşma ve öğrenmenin birleşimi sonucunda kişinin belirli bir işi yapabilir duruma gelmesidir.",
+        "Olgunlaşma, hazırbulunuşluğu oluşturan iki süreçten sadece biridir (genetik/biyolojik yönü); öğrenme bileşenini kapsamaz."
+      ]
+    },
+    {
+      "question": "Bebeklik dönemindeki hareket kalıplarından, çocuk ve gençlerin daha fonksiyonel ve daha becerili hareketlere doğru ilerlemelerine ne ad verilir?",
+      "options": [
+        "Farklılaşma",
+        "Bütünleşme",
+        "Gelişim Yönü",
+        "Büyüme Hızı",
+        "Kritik (Hassas) Dönem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Farklılaşma, bebeklik dönemindeki kaba ve genel hareket kalıplarının, çocukluk ve gençlik döneminde daha özelleşmiş, fonksiyonel ve becerili hareketlere doğru ilerleme sürecidir.",
+      "optionNotes": [
+        "Doğru yanıt: Farklılaşma, ilkel hareket kalıplarının zamanla daha fonksiyonel ve becerili hareketlere dönüşme sürecidir.",
+        "Bütünleşme, farklılaşmış duyu ve kas sistemlerinin koordineli biçimde birlikte çalışmasıdır; hareket kalıplarının becerili hale gelme sürecini değil bu sistemlerin birleşmesini ifade eder.",
+        "Gelişim Yönü, gelişimin baş-ayak (sefalokaudal) ya da merkez-çevre (proksimodistal) gibi izlediği genel yönü ifade eder; hareketlerin becerili hale gelme sürecini tanımlamaz.",
+        "Büyüme Hızı, vücut ölçülerindeki artışın zaman içindeki hızını ifade eder; hareket becerisinin gelişimiyle ilgili değildir.",
+        "Kritik (Hassas) Dönem, belirli bir becerinin kazanılması için en uygun zaman aralığını ifade eder; hareketlerin becerili hale gelme sürecinin kendisini tanımlamaz."
+      ]
+    },
+    {
+      "question": "Duyu sistemlerinin ve çeşitli kas gruplarının koordineli bir şekilde çalışmasına ne ad verilir?",
+      "options": [
+        "Farklılaşma",
+        "Bütünleşme",
+        "Gelişim Yönü",
+        "Büyüme Hızı",
+        "Kritik (Hassas) Dönem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bütünleşme, farklılaşmış duyu sistemleri ile çeşitli kas gruplarının ortak bir amaç doğrultusunda koordineli ve uyumlu biçimde birlikte çalışmasıdır.",
+      "optionNotes": [
+        "Farklılaşma, hareketlerin ilkel kalıplardan özelleşmiş ve becerili hale gelme sürecidir; sistemlerin birlikte koordineli çalışmasını değil ayrışma/özelleşme sürecini ifade eder.",
+        "Doğru yanıt: Bütünleşme, duyu sistemleri ve kas gruplarının koordineli şekilde birlikte çalışmasıdır.",
+        "Gelişim Yönü, gelişimin izlediği genel yönü (baştan ayağa, merkezden çevreye) ifade eder; sistemlerin koordinasyonunu tanımlamaz.",
+        "Büyüme Hızı, vücut ölçülerinin zaman içindeki artış oranını ifade eder; koordinasyon kavramıyla ilgili değildir.",
+        "Kritik (Hassas) Dönem, bir becerinin en kolay kazanılabileceği zaman dilimidir; sistemlerin koordinasyonunu tanımlamaz."
+      ]
+    },
+    {
+      "question": "Filo kelimesi neyi ifade etmektedir?",
+      "options": [
+        "Topluluk",
+        "Akraba",
+        "Kültür",
+        "Gelenek",
+        "Ülke"
+      ],
+      "correctIndex": 0,
+      "explanation": "Filo (phylo) kelime kökü 'topluluk, ırk, soy' anlamına gelir; filogenetik terimindeki 'filo', bir özelliğin tüm insan türü/topluluğu için ortak olduğunu ifade etmede kullanılır.",
+      "optionNotes": [
+        "Doğru yanıt: Filo kelimesi 'topluluk' (soy, ırk) anlamına gelir ve filogenetik becerilerin tüm insanlık için ortak olduğunu ifade etmede kullanılır.",
+        "Akraba, filo kelimesinin karşılığı değildir; akrabalık biyolojik yakınlığı ifade eden farklı bir kavramdır.",
+        "Kültür, öğrenilmiş, topluma özgü değer ve davranışları ifade eder; filo kelimesinin kök anlamıyla örtüşmez.",
+        "Gelenek, nesilden nesile aktarılan davranış ve uygulamaları ifade eder; filo kelimesinin anlamı değildir.",
+        "Ülke, coğrafi/siyasi bir birimi ifade eder; filo kelimesinin kök anlamıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi filogenetik becerilere verilen örneklerden biri değildir?",
+      "options": [
+        "Atma",
+        "Tutma",
+        "Yakalama",
+        "Yürüme",
+        "Kaleye şut atma"
+      ],
+      "correctIndex": 4,
+      "explanation": "Filogenetik beceriler (yürüme, atma, tutma, yakalama gibi), türe özgü olarak öğrenmeye dayanmadan kendiliğinden ortaya çıkan temel becerilerdir; kaleye şut atma ise öğrenme ve pratik gerektiren, spora özgü ontogenetik bir beceridir.",
+      "optionNotes": [
+        "Atma, filogenetik (türe özgü, kendiliğinden ortaya çıkan) temel bir harekettir; bu nedenle sorudaki 'örnek olmayan' seçenek değildir.",
+        "Tutma, filogenetik temel becerilerden biridir; öğrenmeden bağımsız olarak kendiliğinden gelişir.",
+        "Yakalama, filogenetik temel becerilerden biridir; doğuştan gelen hareket potansiyeline dayanır.",
+        "Yürüme, en tipik filogenetik beceri örneklerinden biridir; tüm insanlarda benzer şekilde kendiliğinden ortaya çıkar.",
+        "Doğru yanıt: Kaleye şut atma, spora özgü, öğrenme ve pratik gerektiren ontogenetik bir beceridir; filogenetik (türe özgü, kendiliğinden gelişen) becerilere örnek değildir."
+      ]
+    },
+    {
+      "question": "Çevre uyaranları ve öğrenme iş birliği sonucunda gelişen becerilere ne ad verilmektedir?",
+      "options": [
+        "Filogenetik",
+        "Ontogenetik",
+        "Çevre",
+        "Kalıtım",
+        "Genotip"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ontogenetik beceriler, çevresel uyaranlar ve öğrenmenin iş birliği sonucu, bireysel deneyimle kazanılan, kültüre ve pratiğe bağlı becerilerdir (örneğin spora özgü beceriler).",
+      "optionNotes": [
+        "Filogenetik, türe özgü, öğrenmeden kendiliğinden ortaya çıkan becerileri ifade eder; çevre ve öğrenmenin ortak etkisiyle gelişen becerileri tanımlamaz.",
+        "Doğru yanıt: Ontogenetik beceriler, çevresel uyaranlar ve öğrenmenin iş birliği sonucunda bireysel olarak gelişen becerilerdir.",
+        "Çevre, bireyi dıştan etkileyen koşulların genel adıdır; kazanılan beceri türünü tanımlayan bir terim değildir.",
+        "Kalıtım, özelliklerin genler yoluyla nesilden nesile aktarılmasıdır; öğrenme yoluyla kazanılan becerilerle ilgili bir kavram değildir.",
+        "Genotip, bireyin taşıdığı genlerin tümüdür; öğrenilmiş becerileri tanımlayan bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Belirli bir sıra izleyerek kendiliğinden oraya çıkan bütün özelliklere ne ad verilir?",
+      "options": [
+        "Filogenetik",
+        "Ontogenetik",
+        "Çevre",
+        "Kalıtım",
+        "Genotip"
+      ],
+      "correctIndex": 0,
+      "explanation": "Filogenetik özellikler, türe özgü olarak belirli bir sıra izleyerek, öğrenmeye gerek kalmadan kendiliğinden ortaya çıkan özelliklerdir (örneğin yürüme, tutma gibi temel hareketler).",
+      "optionNotes": [
+        "Doğru yanıt: Filogenetik özellikler, belirli bir sıra izleyerek kendiliğinden (öğrenmeye bağlı olmadan) ortaya çıkan türe özgü özelliklerdir.",
+        "Ontogenetik özellikler, çevre ve öğrenmenin etkisiyle bireysel olarak kazanılan özelliklerdir; kendiliğinden ortaya çıkma tanımına uymaz.",
+        "Çevre, bireyi dıştan etkileyen koşulları ifade eder; kendiliğinden ortaya çıkan özellikleri tanımlayan bir kavram değildir.",
+        "Kalıtım, özelliklerin genetik yoldan aktarılma mekanizmasıdır; sıralı ve kendiliğinden ortaya çıkış sürecinin kendisini tanımlamaz.",
+        "Genotip, bireyin taşıdığı genlerin toplamıdır; gelişimsel ortaya çıkış sürecini değil genetik yapıyı ifade eder."
+      ]
+    },
+    {
+      "question": "Üreme esnasında anne ve babada bulunan özelliklerin genler yoluyla genç kuşağa aktarılması ne olarak tanımlanmaktadır?",
+      "options": [
+        "Çevre",
+        "Kalıtım",
+        "Genotip",
+        "Fenotip",
+        "Baskın gen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kalıtım, üreme sırasında anne ve babada bulunan özelliklerin genler aracılığıyla yeni kuşağa aktarılması sürecidir.",
+      "optionNotes": [
+        "Çevre, bireyi dıştan etkileyen fiziksel ve sosyal koşulları ifade eder; genetik aktarım sürecini tanımlamaz.",
+        "Doğru yanıt: Kalıtım, anne-baba özelliklerinin genler yoluyla yeni kuşağa aktarılmasıdır.",
+        "Genotip, bireyin taşıdığı genlerin toplamını (yapıyı) ifade eder; aktarım sürecinin kendisini değil bu sürecin sonucu olan yapıyı tanımlar.",
+        "Fenotip, genotip ve çevre etkileşiminin dışa yansıyan görünümüdür; aktarım sürecini değil sonucun görünür halini ifade eder.",
+        "Baskın gen, bir alelin baskınlık özelliğini ifade eder; genel aktarım sürecinin kendisini tanımlamaz."
+      ]
+    },
+    {
+      "question": "I. Yuvarlak kafatası II. Koyu göz rengi III. Esmer ten rengi IV. Kısa boy Yukarıda verilenlerden hangileri baskın gen özelliklerindendir?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yuvarlak kafatası, koyu göz rengi, esmer ten rengi ve kısa boy; insan genetiğinde klasik olarak baskın gen özellikleri arasında sayılan niteliklerdir, bu nedenle hepsi (I-II-III-IV) doğrudur.",
+      "optionNotes": [
+        "Sadece yuvarlak kafatasını seçmek, koyu göz rengi, esmer ten rengi ve kısa boyun da baskın özellikler arasında sayıldığını göz ardı eder.",
+        "Bu seçenekte esmer ten rengi ve kısa boyun da baskın gen özelliği olduğu göz ardı edilerek liste eksik bırakılmıştır.",
+        "Bu seçenekte kısa boyun da klasik olarak baskın özellikler arasında sayıldığı unutulmuş, liste bir madde eksik bırakılmıştır.",
+        "Bu seçenekte koyu göz rengi listeye dahil edilmemiştir; oysa koyu göz rengi de baskın gen özelliklerinden biridir.",
+        "Doğru yanıt: Yuvarlak kafatası, koyu göz rengi, esmer ten rengi ve kısa boyun tümü (I-II-III-IV) klasik olarak baskın gen özellikleri arasında kabul edilir."
+      ]
+    },
+    {
+      "question": "Canlıların taşıdığı baskın ve çekinik genlerin tümüne verilen ada ne denir?",
+      "options": [
+        "Kalıtım",
+        "Genotip",
+        "Fenotip",
+        "Homozigot",
+        "Heterozigot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genotip, bir canlının taşıdığı baskın ve çekinik tüm genlerin oluşturduğu genetik yapının tamamıdır.",
+      "optionNotes": [
+        "Kalıtım, özelliklerin genler yoluyla aktarılma sürecidir; genlerin toplamını (yapıyı) değil aktarım mekanizmasını ifade eder.",
+        "Doğru yanıt: Genotip, canlının taşıdığı baskın ve çekinik genlerin tümüne verilen addır.",
+        "Fenotip, genotip ile çevrenin etkileşimi sonucu ortaya çıkan dış görünüştür; genlerin kendisini değil görünür sonucu ifade eder.",
+        "Homozigot, bir bireyin belirli bir özellik için taşıdığı iki alelin birbirinin aynı olduğu genotip durumunu ifade eder; tüm genlerin toplamını değil özel bir alel kombinasyonunu tanımlar.",
+        "Heterozigot, bir bireyin belirli bir özellik için taşıdığı iki alelin farklı olduğu durumu ifade eder; genlerin tümünü kapsayan genel bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Genotipte bulunan ve çevrenin de etkisiyle canlının dış görünüşüne yansıyan özelliklere ne ad verilir?",
+      "options": [
+        "Kalıtım",
+        "Fenotip",
+        "Homozigot",
+        "Heterozigot",
+        "Çevre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fenotip, genotipte bulunan özelliklerin çevrenin de etkisiyle canlının dış görünüşüne (gözlenebilir özelliklerine) yansımasıdır.",
+      "optionNotes": [
+        "Kalıtım, özelliklerin genler yoluyla aktarılma sürecidir; dış görünüşün kendisini değil aktarım mekanizmasını ifade eder.",
+        "Doğru yanıt: Fenotip, genotipteki özelliklerin çevrenin etkisiyle dış görünüşe yansımasıdır.",
+        "Homozigot, iki alelin birbirinin aynı olduğu genotip durumunu ifade eder; dış görünüşü değil genetik yapıyı tanımlar.",
+        "Heterozigot, iki alelin farklı olduğu genotip durumunu ifade eder; dış görünüşü değil genetik yapıyı tanımlar.",
+        "Çevre, bireyi dıştan etkileyen koşulların genel adıdır; fenotipin oluşmasına katkı sağlayan bir etken olsa da fenotipin kendisi değildir."
+      ]
+    }
+  ]
+}

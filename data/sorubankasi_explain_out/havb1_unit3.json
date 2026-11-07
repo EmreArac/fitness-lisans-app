@@ -1,0 +1,520 @@
+{
+  "course": "havb1",
+  "unit_index": 3,
+  "topic": "Genel Antrenman Bilimi: Antrenman İlkeleri",
+  "questions": [
+    {
+      "question": "Çok yönlü gelişim ilkesi piramidinin en üstünde aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Yüksek Performans",
+        "Özel Antrenman",
+        "Çok yönlü gelişim",
+        "Özelleşme",
+        "Uyum etkisi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Çok yönlü gelişim ilkesi piramidi, sporcunun gelişim sürecini basamaklandırır: en altta çok yönlü gelişim (temel motor beceriler, çocukluk dönemi), ortada özelleşme/özel antrenman, en üstte ise yüksek performans yer alır. Bu piramit, sporcunun kariyeri boyunca genel bir temelden başlayıp branşa özgü üst düzey performansa ulaşmasını simgeler.",
+      "optionNotes": [
+        "Doğru yanıt: Piramidin tepe noktası, uzun yıllar süren çok yönlü ve özel antrenman sürecinin sonunda ulaşılan en üst performans düzeyini temsil eder; bu nedenle piramidin en üstünde yer alır.",
+        "Özel antrenman (branşa özgü antrenman), piramidin orta kademesinde yer alır; çok yönlü gelişimden sonra ancak yüksek performanstan önce gelir, piramidin tepesi değildir.",
+        "Çok yönlü gelişim, piramidin en alt ve en geniş tabanını oluşturur; çocukluk döneminde kazanılan temel motor beceri ve genel kondisyon altyapısıdır, tepe noktası olarak gösterilemez.",
+        "Özelleşme (branşlaşma), çok yönlü gelişim ile yüksek performans arasındaki geçiş/orta basamağı ifade eder, piramidin zirvesinde değildir.",
+        "Uyum etkisi, antrenman yüklenmesine karşı organizmanın fizyolojik tepkisini anlatan ayrı bir kavramdır; çok yönlü gelişim piramidinin basamaklarından biri değildir."
+      ]
+    },
+    {
+      "question": "Yüzme branşının spora başlama yaş aralığı aşağıdakilerden hangisidir?",
+      "options": [
+        "3 – 7",
+        "5 – 6",
+        "7 – 8",
+        "11 – 12",
+        "13 – 14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antrenman bilimi literatüründe her spor branşı için optimal spora başlama ve branşlaşma yaşları belirlenmiştir. Yüzmede erken yaşta su ile tanışmanın ve temel suda hareket becerilerinin kazanılmasının önemli olması nedeniyle spora başlama yaşı 3-7 aralığı olarak kabul edilir.",
+      "optionNotes": [
+        "Doğru yanıt: Yüzmede erken yaşta suya alışma ve temel hareket becerilerinin kazanılması önemli olduğundan branşa başlama yaşı 3-7 aralığı olarak kabul edilir.",
+        "5-6 yaş aralığı çok daha dar bir bant olup kaynak tablolarda yüzme için belirtilen başlangıç aralığıyla örtüşmez, farklı bir branşa ait değerle karıştırılmıştır.",
+        "7-8 yaş aralığı yüzmenin ileri gelişim dönemine daha yakın bir değer olup başlangıç yaşı olarak doğru değildir.",
+        "11-12 yaş aralığı, yüzme için çok geç bir başlangıç yaşıdır; bu aralık daha çok geç başlangıçlı branşların başlama dönemine karşılık gelir.",
+        "13-14 yaş aralığı yüzme için branşlaşma ya da üst düzey antrenmana geçiş dönemine denk gelebilecek kadar geç bir değerdir, başlangıç yaşı olarak doğru değildir."
+      ]
+    },
+    {
+      "question": "Elit bir sporcu, yılda kaç saate yakın antrenman yapmaktadır?",
+      "options": [
+        "500 saat",
+        "750 saat",
+        "1000 saat",
+        "1500 saat",
+        "2000 saat"
+      ],
+      "correctIndex": 4,
+      "explanation": "Literatürde elit sporcuların yıllık antrenman hacminin ortalama 2000 saate yaklaştığı belirtilir; bu rakam, çok yıllık ve yüksek hacimli antrenman sürecinin bir göstergesidir.",
+      "optionNotes": [
+        "500 saat, amatör ya da başlangıç seviyesindeki sporcuların yıllık antrenman hacmine yakın bir değerdir, elit seviyeyi yansıtmaz.",
+        "750 saat, orta düzey/gelişim aşamasındaki sporcuların antrenman yüküne karşılık gelebilir, elit sporcu hacmi için yetersizdir.",
+        "1000 saat, ulusal düzeyde yarışan ancak elit kategoriye henüz ulaşmamış sporcuların antrenman hacmine daha yakındır.",
+        "1500 saat, elit seviyeye yaklaşan ileri düzey sporcuların hacmine yakın olsa da literatürde elit sporcu için belirtilen tipik değer değildir.",
+        "Doğru yanıt: Elit sporcular yılda yaklaşık 2000 saate yakın antrenman yapmaktadır; bu yüksek hacim, çok yıllık sistematik antrenmanın ve üst düzey performansın temel koşullarından biridir."
+      ]
+    },
+    {
+      "question": "……………….….antrenmanların yarışma şartlarına uygun hâle getirilerek yapılmasıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Model antrenman ilkesi",
+        "Çeşitlilik İlkesi",
+        "Bireyselleştirme İlkesi",
+        "Özelleşme (Branşlaşma) İlkesi",
+        "Çok Yönlü Gelişim İlkesi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Model antrenman ilkesi, antrenmanların içerik, yoğunluk ve koşullar açısından yarışma (müsabaka) şartlarına benzer şekilde düzenlenmesini ifade eder; böylece sporcu müsabakada karşılaşacağı fiziksel ve psikolojik koşullara önceden adapte olur.",
+      "optionNotes": [
+        "Doğru yanıt: Model antrenman ilkesi, antrenmanların yarışma koşullarına benzer şekilde (yük, tempo, ortam vb.) düzenlenerek uygulanmasını ifade eder.",
+        "Çeşitlilik ilkesi, antrenman monotonluğunu azaltmak için farklı uyaran ve yöntemlerin kullanılmasıyla ilgilidir, yarışma şartlarına benzetmeyle ilgili değildir.",
+        "Bireyselleştirme ilkesi, antrenmanın sporcunun kişisel özelliklerine (yaş, cinsiyet, performans düzeyi) göre uyarlanmasını ifade eder, yarışma koşullarına uyumla ilgili değildir.",
+        "Özelleşme (branşlaşma) ilkesi, antrenmanın genel hazırlıktan branşa özgü çalışmalara yönelmesini ifade eder; yarışma koşullarına benzetmekten farklı bir kavramdır.",
+        "Çok yönlü gelişim ilkesi, sporcunun genel motor ve fiziksel kapasitesinin çok yönlü geliştirilmesini ifade eder; yarışmaya özgü koşullarla antrenman yapmayla doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "question": "Antrenman yöntemlerini yüklenme yoğunluğunu, sıklığını, süresini, kapsamını ve dinlenme aralıklarını içeren yüklenme türü aşağıdakilerden hangisidir?",
+      "options": [
+        "İç yüklenme",
+        "Dış yüklenme",
+        "Arka yüklenme",
+        "Ön yüklenme",
+        "Ters yüklenme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dış yüklenme (external load), antrenmanın objektif olarak ölçülebilen bileşenlerini -yöntem, yoğunluk, sıklık, süre, kapsam ve dinlenme aralıkları- kapsar; organizmanın bu yüke verdiği öznel/fizyolojik tepki ise iç yüklenme olarak adlandırılır.",
+      "optionNotes": [
+        "İç yüklenme, dış yüklenmenin organizma üzerinde yarattığı fizyolojik/biyokimyasal tepkiyi (nabız, laktat vb.) ifade eder; yöntem, yoğunluk, süre gibi dışsal planlama unsurlarını içermez.",
+        "Doğru yanıt: Dış yüklenme; antrenman yöntemi, yoğunluk, sıklık, süre, kapsam ve dinlenme aralıkları gibi objektif olarak planlanıp ölçülen yüklenme bileşenlerini kapsar.",
+        "\"Arka yüklenme\" antrenman bilimi literatüründe standart bir yüklenme türü kavramı değildir, bu soruda çeldirici olarak kullanılmıştır.",
+        "\"Ön yüklenme\" de iç/dış yüklenme ayrımına karşılık gelen tanınmış bir kavram değildir, çeldiricidir.",
+        "\"Ters yüklenme\" yüklenme yoğunluğu-kapsam-dinlenme bileşenlerini tanımlayan bir kavram değildir, çeldiricidir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi tam dinlenme aralığı gerektiren çalışmalardan biridir?",
+      "options": [
+        "Süratte devamlılık çalışması",
+        "Kuvvette devamlılık çalışması",
+        "Dikkat ve koordinasyon çalışmaları",
+        "Temel ve özel dayanıklılık",
+        "İradi güç gelişimi çalışmaları"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dikkat ve koordinasyon gerektiren çalışmalarda merkezi sinir sisteminin yorgunluğa karşı hassas olması nedeniyle, bir sonraki tekrara tam (complete) dinlenme ile geçilmesi gerekir; aksi halde hareketin kalitesi ve öğrenimi bozulur.",
+      "optionNotes": [
+        "Süratte devamlılık çalışmaları, kısmi dinlenme ile ardışık tekrarlar içerecek şekilde planlanabilir; amaç belirli bir yorgunluk birikimi altında hız sürekliliğini korumaktır.",
+        "Kuvvette devamlılık çalışmaları, kas yorgunluğunun kümülatif etkisini hedeflediğinden genellikle kısmi dinlenme aralıkları kullanılır, tam dinlenme şart değildir.",
+        "Doğru yanıt: Dikkat ve koordinasyon çalışmaları, sinir sisteminin yorgunluğa duyarlı olması nedeniyle hareket kalitesinin korunması için tam dinlenme aralığı gerektirir.",
+        "Temel ve özel dayanıklılık çalışmaları, tanım olarak dinlenme aralıklarının kısıtlı veya hiç olmadığı, sürekli yüklenmeye dayalı çalışmalardır.",
+        "İradi güç gelişimi çalışmaları, yüksek şiddetli tekrarlar arasında kısmi dinlenme ile de uygulanabilir; tam dinlenme koordinasyon çalışmalarındaki kadar zorunlu değildir."
+      ]
+    },
+    {
+      "question": "Ardışık bağlanmış sistem yaklaşımı olarak da tanımlanan yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Bağlantılı Sıralanan Yüklenme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bağlantılı sıralanan yüklenme, farklı antrenman bileşenlerinin birbirine ardışık olarak bağlandığı, bir evrenin kazanımlarının sonraki evreye sistematik olarak aktarıldığı bir yaklaşımdır; bu nedenle \"ardışık bağlanmış sistem yaklaşımı\" olarak da tanımlanır.",
+      "optionNotes": [
+        "Standart yüklenme, sabit ve değişmeyen bir yüklenme düzenini ifade eder; ardışık bağlanmış sistem mantığıyla ilgili değildir.",
+        "Doğrusal yüklenme, yükün aşamalı ve sürekli artışına dayanır; bileşenlerin ardışık biçimde birbirine bağlanması kavramını ifade etmez.",
+        "Basamaklı yüklenme, yüklenme ve boşaltma (deload) evrelerinin art arda gelmesiyle tanımlanır; \"ardışık bağlanmış sistem\" tanımı bu yaklaşıma ait değildir.",
+        "Odaklanmış yüklenme, kısa süreli aşırı yüklenmeyi ifade eden farklı bir yaklaşımdır, ardışık bağlanma tanımıyla örtüşmez.",
+        "Doğru yanıt: Bağlantılı sıralanan yüklenme, antrenman bileşenlerinin birbirine ardışık olarak bağlandığı bir sistem olduğundan \"ardışık bağlanmış sistem yaklaşımı\" olarak da adlandırılır."
+      ]
+    },
+    {
+      "question": "Antrenman yükünün sürekli artırılması ilkesi ile esneklik nasıl artar?",
+      "options": [
+        "Günden güne",
+        "Haftadan haftaya",
+        "Aydan aya",
+        "Ay – yıl süreci içerisinde",
+        "Artmaz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Esneklik, kuvvet ve dayanıklılığa kıyasla antrenman yüküne daha hızlı yanıt veren bir motor özelliktir; düzenli olarak uygulanan esneklik çalışmalarında gelişim günden güne gözlemlenebilir.",
+      "optionNotes": [
+        "Doğru yanıt: Esneklik, diğer motor özelliklere göre antrenman uyaranına daha hızlı yanıt verir ve düzenli çalışmayla günden güne gelişim gösterebilir.",
+        "Haftadan haftaya gelişim ifadesi, esnekliğin gerçek gelişim hızını yavaş göstererek, kuvvet veya dayanıklılık gibi daha yavaş gelişen özelliklerle karıştırır.",
+        "Aydan aya gelişim ifadesi esneklik için çok yavaş bir zaman dilimidir; bu, esnekliğin hızlı adaptasyon özelliğini göz ardı eder.",
+        "Ay-yıl süreci ifadesi, kas kütlesi veya maksimal kuvvet gibi uzun adaptasyon süreci gerektiren özelliklere daha uygun bir zaman dilimidir, esneklik için doğru değildir.",
+        "\"Artmaz\" ifadesi yanlıştır; esneklik, düzenli ve sistematik antrenmanla gelişebilen bir motor özelliktir."
+      ]
+    },
+    {
+      "question": "Kısa süreli aşırı yüklenme olarak tanımlanan yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Odaklanmış yüklenme, belirli bir motor-biyomotor özelliğe kısa bir süre içinde yoğun ve aşırı (overload) bir uyaran verilmesini esas alan bir yaklaşımdır; bu nedenle \"kısa süreli aşırı yüklenme\" olarak tanımlanır ve genellikle üst düzey sporcularda kullanılır.",
+      "optionNotes": [
+        "Standart yüklenme, sabit/değişmeyen bir yük düzenine dayanır, kısa süreli aşırı yüklenme tanımına karşılık gelmez.",
+        "Doğrusal yüklenme, yükün zaman içinde aşamalı ve sürekli olarak artırılmasına dayanır; kısa süreli yoğun bir aşırı yüklenme değildir.",
+        "Basamaklı yüklenme, yüklenme ve boşaltma evrelerinin sıralı biçimde tekrarlanmasını ifade eder; kısa süreli tek seferlik aşırı yüklenme ile karıştırılmamalıdır.",
+        "Doğru yanıt: Odaklanmış yüklenme, kısa süreli ve yoğun bir aşırı yüklenme uygulamasıdır; genellikle üst düzey sporcularda belirli bir özelliği hedeflemek için kullanılır.",
+        "\"Düz yüklenme\" olarak adlandırılan kavram, yükün sabit bir düzlemde tutulduğu bir yaklaşımı çağrıştırır, kısa süreli aşırı yüklenme tanımına uymaz."
+      ]
+    },
+    {
+      "question": "Kasların kuvvet, dayanıklılık ve hipertrofisinin sadece kasa verilen zaman periyodu içerisinde, maksimal kuvvetini ve dayanıklılık kapasitesini yüke karşı kullanarak geliştirmeyi hedefleyen prensibe ne ad verilir?",
+      "options": [
+        "Yüklenme",
+        "Güç",
+        "Overload",
+        "Parobeller",
+        "Adaptasyon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Overload (aşırı yüklenme) prensibi, kasın mevcut kapasitesinin üzerinde bir yükle karşı karşıya bırakılmasını ve bu sayede belirli bir zaman periyodunda kuvvet, dayanıklılık ve hipertrofi gelişiminin sağlanmasını ifade eder. Antrenman biliminin temel prensiplerinden biridir.",
+      "optionNotes": [
+        "Yüklenme, antrenmanda uygulanan uyaranın genel adıdır; ancak \"kasın maksimal kapasitesinin üzerinde kullanılması\" şeklindeki özel tanım, overload prensibine aittir.",
+        "Güç, kuvvet ve hız bileşenlerinin bir ürünü olan bir motor özelliktir; burada tanımlanan aşırı yük prensibini ifade etmez.",
+        "Doğru yanıt: Overload (aşırı yüklenme) prensibi, kasın maksimal kuvvet ve dayanıklılık kapasitesini belirli bir zaman periyodunda yüke karşı kullanarak geliştirmesini hedefler.",
+        "\"Parobeller\" antrenman bilimi literatüründe tanınan bir terim/prensip değildir, çeldirici olarak eklenmiştir.",
+        "Adaptasyon, organizmanın tekrarlayan uyaranlara karşı genel uyum sürecini ifade eden daha geniş bir kavramdır; burada tanımlanan spesifik aşırı yükleme prensibinden farklıdır."
+      ]
+    },
+    {
+      "question": "Bir antrenmandaki yüklenme ve dinlenme safhaları arasındaki zamansal ilişkiye ne ad verilir?",
+      "options": [
+        "Yüklenmenin Şiddeti",
+        "Yüklenmenin Süresi",
+        "Yüklenmenin Kapsamı",
+        "Yüklenmenin Tarihi",
+        "Yüklenmenin Sıklığı"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yüklenmenin sıklığı, belirli bir zaman dilimi içinde uygulanan yüklenme ve dinlenme evrelerinin birbirini takip etme düzenini, yani bu iki safha arasındaki zamansal ilişkiyi ifade eder.",
+      "optionNotes": [
+        "Yüklenmenin şiddeti, belirli bir zaman biriminde yapılan işin yoğunluk derecesini ifade eder, yüklenme-dinlenme zamanlama ilişkisini tanımlamaz.",
+        "Yüklenmenin süresi, bir uyaranın veya antrenmanın ne kadar zaman sürdüğünü ifade eder, yüklenme ile dinlenme arasındaki ilişkiyi değil tek bir evrenin uzunluğunu anlatır.",
+        "Yüklenmenin kapsamı, yapılan çalışmanın toplam miktarını (tekrar, mesafe, süre) ifade eder, zamansal ilişkiyle ilgili değildir.",
+        "\"Yüklenmenin tarihi\" antrenman bilimi literatüründe tanımlı bir yüklenme bileşeni değildir, çeldiricidir.",
+        "Doğru yanıt: Yüklenmenin sıklığı, yüklenme ve dinlenme safhalarının birbirini ne sıklıkla takip ettiğini, dolayısıyla bu iki safha arasındaki zamansal ilişkiyi ifade eder."
+      ]
+    },
+    {
+      "question": "Siff ve Verkhoshansky odaklanmış yüklenme evresinin kesilmesinden…….hafta sonra verim düzeyinde artış sağlandığını belirtmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1 – 3",
+        "3 – 7",
+        "3 – 10",
+        "4 – 8",
+        "4 – 12"
+      ],
+      "correctIndex": 4,
+      "explanation": "Siff ve Verkhoshansky'nin çalışmalarına göre, odaklanmış (yoğun) yüklenme evresi sona erdirildikten sonra organizmada gecikmeli bir süper-kompanzasyon etkisi oluşur ve performans artışı genellikle 4-12 hafta sonrasında gözlenir.",
+      "optionNotes": [
+        "1-3 hafta, gecikmeli antrenman etkisinin (delayed training effect) ortaya çıkması için literatürde belirtilen süreden çok daha kısadır.",
+        "3-7 hafta aralığı, Siff ve Verkhoshansky'nin belirttiği aralığın alt sınırına yakın olsa da üst sınırı kapsamadığından tam doğru aralık değildir.",
+        "3-10 hafta aralığı kaynakta belirtilen 4-12 haftalık aralıkla kısmen örtüşse de başlangıç ve bitiş değerleri farklı olduğundan doğru seçenek değildir.",
+        "4-8 hafta aralığı, doğru aralığın alt kısmına yakın olsa da üst sınırı (12 hafta) kapsamadığı için eksik bir yanıttır.",
+        "Doğru yanıt: Siff ve Verkhoshansky, odaklanmış yüklenme evresi kesildikten 4-12 hafta sonra gecikmeli bir performans artışı (süper kompanzasyon) sağlandığını belirtmektedir."
+      ]
+    },
+    {
+      "question": "I. Spor yapma amaçları ve kapsamı II. Antrenmandan beklentiler III. Zararlı alışkanlıkların önlenmesi IV. Toparlanma süreçleri Yukarıdakilerden hangileri Antrenmana bilinçli ve aktif katılımda rol alan ilkeler arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenmana bilinçli ve aktif katılım ilkesi, sporcunun spor yapma amaç ve kapsamını bilmesini, antrenmandan ne beklediğini anlamasını, zararlı alışkanlıklardan (sigara, alkol vb.) kaçınmasını ve toparlanma (recovery) süreçlerine özen göstermesini kapsar; bu nedenle verilen dört madde de bu ilkenin kapsamına girer.",
+      "optionNotes": [
+        "Yalnız I seçeneği, antrenmandan beklentiler, zararlı alışkanlıklardan korunma ve toparlanma gibi diğer önemli bileşenleri dışarıda bırakarak kapsamı eksik tanımlar.",
+        "Yalnız II seçeneği, spor yapma amaçları, zararlı alışkanlıklar ve toparlanma gibi bilinçli katılımın diğer temel unsurlarını göz ardı eder.",
+        "I-II seçeneği, zararlı alışkanlıkların önlenmesi ve toparlanma süreçlerini kapsam dışı bırakarak ilkenin tüm boyutlarını yansıtmaz.",
+        "I-II-III seçeneği, toparlanma süreçlerini dışarıda bırakır; oysa toparlanma da bilinçli ve aktif katılımın önemli bir bileşenidir.",
+        "Doğru yanıt: Antrenmana bilinçli ve aktif katılım ilkesi; spor yapma amaç ve kapsamı, antrenmandan beklentiler, zararlı alışkanlıkların önlenmesi ve toparlanma süreçlerinin tümünü kapsar."
+      ]
+    },
+    {
+      "question": "Çok yönlü gelişim ilkesi piramidinin temelinde yer alan çocukluk evresinin karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        "Yüksek Performans",
+        "Sistemlilik",
+        "Özel Antrenman",
+        "Çok yönlü gelişim",
+        "Periyotlama"
+      ],
+      "correctIndex": 3,
+      "explanation": "Piramidin en altında, çocukluk döneminde kazanılan genel motor beceriler ve temel fiziksel kapasiteyi ifade eden \"çok yönlü gelişim\" evresi yer alır; bu temel üzerine daha sonra özelleşme ve yüksek performans basamakları inşa edilir.",
+      "optionNotes": [
+        "Yüksek performans, piramidin tepe noktasında yer alan, uzun yıllar sonra ulaşılan en üst düzey performans aşamasıdır, çocukluk evresi değildir.",
+        "Sistemlilik, antrenmanın düzenli ve planlı olması gereken genel bir ilkeyi ifade eder, piramidin çocukluk/temel basamağını tanımlamaz.",
+        "Özel antrenman, çocukluktan sonra gelen, branşa özgü becerilerin geliştirildiği orta basamağı ifade eder, piramidin temeli değildir.",
+        "Doğru yanıt: Piramidin temelinde, çocukluk döneminde kazanılan genel motor beceri ve kondisyon altyapısını ifade eden \"çok yönlü gelişim\" evresi bulunur.",
+        "Periyotlama, antrenman planlamasının zaman içinde evrelere bölünmesini ifade eden ayrı bir kavramdır, piramidin çocukluk basamağıyla ilgili değildir."
+      ]
+    },
+    {
+      "question": "Atletizm sporunun branşlaşma yaş aralığı aşağıdakilerden hangisidir?",
+      "options": [
+        "3 – 7",
+        "5 – 6",
+        "7 – 8",
+        "11 – 12",
+        "13 – 14"
+      ],
+      "correctIndex": 4,
+      "explanation": "Atletizmde temel motor becerilerin kazanılması daha erken yaşlarda başlasa da, branşa özgü (sprint, atlama, atma vb.) özelleşme süreci genellikle ergenlik dönemine denk gelen 13-14 yaş aralığında gerçekleşir.",
+      "optionNotes": [
+        "3-7 yaş aralığı, atletizm için branşlaşma değil, genel motor gelişim ve spora başlama öncesi dönemdir.",
+        "5-6 yaş aralığı, atletizmde branşa özgü teknik ve fiziksel özelleşmenin başladığı dönem için çok erken bir değerdir.",
+        "7-8 yaş aralığı, atletizm için genel spora başlama dönemine yakın olabilir, ancak branşlaşma yaşı değildir.",
+        "11-12 yaş aralığı, branşlaşma dönemine yaklaşmakla birlikte literatürde atletizm için belirtilen asıl branşlaşma aralığının biraz altındadır.",
+        "Doğru yanıt: Atletizmde branşa özgü özelleşme süreci, genellikle 13-14 yaş aralığında, ergenlik dönemiyle birlikte gerçekleşir."
+      ]
+    },
+    {
+      "question": "Sporcunun hayat tarzı, okul, iş ve evinin antrenman yerine olan mesafesi gibi faktörler hangi efor kapasitesine bağlıdır?",
+      "options": [
+        "Antrenmana olan uyum",
+        "Sporcunun vücut yapısı ve kişiliği",
+        "Antrenman yükü ve sporcunun toparlanma hızı",
+        "Antrenman ve sağlık durumu",
+        "Antrenman altyapısı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sporcunun günlük yaşam koşulları (okul, iş, ulaşım mesafesi gibi dış faktörler), uygulanan antrenman yüküne ne kadar iyi toparlanabileceğini etkiler; bu nedenle bu tür yaşam tarzı faktörleri, antrenman yükü ve toparlanma hızı ile ilişkili efor kapasitesine bağlıdır.",
+      "optionNotes": [
+        "Antrenmana olan uyum, organizmanın biyolojik adaptasyon sürecini ifade eder; günlük yaşam koşullarının doğrudan belirleyicisi değildir.",
+        "Sporcunun vücut yapısı ve kişiliği, bireysel morfolojik ve psikolojik özellikleri ifade eder; okul-iş-ulaşım gibi dışsal yaşam koşullarıyla ilgili değildir.",
+        "Doğru yanıt: Yaşam tarzı, okul/iş yükü ve antrenman mesafesi gibi faktörler, sporcunun uygulanan antrenman yüküne ne kadar toparlanabileceğini belirleyen efor kapasitesiyle ilişkilidir.",
+        "Antrenman ve sağlık durumu, sporcunun fiziksel/tıbbi durumunu ifade eder; günlük yaşam koşullarından kaynaklanan yük faktörlerini kapsamaz.",
+        "Antrenman altyapısı, tesis ve ekipman gibi fiziksel kaynakları ifade eder; sporcunun kişisel yaşam koşullarıyla ilgili bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Yüklenme, nicelik ve nitelik bakımından kaç ana ögeden oluşmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antrenman biliminde yüklenme; şiddet, kapsam, sıklık ve süre olmak üzere nicelik ve nitelik açısından dört ana ögeden oluşur.",
+      "optionNotes": [
+        "\"2\" ögesi, yüklenmenin tüm bileşenlerini (şiddet, kapsam, sıklık, süre) kapsamayacak kadar eksik bir sayıdır.",
+        "\"3\" ögesi de yüklenmenin dört temel bileşeninden birini dışarıda bırakan eksik bir sayıdır.",
+        "Doğru yanıt: Yüklenme; şiddet, kapsam, sıklık ve süre olmak üzere nicelik ve nitelik bakımından dört ana ögeden oluşur.",
+        "\"5\" ögesi, yüklenmenin literatürde tanımlanan dört temel bileşeninden fazla bir sayı önerir, gerçek sayıyı yansıtmaz.",
+        "\"6\" ögesi de yüklenmenin dört bileşenli yapısını aşan, gerçek değerle örtüşmeyen bir sayıdır."
+      ]
+    },
+    {
+      "question": "Aşamalı artan yüklenimlerden sonra, az yüklenmeli (yükselmesiz boşaltma) bir evrenin geldiği, geleneksel ya da klasik antrenman dönemlemesi olarak tanımlanan yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Basamaklı yüklenme, aşamalı olarak artan yük evrelerinin ardından düşük yüklenmeli bir boşaltma (deload) evresinin geldiği, klasik/geleneksel periyotlama yaklaşımıdır.",
+      "optionNotes": [
+        "Standart yüklenme, sabit bir yük düzenini ifade eder, aşamalı artış ve ardından boşaltma evresi döngüsünü tanımlamaz.",
+        "Doğrusal yüklenme, yükün sürekli ve kesintisiz olarak artırılmasına dayanır; aradaki boşaltma evresini esas alan basamaklı yaklaşımdan farklıdır.",
+        "Doğru yanıt: Basamaklı yüklenme, aşamalı artan yük evrelerini bir boşaltma (az yüklenmeli) evresiyle takip eden klasik/geleneksel antrenman dönemlemesidir.",
+        "Odaklanmış yüklenme, kısa süreli yoğun aşırı yüklenmeyi ifade eder, klasik dönemleme ve boşaltma evresi mantığıyla tanımlanmaz.",
+        "\"Düz yüklenme\" sabit bir yük seviyesini çağrıştırır, aşamalı artış-boşaltma döngüsünü ifade eden basamaklı yaklaşımla karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi yüklenme yaklaşımlarından biri değildir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Ters Yüklenme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenman biliminde tanımlanan yüklenme yaklaşımları arasında standart, doğrusal, basamaklı ve odaklanmış yüklenme yer alır; \"ters yüklenme\" bu literatürde tanımlı bir yaklaşım değildir.",
+      "optionNotes": [
+        "Standart yüklenme, literatürde tanımlı ve kabul edilen bir yüklenme yaklaşımıdır, bu nedenle doğru cevap olamaz.",
+        "Doğrusal yüklenme de antrenman biliminde tanınan, yükün aşamalı artışına dayanan bir yaklaşımdır.",
+        "Basamaklı yüklenme de literatürde tanımlı, yüklenme-boşaltma döngüsüne dayanan bilinen bir yaklaşımdır.",
+        "Odaklanmış yüklenme de kısa süreli aşırı yüklenmeyi ifade eden, literatürde yer alan bilinen bir yaklaşımdır.",
+        "Doğru yanıt: \"Ters yüklenme\", antrenman bilimi literatüründe tanımlanan standart yüklenme yaklaşımları arasında yer almaz; bu seçenek çeldirici olarak eklenmiştir."
+      ]
+    },
+    {
+      "question": "Antrenmanın hazırlık döneminde yapılan yüklenmelerin çeşitliliğini ve sıklığını içeren yüklenme yaklaşımına ne ad verilir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standart yüklenme, özellikle hazırlık döneminde uygulanan, çeşitli yüklenme biçimlerinin belirli bir sıklıkla ve düzenli şekilde tekrarlandığı bir yaklaşımdır.",
+      "optionNotes": [
+        "Doğru yanıt: Standart yüklenme, hazırlık döneminde yüklenmelerin çeşitliliğini ve düzenli sıklığını esas alan bir yaklaşımı ifade eder.",
+        "Doğrusal yüklenme, yükün zamanla sürekli ve aşamalı olarak artırılmasını ifade eder; hazırlık dönemindeki çeşitlilik ve sıklık tanımıyla örtüşmez.",
+        "Basamaklı yüklenme, yüklenme ve boşaltma evrelerinin ardışık biçimde tekrarlanmasını ifade eder, hazırlık dönemi çeşitliliği tanımından farklıdır.",
+        "Odaklanmış yüklenme, kısa süreli yoğun aşırı yüklenmeyi ifade eder, hazırlık döneminin genel çeşitlilik ve sıklık yapısıyla ilgili değildir.",
+        "\"Düz yüklenme\" sabit, değişmeyen bir yük seviyesini çağrıştırır; hazırlık dönemindeki çeşitlilik vurgusuyla çelişir."
+      ]
+    },
+    {
+      "question": "Sportif verimin gelişiminin, sadece sporcuların maksimal çalışma düzeylerinin üzerindeki aşamalı artan yüklenmelerle gerçekleştirilebileceğini öne süren yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doğrusal yüklenme yaklaşımı, performans gelişiminin ancak sporcunun mevcut maksimal çalışma düzeyinin üzerinde, sürekli ve aşamalı olarak artırılan yüklenmelerle sağlanabileceğini öne sürer.",
+      "optionNotes": [
+        "Standart yüklenme, sabit ve değişmeyen bir yük düzenine dayanır; sürekli aşamalı artışı öne süren doğrusal yaklaşımdan farklıdır.",
+        "Doğru yanıt: Doğrusal yüklenme, sportif verimin ancak maksimal çalışma düzeyinin üzerinde, aşamalı ve sürekli artan yüklenmelerle geliştirilebileceğini öne sürer.",
+        "Basamaklı yüklenme, artan yük evrelerini bir boşaltma evresiyle kesintiye uğratır; \"sürekli aşamalı artış\" vurgusunu taşıyan doğrusal yaklaşımdan farklıdır.",
+        "Odaklanmış yüklenme, kısa süreli yoğun bir aşırı yüklenmeyi ifade eder, sürekli/aşamalı artan bir süreçten değil kısa vadeli yoğun bir uyarandan bahseder.",
+        "\"Düz yüklenme\" sabit bir yük seviyesini çağrıştırır, sürekli artan yüklenme fikriyle çelişir."
+      ]
+    },
+    {
+      "question": "Yapılan çalışmaların süre, mesafe ve yapılan tekrarlar olarak ifade edilmesi kavramına ne ad verilir?",
+      "options": [
+        "Yüklenmenin Şiddeti",
+        "Yüklenmenin Süresi",
+        "Yüklenmenin Kapsamı",
+        "Yüklenmenin Tarihi",
+        "Yüklenmenin Sıklığı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yüklenmenin kapsamı, bir antrenmanda ya da antrenman biriminde yapılan işin toplam miktarını; süre, mesafe ve tekrar sayısı gibi nicel göstergelerle ifade eder.",
+      "optionNotes": [
+        "Yüklenmenin şiddeti, yapılan işin zorluk/yoğunluk derecesini ifade eder; süre, mesafe, tekrar gibi nicel miktar göstergelerini değil işin niteliğini anlatır.",
+        "Yüklenmenin süresi, bir uyaranın veya çalışmanın zaman boyutunu ifade eder; mesafe ve tekrar sayısını da kapsayan daha geniş \"kapsam\" kavramından farklıdır.",
+        "Doğru yanıt: Yüklenmenin kapsamı, yapılan çalışmaların süre, mesafe ve tekrar sayısı gibi nicel göstergelerle ifade edilmesini tanımlar.",
+        "\"Yüklenmenin tarihi\" antrenman bilimi literatüründe tanımlı bir bileşen değildir, çeldiricidir.",
+        "Yüklenmenin sıklığı, yüklenme-dinlenme evrelerinin tekrarlanma oranını ifade eder; süre-mesafe-tekrar gibi miktar göstergeleriyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "4-6 saat süren antrenmanlarda kısa aralıklarla birbirini takip eden rutin çalışmaları yapan bir cimnastik sporcusu ülke çapında bir sporcu olmak için yılda yaklaşık olarak kaç saat çalışması gerekmektedir?",
+      "options": [
+        "500",
+        "800",
+        "1000",
+        "1200",
+        "1400"
+      ],
+      "correctIndex": 1,
+      "explanation": "Literatürde, cimnastik gibi günlük antrenman süresi 4-6 saat olan ve kısa aralıklarla ardışık çalışmalar yapan branşlarda, ulusal (ülke çapında) düzeyde bir sporcunun yıllık antrenman hacminin yaklaşık 800 saate ulaşması gerektiği belirtilir.",
+      "optionNotes": [
+        "500 saat, verilen örnek için belirtilen hacmin altında kalan, daha düşük düzeydeki (bölgesel/amatör) bir sporcuya karşılık gelebilecek bir değerdir.",
+        "Doğru yanıt: Günde 4-6 saat süren, kısa aralıklı ardışık rutin çalışmalar yapan bir cimnastikçinin ülke çapında bir sporcu olabilmesi için yılda yaklaşık 800 saat çalışması gerekmektedir.",
+        "1000 saat, bu örnekte belirtilen ulusal düzey hedefinden daha yüksek bir hacme işaret eder, verilen senaryo için fazla bir değerdir.",
+        "1200 saat, ulusal düzeyin üzerinde, daha ileri (elit'e yaklaşan) bir antrenman hacmini ifade eder.",
+        "1400 saat, elit sporcu hacmine yaklaşan çok yüksek bir değerdir, ülke çapında sporcu hedefi için belirtilen hacmi aşar."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi antrenmanlarda gözlenen en yaygın hatalardan biri değildir?",
+      "options": [
+        "Aşırı antrenman",
+        "Antrenman azlığı",
+        "Antrenman sıklığı",
+        "Antrenman programının sporcuyla paylaşılması",
+        "Zirve antrenmanından müsabakaya geçişte yaşanan başarısızlık"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antrenman programının sporcuyla paylaşılması, aksine istenen ve doğru bir uygulamadır; sporcunun bilinçli katılımını artırır. Aşırı antrenman, antrenman azlığı, antrenman sıklığındaki hatalar ve zirveden müsabakaya geçişteki başarısızlık ise literatürde sık karşılaşılan antrenman hataları arasında sayılır.",
+      "optionNotes": [
+        "Aşırı antrenman (overtraining), sporcularda sık görülen, performans düşüşüne ve sakatlığa yol açabilen bilinen bir antrenman hatasıdır.",
+        "Antrenman azlığı (yetersiz yüklenme), istenen gelişimin sağlanamamasına neden olan, literatürde yaygın olarak belirtilen bir hatadır.",
+        "Antrenman sıklığındaki hatalar (çok fazla veya çok az sıklık), toparlanma ve adaptasyon süreçlerini bozan bilinen bir yanlış uygulamadır.",
+        "Doğru yanıt: Antrenman programının sporcuyla paylaşılması bir hata değil, sporcunun bilinçli ve aktif katılımını sağlayan, önerilen doğru bir uygulamadır.",
+        "Zirve antrenmanından müsabakaya geçişte yaşanan başarısızlık (taper/peaking hatası), sporcunun en iyi formunu müsabaka gününe taşıyamaması anlamına gelen, sık rastlanan bilinen bir hatadır."
+      ]
+    },
+    {
+      "question": "Organizmadaki fizyolojik, biyokimyasal karakterine, kuvvetine ve psikolojik uyum derecesine göre………………olarak tanımlanmaktadır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Dış yüklenme",
+        "Arka yüklenme",
+        "Ön yüklenme",
+        "Ters yüklenme",
+        "İç yüklenme"
+      ],
+      "correctIndex": 4,
+      "explanation": "İç yüklenme, dış yüklenmenin (antrenman uyaranının) organizma üzerinde yarattığı fizyolojik, biyokimyasal ve psikolojik uyum tepkisini ifade eder; bu nedenle organizmanın bu karakteristiklerine göre tanımlanır.",
+      "optionNotes": [
+        "Dış yüklenme, antrenmanın objektif olarak planlanan yöntem, yoğunluk, süre gibi bileşenlerini ifade eder; organizmanın içsel fizyolojik tepkisini değil, uygulanan uyaranın kendisini tanımlar.",
+        "\"Arka yüklenme\" antrenman bilimi literatüründe tanımlı bir kavram değildir, çeldiricidir.",
+        "\"Ön yüklenme\" de organizmanın fizyolojik/psikolojik uyum tepkisini tanımlayan bilinen bir terim değildir, çeldiricidir.",
+        "\"Ters yüklenme\" da bu tanıma karşılık gelen bilinen bir kavram değildir, çeldiricidir.",
+        "Doğru yanıt: İç yüklenme, organizmanın dış yüke karşı gösterdiği fizyolojik, biyokimyasal ve psikolojik uyum derecesine göre tanımlanır."
+      ]
+    },
+    {
+      "question": "Yüklenme şiddetiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Bir uyarım seviyesinde zaman birimi içerisindeki işle tanımlanır",
+        "Birçok spor dalında uyaranın şiddeti sayısal değerler olarak ifade edilir",
+        "Şiddet ifadesinden kasıt, yapılan işin toplam olarak ne olduğu yerine yapılan işin zorluğunun ön plana çıkmasıdır",
+        "Antrenman bütünlüğü içerisinde, antrenman şiddeti ile antrenman kapsamının bir bağlılık içerisinde olması gerekir",
+        "Şiddetle kapsam arasında doğru orantılı gelişim ilişkisi vardır"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenman biliminde yüklenme şiddeti ile yüklenme kapsamı arasında ters orantılı bir ilişki vardır; şiddet arttıkça kapsam azalır, kapsam arttıkça şiddet genellikle düşer. Bu nedenle \"şiddetle kapsam arasında doğru orantılı bir gelişim ilişkisi vardır\" ifadesi yanlıştır ve soru bu yanlış ifadeyi sormaktadır.",
+      "optionNotes": [
+        "Bu ifade doğrudur: yüklenme şiddeti, belirli bir zaman birimi içinde yapılan işle (birim zamandaki uyarım düzeyiyle) tanımlanır; bu nedenle \"yanlış\" ifade olarak seçilemez.",
+        "Bu ifade de doğrudur: birçok spor dalında şiddet, hız, ağırlık, nabız gibi sayısal değerlerle ifade edilebilir; dolayısıyla soruda aranan yanlış ifade değildir.",
+        "Bu ifade doğrudur: şiddet, yapılan işin toplam miktarından çok, o işin ne kadar zor/yoğun yapıldığını ifade eder; bu nedenle yanlış ifade olarak seçilemez.",
+        "Bu ifade doğrudur: antrenman planlamasında şiddet ile kapsamın birbirine bağlı ve dengeli şekilde ayarlanması gerekir; bu nedenle yanlış ifade değildir.",
+        "Doğru yanıt: Şiddet ile kapsam arasındaki ilişki doğru orantılı değil, ters orantılıdır; şiddet arttıkça kapsam azalır. Bu nedenle bu ifade yanlıştır ve soruda aranan cevap budur."
+      ]
+    },
+    {
+      "question": "Sadece üst düzey sporcular tarafından uygulanması önerilen yüklenme yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Standart Yüklenme",
+        "Doğrusal Yüklenme",
+        "Basamaklı Yüklenme",
+        "Odaklanmış Yüklenme",
+        "Düz Yüklenme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Düz yüklenme, yükün belirli bir süre boyunca sabit ve yüksek bir düzeyde tutulmasına dayanan bir yaklaşımdır. Bu tür sabit ve yoğun yüklenmeyi tolere edebilmek yüksek antrenman geçmişi ve gelişmiş toparlanma kapasitesi gerektirdiğinden, bu yaklaşımın sadece üst düzey (elit) sporcular tarafından uygulanması önerilir.",
+      "optionNotes": [
+        "Standart yüklenme, hazırlık döneminde çeşitlilik ve sıklığa dayanan, her seviyeden sporcuda uygulanabilen genel bir yaklaşımdır; sadece üst düzey sporculara özgü değildir.",
+        "Doğrusal yüklenme, yükün aşamalı olarak artırıldığı, başlangıç ve gelişim seviyesindeki sporcularda da yaygın kullanılan bir yaklaşımdır.",
+        "Basamaklı yüklenme, yüklenme-boşaltma döngüsüne dayanan ve farklı seviyelerdeki sporcularda uygulanabilen klasik bir dönemleme yaklaşımıdır.",
+        "Odaklanmış yüklenme kısa süreli yoğun bir aşırı yüklenmeyi ifade etse de, bu soruda \"sadece üst düzey sporcular için önerilen\" yaklaşım olarak tanımlanan seçenek düz yüklenmedir, odaklanmış yüklenme değildir.",
+        "Doğru yanıt: Düz yüklenme, sabit ve yüksek düzeyde sürdürülen bir yük gerektirdiğinden, bu yükü tolere edebilecek gelişmiş toparlanma kapasitesine sahip sadece üst düzey sporcularda uygulanması önerilir."
+      ]
+    }
+  ]
+}

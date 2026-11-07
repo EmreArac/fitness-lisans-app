@@ -1,0 +1,326 @@
+{
+  "course": "psiko1",
+  "unit_index": 5,
+  "topic": "Sporda Koruma",
+  "questions": [
+    {
+      "question": "Beden Eğitimi ve Spor Uluslararası Şartını yayınlayan kuruluş aşağıdakilerden hangisidir?",
+      "options": [
+        "UNESCO",
+        "UNİCEF",
+        "IOC",
+        "WHO",
+        "İMF"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "UNESCO, Beden Eğitimi ve Spor Uluslararası Şartını kaç yılında yayınlamıştır?",
+      "options": [
+        "1958",
+        "1968",
+        "1978",
+        "1988",
+        "1998"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "BM Çocuk Hakları Sözleşmesinin 1. maddesine göre kaç yaşına kadar her insan çocuk sayılır?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişim yoluyla bireyin kendisi, başkaları ve çevre ile ilişkili olarak kendine özgü potansiyelini geliştirmesi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Çocuk esenliği",
+        "Çocuk koruma",
+        "Çocuk",
+        "Çocuk istismarı",
+        "Güvenli spor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Çocuğun yaşama, gelişme, korunma ve katılım haklarının güvence altına alınarak, çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişiminde çocuğun yarar ve esenliğinin gözetilmesi anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Çocuk esenliği",
+        "Çocuk koruma",
+        "Çocuk",
+        "Çocuk istismarı",
+        "Güvenli spor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Çocuk koruma kavramını; çocuklara yapılan her türlü şiddet, istismar, ihmal, sömürü ve taciz olaylarını engelleme ve bu olaylara kısa sürede yanıt verip müdahale etme olarak tanımlayan kuruluş aşağıdakilerden hangisidir?",
+      "options": [
+        "UNESCO",
+        "UNİCEF",
+        "IOC",
+        "WHO",
+        "İMF"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "……………..dünyanın öncü çocuk hakları savunucusudur. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": [
+        "UNESCO",
+        "IOC",
+        "WHO",
+        "İMF",
+        "UNİCEF"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Avrupa Konseyi devlet ve hükümet başkanları tarafından Varşova’daki 3. Zirve Toplantısı kaç yılında yapılmıştır?",
+      "options": [
+        "1994",
+        "2000",
+        "2005",
+        "2009",
+        "2015"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Lanzarote Sözleşmesi” olarak da bilinen Çocukların Cinsel Sömürü ve Cinsel İstismara Karşı Korunmasına ilişkin Avrupa Konseyi Sözleşmesi kaç yılında yürürlüğe girmiştir?",
+      "options": [
+        "2007",
+        "2010",
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Türkiye’de “Lanzarote Sözleşmesi” kaç yılında yürürlüğe girmiştir?",
+      "options": [
+        "2005",
+        "2008",
+        "2011",
+        "2014",
+        "2017"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Lanzarote Sözleşmesi’nin kaçıncı maddesinde “Taraflardan her birinin çocukların her tür cinsel sömürüsünü ve istismarını engellemek ve çocukları korumak için gerekli yasal ve diğer önlemleri alacağını” ortaya koymaktadır?",
+      "options": [
+        "2.",
+        "4.",
+        "6.",
+        "8.",
+        "10."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sporda Genişletilmiş Kısmi Anlaşma (EPAS) hangi kuruluş tarafından imzalanmıştır?",
+      "options": [
+        "Birleşmiş Milletler",
+        "Avrupa Birliği",
+        "Avrupa Konseyi",
+        "UNESCO",
+        "UNİCEF"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Türkiye, Sporda Genişletilmiş Kısmi Anlaşma (EPAS)’A kaç yılında katılmıştır?",
+      "options": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Türkiye, Birleşmiş Milletler Genel Kurulu tarafından çıkarılan Çocuk Haklarına Dair Sözleşmeyi kaç yılında imzalamıştır?",
+      "options": [
+        "1990",
+        "1992",
+        "1994",
+        "1996",
+        "1998"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Türkiye’de çocuk haklarından sorumlu olan bakanlık aşağıdakilerden hangisidir?",
+      "options": [
+        "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı",
+        "Sağlık Bakanlığı",
+        "Gençlik Ve Spor Bakanlığı",
+        "Milli Eğitim Bakanlığı",
+        "İç İşleri Bakanlığı"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uluslararası Beden Eğitimi ve Spor Şartı hangi şehirdeki BM genel kurulunda kabul edilmiştir?",
+      "options": [
+        "Paris",
+        "Viyana",
+        "Brüksel",
+        "Londra",
+        "Roma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Alkol veya bağımlılık yaratan madde kullanımı için akran baskısı II. Genç sporcuların yaralanmasına rağmen oyundan çıkarılmaması III. Fiziksel egzersizin ceza olarak kullanılması IV. Yeterli dinlenme ve bakım vermemek Yukarıdakilerden hangileri UNICEF spor alanında olabilecek istismar biçimleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Uluslararası Spor Federasyonlarının…………………….. istismar sınıflandırmasını temel aldığı görülmektedir. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": [
+        "Birleşmiş Milletler",
+        "Avrupa Birliği",
+        "Avrupa Konseyi",
+        "UNESCO",
+        "Dünya Sağlık Örgütü"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Dünya Sağlık Örgütüne göre kaç istismar tipi vardır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Çocuğun yaşamına, gelişimine, bedenine veya onuruna zarar veren ya da zarar verme ihtimali olan hareketlerde bulunma ve çocuğun kaza dışı her türlü yaralanmasına ne ad verilir?",
+      "options": [
+        "Fiziksel istismar",
+        "Cinsel istismar",
+        "Duygusal istismar",
+        "İhmal",
+        "Güvenli spor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antrenmanların çocukların yaş ve fiziksel durumlarına göre planlanmaması hangi istismar türüne girmektedir?",
+      "options": [
+        "Fiziksel istismar",
+        "Cinsel istismar",
+        "Duygusal istismar",
+        "İhmal",
+        "Güvenli spor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Yetişkinlerin cinsel arzu ve gereksinimlerini karşılamak için çocuk ya da ergeni güç kullanarak, tehdit ya da kandırma yolu ile kullanmasına ne ad verilir?",
+      "options": [
+        "Fiziksel istismar",
+        "Cinsel istismar",
+        "Duygusal istismar",
+        "İhmal",
+        "Güvenli spor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi cinsel istismar biçimlerinden biri değildir?",
+      "options": [
+        "Cinsel eylemler talep etme",
+        "Cinsel içerikli oyunlar oynatma veya uygun olmayan her türlü dokunuşa izin verme",
+        "Teşhircilik",
+        "Uygunsuz veya gereksiz herhangi bir temas",
+        "Sporcuları aşırı soğuk ya da sıcak hava koşullarında spor yapmaya maruz bırakmak"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Uluslararası Olimpiyat Komitesi, cinsel taciz ve istismar üzerine yaptığı bildirgeyi kaç yılında çıkarmıştır?",
+      "options": [
+        "2000",
+        "2003",
+        "2007",
+        "2010",
+        "2013"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Uluslararası Olimpiyat Komitesi, Spor Alanındaki Taciz ve İstismardan Sporcuların Korunmasıyla İlgili Araç Kitini kaç yılında yayımlamıştır?",
+      "options": [
+        "2013",
+        "2015",
+        "2017",
+        "2019",
+        "2021"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Çocuğa bakmakla yükümlü kişinin beslenme, giyim, tıbbi, sosyal ve duygusal gereksinimler gibi yükümlülükleri yerine getirmemesine ne ad verilir?",
+      "options": [
+        "Fiziksel istismar",
+        "Cinsel istismar",
+        "Duygusal istismar",
+        "İhmal",
+        "Güvenli spor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Spor alanlarında önlenebilecek bir nedenden dolayı sporcuların zarar görmesi………..kapsamına girmektedir. Yukarıdaki boşluğa hangisi getirilmelidir?",
+      "options": [
+        "Fiziksel istismar",
+        "Cinsel istismar",
+        "Duygusal istismar",
+        "İhmal",
+        "Güvenli spor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Bir Antrenörün çocuğun takım içerisinde kabul görmemesine seyirci kalması aşağıdakilerden hangisine girmektedir?",
+      "options": [
+        "Fiziksel ihmal",
+        "Cinsel ihmal",
+        "Duygusal ihmal",
+        "Güvensiz spor",
+        "Çocuk istismarı"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Sporcu yaralanmalarında yanlış tedavi yöntemleri uygulatmak II. Sporcuların yolculuklarında ve konaklamalarında yetersiz denetim sağlamak III. Sporcular arasındaki akran zorbalığına müsaade etmek IV. İzin almadan sporcuların görüntülerini internet ortamında paylaşmak Yukarıdakilerden hangileri en yaygın ihmal örnekleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    }
+  ]
+}

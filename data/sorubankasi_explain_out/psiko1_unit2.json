@@ -1,0 +1,577 @@
+{
+  "course": "psiko1",
+  "unit_index": 2,
+  "topic": "Spor Sosyolojisi",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi Wilkerson ve Dodder’ın tarafından belirtilen sporun sosyal işlevlerinden biri değildir?",
+      "options": [
+        "Duygusal Boşalma",
+        "Kimliğin Teyidi",
+        "Toplumsal Olay",
+        "Sosyal Kontrol",
+        "Kolektif Bilinç"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wilkerson ve Dodder, sporun toplumdaki işlevlerini duygusal boşalma, kimliğin teyidi, sosyal kontrol, kolektif bilinç ve değişim organı olmak üzere beş başlık altında sınıflandırmıştır. “Toplumsal Olay” ise bu işlev sınıflamasına ait bir kavram değildir; sporun kendisinin ne olduğunu tanımlamaya yarayan ayrı bir sosyolojik kategoridir (başlangıcı ve bitişi belirli, toplum içinde gözlemlenebilen olgu). Bu nedenle doğru cevap “Toplumsal Olay”dır.",
+      "optionNotes": [
+        "Bu, sporun gerginlik ve stresin tahliyesini sağlayan işlevlerinden biridir; Wilkerson ve Dodder'ın sınıflamasında yer alır, dolayısıyla doğru yanıt değildir.",
+        "Sporun bireye ve gruplara kimlik kazandırma/onaylama işlevi olarak sınıflamada yer alır, bu seçenek de listenin bir parçasıdır.",
+        "Doğru yanıt: Toplumsal Olay, Wilkerson ve Dodder'ın sporun sosyal işlevleri sınıflamasına ait bir kavram değildir; bu terim sporun doğasını tanımlayan ayrı bir sosyolojik kategori olup işlev listesinde bulunmaz.",
+        "Sporun bireyleri kurallara ve normlara uydurarak toplumsal düzeni sağlama işlevi olarak sınıflamada yer alır.",
+        "Sporun ortak değerler ve topluluk ruhu oluşturma işlevi olarak sınıflamada yer alır."
+      ]
+    },
+    {
+      "question": "I. Güreş II. Boks III. Okçuluk\nYukarıdakilerden hangileri ‘savunma – saldırı kökenli’ sporlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor tarihinde sporların kökenine göre yapılan sınıflandırmada güreş, boks ve okçuluk, insanın kendini savunma ve saldırı güdüsünden doğan, silah veya beden gücü kullanımına dayalı sporlar olarak “savunma-saldırı kökenli sporlar” grubunda değerlendirilir. Bu nedenle I, II ve III'ün tümü doğrudur.",
+      "optionNotes": [
+        "Sadece güreşi içerdiği için eksiktir; boks ve okçuluk da aynı kökene dayanır.",
+        "Güreş ve boksu kapsar ama okçuluğu dışarıda bırakır, oysa okçuluk da savunma-saldırı kökenlidir.",
+        "Güreş ve okçuluğu kapsar ama boksu dışarıda bırakır; boks da bu kökene dayanan sporlardan biridir.",
+        "Boks ve okçuluğu kapsar ama güreşi dışarıda bırakır; güreş de savunma-saldırı kökenli sporların en eski örneklerindendir.",
+        "Doğru yanıt: Güreş, boks ve okçuluğun üçü de insanın savunma ve saldırı içgüdüsünden doğan, silah ya da fiziksel güç kullanımına dayalı etkinlikler olarak savunma-saldırı kökenli sporlar arasında sınıflandırılır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi ‘taşıma – ulaştırma kökenli’ sporlar arasında yer almaz?",
+      "options": [
+        "Koşma",
+        "Yüzme",
+        "Futbol",
+        "Kayak",
+        "Ata Binme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taşıma-ulaştırma kökenli sporlar, insanın bir yerden bir yere hareket etme/ulaşma ihtiyacından doğan koşma, yüzme, kayak ve ata binme gibi etkinlikleri kapsar. Futbol ise bir top etrafında gelişen oyun kökenli bir spordur, ulaşım/taşıma ihtiyacından doğmamıştır; bu nedenle bu gruba girmez.",
+      "optionNotes": [
+        "İnsanın bir yerden bir yere en temel hareket biçimi olduğu için taşıma-ulaştırma kökenli sporlar arasında yer alır.",
+        "Suda ilerleme/ulaşma ihtiyacından doğduğu için bu grupta değerlendirilir.",
+        "Doğru yanıt: Futbol, bir topla oynanan oyun kökenli bir spordur; taşıma-ulaştırma ihtiyacından doğmadığı için bu sınıflamaya girmez.",
+        "Kar üzerinde hızlı ulaşım/hareket ihtiyacından geliştiği için taşıma-ulaştırma kökenli sporlar arasında sayılır.",
+        "At üzerinde ulaşım amacıyla geliştiği için bu grubun klasik örneklerindendir."
+      ]
+    },
+    {
+      "question": "Toplumsal Bir Olgu Olarak Spor şemasında aşağıdakilerden hangisi yoktur?",
+      "options": [
+        "Yarışma",
+        "Çevre",
+        "Sosyalleşme",
+        "Teknoloji",
+        "Rekabet"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ders kitabında “Toplumsal Bir Olgu Olarak Spor” şemasında sporu çevreleyen unsurlar yarışma, çevre, sosyalleşme ve teknoloji olarak sıralanır. Rekabet kavramı bu şemada ayrı bir başlık olarak yer almaz; yarışma kavramı bu şema içinde rekabet unsurunu da örtük biçimde kapsar.",
+      "optionNotes": [
+        "Şemada doğrudan yer alan unsurlardan biridir.",
+        "Şemada sporu etkileyen dış unsurlardan biri olarak yer alır.",
+        "Şemada sporun toplumsallaştırıcı boyutunu temsil eden unsurlardan biridir.",
+        "Şemada sporu şekillendiren modern unsurlardan biri olarak yer alır.",
+        "Doğru yanıt: Rekabet, bu şemada ayrı bir bileşen olarak gösterilmez; şemadaki 'yarışma' kavramı bu anlamı zaten karşılar."
+      ]
+    },
+    {
+      "question": "Sporun ortak amaçlar etrafında toplanıp topluluk ruhu yaratması, sporun hangi sosyal işleviyle alakalıdır?",
+      "options": [
+        "Duygusal Boşalma",
+        "Kimliğin Teyidi",
+        "Sosyal Kontrol",
+        "Kolektif Bilinç",
+        "Değişim Organı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sporun insanları ortak hedefler etrafında bir araya getirerek bir “biz” duygusu ve topluluk ruhu oluşturması, Wilkerson ve Dodder'ın tanımladığı kolektif bilinç işleviyle ilişkilidir. Bu işlev, sporun bireyleri ortak değerler ve duygular etrafında birleştirerek toplumsal bütünleşmeye katkı sağlamasını ifade eder.",
+      "optionNotes": [
+        "Bu işlev, bireyin biriken stres ve gerginliğini spor yoluyla tahliye etmesiyle ilgilidir, topluluk ruhu oluşturmayla doğrudan ilgili değildir.",
+        "Bu işlev bireysel/grup kimliğinin spor aracılığıyla onaylanmasıyla ilgilidir, ortak topluluk ruhu yaratmaktan farklıdır.",
+        "Bu işlev bireylerin kurallara uyumunu ve toplumsal düzeni sağlamayı ifade eder, birleştirici topluluk ruhunu değil denetim boyutunu anlatır.",
+        "Doğru yanıt: İnsanların ortak amaçlar etrafında toplanarak bir topluluk ruhu ve ortak bilinç oluşturması, kolektif bilinç işleviyle açıklanır.",
+        "Bu işlev sporun toplumsal değişime aracılık etmesini ifade eder, topluluk ruhu yaratmaktan farklı bir boyuttur."
+      ]
+    },
+    {
+      "question": "Toplum içinde meydana gelmiş olup duyulan ve görülen, başlangıç ve bitiş noktaları belli olan her şeye ne ad verilir?",
+      "options": [
+        "Toplumsal Olay",
+        "Toplumsal Olgu",
+        "Toplumsal Rol",
+        "Toplumsal Statü",
+        "Toplumsal hareketlilik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sosyolojide, toplum içinde meydana gelen, başkaları tarafından görülüp duyulan, belirli bir başlangıç ve bitiş noktası olan somut gelişmeler “toplumsal olay” olarak tanımlanır. Toplumsal olgu ise süreklilik gösteren, genel ve soyut yapılar için kullanılır; bu soruda tanımlanan özellik (belirli başlangıç-bitiş) olaya işaret eder.",
+      "optionNotes": [
+        "Doğru yanıt: Başlangıcı ve bitişi belirli, gözlemlenebilir somut gelişmeler toplumsal olay olarak tanımlanır.",
+        "Toplumsal olgu, süreklilik arz eden ve soyut/genel nitelikteki yapıları ifade eder; belirli başlangıç-bitiş noktası olan somut gelişmeyi tanımlamaz.",
+        "Toplumsal rol, bireyin toplumsal konumuna bağlı olarak üstlendiği davranış kalıplarını ifade eder, olay tanımıyla ilgisi yoktur.",
+        "Toplumsal statü, bireyin toplum içindeki konumunu/mevkiini ifade eder, zaman sınırlı bir olayı tanımlamaz.",
+        "Toplumsal hareketlilik, bireylerin toplumsal tabakalar arasında yer değiştirmesini ifade eder, soruda tanımlanan olay kavramıyla örtüşmez."
+      ]
+    },
+    {
+      "question": "Amatör bir kulüpte basketbol oynayan bir sporcunun profesyonel sözleşme ile Türkiye basketbol liginde yer alan bir kulübe transfer olması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Toplumsal Olay",
+        "Toplumsal Olgu",
+        "Toplumsal Rol",
+        "Toplumsal Statü",
+        "Toplumsal hareketlilik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bir sporcunun amatör statüden profesyonel statüye geçerek bir kulüpten başka bir kulübe transfer olması, bireyin toplumsal konum/tabaka değiştirmesi anlamına gelir ve bu da “toplumsal hareketlilik” kavramıyla açıklanır. Spor, bireyler için dikey toplumsal hareketliliğin önemli araçlarından biridir.",
+      "optionNotes": [
+        "Bu transfer tek bir olay olarak görülebilir, ama soru kavramsal olarak statü değişimini sormaktadır; doğru kavram hareketliliktir.",
+        "Toplumsal olgu, genel ve süreklilik gösteren yapıları ifade eder, bireysel statü değişimini açıklamaz.",
+        "Toplumsal rol, bireyin üstlendiği davranış kalıplarını ifade eder; statü değişimini değil, o statüye bağlı beklenen davranışları anlatır.",
+        "Toplumsal statü, bireyin an itibarıyla sahip olduğu konumu ifade eder; buradaki durum ise bir statüden başka bir statüye geçiş sürecidir.",
+        "Doğru yanıt: Amatörden profesyonelliğe ve bir kulüpten diğerine geçiş, bireyin toplumsal konumunda bir değişim olduğundan toplumsal hareketliliğe örnektir."
+      ]
+    },
+    {
+      "question": "Spor alanında yaşanan uyuşmazlıkların arabuluculuk ve tahkim yoluyla çözüme kavuşturulduğu uluslararası kurum aşağıdakilerden hangisidir?",
+      "options": [
+        "CAS",
+        "IOC",
+        "İMF",
+        "UEFA",
+        "WHO"
+      ],
+      "correctIndex": 0,
+      "explanation": "CAS (Court of Arbitration for Sport - Spor Tahkim Mahkemesi), spor alanındaki hukuki uyuşmazlıkları arabuluculuk ve tahkim yoluyla çözen, Lozan merkezli uluslararası bağımsız bir kurumdur.",
+      "optionNotes": [
+        "Doğru yanıt: CAS (Spor Tahkim Mahkemesi), spor dünyasındaki uyuşmazlıkları tahkim ve arabuluculuk yoluyla çözen uluslararası kurumdur.",
+        "IOC (Uluslararası Olimpiyat Komitesi), olimpiyat hareketini yöneten kurumdur; uyuşmazlık çözümü onun temel görevi değildir.",
+        "İMF (Uluslararası Para Fonu), uluslararası mali/ekonomik istikrarla ilgilenen bir kurumdur, sporla ilgisi yoktur.",
+        "UEFA, Avrupa futbolunu yöneten bir federasyondur, genel spor uyuşmazlıklarını çözen bağımsız tahkim kurumu değildir.",
+        "WHO (Dünya Sağlık Örgütü), küresel sağlık konularıyla ilgilenir, spor hukuku uyuşmazlıklarıyla ilgilenmez."
+      ]
+    },
+    {
+      "question": "2019 yılında dünya şampiyonu olduktan sonra erkek futbolcularla eşit prim almadıkları gerekçesiyle dava açan kadın milli futbol takımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Amerika",
+        "İngiltere",
+        "Fransa",
+        "Almanya",
+        "İtalya"
+      ],
+      "correctIndex": 0,
+      "explanation": "2019 FIFA Kadınlar Dünya Kupası'nı kazanan ABD Kadın Milli Futbol Takımı oyuncuları, erkek milli takımla eşit ücret/prim almadıkları gerekçesiyle federasyonlarına karşı dava açmış ve bu dava toplumsal cinsiyet eşitliği tartışmalarında önemli bir örnek olmuştur.",
+      "optionNotes": [
+        "Doğru yanıt: 2019 Dünya Kupası şampiyonu ABD Kadın Milli Takımı, erkek milli takımla eşit ücret almadığı gerekçesiyle federasyonuna dava açmıştır.",
+        "İngiltere kadın milli takımı 2019'da şampiyon olmamıştır ve bu ücret eşitliği davasının öznesi değildir.",
+        "2019 Dünya Kupası'na ev sahipliği yapmasına rağmen Fransa kadın takımı şampiyon olmamış, bu davayla ilişkilendirilmemiştir.",
+        "Almanya kadın milli takımı 2019'da şampiyon olmamıştır, bu nedenle soru bu ülkeye işaret etmez.",
+        "İtalya kadın milli takımı 2019 Dünya Kupası'nda şampiyon olmamıştır, dava bu ülkeyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "İnsanlara kurallara uyma alışkanlığı kazandıran ve toplumun ortak değerlerinin yerleşmesine ve gelişmesine katkıda bulunan spora ilişkin kuramsal yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlevselci yaklaşım",
+        "Çatışmacı yaklaşım",
+        "Eleştirel yaklaşım",
+        "Etkileşimci yaklaşım",
+        "Feminist yaklaşım"
+      ],
+      "correctIndex": 0,
+      "explanation": "İşlevselci yaklaşım, sporu toplumsal düzenin ve bütünleşmenin sağlanmasına hizmet eden bir kurum olarak ele alır. Bu yaklaşıma göre spor; bireylere kurallara uyma, disiplin ve ortak değerleri içselleştirme alışkanlığı kazandırarak toplumsal uyum ve istikrara katkıda bulunur.",
+      "optionNotes": [
+        "Doğru yanıt: İşlevselci yaklaşım, sporu toplumsal düzeni sağlayan, ortak değerlerin ve kurallara uyma alışkanlığının yerleştiği bir kurum olarak görür.",
+        "Çatışmacı yaklaşım, sporu toplumsal eşitsizlik ve sınıf çıkarlarının bir aracı olarak ele alır, uyum ve ortak değer vurgusu bu yaklaşıma ait değildir.",
+        "Eleştirel yaklaşım, sporun egemen güç ilişkilerini nasıl yeniden ürettiğini sorgular, bütünleştirici işlevi vurgulamaz.",
+        "Etkileşimci yaklaşım, bireyler arası sembolik etkileşime ve anlam üretimine odaklanır, toplumsal düzenin sağlanmasını birincil konu olarak ele almaz.",
+        "Feminist yaklaşım, spordaki toplumsal cinsiyet eşitsizliklerini inceler, kurallara uyma alışkanlığı kazandırma vurgusu bu yaklaşıma özgü değildir."
+      ]
+    },
+    {
+      "question": "Toplumsal sınıfa özgü sportif ‘zevkleri’ içeren habitus kavramı kime aittir?",
+      "options": [
+        "Adorno",
+        "Horkheimer",
+        "Habermas",
+        "Bourdieu",
+        "Clarke"
+      ],
+      "correctIndex": 3,
+      "explanation": "Habitus kavramı, Fransız sosyolog Pierre Bourdieu tarafından geliştirilmiştir. Bourdieu'ye göre habitus, bireyin toplumsal sınıfına bağlı olarak edindiği zevkler, eğilimler ve pratikleri kapsar; spor tercihleri de bu bağlamda toplumsal sınıfa özgü bir habitus görüngüsü olarak değerlendirilir.",
+      "optionNotes": [
+        "Adorno, Frankfurt Okulu'nun önemli bir temsilcisi olarak kültür endüstrisi eleştirisiyle tanınır, habitus kavramının sahibi değildir.",
+        "Horkheimer, eleştirel teorinin kurucularından biridir, habitus kavramını geliştiren kişi değildir.",
+        "Habermas, iletişimsel eylem teorisiyle tanınır, habitus kavramı onun değil Bourdieu'nün kavramıdır.",
+        "Doğru yanıt: Habitus kavramı, toplumsal sınıfa özgü zevk ve eğilimleri açıklamak için Pierre Bourdieu tarafından geliştirilmiştir.",
+        "Clarke, spor sosyolojisinde çalışmaları olan bir isimdir ancak habitus kavramının sahibi Bourdieu'dür."
+      ]
+    },
+    {
+      "question": "Belli bir topluluğun belli zaman ve koşullarda üretim biçimindeki sosyal kişiliği olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Toplum",
+        "Kültür",
+        "Sosyalleşme",
+        "Devrim",
+        "Spor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kültür, belirli bir toplumun belirli bir zaman diliminde ve koşullarda ortaya koyduğu üretim biçimiyle şekillenen sosyal kişiliği; yani o topluma özgü değerler, inançlar, normlar ve yaşam biçimlerinin bütününü ifade eder.",
+      "optionNotes": [
+        "Toplum, ortak bir mekân ve kurallar çerçevesinde yaşayan insan topluluğunu ifade eder; üretim biçimine bağlı 'sosyal kişilik' tanımı kültüre aittir.",
+        "Doğru yanıt: Kültür, bir topluluğun belirli zaman ve üretim koşullarındaki ortak sosyal kişiliğini ifade eden kavramdır.",
+        "Sosyalleşme, bireyin kültürü öğrenme sürecini ifade eder; kültürün kendisini tanımlamaz.",
+        "Devrim, toplumsal/siyasal yapıda hızlı ve köklü değişimi ifade eder, üretim biçimine bağlı sosyal kişilikle ilgili bir tanım değildir.",
+        "Spor, kültürün bir unsuru/yansıması olabilir ama tanımdaki 'üretim biçimindeki sosyal kişilik' ifadesi doğrudan kültürü karşılar."
+      ]
+    },
+    {
+      "question": "I. Kültür öğrenilir II. Kültür tarihidir ve süreklidir III. Kültür sosyaldir IV. Kültür değişir V. Kültür birleştiricidir\nYukarıdakilerden hangileri Tayfun Amman’a göre kültürün özellikleri arasında yer alır?",
+      "options": [
+        "I – II",
+        "II – IV",
+        "I – II – IV",
+        "I –II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4,
+      "explanation": "Tayfun Amman'a göre kültürün temel özellikleri; öğrenilir olması, tarihsel ve süreklilik taşıması, sosyal bir nitelik taşıması, zaman içinde değişebilmesi ve toplumu birleştirici bir işlev görmesidir. Dolayısıyla verilen beş özelliğin tamamı kültürün özellikleri arasında yer alır.",
+      "optionNotes": [
+        "Sadece öğrenilme ve süreklilik özelliklerini kapsar, diğer üç özelliği (sosyal olma, değişme, birleştiricilik) dışarıda bırakır.",
+        "Sadece süreklilik ve değişme özelliklerini kapsar, öğrenilme, sosyallik ve birleştiricilik özelliklerini atlar.",
+        "Öğrenilme, süreklilik ve değişme özelliklerini kapsar ama sosyal olma ve birleştiricilik özelliklerini dışarıda bırakır.",
+        "Dört özelliği kapsar ama birleştiricilik özelliğini (V) dışarıda bırakır; oysa bu da Tayfun Amman'ın sıraladığı özelliklerden biridir.",
+        "Doğru yanıt: Tayfun Amman'a göre kültür öğrenilir, tarihi ve süreklidir, sosyaldir, değişir ve birleştiricidir; verilen beş özelliğin tamamı geçerlidir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi sporun sosyolojisi değerler sisteminde yer almaz?",
+      "options": [
+        "Yönetici",
+        "Spor insanı",
+        "Kulüpler",
+        "Devletin spor politikaları",
+        "Taraftar"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporun sosyolojisi değerler sistemi, sporu kurumsal ve yönetsel açıdan şekillendiren temel aktörleri; yönetici, spor insanı (sporcu/antrenör), kulüpler ve devletin spor politikalarını kapsar. Taraftar, bu değerler sisteminin doğrudan bir bileşeni olarak sınıflandırılmaz; taraftar sporun izleyici/tüketici boyutuna aittir.",
+      "optionNotes": [
+        "Spor kurumlarını idare eden ve politikaları uygulayan aktör olarak değerler sisteminde yer alır.",
+        "Sporu bizzat icra eden kişi olarak sistemin merkezi unsurlarından biridir.",
+        "Sporun örgütlenme biçimlerinden biri olarak değerler sisteminde yer alır.",
+        "Sporun yönlendirilmesinde belirleyici kurumsal unsur olarak sistemde yer alır.",
+        "Doğru yanıt: Taraftar, sporun değerler sisteminde yönetici, sporcu, kulüp ve devlet politikaları gibi kurumsal/üretici bir aktör olarak sınıflandırılmaz; izleyici/tüketici konumundadır."
+      ]
+    },
+    {
+      "question": "İçinde yaşanılan toplumun kültürünü öğrenme sürecine ne ad verilir?",
+      "options": [
+        "Kültür",
+        "Toplumsal Rol",
+        "Sosyalleşme",
+        "Toplumsal Olay",
+        "Toplum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bireyin içinde doğduğu veya yaşadığı toplumun değerlerini, normlarını, davranış kalıplarını öğrenerek o topluma uyum sağlama süreci “sosyalleşme” olarak tanımlanır.",
+      "optionNotes": [
+        "Kültür, öğrenilen içeriğin (değerler, normlar) kendisidir; öğrenme sürecinin adı değildir.",
+        "Toplumsal rol, bireyin bir statüye bağlı olarak sergilemesi beklenen davranışları ifade eder, öğrenme sürecini tanımlamaz.",
+        "Doğru yanıt: Bir toplumun kültürünü öğrenme ve içselleştirme süreci sosyalleşme olarak adlandırılır.",
+        "Toplumsal olay, başlangıcı ve bitişi belirli somut bir gelişmeyi ifade eder, bir öğrenme sürecini tanımlamaz.",
+        "Toplum, bu öğrenmenin gerçekleştiği ortamı/yapıyı ifade eder, öğrenme sürecinin kendisi değildir."
+      ]
+    },
+    {
+      "question": "Sporda sosyalleşme (sosyalizasyon) süreci kim tarafından geliştirilmiştir?",
+      "options": [
+        "Reeves",
+        "Bourdieu",
+        "Weber",
+        "Habermas",
+        "Leonard II"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sporda sosyalleşme (sosyalizasyon) sürecine ilişkin kavramsal çerçeve, spor sosyolojisi alanında George Leonard II tarafından geliştirilmiştir; bu çerçevede bireyin spora sosyalleşmesi, spor aracılığıyla sosyalleşmesi ve spordan sosyalleşmesi gibi boyutlar ele alınır.",
+      "optionNotes": [
+        "Reeves, sporda sosyalleşme modelinin geliştiricisi olarak anılan isim değildir.",
+        "Bourdieu habitus kavramıyla tanınır; sporda sosyalleşme sürecinin modelini geliştiren isim o değildir.",
+        "Weber, klasik sosyolojinin kurucularından biridir, sporda sosyalleşme modeliyle özdeşleşen isim değildir.",
+        "Habermas, iletişimsel eylem teorisiyle tanınır; sporda sosyalleşme modelinin sahibi değildir.",
+        "Doğru yanıt: Sporda sosyalleşme süreci modeli, spor sosyoloğu George Leonard II tarafından geliştirilmiştir."
+      ]
+    },
+    {
+      "question": "1980’li yılların başında TRT ekranlarında gösterilen ve basketbolum mahalle aralarında yaygınlaşmasını sağlayan dizi aşağıdakilerden hangisidir?",
+      "options": [
+        "Koç Carter",
+        "Koçum Benim",
+        "Beyaz Gölge",
+        "Lise Defteri",
+        "Adı Efsane"
+      ],
+      "correctIndex": 2,
+      "explanation": "1980'li yılların başında TRT ekranlarında yayınlanan “Beyaz Gölge” (The White Shadow) adlı Amerikan dizisi, basketbolun Türkiye'de özellikle mahalle aralarında ve gençler arasında popülerleşmesinde önemli bir rol oynamıştır.",
+      "optionNotes": [
+        "Koç Carter (Coach Carter), 2005 yapımı bir sinema filmidir; 1980'lerde TRT'de yayınlanan bir dizi değildir.",
+        "Bu isimde, TRT'de yayınlanıp basketbolu yaygınlaştırdığı bilinen bir yapım değildir.",
+        "Doğru yanıt: 1980'lerin başında TRT'de yayınlanan 'Beyaz Gölge' dizisi, basketbolun mahallelerde yaygınlaşmasına katkı sağlamıştır.",
+        "Lise Defteri, basketbolla ilişkilendirilen ve o dönem TRT'de yayınlanan bir yapım değildir.",
+        "Adı Efsane, bu soruda sorulan döneme ve içeriğe uyan bir TRT yapımı değildir."
+      ]
+    },
+    {
+      "question": "‘’Sporda kullanılan fiziksel beceriler bir gün yok olup gider ancak karakter yapıları, varlıklarını ömür boyu sürdürürler’’ sözü kime aittir?",
+      "options": [
+        "Cem Can",
+        "Tayfun Amman",
+        "Ali Kurt",
+        "Mehmet Atayman",
+        "Mustafa Kurultay"
+      ],
+      "correctIndex": 0,
+      "explanation": "“Sporda kullanılan fiziksel beceriler bir gün yok olup gider, ancak karakter yapıları varlıklarını ömür boyu sürdürür” sözü, ders kaynağında Cem Can'a atfedilmektedir; bu söz, sporun fiziksel kazanımlarının geçici, ahlaki/karakter kazanımlarının ise kalıcı olduğunu vurgular.",
+      "optionNotes": [
+        "Doğru yanıt: Bu söz, ders kaynağında Cem Can'a atfedilmektedir.",
+        "Tayfun Amman, kültürün özellikleri sınıflamasıyla anılan bir isimdir; bu söz ona atfedilmemiştir.",
+        "Ali Kurt, bu sözle ilişkilendirilen bir kaynak değildir.",
+        "Mehmet Atayman, bu sözün sahibi olarak kaynakta geçmemektedir.",
+        "Mustafa Kurultay, bu sözün atfedildiği isim değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Fair Play ilkeleriyle ilgili yanlış bir bilgidir?",
+      "options": [
+        "Oyunda yer alması için herkese eşit şans tanımak",
+        "Kurallara saygı göstermek",
+        "Oyun sırasında duygularını kontrol altında tutmak",
+        "Rakibe saygı göstermek",
+        "Hakem kararlarına itirazda bulunmak"
+      ],
+      "correctIndex": 4,
+      "explanation": "Fair Play (dürüst oyun) ilkeleri; herkese eşit şans tanımayı, kurallara ve rakibe saygı göstermeyi, duygularını kontrol etmeyi ve hakem kararlarına saygı göstermeyi kapsar. “Hakem kararlarına itirazda bulunmak” ise Fair Play anlayışına aykırıdır; doğru olan hakem kararlarına saygı duymak ve itiraz etmemektir. Bu nedenle bu seçenek yanlış bilgi içerir.",
+      "optionNotes": [
+        "Bu, Fair Play'in temel ilkelerinden biri olup doğru bir bilgidir.",
+        "Bu, Fair Play'in vazgeçilmez unsurlarından biri olup doğru bir bilgidir.",
+        "Bu, Fair Play anlayışının gerektirdiği doğru bir davranış ilkesidir.",
+        "Bu, Fair Play'in temel ilkelerinden biri olup doğru bir bilgidir.",
+        "Doğru yanıt: Fair Play ilkeleri hakem kararlarına saygı göstermeyi gerektirir; itirazda bulunmak bu ilkelere aykırıdır, bu yüzden bu seçenek yanlış bilgi içerir."
+      ]
+    },
+    {
+      "question": "Olimpik Anlaşmanın kaçını temel ilkesine göre spor faaliyetlerine katılmak bir insan hakkıdır?",
+      "options": [
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+      ],
+      "correctIndex": 3,
+      "explanation": "Olimpik Anlaşma'nın (Olimpik Şart) temel ilkelerinden 4. ilkesine göre, spor yapma ve spor faaliyetlerine katılmak her insanın temel bir hakkıdır; bu ilke herhangi bir ayrımcılık yapılmadan herkesin spora erişimini güvence altına alır.",
+      "optionNotes": [
+        "Olimpik Anlaşma'nın 1. ilkesi olimpizmin felsefesini tanımlar, spora katılımın insan hakkı olduğunu doğrudan belirten ilke değildir.",
+        "2. ilke olimpizmin amacını (barış, insan onuru) tanımlar, spora katılım hakkını doğrudan ifade eden ilke değildir.",
+        "3. ilke Olimpiyat Hareketi'nin yapısını tanımlar, spora katılımın insan hakkı olduğunu belirten ilke değildir.",
+        "Doğru yanıt: Olimpik Anlaşma'nın 4. temel ilkesine göre spor yapmak bir insan hakkıdır.",
+        "5. ilke Olimpiyat Hareketi'nin siyasi tarafsızlığıyla ilgilidir, spora katılım hakkını doğrudan belirten ilke değildir."
+      ]
+    },
+    {
+      "question": "Türkiye’de profesyonel futbol erkek liglerinde Antrenörlük ve hakemlik yapabilecek belgeye sahip ilk Türk kadın kimdir?",
+      "options": [
+        "Afife Jale",
+        "Lale Orta",
+        "Türkan Akyol",
+        "Jale İnan",
+        "Gül Esin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lale Orta, Türkiye'de profesyonel erkek futbol liglerinde hakemlik yapabilecek belgeye sahip olan ilk Türk kadın olarak tarihe geçmiştir.",
+      "optionNotes": [
+        "Afife Jale, Türk tiyatro sahnesine çıkan ilk Müslüman Türk kadın oyuncu olarak tanınır, futbol hakemliğiyle ilgisi yoktur.",
+        "Doğru yanıt: Lale Orta, Türkiye'de erkek profesyonel futbol liglerinde hakemlik yapabilecek belgeye sahip ilk Türk kadındır.",
+        "Türkan Akyol, Türkiye'nin ilk kadın bakanlarından biri olarak tanınır, futbol hakemliğiyle ilişkilendirilmez.",
+        "Jale İnan, Türkiye'nin ilk kadın arkeologlarından biridir, futbol hakemliğiyle ilgisi yoktur.",
+        "Gül Esin, bu alanda ilk olarak anılan isim değildir."
+      ]
+    },
+    {
+      "question": "Toplumun kadın ve erkeğe yüklediği belirli roller, sorumluluklar, özellikler, beklentiler olarak tanımlan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Biyolojik cinsiyet",
+        "Toplumsal cinsiyet",
+        "Toplumsal cinsiyet eşitliği",
+        "Cinsiyete Dayalı Ayrımcılık",
+        "Cinsiyet temelli şiddet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toplumsal cinsiyet (gender), biyolojik cinsiyetten farklı olarak, toplumun kadına ve erkeğe atfettiği roller, sorumluluklar, davranış beklentileri ve özellikleri ifade eder; bu kavram kültürel ve toplumsal olarak öğrenilir ve zamanla değişebilir.",
+      "optionNotes": [
+        "Biyolojik cinsiyet, doğuştan gelen fizyolojik/genetik farklılıkları ifade eder; toplumun yüklediği rol ve beklentileri değil, biyolojik özellikleri kapsar.",
+        "Doğru yanıt: Toplumun kadın ve erkeğe yüklediği roller, sorumluluklar ve beklentiler toplumsal cinsiyet kavramıyla ifade edilir.",
+        "Bu kavram, rol ve sorumluluklara eşit değer verilmesini ifade eder; rollerin kendisinin tanımını değil, bu rollere yaklaşımdaki eşitliği anlatır.",
+        "Bu kavram, cinsiyete dayalı olumsuz/eşitsiz muameleyi ifade eder, rollerin/beklentilerin genel tanımını karşılamaz.",
+        "Bu kavram, cinsiyete dayalı şiddet eylemlerini ifade eder, rol ve beklentilerin genel tanımıyla ilgili değildir."
+      ]
+    },
+    {
+      "question": "- Örneğin, Türkiye spor tarihinin en önemli spor dallarından birisi olan……….son on yıla kadar daha çok erkek sporcularla ve onların başarılarıyla anılmaktaydı. Fakat son yıllarda Buse Tosun, Evin Demirhan ve Yasemin Adar...\nYukarıdaki boşluğa aşağıdaki sporlardan hangisi getirilmelidir?",
+      "options": [
+        "Güreş",
+        "Halter",
+        "Karate",
+        "Okçuluk",
+        "Judo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Türkiye spor tarihinde güreş, geleneksel olarak büyük ölçüde erkek sporcuların başarılarıyla anılmıştır; ancak son yıllarda Buse Tosun, Evin Demirhan ve Yasemin Adar gibi kadın güreşçilerin uluslararası başarıları, bu branşta kadın sporcuların da görünürlüğünü artırmıştır.",
+      "optionNotes": [
+        "Doğru yanıt: Buse Tosun, Evin Demirhan ve Yasemin Adar, güreş branşında önemli başarılara imza atan kadın sporculardır.",
+        "Anılan sporcular halter branşında değil, güreşte başarı kazanmış isimlerdir.",
+        "Anılan sporcular karate branşında değil, güreşte uluslararası başarı kazanmıştır.",
+        "Anılan sporcular okçuluk branşında değil, güreşte tanınan isimlerdir.",
+        "Anılan sporcular judo branşında değil, güreşte öne çıkan sporculardır."
+      ]
+    },
+    {
+      "question": "- 2020 Tokyo Olimpiyatlarına Türkiye adına katılan İbrahim Çolak, Ahmet Önder ve Ferhat Arıcan, çok başarılı…………….\nYukarıdaki boşluğa aşağıdaki sporlardan hangisi getirilmelidir?",
+      "options": [
+        "Güreşçilerdir",
+        "Haltercilerdir",
+        "Okçulardır",
+        "Karatecilerdir",
+        "Cimnastikçilerdir"
+      ],
+      "correctIndex": 4,
+      "explanation": "İbrahim Çolak, Ahmet Önder ve Ferhat Arıcan, 2020 Tokyo Olimpiyatları'na Türkiye adına katılan ve halka/paralel barfiks gibi branşlarda başarı gösteren cimnastikçilerdir.",
+      "optionNotes": [
+        "Anılan isimler güreş branşında değil, cimnastik branşında yarışan sporculardır.",
+        "Anılan isimler halter branşında değil, cimnastikte başarı gösteren sporculardır.",
+        "Anılan isimler okçuluk branşında değil, cimnastikte yarışan sporculardır.",
+        "Anılan isimler karate branşında değil, cimnastik branşındaki sporculardır.",
+        "Doğru yanıt: İbrahim Çolak, Ahmet Önder ve Ferhat Arıcan, 2020 Tokyo Olimpiyatları'nda Türkiye'yi temsil eden başarılı cimnastikçilerdir."
+      ]
+    },
+    {
+      "question": "Kadının ve erkeğin sahip olduğu sorumluluklara ve rollere eşit derecede değer verilmesine ne ad verilir?",
+      "options": [
+        "Biyolojik cinsiyet",
+        "Toplumsal cinsiyet",
+        "Toplumsal cinsiyet eşitliği",
+        "Cinsiyete Dayalı Ayrımcılık",
+        "Cinsiyet temelli şiddet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Toplumsal cinsiyet eşitliği, kadın ve erkeğin sahip olduğu rol ve sorumluluklara, fırsatlara ve haklara eşit derecede değer verilmesi ve bunların eşit biçimde paylaşılmasıdır.",
+      "optionNotes": [
+        "Biyolojik cinsiyet, doğuştan gelen fiziksel farkları ifade eder; eşit değer verme kavramını karşılamaz.",
+        "Toplumsal cinsiyet, toplumun yüklediği rol ve beklentilerin kendisini ifade eder; bu rollere eşit değer verilmesini değil, rollerin tanımını anlatır.",
+        "Doğru yanıt: Kadın ve erkeğin rol ve sorumluluklarına eşit değer verilmesi toplumsal cinsiyet eşitliği olarak tanımlanır.",
+        "Bu kavram, eşitliğin tam tersi olan ayrımcı muameleyi ifade eder, eşit değer verilmesiyle çelişir.",
+        "Bu kavram, cinsiyete dayalı şiddeti ifade eder, eşit değer verilmesi kavramıyla ilgili değildir."
+      ]
+    },
+    {
+      "question": "Olimpik Ajanda kim tarafından kabul edilmiştir?",
+      "options": [
+        "IOC",
+        "UEFA",
+        "WHO",
+        "İMF",
+        "FİFA"
+      ],
+      "correctIndex": 0,
+      "explanation": "Olimpik Ajanda, Uluslararası Olimpiyat Komitesi (IOC) tarafından kabul edilen ve olimpiyat hareketinin geleceğine yönelik stratejik öncelikleri belirleyen bir yol haritasıdır.",
+      "optionNotes": [
+        "Doğru yanıt: Olimpik Ajanda, Uluslararası Olimpiyat Komitesi (IOC) tarafından kabul edilmiştir.",
+        "UEFA, Avrupa futbol federasyonudur; Olimpik Ajanda'yı kabul eden kurum değildir.",
+        "WHO, Dünya Sağlık Örgütü'dür; Olimpik Ajanda ile ilgili kabul yetkisine sahip değildir.",
+        "İMF, uluslararası para fonu olup olimpiyat hareketiyle ilgili kararlar almaz.",
+        "FİFA, dünya futbol federasyonudur; Olimpik Ajanda'yı kabul eden kurum IOC'dir, FİFA değildir."
+      ]
+    },
+    {
+      "question": "Bütün spor kurumlarının ve federasyonların yönetim, kurul ve komisyonlarında toplumsal cinsiyet eşitliğinin sağlanmasının gerektiği Olimpik Ajandada, kaç yılında vurgulanmıştır?",
+      "options": [
+        "2004",
+        "2018",
+        "2012",
+        "2016",
+        "2020"
+      ],
+      "correctIndex": 4,
+      "explanation": "Olimpik Ajanda'da (Gündem 2020+5), spor kurumlarının ve federasyonların yönetim kurulu, kurul ve komisyonlarında toplumsal cinsiyet eşitliğinin sağlanması gerektiği 2020 yılında vurgulanmıştır.",
+      "optionNotes": [
+        "Bu tarih, Olimpik Ajanda'daki bu vurguyla ilişkilendirilen yıl değildir.",
+        "Bu tarih, Olimpik Ajanda'daki bu vurguyla ilişkilendirilen yıl değildir.",
+        "Bu tarih, Olimpik Ajanda'daki bu vurguyla ilişkilendirilen yıl değildir.",
+        "Bu tarih, Olimpik Ajanda'daki bu vurguyla ilişkilendirilen yıl değildir.",
+        "Doğru yanıt: Spor kurumları ve federasyonların yönetim organlarında toplumsal cinsiyet eşitliğinin sağlanması gerektiği, Olimpik Ajanda'da 2020 yılında vurgulanmıştır."
+      ]
+    },
+    {
+      "question": "Her türlü şiddetten uzak, saygı ve eşitliğin hâkim olduğu spor ortamı olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Güvenli spor",
+        "Toplumsal cinsiyet temelli şiddet",
+        "Toplumsal Olay",
+        "Yarışma",
+        "Rekabet ortamı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Güvenli spor, her türlü fiziksel, psikolojik ve cinsel şiddetten uzak; saygı, eşitlik ve dayanışmanın hâkim olduğu bir spor ortamını ifade eder. Bu kavram, sporcuların korunmasına yönelik güncel politikalarda merkezi bir yer tutar.",
+      "optionNotes": [
+        "Doğru yanıt: Şiddetten uzak, saygı ve eşitliğin hâkim olduğu spor ortamı 'güvenli spor' olarak tanımlanır.",
+        "Bu kavram, cinsiyete dayalı şiddet eylemlerini ifade eder; tanımlanan güvenli ortamın tam tersi bir durumu anlatır.",
+        "Bu kavram, başlangıcı ve bitişi belirli bir gelişmeyi ifade eder, güvenli bir spor ortamı tanımıyla ilgisi yoktur.",
+        "Yarışma, sporun rekabetçi boyutunu ifade eder, şiddetten uzak güvenli bir ortam tanımını karşılamaz.",
+        "Rekabet ortamı, sporun mücadeleci boyutunu çağrıştırır, şiddetten uzak ve eşitlikçi bir ortamın tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "question": "I. Cinsiyetler arasında işbirliğini desteklemek\nII. Sporcularla toplumsal cinsiyete duyarlı bir dille iletişim kurmak\nIII. Sorumlulukların kızlar ve erkekler arasında eşit paylaşılmasını sağlamak\nYukarıdakilerden hangileri kız çocuklarının spora katılımının arttırılmasında Antrenörün sorumlulukları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kız çocuklarının spora katılımının artırılmasında antrenörlerin sorumlulukları arasında cinsiyetler arası işbirliğini desteklemek, sporcularla toplumsal cinsiyete duyarlı bir dille iletişim kurmak ve sorumlulukların kızlar ile erkekler arasında eşit paylaşılmasını sağlamak yer alır. Dolayısıyla verilen üç ifadenin tümü doğrudur.",
+      "optionNotes": [
+        "Sadece cinsiyetler arası işbirliğini kapsar, iletişim dili ve eşit sorumluluk paylaşımı gibi diğer önemli sorumlulukları dışarıda bırakır.",
+        "İşbirliği ve duyarlı dili kapsar ama sorumlulukların eşit paylaşılmasını sağlama maddesini (III) dışarıda bırakır.",
+        "İşbirliği ve eşit sorumluluk paylaşımını kapsar ama toplumsal cinsiyete duyarlı dille iletişim maddesini (II) dışarıda bırakır.",
+        "Duyarlı dil ve eşit sorumluluk paylaşımını kapsar ama cinsiyetler arası işbirliğini destekleme maddesini (I) dışarıda bırakır.",
+        "Doğru yanıt: Antrenörün kız çocuklarının spora katılımını artırmadaki sorumlulukları arasında işbirliğini destekleme, duyarlı dille iletişim ve sorumlulukların eşit paylaşılmasını sağlamanın tümü yer alır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi spor alanında toplumsal cinsiyete duyarlı dil örneklerinden biri değildir?",
+      "options": [
+        "Bire bir oynamak",
+        "Kaslı",
+        "Teknik direktör",
+        "Mücadeleci oynamak",
+        "Sportmen"
+      ],
+      "correctIndex": 4,
+      "explanation": "Spor alanında toplumsal cinsiyete duyarlı dil, cinsiyet ayrımı yapmayan, nötr ve kapsayıcı ifadeler kullanmayı gerektirir. “Bire bir oynamak”, “kaslı”, “teknik direktör” ve “mücadeleci oynamak” gibi ifadeler cinsiyetten bağımsız, nötr kullanımlardır. “Sportmen” ifadesi ise eril bir ek (“-men”) içerdiğinden cinsiyetçi/cinsiyete özgü bir kullanımdır ve toplumsal cinsiyete duyarlı dil örneği değildir; yerine “sporcu” gibi nötr bir ifade kullanılması önerilir.",
+      "optionNotes": [
+        "Cinsiyet belirtmeyen, performansı tanımlayan nötr bir ifadedir, duyarlı dil örneğidir.",
+        "Cinsiyetten bağımsız, fiziksel özelliği tanımlayan nötr bir ifadedir, duyarlı dil örneğidir.",
+        "Cinsiyet belirtmeyen, göreve dayalı nötr bir unvan ifadesidir, duyarlı dil örneğidir.",
+        "Cinsiyetten bağımsız, oyun tarzını tanımlayan nötr bir ifadedir, duyarlı dil örneğidir.",
+        "Doğru yanıt: 'Sportmen' ifadesi eril '-men' ekini barındırdığından cinsiyetçi bir kullanımdır; toplumsal cinsiyete duyarlı dil örneği değildir, yerine 'sporcu' denmesi önerilir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "course": "havb1",
+  "unit_index": 6,
+  "topic": "Genel Antrenman Bilimi: Antrenman Planlama ve Periyotlama",
+  "questions": [
+    {
+      "question": "Makro planlar genellikle…..çalışmaları kapsarken mikro planlar……yani haftalık çalışmaları kapsamaktadır. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1-2 haftalık 2-3 günlük",
+        "3-5 haftalık 3-5 günlük",
+        "2-6 haftalık 3-7 günlük",
+        "3-7 haftalık 6-9 günlük",
+        "5-10 haftalık 7-12 günlük"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Antrenman planlaması şemasında yer almaz?",
+      "options": [
+        "Ön koşullar",
+        "Metotlar",
+        "Denetim",
+        "Uygulama",
+        "Geri bildirim"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Günlük antrenman olarak da ifade edebileceğimiz……………..antrenman planlamasının en küçük parçasıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Birim Antrenman",
+        "Makro döngü",
+        "Yıllık Plan",
+        "Olimpik döngü",
+        "Dönemleme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Başlangıç (giriş) II. Isınma III. Temel (ana) IV. Bitiriş (soğuma) Yukarıdakilerden hangileri Birim Antrenmanın bölümleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "…………..göre, “Bir antrenman birimi, aşamalı artan yüklenme ilkesine bağlı olarak antrenörün yapılan çalışmadaki artış ve azalmayı izlemelerine olanak sağlayacak bir biçimde düzenlenmelidir.” Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Bompa’ya",
+        "Balyi’ye",
+        "McBride’a",
+        "Matwejew’e",
+        "Karl’a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Isınmanın en önemli özelliği vücut ısısının ….°C kadar artırılmasıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antrenmanın giriş bölümünde aşağıdakilerden hangisi yapılmaz?",
+      "options": [
+        "Sporcuların toplanmaları sağlanır",
+        "Yoklama alınır",
+        "Grubun özelliğine göre yapılacak olan antrenmanın içeriği anlatılır",
+        "Sporcunun antrenmana motive olmasını sağlanır",
+        "Sporcunun fiziksel ve fizyolojik olarak hazır hâle getirilmesi sağlanmalıdır."
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Antrenmanın ısınma bölümüyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "İdeal ısınma süresi 25-30 dakika kadar olmalıdır",
+        "Isınmanın en önemli özelliği vücut ısısının 1°C kadar artırılmasıdır",
+        "Isınma için aktif ve pasif ısınma olarak ikiye ayrılır.",
+        "Aktif ısınma, fiziksel aktivite uygulamaları ile kas ve vücut ısısının yükseltilmesi için yapılan uygulamalar olarak tanımlanır.",
+        "Aktif ısınma ise sauna, sıcak duş, sıcak banyolar, ısıtma torbaları ve diatermi gibi yöntemleri kapsar"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel Biyomotor yetileri ve psikolojik niteliklerini geliştirmek antrenmanın hangi bölümüne girmektedir?",
+      "options": [
+        "Başlangıç",
+        "Isınma",
+        "Temel",
+        "Bitiriş",
+        "Soğuma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşağıdakilerden hangisi antrenmanın ana bölümünde gerçekleştirilmesi gereken uygulamalardan biri değildir?",
+      "options": [
+        "Taktik ögelerinin öğrenilmesi",
+        "Çevikliğin geliştirilmesi",
+        "Yorgunluğu azaltan hareketlerin yapılması",
+        "Kuvvetin geliştirilmesi",
+        "Dayanıklılığın geliştirilmesi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Antrenman biriminin ana bölümünün tamamlanmasının ardından hangi evreye geçilmektedir?",
+      "options": [
+        "Giriş",
+        "Başlangıç",
+        "Isınma",
+        "Temel",
+        "Bitiriş"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Soğuma yaklaşık….dakika civarı süren….ana bölümden oluşur. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "10 – 2",
+        "15 – 3",
+        "20 – 2",
+        "20 – 3",
+        "30 – 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Antrenman biriminin süresi birçok etmene bağlı olmasına karşın ortalama olarak kaç dakika sürmektedir?",
+      "options": [
+        "45",
+        "60",
+        "100",
+        "120",
+        "160"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "3 ve 4 bölümlü antrenman biriminde ısınma bölümü kaç dakikadır?",
+      "options": [
+        "10",
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bireysel branşlardaki sporcuların yıl (sezon) içerisinde en fazla kaç defa zirve performansa çıkabilecekleri öngörülmektedir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Tek uçlu Periyodizasyon ve Çift uçlu Periyodizasyon tabloları kime aittir?",
+      "options": [
+        "Bompa",
+        "Balyi",
+        "McBride",
+        "Matwejew",
+        "Karl"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Mikro antrenman planlaması……….yapılacak olan birim antrenman sayısının belirlenmesidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Günlük",
+        "Haftalık",
+        "6 aylık",
+        "9 aylık",
+        "Yıllık"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Mezo döngüler içinde yer alan tek haftalık Planlamalara ne ad verilir?",
+      "options": [
+        "Birim Antrenman",
+        "Makro döngü",
+        "Yıllık Plan",
+        "Olimpik döngü",
+        "Mikro döngü"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Yukarıda görselde verilen mikro döngü türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Tek zirveli mikro döngü",
+        "İki zirveli mikro döngü",
+        "İki zirveli aşırı yüklemeli mikro döngü",
+        "İki zirveli hafta sonu müsabaka olan mikro döngü",
+        "Üç zirveli mikro döngü"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antrenörler yeni başlayan gruplarda antrenmanları haftada…..veya….birim olarak yaptırmalıdır. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "1 – 2",
+        "2 – 3",
+        "3 – 4",
+        "4 – 5",
+        "5 – 6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Sporcunun antrenman seviyesi II. Sporcunun sağlık durumu III. Sporcunun fiziksel ve motorik gelişimi IV. Sporcunun teknik-taktik seviyesi V. Sporcunun psikolojik durumu Yukarıdakilerden hangileri Antrenörlerin sporcular için mikro döngüler hazırlanırken dikkat etmesi gereken ön koşullar arasında yer alır?",
+      "options": [
+        "I – II – III",
+        "II – IV",
+        "I – II – IV",
+        "I – II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Takım sporları için hazırlık dönemine yönelik 1 haftalık antrenman programında Rejenerasyon Koşusu hangi gün kaç dakika yapılmaktadır?",
+      "options": [
+        "Pazartesi sabah – 15 dakika",
+        "Salı sabah – 15 dakika",
+        "Çarşamba öğleden sonra – 15 dakika",
+        "Perşembe öğleden sonra – 30 dakika",
+        "Pazar öğleden sonra – 30 dakika"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Gençlere yönelik haftalık döngü 5+1 antrenman biriminde hangi gün boş bırakılır?",
+      "options": [
+        "Pazartesi",
+        "Salı",
+        "Çarşamba",
+        "Perşembe",
+        "Cuma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Elit performans sporcularına yönelik yüksek seviye antrenman birimi haftada kaç kez yapılmaktadır?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Makro döngü antrenman programı hangi takvime göre hazırlanmalıdır?",
+      "options": [
+        "Günlük",
+        "Haftalık",
+        "Yarışma",
+        "Yıllık",
+        "Olimpik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Farklı hedefler ve branşlar için hazırlanacak bir makro döngü antrenman programı kaç hafta arasını kapsamaktadır?",
+      "options": [
+        "1 – 2",
+        "1 – 4",
+        "2 – 3",
+        "2 – 7",
+        "3 – 8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Hazırlık döneminde makro döngünün süresi kaç hafta arasında sürmektedir?",
+      "options": [
+        "1 – 3",
+        "1 – 5",
+        "2 – 3",
+        "4 – 7",
+        "5 – 8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Geçiş dönemlerine göre makro döngüler oluşturulmaktayken takım sporlarında sezon öncesi hazırlık dönemi yaklaşık kaç hafta kadar sürmektedir?",
+      "options": [
+        "1 – 4",
+        "2 – 4",
+        "4 – 6",
+        "6 – 8",
+        "8 – 10"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Yıllık plan……………kavramına ve ilkelerine dayanmaktadır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Birim",
+        "Makro",
+        "Aylık",
+        "Olimpik",
+        "Dönemleme"
+      ],
+      "correctIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "course": "havb1",
+  "unit_index": 5,
+  "topic": "Genel Antrenman Bilimi: Koordinatif Özellikler",
+  "questions": [
+    {
+      "question": "Koordinatif özelliklerle ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "options": [
+        "Sporcuların karşılaştıkları durumlara hızlı ve amaca uygun uyum sağlamasına olanak verir",
+        "Doğuştan kazanılan yeteneklerdir",
+        "Önceden yapılmış antrenmanlar yoluyla kazanılmaktadır",
+        "Doğru ve kaliteli bir şekilde yapılabilmesi için farklı faktörler rol oynar.",
+        "Spordaki birçok hareket arka arkaya ve birbiri ile uyumlu birçok küçük parçanın bir araya getirilmesiyle ortaya çıkmaktadır."
+      ],
+      "correctIndex": 1,
+      "explanation": "Koordinatif özellikler, doğuştan getirilen değişmez bir yetenek değil; merkezi sinir sistemi ile kas sistemi arasındaki etkileşimin sistematik ve çok yönlü antrenmanlar yoluyla geliştirildiği öğrenilmiş özelliklerdir. Bu nedenle 'doğuştan kazanılan yeteneklerdir' ifadesi yanlıştır; koordinasyon, tekrarlı ve çok yönlü alıştırmalarla zaman içinde kazanılıp geliştirilir.",
+      "optionNotes": [
+        "Bu ifade koordinasyonun temel işlevlerinden biri olup doğrudur; dolayısıyla soruda aranan yanlış bilgi bu seçenek değildir.",
+        "Doğru yanıt: Koordinatif özellikler doğuştan gelen değişmez bir yetenek değildir; merkezi sinir sistemi - kas sistemi etkileşiminin sistematik ve çok yönlü antrenmanlarla geliştirildiği öğrenilmiş bir özelliktir, bu nedenle ifade yanlıştır.",
+        "Bu ifade doğrudur; koordinasyon, önceden yapılan antrenmanlar ve tekrarlar yoluyla kazanılan bir özelliktir, dolayısıyla aranan yanlış ifade bu değildir.",
+        "Bu ifade doğrudur; koordinatif performansın kalitesini kuvvet, esneklik, denge, reaksiyon gibi birçok faktör birlikte belirler, dolayısıyla yanlış olan bu seçenek değildir.",
+        "Bu ifade doğrudur; sportif hareketler gerçekten de birbirini takip eden ve birbiriyle uyumlu küçük hareket parçacıklarının zincirlenmesinden oluşur, dolayısıyla yanlış olan bu seçenek değildir."
+      ]
+    },
+    {
+      "question": "Kısa bir süre içerisinde zor hareketleri öğrenebilme ve değişik durumlarda amaca uygun çabuk bir şekilde tepki gösterebilme, her hareketin birbirini doğru olarak izlemesi ve istenilen kuvvetle meydana gelmesine ne ad verilmektedir?",
+      "options": [
+        "Koordinasyon",
+        "Hareketlilik",
+        "Çeviklik",
+        "Denge",
+        "Sürat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soruda verilen tanım - kısa sürede zor hareketleri öğrenebilme, farklı durumlara çabuk ve amaca uygun tepki verebilme, hareketlerin doğru sırayla ve istenen kuvvetle gerçekleşmesi - koordinasyonun klasik tanımıdır. Koordinasyon, merkezi sinir sistemi ile iskelet kas sistemi arasındaki uyumlu çalışmayı ifade eder ve sporcunun hareketlerini ekonomik, akıcı ve duruma uygun şekilde organize etmesini sağlar.",
+      "optionNotes": [
+        "Doğru yanıt: Tanımda geçen hızlı öğrenme, duruma uygun tepki verme ve hareketlerin doğru sıra ve kuvvetle gerçekleşmesi, merkezi sinir sistemi ile kas sistemi arasındaki uyumu ifade eden koordinasyonun tam tanımıdır.",
+        "Hareketlilik, eklemlerin izin verdiği açı genişliğinde hareket yapabilme yeteneğidir; tanımda geçen 'zor hareketleri öğrenme ve doğru sırayla uygulama' eklem açıklığıyla değil sinir-kas uyumuyla ilgilidir, bu yüzden yanlıştır.",
+        "Çeviklik, yön ve pozisyon değiştirirken hız ve kontrolü koruma yeteneğidir; tanım ise genel hareket öğrenme ve uyum yeteneğini anlatır, bu nedenle çeviklik tanımla örtüşmez.",
+        "Denge, vücudun duruş pozisyonunu koruma veya bozulan dengeyi yeniden kurma yeteneğidir; tanımdaki 'zor hareketleri öğrenme' ve 'istenilen kuvvetle hareket üretme' ifadeleri dengeyle değil koordinasyonla ilişkilidir.",
+        "Sürat, bir hareketi veya mesafeyi en kısa zamanda tamamlama yeteneğidir; tanımda zaman kısıtı değil hareketin doğru öğrenilmesi ve uyumlu uygulanması vurgulanmaktadır, bu yüzden sürat tanımı karşılamaz."
+      ]
+    },
+    {
+      "question": "“Tüm vücudun her tür hareketinin koordinasyonudur.” şeklinde tanımlama yapan kişi kimdir?",
+      "options": [
+        "Meinel",
+        "Bompa",
+        "Schnabels",
+        "Ellis",
+        "Brown"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tüm vücudun her tür hareketinin koordinasyonudur' şeklindeki tanım, antrenman bilimi literatüründe Meinel'e atfedilen klasik koordinasyon tanımlarından biridir. Meinel, koordinasyonu vücudun bütün hareket sistemlerinin (kas, iskelet, sinir sistemi) bir bütün halinde uyum içinde çalışması olarak ele almıştır.",
+      "optionNotes": [
+        "Doğru yanıt: Bu tanım, koordinasyonu vücudun tüm hareket sisteminin bütüncül uyumu olarak ele alan Meinel'e aittir.",
+        "Bompa, antrenman periyotlaması ve kuvvet-güç antrenmanı alanındaki çalışmalarıyla tanınır; bu bütüncül koordinasyon tanımı literatürde ona atfedilmez.",
+        "Schnabel, koordinatif yeteneklerin çok yönlü alıştırmalarla gelişimi üzerine görüşleriyle tanınır; bu spesifik 'tüm vücudun koordinasyonu' tanımı ona ait değildir.",
+        "Ellis adı bu konudaki klasik koordinasyon tanımlamalarıyla ilişkilendirilen bir kaynak değildir, bu nedenle seçenek doğru değildir.",
+        "Brown da bu alandaki yerleşik koordinasyon tanımlarıyla anılan bir isim değildir, bu nedenle seçenek yanlıştır."
+      ]
+    },
+    {
+      "question": "Kişinin, bakmaksızın vücut organlarının ne yaptıklarının farkında olması duyarlılığı aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Göz-kas koordinasyonu",
+        "Prorioseptik duyarlılık",
+        "Zaman ayarlama",
+        "Kinestetik duyarlılık",
+        "Görerek Nişanlama"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kişinin bakmadan vücut organlarının nerede olduğunu ve ne yaptığını hissetmesi, kinestetik duyarlılık (kinestetik ayırt etme yeteneği) olarak tanımlanır. Bu duyarlılık, kas, tendon ve eklemlerdeki duyu reseptörlerinden gelen bilgilerin merkezi sinir sisteminde değerlendirilmesiyle oluşur ve sporcunun görmeden hareketlerinin pozisyonunu, hızını ve yönünü algılamasını sağlar.",
+      "optionNotes": [
+        "Göz-kas koordinasyonu, görsel uyaranla kas hareketinin eş zamanlı uyumunu ifade eder; burada 'bakmaksızın' farkındalık söz konusu olduğundan göz temelli bir koordinasyon değildir.",
+        "Prorioseptik duyarlılık kavramı kinestetik duyu ile yakından ilişkili olsa da bu soru setinde ayrı bir kategori olarak ele alınmaktadır ve sorudaki 'organların ne yaptığının bilinmesi' tanımı doğrudan kinestetik duyarlılık başlığı altında sınıflandırılmıştır.",
+        "Zaman ayarlama, bir hareketin doğru zamanda başlatılıp bitirilmesiyle ilgilidir; vücut organlarının konumunun bakmadan hissedilmesiyle değil, hareketin zamanlamasıyla ilgilidir.",
+        "Doğru yanıt: Bakmaksızın vücut organlarının pozisyon ve hareketinin hissedilmesi, kas-tendon-eklem reseptörlerinden gelen bilgiye dayanan kinestetik duyarlılığın tanımıdır.",
+        "Görerek nişanlama, bir hedefe görsel olarak yönelme ve isabet ettirme yeteneğidir; tanımda görmeden farkındalık söz konusu olduğundan görsel nişanlamayla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Futbolda havadaki topa kafa ile vurabilme ve istediği yöne gönderebilme aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Reaksiyon Zamanı",
+        "Hareket Sürati",
+        "Hareketin Yönü ve Uzaklığı",
+        "Görerek Nişanlama",
+        "Kassal Tansiyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Futbolda havadaki topa doğru anda ve istenen yöne kafa ile vurabilmek, topun konumunu gözle takip edip hedefe göre hareketi ayarlama yani görerek nişanlama yeteneğini gerektirir. Bu yetenek, görsel algı ile motor çıkışın (vuruş hareketinin) doğru şekilde eşleştirilmesine dayanır.",
+      "optionNotes": [
+        "Reaksiyon zamanı, bir uyarana karşı tepki verme süresiyle ilgilidir; burada vurgulanan ise topu gözle takip ederek doğru yöne gönderme, yani görsel hedefleme yeteneğidir.",
+        "Hareket sürati, bir hareketin en kısa sürede tamamlanma hızıdır; topu istenen yöne gönderebilme ise hız değil doğru hedefleme ile ilgilidir.",
+        "Hareketin yönü ve uzaklığını algılama genel bir kinestetik beceri olsa da bu örnekte asıl belirleyici unsur, topu gözle izleyip vuruşu buna göre ayarlamaktır; bu daha spesifik olarak görerek nişanlama kapsamındadır.",
+        "Doğru yanıt: Havadaki topu gözle takip ederek kafa vuruşunu istenen yöne doğru isabetli şekilde yapabilme, görsel hedefleme (görerek nişanlama) yeteneğinin bir örneğidir.",
+        "Kassal tansiyon (kas gerginliği), hareket sırasında kasların gerginlik derecesini ifade eder; topu istenen yöne gönderme becerisiyle doğrudan ilişkili değildir."
+      ]
+    },
+    {
+      "question": "Koşma, yürüme, sıçrama gibi vücudun çeşitli bölümlerinin rol aldığı hareket zincirinde yer alan koordinasyon türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel dinamik koordinasyon",
+        "Parçalara ayrılmış koordinasyon",
+        "Ayrı ayrı koordinasyon",
+        "Sağ ve sol koordinasyon",
+        "Aşağı yukarı koordinasyon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Koşma, yürüme ve sıçrama gibi hareketlerde kollar, bacaklar ve gövde gibi farklı vücut bölümleri, hareket zinciri içinde ayrı ayrı ama birbiriyle uyumlu şekilde art arda devreye girer. Bu tür, birbirinden farklı vücut bölümlerinin ayrı ayrı katıldığı ancak zincirleme bir bütün oluşturduğu hareketleri tanımlamak için 'ayrı ayrı koordinasyon' olarak adlandırılmıştır.",
+      "optionNotes": [
+        "Genel dinamik koordinasyon, vücudun bütününün aynı anda ve birlikte katıldığı global hareketleri ifade etmek için kullanılan farklı bir kavramdır; burada vurgulanan ise vücut bölümlerinin zincir halinde ayrı ayrı katılımıdır.",
+        "Parçalara ayrılmış koordinasyon bu konuda standart olarak kullanılan bir sınıflandırma terimi değildir, bu nedenle bu soruda doğru sınıflandırma değildir.",
+        "Doğru yanıt: Koşma, yürüme, sıçrama gibi hareketlerde vücudun farklı bölümleri ayrı ayrı ama art arda ve birbirine bağlı şekilde devreye girer; bu hareket zinciri 'ayrı ayrı koordinasyon' olarak tanımlanır.",
+        "Sağ ve sol koordinasyon, vücudun sağ ve sol taraflarının birbirine göre uyumunu ifade eden spesifik bir kavram olup, koşma-yürüme-sıçramadaki genel hareket zincirini tanımlamaz.",
+        "Aşağı yukarı koordinasyon, dikey eksendeki hareket uyumuna işaret eden spesifik bir kavram olup, burada sorulan çok bölümlü hareket zincirinin genel tanımını karşılamaz."
+      ]
+    },
+    {
+      "question": "Koordinasyonun Sınıflandırılması kaça ayrılır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antrenman bilimi literatüründe koordinasyon temel olarak 'genel koordinasyon' ve 'özel koordinasyon' olmak üzere iki ana başlık altında sınıflandırılır. Genel koordinasyon, farklı spor dallarında ortak olarak gerekli olan temel koordinatif yetenekleri kapsarken; özel koordinasyon, belirli bir spor branşına özgü hareket uyumunu ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Koordinasyon, genel koordinasyon ve özel koordinasyon olmak üzere iki temel sınıfa ayrılır.",
+        "Koordinasyon sınıflandırması üç ayrı kategori olarak ele alınmaz; literatürde temel ayrım iki başlık (genel-özel) üzerinden yapılır.",
+        "Dört kategoriye ayrım bu konudaki standart sınıflandırmayı yansıtmaz; fazladan kategoriler eklenerek yapılan bir ayrım söz konusu değildir.",
+        "Beş kategoriye ayrım, konunun temel ikili (genel-özel) yapısını karşılamayan, abartılı bir sayıdır.",
+        "Bu seçenek de beş sayısını vermektedir ve aynı şekilde koordinasyonun iki temel sınıfa ayrıldığı gerçeğiyle uyuşmamaktadır."
+      ]
+    },
+    {
+      "question": "…………..göre, temel gelişim ve bununla birlikte koordinatif yeteneklerin oluşumu çok yönlü ve değişken alıştırmalarla mümkündür. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Meinel",
+        "Bompa",
+        "Schnabels",
+        "Ellis",
+        "Brown"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alman spor bilimci Schnabel'e (metinde 'Schnabels' olarak geçmektedir) göre, temel motor gelişim ve koordinatif yeteneklerin oluşumu, dar kalıplara bağlı kalmadan çok yönlü ve değişken alıştırmalar yoluyla sağlanabilir. Schnabel, koordinatif yeteneklerin gelişiminde çeşitliliğin ve değişkenliğin önemine dikkat çeken kuramcılardan biridir.",
+      "optionNotes": [
+        "Meinel, koordinasyonu vücudun bütüncül hareket uyumu olarak tanımlayan kuramcıdır; çok yönlü-değişken alıştırma vurgusu literatürde ona değil Schnabel'e atfedilir.",
+        "Bompa, antrenman periyotlaması ve yüklenme prensipleriyle tanınır; koordinatif yeteneklerin çok yönlü alıştırmalarla kazanılması görüşü ona ait değildir.",
+        "Doğru yanıt: Temel gelişim ve koordinatif yeteneklerin çok yönlü, değişken alıştırmalarla kazanılabileceği görüşü Schnabel'e aittir.",
+        "Ellis, bu konuda atıf yapılan standart bir kaynak ismi değildir, dolayısıyla boşluğa uygun değildir.",
+        "Brown da bu çok yönlü alıştırma vurgusuyla anılan bir isim değildir, dolayısıyla boşluğa uygun değildir."
+      ]
+    },
+    {
+      "question": "I. Kaba Hareketler II. Kombine Hareketler III. Branşa Özgü Hareketler. Yukarıdakilerden hangisi veya hangileri Koordinasyon antrenmanının metodik ilkelerindendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Koordinasyon antrenmanının metodik ilkeleri; önce kaba (genel, basit) hareket kalıplarının öğrenilmesini, ardından bu hareketlerin kombine edilerek daha karmaşık hale getirilmesini ve son olarak branşa özgü, spor dalına özel hareket biçimlerine geçişi kapsar. Bu nedenle her üç madde de koordinasyon antrenmanının metodik ilkeleri arasında yer alır.",
+      "optionNotes": [
+        "Sadece kaba hareketleri doğru kabul etmek eksik bir yanıttır; kombine hareketler ve branşa özgü hareketler de metodik ilkelerin ayrılmaz birer parçasıdır.",
+        "Branşa özgü hareketleri dışarıda bırakmak eksiktir; koordinasyon antrenmanı kaba ve kombine hareketlerin ardından branşa özgü uygulamalarla tamamlanır.",
+        "Kombine hareketleri atlamak yanlıştır; kaba hareketlerden branşa özgü hareketlere geçiş sürecinde kombine hareketler ara aşama olarak mutlaka yer alır.",
+        "Kaba hareketleri dışarıda bırakmak yanlıştır; koordinasyon antrenmanı temel/kaba hareket kalıplarının öğrenilmesiyle başlar, bu aşama atlanamaz.",
+        "Doğru yanıt: Koordinasyon antrenmanının metodik ilkeleri; kaba hareketlerden kombine hareketlere, oradan da branşa özgü hareketlere ilerleyen üç aşamayı birlikte kapsar."
+      ]
+    },
+    {
+      "question": "Sporcunun hareketlerini eklemlerin müsaade ettiği oranda, geniş bir açıda ve değişik yönlere uygulayabilme yeteneğine ne ad verilir?",
+      "options": [
+        "Koordinasyon",
+        "Hareketlilik",
+        "Çeviklik",
+        "Denge",
+        "Sürat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sporcunun hareketlerini eklemlerin anatomik olarak izin verdiği ölçüde geniş bir açıda ve farklı yönlerde gerçekleştirebilmesi, hareketlilik (esneklik/mobilite) yeteneği olarak tanımlanır. Bu yetenek eklem yapısı, bağ-tendon esnekliği ve kas uzayabilirliği gibi faktörlere bağlıdır.",
+      "optionNotes": [
+        "Koordinasyon, hareketlerin sinir-kas sistemi tarafından uyumlu organize edilmesiyle ilgilidir; eklem açıklığı ve hareket genişliğiyle ilgili bir kavram değildir.",
+        "Doğru yanıt: Eklemlerin izin verdiği oranda geniş açıda ve farklı yönlerde hareket yapabilme yeteneği doğrudan hareketlilik (mobilite/esneklik) kavramının tanımıdır.",
+        "Çeviklik, yön değiştirme ve pozisyon değişimlerini hızlı ve kontrollü yapabilme yeteneğidir; eklem açıklığıyla değil hız ve kontrolle ilişkilidir.",
+        "Denge, duruş pozisyonunun korunması ya da bozulan pozisyonun yeniden kazanılmasıyla ilgilidir; eklem hareket genişliğini tanımlamaz.",
+        "Sürat, bir hareketin ya da mesafenin en kısa sürede tamamlanmasıyla ilgilidir; eklem açıklığı ya da hareket genişliğiyle bağlantılı değildir."
+      ]
+    },
+    {
+      "question": "Hareketliliğin gelişim devrelerine bakıldığında 12 – 15 yaşlarında hareketlilik nasıldır?",
+      "options": [
+        "Çok iyi",
+        "İyi",
+        "Kötü",
+        "Orta",
+        "Normal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hareketliliğin yaşa bağlı gelişim seyrinde, 12-15 yaş aralığı ergenliğe geçişle birlikte hızlı boy uzaması (büyüme atağı) döneminde kas-tendon uzunluğunun kemik uzamasına ayak uyduramaması nedeniyle hareketlilik düzeyinin gerilediği, yani 'kötü' olarak tanımlandığı bir dönemdir.",
+      "optionNotes": [
+        "Çok iyi düzey, genellikle 3-7 ve 7-10 yaş aralıklarında görülen erken çocukluk dönemine aittir; 12-15 yaş büyüme atağı nedeniyle tam tersi bir gerileme dönemidir.",
+        "İyi düzey daha çok 10-13 yaş aralığının başına ait bir değerlendirmedir; 12-15 yaş aralığında büyüme atağının etkisiyle hareketlilik belirgin şekilde düşer.",
+        "Doğru yanıt: 12-15 yaş aralığı, ergenlik büyüme atağı nedeniyle kemik uzamasının kas-tendon esnekliğini geride bıraktığı, hareketliliğin kötüleştiği bir dönemdir.",
+        "Orta düzey ifadesi bu yaş aralığındaki belirgin gerilemeyi yeterince yansıtmaz; literatürde bu dönem açıkça 'kötü' olarak sınıflandırılır.",
+        "Normal ifadesi büyüme atağının hareketlilik üzerindeki olumsuz ve belirgin etkisini göz ardı eder; bu dönem düşüş göstererek 'kötü' olarak tanımlanır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi çeviklik çalışmalarında dikkat edilecek noktalardan biri değildir?",
+      "options": [
+        "Antrenmanlar kombine şekilde uygulanmalıdır",
+        "Alıştırmaların temposu sabit olmalıdır",
+        "Koordinasyon kombinasyonları birleştirilmelidir",
+        "Direktif ve komut değiştirme çalışmaları uygulanabilir",
+        "Koordinasyon çalışmalarında tam dinlenme ilkesi uygulanır"
+      ],
+      "correctIndex": 1,
+      "explanation": "Çeviklik antrenmanlarında amaç, sporcunun değişen durumlara hızlı ve etkili tepki verebilmesini sağlamaktır. Bu nedenle alıştırmalar sabit ve değişmeyen bir tempoda değil, değişken hız ve ritimlerle, ani komut ve yön değişiklikleriyle uygulanmalıdır. 'Alıştırmaların temposu sabit olmalıdır' ifadesi bu yüzden yanlıştır ve çeviklik çalışmalarında dikkat edilmesi gereken noktalar arasında yer almaz.",
+      "optionNotes": [
+        "Bu ifade doğrudur; çeviklik çalışmalarında farklı koordinatif unsurların bir arada, kombine şekilde uygulanması önerilir, dolayısıyla aranan yanlış seçenek bu değildir.",
+        "Doğru yanıt: Çeviklik çalışmalarının amacı değişen durumlara hızlı uyum sağlamak olduğundan tempo sabit değil değişken tutulmalıdır; bu ifade bu yüzden yanlıştır ve dikkat edilecek noktalardan biri değildir.",
+        "Bu ifade doğrudur; farklı koordinasyon kombinasyonlarının birleştirilmesi çeviklik gelişimi için önerilen bir yöntemdir, dolayısıyla aranan yanlış seçenek bu değildir.",
+        "Bu ifade doğrudur; ani direktif ve komut değişiklikleri çevikliği geliştirmek için sıklıkla kullanılan bir yöntemdir, dolayısıyla aranan yanlış seçenek bu değildir.",
+        "Bu ifade doğrudur; koordinasyon ve çeviklik çalışmalarında merkezi sinir sisteminin yorulmaması için tam dinlenme ilkesine uyulması önerilir, dolayısıyla aranan yanlış seçenek bu değildir."
+      ]
+    },
+    {
+      "question": "Çocukluk döneminde gelişimini sürdüren denge becerisi….yaş civarında erişkinlik seviyelerine ulaşmaktadır.",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "13",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "Çocukluk döneminde kademeli olarak gelişen denge becerisi, merkezi sinir sistemi olgunlaşmasına paralel olarak yaklaşık 10 yaş civarında erişkin seviyesine ulaşır; bu yaştan sonra denge performansındaki artış büyük ölçüde teknik ve deneyim kazanımına bağlı hale gelir.",
+      "optionNotes": [
+        "5 yaş, denge becerisinin henüz erken gelişim evresinde olduğu bir dönemdir; erişkin seviyesine bu kadar erken ulaşılmaz.",
+        "7 yaş, denge gelişiminin sürmekte olduğu ama henüz erişkin düzeyine ulaşılmadığı bir ara dönemdir.",
+        "Doğru yanıt: Denge becerisi, merkezi sinir sisteminin olgunlaşmasıyla birlikte yaklaşık 10 yaş civarında erişkin seviyelerine ulaşmaktadır.",
+        "13 yaş, denge becerisinin zaten erişkin seviyesine ulaştığı dönemden sonrasına denk gelir; bu nedenle gelişimin tamamlandığı yaş olarak gösterilmesi yanlıştır.",
+        "15 yaş de aynı şekilde denge gelişiminin tamamlanmasından çok sonrasına işaret eder, bu yüzden doğru yanıt değildir."
+      ]
+    },
+    {
+      "question": "Çekiç atma, buz hokeyi gibi sportif aktiviteler hangi denge türüne örnektir?",
+      "options": [
+        "Motorsal Denge",
+        "Statik Denge",
+        "Dinamik Denge",
+        "Objeyle Denge",
+        "Genel Denge"
+      ],
+      "correctIndex": 3,
+      "explanation": "Çekiç atma ve buz hokeyi gibi branşlarda sporcu, kendi vücut dengesini bir araç veya nesneyle (çekiç, hokey sopası) etkileşim halinde korumak zorundadır. Bu tür, sporcunun bir objeyle birlikte ve o objenin hareketini de hesaba katarak dengesini sürdürmesini gerektiren 'objeyle denge' örneğidir.",
+      "optionNotes": [
+        "Motorsal denge, genel hareket kontrolü bağlamında kullanılan daha genel bir terimdir; burada vurgulanan özellik, bir nesneyle etkileşim halinde dengeyi koruma durumudur.",
+        "Statik denge, sabit bir pozisyonda hareketsiz dengeyi koruma yeteneğidir; çekiç atma ve buz hokeyi ise hareket halinde ve bir objeyle etkileşimli dinamik durumları içerir.",
+        "Dinamik denge, hareket sırasında genel vücut dengesinin korunmasını ifade eder; burada ise asıl belirleyici unsur bir obje (çekiç, sopa) ile etkileşim içinde dengenin sağlanmasıdır.",
+        "Doğru yanıt: Çekiç atma ve buz hokeyi gibi branşlarda sporcu, bir araç/nesneyle etkileşim halindeyken dengesini korumak zorundadır; bu durum objeyle denge örneğidir.",
+        "Genel denge, branşa özgü olmayan temel denge yeteneğini ifade eder; çekiç atma ve buz hokeyi örneği ise spesifik olarak bir nesneyle ilişkili denge durumunu temsil eder."
+      ]
+    },
+    {
+      "question": "Yukarıda görselde örnek olarak verilen hareketlilik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel Hareketlilik",
+        "Özel Hareketlilik",
+        "Aktif Hareketlilik",
+        "Pasif Hareketlilik",
+        "Statik Hareketlilik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aktif hareketlilik, sporcunun kendi kas kuvvetini kullanarak, herhangi bir dış yardım almadan bir eklemi mümkün olan en geniş açıya kadar hareket ettirebilme yeteneğidir. Örnekte sporcunun dış bir yardım almaksızın kendi kas gücüyle gerçekleştirdiği hareket genişliği bu nedenle aktif hareketlilik olarak sınıflandırılır.",
+      "optionNotes": [
+        "Genel hareketlilik, birçok eklemi ilgilendiren, branşa özgü olmayan temel hareket genişliğini ifade eder; burada ise dış yardım almadan kendi kas gücüyle yapılan bir hareket vurgulanmaktadır.",
+        "Özel hareketlilik, belirli bir spor dalına özgü eklemlerin çalışmasını ifade eder; burada asıl ayırt edici unsur hareketin dış yardımsız, kendi kas gücüyle yapılmasıdır.",
+        "Doğru yanıt: Dış bir yardım almadan, yalnızca kendi kas kuvvetini kullanarak eklemi geniş bir açıda hareket ettirebilme yeteneği aktif hareketliliğin tanımıdır.",
+        "Pasif hareketlilik, bir dış kuvvetin (partner, cihaz, yer çekimi vb.) yardımıyla eklemin hareket genişliğine ulaşmasıdır; burada ise hareket kişinin kendi kas gücüyle gerçekleştirilmektedir.",
+        "Statik hareketlilik, hareketsiz bir pozisyonda uzun süre tutularak ulaşılan eklem açıklığını ifade eder; burada ise aktif ve dinamik bir hareket söz konusudur."
+      ]
+    },
+    {
+      "question": "Hareketliliğin gelişim devreleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "3 – 7 yaş arasında hareketlilik çok iyidir",
+        "7 – 10 yaşlarında çok iyidir",
+        "10 – 13 yaşları arasında iyi",
+        "12 – 15 yaşlarında kötü",
+        "15 – 19 yaşlarında kötü"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hareketliliğin yaşa bağlı gelişim seyrinde 3-7 ve 7-10 yaş aralıkları çok iyi, 10-13 yaş iyi, 12-15 yaş (büyüme atağı nedeniyle) kötü olarak sınıflandırılır. Ancak büyüme atağının etkisi azaldıkça 15-19 yaş aralığında hareketlilik yeniden düzelme eğilimine girer; bu nedenle bu dönemi de 'kötü' olarak nitelemek yanlıştır.",
+      "optionNotes": [
+        "Bu ifade doğrudur; 3-7 yaş aralığı erken çocukluk döneminde hareketliliğin çok iyi olduğu bir evredir, dolayısıyla aranan yanlış ifade bu değildir.",
+        "Bu ifade doğrudur; 7-10 yaş aralığında da hareketlilik düzeyi hâlâ çok iyi seviyededir, dolayısıyla aranan yanlış ifade bu değildir.",
+        "Bu ifade doğrudur; 10-13 yaş aralığında hareketlilik iyi düzeyde kabul edilir, dolayısıyla aranan yanlış ifade bu değildir.",
+        "Bu ifade doğrudur; 12-15 yaş aralığı ergenlik büyüme atağı nedeniyle hareketliliğin kötüleştiği bir dönemdir, dolayısıyla aranan yanlış ifade bu değildir.",
+        "Doğru yanıt: Büyüme atağının olumsuz etkisi 15 yaşından sonra azalmaya başladığından, 15-19 yaş aralığında hareketlilik düzeyi kötü değil düzelme eğilimindedir; bu nedenle bu ifade yanlıştır."
+      ]
+    },
+    {
+      "question": "Hareket akışı içerisinde kullanılan belli eklemlerin çalışmasıdır. Örneğin, engelli koşularda kalça eklemi. Yukarıda özellikleri verilen hareketlilik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel Hareketlilik",
+        "Özel Hareketlilik",
+        "Aktif Hareketlilik",
+        "Pasif Hareketlilik",
+        "Statik Hareketlilik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hareket akışı içinde kullanılan, branşa özgü belirli eklemlerin çalışmasını ifade eden hareketlilik türü 'özel hareketlilik' olarak adlandırılır. Engelli koşularında kalça ekleminin geniş açıda ve etkin kullanımı, o branşa özgü (genel değil, spesifik) bir hareketlilik gereksinimi olduğundan özel hareketlilik örneğidir.",
+      "optionNotes": [
+        "Genel hareketlilik, birçok eklemi kapsayan ve branşa özgü olmayan temel bir hareket genişliğini ifade eder; burada ise sadece belirli bir branşa özgü tek bir eklemin (kalça) kullanımı söz konusudur.",
+        "Doğru yanıt: Hareket akışında belirli bir branşa özgü eklemlerin (engelli koşusunda kalça ekleminin) kullanılması özel hareketlilik olarak tanımlanır.",
+        "Aktif hareketlilik, kişinin dış yardım almadan kendi kas gücüyle hareket genişliğine ulaşmasıyla ilgilidir; burada ise ayırt edici unsur hareketin belirli bir branşa özgü olmasıdır, destek alıp almama değildir.",
+        "Pasif hareketlilik, dış bir yardımla ulaşılan eklem açıklığını ifade eder; soruda bahsedilen ise branşa özgü eklem kullanımı olup dış yardım durumu belirtilmemiştir.",
+        "Statik hareketlilik, sabit pozisyonda tutularak ulaşılan eklem açıklığını ifade eder; engelli koşusu ise dinamik bir hareket akışı içinde gerçekleşir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi hareketlilik antrenmanlarında, dikkat edilmesi gereken temel ilkelerden biri değildir?",
+      "options": [
+        "Hareket serileri 10-15 tekrarla bitirilmelidir.",
+        "Hareketlilik çalışmalarında tek yönlü çalışma istenir",
+        "Hareketlilik bütün spor türlerinde bağımsız düşünülmelidir.",
+        "Yarışmalar sırasında uygulanacak hareketlilik çalışmalarının 1/3’ü genel, 2/3’ü özel hareketlilik olmalıdır",
+        "Hareketlilik çalışmalarına genel ısınma ile başlanmalıdır"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hareketlilik antrenmanlarında temel ilke, eklemlerin farklı yönlerdeki hareket genişliğini geliştirmek amacıyla çok yönlü çalışmanın uygulanmasıdır. Tek yönlü (yalnızca bir düzlemde) çalışma, eklem çevresindeki kas gruplarının dengeli gelişimini sağlamadığından önerilmez; bu nedenle 'tek yönlü çalışma istenir' ifadesi yanlıştır.",
+      "optionNotes": [
+        "Bu ifade doğrudur; hareketlilik çalışmalarında hareket serilerinin 10-15 tekrarla tamamlanması önerilen temel ilkelerden biridir, dolayısıyla aranan yanlış seçenek bu değildir.",
+        "Doğru yanıt: Hareketlilik antrenmanlarında eklem çevresi kaslarının dengeli gelişimi için çok yönlü çalışma gereklidir; tek yönlü çalışma önerilmez, bu nedenle bu ifade yanlıştır.",
+        "Bu ifade doğrudur; hareketlilik her spor dalında o dalın gereksinimlerine özgü, bağımsız olarak ele alınması gereken bir özelliktir, dolayısıyla aranan yanlış seçenek bu değildir.",
+        "Bu ifade doğrudur; yarışma döneminde hareketlilik çalışmalarının ağırlıklı olarak (2/3) özel hareketliliğe yönelik olması önerilen bir ilkedir, dolayısıyla aranan yanlış seçenek bu değildir.",
+        "Bu ifade doğrudur; hareketlilik çalışmalarına sakatlanma riskini azaltmak için genel ısınmayla başlanması temel bir ilkedir, dolayısıyla aranan yanlış seçenek bu değildir."
+      ]
+    },
+    {
+      "question": "Hareketlilik çalışmaları, müsabakaya kaç dakika kala bitirilmelidir?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hareketlilik (esneklik) çalışmalarının müsabakadan çok önce bitirilmesi, kazanılan eklem açıklığının ve kas sıcaklığının müsabaka başlangıcına kadar kaybolmasına yol açabileceğinden, bu çalışmaların müsabakaya yakın bir zamanda, yaklaşık 5 dakika kala tamamlanması önerilir.",
+      "optionNotes": [
+        "Doğru yanıt: Hareketlilik çalışmalarının kazandırdığı eklem açıklığının ve kas ısınmasının korunması için bu çalışmalar müsabakaya yaklaşık 5 dakika kala bitirilmelidir.",
+        "10 dakika, önerilen süreden daha uzun bir aralıktır; bu kadar erken bitirilen çalışmanın etkisi müsabaka başlangıcına kadar azalabilir.",
+        "15 dakika, kazanılan hareketlilik etkisinin müsabaka anına kadar önemli ölçüde zayıflamasına yol açabilecek kadar uzun bir süredir.",
+        "20 dakika, önerilen süreye göre fazlasıyla uzundur ve esneklik kazanımının kaybolma riskini artırır.",
+        "25 dakika da aynı şekilde önerilen 5 dakikalık süreden çok daha uzun olduğundan doğru yanıt değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi çevikliğin olmazsa olmaz 3 unsuru arasında yer almaktadır?",
+      "options": [
+        "Koordinasyon denge ve patlayıcılık",
+        "Koordinasyon denge ve sürat",
+        "Koordinasyon denge ve esneklik",
+        "Koordinasyon denge ve hareketlilik",
+        "Koordinasyon denge ve süreklilik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Çeviklik; vücudun yön, pozisyon veya hızını hızlı ve etkin şekilde değiştirebilme yeteneğidir ve bu yeteneğin temelinde koordinasyon, denge ve patlayıcı kuvvet (patlayıcılık) olmak üzere üç temel unsur yer alır. Bu üç bileşen olmadan etkili ve hızlı yön değiştirmeler gerçekleştirilemez.",
+      "optionNotes": [
+        "Doğru yanıt: Çevikliğin olmazsa olmaz üç temel bileşeni koordinasyon, denge ve patlayıcılıktır; bu üçü birlikte hızlı ve kontrollü yön değişimlerini mümkün kılar.",
+        "Sürat, çevikliğe katkı sağlayan bir unsur olsa da çevikliğin tanımlayıcı üç temel bileşeninden biri olarak kabul edilen patlayıcılığın yerini tutmaz; çeviklik sadece hızlı koşmakla değil ani yön değiştirmeyle ilgilidir.",
+        "Esneklik, eklem hareket genişliğiyle ilgili bir özellik olup çevikliğin olmazsa olmaz temel üç bileşeni arasında sayılmaz; çeviklik daha çok nöromüsküler kontrol ve patlayıcı güçle ilişkilidir.",
+        "Hareketlilik de eklem açıklığıyla ilgilidir ve çevikliğin tanımındaki üç temel unsurdan biri olarak kabul edilmez; patlayıcılık bu rolü üstlenir.",
+        "Süreklilik (dayanıklılık benzeri bir kavram), uzun süreli performansla ilişkilidir ve ani, patlayıcı yön değişimlerini gerektiren çevikliğin temel bileşenleri arasında yer almaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Çeviklik antrenmanı için yapılan driller arasında yer almaz?",
+      "options": [
+        "Bisiklete binme",
+        "İleri geri sıçramalar",
+        "Çaprazlama atlama",
+        "Açılı tahta",
+        "Çabukluk Alıştırmaları"
+      ],
+      "correctIndex": 4,
+      "explanation": "Çeviklik antrenmanında kullanılan driller; bisiklete binme, ileri-geri sıçramalar, çaprazlama atlama ve açılı tahta çalışmaları gibi yön ve pozisyon değişimini zorlayan somut uygulamalardır. 'Çabukluk alıştırmaları' ise bu spesifik drillerin aksine, çeviklik antrenmanının ayrı bir antrenman türü/kategorisi olarak ele alınır, bu yüzden drill listesinde yer almaz.",
+      "optionNotes": [
+        "Bisiklete binme, denge ve koordinasyonu zorlayan somut bir çeviklik drili olarak kullanılır, dolayısıyla aranan 'yer almayan' seçenek bu değildir.",
+        "İleri geri sıçramalar, yön değiştirme ve patlayıcılığı birleştiren tipik bir çeviklik drili olduğundan aranan yanıt bu değildir.",
+        "Çaprazlama atlama, koordinasyon ve denge gerektiren somut bir çeviklik drili olarak kullanılır, dolayısıyla aranan yanıt bu değildir.",
+        "Açılı tahta çalışması da denge ve yön kontrolünü geliştiren somut bir çeviklik drili olduğundan aranan yanıt bu değildir.",
+        "Doğru yanıt: Çabukluk alıştırmaları, diğer seçeneklerdeki somut ve spesifik drillerin aksine, çeviklik antrenmanının ayrı bir türü/kategorisi olarak ele alınır ve bu drill listesinde yer almaz."
+      ]
+    },
+    {
+      "question": "I. Yön değiştirme Tekniğine Yönelik Alıştırmalar II. Kapalı Beceri Alıştırmaları III. Çabukluk Alıştırmaları IV. Reaktif Çeviklik Antrenmanı. Yukarıdakilerden hangileri Çeviklik antrenman çeşitleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Çeviklik antrenmanı; yön değiştirme tekniğine yönelik alıştırmalar, kapalı beceri alıştırmaları, çabukluk alıştırmaları ve reaktif çeviklik antrenmanı olmak üzere dört temel türe ayrılır. Bu dört tür birlikte, sporcunun hem önceden planlanmış hem de ani/beklenmedik durumlara karşı çeviklik gelişimini kapsamlı şekilde destekler.",
+      "optionNotes": [
+        "Sadece yön değiştirme tekniği alıştırmalarını doğru kabul etmek eksiktir; kapalı beceri, çabukluk ve reaktif çeviklik antrenmanları da çeviklik antrenman çeşitleri arasındadır.",
+        "Sadece kapalı beceri alıştırmalarını doğru kabul etmek eksiktir; diğer üç tür de çeviklik antrenmanı kapsamında yer alır.",
+        "Çabukluk ve reaktif çeviklik antrenmanını dışarıda bırakmak eksiktir; bu iki tür de çeviklik antrenman çeşitleri arasında sayılır.",
+        "Reaktif çeviklik antrenmanını dışarıda bırakmak eksiktir; ani ve beklenmedik durumlara tepki vermeyi geliştiren bu tür de çeviklik antrenmanının önemli bir parçasıdır.",
+        "Doğru yanıt: Yön değiştirme tekniği, kapalı beceri, çabukluk ve reaktif çeviklik antrenmanlarının tümü, çeviklik antrenman çeşitleri arasında yer alır."
+      ]
+    },
+    {
+      "question": "Teniste top ile raketi buluşturmak, aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Göz-kas koordinasyonu",
+        "Prorioseptik duyarlılık",
+        "Zaman ayarlama",
+        "Kinestetik duyarlılık",
+        "Görerek Nişanlama"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teniste topun hareketini gözle takip edip raketi doğru zamanda ve doğru konumda topla buluşturabilmek, görsel algı ile kolun/elin motor hareketinin eş güdümlü çalışmasını gerektirir; bu, göz-kas koordinasyonunun tipik bir örneğidir.",
+      "optionNotes": [
+        "Doğru yanıt: Topun hareketini gözle takip ederek raketi doğru anda ve konumda topla buluşturmak, görsel algı ile kas hareketinin eşgüdümünü gerektiren göz-kas koordinasyonunun tipik bir örneğidir.",
+        "Proriyoseptif duyarlılık, vücudun kendi pozisyonunu iç duyularla hissetmesiyle ilgilidir; burada ise asıl belirleyici unsur görsel takip ile elin hareketinin eşleştirilmesidir.",
+        "Zaman ayarlama, bir hareketin doğru zamanda başlatılmasıyla ilgili olsa da burada vurgulanan temel unsur, görme ile kas hareketinin uzamsal olarak buluşturulmasıdır, yani göz-kas koordinasyonudur.",
+        "Kinestetik duyarlılık, bakmaksızın vücut organlarının ne yaptığının hissedilmesiyle ilgilidir; teniste top-raket buluşması ise doğrudan görsel takibe dayandığından bu kategoriye girmez.",
+        "Görerek nişanlama, bir hedefe isabet ettirme amacına yöneliktir; top ile raketi buluşturma eylemi ise daha çok anlık görsel-motor eşgüdümü (göz-kas koordinasyonu) gerektirir."
+      ]
+    },
+    {
+      "question": "I. Genel ve özel hareketlilik II. Aktif ve pasif hareketlilik III. Statik ve dinamik hareketlilik. Yukarıdakilerden hangileri Hareketlilik Sınıflandırılmaları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Hareketlilik; genel-özel hareketlilik, aktif-pasif hareketlilik ve statik-dinamik hareketlilik olmak üzere farklı açılardan sınıflandırılabilir. Bu üç sınıflandırma biçimi de literatürde kabul gören ve birbirini tamamlayan hareketlilik ayrımlarıdır.",
+      "optionNotes": [
+        "Sadece genel-özel hareketlilik ayrımını doğru kabul etmek eksiktir; aktif-pasif ve statik-dinamik ayrımları da geçerli hareketlilik sınıflandırmaları arasındadır.",
+        "Statik-dinamik hareketlilik ayrımını dışarıda bırakmak eksiktir; bu ayrım da literatürde kabul gören bir hareketlilik sınıflandırmasıdır.",
+        "Aktif-pasif hareketlilik ayrımını dışarıda bırakmak eksiktir; bu ayrım, hareketin dış yardımla veya kişinin kendi kas gücüyle yapılması açısından önemli bir sınıflandırmadır.",
+        "Genel-özel hareketlilik ayrımını dışarıda bırakmak eksiktir; bu ayrım, hareketliliğin branşa özgü olup olmamasını belirleyen temel bir sınıflandırmadır.",
+        "Doğru yanıt: Genel-özel, aktif-pasif ve statik-dinamik hareketlilik ayrımlarının üçü de literatürde kabul edilen ve birbirini tamamlayan hareketlilik sınıflandırmalarıdır."
+      ]
+    }
+  ]
+}

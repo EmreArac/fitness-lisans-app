@@ -1,0 +1,315 @@
+{
+  "course": "havb1",
+  "unit_index": 8,
+  "topic": "Yetenek Seçimi ve İlkeleri",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi yetenek seçiminde etkili faktörlerden aileyle ilgili değildir?",
+      "options": [
+        "Ebeveynler",
+        "Akrabalar",
+        "Ekonomik ve Sosyal Durum",
+        "Eğitim Düzeyi",
+        "Yöneticiler"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "özellikle erken özelleşme ile küçük yaşlarda başlayan yoğun antrenmanların kadınlarda ilerleyen yıllarda………………..adıyla sağlık problemlerine neden olmaktadır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Pazartesi",
+        "Peter Pan",
+        "Huzursuz Bacaklar",
+        "Kadın Spor Üçlemesi",
+        "Stockholm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Bireyin düzenli spor yaptığı veya spor eğitimi aldığı sürenin yıl olarak ifade edilmesine ne ad verilir?",
+      "options": [
+        "Bağıl Yaş",
+        "Antrenman Yaşı",
+        "Biyolojik yaş",
+        "Relatif yaş",
+        "Takvim Yaşı"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "İnsanın…………..yaşı dış görünüşü, fiziksel yapısı, kas kütlesi, kemik yaşı ve laboratuvar testleriyle hormon ölçümleri ve telomer testi ile alınan kan örneklerinden elde edilen bulgular incelenerek belirlenmeye çalışılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Bağıl",
+        "Antrenman",
+        "Biyolojik",
+        "Relatif",
+        "Takvim"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ergenlik öncesi 8-12 yaş aralığında takvim yaşı ile biyolojik yaş arasında fark kaçla kaç arasında olabilir?",
+      "options": [
+        "1 – 3",
+        "1 – 5",
+        "2 – 4",
+        "3 – 5",
+        "4 – 6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bireyin kronolojik yaşına göre doğduğu ay dikkate alınarak hesaplandığı yaş aşağıdakilerden hangisidir?",
+      "options": [
+        "Bağıl Yaş",
+        "Antrenman Yaşı",
+        "Biyolojik yaş",
+        "Relatif yaş",
+        "Takvim Yaşı"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "İnsanların doğumundan itibaren yaşadığı sürenin an itibariyle yıl olarak ifadesine ne ad verilir?",
+      "options": [
+        "Bağıl Yaş",
+        "Antrenman Yaşı",
+        "Biyolojik yaş",
+        "Relatif yaş",
+        "Takvim Yaşı"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sol el bilek kemiklerinin parmaklar hafif bitişik ve dorsal pozisyonda çekilen radyografileri incelenerek belirlenen yaş aşağıdakilerden hangisidir?",
+      "options": [
+        "Kemik Yaşı",
+        "Gelişim Yaşı",
+        "Antrenman Yaşı",
+        "Bağıl Yaş",
+        "Relatif yaş"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bireyin bilişsel, duyuşsal ve psikomotor öğrenme alanlarındaki gelişiminin farklı alan testleri ve gözlemler yapılarak uzman değerlendirmeleri sonucunda mevcut gelişim düzeyinin belirlenmesi ve aynı düzeyde bulunan diğer bireylerin ortalama takvim yaşına göre gelişim yaşının ifade edilmesine ne ad verilir?",
+      "options": [
+        "Kemik Yaşı",
+        "Gelişim Yaşı",
+        "Antrenman Yaşı",
+        "Bağıl Yaş",
+        "Relatif yaş"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Yatkınlık II. Eğilim III. Sportif uygunluk Yukarıdakilerden hangileri yetenek seçimi ve yönlendirme sürecinin önemli alt bileşenlerdendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Günümüzde bireyin sportif performansını etkileyen kaç gen türü tespit edilmiştir?",
+      "options": [
+        "99",
+        "119",
+        "189",
+        "209",
+        "239"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Koordinatif yeteneklerden biri değildir?",
+      "options": [
+        "Denge",
+        "Antisipasyon",
+        "Ritim",
+        "Reaksiyon",
+        "Esneklik"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Dış kuvvetler karşısında, destek noktaları üzerinde vücudun merkezde duruşunu sürdürme ve muhafaza yeteneğine ne ad verilir?",
+      "options": [
+        "Antisipasyon",
+        "Denge",
+        "Hareketlilik",
+        "Ritim",
+        "Esneklik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Denge yeteneğinin gelişimi anne karnında kaçıncı haftadan itibaren oluşmaya başlar?",
+      "options": [
+        "12. Hafta",
+        "16. Hafta",
+        "20. Hafta",
+        "24. Hafta",
+        "30. Hafta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Bireyin, motorik bir hareketi gerçekleştirmeden önce karşılaşacağı olayı veya durumu önceden tahmin ederek ve zihninde canlandırarak daha hızlı tepkide bulunmasını sağlayan zihinsel sürece ne ad verilir?",
+      "options": [
+        "Denge",
+        "Antisipasyon",
+        "Ritim",
+        "Reaksiyon",
+        "Esneklik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Çocukların ve gençlerin; kişisel tercihleri, ailelerinin istek ve beklentileri, yaşadıkları çevrenin Sosyo - kültürel yapısı gibi öznel faktörlerin etkisiyle spora yönelmesine dayalı yöntem aşağıdakilerden hangisidir?",
+      "options": [
+        "Doğal seçim",
+        "Bilimsel seçim",
+        "Dolaylı seçim",
+        "Doğrudan seçim",
+        "Bireysel seçim"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sinir kas sisteminin uzun süreli olarak ve tekrarlı bir şekilde kuvvet üretimini sürdürebilme özelliğine ne ad verilir?",
+      "options": [
+        "Reaksiyon sürati",
+        "İvmelenme sürati",
+        "Hareket sürati",
+        "Maksimal kuvvet",
+        "Kuvvette devamlılık"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Araştırmacılar kaç yaşından itibaren fiziksel ritim yeteneğinin doğrusal bir gelişim gösterdiğini ifade etmiştir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Yüksek denge ve koordinasyon, estetik görüntü, ritim ve akıcılık özelliklerinin önemli olduğu spor branşı aşağıdakilerden hangisidir?",
+      "options": [
+        "Cimnastik",
+        "Güreş",
+        "Bisiklet",
+        "Futbol",
+        "Kayak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Maraton branşı için gerekli olan en temel yetenek………….özelliğidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Dayanıklılık",
+        "Kuvvet",
+        "Sürat",
+        "Esneklik",
+        "Denge"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Araştırmalar aerobik sistemin dinlenme sırasında ATP üretirken…..oranında yağları kullandığını….oranında karbonhidratları kullandığını göstermektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "%20 - %60",
+        "%30 - %50",
+        "%40 - %40",
+        "%50 - %30",
+        "%70 - %30"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Bir cimnastikçinin seri oluşturması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Tepki Yetisi",
+        "Durum Değiştirme Yetisi",
+        "Oryantasyon Yetisi",
+        "Hareketi Bağlama Yetisi",
+        "Denge Yetisi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "VO2Maks değerleri elit dayanıklılık sporcularında ortalama kaç ml/kg’dır?",
+      "options": [
+        "30",
+        "45",
+        "55",
+        "70",
+        "85"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Araştırmacılar, çocukların temel spor eğitimine kaç yaşından itibaren başlamasını önermektedir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Erken Katılım II. Geç Katılım III. Rekreasyonel Katılım Yukarıdakilerden hangileri Doğal seçim dönemleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Bir ya da birden çok uyarana karşı en kısa zamanda hareket etme yetisine ne ad verilir?",
+      "options": [
+        "Tepki Yetisi",
+        "Durum Değiştirme Yetisi",
+        "Oryantasyon Yetisi",
+        "Hareketi Bağlama Yetisi",
+        "Denge Yetisi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hareket hızını en kısa süre içerisinde artırabilme yeteneği olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Reaksiyon sürati",
+        "İvmelenme sürati",
+        "Hareket sürati",
+        "Maksimal kuvvet",
+        "Kuvvette devamlılık"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Çocuklar, yaşadıkları çevrenin ve ailenin etkisiyle bazen yetenek ve istekleri ile örtüşmeyen bazı spor branşlarına başladıktan sonra……………….ile dallarını değiştirebilirler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Çapraz katılım",
+        "Geç katılım",
+        "Rekreasyonel katılım",
+        "Erken katılım",
+        "Tesadüfen katılım"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

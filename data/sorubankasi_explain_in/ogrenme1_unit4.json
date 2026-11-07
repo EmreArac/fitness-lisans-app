@@ -1,0 +1,271 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 4,
+  "topic": "Motor Gelişim",
+  "questions": [
+    {
+      "question": "Genotipte genellikle büyük harfle gösterilen ve heterozigot durumda dış görünüşte (fenotipte) etkisini gösterebilen gen türüne ne ad verilir?",
+      "options": [
+        "Baskın gen",
+        "Çekinik gen",
+        "Homozigot",
+        "Heterozigot",
+        "Fenotip"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "İki alel genin baskın ya da çekinik olma özelliklerinin aynı olmasına ne denir?",
+      "options": [
+        "Baskın gen",
+        "Çekinik gen",
+        "Homozigot",
+        "Heterozigot",
+        "Fenotip"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Piaget’in, bilişsel gelişim kuramı kaç dönemden oluşmaktadır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Piaget’in, bilişsel gelişim kuramında 2 – 6 yaş aralığı hangi döneme denk gelmektedir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "……....aşamasında, çocuklar çevreyle etkileşimde bulunarak duyma, dokunma, görme vb. yollarla bilgi edinirler. İkinci aşama olan……….aşaması, çocukların, elde ettikleri bilgiye tepki vermesinden sonrasında, verdikleri tepkilerde değişiklikler meydana geldiği süreçtir. Son faz olan……….aşamasındaysa çocuk, mevcut durumda tepki verdiği bilgiye uyum sağlayarak yeni tepkiler geliştirir. Yukarıdaki boşluklara aşağıdakilerden hangileri getirilmelidir?",
+      "options": [
+        "Özümleme – uyma – adaptasyon",
+        "Özümleme – adaptasyon – uyma",
+        "Uyma – özümleme – adaptasyon",
+        "Uyma – adaptasyon – özümleme",
+        "Adaptasyon – uyma – özümleme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bir çocuk, ‘bopopter’ dediğinde aslında helikopterden bahsetmesi ya da elini yukarı kaldırıp salladığında, o anda uçan bir helikopterin pervanesini işaret etmeye çalışması Piaget’in, bilişsel gelişim kuramında hangi döneme denk gelmektedir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nesnelerin sürekliliği, taklit etme ve deneme-yanılma gibi kavramların ele alındığı Piaget’in, bilişsel gelişim dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Mantığın daha ön planda olduğu ve nesneler arasında kurulan nedensel mantık olarak adlandırılan, Piaget’in, bilişsel gelişim dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Çocukların düşünce sisteminin yetişkinlerle aynı seviyeye ulaştığı ve sorunlara tümdengelim ya da tümevarım yoluyla yaklaşabildikleri, bilişsel gelişim dönemi aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem Öncesi Dönemi",
+        "Somut İşlemler Dönemi",
+        "Duyusal Motor Dönem",
+        "Soyut işlemler Dönemi",
+        "Erken Çocukluk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Çevre tarafından sunulan ve öğrenmeye etki ederek, gelişimsel özelliklerin ortaya çıkmasına katkıda bulunan edinimlere ne ad verilmektedir?",
+      "options": [
+        "Motor öğrenme",
+        "Motor kontrol",
+        "Motor davranış",
+        "Motor performans",
+        "Deneyim"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Embriyonun oluşmasından, fiziksel olgunlaşma sürecinin sonuna kadar birey üzerinde etkisi bulunan, çevresel faktörlerden etkilenen vücut ölçülerindeki niceliksel artışı ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Büyüme",
+        "Gelişim",
+        "Hareket",
+        "Öğrenme",
+        "Olgunlaşma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bir voleybolcunun smaç vuruşu sırasında bacaklarının, kollarının, gövdesinin ve başının oluşturduğu fiziksel düzen………olarak adlandırılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Hareket",
+        "Form",
+        "Motor beceri",
+        "Temel motor beceriler",
+        "Spor becerisi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Yetişkin bireylerde vücudun kendini korumak için gerçekleştirdiği tepkilere ne ad verilir?",
+      "options": [
+        "Refleks",
+        "Reaksiyon",
+        "Öğrenme",
+        "Olgunlaşma",
+        "Gelişim"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kişinin olgunlaşma ve öğrenme süreçleri sonucunda, belli bir işi yapabilecek duruma gelmesi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Hareket",
+        "Öğrenme",
+        "Psikomotor Gelişim",
+        "Hazırbulunuşluk",
+        "Olgunlaşma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Bebeklik dönemindeki hareket kalıplarından, çocuk ve gençlerin daha fonksiyonel ve daha becerili hareketlere doğru ilerlemelerine ne ad verilir?",
+      "options": [
+        "Farklılaşma",
+        "Bütünleşme",
+        "Gelişim Yönü",
+        "Büyüme Hızı",
+        "Kritik (Hassas) Dönem"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Duyu sistemlerinin ve çeşitli kas gruplarının koordineli bir şekilde çalışmasına ne ad verilir?",
+      "options": [
+        "Farklılaşma",
+        "Bütünleşme",
+        "Gelişim Yönü",
+        "Büyüme Hızı",
+        "Kritik (Hassas) Dönem"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Filo kelimesi neyi ifade etmektedir?",
+      "options": [
+        "Topluluk",
+        "Akraba",
+        "Kültür",
+        "Gelenek",
+        "Ülke"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aşağıdakilerden hangisi filogenetik becerilere verilen örneklerden biri değildir?",
+      "options": [
+        "Atma",
+        "Tutma",
+        "Yakalama",
+        "Yürüme",
+        "Kaleye şut atma"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Çevre uyaranları ve öğrenme iş birliği sonucunda gelişen becerilere ne ad verilmektedir?",
+      "options": [
+        "Filogenetik",
+        "Ontogenetik",
+        "Çevre",
+        "Kalıtım",
+        "Genotip"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Belirli bir sıra izleyerek kendiliğinden oraya çıkan bütün özelliklere ne ad verilir?",
+      "options": [
+        "Filogenetik",
+        "Ontogenetik",
+        "Çevre",
+        "Kalıtım",
+        "Genotip"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Üreme esnasında anne ve babada bulunan özelliklerin genler yoluyla genç kuşağa aktarılması ne olarak tanımlanmaktadır?",
+      "options": [
+        "Çevre",
+        "Kalıtım",
+        "Genotip",
+        "Fenotip",
+        "Baskın gen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Yuvarlak kafatası II. Koyu göz rengi III. Esmer ten rengi IV. Kısa boy Yukarıda verilenlerden hangileri baskın gen özelliklerindendir?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Canlıların taşıdığı baskın ve çekinik genlerin tümüne verilen ada ne denir?",
+      "options": [
+        "Kalıtım",
+        "Genotip",
+        "Fenotip",
+        "Homozigot",
+        "Heterozigot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Genotipte bulunan ve çevrenin de etkisiyle canlının dış görünüşüne yansıyan özelliklere ne ad verilir?",
+      "options": [
+        "Kalıtım",
+        "Fenotip",
+        "Homozigot",
+        "Heterozigot",
+        "Çevre"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

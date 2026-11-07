@@ -1,0 +1,558 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 6,
+  "topic": "Spor Pedagojisi",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi açık(gözlenebilir) davranışlardan biri değildir?",
+      "options": [
+        "Konuşma",
+        "Yürüme",
+        "Koşma",
+        "Yemek yeme",
+        "Düşünme"
+      ],
+      "correctIndex": 4,
+      "explanation": "Davranışlar açık (gözlenebilir) ve kapalı (örtük/gizil) olmak üzere ikiye ayrılır. Açık davranışlar, dışarıdan bir gözlemci tarafından doğrudan görülüp ölçülebilen davranışlardır; konuşma, yürüme, koşma ve yemek yeme bu gruba girer. Düşünme ise bireyin zihninde gerçekleşen, dışarıdan doğrudan gözlenemeyen, ancak bireyin dışa vurduğu diğer davranışlardan (konuşma, yazma, mimik vb.) dolaylı olarak çıkarım yapılabilen kapalı/örtük bir davranıştır. Bu nedenle doğru yanıt düşünmedir.",
+      "optionNotes": [
+        "Konuşma dışarıdan duyulup kaydedilebilen, yani açık/gözlenebilir bir davranıştır; bu yüzden soruda aranan 'gözlenebilir olmayan davranış' değildir.",
+        "Yürüme, gözle doğrudan izlenebilen motor bir davranış olduğundan açık davranış sınıfına girer, soru ile uyuşmaz.",
+        "Koşma da dışarıdan net biçimde gözlenip ölçülebilen bir davranıştır, dolayısıyla kapalı davranış örneği değildir.",
+        "Yemek yeme, gözlemcinin doğrudan görebileceği fiziksel bir eylem olduğu için açık davranıştır, soruda sorulan istisna değildir.",
+        "Doğru yanıt: Düşünme, bireyin iç dünyasında gerçekleşen ve dışarıdan doğrudan gözlemlenemeyen kapalı/örtük bir süreçtir, bu yüzden açık davranışlardan biri değildir."
+      ]
+    },
+    {
+      "question": "I. Kişinin kendini gerçekleştirmesini sağlamak II. Bireyi yaratıcı ve üretici yaşama hazırlamak III. Erdemli, girişimci ve sağlam karakterli bir kişilik yetiştirmek Yukarıdakilerden hangileri eğitimin amaçlarındandır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Eğitimin genel amaçları arasında bireyin kendini gerçekleştirmesini (self-aktüalizasyon) sağlamak, onu yaratıcı ve üretici bir yaşama hazırlamak ve erdemli, girişimci, sağlam karakterli bir kişilik geliştirmesine katkıda bulunmak yer alır. Bu üç madde de birbirini tamamlayan, çağdaş eğitim anlayışının temel hedefleri arasında sayılan unsurlardır; hiçbiri diğerini dışlamaz, dolayısıyla doğru yanıt üçünün birlikte verildiği seçenektir.",
+      "optionNotes": [
+        "Yalnız I seçeneği, II ve III'teki ifadelerin de aynı şekilde eğitimin tanınmış amaçları arasında yer aldığını göz ardı eder; eksik bir seçimdir.",
+        "Yalnız II seçeneği, kendini gerçekleştirme (I) ve karakter eğitimi (III) gibi geçerli diğer amaçları dışarıda bırakır, bu nedenle eksiktir.",
+        "I – II seçeneği doğru iki maddeyi içerse de erdemli ve sağlam karakterli kişilik yetiştirmeyi (III) kapsam dışı bırakarak eksik kalır.",
+        "II – III seçeneği de doğru iki maddeyi kapsasa da kişinin kendini gerçekleştirmesi amacını (I) dışarıda tutarak soruyu tam yanıtlamaz.",
+        "Doğru yanıt: I, II ve III maddelerinin üçü de eğitimin amaçları arasında yer aldığından en kapsamlı ve doğru seçenek budur."
+      ]
+    },
+    {
+      "question": "Bireyin çevresini ve dünyayı anlaması ve açıklaması, kavraması, problem çözmesi, analiz ve sentez yapması, değerlendirmesi gibi zihinsel faaliyetleri ve süreçleri içeren alana ne ad verilir?",
+      "options": [
+        "Bilişsel alan",
+        "Duyuşsal alan",
+        "Psikomotor alan",
+        "Öğretim",
+        "Öğrenme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bilişsel alan (kognitif alan), bireyin zihinsel süreçlerini; bilgiyi anlama, kavrama, açıklama, problem çözme, analiz-sentez yapma ve değerlendirme gibi üst düzey düşünme becerilerini kapsayan alandır. Bloom'un taksonomisinde de eğitimin hedef alanlarından biri olarak tanımlanan bu alan, tam olarak soruda betimlenen zihinsel faaliyetleri ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Bilişsel alan, anlama, kavrama, problem çözme, analiz-sentez ve değerlendirme gibi zihinsel süreçleri kapsayan alandır ve soruda tanımlanan tam olarak budur.",
+        "Duyuşsal alan; ilgi, tutum, değer, duygu ve güdülenme gibi hissi/duygusal yönleri kapsar, zihinsel analiz-sentez süreçlerini değil.",
+        "Psikomotor alan; kas ve hareket koordinasyonuna dayalı fiziksel/motor becerileri içerir, zihinsel kavrama süreçleriyle ilgili değildir.",
+        "Öğretim, öğrenmeyi kolaylaştırmak için düzenlenen dışsal etkinlikler ve kılavuzluk sürecidir; bireyin kendi zihinsel işleyişini tanımlamaz.",
+        "Öğrenme, yaşantı yoluyla davranışta meydana gelen genel değişim sürecidir; burada sorulan belirli bir zihinsel alan değil, daha genel bir kavramdır."
+      ]
+    },
+    {
+      "question": "Öğrenmeyi kolaylaştıracak etkinlikleri düzenleme, araç-gereçleri sağlama ve kılavuzluk etme işi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Bilişsel alan",
+        "Duyuşsal alan",
+        "Psikomotor alan",
+        "Öğretim",
+        "Öğrenme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Öğretim, öğretmenin/antrenörün öğrenmeyi kolaylaştırmak amacıyla ortam ve etkinlikleri düzenlemesi, gerekli araç-gereçleri sağlaması ve öğrenciye/sporcuya kılavuzluk etmesi sürecidir. Öğrenme bireyde gerçekleşen değişim sürecini ifade ederken, öğretim bu değişimi dışarıdan planlayıp destekleyen etkinlikler bütünüdür; soruda tanımlanan tam olarak bu dışsal düzenleme sürecidir.",
+      "optionNotes": [
+        "Bilişsel alan zihinsel süreçleri (kavrama, analiz, sentez) ifade eden bir hedef alanıdır, etkinlik düzenleme ve kılavuzluk etme eylemini tanımlamaz.",
+        "Duyuşsal alan ilgi, tutum ve değerlerle ilgili bir hedef alanıdır, öğretmenin/antrenörün düzenleyici rolünü karşılamaz.",
+        "Psikomotor alan fiziksel beceri ve hareketle ilgili bir hedef alanıdır, soruda tanımlanan düzenleme-kılavuzluk faaliyeti değildir.",
+        "Doğru yanıt: Öğretim, öğrenmeyi kolaylaştıran etkinlikleri düzenleme, araç-gereç sağlama ve kılavuzluk etme sürecidir; tanım tam olarak buna karşılık gelir.",
+        "Öğrenme, bireyin kendi yaşantısı yoluyla davranışında oluşan değişikliktir; burada tanımlanan dışarıdan yapılan düzenleyici/öğretici faaliyet değildir."
+      ]
+    },
+    {
+      "question": "Bireyin davranışlarında kendi yaşantısı yoluyla kasıtlı olarak istendik davranış değişikliği meydana getirme sürecine ne ad verilir?",
+      "options": [
+        "Öğretme",
+        "Öğrenme",
+        "Olgunlaşma",
+        "Büyüme",
+        "Eğitim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Eğitim, klasik tanımıyla (S. Ertürk) bireyin davranışlarında kendi yaşantısı yoluyla, kasıtlı ve istendik yönde davranış değişikliği oluşturma sürecidir. Buradaki 'kasıtlı' ve 'istendik' vurgusu eğitimi, kendiliğinden ya da tesadüfen de gerçekleşebilen öğrenmeden ayıran temel özelliktir; dolayısıyla tanım tam olarak eğitime karşılık gelir.",
+      "optionNotes": [
+        "Öğretme, öğretenin öğrenmeyi sağlamaya yönelik dışsal faaliyetlerini ifade eder; burada tanımlanan bireyin kendi yaşantısıyla oluşan içsel süreç değildir.",
+        "Öğrenme, yaşantı yoluyla davranışta meydana gelen değişikliktir ancak bu değişikliğin kasıtlı/istendik olması şart değildir; tanımdaki 'kasıtlı' vurgusu eğitimi işaret eder.",
+        "Olgunlaşma, yaşantı ve deneyimden bağımsız, genetik programla zamanla kendiliğinden ortaya çıkan biyolojik bir değişimdir, kasıtlı davranış değişikliğiyle ilgisi yoktur.",
+        "Büyüme, bedensel boyutlardaki (boy, kilo vb.) fiziksel artışı ifade eder; davranış değişikliğiyle ya da yaşantıyla doğrudan ilgili değildir.",
+        "Doğru yanıt: Eğitim, bireyin davranışında kendi yaşantısı yoluyla kasıtlı ve istendik değişiklik oluşturma sürecidir; tanımdaki 'kasıtlı' ve 'istendik' ifadeleri eğitimi tanımlar."
+      ]
+    },
+    {
+      "question": "Öğrenecek olan organizmanın istenilen davranışı (davranış değişikliğini) göstermek için gerekli biyolojik donanıma sahip olmasına ne denir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Genel Uyarılmışlık hali ve kaygı",
+        "Eski yaşantılar",
+        "Güdü"
+      ],
+      "correctIndex": 0,
+      "explanation": "Türe özgü hazır oluş, bir organizmanın öğrenilmesi istenen davranışı gerçekleştirebilmesi için türüne özgü biyolojik yapıya (donanıma) sahip olması gerekliliğini ifade eder; örneğin bir hayvanın insan dilini konuşamaması, bu türe özgü biyolojik sınırlılıktan kaynaklanır. Soru bu hazır oluş kavramını tam olarak tanımlamaktadır.",
+      "optionNotes": [
+        "Doğru yanıt: Türe özgü hazır oluş, organizmanın öğrenilecek davranışı gösterebilmesi için gerekli biyolojik donanıma sahip olma durumudur; tanım tam olarak budur.",
+        "Olgunlaşma, zamanla kendiliğinden gerçekleşen biyolojik gelişim sürecidir; burada sorulan ise sabit bir donanıma 'sahip olma' durumu olup süreç değil durumdur.",
+        "Genel uyarılmışlık hali ve kaygı, organizmanın o anki fizyolojik/duygusal uyarılma düzeyini ifade eder, biyolojik donanıma sahip olmakla ilgili değildir.",
+        "Eski yaşantılar, bireyin geçmişte edindiği deneyimleri ifade eder; bu kavram öğrenmeyi etkileyen deneyimsel bir faktördür, doğuştan gelen biyolojik donanımla ilgili değildir.",
+        "Güdü, organizmayı harekete geçiren itici güçtür; davranışı göstermeye yönelten motivasyonel unsurdur, biyolojik donanıma sahip olma durumunu tanımlamaz."
+      ]
+    },
+    {
+      "question": "Hastalık, ilaç kullanımı, alkol kullanımı vb. durumlarda organizmanın gösterdiği davranışlara ne ad verilir?",
+      "options": [
+        "Refleks",
+        "İçgüdüsel davranış",
+        "Geçici davranışlar",
+        "Sonradan kazanılan davranışlar",
+        "Pedagojik davranış"
+      ],
+      "correctIndex": 2,
+      "explanation": "Geçici davranışlar; hastalık, ilaç veya alkol kullanımı, yorgunluk gibi geçici fizyolojik durumların etkisiyle ortaya çıkan, kalıcı bir öğrenme ya da değişim içermeyen, durum ortadan kalktığında kaybolan davranışlardır. İnsan davranışlarının sınıflandırılmasında doğuştan gelen (refleks, içgüdü), sonradan kazanılan (öğrenilmiş) davranışların yanında bu geçici davranışlar da ayrı bir kategori olarak ele alınır.",
+      "optionNotes": [
+        "Refleks, bilinçten bağımsız, otomatik ve basit doğuştan tepkilerdir (örn. diz kapağı refleksi); hastalık/ilaç etkisiyle ortaya çıkan davranışları tanımlamaz.",
+        "İçgüdüsel davranış, türe özgü, doğuştan getirilen karmaşık davranış örüntüleridir; hastalık veya madde kullanımına bağlı geçici durumlarla karıştırılmamalıdır.",
+        "Doğru yanıt: Geçici davranışlar, hastalık, ilaç veya alkol kullanımı gibi geçici durumların yol açtığı, kalıcı olmayan davranışlardır; tanım tam olarak budur.",
+        "Sonradan kazanılan davranışlar, yaşantı ve deneyim yoluyla öğrenilen, kalıcı nitelikteki davranışlardır; buradaki geçici ve kalıcı olmayan durumla örtüşmez.",
+        "Pedagojik davranış, davranış bilimi/öğrenme psikolojisi literatüründe standart bir sınıflandırma terimi değildir; bu seçenek anlamsız bir çeldiricidir."
+      ]
+    },
+    {
+      "question": "Doğuştan getirilen, türe özgü davranış örüntülerine ne ad verilir?",
+      "options": [
+        "Refleks",
+        "İçgüdüsel davranış",
+        "Geçici davranışlar",
+        "Sonradan kazanılan davranışlar",
+        "Pedagojik davranış"
+      ],
+      "correctIndex": 1,
+      "explanation": "İçgüdüsel davranış, bireyin öğrenmeden, doğuştan getirdiği ve tüm türün ortak biçimde gösterdiği karmaşık davranış örüntüleridir (örneğin kuşların göç etmesi). Bu davranışlar öğrenilmez, türün genetik programında hazır bulunur; soru bu tanımı tam olarak karşılamaktadır.",
+      "optionNotes": [
+        "Refleks de doğuştandır ancak tek ve basit bir uyarana karşı otomatik, basit tepkidir (örn. göz kırpma); soruda sorulan karmaşık 'davranış örüntüsü' kavramından daha dar bir kavramdır.",
+        "Doğru yanıt: İçgüdüsel davranış, doğuştan getirilen, türün tüm üyelerinde ortak biçimde görülen karmaşık davranış örüntülerini ifade eder; tanım tam olarak budur.",
+        "Geçici davranışlar, hastalık, ilaç veya alkol gibi geçici durumların yol açtığı davranışlardır; doğuştan gelen türe özgü örüntülerle ilgisi yoktur.",
+        "Sonradan kazanılan davranışlar, deneyim ve öğrenme yoluyla edinilen davranışlardır; doğuştan gelme özelliğiyle doğrudan çelişir.",
+        "Pedagojik davranış, davranış sınıflandırmasında kullanılan standart bir terim değildir, bu seçenek bir çeldiricidir."
+      ]
+    },
+    {
+      "question": "I. Doğuştan gelen davranışlar II. Geçici davranışlar III. Sonradan kazanılan davranışlar Yukarıdakilerden hangileri insan davranış sınıfları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "İnsan davranışları temelde üç ana sınıfta ele alınır: doğuştan gelen davranışlar (refleks ve içgüdüsel davranışlar), geçici davranışlar (hastalık, ilaç, alkol gibi durumların yol açtığı davranışlar) ve sonradan kazanılan davranışlar (öğrenme yoluyla edinilen davranışlar). Üç madde de bu sınıflandırmanın birer bileşeni olduğundan doğru yanıt üçünün birlikte verildiği seçenektir.",
+      "optionNotes": [
+        "Yalnız I seçeneği, geçici davranışlar ve sonradan kazanılan davranışların da aynı sınıflandırmanın geçerli bileşenleri olduğunu göz ardı ettiği için eksiktir.",
+        "Yalnız II seçeneği, doğuştan gelen davranışlar ve sonradan kazanılan davranışlar gibi diğer iki geçerli sınıfı dışarıda bıraktığından eksiktir.",
+        "I – II seçeneği doğru iki maddeyi içerse de sonradan kazanılan davranışları (III) kapsam dışı bıraktığı için tam yanıt değildir.",
+        "II – III seçeneği doğru iki maddeyi kapsasa da doğuştan gelen davranışları (I) dışarıda tuttuğu için eksik kalır.",
+        "Doğru yanıt: I, II ve III maddelerinin üçü de insan davranış sınıflandırmasının (doğuştan gelen, geçici, sonradan kazanılan) bileşenleridir."
+      ]
+    },
+    {
+      "question": "Bireyin genetik olarak doğuştan getirdiği ve zamanı geldiğinde kendiliğinden meydana gelen biyolojik değişikliklere ne ad verilir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Genel Uyarılmışlık hali ve kaygı",
+        "Eski yaşantılar",
+        "Güdü"
+      ],
+      "correctIndex": 1,
+      "explanation": "Olgunlaşma, bireyin genetik programında zaten var olan, çevresel yaşantıya veya öğrenmeye gerek kalmadan zamanı geldiğinde kendiliğinden ortaya çıkan biyolojik gelişim ve değişim sürecidir (örneğin ergenlikte görülen bedensel değişimler). Tanım bu sürecin tam karşılığıdır.",
+      "optionNotes": [
+        "Türe özgü hazır oluş, organizmanın belirli bir davranışı gösterebilmesi için gerekli biyolojik donanıma 'sahip olma durumunu' ifade eder; burada sorulan ise zamanla kendiliğinden gerçekleşen 'değişim süreci'dir, ikisi farklı kavramlardır.",
+        "Doğru yanıt: Olgunlaşma, genetik olarak programlanmış, zamanla kendiliğinden gerçekleşen biyolojik değişim sürecidir; tanım tam olarak budur.",
+        "Genel uyarılmışlık hali ve kaygı, organizmanın anlık fizyolojik/duygusal uyarılma düzeyini ifade eder, genetik programlı biyolojik gelişimle ilgili değildir.",
+        "Eski yaşantılar, bireyin geçmiş deneyimlerini ifade eden, çevresel ve öğrenmeye dayalı bir kavramdır; genetik kökenli kendiliğinden değişimle ilgisi yoktur.",
+        "Güdü, organizmayı harekete geçiren itici güçtür; biyolojik olgunlaşma sürecini değil, davranışı başlatan motivasyonel unsuru ifade eder."
+      ]
+    },
+    {
+      "question": "Organizmayı harekete geçiren durumlara ne ad verilmektedir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Genel Uyarılmışlık hali ve kaygı",
+        "Eski yaşantılar",
+        "Güdü"
+      ],
+      "correctIndex": 4,
+      "explanation": "Güdü (motiv), organizmayı belirli bir davranışı göstermeye yönelten, onu harekete geçiren içsel veya dışsal itici güçtür. Açlık, susuzluk gibi fizyolojik güdülerden başarı, ait olma gibi psikolojik güdülere kadar organizmayı eyleme sevk eden tüm bu etkenler güdü kapsamında değerlendirilir; soru bu genel tanımı karşılamaktadır.",
+      "optionNotes": [
+        "Türe özgü hazır oluş, davranışı gösterebilmek için gerekli biyolojik donanıma sahip olma durumudur; organizmayı harekete geçiren itici güçle ilgili değildir.",
+        "Olgunlaşma, zamanla kendiliğinden gerçekleşen biyolojik gelişim sürecidir; davranışı başlatan bir itici güç değil, pasif bir değişim sürecidir.",
+        "Genel uyarılmışlık hali ve kaygı, güdülenmeyle ilişkili olsa da organizmanın belirli bir fizyolojik/duygusal uyarılma düzeyini ifade eden daha dar ve spesifik bir durumdur, harekete geçiren genel kavramın kendisi değildir.",
+        "Eski yaşantılar, bireyin geçmiş deneyimlerini ifade eder; davranışı o an harekete geçiren itici güç değil, öğrenmeyi etkileyen arka plan bilgisidir.",
+        "Doğru yanıt: Güdü, organizmayı harekete geçiren, davranışı başlatan ve yönlendiren itici güçtür; tanım tam olarak budur."
+      ]
+    },
+    {
+      "question": "Konuya ihtiyaç duyulduğunda yoğunca çalışılmasını ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Konu çalışması",
+        "Aktif katılım",
+        "Geri bildirim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toplu çalışma (massed practice), bir konunun veya becerinin aralıksız, yoğun biçimde ve genellikle kısa bir zaman dilimi içinde tekrar tekrar çalışılmasıdır; ihtiyaç duyulduğunda yapılan bu yoğun çalışma biçimi aralıklı çalışmanın tersidir. Soru bu yoğun ve ihtiyaç anında yapılan çalışma biçimini tanımlamaktadır.",
+      "optionNotes": [
+        "Aralıklı çalışma, konunun belirli zaman aralıklarıyla, dinlenme süreleri bırakılarak tekrar edilmesidir; yoğun ve kesintisiz çalışmanın tam tersidir, bu yüzden tanıma uymaz.",
+        "Doğru yanıt: Toplu çalışma, konuya ihtiyaç duyulduğunda ara verilmeden yoğun biçimde çalışılmasıdır; tanım tam olarak budur.",
+        "Konu çalışması, bu bağlamda standart bir teknik terim olarak kullanılmaz; aralıklı/toplu çalışma ayrımına karşılık gelen bir kavram değildir, çeldiricidir.",
+        "Aktif katılım, öğrenenin öğrenme sürecine bedensel/zihinsel olarak etkin biçimde dahil olmasıdır; çalışmanın zamanlama biçimiyle (yoğun/aralıklı) ilgili değildir.",
+        "Geri bildirim, öğrenene performansı hakkında bilgi verilmesidir; çalışmanın yoğunluk veya zamanlama biçimini değil, sonuç bilgisinin iletilmesini ifade eder."
+      ]
+    },
+    {
+      "question": "Öğrenene öğrenme sonucunun bildirilmesine ne ad verilir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Bütün halinde çalışma",
+        "Parçalara bölerek çalışma",
+        "Geri bildirim"
+      ],
+      "correctIndex": 4,
+      "explanation": "Geri bildirim (feedback), öğrenenin gösterdiği performans veya öğrenme sonucu hakkında kendisine bilgi verilmesi sürecidir. Sporcunun yaptığı hareketin doğru mu yanlış mı olduğunun, ne derece başarılı olduğunun bildirilmesi, öğrenmeyi düzenleyen ve hızlandıran temel unsurlardan biridir; soru bu kavramı tanımlamaktadır.",
+      "optionNotes": [
+        "Aralıklı çalışma, pratiğin zaman aralıklarına bölünerek yapılmasıyla ilgili bir çalışma biçimidir; öğrenme sonucunun bildirilmesiyle ilgisi yoktur.",
+        "Toplu çalışma, pratiğin ara verilmeden yoğun biçimde yapılmasıdır; sonucun öğrenene bildirilmesi sürecini tanımlamaz.",
+        "Bütün halinde çalışma, bir becerinin parçalara ayrılmadan tek bütün olarak öğretilmesi/öğrenilmesi yöntemidir; geri bildirimle ilgili değildir.",
+        "Parçalara bölerek çalışma, karmaşık bir becerinin alt bileşenlere ayrılarak öğretilmesi yöntemidir; performans sonucunun bildirilmesini ifade etmez.",
+        "Doğru yanıt: Geri bildirim, öğrenene öğrenme/performans sonucunun bildirilmesi sürecidir; tanım tam olarak budur."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Davranışçı öğrenme kuramcılarından biri değildir?",
+      "options": [
+        "Pavlov",
+        "Watson",
+        "Thorndike",
+        "Bandura",
+        "Guthrie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pavlov (klasik koşullanma), Watson (davranışçılığın kurucusu), Thorndike (bağlaşımcılık/etki yasası) ve Guthrie (bitişiklik kuramı) klasik davranışçı öğrenme kuramcılarıdır; bu kuramcılar öğrenmeyi gözlenebilir uyarıcı-tepki bağlantılarıyla açıklar. Bandura ise gözlemsel öğrenme, model alma ve öz-yeterlik gibi kavramlarla davranışçılığın katı uyarıcı-tepki yaklaşımını zihinsel/bilişsel süreçlerle birleştiren Sosyal Bilişsel Öğrenme Kuramı'nın kurucusudur; bu nedenle klasik davranışçı kuramcılar arasında sayılmaz.",
+      "optionNotes": [
+        "Pavlov, klasik koşullanma (klasik şartlanma) kuramının kurucusu olan tipik bir davranışçı kuramcıdır, bu yüzden istisna değildir.",
+        "Watson, davranışçılık (behaviorizm) akımının kurucusu kabul edilir ve gözlenebilir davranışa odaklanan temel bir davranışçıdır, bu yüzden istisna değildir.",
+        "Thorndike, deneme-hata öğrenmesi ve etki yasasıyla tanınan bağlaşımcı bir davranışçı kuramcıdır, bu yüzden istisna değildir.",
+        "Doğru yanıt: Bandura, davranışçı değil Sosyal Bilişsel Öğrenme Kuramı'nın kurucusudur; gözlemsel öğrenme ve bilişsel süreçleri vurguladığından klasik davranışçılar arasında sayılmaz.",
+        "Guthrie, bitişiklik (contiguity) kuramıyla tanınan bir davranışçı öğrenme kuramcısıdır, bu yüzden istisna değildir."
+      ]
+    },
+    {
+      "question": "Badmintonda önceden öğrenilen ayak hareketlerinin, voleyboldaki ayak hareketlerini öğrenmeyi kolaylaştırması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Güdü",
+        "Olumlu aktarım",
+        "Olumsuz aktarım"
+      ],
+      "correctIndex": 3,
+      "explanation": "Olumlu aktarım (pozitif transfer), önceden öğrenilen bir becerinin yeni bir becerinin öğrenilmesini kolaylaştırması durumudur. Badmintonda kazanılan ayak hareketi becerisinin voleyboldaki benzer ayak hareketlerinin öğrenilmesini hızlandırması/kolaylaştırması, tam olarak bu olumlu aktarım durumuna örnektir.",
+      "optionNotes": [
+        "Türe özgü hazır oluş, organizmanın bir davranışı gösterebilmesi için gerekli biyolojik donanıma sahip olma durumudur; iki spor branşı arasındaki beceri transferiyle ilgili değildir.",
+        "Olgunlaşma, zamanla kendiliğinden gerçekleşen biyolojik gelişim sürecidir; önceden öğrenilmiş bir becerinin başka bir beceriyi kolaylaştırmasıyla ilgisi yoktur.",
+        "Güdü, organizmayı harekete geçiren itici güçtür; burada anlatılan durum bir motivasyon kaynağı değil, bir beceri aktarımı/transfer durumudur.",
+        "Doğru yanıt: Olumlu aktarım, önceden öğrenilen bir becerinin (badmintondaki ayak hareketleri) yeni bir becerinin (voleyboldaki ayak hareketleri) öğrenilmesini kolaylaştırmasıdır.",
+        "Olumsuz aktarım, önceki öğrenmenin yeni öğrenmeyi kolaylaştırması değil tam tersine zorlaştırması/engellemesi durumudur; soruda anlatılan kolaylaştırıcı etkiyle çelişir."
+      ]
+    },
+    {
+      "question": "Masa tenisindeki forehand vuruşunun, tenisteki forehand vuruşunu zorlaştırması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Güdü",
+        "Olumlu aktarım",
+        "Olumsuz aktarım"
+      ],
+      "correctIndex": 4,
+      "explanation": "Olumsuz aktarım (negatif transfer), önceden öğrenilen bir becerinin yeni bir becerinin öğrenilmesini zorlaştırması veya olumsuz etkilemesi durumudur. Masa tenisindeki forehand vuruş tekniğinin (kısa, bilek ağırlıklı hareket) tenisteki forehand vuruşunu (daha geniş kol/gövde hareketi gerektiren teknik) öğrenmeyi zorlaştırması, bu olumsuz aktarıma tipik bir örnektir.",
+      "optionNotes": [
+        "Türe özgü hazır oluş, biyolojik donanıma sahip olma durumudur; iki benzer teknik arasındaki olumsuz etkileşimle ilgili değildir.",
+        "Olgunlaşma, kendiliğinden gerçekleşen biyolojik gelişim sürecidir; öğrenilmiş bir hareket becerisinin başka bir beceriyi zorlaştırmasıyla ilgisi yoktur.",
+        "Güdü, davranışı başlatan itici güçtür; burada anlatılan durum bir motivasyon kaynağı değil, teknikler arası olumsuz bir aktarım durumudur.",
+        "Olumlu aktarım, önceki öğrenmenin yeni öğrenmeyi kolaylaştırması durumudur; soruda anlatılan durum ise zorlaştırma olduğundan bu seçenek yöne terstir.",
+        "Doğru yanıt: Olumsuz aktarım, masa tenisi forehandının tenis forehandını zorlaştırması gibi, önceki öğrenmenin yeni öğrenmeyi engelleyici biçimde etkilemesidir."
+      ]
+    },
+    {
+      "question": "Sporcunun yapamadığı beceri için daha fazla çalışması ve ihtiyacı kendisinin hissetmesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "İçsel güdülenme",
+        "Dışsal güdülenme",
+        "Türe özgü hazır oluş",
+        "Olgunlaşma",
+        "Eski yaşantılar"
+      ],
+      "correctIndex": 0,
+      "explanation": "İçsel güdülenme, bireyin bir davranışı dışarıdan bir ödül veya baskı olmaksızın, kendi isteği, merakı veya kişisel ihtiyacı doğrultusunda gerçekleştirmesidir. Sporcunun yapamadığı beceriyi geliştirme ihtiyacını kendi içinde hissederek fazladan çalışması, dışsal bir zorlama olmadan ortaya çıktığı için içsel güdülenmeye örnektir.",
+      "optionNotes": [
+        "Doğru yanıt: İçsel güdülenme, sporcunun dışarıdan bir baskı olmadan ihtiyacı kendisi hissedip fazladan çalışmasıdır; tanım tam olarak budur.",
+        "Dışsal güdülenme, davranışın ödül, ceza, antrenör baskısı gibi dışsal etkenlerle ortaya çıkmasıdır; burada ihtiyacın sporcunun kendisi tarafından hissedilmesi bu tanımla çelişir.",
+        "Türe özgü hazır oluş, biyolojik donanıma sahip olma durumudur; sporcunun kendi isteğiyle ekstra çalışmasıyla ilgili bir güdülenme kavramı değildir.",
+        "Olgunlaşma, zamanla kendiliğinden gerçekleşen biyolojik gelişim sürecidir; sporcunun bilinçli olarak ekstra çalışma kararıyla ilgisi yoktur.",
+        "Eski yaşantılar, bireyin geçmiş deneyimlerini ifade eder; burada anlatılan güncel bir motivasyon durumu olup geçmiş yaşantıyı tanımlamaz."
+      ]
+    },
+    {
+      "question": "İlgili konunun her gün veya haftada tekrar edilmesi, yani konunun sistematik olarak çalışılmasını içeren kavrama ne ad verilir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Konu çalışması",
+        "Aktif katılım",
+        "Geri bildirim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aralıklı çalışma (distributed/spaced practice), bir konunun veya becerinin tek seferde yoğun biçimde değil, belirli zaman aralıklarıyla (her gün, her hafta gibi) düzenli ve sistematik olarak tekrar edilmesidir. Bu yöntem dinlenme aralıkları sayesinde unutmayı azaltır ve öğrenmeyi kalıcı kılar; soru bu sistematik, aralıklı tekrar sürecini tanımlamaktadır.",
+      "optionNotes": [
+        "Doğru yanıt: Aralıklı çalışma, konunun her gün/hafta düzenli aralıklarla sistematik olarak tekrar edilmesidir; tanım tam olarak budur.",
+        "Toplu çalışma, konunun ara verilmeden, tek seferde yoğun biçimde çalışılmasıdır; düzenli aralıklarla tekrarlamanın tam tersidir.",
+        "Konu çalışması, bu bağlamda standart bir teknik terim olarak kullanılmaz; aralıklı/toplu çalışma ayrımına karşılık gelmeyen bir çeldiricidir.",
+        "Aktif katılım, öğrenenin sürece etkin biçimde dahil olmasını ifade eder; çalışmanın zamanlama sıklığıyla (aralıklı/toplu) ilgili değildir.",
+        "Geri bildirim, öğrenene performans sonucunun bildirilmesidir; konunun tekrar sıklığı veya zamanlamasıyla ilgili bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Sıçrayarak atış, smaç gibi becerileri öğretirken etkili olan öğrenme yöntemi aşağıdakilerden hangisidir?",
+      "options": [
+        "Aralıklı çalışma",
+        "Toplu çalışma",
+        "Bütün halinde çalışma",
+        "Parçalara bölerek çalışma",
+        "Konu çalışması"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parçalara bölerek çalışma (kısımlara ayırarak öğretim) yöntemi, sıçrayarak atış ve smaç gibi birbirinden nispeten bağımsız alt bileşenlerden oluşan (koşu/ritim alma, sıçrama, kol-bilek hareketi gibi) karmaşık becerilerin öğretiminde etkilidir. Bu karmaşık beceriler önce alt parçalara ayrılarak öğretilir, ardından bütün olarak birleştirilir; bu nedenle bu tür karmaşık hareketlerin öğretiminde parçalara bölme yöntemi tercih edilir.",
+      "optionNotes": [
+        "Aralıklı çalışma, pratiğin zaman aralıklarına yayılmasıyla ilgili bir çalışma programı kavramıdır; bir becerinin bütün mü parça parça mı öğretileceğiyle ilgili bir yöntem değildir.",
+        "Toplu çalışma, pratiğin ara verilmeden yoğun biçimde yapılmasıdır; becerinin nasıl bölümlenerek öğretileceği sorusuna cevap vermez.",
+        "Bütün halinde çalışma yöntemi, becerinin bütün olarak öğretilmesidir ve basit, bileşenleri arasında yüksek bağımlılık olan becerilerde etkilidir; smaç ve sıçrayarak atış gibi çok bileşenli karmaşık becerilerde bütün öğretimi zorlayıcı olabileceğinden tercih edilmez.",
+        "Doğru yanıt: Parçalara bölerek çalışma, sıçrayarak atış ve smaç gibi çok bileşenli karmaşık becerilerin alt parçalara ayrılarak öğretilmesidir; bu becerilerin öğretiminde etkili yöntem budur.",
+        "Konu çalışması, bu bağlamda standart bir öğretim yöntemi terimi değildir, bir çeldiricidir."
+      ]
+    },
+    {
+      "question": "Klasik koşullamanın sporcuyu etkileyen en önemli ilkelerinden biri olan ve sporcunun ne kadar çaba harcarsa harcasın, durumu değiştiremeyeceğini öğrenmesine ne denir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Öğrenilmiş çaresizlik (learned helplessness, Seligman), bireyin tekrarlanan olumsuz deneyimler sonucunda, ne kadar çaba harcarsa harcasın durumu değiştiremeyeceğine inanmayı öğrenmesi ve bu nedenle çaba göstermekten vazgeçmesidir. Soru bu durumu doğrudan tanımlamaktadır.",
+      "optionNotes": [
+        "Uyarıcı genellemesi, bir uyarıcıya verilen tepkinin ona benzer başka uyarıcılara da gösterilmesidir; çaba-sonuç ilişkisinin kontrol edilemezliğiyle ilgili değildir.",
+        "Ayırt etme, birbirine benzer uyarıcılar arasındaki farkı fark edip onlara farklı tepkiler vermeyi öğrenmektir; durumu değiştirememe öğrenilmişliğiyle ilgisi yoktur.",
+        "Alışma, tekrarlanan bir uyarıcıya karşı tepkinin zamanla azalması/yok olmasıdır; burada anlatılan çaba-sonuç ilişkisinin kontrol edilemezliği değildir.",
+        "Duyarlık kazanma, tekrarlanan uyarana karşı tepkinin normalden daha fazla artmasıdır; öğrenilmiş çaresizliğin tam tersi bir tepki artışı sürecidir.",
+        "Doğru yanıt: Öğrenilmiş çaresizlik, sporcunun ne kadar çaba harcarsa harcasın durumu değiştiremeyeceğini öğrenmesi ve bu nedenle pes etmesidir."
+      ]
+    },
+    {
+      "question": "Bir oyuncunun antrenmanda kendini küçük düşüren Antrenörü gördüğünde paniklerken diğer Antrenörlere böyle bir tepki vermemesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ayırt etme (discrimination), bireyin benzer uyarıcılar arasındaki farkı öğrenerek yalnızca şartlanmış olan belirli uyarıcıya tepki verip, ona benzeyen diğer uyarıcılara aynı tepkiyi göstermemesidir. Oyuncunun sadece kendisini küçük düşüren belirli antrenöre panik tepkisi verip diğer antrenörlere bu tepkiyi göstermemesi, tepkisini doğru uyarıcıyla sınırlı tutması anlamına gelir ve bu tam olarak ayırt etmeye örnektir.",
+      "optionNotes": [
+        "Uyarıcı genellemesi, şartlanmış tepkinin orijinal uyarıcıya benzeyen diğer uyarıcılara da gösterilmesidir; burada oyuncu tepkisini yalnızca belirli antrenörle sınırlı tuttuğu için genelleme değil tam tersi (ayırt etme) söz konusudur.",
+        "Doğru yanıt: Ayırt etme, oyuncunun panik tepkisini sadece kendisini küçük düşüren belirli antrenöre vermesi, diğer benzer uyarıcılara (antrenörlere) bu tepkiyi genellememesidir.",
+        "Alışma, tekrarlanan bir uyarıcıya karşı tepkinin zamanla azalmasıdır; burada farklı uyarıcılar (antrenörler) arasında ayrım yapılması söz konusu olup tepkide azalma anlatılmamaktadır.",
+        "Duyarlık kazanma, tekrarlanan uyarana karşı tepkinin artmasıdır; burada anlatılan durum farklı uyarıcılara farklı tepki vermekle ilgilidir, tepki şiddetinin artışıyla ilgili değildir.",
+        "Öğrenilmiş çaresizlik, çaba göstermenin sonucu değiştiremeyeceğine dair inançtır; burada anlatılan durumla, yani belirli bir kişiye özgü panik tepkisiyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Sporcunun bir uyarıcı ile sürekli karşılaşması durumunda o uyarıcıya başlangıçta gösterilen tepkiden daha az tepki gösterilmesi veya tepkinin yok olması hangi ilkeyle ilgilidir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alışma (habituasyon), bir uyarıcıyla tekrar tekrar karşılaşıldığında organizmanın o uyarıcıya başlangıçta verdiği tepkinin zamanla azalması veya tamamen kaybolması sürecidir. Soru bu azalan/kaybolan tepki sürecini tam olarak tanımlamaktadır.",
+      "optionNotes": [
+        "Uyarıcı genellemesi, bir tepkinin benzer başka uyarıcılara da gösterilmesidir; burada anlatılan tek bir uyarıcıya karşı tepkinin zamanla azalması değildir.",
+        "Ayırt etme, benzer uyarıcılar arasında farklılaştırma yaparak sadece belirli birine tepki vermeyi öğrenmektir; tepkinin azalmasıyla değil, tepkinin doğru uyarıcıya yönlendirilmesiyle ilgilidir.",
+        "Doğru yanıt: Alışma, bir uyarıcıyla sürekli karşılaşma sonucunda ona gösterilen tepkinin başlangıca göre azalması veya yok olmasıdır; tanım tam olarak budur.",
+        "Duyarlık kazanma, tekrarlanan uyarana karşı tepkinin azalması değil tam tersine normalden daha fazla artmasıdır; alışmanın tersi bir süreçtir.",
+        "Öğrenilmiş çaresizlik, çaba göstermenin durumu değiştiremeyeceğine dair inançtır; bir uyarıcıya karşı tepkinin azalmasıyla doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "question": "Sporcunun belli bir uyarana maruz kalmasının sonucu olarak, aynı uyarana karşı normalden daha fazla tepki vermesine ne ad verilir?",
+      "options": [
+        "Uyarıcı genellemesi",
+        "Ayırt Etme",
+        "Alışma",
+        "Duyarlık kazanma",
+        "Öğrenilmiş çaresizlik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Duyarlık kazanma (sensitizasyon), bir uyarana tekrar tekrar maruz kalma sonucunda, o uyarana karşı başlangıçtakinden daha fazla/şiddetli tepki verilmesidir; alışmanın (habituasyonun) tam tersi bir süreçtir. Soru bu artan tepki sürecini tanımlamaktadır.",
+      "optionNotes": [
+        "Uyarıcı genellemesi, bir tepkinin benzer uyarıcılara yayılmasıdır; burada anlatılan ise aynı uyarana verilen tepkinin şiddetinin artmasıdır, farklı bir süreçtir.",
+        "Ayırt etme, benzer uyarıcılar arasında ayrım yapmayı öğrenmektir; tepki şiddetinin artmasıyla ilgili değildir.",
+        "Alışma, tekrarlanan uyarana karşı tepkinin azalması veya yok olmasıdır; soruda anlatılan tepkinin artması durumu tam tersidir.",
+        "Doğru yanıt: Duyarlık kazanma, bir uyarana tekrar maruz kalma sonucunda ona karşı normalden daha fazla tepki verilmesidir; tanım tam olarak budur.",
+        "Öğrenilmiş çaresizlik, çaba göstermenin durumu değiştiremeyeceğine dair inançtır; tepkinin şiddetinin artmasıyla ilgili bir kavram değildir."
+      ]
+    },
+    {
+      "question": "Başı ağrıyan bir sporcunun ağrı kesici alarak antrenman/müsabakada oynaması ve istenilen performansı göstermesi aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 2,
+      "explanation": "Olumsuz pekiştirme, istenen davranışın (performans gösterme) ardından veya devamında rahatsız edici/olumsuz bir uyarıcının (ağrı) ortadan kaldırılmasıyla o davranışın güçlendirilmesi ya da sürdürülmesidir. Sporcunun ağrı kesici alarak baş ağrısını (olumsuz uyarıcıyı) ortadan kaldırması ve bu sayede istenen performansı gösterebilmesi, olumsuz bir uyarıcının kaldırılması yoluyla davranışın desteklenmesine örnektir.",
+      "optionNotes": [
+        "Sistematik duyarsızlaştırma, bir korku/kaygı uyaranına karşı kademeli maruz bırakma yoluyla duyarlılığın azaltılmasını içeren bir davranış terapisi tekniğidir; burada anlatılan ağrı kesici kullanımıyla ilgisi yoktur.",
+        "Olumlu pekiştirme, istenen davranış sonrasında hoşa giden bir uyarıcının eklenmesidir (örn. ödül verilmesi); burada ise hoş olmayan bir uyarıcının (ağrı) ortadan kaldırılması söz konusudur, bu farklı bir mekanizmadır.",
+        "Doğru yanıt: Olumsuz pekiştirme, rahatsız edici bir uyarıcının (ağrı) ortadan kaldırılması yoluyla davranışın (oynamaya devam etme) güçlendirilmesidir; ağrı kesici alıp performans gösterme buna örnektir.",
+        "Premack ilkesi, daha az tercih edilen bir davranışın ardından daha çok tercih edilen bir etkinliğe izin verilerek pekiştirilmesidir; burada böyle bir ödül etkinliği söz konusu değildir.",
+        "Ceza, istenmeyen bir davranışı zayıflatmaya yönelik uygulamadır; burada istenen performansın ortaya çıkmasını sağlayan bir süreç anlatıldığından ceza mekanizmasıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Su korkusu olan ve havuza girmeyi reddeden bir çocuğa, önce havuz resmi gösterilmesi, daha sonra mesafenin biraz daha azaltılması, belli bir süre sonra havuza sadece ellerini ve sonra ayağını sokması, ilerleyen aşamalarda ayak bileklerine ve dizlerine kadar havuza girmesi, bu sürecin sonunda su ve havuz korkusu yok edilmeye çalışılması aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sistematik duyarsızlaştırma, korku veya kaygı uyandıran bir uyarana karşı bireyin kademeli, basamaklı bir şekilde ve giderek artan yoğunlukta maruz bırakılarak duyarlılığının azaltılması ve sonunda korkunun ortadan kaldırılması tekniğidir. Çocuğun önce resim görmesi, sonra mesafenin azaltılması, ardından ellerini, ayağını, dizlerine kadar suya girmesi şeklindeki basamaklı süreç, bu tekniğin klasik bir uygulamasıdır.",
+      "optionNotes": [
+        "Doğru yanıt: Sistematik duyarsızlaştırma, korku uyandıran uyarana basamaklı ve kademeli biçimde maruz bırakarak korkuyu azaltma/yok etme tekniğidir; çocuğun su korkusunun adım adım giderilmesi bu tekniğe örnektir.",
+        "Olumlu pekiştirme, istenen davranış sonrasında hoşa giden bir uyarıcı verilmesidir; burada anlatılan kademeli maruz bırakma süreci bir ödüllendirme mekanizması değildir.",
+        "Olumsuz pekiştirme, rahatsız edici bir uyarıcının kaldırılmasıyla davranışın güçlendirilmesidir; burada korku sürecinin kademeli olarak sönümlenmesi anlatılmaktadır, bu farklı bir mekanizmadır.",
+        "Premack ilkesi, daha az tercih edilen bir davranışın, daha çok tercih edilen bir etkinlikle ödüllendirilerek pekiştirilmesidir; burada böyle bir ödül ilişkisi yoktur.",
+        "Ceza, istenmeyen davranışı zayıflatmaya yönelik olumsuz bir uygulamadır; burada anlatılan ise korkuyu azaltmaya yönelik kademeli ve destekleyici bir süreçtir, cezalandırma değildir."
+      ]
+    },
+    {
+      "question": "İstenilen davranıştan sonra sporcuya hoşa giden uyarıcılar verilmesine ne ad verilir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 1,
+      "explanation": "Olumlu pekiştirme, istenen/hoşa giden bir davranış gösterildikten sonra bireye hoşa giden bir uyarıcının (ödül, övgü, takdir vb.) verilmesi yoluyla o davranışın tekrar etme olasılığının artırılmasıdır. Soru bu tanıma tam olarak karşılık gelmektedir.",
+      "optionNotes": [
+        "Sistematik duyarsızlaştırma, korku uyandıran uyarana kademeli maruz bırakarak duyarlılığı azaltma tekniğidir; hoşa giden bir uyarıcı verilmesiyle ilgili değildir.",
+        "Doğru yanıt: Olumlu pekiştirme, istenen davranış sonrasında hoşa giden bir uyarıcının verilerek davranışın güçlendirilmesidir; tanım tam olarak budur.",
+        "Olumsuz pekiştirme, hoş olmayan bir uyarıcının ortadan kaldırılmasıyla davranışın güçlendirilmesidir; burada ise hoşa giden bir uyarıcının eklenmesinden bahsedilmektedir, mekanizma tam tersidir.",
+        "Premack ilkesi, az tercih edilen bir davranışın, çok tercih edilen bir etkinlikle ödüllendirilmesi şeklindeki özel bir pekiştirme stratejisidir; soru genel bir hoşa giden uyarıcı verme tanımını sormaktadır, spesifik olarak Premack ilkesini değil.",
+        "Ceza, istenmeyen davranışı zayıflatmaya yönelik olumsuz bir uygulamadır; burada istenen davranışın güçlendirilmesinden bahsedildiği için ceza mekanizmasının tam tersidir."
+      ]
+    },
+    {
+      "question": "Örneğin; antrenmanların başarılı bir şekilde tamamlanması halinde, antrenmanın sonunda sporculara maç yaptırmak aşağıdakilerden hangisine örnektir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 3,
+      "explanation": "Premack ilkesi, bireyin daha az tercih ettiği bir davranışı (antrenman çalışmalarını tamamlama) gerçekleştirmesi karşılığında, daha çok tercih ettiği bir etkinliğe (maç yapma) izin verilerek davranışın pekiştirilmesidir. Antrenmanı başarıyla tamamlayan sporculara ödül olarak maç yaptırılması, bu ilkenin spor ortamındaki tipik bir uygulamasıdır.",
+      "optionNotes": [
+        "Sistematik duyarsızlaştırma, korku uyandıran bir uyarana kademeli maruz bırakma yoluyla duyarlılığı azaltma tekniğidir; burada anlatılan ödüllendirme mekanizmasıyla ilgisi yoktur.",
+        "Olumlu pekiştirme, genel olarak istenen davranış sonrasında hoşa giden bir uyarıcı verilmesidir; burada ise spesifik olarak az tercih edilen bir etkinliğin (antrenman), çok tercih edilen bir etkinlikle (maç) ödüllendirilmesi anlatıldığından, bu durumun özel adı olan Premack ilkesi daha isabetli yanıttır.",
+        "Olumsuz pekiştirme, hoş olmayan bir uyarıcının ortadan kaldırılmasıyla davranışın güçlendirilmesidir; burada rahatsız edici bir uyarıcının kaldırılması değil, tercih edilen bir etkinliğe erişim söz konusudur.",
+        "Doğru yanıt: Premack ilkesi, az tercih edilen bir davranışın (antrenmanı tamamlama) tamamlanması karşılığında çok tercih edilen bir etkinliğe (maç yapma) izin verilerek pekiştirilmesidir; örnek tam olarak budur.",
+        "Ceza, istenmeyen davranışı zayıflatmaya yönelik olumsuz bir uygulamadır; burada sporculara bir ödül/imkan tanınmaktadır, bu cezanın tam tersi bir durumdur."
+      ]
+    },
+    {
+      "question": "İstenmeyen davranışı zayıflatmaya yönelik uyarıcılara ne ad verilir?",
+      "options": [
+        "Sistematik duyarsızlaştırma",
+        "Olumlu pekiştirme",
+        "Olumsuz pekiştirme",
+        "Premack ilkesi",
+        "Ceza"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ceza, istenmeyen bir davranışın ardından uygulanan ve o davranışın tekrar gösterilme olasılığını azaltmayı/zayıflatmayı amaçlayan olumsuz bir uyarıcı veya müdahaledir. Soru bu zayıflatıcı/caydırıcı uyarıcı türünü tanımlamaktadır.",
+      "optionNotes": [
+        "Sistematik duyarsızlaştırma, korku uyandıran bir uyarana kademeli maruz bırakarak duyarlılığı azaltmaya yönelik bir tekniktir; istenmeyen davranışı zayıflatmaktan çok korkuyu gidermeyi hedefler.",
+        "Olumlu pekiştirme, istenen bir davranışı güçlendirmek için hoşa giden bir uyarıcı vermektir; istenmeyen davranışı zayıflatmayı değil istenen davranışı artırmayı hedefler.",
+        "Olumsuz pekiştirme, hoş olmayan bir uyarıcının kaldırılmasıyla istenen davranışın güçlendirilmesidir; davranışı zayıflatmak değil güçlendirmek amacı taşır.",
+        "Premack ilkesi, az tercih edilen bir davranışın çok tercih edilen bir etkinlikle ödüllendirilerek pekiştirilmesidir; istenmeyen davranışı zayıflatmaya yönelik değil istenen davranışı güçlendirmeye yöneliktir.",
+        "Doğru yanıt: Ceza, istenmeyen davranışı zayıflatmaya/azaltmaya yönelik olumsuz bir uyarıcı veya uygulamadır; tanım tam olarak budur."
+      ]
+    },
+    {
+      "question": "Sosyal bilişsel öğrenme kuramı kim tarafından ortaya konulmuştur?",
+      "options": [
+        "Pavlov",
+        "Bandura",
+        "Watson",
+        "Thorndike",
+        "Guthrie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sosyal bilişsel öğrenme kuramı (gözlemsel öğrenme/model alma kuramı), Albert Bandura tarafından geliştirilmiştir. Bandura, bireylerin doğrudan deneyim yaşamadan, başkalarını (modelleri) gözlemleyerek de öğrenebileceğini; bu süreçte dikkat, hatırlama, motor yeniden üretim ve güdülenme gibi bilişsel süreçlerin rol oynadığını öne sürmüştür.",
+      "optionNotes": [
+        "Pavlov, klasik koşullanma kuramının kurucusudur; gözlemsel öğrenmeyi değil, uyarıcı-tepki eşleşmesine dayalı koşullanmayı incelemiştir.",
+        "Doğru yanıt: Sosyal bilişsel öğrenme kuramı Albert Bandura tarafından ortaya konulmuştur; gözlemsel öğrenme ve model alma kavramlarının öncüsüdür.",
+        "Watson, davranışçılığın kurucusudur; öğrenmeyi gözlenebilir uyarıcı-tepki ilişkileriyle açıklamış, bilişsel/gözlemsel süreçlere odaklanmamıştır.",
+        "Thorndike, deneme-hata öğrenmesi ve etki yasasını geliştiren bağlaşımcı bir kuramcıdır; sosyal bilişsel öğrenme kuramıyla ilişkilendirilmez.",
+        "Guthrie, bitişiklik kuramıyla tanınan davranışçı bir kuramcıdır; sosyal bilişsel öğrenme kuramının kurucusu değildir."
+      ]
+    }
+  ]
+}

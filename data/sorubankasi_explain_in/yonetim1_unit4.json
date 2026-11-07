@@ -1,0 +1,337 @@
+{
+  "course": "yonetim1",
+  "unit_index": 4,
+  "topic": "Sporda İletişim ve Halkla İlişkiler",
+  "questions": [
+    {
+      "question": "Duygu, düşünce ya da bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması, bildirişim, haberleşme, komünikasyon olarak tanımlanan kavrama ne ad verilir?",
+      "options": [
+        "Yönetim",
+        "İşletme",
+        "Liderlik",
+        "İletişim",
+        "Hukuk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "I. İnsan ilişkilerinde anlama II. Anlaşma III. Duygudaşlık yapma IV. Paylaşma tekniklerinin belirlenmesi, analiz edilmesi ve açıklanması Yukarıda verilenlerden hangileri İletişimin temel görevlerindendir?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Örgütsel iletişimin vazgeçilmez aracı aşağıdakilerden hangisidir?",
+      "options": [
+        "Halkla ilişkiler",
+        "Spor pazarlaması",
+        "Spor yöneticileri",
+        "Kulüp personelleri",
+        "Sponsorlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "“doğru mesajı, doğru hedef kitleye, doğru araçlarla vermemizi sağlayacak uygulamalar” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Halkla ilişkiler",
+        "Spor pazarlaması",
+        "Spor yöneticileri",
+        "Kulüp personelleri",
+        "Sponsorlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Eski Mısır II. Mezopotamya III. İran Yukarıdaki medeniyetlerin hangilerinde propaganda amaçlı tabletler bulunmuştur?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Agora toplantılarını hangi medeniyet yapmıştır?",
+      "options": [
+        "Eski Mısır",
+        "Mezopotamya",
+        "İran",
+        "Eski Yunan",
+        "Eski Roma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Forumlar hangi medeniyet tarafından yapılmıştır?",
+      "options": [
+        "Eski Mısır",
+        "Mezopotamya",
+        "İran",
+        "Eski Yunan",
+        "Eski Roma"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Pers İmparatoru Dara’yı yendikten sonra İran halkının karşısına Perslerin yerel giysileriyle çıkarak sempati kazanmaya çalışan ve bir bakıma o dönemde halkla ilişkiler faaliyeti yapan hükümdar kimdir?",
+      "options": [
+        "Büyük İskender",
+        "Konstantin",
+        "Theodosius",
+        "Kleopatra",
+        "Humbaba"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Pers II. Babil III. Asurlular Yukarıdaki medeniyetlerin hangileri özenle işledikleri portrelerle ‘güçlü imparator’ imajının tarih boyunca korunmasını sağlamışlardır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi James Grunig’in halkla ilişkiler uygulamalarından biri değildir?",
+      "options": [
+        "Tanıtım",
+        "Bilgilendirme",
+        "Çapraz iletişim",
+        "İki yönlü asimetrik iletişim",
+        "İki yönlü simetrik iletişim"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Amerika’da modern halkla ilişkilerin öncüsü olarak kabul edilen kişi kimdir?",
+      "options": [
+        "James Grunig",
+        "Silberblatt",
+        "Henry Fayol",
+        "Max Weber",
+        "Edward Bernays"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Anadolu Ajansı ve Matbuat ve İstihbarat Umum Müdürlüğü kaç yılında kurulmuştur?",
+      "options": [
+        "1900",
+        "1905",
+        "1915",
+        "1920",
+        "1930"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "İrade-i Milliye gazetesi hangi ilde çıkarılmıştır?",
+      "options": [
+        "Sivas",
+        "Erzurum",
+        "İstanbul",
+        "İzmir",
+        "Ankara"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ülkemizde ilk internet bağlantısı hangi yılda yapılmıştır?",
+      "options": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Ülkemizin ilk özel televizyon kanalı aşağıdakilerden hangisidir?",
+      "options": [
+        "Trt",
+        "Magic Box",
+        "Show Tv",
+        "Fox",
+        "Kanal D"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kendi çıkarları doğrultusunda herhangi bir konuda yasama kademelerini etkilemek ve ikna etmek için yapılan girişimleri yürütmek hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": [
+        "Lobicilik",
+        "Sponsorluk",
+        "Kurumsal Kimlik Çalışmaları",
+        "Kültürlerarası iletişim",
+        "Danışmanlık"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Haber bültenleri II. Basın toplantıları III. Konuşmalar IV. Özel haberler Yukarıdakilerden hangileri duyurum türleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Kaynak ile hedef arasında “mesaj alışverişi, bilgi üretme, aktarma ve anlamlandırma sürecine ne ad verilir?",
+      "options": [
+        "Yönetim",
+        "İşletme",
+        "Liderlik",
+        "İletişim",
+        "Hukuk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Beden dili, insanlar arasındaki yüz yüze etkileşimde yüzde kaç etkilidir?",
+      "options": [
+        "7",
+        "38",
+        "55",
+        "70",
+        "90"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşağıdakilerden hangisi iletişimi engelleyen örgütsel açıdan teknik faktörlerden biri değildir?",
+      "options": [
+        "Gürültü",
+        "Tutum ve davranışlar",
+        "Mesajdan kaynaklanan engel ve bozukluklar",
+        "İletişim araçlarından kaynaklanan bozukluklar",
+        "Dil güçlüklerinden kaynaklanan engeller"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Yargılardan kaçınarak, tavsiyede bulunmadan, karşıdakinin duygularını anlamaya çalışarak dinlemeye ne ad verilir?",
+      "options": [
+        "Ayırt Edici Dinleme",
+        "Estetik Dinleme",
+        "Etkili Dinleme",
+        "Eleştirel Dinleme",
+        "Empatik Dinleme"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Spor insanlarının korona virüsünden olumsuz etkilenen insanlar için yardım kampanyası düzenlenmesi, hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": [
+        "Sosyal sorumluluk projeleri",
+        "Kulüp içi iletişim",
+        "Kulüpler arası iletişim",
+        "Kulüp halkla ilişkiler",
+        "Kulüp medya ilişkileri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sporcularla görüşmeler, maç öncesi toplantılar hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": [
+        "Kulüpler arası iletişim",
+        "Kulüp halkla ilişkiler",
+        "Kulüp içi iletişim",
+        "Kulüp medya ilişkileri",
+        "Sosyal sorumluluk projeleri"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Karşılıklı yarar sağlayan iki yönlü iletişime dayanan dürüst ve sorumlu uygulamalarla kamuoyunu etkilemeye yönelik planlı çabalara ne ad verilir?",
+      "options": [
+        "Spor pazarlaması",
+        "Halkla ilişkiler",
+        "Spor yöneticileri",
+        "Kulüp personelleri",
+        "Sponsorlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Korona virüsü nedeni ile iptal edilen müsabakalar konusunda taraftarları bilgilendirmek, hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": [
+        "Kamusal ilişkiler",
+        "Finansal ilişkiler",
+        "Stratejik iletişim",
+        "Kriz yönetimi",
+        "Çevresel faktörleri takip etmek"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Hedef kitle taraftarların özelliklerine göre mesaj oluşturarak iletişimi sağlamak, hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": [
+        "Metin yazımı",
+        "Yayım idaresi",
+        "Etkinlik yönetimi",
+        "Kültürlerarası iletişim",
+        "Danışmanlık"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "İki firma arasında karşılıklı fayda ilişkisine dayalı spor, sanat, kültür ve sosyal olaylara ayni veya nakdi destek yapmak amacıyla gerçekleştirilen anlaşmaları yapmak hangi halkla ilişkiler faaliyet alanına girmektedir?",
+      "options": [
+        "Lobicilik",
+        "Sponsorluk",
+        "Kurumsal Kimlik Çalışmaları",
+        "Kültürlerarası iletişim",
+        "Danışmanlık"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Enformasyon, ikna ve uyum aracılığıyla organizasyonların, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesine ne ad verilir?",
+      "options": [
+        "Spor pazarlaması",
+        "Spor yöneticileri",
+        "Kulüp personelleri",
+        "Sponsorlar",
+        "Halkla ilişkiler"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Halkla ilişkiler enstitüsü 1948 yılında nerede kurulmuştur?",
+      "options": [
+        "Amerika",
+        "Fransa",
+        "İngiltere",
+        "İngiltere",
+        "Rusya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Bilgi Edinme Hakkı Yasası kaç yılında Resmî Gazetede yayımlanmıştır?",
+      "options": [
+        "1999",
+        "2001",
+        "2003",
+        "2005",
+        "2007"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

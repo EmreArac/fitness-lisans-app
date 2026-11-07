@@ -1,0 +1,271 @@
+{
+  "course": "havb1",
+  "unit_index": 5,
+  "topic": "Genel Antrenman Bilimi: Koordinatif Özellikler",
+  "questions": [
+    {
+      "question": "Koordinatif özelliklerle ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "options": [
+        "Sporcuların karşılaştıkları durumlara hızlı ve amaca uygun uyum sağlamasına olanak verir",
+        "Doğuştan kazanılan yeteneklerdir",
+        "Önceden yapılmış antrenmanlar yoluyla kazanılmaktadır",
+        "Doğru ve kaliteli bir şekilde yapılabilmesi için farklı faktörler rol oynar.",
+        "Spordaki birçok hareket arka arkaya ve birbiri ile uyumlu birçok küçük parçanın bir araya getirilmesiyle ortaya çıkmaktadır."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kısa bir süre içerisinde zor hareketleri öğrenebilme ve değişik durumlarda amaca uygun çabuk bir şekilde tepki gösterebilme, her hareketin birbirini doğru olarak izlemesi ve istenilen kuvvetle meydana gelmesine ne ad verilmektedir?",
+      "options": [
+        "Koordinasyon",
+        "Hareketlilik",
+        "Çeviklik",
+        "Denge",
+        "Sürat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "“Tüm vücudun her tür hareketinin koordinasyonudur.” şeklinde tanımlama yapan kişi kimdir?",
+      "options": [
+        "Meinel",
+        "Bompa",
+        "Schnabels",
+        "Ellis",
+        "Brown"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kişinin, bakmaksızın vücut organlarının ne yaptıklarının farkında olması duyarlılığı aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Göz-kas koordinasyonu",
+        "Prorioseptik duyarlılık",
+        "Zaman ayarlama",
+        "Kinestetik duyarlılık",
+        "Görerek Nişanlama"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Futbolda havadaki topa kafa ile vurabilme ve istediği yöne gönderebilme aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Reaksiyon Zamanı",
+        "Hareket Sürati",
+        "Hareketin Yönü ve Uzaklığı",
+        "Görerek Nişanlama",
+        "Kassal Tansiyon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Koşma, yürüme, sıçrama gibi vücudun çeşitli bölümlerinin rol aldığı hareket zincirinde yer alan koordinasyon türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel dinamik koordinasyon",
+        "Parçalara ayrılmış koordinasyon",
+        "Ayrı ayrı koordinasyon",
+        "Sağ ve sol koordinasyon",
+        "Aşağı yukarı koordinasyon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Koordinasyonun Sınıflandırılması kaça ayrılır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "…………..göre, temel gelişim ve bununla birlikte koordinatif yeteneklerin oluşumu çok yönlü ve değişken alıştırmalarla mümkündür. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Meinel",
+        "Bompa",
+        "Schnabels",
+        "Ellis",
+        "Brown"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Kaba Hareketler II. Kombine Hareketler III. Branşa Özgü Hareketler. Yukarıdakilerden hangisi veya hangileri Koordinasyon antrenmanının metodik ilkelerindendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun hareketlerini eklemlerin müsaade ettiği oranda, geniş bir açıda ve değişik yönlere uygulayabilme yeteneğine ne ad verilir?",
+      "options": [
+        "Koordinasyon",
+        "Hareketlilik",
+        "Çeviklik",
+        "Denge",
+        "Sürat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hareketliliğin gelişim devrelerine bakıldığında 12 – 15 yaşlarında hareketlilik nasıldır?",
+      "options": [
+        "Çok iyi",
+        "İyi",
+        "Kötü",
+        "Orta",
+        "Normal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aşağıdakilerden hangisi çeviklik çalışmalarında dikkat edilecek noktalardan biri değildir?",
+      "options": [
+        "Antrenmanlar kombine şekilde uygulanmalıdır",
+        "Alıştırmaların temposu sabit olmalıdır",
+        "Koordinasyon kombinasyonları birleştirilmelidir",
+        "Direktif ve komut değiştirme çalışmaları uygulanabilir",
+        "Koordinasyon çalışmalarında tam dinlenme ilkesi uygulanır"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Çocukluk döneminde gelişimini sürdüren denge becerisi….yaş civarında erişkinlik seviyelerine ulaşmaktadır.",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "13",
+        "15"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Çekiç atma, buz hokeyi gibi sportif aktiviteler hangi denge türüne örnektir?",
+      "options": [
+        "Motorsal Denge",
+        "Statik Denge",
+        "Dinamik Denge",
+        "Objeyle Denge",
+        "Genel Denge"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Yukarıda görselde örnek olarak verilen hareketlilik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel Hareketlilik",
+        "Özel Hareketlilik",
+        "Aktif Hareketlilik",
+        "Pasif Hareketlilik",
+        "Statik Hareketlilik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hareketliliğin gelişim devreleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "3 – 7 yaş arasında hareketlilik çok iyidir",
+        "7 – 10 yaşlarında çok iyidir",
+        "10 – 13 yaşları arasında iyi",
+        "12 – 15 yaşlarında kötü",
+        "15 – 19 yaşlarında kötü"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Hareket akışı içerisinde kullanılan belli eklemlerin çalışmasıdır. Örneğin, engelli koşularda kalça eklemi. Yukarıda özellikleri verilen hareketlilik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel Hareketlilik",
+        "Özel Hareketlilik",
+        "Aktif Hareketlilik",
+        "Pasif Hareketlilik",
+        "Statik Hareketlilik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aşağıdakilerden hangisi hareketlilik antrenmanlarında, dikkat edilmesi gereken temel ilkelerden biri değildir?",
+      "options": [
+        "Hareket serileri 10-15 tekrarla bitirilmelidir.",
+        "Hareketlilik çalışmalarında tek yönlü çalışma istenir",
+        "Hareketlilik bütün spor türlerinde bağımsız düşünülmelidir.",
+        "Yarışmalar sırasında uygulanacak hareketlilik çalışmalarının 1/3’ü genel, 2/3’ü özel hareketlilik olmalıdır",
+        "Hareketlilik çalışmalarına genel ısınma ile başlanmalıdır"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hareketlilik çalışmaları, müsabakaya kaç dakika kala bitirilmelidir?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aşağıdakilerden hangisi çevikliğin olmazsa olmaz 3 unsuru arasında yer almaktadır?",
+      "options": [
+        "Koordinasyon denge ve patlayıcılık",
+        "Koordinasyon denge ve sürat",
+        "Koordinasyon denge ve esneklik",
+        "Koordinasyon denge ve hareketlilik",
+        "Koordinasyon denge ve süreklilik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Çeviklik antrenmanı için yapılan driller arasında yer almaz?",
+      "options": [
+        "Bisiklete binme",
+        "İleri geri sıçramalar",
+        "Çaprazlama atlama",
+        "Açılı tahta",
+        "Çabukluk Alıştırmaları"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Yön değiştirme Tekniğine Yönelik Alıştırmalar II. Kapalı Beceri Alıştırmaları III. Çabukluk Alıştırmaları IV. Reaktif Çeviklik Antrenmanı. Yukarıdakilerden hangileri Çeviklik antrenman çeşitleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Teniste top ile raketi buluşturmak, aşağıdakilerden hangisiyle ilgilidir?",
+      "options": [
+        "Göz-kas koordinasyonu",
+        "Prorioseptik duyarlılık",
+        "Zaman ayarlama",
+        "Kinestetik duyarlılık",
+        "Görerek Nişanlama"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Genel ve özel hareketlilik II. Aktif ve pasif hareketlilik III. Statik ve dinamik hareketlilik. Yukarıdakilerden hangileri Hareketlilik Sınıflandırılmaları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    }
+  ]
+}

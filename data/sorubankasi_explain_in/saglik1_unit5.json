@@ -1,0 +1,282 @@
+{
+  "course": "saglik1",
+  "unit_index": 5,
+  "topic": "Dopingle Mücadele",
+  "questions": [
+    {
+      "question": "’Yasaklı maddelerin veya yöntemlerin kullanımı’’ olarak bilinen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Şike",
+        "İhlal",
+        "Doping",
+        "Hile",
+        "Madde"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Dünya Dopingle Mücadele Ajansı II. Uluslararası Olimpiyat Komitesi III. Uluslararası Paralimpik Komitesi Yukarıda verilenlerden hangileri Dopingle Mücadeleden Sorumlu Kuruluşlar arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – III",
+        "I –II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Dünya Dopingle Mücadele Ajansı (WADA) kaç yılında kurulmuştur?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ülkemizde WADA tarafından tanınmış tek Ulusal Dopingle Mücadele Kuruluşu aşağıdakilerden hangisidir?",
+      "options": [
+        "Türkiye Dopingle Mücadele Komisyonu",
+        "Ankara Dopingle Mücadele Komisyonu",
+        "İstanbul Dopingle Mücadele Komisyonu",
+        "Avrasya Dopingle Mücadele Komisyonu",
+        "Hacettepe Dopingle Mücadele Komisyonu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Akdeniz Oyunları Uluslararası Komitesi (ICMG) II. Commonwealth Oyunları Federasyonu (CGF) III. Uluslararası Askeri Spor Konseyi (CISM) Yukarıdakilerden hangisi Büyük Çaplı Turnuva Düzenleyicilerindendir?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Dünyada yaklaşık otuz doping kontrol laboratuvarı bulunmaktadır. Bu laboratuvarlardan biri de ülkemizdeki …………. Doping Kontrol Laboratuvarıdır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "KATÜ",
+        "ODTÜ",
+        "GAZİ",
+        "HACETTEPE",
+        "İTÜ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "I. Haberli II. Habersiz III. Yüz yüze IV. Uzaktan Yukarıda verilenlerden hangisi Doping kontrol laboratuvarları denetimleri kapsamında yer alır?",
+      "options": [
+        "I – II – III – IV",
+        "II – IV",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Dünya Dopingle Mücadele Kuralları ilk olarak kaç yılında kabul edilmiştir?",
+      "options": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Yasaklı Madde ve Yöntemler Listesi II. Doping Kontrolü ve Soruşturmalar III. Tedavi Amaçlı Kullanım İstisnası IV. Laboratuvarlar, Mahremiyetin ve Kişisel Bilgilerin Korunması Yukarıdakilerden hangisi WADA’nın geliştirdiği Uluslararası Standartlar kapsamında yer alır?",
+      "options": [
+        "I – II – III – IV",
+        "II – IV",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Doping kontrolü kaç basamaklı bir süreçten oluşmaktadır?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcu rastgele, derecesine göre veya herhangi bir nedenden dolayı doping kontrolüne seçilmesine ne ad verilir?",
+      "options": [
+        "Müsabaka Dışı Doping Kontrolü",
+        "Müsabaka İçi Doping Kontrolü",
+        "Haberli Doping Kontrolü",
+        "Habersiz Doping Kontrolü",
+        "Yüz yüze Doping Kontrolü"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bir sporcu doping kontrolüne girmeyi reddetmesi durumunda en az kaç yıl hak mahrumiyeti cezası alır?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "I. Ödül törenine katılma II. Medya yükümlülüklerini yerine getirme III. Soğuma egzersizi yapma IV. Gerekli tıbbi tedavi alma Yukarıdakilerden hangisi Sporcunun Doping Kontrol İstasyonuna Geç Gelmesi İçin Geçerli Nedenler arasında yer alır?",
+      "options": [
+        "II – IV",
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Doping kontrolünde gerekli olan idrar miktarı en az kaç ml’dir?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "İdrar alındıktan sonra Laboratuvarda ilk olarak hangi örnek analiz edilir?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Doping kontrol örneğinde yasaklı bir maddenin varlığını ya da yasaklı bir yöntemin kullanıldığını gösteren kanıta ne ad verilir?",
+      "options": [
+        "Tedavi Amaçlı Kullanım İstisnası",
+        "Müsabaka İçi Doping Kontrolü",
+        "Aykırı Analitik Bulgu",
+        "Müsabaka Dışı Doping Kontrolü",
+        "Kusursuz Sorumluluk İlkesi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Doping işlemleri sırasında alınan laboratuvar örnekleri kaç yıl süreyle dondurulup depolanabilir ve analiz edilebilir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Doping kontrolü de dâhil olmak üzere dopingle mücadele konusunda yetkilendirilmiş kişiye ne ad verilir?",
+      "options": [
+        "Doping Kontrol Antrenörü",
+        "Doping Kontrol Görevlisi",
+        "Doping Kontrol Yöneticisi",
+        "Doping Kontrol Müdürü",
+        "Doping Kontrol Eğitmeni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Yasaklı madde ve yöntemlerin listesi kim tarafından hazırlanır?",
+      "options": [
+        "Ulusal Dopingle Mücadele Ajansı",
+        "Bölgesel Dopingle Mücadele Ajansı",
+        "Uluslararası Federasyonlar Birliği Ajansı",
+        "Dünya Dopingle Mücadele Ajansı",
+        "Uluslararası Paralimpik Birliği Ajansı"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Sporcu idrar testinde A örnek şişesini en az kaç ml doldurmalıdır?",
+      "options": [
+        "15",
+        "30",
+        "45",
+        "60",
+        "75"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Bazı Özel Sporlarda Kullanımı Yasaklı Maddelerden biridir?",
+      "options": [
+        "Beta bloke ediciler",
+        "Narkotikler",
+        "Kannabinoidler",
+        "Beta 2 Agonistler",
+        "Anabolik Maddeler"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "…………..yüzyılın sonlarından bu yana, bazı sporcular ne yazık ki, çeşitli maddeleri ve yöntemleri kullanarak müsabakalarda başarı elde etmeye çalışmıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "On altıncı",
+        "On yedinci",
+        "On sekizinci",
+        "On dokuzuncu",
+        "Yirminci"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Dopingle Mücadele Kurallarının kaçıncı maddesinde bir veya birden fazla dopingle mücadele kuralının ihlal edilmesi doping olarak kabul edilir?",
+      "options": [
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sporun ruhuyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Mükemmel Performans",
+        "Kişilik ve Eğitim",
+        "Ekip Çalışması",
+        "Sağlık",
+        "Sadece Kendine Saygı"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Müsabaka İçinde Kullanımı Yasaklı Maddeler sınıfında kaç ana grup bulunmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

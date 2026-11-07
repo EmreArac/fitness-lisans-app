@@ -1,0 +1,293 @@
+{
+  "course": "saglik1",
+  "unit_index": 2,
+  "topic": "Spor Fizyolojisi",
+  "questions": [
+    {
+      "question": "Hücre içinde mitokondride oluşan, aerobik sistemin başlangıç kısmını oluşturan, kimyasal reaksiyon zincirine ne ad verilir?",
+      "options": [
+        "Elektron transfer sistemi",
+        "Aerobik sistem",
+        "Anaerobik metabolizma",
+        "Krebs çemberi",
+        "Adenozin trifosfat"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Hücrelerin normal işlevlerini sürdürebilmeleri için iç ortam koşullarının sabit tutulmasına ne ad verilir?",
+      "options": [
+        "Boşaltım",
+        "Hareket",
+        "Homeostaz",
+        "Adaptasyon",
+        "Üreme"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "ATP'nin yüksek enerjili fosfat bağlarını, hidroliz reaksiyonlarıyla koparılması ile ATP'nin farklı enerji türlerine dönüştürülerek kullanılması hangi biyolojik enerji dönüşümüne girmektedir?",
+      "options": [
+        "Birinci tip",
+        "İkinci tip",
+        "Üçüncü tip",
+        "Dördüncü tip",
+        "Beşinci tip"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Physus ne anlama gelmektedir?",
+      "options": [
+        "Yaşam",
+        "Sağlık",
+        "Spor",
+        "Egzersiz",
+        "Bilim"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Su II. Elektrolitler III. Proteinler IV. Lipitler V. Karbonhidratlar Yukarıdakilerden hangileri Protoplazmayı oluşturan maddelerdendir?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II – III",
+        "I – II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Canlı organizmalarındaki tüm yaşamsal işlevleri inceleyen bilim dalına ne ad verilir?",
+      "options": [
+        "Biyoloji",
+        "Psikoloji",
+        "Fizyoloji",
+        "Kimya",
+        "Anatomi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Çekirdeği ve zarlı organelleri bulunmayan hücrelere ne ad verilir?",
+      "options": [
+        "Prokaryot hücre",
+        "Ökaryot hücre",
+        "Kimyasal",
+        "Organik",
+        "İnorganik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Canlı hücrelerde gerçekleşen biyokimyasal olayların tamamına ne ad verilmektedir?",
+      "options": [
+        "Beslenme",
+        "Solunum",
+        "ATP",
+        "Metabolizma",
+        "Boşaltı"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Canlıların hücrelerindeki düzeni korumak amacıyla metabolizmada oluşan atık maddeleri hücreden uzaklaştırmasına ne ad verilir?",
+      "options": [
+        "Beslenme",
+        "Solunum",
+        "ATP",
+        "Metabolizma",
+        "Boşaltım"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Doğada kaç tane element bulunur?",
+      "options": [
+        "51",
+        "63",
+        "76",
+        "85",
+        "92"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Aşağıdakilerden hangisi organik bileşenlerden biri değildir?",
+      "options": [
+        "Tuz",
+        "Karbonhidratlar",
+        "Lipitler",
+        "Proteinler",
+        "Nükleik asitler"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Atom çekirdeğin dışında yörüngelerde serbest dolaşan atom altı parçacıklara ne ad verilir?",
+      "options": [
+        "Atom",
+        "İyon",
+        "Proton",
+        "Nötron",
+        "Elektron"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "İnsan vücudu, yaklaşık olarak kaç trilyon hücreden oluşmaktadır?",
+      "options": [
+        "100 trilyon",
+        "150 trilyon",
+        "200 trilyon",
+        "250 trilyon",
+        "300 trilyon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kan damarlarının etrafında çok sayıda bulunan bağışıklık sisteminde önemli rolü olan hücrelere ne ad verilir?",
+      "options": [
+        "Mezenkim",
+        "Makrofajlar",
+        "Plazma",
+        "Mast",
+        "Pigment"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Nöron gövdesinden çıkan, sayıları bir veya daha fazla olan, kısa uzantılara………..adı verilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Dendrit",
+        "Akson",
+        "Miyosit",
+        "Monosit",
+        "Glia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Suyun, çok yoğun olduğu ortamdan az yoğun olduğu ortama doğru yarı geçirgen bir zar üzerinden geçişine ne ad verilir?",
+      "options": [
+        "Difüzyon",
+        "Ozmoz",
+        "Pasif Taşıma",
+        "Aktif Taşıma",
+        "Endositoz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Partiküllerin içinde dağıldığı sitoplazmanın berrak sıvı kısmına en ad verilir?",
+      "options": [
+        "Pasif Taşıma",
+        "Difüzyon",
+        "Ozmoz",
+        "Aktif Taşıma",
+        "Sitozol"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Proteinlerin sentez edildikleri hücre organelidir. Membranı yoktur ve membranoz olmayan hücre organelleri grubunda yer alır. RNA ve 80 tip proteinden oluşmaktadır. Yukarıda özellikleri verilen organel aşağıdakilerden hangisidir?",
+      "options": [
+        "Endoplazmik Retikulum",
+        "Ribozomlar",
+        "Golgi Aygıtı",
+        "Lizozomlar",
+        "Peroksizomlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kürek branşında Aerobik enerji sisteminin kullanımı kaçtır?",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "80",
+        "95"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bir gram suyun sıcaklığını bir derece artırabilmek için gereken enerji miktarına ne ad verilir?",
+      "options": [
+        "Basınç",
+        "ATP",
+        "MOL",
+        "Kalori",
+        "Fosfojen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Hareketsiz bir insan, günde yaklaşık kaç gram ATP kullanmaktadır?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Dinlenimde enerjinin 2/3'ü………1/3'ü ise ………elde edilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Yağlardan – glikozdan",
+        "Glikozdan – yağlardan",
+        "Proteinden – glikozdan",
+        "Proteinden – yağlardan",
+        "Yağlardan – proteinden"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bir sistemin ya da cismin iş yapabilme yeteneğine ne ad verilir?",
+      "options": [
+        "Güç",
+        "Enerji",
+        "İş",
+        "Kuvvet",
+        "Zaman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "I. Moleküllerin hücre zarı boyunca aktif taşınması II. Kasların kasılması III. Sinir uyarılarının iletimi IV. Hücre bölünmesi ve hücrenin gelişimi Yukarıdaki fizyolojik işlevlerden hangileri için ATP gereklidir?",
+      "options": [
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Dinlenim sırasında 100 mililitre kanda yaklaşık kaç miligram sabit laktik asit bulunmaktadır?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Birim zamanda ortaya konan iş olarak ifade edilen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "İş",
+        "ATP",
+        "Güç",
+        "Kalori",
+        "Fosfojen"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

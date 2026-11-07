@@ -1,0 +1,482 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 2,
+  "topic": "Beceri Öğrenimi",
+  "questions": [
+    {
+      "question": "I. Motor Öğrenme II. Motor Gelişim III. Motor Kontrol Yukarıda verilenlerden hangileri Motor davranış alanları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Motor davranış, hareketle ilgili tüm bilimsel çalışmaları kapsayan şemsiye bir kavramdır ve üç temel alt alana ayrılır: Motor Öğrenme (alıştırma ve deneyimle hareket yeteneğinde oluşan kalıcı değişimleri inceler), Motor Gelişim (yaşam boyu, özellikle çocukluktan itibaren hareket davranışındaki değişimleri inceler) ve Motor Kontrol (hareketlerin merkezi sinir sistemi tarafından nasıl organize edilip kontrol edildiğini inceler). Bu nedenle üçü birlikte motor davranış alanlarını oluşturur.",
+      "optionNotes": [
+        "Sadece Motor Öğrenme'yi kapsar, oysa Motor Gelişim ve Motor Kontrol da bu alanın parçasıdır; eksik bir seçenektir.",
+        "Sadece Motor Gelişim'i içerir, Motor Öğrenme ve Motor Kontrol'ü dışarıda bırakır, bu nedenle yanlıştır.",
+        "Motor Kontrol'ü dışarıda bıraktığı için eksiktir; motor davranışın üç ana alt alanından biri atlanmıştır.",
+        "Motor Öğrenme'yi kapsam dışı bırakır, oysa alıştırma yoluyla öğrenme de bu üç temel alandan biridir.",
+        "Doğru yanıt: Motor Öğrenme, Motor Gelişim ve Motor Kontrol, motor davranışın birbirini tamamlayan üç temel alt alanıdır; dolayısıyla hepsi birlikte doğru yanıttır."
+      ]
+    },
+    {
+      "question": "Ülkemizde daha iyi anlaşılabilmesi açısından motor gelişim alanına genel olarak ne ad verilmektedir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Beceri Sınıflanması",
+        "Düzenleyici Şartlar",
+        "Psikomotor Gelişim",
+        "Canlılık Düzeyi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Motor gelişim alanı, ülkemizde literatürde daha anlaşılır olması açısından genellikle \"Psikomotor Gelişim\" terimiyle ifade edilir; bu terim, bilişsel (psiko) ve hareketsel (motor) süreçlerin birlikte ele alındığını vurgular.",
+      "optionNotes": [
+        "Bu, motor öğrenme alanına karşılık gelen ayrı bir terimdir, motor gelişimin diğer adı değildir.",
+        "Bu, becerilerin türlerine göre kategorilere ayrılmasıyla ilgili bir konu başlığıdır, motor gelişimin adı değildir.",
+        "Bu, Gentile'nin beceri sınıflama modelinde çevresel koşulları ifade eden bir terimdir, motor gelişimle eş anlamlı değildir.",
+        "Doğru yanıt: Ülkemizde motor gelişim alanı, bilişsel ve hareketsel boyutları birlikte vurgulamak amacıyla \"Psikomotor Gelişim\" olarak adlandırılır.",
+        "Bu terim, merkezi sinir sisteminin uyarılmışlık/aktivasyon düzeyini ifade eder (arousal), motor gelişimle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Alıştırma ve deneyim sonucu harekette meydana gelen değişiklikleri inceleyen davranış alanı aşağıdakilerden hangisidir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Motor Gelişim",
+        "Motor Kontrol",
+        "Psikomotor Gelişim",
+        "Performans"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alıştırma ve deneyim yoluyla hareket becerisinde ortaya çıkan nispeten kalıcı değişiklikleri inceleyen alan Beceri Öğrenimi (Motor Öğrenme)'dir. Bu alan, performansın gözlemlenmesi yoluyla, pratik sonucunda kapasitede oluşan değişimlerin çıkarsanmasıyla ilgilenir.",
+      "optionNotes": [
+        "Doğru yanıt: Beceri Öğrenimi, alıştırma ve deneyim sonucunda harekette meydana gelen kalıcı değişiklikleri inceleyen motor davranış alanıdır.",
+        "Bu alan yaşa bağlı, özellikle çocukluktan itibaren süregelen gelişimsel değişimleri inceler, alıştırmaya bağlı kısa dönemli değişimleri değil.",
+        "Bu alan hareketin sinir sistemi tarafından anlık olarak nasıl organize edildiğiyle ilgilenir, öğrenmenin zaman içindeki kalıcı etkisiyle değil.",
+        "Bu, motor gelişimin ülkemizdeki adıdır; alıştırma yoluyla öğrenmeyi değil yaşa bağlı gelişimi ifade eder.",
+        "Performans, becerinin o anki uygulanma eylemidir; alıştırmayla oluşan kalıcı kapasite değişimini değil, anlık icrayı ifade eder."
+      ]
+    },
+    {
+      "question": "Nasıl ve neden hareketlerin çocukluk döneminde geliştiğini ve yaşla gerilediğini inceleyen davranış alanı aşağıdakilerden hangisidir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Motor Gelişim",
+        "Motor Kontrol",
+        "Performans",
+        "Öğrenme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motor Gelişim, hareket davranışının çocukluk döneminde nasıl ve neden geliştiğini, yetişkinlikte nasıl olgunlaştığını ve ileri yaşlarda nasıl gerilediğini inceleyen alandır; yaşam boyu süreç perspektifiyle ele alınır.",
+      "optionNotes": [
+        "Alıştırma ve pratik yoluyla oluşan değişimleri inceler, yaşa bağlı gelişim/gerileme süreciyle ilgilenmez.",
+        "Doğru yanıt: Motor Gelişim, hareketlerin çocuklukta nasıl ve neden geliştiğini, yaşla birlikte nasıl gerilediğini inceleyen alandır.",
+        "Hareketin sinir sistemi tarafından anlık organizasyonunu inceler, yaşam boyu gelişim sürecini değil.",
+        "Becerinin anlık uygulanışını ifade eder, yaşa bağlı gelişimsel değişimi açıklamaz.",
+        "Genel bir kavram olarak alıştırma sonucu kapasite değişimini ifade eder, yaşa bağlı gelişim/gerileme sürecine özgü bir alan değildir."
+      ]
+    },
+    {
+      "question": "Hareketlerin nasıl kontrol edildiğini, merkezi sinir sisteminin kas ve eklem hareketlerini nasıl organize ettiğini inceleyen davranış alanı aşağıdakilerden hangisidir?",
+      "options": [
+        "Beceri Öğrenimi",
+        "Motor Gelişim",
+        "Performans",
+        "Öğrenme",
+        "Motor Kontrol"
+      ],
+      "correctIndex": 4,
+      "explanation": "Motor Kontrol, hareketlerin nasıl kontrol edildiğini; merkezi sinir sisteminin kas ve eklem hareketlerini nasıl organize ederek koordineli hareket ürettiğini inceleyen alandır.",
+      "optionNotes": [
+        "Pratik sonucu kapasitede oluşan kalıcı değişimi inceler, sinir sisteminin anlık organizasyonunu değil.",
+        "Yaşa bağlı değişimi inceler, hareketin sinirsel kontrol mekanizmasını değil.",
+        "Becerinin uygulanma eylemidir, sinir sisteminin kas-eklem organizasyonunu açıklayan bir alan değildir.",
+        "Genel öğrenme süreciyle ilgilidir, hareketin anlık sinirsel kontrolünü konu almaz.",
+        "Doğru yanıt: Motor Kontrol, merkezi sinir sisteminin kas ve eklem hareketlerini nasıl organize ettiğini ve hareketlerin nasıl kontrol edildiğini inceleyen alandır."
+      ]
+    },
+    {
+      "question": "“beceriyi uygulama eylemi” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Motor beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Performans, kazanılmış bir becerinin belirli bir anda gözlemlenebilir şekilde uygulanması eylemidir; öğrenmeden farklı olarak kalıcı değildir ve birçok dışsal/içsel etkene göre değişkenlik gösterir.",
+      "optionNotes": [
+        "Öğrenme, kapasitede oluşan göreceli kalıcı bir değişimdir; doğrudan gözlemlenemez, performans aracılığıyla çıkarım yapılır. \"Uygulama eylemi\" tanımına uymaz.",
+        "Doğru yanıt: Performans, bir becerinin belirli bir zamanda gözlemlenebilir şekilde icra edilmesi, yani uygulanması eylemidir.",
+        "Motor beceri, belirli bir amaca yönelik hareket yeteneğinin kendisidir, o yeteneğin anlık uygulanma eylemini ifade etmez.",
+        "Uyaranın verilmesiyle tepkinin başlaması arasındaki süreyi ifade eder, genel bir \"uygulama eylemi\" tanımı değildir.",
+        "Zihnin bir uyarana yönelmesi sürecidir, becerinin icra edilmesiyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi öğrenme kavramının temel özellikleriyle ilgili yanlış bilgidir?",
+      "options": [
+        "Öğrenme bir süreçtir.",
+        "Öğrenme zaman ile gelişir ve bu süreç içerisinde davranışın üretilebilme kapasitesi kazanılır.",
+        "Öğrenme alıştırma/pratik yapmanın ve/ veya deneyimin sonucunda oluşur.",
+        "Öğrenme kapasitede oluşan veya oluştuğu varsayılan göreceli kalıcı değişimlerdir.",
+        "Öğrenme doğrudan gözlemlenir, çıkarım yapılmasına gerek yoktur."
+      ],
+      "correctIndex": 4,
+      "explanation": "Öğrenme doğrudan gözlemlenemeyen, performans üzerinden dolaylı olarak çıkarım yapılan bir süreçtir; bu nedenle \"doğrudan gözlemlenir, çıkarım yapılmasına gerek yoktur\" ifadesi öğrenmenin temel özellikleriyle çelişir ve yanlıştır.",
+      "optionNotes": [
+        "Bu doğru bir ifadedir; öğrenme zaman içinde gelişen bir süreç olarak tanımlanır, bu nedenle soruda aranan yanlış seçenek değildir.",
+        "Bu doğru bir özelliktir; öğrenme aşamalı olarak davranış üretme kapasitesini artırır, yanlış bilgi değildir.",
+        "Bu, öğrenmenin kabul edilen temel tanımlayıcı özelliklerinden biridir ve doğrudur.",
+        "Bu, öğrenmenin standart tanımına uyan doğru bir ifadedir.",
+        "Doğru yanıt: Öğrenme doğrudan gözlemlenemez; sadece performans gözlemlenebilir ve öğrenmenin gerçekleşip gerçekleşmediği bu performanstan dolaylı olarak çıkarım yapılarak anlaşılır. Bu nedenle bu ifade yanlıştır."
+      ]
+    },
+    {
+      "question": "Guthrie’ ye göre belirli bir sonuca maksimum kesinlik ve minimum enerji veya zaman harcayarak ulaşma yeteneğine ne ad verilir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Guthrie, beceriyi \"bir sonuca maksimum kesinlik ve minimum enerji ya da zaman harcayarak ulaşma yeteneği\" olarak tanımlamıştır. Bu tanım, becerinin verimlilik ve kesinlik boyutlarını bir arada vurgular.",
+      "optionNotes": [
+        "Öğrenme, kapasitede zamanla oluşan kalıcı değişimi ifade eder; Guthrie'nin tanımı spesifik olarak beceri kavramına aittir.",
+        "Performans, becerinin anlık icrasıdır; Guthrie'nin tanımı bir yetenek/kapasiteyi, performans ise o yeteneğin uygulanmasını ifade eder.",
+        "Doğru yanıt: Guthrie'ye göre beceri, bir sonuca maksimum kesinlik ve minimum enerji veya zaman harcayarak ulaşma yeteneğidir.",
+        "Uyaran ile tepki başlangıcı arasındaki süredir; Guthrie'nin verimlilik-kesinlik temelli beceri tanımıyla ilgisi yoktur.",
+        "Zihinsel yönelim sürecidir, Guthrie'nin tanımladığı sonuca ulaşma yeteneğiyle doğrudan ilişkili değildir."
+      ]
+    },
+    {
+      "question": "Vücudun büyük kas kitlelerini kullanarak yaptığı ve başarılı bir uygulama için kesinliğin çok önemli olmadığı becerilere ne ad verilmektedir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kas büyüklüğüne göre sınıflamada, vücudun büyük kas gruplarının kullanıldığı ve başarılı bir uygulama için yüksek kesinliğin şart olmadığı beceriler \"Büyük Kas Kitlesi Becerileri\" (kaba motor beceriler) olarak adlandırılır; yürüme, koşma gibi örnekler bu gruba girer.",
+      "optionNotes": [
+        "Doğru yanıt: Büyük kas gruplarının kullanıldığı ve kesinliğin kritik olmadığı beceriler Büyük Kas Kitlesi becerileri olarak adlandırılır.",
+        "Bu sınıf, tam tersine küçük kasların ve göz-el koordinasyonunun kullanıldığı, yüksek kesinlik gerektiren becerileri ifade eder.",
+        "Bu sınıflama kas büyüklüğüne göre değil, hareketin başlangıç-bitiş netliğine göre yapılan bir ayrımdır.",
+        "Bu, birçok kesik hareketin birleşmesiyle oluşan karmaşık becerileri ifade eder, kas büyüklüğü sınıflamasıyla ilgili değildir.",
+        "Bu, başı sonu belirsiz, uzun süreli hareketleri ifade eden bir sınıflamadır, kas büyüklüğü ile ilgili değildir."
+      ]
+    },
+    {
+      "question": "Genellikle kısa süreli ve başı ile sonu belli hareketlere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kesik beceriler (discrete skills), genellikle kısa sürede tamamlanan, başlangıç ve bitiş noktaları belirgin şekilde tanımlanabilen hareketlerdir; örneğin bir anahtarı çevirmek veya top fırlatmak.",
+      "optionNotes": [
+        "Bu, kas büyüklüğüne dayalı bir sınıflamadır, hareketin süresi veya başlangıç-bitiş netliğiyle ilgili değildir.",
+        "Küçük kasların kullanıldığı kesinlik gerektiren becerileri ifade eder, hareketin süresi/netliğiyle ilgili bir sınıflama değildir.",
+        "Doğru yanıt: Başlangıcı ve bitişi açıkça belirli, genellikle kısa süreli hareketler Kesik Beceri olarak tanımlanır.",
+        "Birden fazla kesik hareketin art arda birleştirilmesiyle oluşan daha karmaşık becerilerdir, tek ve kısa bir hareketi ifade etmez.",
+        "Başı ve sonu belirsiz, uzun süre devam eden hareketleri ifade eder; kesik becerinin tam tersidir."
+      ]
+    },
+    {
+      "question": "Başı ve sonu tam olarak belli olmayan ve dakikalarca devam edebilen hareketlere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 4,
+      "explanation": "Devamlı beceriler (continuous skills), başlangıç ve bitiş noktaları kesin olarak belirlenemeyen, yüzme veya bisiklete binme gibi dakikalarca sürebilen hareketlerdir.",
+      "optionNotes": [
+        "Kas büyüklüğü temelli bir sınıflamadır, hareketin süresi/sınırlarıyla ilgili değildir.",
+        "Küçük kaslarla yapılan kesinlik gerektiren becerileri ifade eder, uzun süreli hareketle ilgisi yoktur.",
+        "Başı ve sonu açıkça belirli, kısa süreli hareketleri ifade eder; sorudaki tanımın tam tersidir.",
+        "Kesik hareketlerin bir dizi halinde birleştirilmesidir, ancak her bir birim hâlâ tanımlanabilir sınırlara sahiptir; başı sonu tamamen belirsiz uzun süreli hareketi ifade etmez.",
+        "Doğru yanıt: Başı ve sonu kesin olarak belirlenemeyen, dakikalarca sürebilen hareketler Devamlı Beceri olarak adlandırılır."
+      ]
+    },
+    {
+      "question": "Eylem sırasında çevresel şartların değişken olduğu ve tahmin edilemediği beceriye ne ad verilmektedir?",
+      "options": [
+        "Devamlı Beceri",
+        "Açık Beceri",
+        "Kapalı Beceri",
+        "Motor Beceriler",
+        "Zihinsel Beceriler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Açık beceriler (open skills), eylem sırasında çevresel şartların sürekli değişken ve tahmin edilemez olduğu, sporcunun çevreye anlık uyum sağlaması gereken becerilerdir; örneğin takım sporlarında rakip hareketlerine tepki verme.",
+      "optionNotes": [
+        "Bu sınıflama hareketin süresi/sınırlarıyla ilgilidir, çevrenin tahmin edilebilirliğiyle ilgili değildir.",
+        "Doğru yanıt: Çevresel şartların değişken ve tahmin edilemez olduğu beceriler Açık Beceri olarak tanımlanır.",
+        "Bu, çevrenin sabit ve tahmin edilebilir olduğu becerileri ifade eder; sorudaki tanımın tam tersidir.",
+        "Bu, hareketin fiziksel/bedensel bileşeninin ağırlıkta olduğu becerileri ifade eden genel bir kategoridir, çevre tahmin edilebilirliğiyle ilgili özel bir sınıflama değildir.",
+        "Bilişsel süreçlerin ağırlıkta olduğu, bedensel hareketin sınırlı olduğu becerileri ifade eder, çevresel değişkenlikle ilgili değildir."
+      ]
+    },
+    {
+      "question": "‘’Satranç oynamak’’ hangi tür beceri sınıflandırılmasında yer almaktadır?",
+      "options": [
+        "Devamlı Beceri",
+        "Açık Beceri",
+        "Kapalı Beceri",
+        "Motor Beceriler",
+        "Zihinsel Beceriler"
+      ],
+      "correctIndex": 4,
+      "explanation": "Satranç oynamak, motor ve bilişsel öğelerin önemine göre yapılan sınıflamada, bedensel hareketin minimal, bilişsel/zihinsel süreçlerin (strateji, karar verme) ağırlıkta olduğu bir faaliyet olduğundan Zihinsel Beceriler sınıfında yer alır.",
+      "optionNotes": [
+        "Bu, hareketin süresi/sınırlarıyla ilgili bir sınıflamadır, satranç gibi zihinsel ağırlıklı bir etkinliği tanımlamaz.",
+        "Çevresel değişkenliğe dayalı bir sınıflamadır; satranç bu sınıflama ölçütü (motor-bilişsel ağırlık ayrımı) ile tanımlanmaz.",
+        "Çevrenin sabit olduğu motor becerileri ifade eder, satranç gibi öncelikle zihinsel bir etkinliği tanımlamak için kullanılan sınıf değildir.",
+        "Bedensel/fiziksel bileşenin ağırlıkta olduğu becerileri ifade eder; satranç ise bilişsel süreçlerin ağır bastığı bir etkinliktir.",
+        "Doğru yanıt: Satranç, bilişsel/zihinsel süreçlerin ağırlıkta olduğu bir etkinlik olduğundan Zihinsel Beceriler sınıfında değerlendirilir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi seri becerilere örnektir?",
+      "options": [
+        "Top atma",
+        "Yüzme",
+        "Ormanlık alanda koşu",
+        "Cimnastikte yer hareketleri",
+        "Dart atışı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Seri beceriler, birbirinden ayrı kesik hareketlerin belirli bir sırayla art arda birleştirilmesiyle oluşan karmaşık hareket dizileridir. Cimnastikte yer hareketleri, farklı kesik hareketlerin (takla, denge, sıçrama vb.) sıralı şekilde birleştirilmesiyle oluştuğundan seri beceri örneğidir.",
+      "optionNotes": [
+        "Başı ve sonu belirgin, tek bir hareket birimi olduğu için kesik beceri örneğidir, seri beceri değildir.",
+        "Başı sonu kesin belirlenemeyen, tekrarlayan bir hareket paterni olduğu için devamlı beceri örneğidir.",
+        "Çevresel şartların tahmin edilemez olduğu bir faaliyettir, bu nedenle açık beceri örneğidir; seri beceri sınıflamasıyla ilgili değildir.",
+        "Doğru yanıt: Cimnastikte yer hareketleri, birçok kesik hareketin belirli bir sıra ile bir araya getirilmesiyle oluşan karmaşık bir hareket dizisidir, bu nedenle seri beceri örneğidir.",
+        "Tek, kısa ve başı-sonu belirgin bir hareket olduğundan kesik beceri örneğidir, birleştirilmiş bir hareket dizisi değildir."
+      ]
+    },
+    {
+      "question": "Uyaranın verilmesi ile tepkinin başlangıcı arasındaki zamana ne ad verilir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Motor beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reaksiyon zamanı, bir uyaranın verilmesiyle organizmanın bu uyarana karşı tepkisinin fiziksel olarak başlaması arasında geçen süredir; hareketin kendisini değil, tepkinin başlamasına kadar geçen gizli (latent) süreyi ifade eder.",
+      "optionNotes": [
+        "Kapasitede oluşan kalıcı değişimi ifade eder, uyaran-tepki arasındaki süreyle ilgili değildir.",
+        "Becerinin uygulanma eylemidir, uyarandan tepkinin başlangıcına kadar geçen süreyi ölçmez.",
+        "Belirli bir amaca yönelik hareket yeteneğidir, uyaran-tepki arasındaki zaman aralığını tanımlamaz.",
+        "Doğru yanıt: Uyaranın verilmesi ile tepkinin fiziksel olarak başlaması arasındaki süre Reaksiyon Zamanı olarak tanımlanır.",
+        "Zihnin bir uyarana yönelmesi sürecidir, uyaran-tepki arasındaki süreyi ifade eden zamansal bir ölçüt değildir."
+      ]
+    },
+    {
+      "question": "Merkezi sinir sisteminin aktivasyonu” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Algı",
+        "Canlılık düzeyi",
+        "Dikkat",
+        "Reaksiyon",
+        "Seçici dikkat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canlılık düzeyi (arousal), merkezi sinir sisteminin genel uyarılmışlık/aktivasyon seviyesini ifade eder; derin uykudan yoğun heyecana kadar değişen bir süreklilik üzerinde yer alır ve performansı etkiler.",
+      "optionNotes": [
+        "Duyusal bilginin yorumlanması ve anlamlandırılması sürecidir, sinir sisteminin genel aktivasyon düzeyini ifade etmez.",
+        "Doğru yanıt: Merkezi sinir sisteminin aktivasyonu Canlılık Düzeyi (arousal) olarak tanımlanır.",
+        "Belirli bir uyarana zihinsel yönelimi ifade eder, sinir sisteminin genel aktivasyon düzeyinden farklı, daha seçici bir süreçtir.",
+        "Bir uyarana verilen tepkidir, sinir sisteminin genel aktivasyon düzeyini tanımlayan bir kavram değildir.",
+        "Birçok uyaran arasından belirli birine odaklanma sürecidir, genel aktivasyon düzeyinden farklı bir kavramdır."
+      ]
+    },
+    {
+      "question": "Vücudun küçük kaslarıyla ve göz-el koordinasyonu ile yüksek derecede kesinliğin gerektiği becerilere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Küçük kas gruplarının ve göz-el koordinasyonunun kullanıldığı, yüksek derecede kesinlik gerektiren beceriler Küçük Kas Kitlesi (ince motor) becerileri olarak adlandırılır; yazı yazma, dikiş dikme gibi örnekler bu gruba girer.",
+      "optionNotes": [
+        "Büyük kas gruplarının kullanıldığı, kesinliğin kritik olmadığı becerileri ifade eder; sorudaki tanımın tam tersidir.",
+        "Doğru yanıt: Küçük kasların ve göz-el koordinasyonunun kullanıldığı, yüksek kesinlik gerektiren beceriler Küçük Kas Kitlesi becerileri olarak adlandırılır.",
+        "Hareketin başlangıç-bitiş netliğine dayalı bir sınıflamadır, kas büyüklüğüyle ilgili değildir.",
+        "Kesik hareketlerin birleştirilmesiyle oluşan karmaşık hareketleri ifade eder, kas büyüklüğü sınıflamasıyla ilgisi yoktur.",
+        "Başı sonu belirsiz uzun süreli hareketleri ifade eder, kas büyüklüğüne dayalı bir sınıflama değildir."
+      ]
+    },
+    {
+      "question": "Birçok kesik hareketin bir araya getirilmesi ile oluşan karmaşık hareketlere ne ad verilir?",
+      "options": [
+        "Büyük Kas Kitlesi",
+        "Küçük Kas Kitlesi",
+        "Kesik Beceri",
+        "Seri Beceriler",
+        "Devamlı Beceri"
+      ],
+      "correctIndex": 3,
+      "explanation": "Seri beceriler, birçok ayrı kesik hareketin belirli bir sıra ile bir araya getirilmesi sonucu oluşan karmaşık hareket dizileridir; her bir alt hareket kendi içinde kesik beceri özelliği taşırken bütün olarak daha uzun ve organize bir performans oluşturur.",
+      "optionNotes": [
+        "Kas büyüklüğüne dayalı bir sınıflamadır, hareketlerin birleştirilmesiyle ilgili değildir.",
+        "Küçük kasların kullanıldığı kesinlik gerektiren becerileri ifade eder, kesik hareketlerin birleşimiyle ilgili bir kavram değildir.",
+        "Tek, başı sonu belirgin bir hareketi ifade eder; birçok hareketin birleştirilmesiyle oluşan karmaşık yapıyı değil, onun yapı taşını tanımlar.",
+        "Doğru yanıt: Birçok kesik hareketin belirli bir sırayla bir araya getirilmesiyle oluşan karmaşık hareketler Seri Beceriler olarak tanımlanır.",
+        "Başı sonu belirsiz, tek ve kesintisiz süren hareketleri ifade eder; ayrı hareketlerin birleştirilmesiyle oluşan yapıyı tanımlamaz."
+      ]
+    },
+    {
+      "question": "Aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına ne ad verilir?",
+      "options": [
+        "Öğrenme",
+        "Performans",
+        "Motor beceri",
+        "Reaksiyon zamanı",
+        "Dikkat"
+      ],
+      "correctIndex": 4,
+      "explanation": "Dikkat, aynı anda algılanabilecek birçok nesne veya düşünce arasından birinin zihin tarafından canlı ve belirgin biçimde seçilerek işlenmesi sürecidir; seçici bir bilişsel odaklanma mekanizmasıdır.",
+      "optionNotes": [
+        "Kapasitede alıştırma yoluyla oluşan kalıcı değişimdir, anlık seçici odaklanma süreciyle ilgili değildir.",
+        "Becerinin uygulanma eylemidir, zihinsel seçicilik/odaklanma sürecini tanımlamaz.",
+        "Belirli bir amaca yönelik hareket yeteneğidir, zihnin uyaranlar arasından seçim yapma sürecini ifade etmez.",
+        "Uyaran ile tepkinin başlangıcı arasındaki süredir, zihinsel seçicilik sürecinin tanımı değildir.",
+        "Doğru yanıt: Aynı anda birkaç nesne veya düşünceden birinin zihin tarafından canlı ve belirgin biçimde alınması Dikkat olarak tanımlanır."
+      ]
+    },
+    {
+      "question": "I. Öğrenme bir süreçtir. II. Öğrenme deneyim sonucunda oluşur. III. Öğrenme göreceli kalıcı değişimlerdir. IV. Öğrenme doğrudan gözlemlenebilir. Yukarıda verilenlerden hangileri öğrenmenin temel özellikleriyle ilgili doğru bilgidir?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 2,
+      "explanation": "Öğrenme; bir süreç olması, deneyim/alıştırma sonucu oluşması ve kapasitede meydana gelen göreceli kalıcı değişimleri ifade etmesi yönleriyle tanımlanır (I, II, III doğru). Ancak öğrenme doğrudan gözlemlenemez; sadece performans gözlemlenip buradan öğrenme hakkında çıkarım yapılabilir, bu nedenle IV. ifade yanlıştır.",
+      "optionNotes": [
+        "Sadece \"öğrenme bir süreçtir\" ifadesini kapsar, oysa II ve III de öğrenmenin doğru temel özellikleridir; eksiktir.",
+        "III. ifadeyi (göreceli kalıcı değişim) dışarıda bırakır, oysa bu da öğrenmenin kabul edilen temel özelliklerindendir; eksiktir.",
+        "Doğru yanıt: I, II ve III ifadeleri öğrenmenin kabul edilen temel özellikleridir; IV. ifade ise yanlıştır çünkü öğrenme doğrudan gözlemlenemez, performanstan çıkarım yapılır.",
+        "IV. ifadeyi (doğrudan gözlemlenebilirlik) doğru kabul eder, oysa bu ifade yanlıştır ve aynı zamanda doğru olan II. ifadeyi dışarıda bırakır.",
+        "IV. ifadeyi de doğru sayar, ancak öğrenme doğrudan gözlemlenemediği için bu ifade hatalıdır; dolayısıyla tüm seçeneklerin doğru olduğunu söylemek yanlıştır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi performans kavramıyla ilgili yanlış bir bilgidir?",
+      "options": [
+        "Genel olarak bir eylem olarak adlandırılır.",
+        "Performans kalıcıdır.",
+        "Çok çeşitli etkenlerden dolayı değişiklik gösterebilir.",
+        "Hastalık veya dikkatsizlik gibi sebeplerle azalma olabilir",
+        "Motivasyon, şans veya alınan takviye besinler gibi sebeplerle artış olabilir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Performans, becerinin belirli bir andaki uygulanma eylemidir ve motivasyon, yorgunluk, hastalık, çevresel koşullar gibi birçok etkene bağlı olarak değişkenlik gösterir; bu nedenle kalıcı değildir. Kalıcılık, öğrenmenin bir özelliğidir, performansın değil.",
+      "optionNotes": [
+        "Bu doğru bir ifadedir; performans, becerinin icra edilme eylemi olarak tanımlanır.",
+        "Doğru yanıt: \"Performans kalıcıdır\" ifadesi yanlıştır; performans geçicidir ve çok çeşitli etkenlere bağlı olarak andan ana değişkenlik gösterir, kalıcılık öğrenmenin bir özelliğidir.",
+        "Bu doğru bir ifadedir; performansın değişken doğası bu seçenekte doğru biçimde belirtilmiştir.",
+        "Bu, performansın değişkenliğine dair doğru bir örnektir, yanlış bilgi değildir.",
+        "Bu da performansın dışsal etkenlerle değişebileceğini doğru biçimde ifade eder."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi tek boyutlu sınıflama kapsamında değildir?",
+      "options": [
+        "Kullanılan kas büyüklüğüne göre",
+        "Hareketin başlama ve bitiş netliğine göre",
+        "Düzenleyici Şartlar ve Hareket Gerekliliklerine göre",
+        "Çevrenin tahmin edilebilirlik düzeyine göre",
+        "Motor ve bilişsel öğelerin önemine göre"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tek boyutlu beceri sınıflama sistemleri; kas büyüklüğü, hareketin başlama-bitiş netliği, çevrenin tahmin edilebilirliği ve motor-bilişsel öğelerin ağırlığı gibi tek bir ölçüte dayanır. \"Düzenleyici Şartlar ve Hareket Gereklilikleri\"ne göre yapılan sınıflama ise Gentile'nin Çok Boyutlu Beceri Sınıflamasına aittir ve birden fazla boyutu (çevresel koşullar, deneme değişkenliği, vücut hareketi, nesne manipülasyonu) aynı anda dikkate alır.",
+      "optionNotes": [
+        "Bu, büyük kas kitlesi/küçük kas kitlesi ayrımına dayanan klasik bir tek boyutlu sınıflamadır.",
+        "Bu, kesik-seri-devamlı beceri ayrımına dayanan tek boyutlu bir sınıflamadır.",
+        "Doğru yanıt: Düzenleyici Şartlar ve Hareket Gerekliliklerine göre yapılan sınıflama, çok boyutlu (Gentile) sınıflama sistemine aittir, tek boyutlu sınıflama kapsamında değildir.",
+        "Bu, açık-kapalı beceri ayrımına dayanan tek boyutlu bir sınıflamadır.",
+        "Bu, motor-zihinsel beceri ayrımına dayanan tek boyutlu bir sınıflamadır."
+      ]
+    },
+    {
+      "question": "I. Çevre şartları II. Denemeler III. Vücut hareketleri IV. Nesne manipülasyonu Yukarıda verilenlerden hangisi Düzenleyici Şartların alt boyutları arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gentile'nin Çok Boyutlu Beceri Sınıflamasında Düzenleyici Şartlar (regulatory conditions), çevresel koşullar (çevre şartları) ve denemeler/deneyimler arası değişkenlik (intertrial variability) olmak üzere iki alt boyuttan oluşur. Vücut hareketleri ve nesne manipülasyonu ise sınıflamanın \"hareket gereklilikleri\" boyutuna ait alt bileşenlerdir, düzenleyici şartların parçası değildir.",
+      "optionNotes": [
+        "Sadece çevre şartlarını kapsar, denemeler arası değişkenlik boyutunu dışarıda bırakır; eksiktir.",
+        "Doğru yanıt: Düzenleyici Şartların alt boyutları Çevre Şartları ve Denemeler (deneme değişkenliği)'dir.",
+        "Vücut hareketlerini de ekler, ancak bu, düzenleyici şartların değil hareket gereklilikleri boyutunun bir alt bileşenidir; hatalı bir eklemedir.",
+        "Vücut hareketleri ve nesne manipülasyonunu ekleyip denemeleri çıkarır; ancak bu ikisi hareket gereklilikleri boyutuna ait olup düzenleyici şartların alt boyutu değildir.",
+        "Tüm seçenekleri kapsar, ancak vücut hareketleri ve nesne manipülasyonu düzenleyici şartların değil, hareket gerekliliklerinin alt boyutlarıdır; bu nedenle hatalıdır."
+      ]
+    },
+    {
+      "question": "Çok Boyutlu Beceri Sınıflaması, motor becerilerin kaç şekilde tanımlanmasına imkân vermektedir?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctIndex": 4,
+      "explanation": "Gentile'nin Çok Boyutlu Beceri Sınıflaması, düzenleyici şartlar (sabit/değişken çevre ve deneme değişkenliği var/yok) ile hareket gereklilikleri (vücut transferi var/yok ve nesne manipülasyonu var/yok) olmak üzere dört ikili boyutu birleştirir (2x2x2x2=16); bu da motor becerilerin 16 farklı şekilde tanımlanabilmesine imkân verir.",
+      "optionNotes": [
+        "Bu sayı, çok boyutlu sınıflamanın dört ikili boyutunun kombinasyonundan (2 üzeri 4) elde edilen sonuçla uyuşmaz, çok düşük bir değerdir.",
+        "Bu, dört boyuttan sadece üçünün ikili kombinasyonuna (2 üzeri 3) karşılık gelir, dört boyutun tümünü yansıtmaz.",
+        "Bu sayı, sınıflamanın temel aldığı dört ikili boyutun (2x2x2x2) çarpımıyla elde edilen değerle örtüşmez.",
+        "Bu sayı da dört ikili boyutun tam kombinasyon sayısı olan 16 ile uyuşmamaktadır.",
+        "Doğru yanıt: Çok Boyutlu Beceri Sınıflaması dört ikili boyutun (2x2x2x2) kombinasyonuyla motor becerilerin 16 farklı şekilde tanımlanmasına imkân verir."
+      ]
+    },
+    {
+      "question": "Kas Büyüklüğüne Göre beceriler kaça ayrılmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kas büyüklüğüne göre yapılan sınıflamada beceriler iki gruba ayrılır: Büyük Kas Kitlesi becerileri (kaba motor beceriler) ve Küçük Kas Kitlesi becerileri (ince motor beceriler).",
+      "optionNotes": [
+        "Doğru yanıt: Kas büyüklüğüne göre beceriler Büyük Kas Kitlesi ve Küçük Kas Kitlesi olmak üzere iki gruba ayrılır.",
+        "Bu sınıflama ikili bir ayrım olduğundan üç kategoriye bölünmesi doğru değildir.",
+        "Kas büyüklüğü sınıflaması yalnızca iki kategoriden oluşur, dört kategoriye ayrılması bu sınıflamanın yapısıyla uyuşmaz.",
+        "Bu sayı, kas büyüklüğüne dayalı basit ikili ayrımın kapsamını aşan, gerçekte var olmayan bir kategori sayısıdır.",
+        "Kas büyüklüğü sınıflaması sadece iki temel kategoriye (büyük/küçük) dayandığından altı kategoriden bahsetmek yanlıştır."
+      ]
+    }
+  ]
+}

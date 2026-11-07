@@ -1,0 +1,501 @@
+{
+  "course": "saglik1",
+  "unit_index": 1,
+  "topic": "Spor Anatomisi ve Kinesiyoloji",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi hücreyle ilgili yanlış bir bilgidir?",
+      "options": [
+        "Hücre “kapalı” bir sistemdir ve çevresindeki dış ortamdan bağımsızdır.",
+        "Yüksek organizmalarda hücre büyüklüğü 10-50 mikrometre arasında değişmektedir.",
+        "Sitoplazma, hücrenin bütün organellerini barındıran, hücre zarı ile çevrili amorf bir maddedir.",
+        "Hücre sitoplazmasını çevreleyen ince, yarı geçirgen membrana Plazmalemma denir.",
+        "Endoplazmik retikulum, Organeller sınıfına yer alır."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hücre kapalı ve dış ortamdan bağımsız bir sistem değildir; tam tersine hücre zarı (plazmalemma) aracılığıyla çevresiyle sürekli madde, enerji ve bilgi alışverişi yapan 'açık' bir sistemdir. Soru 'yanlış bilgiyi' sorduğu için, bu hatalı tanımı içeren ilk seçenek doğru yanıttır.",
+      "optionNotes": [
+        "Doğru yanıt: Hücre, hücre zarı aracılığıyla çevresiyle madde ve enerji alışverişi yapan açık bir sistemdir; 'kapalı' ve 'bağımsız' olduğu ifadesi yanlıştır.",
+        "Bu ifade doğrudur: yüksek organizmalarda hücre çapı genellikle 10-50 mikrometre aralığındadır, dolayısıyla soruda istenen yanlış bilgi bu değildir.",
+        "Bu ifade doğrudur: sitoplazma, hücre zarı ile çevrili, organelleri içinde barındıran amorf (şekilsiz) bir ortamdır; bu nedenle yanlış bilgi değildir.",
+        "Bu ifade doğrudur: hücreyi çevreleyen ince ve yarı geçirgen (seçici geçirgen) zara plazmalemma denir; bu tanım doğru olduğu için seçilecek yanıt değildir.",
+        "Bu ifade doğrudur: endoplazmik retikulum, hücre organelleri sınıfında yer alan bir yapıdır; doğru bilgi olduğundan soruyla uyumlu değildir."
+      ]
+    },
+    {
+      "question": "Bağ ve destek dokusu kaç bölümde ele alınmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ders içeriğinde bağ ve destek dokusu; gevşek bağ dokusu, sıkı bağ dokusu, kıkırdak doku, kemik doku ve kan (sıvı bağ doku) olmak üzere beş ana başlık altında ele alınmaktadır. Bu nedenle doğru yanıt '5' seçeneğidir.",
+      "optionNotes": [
+        "Bağ ve destek dokusu sadece iki alt başlıkla sınırlı değildir; kıkırdak, kemik ve kan gibi farklı özelleşmiş bağ doku türlerini de içerecek şekilde daha fazla bölümde incelenir.",
+        "Üç bölümlük bir sınıflandırma bu dokunun kapsamını daraltır; ders materyalinde kıkırdak ve kemik dokusunun yanı sıra kan gibi sıvı bağ doku da ayrı başlık olarak ele alındığından bu sayı yetersizdir.",
+        "Dört bölüm de eksiktir; sınıflandırmaya kan (sıvı bağ doku) dahil edildiğinde toplam bölüm sayısı beşe çıkar.",
+        "Doğru yanıt: Bağ ve destek dokusu; gevşek bağ dokusu, sıkı bağ dokusu, kıkırdak doku, kemik doku ve kan olmak üzere toplam beş bölümde ele alınır.",
+        "Altı bölüm, ders içeriğinde tanımlanan sınıflandırmadan daha fazla alt başlık öngördüğü için gerçek sayıyı aşmaktadır."
+      ]
+    },
+    {
+      "question": "Kemik………..adı verilen bir zar ile çevrilmiştir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Periost",
+        "Osteon",
+        "Lamel",
+        "Miyolem",
+        "Perikaryon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kemik dokusunun dış yüzeyi, eklem yüzeyleri hariç olmak üzere periost (periosteum) adı verilen damar ve sinir bakımından zengin bağ doku zarı ile örtülüdür. Periost, kemiğin beslenmesinde, onarımında ve büyümesinde önemli rol oynar.",
+      "optionNotes": [
+        "Doğru yanıt: Kemiği eklem yüzeyleri dışında tamamen örten, damar ve sinir içeren bağ doku zarına periost denir.",
+        "Osteon, kompakt kemiğin yapısal ve işlevsel birimi olan Haversian sistemini ifade eder; bir zar değil, kemik içindeki mikroskobik bir yapı birimidir.",
+        "Lamel, osteon içindeki konsantrik kemik tabakalarını (lameller) tanımlar; kemiği dıştan örten bir zar değildir.",
+        "Miyolem (sarkolemma), kas liflerini çevreleyen hücre zarıdır; kemik dokusuyla değil kas dokusuyla ilişkilidir.",
+        "Perikaryon, bir nöronun çekirdeği çevresindeki sitoplazmik gövdesini ifade eder; kemiği örten bir zar değildir."
+      ]
+    },
+    {
+      "question": "I. Ribozom II. Mikrotubulus III. Sentriyol IV. Enzim Kompleksleri Yukarıda verilen hücre yapı taşlarından hangileri ‘’Supramoleküler Kompleksler’’ grubunda yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Ribozom, mikrotübül, sentriyol ve enzim kompleksleri; tek bir makromolekül olmayıp birden fazla makromolekülün bir araya gelerek oluşturduğu, ancak henüz bir organel düzeyine ulaşmamış yapılar oldukları için 'supramoleküler kompleksler' grubunda sınıflandırılır. Bu nedenle listede verilen dört yapının tamamı bu gruba girer.",
+      "optionNotes": [
+        "Sadece ribozomu kapsamak eksik bir sınıflandırmadır; mikrotübül, sentriyol ve enzim kompleksleri de aynı gruba (supramoleküler kompleksler) dahildir.",
+        "Sadece mikrotübülü seçmek yanlıştır; ribozom, sentriyol ve enzim kompleksleri de birden fazla makromolekülün birleşiminden oluşan supramoleküler yapılardır.",
+        "Ribozom ve mikrotübülü kapsayıp sentriyol ile enzim komplekslerini dışarıda bırakmak eksiktir; bu ikisi de aynı sınıflandırmaya girer.",
+        "Enzim komplekslerinin dışarıda bırakılması hatalıdır; enzim kompleksleri de birden fazla protein molekülünün birleşmesiyle oluşan supramoleküler bir yapıdır.",
+        "Doğru yanıt: Ribozom, mikrotübül, sentriyol ve enzim kompleksleri; tümü birden fazla makromolekülün organize birleşiminden oluşan supramoleküler komplekslerdir."
+      ]
+    },
+    {
+      "question": "Hücresi bağ dokusunun temel yapılarının sentezlenmesinden sorumlu olan yapı aşağıdakilerden hangisidir?",
+      "options": [
+        "Plazmalemma",
+        "Sitoplazma",
+        "Fibroblast",
+        "Gerinim",
+        "Kıkırdak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bağ dokusunun temel yapı taşları olan kolajen, elastin gibi lifler ve ara madde (ground substance), fibroblast hücreleri tarafından sentezlenir. Fibroblastlar bağ dokusunun en yaygın ve en aktif hücre tipidir.",
+      "optionNotes": [
+        "Plazmalemma hücre zarının adıdır, bir hücre tipi değildir; bağ doku bileşenlerini sentezleyen bir yapı değildir.",
+        "Sitoplazma, hücrenin organelleri ile dolu iç ortamıdır; kendisi bir sentez hücresi olmayıp bağ doku liflerinin üretiminden sorumlu bir yapı değildir.",
+        "Doğru yanıt: Fibroblastlar, kolajen ve elastin lifleri ile ara maddeyi sentezleyerek bağ dokusunun temel yapı taşlarını üreten hücrelerdir.",
+        "Gerinim (strain), bir dokunun maruz kaldığı mekanik deformasyonu ifade eden fiziksel bir terimdir; bir hücre veya sentez yapan yapı değildir.",
+        "Kıkırdak, bağ dokusunun özelleşmiş bir türüdür; sentez yapan hücre kondrosittir, kıkırdağın kendisi sentezi gerçekleştiren yapı değildir."
+      ]
+    },
+    {
+      "question": "Osteoblast hücreleri tarafından yeni kemik dokusu oluşturulmasına ne ad verilir?",
+      "options": [
+        "Fibroblast",
+        "Ossifikasyon",
+        "Gerinim",
+        "Plazmalemma",
+        "Nukleus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Osteoblastlar, kemik matriksini (kollajen ve mineral tuzları) salgılayarak yeni kemik dokusunun oluşmasını sağlayan hücrelerdir. Bu sürece ossifikasyon (kemikleşme) denir.",
+      "optionNotes": [
+        "Fibroblast, bağ dokusunun genel yapı taşlarını üreten hücredir; kemikleşme sürecini değil, bağ dokusu liflerinin sentezini tanımlar.",
+        "Doğru yanıt: Osteoblastların kemik matriksi salgılayarak yeni kemik dokusu üretmesi sürecine ossifikasyon (kemikleşme) denir.",
+        "Gerinim, mekanik yük altında dokuda oluşan deformasyon miktarını ifade eder; kemik oluşum süreciyle ilgili bir terim değildir.",
+        "Plazmalemma hücre zarını ifade eder; bir süreç adı değildir ve kemik oluşumunu tanımlamaz.",
+        "Nukleus (çekirdek), hücrenin genetik materyalini barındıran organeldir; kemik oluşum sürecinin adı değildir."
+      ]
+    },
+    {
+      "question": "Kalp ağırlığı……gramı aşarsa hücre hiperplazisi görülür. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400",
+        "500"
+      ],
+      "correctIndex": 4,
+      "explanation": "Kalp kası hücreleri doğumdan sonra genellikle hipertrofi (hücre hacminin artması) yoluyla büyür. Ancak kalp ağırlığı 500 grama ulaştığında, yalnızca hipertrofi yetersiz kalır ve hücre hiperplazisi (yeni hücre oluşumu) da devreye girer.",
+      "optionNotes": [
+        "100 gram, normal yetişkin kalp ağırlığının altında bir değerdir; bu düzeyde hiperplaziyi tetikleyen bir eşik söz konusu değildir.",
+        "200 gram, hiperplazinin görülmeye başladığı eşik değerin oldukça altındadır.",
+        "300 gram seviyesi, kalp kasında genellikle hâlâ hipertrofinin yeterli olduğu, hiperplazinin tetiklenmediği bir ağırlıktır.",
+        "400 gram, hiperplazinin başladığı eşik olan 500 gramın altında kaldığı için yanlış bir değerdir.",
+        "Doğru yanıt: Kalp ağırlığı 500 gramı aştığında hipertrofinin yanında hücre hiperplazisi de görülmeye başlar."
+      ]
+    },
+    {
+      "question": "Kas lifinin en küçük işlev birimine ne ad verilir?",
+      "options": [
+        "Sarkomer",
+        "Lösin",
+        "Miyozin",
+        "Lamel",
+        "Hiyalin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sarkomer, iki Z çizgisi arasında kalan, aktin ve miyozin flamentlerini içeren, kas kasılmasının gerçekleştiği en küçük yapısal ve işlevsel birimdir.",
+      "optionNotes": [
+        "Doğru yanıt: Sarkomer, kas lifinin kasılma işlevini gerçekleştiren en küçük yapısal birimidir.",
+        "Lösin, dallı zincirli bir amino asittir; bir kas yapısal birimi değil, proteinlerin yapı taşı olan bir moleküldür.",
+        "Miyozin, sarkomer içinde yer alan kalın kontraktil filament proteinidir; kendisi bir 'işlev birimi' değil, sarkomerin bileşenidir.",
+        "Lamel, kemik dokusundaki konsantrik tabakaları ifade eder; kas lifiyle ilgili bir işlev birimi değildir.",
+        "Hiyalin kıkırdak, vücutta yaygın bulunan bir kıkırdak türüdür; kas lifinin işlev birimiyle bir ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Vücudu önden arkaya doğru dik kesen, sağ ve sol olarak vücudu ikiye ayıran düzleme ne ad verilmektedir?",
+      "options": [
+        "Sagittal Düzlem",
+        "Transvers Düzlem",
+        "Frontal Düzlem",
+        "Vertikal Aksis",
+        "Frontal Aksis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sagittal düzlem, vücudu önden arkaya doğru dik olarak kesen ve sağ-sol olmak üzere iki parçaya ayıran düzlemdir.",
+      "optionNotes": [
+        "Doğru yanıt: Vücudu önden arkaya doğru dik kesip sağ ve sol olarak ikiye ayıran düzlem sagittal düzlemdir.",
+        "Transvers (horizontal) düzlem, vücudu üst ve alt (superior-inferior) olarak ikiye ayırır; sağ-sol ayrımı yapmaz.",
+        "Frontal (koronal) düzlem, vücudu ön ve arka (anterior-posterior) olarak ikiye ayırır; sağ-sol ayrımını değil ön-arka ayrımını tanımlar.",
+        "Vertikal aksis bir düzlem değildir; düzlemlerin kesişiminden oluşan ve dönme hareketlerinde kullanılan bir eksendir.",
+        "Frontal aksis de bir düzlem değildir; frontal düzlem ile sagittal düzlemin kesişiminden oluşan, yana doğru uzanan bir eksendir."
+      ]
+    },
+    {
+      "question": "Anatomik pozisyon terimlerden biri olan Ventral’ın karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        "Karın tarafında, karına ait",
+        "Merkez ya da gövdeye yakın",
+        "Orta, ortada bulunan",
+        "Merkez ya da gövdeye uzak",
+        "Baş tarafında"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ventral terimi, özellikle dört ayaklı hayvanlarda karın tarafını ifade eder; insanda anterior (ön) ile eş anlamlı kullanılır ve karına ait, karın tarafında olan anlamına gelir.",
+      "optionNotes": [
+        "Doğru yanıt: Ventral, karın tarafında bulunan veya karına ait olan anlamına gelir ve insanda anterior ile eşdeğer kullanılır.",
+        "Bu tanım proksimal terimine karşılık gelir; ventral ile karıştırılmamalıdır.",
+        "Bu tanım medial terimine karşılık gelir; vücut ekseninin ortasına yakınlığı ifade eder, ventral ile ilgisi yoktur.",
+        "Bu tanım distal terimine karşılık gelir; proksimalin karşıtıdır ve ventral ile aynı anlamda değildir.",
+        "Bu tanım kranial (superior) terimine karşılık gelir; baş yönünü ifade eder, ventral ise karın yönünü ifade eder."
+      ]
+    },
+    {
+      "question": "Herhangi bir eklemin sagittal planda bükülmesi sonucunda eklem hareket açıklığının daralma işlemine ne ad verilir?",
+      "options": [
+        "Ekstansiyon",
+        "Fleksiyon",
+        "Sirkümdiksiyon",
+        "İnversiyon",
+        "Pronasyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fleksiyon, bir eklemin sagittal planda bükülerek eklemi oluşturan kemik segmentleri arasındaki açının daralması, yani hareket açıklığının küçülmesi hareketidir.",
+      "optionNotes": [
+        "Ekstansiyon, fleksiyonun tam tersidir; eklem açısının açılarak düzleşmesini, yani hareket açıklığının genişlemesini ifade eder.",
+        "Doğru yanıt: Sagittal planda eklemin bükülerek açısının daralması hareketine fleksiyon denir.",
+        "Sirkümdiksiyon, fleksiyon, ekstansiyon, abduksiyon ve adduksiyonun birleşiminden oluşan dairesel bir harekettir; sadece açının daralmasını ifade etmez.",
+        "İnversiyon, ayak tabanının içe (mediale) döndürülmesi hareketidir; sagittal plan hareketlerinden olan fleksiyonla ilgisi yoktur.",
+        "Pronasyon, önkol veya ayağın belirli bir eksende döndürülmesi hareketidir; eklem açısının sagittal planda daralmasını değil, rotasyonel bir hareketi tanımlar."
+      ]
+    },
+    {
+      "question": "Yukarıdaki eklem hareketlerinin gösterimi hangi şıkta doğru verilmiştir?",
+      "options": [
+        "Abduksiyon – Adduksiyon",
+        "Plantar Fleksiyon - Dorsifleksiyon",
+        "Supinasyon – Pronasyon",
+        "İnversiyon – Eversiyon",
+        "Fleksiyon – Ekstansiyon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soruda atıfta bulunulan şekilde gösterilen eklem hareketleri, önkol veya ayağın kendi ekseni etrafında iç ve dış yöne doğru dönmesini temsil eden supinasyon-pronasyon çiftidir; bu ikili, birbirinin zıttı olan rotasyonel hareketleri doğru şekilde adlandırır.",
+      "optionNotes": [
+        "Bu çift, bir uzvun vücut orta hattından uzaklaşma ve yaklaşma hareketlerini ifade eder; şekilde gösterilen rotasyonel harekete karşılık gelen çift değildir.",
+        "Bu çift, yalnızca ayak bileğinde görülen aşağı ve yukarı yönlü hareketleri tanımlar; şekilde gösterilen hareketlerle örtüşmez.",
+        "Doğru yanıt: Bu çift, önkol veya ayağın kendi ekseni etrafında dışa (supinasyon) ve içe (pronasyon) dönme hareketlerini doğru şekilde ifade eder.",
+        "Bu çift, ayak tabanının içe ve dışa dönmesini ifade eden ayağa özgü hareketlerdir; şekilde gösterilen çiftle karıştırılmamalıdır.",
+        "Bu çift, eklem açısının sagittal planda daralması ve açılmasını ifade eder; rotasyonel bir hareket olan şekildeki çiftten farklıdır."
+      ]
+    },
+    {
+      "question": "Kas lifleri………...adı verilen demetler şeklinde paketlenirler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Fasikül",
+        "Miyofasya",
+        "Endomysium",
+        "Perimysium",
+        "Epimysium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kas lifleri, perimysium adı verilen bağ doku ile sarılarak fasikül denen demetler halinde paketlenir. Fasikül, kasın mikroskobik düzeyde gözle görülebilen demet yapısıdır.",
+      "optionNotes": [
+        "Doğru yanıt: Kas liflerinin perimysium ile sarılarak oluşturduğu demetlere fasikül denir.",
+        "Miyofasya, kasın ve çevresindeki yapıların tamamını örten daha geniş kapsamlı bağ doku ağını ifade eder; lif demetlerinin adı değildir.",
+        "Endomysium, tek bir kas lifini çevreleyen ince bağ doku zarıdır; lif demetini değil, tek lifi sarar.",
+        "Perimysium, fasikülü saran bağ doku zarının adıdır; demetin kendisinin adı değil, onu çevreleyen zardır.",
+        "Epimysium, kasın bütününü dıştan saran bağ doku zarıdır; fasikül demetinin adı değildir."
+      ]
+    },
+    {
+      "question": "Kasın bütün çevresini ve komponentlerini bir ağ gibi saran bağ doku zarına ne ad verilir?",
+      "options": [
+        "Endomysium",
+        "Perimysium",
+        "Epimysium",
+        "Miyozin",
+        "Miyofasya"
+      ],
+      "correctIndex": 4,
+      "explanation": "Miyofasya, kasın tüm çevresini ve bütün komponentlerini (kas lifleri, fasiküller, damar ve sinirler) bir ağ gibi saran, kası diğer kaslara ve tendonlara bağlayan kapsamlı bağ doku zarıdır.",
+      "optionNotes": [
+        "Endomysium sadece tek bir kas lifini çevreleyen en iç tabakadır; kasın bütününü ve tüm komponentlerini kapsayan bir ağ değildir.",
+        "Perimysium, kas lifi demetlerini (fasikülleri) sarar; kasın tüm çevresini ağ gibi kapsayan daha genel bir yapı değildir.",
+        "Epimysium, kasın dış yüzeyini örten tabakadır; fakat kasın bütün komponentlerini bir ağ gibi saran daha kapsamlı fasyal yapı miyofasyadır.",
+        "Miyozin, kas kasılmasında görev alan bir kontraktil protein filamentidir; bir bağ doku zarı değildir.",
+        "Doğru yanıt: Miyofasya, kasın bütün çevresini ve komponentlerini ağ gibi saran, kası destekleyen ve diğer yapılarla bağlantısını sağlayan bağ doku zarıdır."
+      ]
+    },
+    {
+      "question": "Kas fibrillerinin tendona bağlanma açısına ne denir?",
+      "options": [
+        "Pennasyon",
+        "Charpy",
+        "Verteks",
+        "Sakral",
+        "Sferoid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pennasyon açısı, kas fibrillerinin (liflerinin) bağlandığı tendonun uzun ekseniyle yaptığı açıyı ifade eder ve kasın kuvvet üretim özelliklerini etkileyen önemli bir mimari özelliktir.",
+      "optionNotes": [
+        "Doğru yanıt: Kas fibrillerinin tendona bağlanma açısına pennasyon açısı denir.",
+        "Charpy, anatomik bir açı terimi değildir; bu isim kas-tendon açısıyla ilgili standart anatomik terminolojide kullanılmaz.",
+        "Verteks, kafatasının en üst noktasını ifade eden anatomik bir terimdir; kas-tendon açısıyla ilgisi yoktur.",
+        "Sakral, omurganın sakrum bölgesiyle ilgili bir sıfattır; bir açı türünü tanımlamaz.",
+        "Sferoid, top-yuva (ball and socket) tipi eklemlerin şeklini tanımlayan bir terimdir; kas fibril-tendon açısıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Bir hareketin gerçekleşmesi sırasında birlikte görev alan kaslar…….…..olarak kabul edilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Sinerjist",
+        "Agonist",
+        "Antagonist",
+        "Birinci tip",
+        "İkinci tip"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bir hareketin gerçekleşmesi sırasında asıl hareketi yapan agonist kasa yardımcı olarak birlikte çalışan, hareketin düzgün ve etkili yürütülmesini sağlayan kaslar sinerjist kaslar olarak kabul edilir.",
+      "optionNotes": [
+        "Doğru yanıt: Bir hareket sırasında agonist kasla birlikte görev alarak ona yardımcı olan kaslar sinerjist olarak kabul edilir.",
+        "Agonist, bir hareketi asıl gerçekleştiren, hareketten birincil derecede sorumlu olan kastır; 'birlikte görev alan' yardımcı kasları tanımlamaz.",
+        "Antagonist, agonist kasın yaptığı harekete karşıt (zıt) yönde etki eden kastır; hareketle birlikte aynı yönde çalışan bir kas değildir.",
+        "Birinci tip (Tip I) kas lifleri, yavaş kasılan ve dayanıklılığa yönelik lif tipini ifade eder; bu bir fonksiyonel rol sınıflandırması değildir.",
+        "İkinci tip (Tip II) kas lifleri, hızlı kasılan lif tipini ifade eder; hareket sırasında birlikte çalışan kasların rolünü tanımlayan bir terim değildir."
+      ]
+    },
+    {
+      "question": "Kemik çıkıntılarıyla ilgili Anatomik terimlerden biri olan Spinae’nın anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        "Büyük kaba çıkıntı",
+        "Dikenimsi sivri çıkıntı",
+        "Düğme şeklinde çıkıntı",
+        "Küçük, kaba çıkıntı",
+        "Çizgi şeklinde kıvrımlar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anatomik terminolojide Spina (dikenimsi çıkıntı), kemik üzerinde bulunan ince, sivri ve dikene benzeyen çıkıntıları tanımlar; örneğin skapulanın spina scapulae yapısı buna örnektir.",
+      "optionNotes": [
+        "Bu tanım, tuberositas (örn. tuberositas tibiae gibi) terimine karşılık gelir; spina'nın ince ve sivri yapısıyla uyuşmaz.",
+        "Doğru yanıt: Spina terimi, kemik üzerindeki ince, sivri ve dikene benzer çıkıntıları ifade eder.",
+        "Bu tanım, tuberculum (küçük, yuvarlak/düğme biçimli çıkıntı) terimine karşılık gelir; spina'nın sivri yapısından farklıdır.",
+        "Bu tanım, spina'nın sivri ve dikenimsi doğasından farklı, daha küçük ve pürüzlü bir çıkıntı türünü tanımlayan ayrı bir anatomik terime işaret eder.",
+        "Bu tanım, linea (örn. linea aspera gibi çizgi şeklindeki kabarık izler) terimine karşılık gelir; spina gibi noktasal bir çıkıntı değildir."
+      ]
+    },
+    {
+      "question": "Tendon ve kasların kemik çıkıntıları üzerinden geçtikleri yerlerde bulunan sıvı dolu keseciklere ne ad verilir?",
+      "options": [
+        "Tork",
+        "Rijit",
+        "Synovia",
+        "Bursa",
+        "Tendinum"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bursa, tendonların ve kasların kemik çıkıntıları üzerinden geçtiği bölgelerde sürtünmeyi azaltmak amacıyla bulunan, içi sinovyal sıvı ile dolu küçük kesecik yapılardır.",
+      "optionNotes": [
+        "Tork, bir kuvvetin bir eksen etrafında döndürme etkisini ifade eden biyomekanik bir terimdir; anatomik bir kesecik yapısı değildir.",
+        "Rijit, 'sert, katı, bükülmez' anlamına gelen bir sıfattır; sıvı dolu bir kesecik yapıyı tanımlamaz.",
+        "Synovia, bursaların ve eklemlerin içini dolduran kayganlaştırıcı sıvının adıdır; kesenin kendisi değil içindeki sıvıdır.",
+        "Doğru yanıt: Tendon ve kasların kemik çıkıntıları üzerinden geçtiği yerlerde sürtünmeyi azaltan, sıvı dolu keseciklere bursa denir.",
+        "Tendinum, tendonla ilgili bir sıfat/kök olup bağımsız bir kesecik yapıyı ifade eden standart bir anatomik terim değildir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Aksiyel iskelet yapı grubunda yer almaz?",
+      "options": [
+        "Kafatası",
+        "Kafatası ile ilişkili kemikler",
+        "Vertebral kolon",
+        "Torasik kafes",
+        "Pektoral kuşaklar"
+      ],
+      "correctIndex": 4,
+      "explanation": "Aksiyel iskelet; kafatası, kafatasıyla ilişkili kemikler (örn. hyoid, kulak kemikçikleri), vertebral kolon ve torasik kafesten oluşur. Pektoral (omuz) kuşağı ise üst ekstremiteyi gövdeye bağlayan, apendiküler iskelete ait bir yapıdır.",
+      "optionNotes": [
+        "Kafatası, vücudun eksenini oluşturan aksiyel iskeletin temel bir parçasıdır; bu nedenle soruda aranan 'yer almayan' yapı değildir.",
+        "Hyoid kemik ve kulak kemikçikleri gibi kafatasıyla ilişkili kemikler de aksiyel iskelet grubuna dahildir; bu yüzden doğru yanıt bu seçenek değildir.",
+        "Vertebral kolon (omurga), gövdenin merkezi eksenini oluşturduğu için aksiyel iskeletin ayrılmaz bir parçasıdır.",
+        "Torasik kafes (kaburgalar ve sternum), gövdenin merkezinde yer aldığından aksiyel iskelet grubuna dahildir.",
+        "Doğru yanıt: Pektoral kuşaklar, üst ekstremiteyi gövdeye bağlayan apendiküler iskeletin parçasıdır; aksiyel iskelet grubunda yer almaz."
+      ]
+    },
+    {
+      "question": "Sinirler ve kan damarlarının kemiğin içinden ve dışından ya da kemik boyunca geçtiği küçük yuvarlak kanal aşağıdakilerden hangisidir?",
+      "options": [
+        "Kondil",
+        "Foramen",
+        "Sinus",
+        "Sulkus",
+        "Troklea"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foramen, sinirlerin ve kan damarlarının kemiğin içinden geçmesine olanak sağlayan küçük, yuvarlak bir delik veya kanaldır; örneğin foramen magnum gibi yapılar buna örnektir.",
+      "optionNotes": [
+        "Kondil, bir eklemde diğer kemikle eklemleşen yuvarlak, çıkıntılı eklem yüzeyini ifade eder; bir geçiş kanalı değildir.",
+        "Doğru yanıt: Sinir ve damarların kemik içinden veya boyunca geçmesini sağlayan küçük yuvarlak kanal/delik foramen olarak adlandırılır.",
+        "Sinus, kemik içinde bulunan hava veya sıvı dolu boşluğu ifade eder; sinir-damar geçişi için özelleşmiş dar bir kanal değildir.",
+        "Sulkus, kemik yüzeyinde bulunan oluk veya yiv şeklindeki yüzeysel bir çöküntüdür; kemik içinden geçen yuvarlak bir kanal değildir.",
+        "Troklea, makara şeklindeki eklem yüzeyini tanımlayan bir terimdir; sinir ve damar geçiş kanalı değildir."
+      ]
+    },
+    {
+      "question": "Kemikleri kemiklere bağlayan yapılara ne ad verilmektedir?",
+      "options": [
+        "Caput",
+        "Collum",
+        "Tendon",
+        "Ligament",
+        "Kıkırdak"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ligamentler, kemikleri birbirine bağlayan, eklem stabilitesini sağlayan yoğun bağ dokusundan oluşan yapılardır. Tendonlar ise kası kemiğe bağlar, bu nedenle ligament ile karıştırılmamalıdır.",
+      "optionNotes": [
+        "Caput, bir kemiğin yuvarlak baş kısmını ifade eden yapısal bir terimdir; iki kemiği birbirine bağlayan bir yapı değildir.",
+        "Collum, bir kemiğin baş kısmı ile gövdesi arasındaki boyun bölgesini ifade eder; kemikleri birbirine bağlayan bir yapı değildir.",
+        "Tendon, kası kemiğe bağlayan bağ dokusudur; kemik-kemik bağlantısını değil kas-kemik bağlantısını sağlar.",
+        "Doğru yanıt: Kemikleri kemiklere bağlayan, eklem stabilitesini destekleyen yoğun bağ dokusu yapıları ligament olarak adlandırılır.",
+        "Kıkırdak, eklem yüzeylerini örten veya bazı eklemlerde esneklik sağlayan bir dokudur; kemik-kemik bağlantısının temel yapısı olan ligamentin yerini tutmaz."
+      ]
+    },
+    {
+      "question": "Yetişkin insan omurgasında kaç adet vertebra (omur) bulunur?",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yetişkin insan omurgasında, embriyonik dönemde ayrı olan sakral ve koksigeal omurların kaynaşması sonucunda toplam 26 vertebra (7 servikal, 12 torakal, 5 lomber, 1 sakrum, 1 koksiks) bulunur.",
+      "optionNotes": [
+        "18 sayısı, yetişkin omurgasındaki gerçek vertebra sayısının çok altındadır ve herhangi bir standart bölge toplamına karşılık gelmez.",
+        "20 sayısı da gerçek toplamın oldukça altındadır ve omurga bölgelerinin (servikal, torakal, lomber, sakrum, koksiks) toplamını yansıtmaz.",
+        "22 sayısı, yetişkin omurgasındaki 26 vertebra toplamından azdır ve doğru hesaplamaya karşılık gelmez.",
+        "24, sakrum ve koksiks kaynaşmadan önceki hareketli omurların (7 servikal+12 torakal+5 lomber) toplamına karşılık gelir; ancak sakrum ve koksiksin birer kemik olarak sayılmasıyla toplam 26'ya çıkar.",
+        "Doğru yanıt: Yetişkin omurgasında 7 servikal, 12 torakal, 5 lomber vertebra ile birer kemik olarak sakrum ve koksiks dahil toplam 26 vertebra bulunur."
+      ]
+    },
+    {
+      "question": "I. Humerus II. Radius III. Ulna Yukarıdakilerden hangileri Üst ekstremitede kolu oluşturan kemikler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – III",
+        "I –II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Üst ekstremitede kolu oluşturan kemikler arasında üst kol kemiği olan humerus ile ön kolu oluşturan radius ve ulna yer alır; bu üç kemik birlikte üst ekstremitenin kol bölümünün iskelet yapısını oluşturur.",
+      "optionNotes": [
+        "Sadece humerusu saymak eksiktir; radius ve ulna da üst ekstremitenin kol bölümünü oluşturan kemikler arasındadır.",
+        "Sadece radiusu saymak yanlıştır; humerus ve ulna da aynı grupta yer alan kemiklerdir.",
+        "Humerus ve radiusu kapsayıp ulnayı dışarıda bırakmak eksiktir; ulna da ön kolun temel kemiklerinden biridir.",
+        "Humerus ve ulnayı kapsayıp radiusu dışarıda bırakmak eksiktir; radius da ön kolu oluşturan kemiklerden biridir.",
+        "Doğru yanıt: Humerus, radius ve ulna birlikte üst ekstremitede kolu oluşturan kemikler arasında yer alır."
+      ]
+    },
+    {
+      "question": "Kemiklerin toplam ağırlığı beden ağırlığının ortalama yüzde kaçının oluşturur?",
+      "options": [
+        "8",
+        "11",
+        "14",
+        "17",
+        "21"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ders materyalinde belirtildiği üzere, kemiklerin toplam ağırlığı ortalama bir yetişkinin beden ağırlığının yaklaşık %17'sini oluşturur.",
+      "optionNotes": [
+        "Yüzde 8, kemiklerin gerçek ortalama ağırlık oranının oldukça altında kalan bir değerdir.",
+        "Yüzde 11 de kemik ağırlığı için verilen ortalama orandan düşüktür.",
+        "Yüzde 14, doğru kabul edilen %17 oranına yakın olsa da ders materyalinde belirtilen tam değeri yansıtmaz.",
+        "Doğru yanıt: Kemiklerin toplam ağırlığı, beden ağırlığının ortalama %17'sini oluşturur.",
+        "Yüzde 21, kemik ağırlığı için verilen ortalama orandan yüksektir ve bu değer başka doku oranlarıyla karıştırılmamalıdır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi alt ekstremite’de yer almaz?",
+      "options": [
+        "Femur",
+        "Patella",
+        "Karpal Kemikler",
+        "Tibia",
+        "Fibula"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alt ekstremite kemikleri arasında femur, patella, tibia ve fibula bulunur. Karpal kemikler ise el bileğini oluşturan, üst ekstremiteye (ele) ait kemiklerdir.",
+      "optionNotes": [
+        "Femur (uyluk kemiği), alt ekstremitenin en büyük ve temel kemiğidir; bu nedenle soruda aranan yanıt değildir.",
+        "Patella (diz kapağı), diz ekleminin ön yüzünde yer alan ve alt ekstremiteye ait bir kemiktir.",
+        "Doğru yanıt: Karpal kemikler el bileğini oluşturan, üst ekstremiteye ait kemiklerdir; alt ekstremite grubunda yer almaz.",
+        "Tibia (kaval kemiği), bacağın iç tarafındaki ana kemiktir ve alt ekstremiteye aittir.",
+        "Fibula (kamış kemiği), bacağın dış tarafında yer alan ve alt ekstremiteye ait ince bir kemiktir."
+      ]
+    },
+    {
+      "question": "Latincede anatomi teriminin karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        "Debilitan",
+        "Deficient",
+        "Dissection",
+        "Dilatasyon",
+        "Duodenum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anatomi terimi, Yunanca 'ana' (yukarı/boyunca) ve 'tome' (kesme) köklerinden gelir ve kelime anlamı olarak 'kesip ayırma, parçalara ayırma' yani dissection anlamına gelir; vücut yapılarının incelenmesinde kesip inceleme yöntemine atıfta bulunur.",
+      "optionNotes": [
+        "Debilitan, 'güçten düşüren, zayıflatan' anlamına gelen bir terimdir; anatomi kelimesinin köksel karşılığı değildir.",
+        "Deficient, 'eksik, yetersiz' anlamına gelir; anatomi teriminin etimolojik karşılığıyla ilgisi yoktur.",
+        "Doğru yanıt: Anatomi kelimesi köken olarak 'kesip ayırma, parçalara ayırma' yani dissection anlamına gelir.",
+        "Dilatasyon, 'genişleme, açılma' anlamına gelen bir terimdir; anatomi kelimesinin kökeniyle ilgili değildir.",
+        "Duodenum, ince bağırsağın bir bölümünün adıdır ve Latincede 'on iki' anlamına gelen bir kökten gelir; anatomi teriminin karşılığı değildir."
+      ]
+    }
+  ]
+}

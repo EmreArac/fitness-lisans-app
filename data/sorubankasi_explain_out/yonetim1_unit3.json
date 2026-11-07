@@ -1,0 +1,539 @@
+{
+  "course": "yonetim1",
+  "unit_index": 3,
+  "topic": "Sporda Liderlik",
+  "questions": [
+    {
+      "question": "I. Görev yönelimli II. İlişki yönelimli III. Çıkar yönelimli Yukarıdakilerden hangisi liderlerin etkili olabilmesi için sahip olması gereken yönelimler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 2,
+      "explanation": "Liderlik literatüründe etkili liderlerin sahip olması gereken temel yönelimler görev yönelimli (işin tamamlanmasına odaklanma) ve ilişki yönelimli (grup üyeleriyle güven, iletişim ve motivasyon ilişkisi kurma) olarak ikiye ayrılır. Bu iki yönelim, bir liderin durumsal olarak dengeleyebileceği tutumlardır. \"Çıkar yönelimli\" olmak ise literatürde tanımlanmış bir liderlik yönelimi değildir; kişisel çıkarını önceleyen bir yönelim etkili liderlikle bağdaşmaz.",
+      "optionNotes": [
+        "Sadece görev yönelimliliği içerir, ancak ilişki yönelimliliği (II) de etkili liderlik için gereklidir; bu seçenek eksik kalmaktadır.",
+        "Sadece ilişki yönelimliliğini kapsar, görev yönelimliliğini (I) göz ardı eder; oysa etkili liderlik her ikisini de gerektirir.",
+        "Doğru yanıt: Etkili liderlik için literatürde kabul edilen iki temel yönelim görev yönelimlilik (I) ve ilişki yönelimliliktir (II); bu iki unsur birlikte liderin hem işi tamamlamasını hem de ekibiyle sağlıklı ilişkiler kurmasını sağlar.",
+        "III numaralı \"çıkar yönelimli\" ifadesi liderlik yönelimleri sınıflamasında yer almaz; kişisel çıkarı önceleyen bir tutum etkili liderlik yönelimi olarak kabul edilmez.",
+        "III numaralı madde (çıkar yönelimli) geçerli bir liderlik yönelimi olmadığından bu seçenek yanlıştır; doğru kombinasyon yalnızca I ve II'yi içermelidir."
+      ]
+    },
+    {
+      "question": "İnsanı sosyal bir varlık olarak gören………..insanın sosyalleşmesinde en önemli aracın iletişim olduğunu vurgulamıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Aristo",
+        "Platon",
+        "Aristoteles",
+        "Thomas Hobbes",
+        "John Locke"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antik Yunan filozoflarından Aristo, insanı doğası itibarıyla sosyal/politik bir varlık (zoon politikon) olarak tanımlamış ve insanın toplumsallaşabilmesi, diğer insanlarla ilişki kurabilmesi için en temel aracın iletişim olduğunu vurgulamıştır. Bu görüş, liderlik tarihinde insan ilişkilerinin ve iletişimin önemine yapılan ilk vurgulardan biri olarak kabul edilir.",
+      "optionNotes": [
+        "Doğru yanıt: Aristo, insanı sosyal/politik bir varlık (zoon politikon) olarak tanımlamış ve sosyalleşmenin temel aracının iletişim olduğunu ileri sürmüştür.",
+        "Platon, idealar kuramı ve devletin yönetimi üzerine görüşleriyle bilinir; insanın sosyalleşmesinde iletişimin merkezi aracı olduğu vurgusu ona ait değildir.",
+        "Bu seçenek, doğru yanıt olan Aristo'ya atfedilen görüşle karıştırılabilecek ayrı bir isim biçimi olarak sunulmuştur; soru metninde atıf yapılan isim \"Aristo\" olarak kabul edilmiştir.",
+        "Thomas Hobbes, insanın doğası itibarıyla bencil ve çatışmacı olduğunu, bu nedenle güçlü bir otoriteye (Leviathan) ihtiyaç olduğunu savunmuştur; sosyalleşmede iletişimi temel araç olarak vurgulayan kişi değildir.",
+        "John Locke, doğal haklar ve toplum sözleşmesi kuramıyla tanınır; insanın sosyalleşme sürecinde iletişimin rolüne ilişkin bu özel vurgu ona atfedilmez."
+      ]
+    },
+    {
+      "question": "Lider kelimesi İngilizcede ilk defa hangi yıllarda kullanılmıştır?",
+      "options": [
+        "1000",
+        "1300",
+        "1500",
+        "1700",
+        "1900"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liderlik yazınında sıklıkla belirtildiği üzere \"leader\" (lider) sözcüğü İngilizce dilinde ilk olarak 1300'lü yıllarda kullanılmaya başlanmıştır; \"leadership\" (liderlik) sözcüğü ise çok daha sonra literatüre girmiştir. Bu nedenle doğru yanıt 1300'dür.",
+      "optionNotes": [
+        "Bu tarih, kelimenin İngilizce diline girdiği döneme göre çok erken bir tarihtir; ilgili kaynaklarda bu yıllara dair bir kullanım kaydı bulunmamaktadır.",
+        "Doğru yanıt: \"Lider\" (leader) kelimesi İngilizce dilinde ilk olarak 1300'lü yıllarda kullanılmaya başlanmıştır.",
+        "Bu tarih doğru kabul edilen 1300'lü yıllardan sonradır; kaynaklarda kelimenin kullanımının bu tarihten önce başladığı belirtilir.",
+        "Bu tarih genellikle \"liderlik\" (leadership) kavramının -lider kelimesinden farklı olarak- literatüre girdiği dönemle karıştırılır; \"lider\" kelimesinin kendisi bundan çok daha önce kullanılmaya başlanmıştır.",
+        "Bu tarih 20. yüzyılın başını işaret eder ve liderliğin bilimsel olarak incelenmeye başladığı döneme yakındır, ancak kelimenin dile girişiyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "……………insanın doğuştan gelen özelliklerini kullanması ve güçlendirmesi gerektiğini düşünerek bir liderin akıl, cesaret, öz denetim ve tarafsızlık olmak üzere dört özelliğe sahip olması gerektiğini öne sürmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Aristo",
+        "Aristoteles",
+        "Thomas Hobbes",
+        "Platon",
+        "John Locke"
+      ],
+      "correctIndex": 3,
+      "explanation": "Platon, \"Devlet\" adlı eserinde insanın doğuştan gelen özelliklerini geliştirmesi gerektiğini belirtmiş ve ideal bir liderin sahip olması gereken dört temel özelliği akıl (bilgelik), cesaret, öz denetim (ölçülülük) ve tarafsızlık (adalet) olarak tanımlamıştır. Bu dört özellik, Platon'un klasik erdemler öğretisinin liderlik bağlamındaki yansımasıdır.",
+      "optionNotes": [
+        "Bu dörtlü erdem sınıflaması Aristo'ya değil Platon'a aittir; Aristo'nun liderlikle ilgili vurgusu farklı bir bağlamda (insanın sosyal varlığı ve iletişim) ele alınır.",
+        "Aristoteles'in etik anlayışı \"altın orta\" (orta yol) ilkesine dayanır; akıl, cesaret, öz denetim ve tarafsızlıktan oluşan bu dörtlü erdem sınıflaması ona değil Platon'a aittir.",
+        "İnsan doğasının bencil olduğunu ve otoriteye ihtiyaç duyulduğunu savunan Thomas Hobbes, liderlikte dört erdem sıralaması yapmamıştır; bu görüş ona ait değildir.",
+        "Doğru yanıt: Platon, \"Devlet\" eserinde ideal liderin akıl, cesaret, öz denetim ve tarafsızlık olmak üzere dört temel özelliğe sahip olması gerektiğini öne sürmüştür.",
+        "Doğal haklar ve sınırlı yönetim kuramıyla tanınan John Locke, liderlik özellikleri üzerine bu şekilde dörtlü bir erdem sınıflaması yapmamıştır."
+      ]
+    },
+    {
+      "question": "……………liderlerin bilge kişiler olmasının bir zorunluluk olduğunu; bilimsel anlayış, teknik ve felsefi bilgi, mantıklı düşünme becerisine sahip kişilerin lider olabileceğini vurgular. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Platon",
+        "Aristoteles",
+        "Thomas Hobbes",
+        "John Locke",
+        "Aristo"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bu görüşe göre liderlerin bilge kişiler olması bir zorunluluktur; bilimsel anlayışa, teknik ve felsefi bilgiye ve mantıklı düşünme becerisine sahip olan kişiler lider olabilir. Bu vurgu, bilgeliği ve akıl yürütmeyi liderliğin ön koşulu olarak gören Aristo'ya atfedilir.",
+      "optionNotes": [
+        "Platon, liderlik özelliklerini akıl, cesaret, öz denetim ve tarafsızlık olmak üzere dört erdem şeklinde sınıflandırmıştır; bilgelik ve mantıklı düşünmeye dayalı bu özel vurgu burada Aristo'ya atfedilmektedir.",
+        "Bu seçenek, doğru yanıt olan Aristo ile aynı kişiye farklı bir ad biçimiyle atıfta bulunmakla karıştırılabilir; soru metninde atıf \"Aristo\" ismiyle yapılmış olup bu seçenek burada ayrı ve geçersiz kabul edilmiştir.",
+        "Thomas Hobbes'un görüşleri insan doğasının bencilliği ve güçlü bir otoritenin gerekliliği üzerine kuruludur; liderlerin bilgelik ve felsefi bilgiye dayanması gerektiği vurgusu ona ait değildir.",
+        "John Locke, toplum sözleşmesi ve doğal haklar kuramıyla bilinir; liderliği bilgelik ve mantıklı düşünme becerisine bağlayan bu görüş ona atfedilmez.",
+        "Doğru yanıt: Aristo, liderlerin bilge kişiler olmasının bir zorunluluk olduğunu; bilimsel anlayışa, teknik ve felsefi bilgiye, mantıklı düşünme becerisine sahip kişilerin lider olabileceğini vurgulamıştır."
+      ]
+    },
+    {
+      "question": "Liderlik kelimesinin kökeni seyahat etmek veya yol göstermek anlamına gelen………kelimesinden gelmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Leden",
+        "Seden",
+        "Geden",
+        "Teden",
+        "Zeden"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liderlik (leadership) kelimesinin kökeni, Anglosakson dilinde \"seyahat etmek\" veya \"yol göstermek\" anlamına gelen \"Leden\" kelimesine dayanmaktadır. Bu köken, liderin grubuna yol gösteren, onları bir hedefe doğru yönlendiren kişi olduğu fikrini yansıtır.",
+      "optionNotes": [
+        "Doğru yanıt: Liderlik kelimesinin kökeni, Anglosakson dilinde \"seyahat etmek/yol göstermek\" anlamına gelen \"Leden\" kelimesine dayanır.",
+        "Bu kelime, liderlik teriminin etimolojik kökeni olarak kaynaklarda geçmemektedir; doğru kök \"Leden\"dir.",
+        "Bu kelime liderlik kavramının kök aldığı Anglosakson terimi değildir; seçenek \"Leden\" kelimesiyle ses benzerliği taşıyan uydurma bir alternatiftir.",
+        "Bu ifade herhangi bir kaynakta liderlik kelimesinin kökeni olarak belirtilmemektedir.",
+        "Bu kelime de liderlik teriminin kökeni olarak kabul edilmez; doğru köken \"Leden\" kelimesidir."
+      ]
+    },
+    {
+      "question": "Liderlik ile ilgili ilk bilimsel çalışmalarda 20. yüzyılın sonlarında nerede yapılmıştır?",
+      "options": [
+        "Amerika",
+        "İngiltere",
+        "Fransa",
+        "Kanada",
+        "Rusya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liderlikle ilgili ilk bilimsel araştırmalar büyük ölçüde Amerika Birleşik Devletleri'nde yürütülmüştür; özellikle endüstriyel/örgütsel psikoloji alanındaki çalışmalar ve Ohio State ile Michigan üniversitelerinde yapılan liderlik araştırmaları bu ülkede ortaya çıkmış ve liderlik yazınının temelini oluşturmuştur.",
+      "optionNotes": [
+        "Doğru yanıt: Liderlikle ilgili ilk bilimsel çalışmalar büyük ölçüde Amerika Birleşik Devletleri'nde yapılmıştır.",
+        "Liderlik üzerine ilk sistematik bilimsel araştırmaların merkezi İngiltere değil, Amerika Birleşik Devletleri'dir.",
+        "Fransa, liderlik üzerine yapılan ilk bilimsel çalışmaların yürütüldüğü ülke olarak kaynaklarda geçmez.",
+        "Kanada bu araştırmaların öncüsü olarak gösterilen bir ülke değildir; liderlik araştırmalarının kökeni Amerika Birleşik Devletleri'ne dayanır.",
+        "Liderlik üzerine ilk bilimsel çalışmalar Rusya'da değil, Amerika Birleşik Devletleri'nde başlamıştır."
+      ]
+    },
+    {
+      "question": "20. yüzyılın başlangıcında insanlar…………..özelliklere sahip kişilerin lider olabileceğine inanmaktaydılar. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Karizmatik",
+        "Demokratik",
+        "Otokratik",
+        "Liberal",
+        "Durumsal"
+      ],
+      "correctIndex": 0,
+      "explanation": "20. yüzyılın başında hâkim olan \"büyük adam\" (great man) ve özellikler kuramı anlayışına göre, insanlar doğuştan karizmatik özelliklere sahip kişilerin lider olabileceğine inanıyorlardı. Bu dönemde liderlik, öğrenilebilen bir davranış biçimi olarak değil, kişiye özgü doğuştan gelen bir nitelik olarak görülüyordu.",
+      "optionNotes": [
+        "Doğru yanıt: 20. yüzyılın başında insanlar, doğuştan karizmatik özelliklere sahip kişilerin lider olabileceğine inanmaktaydı (özellikler/büyük adam kuramı).",
+        "Demokratik liderlik, 1940'lardan sonra sosyal psikologların davranışsal liderlik araştırmalarıyla ortaya çıkan bir liderlik tarzıdır; 20. yüzyıl başındaki doğuştan gelen özellik anlayışıyla ilgili değildir.",
+        "Otokratik liderlik bir davranış tarzıdır, doğuştan gelen bir kişilik özelliği değildir; bu dönemdeki inanış davranışla değil doğuştan gelen niteliklerle ilişkilidir.",
+        "Liberal (tam serbesti veren) liderlik de bir davranış tarzı olup, 20. yüzyıl başındaki doğuştan özellik vurgusuyla örtüşmez.",
+        "Durumsal liderlik yaklaşımı daha sonraki dönemlerde ortaya çıkmış olup liderliğin koşullara göre değiştiğini savunur; bu, 20. yüzyıl başındaki doğuştan özellik inanışının tam tersidir."
+      ]
+    },
+    {
+      "question": "1940’lardan itibaren sosyal psikologlar tarafından yapılan araştırmalar sonucunda……………liderlik davranışı sergileyen liderlerin daha etkin olduğu ortaya çıkarılmıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Karizmatik",
+        "Demokratik",
+        "Otokratik",
+        "Liberal",
+        "Durumsal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kurt Lewin ve arkadaşlarının 1930'lu ve 1940'lı yıllarda yürüttüğü klasik liderlik davranışı araştırmaları, otokratik, demokratik ve liberal (laissez-faire) liderlik tarzlarını karşılaştırmış ve demokratik liderlik davranışı sergileyen liderlerin grup üyelerinin motivasyonu, memnuniyeti ve performansı açısından genellikle daha etkili olduğunu ortaya koymuştur.",
+      "optionNotes": [
+        "Karizmatik liderlik kavramı bu döneme ait davranışsal araştırmalarla değil, daha sonra Max Weber ve takip eden kuramcılarla ilişkilendirilen ayrı bir yaklaşımdır.",
+        "Doğru yanıt: 1940'lardan itibaren yapılan sosyal psikoloji araştırmaları (Lewin ve arkadaşları), demokratik liderlik davranışı sergileyen liderlerin daha etkili olduğunu göstermiştir.",
+        "Bu araştırmalarda otokratik liderlik tarzı, kısa dönemde verim sağlasa da grup üyelerinde tatminsizlik ve bağımlılık yarattığı için demokratik tarzdan daha etkili bulunmamıştır.",
+        "Liberal (tam serbesti) liderlik tarzı bu araştırmalarda genellikle en düşük verimlilik ve en düşük grup tatmini ile ilişkilendirilmiş, en etkili tarz olarak bulunmamıştır.",
+        "Durumsal liderlik yaklaşımı 1940'ların sosyal psikoloji araştırmalarının doğrudan bir sonucu değildir; bu yaklaşım daha sonra farklı kuramcılar tarafından geliştirilmiştir."
+      ]
+    },
+    {
+      "question": "Vizyon sahibi, amaçların farkında olan ve bu amaçları kendi üyelerinin içselleştirmesini destekleyici tavır sergileyen kişi olarak nitelendirilen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Lider",
+        "Yönetici",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu tanım, vizyon oluşturma, amaçları belirleme ve bu amaçların grup üyeleri tarafından içselleştirilmesini sağlama gibi özellikleriyle \"lider\" kavramını tanımlamaktadır. Liderlik literatüründe lider, yöneticiden farklı olarak vizyoner bakış açısı ve ilham verme kapasitesiyle öne çıkar.",
+      "optionNotes": [
+        "Doğru yanıt: Vizyon sahibi olup amaçların farkında olan ve bu amaçların üyelerce içselleştirilmesini destekleyen kişi lider olarak tanımlanır.",
+        "Yönetici, genellikle mevcut yapı ve kurallar çerçevesinde planlama, organize etme ve denetleme işlevini üstlenir; vizyon oluşturma ve amaçları içselleştirme süreci daha çok liderle ilişkilendirilir.",
+        "Eğitmen, belirli bir beceri veya bilgiyi öğretmekle sorumludur; vizyon sahibi olup grup amaçlarını içselleştirme sürecini yönetmek bir eğitmenin temel rolü değildir.",
+        "Öğretmenin temel görevi bilgi ve beceri aktarımıdır; tanımda belirtilen vizyon oluşturma ve amaç içselleştirme süreci öğretmenlik rolüyle örtüşmez.",
+        "Psikolog, bireylerin zihinsel ve davranışsal süreçleriyle ilgilenir; burada tanımlanan vizyoner ve amaç odaklı rol bir psikoloğun mesleki tanımına uymaz."
+      ]
+    },
+    {
+      "question": "Belirlenmiş şartlar kapsamında, bireysel ya da ekip olarak hedeflere ulaşmak koşuluyla, kişinin astlarının/grup üyelerinin uygulamalarını etkilemesi ve ivme kazandırmasına ne ad verilir?",
+      "options": [
+        "Yöneticilik",
+        "Liderlik",
+        "Eğitmenlik",
+        "Öğretmenlik",
+        "Hakemlik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu tanım, belirli koşullar altında hedeflere ulaşmak amacıyla astların ya da grup üyelerinin davranışlarını etkileme ve onlara ivme kazandırma sürecini ifade eder; bu süreç liderlik olarak tanımlanır. Liderlik, astları etkileme ve onları ortak hedefe yönlendirme sürecidir.",
+      "optionNotes": [
+        "Yöneticilik daha çok planlama, örgütleme, koordinasyon ve denetim gibi idari işlevleri kapsar; burada tanımlanan \"astları etkileme ve ivme kazandırma\" süreci liderliğin özüdür.",
+        "Doğru yanıt: Belirlenmiş şartlarda hedeflere ulaşmak koşuluyla grup üyelerinin uygulamalarını etkileme ve onlara ivme kazandırma sürecine liderlik denir.",
+        "Eğitmenlik, belirli bir alanda bilgi ve beceri kazandırmaya odaklanır; astları etkileyip ivme kazandırma süreci bu tanımın kapsamında değildir.",
+        "Öğretmenlik bilgi aktarımı ve öğrenmeyi kolaylaştırmaya yöneliktir; tanımda belirtilen etkileme ve ivme kazandırma süreci öğretmenlikten farklıdır.",
+        "Hakemlik, kurallara uygunluğu denetleme ve karar verme işlevini içerir; astları etkileyip hedeflere yönlendirme süreciyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Belli amaçlar doğrultusunda hedeflere ulaşmak için sistemli ve bilinçli bir şekilde insanları etkileme ve yönlendirme becerisine ne ad verilir?",
+      "options": [
+        "Yöneticilik",
+        "Eğitmenlik",
+        "Liderlik",
+        "Öğretmenlik",
+        "Hakemlik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu tanım, insanları belirli amaçlar doğrultusunda sistemli ve bilinçli bir şekilde etkileme ve yönlendirme becerisini ifade eder; bu beceri liderlik olarak tanımlanır.",
+      "optionNotes": [
+        "Yöneticilik, kaynakların planlanması ve örgütlenmesiyle ilgili idari bir işlevdir; insanları sistemli biçimde etkileme ve yönlendirme becerisi doğrudan liderlikle ilişkilendirilir.",
+        "Eğitmenlik, teknik bilgi ve beceri öğretimine odaklanan bir meslektir; burada tanımlanan genel etkileme ve yönlendirme becerisiyle örtüşmez.",
+        "Doğru yanıt: Belli amaçlar doğrultusunda hedeflere ulaşmak için insanları sistemli ve bilinçli biçimde etkileme ve yönlendirme becerisi liderlik olarak tanımlanır.",
+        "Öğretmenlik, akademik bilgi aktarımına dayanan bir meslek alanıdır; tanımda belirtilen etkileme ve yönlendirme becerisi öğretmenliğin asıl işlevi değildir.",
+        "Hakemlik, oyun kurallarının uygulanmasını denetlemekle sınırlı bir rol olup insanları ortak amaçlar doğrultusunda etkileme ve yönlendirme becerisiyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "Belli şartlar altında, belirli kişisel veya grup amaçlarını gerçekleştirmek üzere, bir kimsenin başkalarının faaliyetlerini etkilemesi ve yönlendirmesi sürecine ne ad verilir?",
+      "options": [
+        "Yöneticilik",
+        "Eğitmenlik",
+        "Öğretmenlik",
+        "Liderlik",
+        "Hakemlik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu tanım da liderliğin klasik tanımlarından biridir: belirli şartlar altında kişisel veya grup amaçlarına ulaşmak için bir kişinin başkalarının faaliyetlerini etkileme ve yönlendirme sürecidir.",
+      "optionNotes": [
+        "Yöneticilik daha çok kurumsal yapı içinde kaynakları planlama ve denetleme işleviyle ilgilidir; burada tanımlanan etkileme/yönlendirme süreci liderliğe aittir.",
+        "Eğitmenlik, belirli bir beceri alanında bilgi aktarımı yapmakla sınırlıdır; başkalarının faaliyetlerini genel olarak etkileme ve yönlendirme süreciyle örtüşmez.",
+        "Öğretmenlik, eğitim-öğretim faaliyetleriyle sınırlı bir meslek alanıdır; burada tanımlanan süreç öğretmenlik mesleğinin kapsamını aşar.",
+        "Doğru yanıt: Belli şartlar altında belirli kişisel veya grup amaçlarını gerçekleştirmek üzere başkalarının faaliyetlerini etkileme ve yönlendirme süreci liderlik olarak tanımlanır.",
+        "Hakemlik, müsabaka kurallarının uygulanmasını denetlemekle ilgilidir; başkalarının faaliyetlerini amaçlar doğrultusunda etkileme süreciyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Başkalarını belirli bir amaç doğrultusunda davranmaya sevk eden, etkileyen kişi kimdir?",
+      "options": [
+        "Yönetici",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog",
+        "Lider"
+      ],
+      "correctIndex": 4,
+      "explanation": "Başkalarını belirli bir amaç doğrultusunda davranmaya sevk eden ve onları etkileyen kişi, liderlik tanımlarında \"lider\" olarak ifade edilir.",
+      "optionNotes": [
+        "Yönetici, örgütsel kaynakları planlama ve denetleme rolüyle tanımlanır; başkalarını bir amaç doğrultusunda etkileyip sevk etme vurgusu doğrudan liderle ilişkilendirilir.",
+        "Eğitmen, belirli bir konuda bilgi/beceri öğretimiyle sınırlı bir roldür; burada tanımlanan genel etkileme ve sevk etme işlevi eğitmenlik tanımını aşar.",
+        "Öğretmen, eğitim-öğretim sürecinde bilgi aktarımı yapan kişidir; başkalarını belirli bir amaca sevk etme vurgusu öğretmenlik tanımından farklıdır.",
+        "Psikolog, bireylerin zihinsel süreçleriyle ilgilenen bir uzmandır; burada tanımlanan etkileme ve sevk etme rolü psikologluk mesleğinin tanımı değildir.",
+        "Doğru yanıt: Başkalarını belirli bir amaç doğrultusunda davranmaya sevk eden ve onları etkileyen kişi lider olarak tanımlanır."
+      ]
+    },
+    {
+      "question": "Bir grup insanın, kendi kişisel ve grup amaçlarını gerçekleştirmek üzere takip ettikleri, onun isteği, emir ve talimatı doğrultusunda davrandıkları kişiye ne ad verilir?",
+      "options": [
+        "Yönetici",
+        "Lider",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu tanım, bir grubun kendi amaçlarını gerçekleştirmek için takip ettiği ve emir/talimatlarına uyduğu kişiyi ifade eder; bu kişi lider olarak tanımlanır.",
+      "optionNotes": [
+        "Yönetici, resmi yetkiyle atanmış bir konumdur ve grup üyelerinin gönüllü takip etme isteğiyle doğrudan bağlantılı değildir; burada tanımlanan \"takip edilen, isteği doğrultusunda davranılan kişi\" liderdir.",
+        "Doğru yanıt: Bir grubun kendi amaçlarını gerçekleştirmek için isteği, emri ve talimatı doğrultusunda davrandığı, takip ettiği kişi liderdir.",
+        "Eğitmen, belirli bir alanda beceri kazandırmakla görevlidir; bir grubun amaçlarını gerçekleştirmek için talimatlarına uyduğu kişi tanımı liderlik tanımıdır.",
+        "Öğretmen, eğitim ortamında bilgi aktarımı yapan kişidir; burada tanımlanan grup tarafından takip edilme ve talimatlara uyulma süreci liderlik tanımına aittir.",
+        "Psikolog, bireylerin ruhsal süreçleriyle ilgilenen bir uzmanlık alanıdır; grup tarafından takip edilerek talimatlarına uyulan kişi tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "question": "Lider ve liderlik kavramıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Sosyal bir olgudur",
+        "Sürekli olarak değişimlerden etkilenir",
+        "Somut bir kavramdır",
+        "Deneyim liderlikte çok önemlidir",
+        "Lider, bulunduğu yerdeki koşullara rağmen fark yaratan insandır"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lider ve liderlik, sosyal bir olgu olup sürekli değişimlerden etkilenen, deneyime bağlı ve koşullara rağmen fark yaratabilen bir kavramdır; ancak soyut bir kavramdır, somut (elle tutulur, fiziksel olarak ölçülebilir) bir nesne değildir. Bu nedenle \"somut bir kavramdır\" ifadesi yanlıştır ve doğru yanıt budur.",
+      "optionNotes": [
+        "Bu ifade doğrudur; liderlik, bireyler arası etkileşime dayanan sosyal bir olgudur, bu nedenle yanlış olan seçenek bu değildir.",
+        "Bu ifade doğrudur; liderlik, içinde bulunulan sosyal, kültürel ve örgütsel koşullardaki değişimlerden etkilenen dinamik bir süreçtir; dolayısıyla bu seçenek yanlış olan ifade değildir.",
+        "Doğru yanıt: \"Somut bir kavramdır\" ifadesi yanlıştır; liderlik soyut bir kavramdır, doğrudan gözle görülüp elle tutulan fiziksel bir nesne değildir, davranış ve etkileşim süreçleriyle anlaşılır.",
+        "Bu ifade doğrudur; deneyim, liderlik becerilerinin gelişiminde önemli bir etkendir, bu nedenle yanlış olan seçenek bu değildir.",
+        "Bu ifade liderliğin temel niteliklerinden birini doğru şekilde yansıtır, bu nedenle yanlış olan seçenek bu değildir."
+      ]
+    },
+    {
+      "question": "Kurumun amaçlarının gerçekleştirilmesi için bütün unsurları harekete geçiren örgüt içi ve dışı insan ilişkilerini düzenleyen ve geliştiren onları sevk ve idare eden, belirli bir yönde onlara liderlik ve rehberlik eden ve onları etkileyen kişi kimdir?",
+      "options": [
+        "Lider",
+        "Spor Yöneticisi",
+        "Eğitmen",
+        "Öğretmen",
+        "Psikolog"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu tanım, bir spor kurumunun amaçlarını gerçekleştirmek üzere örgüt içindeki ve dışındaki tüm unsurları ve insan ilişkilerini düzenleyen, yöneten ve yönlendiren kişiyi; yani \"spor yöneticisi\"ni tanımlamaktadır. Spor yöneticisi, hem idari/yönetsel işlevleri hem de liderlik ve rehberlik rolünü bir arada yürütür.",
+      "optionNotes": [
+        "Lider kavramı daha genel ve vizyon/etkileme odaklı bir rolü ifade eder; burada tanımlanan kurumsal amaçları gerçekleştirme, örgüt içi-dışı ilişkileri düzenleme gibi idari kapsamlı görevler spor yöneticisine aittir.",
+        "Doğru yanıt: Kurumun amaçlarını gerçekleştirmek için bütün unsurları harekete geçiren, örgüt içi ve dışı ilişkileri düzenleyen, sevk ve idare eden kişi spor yöneticisidir.",
+        "Eğitmen, teknik beceri öğretimiyle sınırlı bir roldür; kurumsal düzeyde örgüt içi/dışı ilişkileri yönetme görevi eğitmenliğin kapsamında değildir.",
+        "Öğretmenin görevi eğitim-öğretim faaliyetleriyle sınırlıdır; kurumun tüm unsurlarını harekete geçirme ve yönetme görevi öğretmenlikle ilişkilendirilemez.",
+        "Psikolog, bireylerin psikolojik süreçleriyle ilgilenir; kurumsal yönetim ve örgütsel ilişkileri düzenleme görevi bir psikoloğun mesleki tanımına uymaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Ceylan (1998) göre lider kişilik özelliklerinden biri değildir?",
+      "options": [
+        "Lider ilk öncelikle başkalarını yönlendiren kişidir.",
+        "İstek ve arzularda istikrarlı tutum sergilemeleri",
+        "Hâl ve tavırlarıyla rol model olmaları",
+        "Enerjik bir yapıya sahip olmaları",
+        "Ahlaklı, inançlı ve kişilik sahibi olmaları"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ceylan (1998)'e göre lider kişilik özellikleri arasında istek ve arzularda istikrarlı tutum sergileme, hâl ve tavırlarıyla rol model olma, enerjik bir yapıya sahip olma, ahlaklı, inançlı ve kişilik sahibi olma gibi nitelikler sayılmaktadır. \"Lider ilk öncelikle başkalarını yönlendiren kişidir\" ifadesi ise bir kişilik özelliği değil, liderin tanımına/işlevine ilişkin genel bir ifadedir; bu nedenle kişilik özellikleri arasında sayılmaz.",
+      "optionNotes": [
+        "Doğru yanıt: \"Lider ilk öncelikle başkalarını yönlendiren kişidir\" ifadesi bir kişilik özelliği değil, liderin genel tanımına ilişkin bir ifadedir; bu nedenle Ceylan (1998)'in saydığı kişilik özellikleri arasında yer almaz.",
+        "Bu, Ceylan (1998)'in belirttiği gerçek bir lider kişilik özelliğidir; dolayısıyla \"değildir\" sorusunun yanıtı bu seçenek olamaz.",
+        "Bu da Ceylan (1998)'e göre liderin sahip olması gereken kişilik özelliklerinden biridir, bu nedenle yanlış olan (listede yer almayan) seçenek bu değildir.",
+        "Bu özellik Ceylan (1998)'in sıraladığı lider kişilik özellikleri arasında yer alır; bu nedenle doğru yanıt bu seçenek olamaz.",
+        "Bu ifade de Ceylan (1998)'e göre liderin kişilik özelliklerinden biridir; bu nedenle \"değildir\" sorusunun cevabı bu olamaz."
+      ]
+    },
+    {
+      "question": "I. Teknik bilgi II. Beşeri nitelikler III. Düşünsel özellikler Yukarıdakilerden hangileri liderden beklenen özellikler grubunda yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu sınıflandırmaya göre liderden beklenen temel özellik grupları teknik bilgi (I) ve beşeri nitelikler (II)'dir; bu iki unsur liderin işini etkili biçimde yürütebilmesi için temel kabul edilir. Düşünsel özellikler (III) ise bu sınıflandırmada liderden beklenen özellik grubu içinde ayrıca değerlendirilmemiştir.",
+      "optionNotes": [
+        "Sadece teknik bilgiyi içerir, ancak beşeri nitelikler (II) de liderden beklenen özellikler arasında sayıldığından bu seçenek eksiktir.",
+        "Sadece beşeri nitelikleri kapsar, teknik bilgiyi (I) dışarıda bırakır; oysa teknik bilgi de liderden beklenen özellikler arasında yer alır.",
+        "Doğru yanıt: Liderden beklenen özellikler arasında teknik bilgi (I) ve beşeri nitelikler (II) yer alır; bu iki unsur liderin işini etkili biçimde yürütebilmesi için gerekli görülür.",
+        "Teknik bilgiyi (I) dışarıda bırakan bu seçenek, liderin işin uygulanmasına ilişkin teknik yeterliliğini göz ardı etmektedir.",
+        "Düşünsel özellikleri (III) de ekleyen bu seçenek, bu sınıflandırmada liderden beklenen temel özellik grubunun kapsamını aşmaktadır."
+      ]
+    },
+    {
+      "question": "I. İnsanlarda Derinden Temas Sağlama Yeteneği II. Etkin Dinleme III. Şahsi Bütünlük IV. Vizyon Sahibi Olma Yukarıdakilerden hangisi Liderde bulunması gereken özelliklerdendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Liderlik literatüründe etkili bir liderde bulunması gereken özellikler arasında insanlarla derinden/samimi temas kurabilme yeteneği, etkin dinleme becerisi, şahsi bütünlük (dürüstlük, tutarlılık) ve vizyon sahibi olma gibi nitelikler birlikte sayılır. Bu dört özellik, liderin hem ilişkisel hem de stratejik boyutunu kapsar.",
+      "optionNotes": [
+        "Sadece insanlarla temas kurma yeteneğini içerir; etkin dinleme, şahsi bütünlük ve vizyon sahibi olma gibi diğer temel özellikleri (II, III, IV) dışarıda bırakır.",
+        "İnsanlarla temas ve etkin dinlemeyi kapsar ancak şahsi bütünlük (III) ve vizyon sahibi olma (IV) özelliklerini dışarıda bırakır; bu özellikler de liderde bulunması gerekenler arasındadır.",
+        "Etkin dinleme, şahsi bütünlük ve vizyonu kapsasa da insanlarla derinden temas sağlama yeteneğini (I) dışarıda bırakır; bu özellik de liderlik için önemli bir niteliktir.",
+        "Şahsi bütünlük ve vizyonu içerir ancak insanlarla temas kurma (I) ve etkin dinleme (II) becerilerini dışarıda bırakır; oysa bunlar da liderde bulunması gereken özelliklerdir.",
+        "Doğru yanıt: İnsanlarla derinden temas sağlama yeteneği (I), etkin dinleme (II), şahsi bütünlük (III) ve vizyon sahibi olma (IV) özelliklerinin tümü liderde bulunması gereken niteliklerdendir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi yöneticilerin özelliklerinden biri değildir?",
+      "options": [
+        "Statükoyu kabul eder",
+        "Klasik iyi bir askerdir",
+        "Bir şeyleri doğru yapar",
+        "Garanticidir",
+        "Orijinaldir"
+      ],
+      "correctIndex": 4,
+      "explanation": "Klasik yönetici-lider ayrımına göre yöneticiler statükoyu kabul eden, iyi bir asker gibi disiplinli, işleri doğru/kurallara uygun şekilde yapan ve risk almaktan kaçınan (garantici) kişilerdir. \"Orijinal olma\" ise yöneticilere değil, yeni yollar arayan, yaratıcı ve değişim odaklı liderlere atfedilen bir özelliktir; bu nedenle \"orijinaldir\" yöneticilerin özelliği değildir.",
+      "optionNotes": [
+        "Bu, yöneticilerin tipik bir özelliğidir; yöneticiler genellikle mevcut düzeni sürdürmeye odaklanır, bu nedenle \"değildir\" sorusunun cevabı bu seçenek olamaz.",
+        "Bu ifade de yöneticilerin disiplinli, hiyerarşiye uyumlu yapısını tanımlar ve yönetici özelliği olarak kabul edilir.",
+        "\"İşleri doğru yapmak\", yöneticiliğin klasik tanımlarından biridir (liderlik ise \"doğru işleri yapmak\" ile ilişkilendirilir); bu nedenle bu seçenek yönetici özelliğidir.",
+        "Risk almaktan kaçınma ve güvenli/garanti yolu seçme eğilimi, yöneticilerin tipik bir özelliği olarak kabul edilir.",
+        "Doğru yanıt: \"Orijinaldir\" ifadesi yöneticilerin değil, yeni ve yaratıcı yaklaşımlar geliştiren liderlerin özelliğidir; bu nedenle yöneticilerin özellikleri arasında yer almaz."
+      ]
+    },
+    {
+      "question": "Görev odaklı olup statüsünün getirmiş olduğu otoriteyi kullanarak kararları tek başına alan liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Demokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider"
+      ],
+      "correctIndex": 0,
+      "explanation": "Otokratik liderlik tarzında lider görev odaklıdır ve statüsünün kendisine verdiği otoriteyi kullanarak kararları çoğunlukla tek başına alır; astların karar sürecine katılımına sınırlı yer verir.",
+      "optionNotes": [
+        "Doğru yanıt: Görev odaklı olup statüsünün getirdiği otoriteyi kullanarak kararları tek başına alan liderlik tarzı otokratik liderliktir.",
+        "Demokratik lider, kararları tek başına almak yerine grup üyelerinin katılımını ve görüşlerini sürece dahil eder; bu nedenle tanımla uyuşmaz.",
+        "Liberal lider, grup üyelerine karar alma ve işi tamamlama konusunda büyük bir özgürlük tanır; kararları tek başına almak liberal liderliğin özelliği değildir.",
+        "Dönüşümcü lider, astlarını ilham vererek motive eden ve değişim sürecine dahil eden bir tarzı benimser; kararları tek başına alıp otoriteye dayanan bir tarz değildir.",
+        "Vizyoner lider, geleceğe yönelik vizyon oluşturmaya ve bunu paylaşmaya odaklanır; kararları tek başına otoriteyle alma tanımı otokratik liderliğe aittir."
+      ]
+    },
+    {
+      "question": "Gruba karar alma ve işi uygun görüldüğü şekilde tamamlama özgürlüğü veren model olarak tanımlanan liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider",
+        "Durumsal Lider"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liberal (tam serbesti/laissez-faire) liderlik tarzında lider, grup üyelerine karar alma ve işlerini istedikleri şekilde tamamlama konusunda büyük bir özgürlük tanır; liderin doğrudan yönlendirmesi ve denetimi minimum düzeydedir.",
+      "optionNotes": [
+        "Otokratik lider kararları tek başına alır ve gruba özgürlük tanımaz; bu tanımla taban tabana zıttır.",
+        "Doğru yanıt: Gruba karar alma ve işi uygun gördüğü şekilde tamamlama özgürlüğü veren liderlik tarzı liberal (laissez-faire) liderliktir.",
+        "Dönüşümcü lider, grup üyelerini vizyon ve ilham yoluyla etkin biçimde yönlendirir; tam serbesti tanımak bu tarzın temel özelliği değildir.",
+        "Vizyoner lider, geleceğe dair bir vizyon oluşturup bu vizyon etrafında grubu yönlendirir; grup üyelerine tam karar özgürlüğü tanımak bu tarzın tanımı değildir.",
+        "Durumsal lider, davranışını içinde bulunulan koşullara göre uyarlar; sürekli ve sabit biçimde tam özgürlük tanımak durumsal liderliğin tanımı değildir."
+      ]
+    },
+    {
+      "question": "Değişimlere uyum sağlayarak, yenilikçi yönünü ortaya koyan liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider",
+        "Durumsal Lider"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dönüşümcü (transformasyonel) liderlik, değişime uyum sağlama, yenilikçi yaklaşımlar geliştirme ve astlarını bu değişim sürecine ilham vererek dahil etme ile karakterizedir.",
+      "optionNotes": [
+        "Otokratik lider genellikle statükoyu ve kendi otoritesini korumaya odaklanır; değişime uyum ve yenilikçilik bu tarzın temel vurgusu değildir.",
+        "Liberal lider, gruba özgürlük tanımakla tanımlanır; değişime uyum sağlayıp yenilikçi yön ortaya koymak bu tarzın doğrudan tanımı değildir.",
+        "Doğru yanıt: Değişimlere uyum sağlayarak yenilikçi yönünü ortaya koyan liderlik tarzı dönüşümcü (transformasyonel) liderliktir.",
+        "Vizyoner lider, geleceğe dair bir öngörü oluşturmaya odaklanır; burada tanımlanan değişime uyum ve yenilikçilik vurgusu dönüşümcü liderliğin ayırt edici özelliğidir.",
+        "Durumsal lider, davranışını mevcut koşullara göre ayarlar; bu, değişime \"uyum sağlama\" kavramıyla karıştırılabilir, ancak yenilikçi yön ortaya koyma vurgusu dönüşümcü liderliğe aittir."
+      ]
+    },
+    {
+      "question": "I. İdealize edilmiş etki II. İlham verici motivasyon III. Entelektüel simülasyon IV. Bireysel dikkate alma Yukarıdakilerden hangileri Liderlikteki dönüşüm faktörleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I - II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Bass'ın dönüşümcü liderlik modeline göre dönüşüm faktörleri (4I) idealize edilmiş etki, ilham verici motivasyon, entelektüel uyarım (simülasyon) ve bireysel dikkate almadan oluşur. Bu dört bileşenin tümü dönüşümcü liderliğin temel unsurlarıdır.",
+      "optionNotes": [
+        "Sadece idealize edilmiş etkiyi içerir; diğer üç bileşeni (ilham verici motivasyon, entelektüel simülasyon, bireysel dikkate alma) dışarıda bırakır.",
+        "İdealize edilmiş etki ve ilham verici motivasyonu kapsar ancak entelektüel simülasyon ve bireysel dikkate alma bileşenlerini dışarıda bırakır.",
+        "İlham verici motivasyon, entelektüel simülasyon ve bireysel dikkate almayı içerir, ancak idealize edilmiş etkiyi (I) dışarıda bırakır; bu da dönüşüm faktörlerinden biridir.",
+        "Sadece entelektüel simülasyon ve bireysel dikkate almayı kapsar; idealize edilmiş etki ve ilham verici motivasyon bileşenlerini dışarıda bırakır.",
+        "Doğru yanıt: Dönüşümcü liderliğin dört temel faktörü idealize edilmiş etki (I), ilham verici motivasyon (II), entelektüel simülasyon (III) ve bireysel dikkate almadır (IV)."
+      ]
+    },
+    {
+      "question": "Geleceği okuyarak ona uyum sağlayabilen veya getirebileceği olumsuzluklara karşı şimdiden önlem alabilen liderlik tarzı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Lider",
+        "Demokratik Lider",
+        "Liberal Lider",
+        "Dönüşümcü Lider",
+        "Vizyoner Lider"
+      ],
+      "correctIndex": 4,
+      "explanation": "Vizyoner liderlik, geleceğe dair öngörüde bulunma, geleceği okuyarak gerekli uyumu sağlama ve olası olumsuzluklara karşı önceden tedbir alma kapasitesiyle tanımlanır.",
+      "optionNotes": [
+        "Otokratik lider, kararları kendi otoritesiyle alan bir tarzı ifade eder; geleceği okuma ve öngörüde bulunma vurgusu bu tarzın tanımı değildir.",
+        "Demokratik lider, karar süreçlerine katılımı esas alır; geleceği öngörme ve önlem alma vurgusu vizyoner liderliğe aittir.",
+        "Liberal lider, gruba özgürlük tanımakla tanımlanır; geleceği okuyup önlem alma bu tarzın ayırt edici özelliği değildir.",
+        "Dönüşümcü lider, değişime uyum ve ilham vermeye odaklanır; geleceği önceden okuma ve bu doğrultuda önlem alma vurgusu daha çok vizyoner liderliğin tanımıdır.",
+        "Doğru yanıt: Geleceği okuyarak ona uyum sağlayabilen veya getirebileceği olumsuzluklara karşı önceden tedbir alabilen liderlik tarzı vizyoner liderliktir."
+      ]
+    },
+    {
+      "question": "Karizmatik liderlikten ilk bahseden kişi aşağıdakilerden hangisdir?",
+      "options": [
+        "Elton Mayo",
+        "Fritz Roethlisberger",
+        "Douglas McGregor",
+        "Abraham Maslow",
+        "Max Weber"
+      ],
+      "correctIndex": 4,
+      "explanation": "Karizmatik liderlik kavramından ilk bahseden kişi sosyolog Max Weber'dir. Weber, otorite tiplerini sınıflandırırken karizmatik otoriteyi geleneksel ve yasal-rasyonel otoriteden ayrı bir kategori olarak tanımlamıştır.",
+      "optionNotes": [
+        "Elton Mayo, Hawthorne araştırmalarıyla insan ilişkileri yaklaşımının öncülerinden biridir; karizmatik liderlik kavramını ilk ortaya atan kişi değildir.",
+        "Fritz Roethlisberger, Hawthorne araştırmalarında Mayo ile birlikte çalışmış bir araştırmacıdır; karizmatik liderlik kavramıyla ilişkilendirilmez.",
+        "Douglas McGregor, X ve Y kuramlarıyla tanınır; karizmatik liderlik kavramından ilk bahseden kişi değildir.",
+        "Abraham Maslow, ihtiyaçlar hiyerarşisi kuramıyla bilinir; karizmatik liderlik kavramının öncüsü olarak kabul edilmez.",
+        "Doğru yanıt: Karizmatik liderlik kavramından ilk bahseden kişi, otorite tiplerini sınıflandıran sosyolog Max Weber'dir."
+      ]
+    },
+    {
+      "question": "Fred Fiedler hangi tarz liderlik kuramının ilk temsilcisidir?",
+      "options": [
+        "Durumsal liderlik",
+        "Vizyoner liderlik",
+        "Karizmatik liderlik",
+        "Stratejik liderlik",
+        "Dönüşümcü liderlik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fred Fiedler, liderlik etkinliğinin liderin tarzı ile durumun özelliklerinin etkileşimine bağlı olduğunu öne süren durumsallık (koşul bağımlılık) kuramının ilk ve en önemli temsilcilerindendir.",
+      "optionNotes": [
+        "Doğru yanıt: Fred Fiedler, liderlik etkinliğinin durumsal koşullarla etkileşimine dayandığını öne süren durumsal liderlik kuramının ilk temsilcilerindendir.",
+        "Vizyoner liderlik yaklaşımı Fiedler'in koşul bağımlılık modeliyle ilişkilendirilmez; Fiedler'in kuramı duruma bağlı liderlik etkinliğini ele alır.",
+        "Karizmatik liderlik kavramı Max Weber'le ilişkilendirilir; Fiedler'in kuramı bu yaklaşımla değil durumsallıkla ilgilidir.",
+        "Stratejik liderlik farklı bir liderlik yaklaşımıdır; Fiedler'in öncüsü olduğu kuram durumsal liderlik kuramıdır.",
+        "Dönüşümcü liderlik kuramı daha çok Burns ve Bass ile ilişkilendirilir; Fiedler'in kuramı durumsallık temellidir."
+      ]
+    }
+  ]
+}

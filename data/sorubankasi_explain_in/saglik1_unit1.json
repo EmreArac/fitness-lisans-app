@@ -1,0 +1,293 @@
+{
+  "course": "saglik1",
+  "unit_index": 1,
+  "topic": "Spor Anatomisi ve Kinesiyoloji",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi hücreyle ilgili yanlış bir bilgidir?",
+      "options": [
+        "Hücre “kapalı” bir sistemdir ve çevresindeki dış ortamdan bağımsızdır.",
+        "Yüksek organizmalarda hücre büyüklüğü 10-50 mikrometre arasında değişmektedir.",
+        "Sitoplazma, hücrenin bütün organellerini barındıran, hücre zarı ile çevrili amorf bir maddedir.",
+        "Hücre sitoplazmasını çevreleyen ince, yarı geçirgen membrana Plazmalemma denir.",
+        "Endoplazmik retikulum, Organeller sınıfına yer alır."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bağ ve destek dokusu kaç bölümde ele alınmaktadır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Kemik………..adı verilen bir zar ile çevrilmiştir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Periost",
+        "Osteon",
+        "Lamel",
+        "Miyolem",
+        "Perikaryon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Ribozom II. Mikrotubulus III. Sentriyol IV. Enzim Kompleksleri Yukarıda verilen hücre yapı taşlarından hangileri ‘’Supramoleküler Kompleksler’’ grubunda yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Hücresi bağ dokusunun temel yapılarının sentezlenmesinden sorumlu olan yapı aşağıdakilerden hangisidir?",
+      "options": [
+        "Plazmalemma",
+        "Sitoplazma",
+        "Fibroblast",
+        "Gerinim",
+        "Kıkırdak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Osteoblast hücreleri tarafından yeni kemik dokusu oluşturulmasına ne ad verilir?",
+      "options": [
+        "Fibroblast",
+        "Ossifikasyon",
+        "Gerinim",
+        "Plazmalemma",
+        "Nukleus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kalp ağırlığı……gramı aşarsa hücre hiperplazisi görülür. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400",
+        "500"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Kas lifinin en küçük işlev birimine ne ad verilir?",
+      "options": [
+        "Sarkomer",
+        "Lösin",
+        "Miyozin",
+        "Lamel",
+        "Hiyalin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vücudu önden arkaya doğru dik kesen, sağ ve sol olarak vücudu ikiye ayıran düzleme ne ad verilmektedir?",
+      "options": [
+        "Sagittal Düzlem",
+        "Transvers Düzlem",
+        "Frontal Düzlem",
+        "Vertikal Aksis",
+        "Frontal Aksis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anatomik pozisyon terimlerden biri olan Ventral’ın karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        "Karın tarafında, karına ait",
+        "Merkez ya da gövdeye yakın",
+        "Orta, ortada bulunan",
+        "Merkez ya da gövdeye uzak",
+        "Baş tarafında"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Herhangi bir eklemin sagittal planda bükülmesi sonucunda eklem hareket açıklığının daralma işlemine ne ad verilir?",
+      "options": [
+        "Ekstansiyon",
+        "Fleksiyon",
+        "Sirkümdiksiyon",
+        "İnversiyon",
+        "Pronasyon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Yukarıdaki eklem hareketlerinin gösterimi hangi şıkta doğru verilmiştir?",
+      "options": [
+        "Abduksiyon – Adduksiyon",
+        "Plantar Fleksiyon - Dorsifleksiyon",
+        "Supinasyon – Pronasyon",
+        "İnversiyon – Eversiyon",
+        "Fleksiyon – Ekstansiyon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Kas lifleri………...adı verilen demetler şeklinde paketlenirler. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Fasikül",
+        "Miyofasya",
+        "Endomysium",
+        "Perimysium",
+        "Epimysium"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kasın bütün çevresini ve komponentlerini bir ağ gibi saran bağ doku zarına ne ad verilir?",
+      "options": [
+        "Endomysium",
+        "Perimysium",
+        "Epimysium",
+        "Miyozin",
+        "Miyofasya"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Kas fibrillerinin tendona bağlanma açısına ne denir?",
+      "options": [
+        "Pennasyon",
+        "Charpy",
+        "Verteks",
+        "Sakral",
+        "Sferoid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bir hareketin gerçekleşmesi sırasında birlikte görev alan kaslar…….…..olarak kabul edilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Sinerjist",
+        "Agonist",
+        "Antagonist",
+        "Birinci tip",
+        "İkinci tip"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kemik çıkıntılarıyla ilgili Anatomik terimlerden biri olan Spinae’nın anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        "Büyük kaba çıkıntı",
+        "Dikenimsi sivri çıkıntı",
+        "Düğme şeklinde çıkıntı",
+        "Küçük, kaba çıkıntı",
+        "Çizgi şeklinde kıvrımlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Tendon ve kasların kemik çıkıntıları üzerinden geçtikleri yerlerde bulunan sıvı dolu keseciklere ne ad verilir?",
+      "options": [
+        "Tork",
+        "Rijit",
+        "Synovia",
+        "Bursa",
+        "Tendinum"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Aksiyel iskelet yapı grubunda yer almaz?",
+      "options": [
+        "Kafatası",
+        "Kafatası ile ilişkili kemikler",
+        "Vertebral kolon",
+        "Torasik kafes",
+        "Pektoral kuşaklar"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sinirler ve kan damarlarının kemiğin içinden ve dışından ya da kemik boyunca geçtiği küçük yuvarlak kanal aşağıdakilerden hangisidir?",
+      "options": [
+        "Kondil",
+        "Foramen",
+        "Sinus",
+        "Sulkus",
+        "Troklea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kemikleri kemiklere bağlayan yapılara ne ad verilmektedir?",
+      "options": [
+        "Caput",
+        "Collum",
+        "Tendon",
+        "Ligament",
+        "Kıkırdak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Yetişkin insan omurgasında kaç adet vertebra (omur) bulunur?",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Humerus II. Radius III. Ulna Yukarıdakilerden hangileri Üst ekstremitede kolu oluşturan kemikler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I – III",
+        "I –II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Kemiklerin toplam ağırlığı beden ağırlığının ortalama yüzde kaçının oluşturur?",
+      "options": [
+        "8",
+        "11",
+        "14",
+        "17",
+        "21"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Aşağıdakilerden hangisi alt ekstremite’de yer almaz?",
+      "options": [
+        "Femur",
+        "Patella",
+        "Karpal Kemikler",
+        "Tibia",
+        "Fibula"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Latincede anatomi teriminin karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        "Debilitan",
+        "Deficient",
+        "Dissection",
+        "Dilatasyon",
+        "Duodenum"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

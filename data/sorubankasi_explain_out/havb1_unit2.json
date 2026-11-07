@@ -1,0 +1,501 @@
+{
+  "course": "havb1",
+  "unit_index": 2,
+  "topic": "Genel Antrenman Bilimi: Antrenmanı Oluşturan Ögeler",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi Antrenman faktörleri piramidinde yer almaz?",
+      "options": [
+        "Psikolojik Antrenman",
+        "Taktik Antrenman",
+        "Teknik Antrenman",
+        "Fiziksel Antrenman",
+        "Özel Antrenman"
+      ],
+      "correctIndex": 4,
+      "explanation": "Antrenman faktörleri piramidi, bir sporcunun performansını oluşturan temel antrenman alanlarını gösterir ve klasik olarak dört ana bileşenden oluşur: fiziksel (kondisyonel), teknik, taktik ve psikolojik (zihinsel) antrenman. \"Özel antrenman\" bu dört temel faktörden biri değildir; bu terim piramidin bağımsız bir köşesini değil, genel bir antrenman türünü ya da branşa özgü çalışmaları ifade eden farklı bir kavramdır. Bu nedenle piramitte yer almayan seçenek \"Özel Antrenman\"dır.",
+      "optionNotes": [
+        "Piramidin dört temel köşesinden biridir; sporcunun zihinsel hazırlığını kapsadığı için yanlış seçenek olarak işaretlenemez.",
+        "Piramidin temel bileşenlerinden biridir, bu nedenle \"yer almaz\" sorusunun cevabı olamaz.",
+        "Piramidin köşelerinden biridir, hareketlerin doğru uygulanmasını kapsar ve piramitte yer alır.",
+        "Kondisyonel yetenekleri geliştiren temel antrenman faktörlerinden biridir, piramitte bulunur.",
+        "Doğru yanıt: Bu kavram, antrenman faktörleri piramidinin klasik dört köşesi (fiziksel, teknik, taktik, psikolojik) arasında yer almaz; piramidin bağımsız bir bileşeni değildir."
+      ]
+    },
+    {
+      "question": "I. Tekniğin başlangıç yapısı II. Hareket zenginliği III. Koordinasyon eğitimi Yukarıdakilerden hangileri mükemmel spor tekniğine ulaşabilmenin temel ilkeleri arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Mükemmel bir spor tekniğine ulaşabilmek için antrenman bilimi literatüründe üç temel ilke kabul edilir: tekniğin başlangıç yapısının (temel hareket modelinin) doğru oluşturulması, sporcunun hareket zenginliğine (çok yönlü hareket deneyimine) sahip olması ve koordinasyon eğitiminin sistemli şekilde yürütülmesi. Bu üç unsur birbirini tamamlayan ilkelerdir ve hiçbiri tek başına yeterli değildir; sporcunun tekniği mükemmelleştirmesi bu üçünün bir arada geliştirilmesiyle mümkündür. Bu nedenle I, II ve III'ün tümü doğru kabul edilir.",
+      "optionNotes": [
+        "Sadece tekniğin başlangıç yapısını içerir, hareket zenginliği ve koordinasyon eğitimini dışarıda bırakarak ilkelerin tümünü kapsamaz.",
+        "Koordinasyon eğitimini (III) dışladığı için mükemmel tekniğe ulaşmanın temel ilkelerinin tamamını kapsamaz.",
+        "Hareket zenginliğini (II) göz ardı ettiği için eksik bir seçenektir; oysa çok yönlü hareket deneyimi de mükemmel teknik için gereklidir.",
+        "Tekniğin başlangıç yapısını (I) dışarıda bıraktığı için eksiktir; temel hareket modeli oluşturulmadan koordinasyon ve hareket zenginliği yeterli olmaz.",
+        "Doğru yanıt: Mükemmel spor tekniğine ulaşmanın temel ilkeleri olan tekniğin başlangıç yapısı, hareket zenginliği ve koordinasyon eğitiminin üçü birlikte gereklidir, dolayısıyla doğru yanıt I-II-III'tür."
+      ]
+    },
+    {
+      "question": "Sporcunun hedefe ulaşmasında branşa özgü hareketleri doğru ve en ekonomik şekilde sergilemesine ne ad verilir?",
+      "options": [
+        "Teknik",
+        "Taktik",
+        "Teorik",
+        "Uygulama",
+        "Pratik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spor bilimlerinde \"teknik\", bir sporcunun branşına özgü hareketleri belirlenmiş hedefe en doğru, en ekonomik ve en etkili biçimde uygulayabilmesi olarak tanımlanır. Teknik, hareketin biyomekanik açıdan en verimli şekilde gerçekleştirilmesini içerir ve sporcunun enerji/zaman kaybını en aza indirerek performansını artırmasını sağlar. Bu tanım, sorudaki \"doğru ve en ekonomik şekilde sergileme\" ifadesiyle doğrudan örtüşmektedir.",
+      "optionNotes": [
+        "Doğru yanıt: Branşa özgü hareketlerin en doğru ve ekonomik biçimde uygulanması, sportif tekniğin tanımıdır.",
+        "Taktik, müsabaka sırasında rakibe karşı alınan karar ve davranışları ifade eder; hareketin doğru/ekonomik uygulanışıyla değil, strateji ve karar vermeyle ilişkilidir.",
+        "Teorik bilgi, sporun kuralları ve ilkelerine dair zihinsel bilgi birikimidir; hareketin fiziksel uygulanışını tanımlamaz.",
+        "Uygulama genel bir eylem kavramıdır, branşa özgü hareketin ekonomik ve doğru icrasını ifade eden teknik kavramının yerini tutmaz.",
+        "Pratik, bilginin fiilen kullanılması anlamına gelen genel bir terimdir; sporun tekniğine özgü, ekonomik hareket tanımını karşılamaz."
+      ]
+    },
+    {
+      "question": "Şut atan futbolcuya karşı savunma yapan oyuncunun ne zaman, nasıl ve ne şekilde davranacağı hangi taktiğe girmektedir?",
+      "options": [
+        "Genel taktik",
+        "Özel taktik",
+        "Bireysel taktik",
+        "Kolektif taktik",
+        "Pratik taktik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bireysel taktik, bir sporcunun müsabaka içinde kendi başına, karşılaştığı somut duruma göre ne zaman, nasıl ve ne şekilde davranacağına karar vermesini ifade eder. Şut atan bir futbolcuya karşı savunma yapan oyuncunun bu anlık kararı tek başına, takım arkadaşlarıyla koordineli bir eylem olmaksızın vermesi, bireysel taktiğin tipik bir örneğidir. Bu nedenle soru bireysel taktiği tanımlamaktadır.",
+      "optionNotes": [
+        "Genel taktik, tüm spor dallarında geçerli olan ortak taktik ilkeleri kapsar; belirli bir oyuncunun anlık bireysel kararını değil, genel geçer kuralları ifade eder.",
+        "Özel taktik, bir spor branşına özgü taktik anlayışı (örn. futbolda hücum/savunma taktiği) ifade eder, tek bir oyuncunun anlık bireysel davranışını değil branşın bütününe ait yaklaşımı tanımlar.",
+        "Doğru yanıt: Tek bir oyuncunun karşılaştığı anlık duruma göre ne zaman, nasıl ve ne şekilde davranacağına kendi başına karar vermesi bireysel taktiktir.",
+        "Kolektif (takım) taktik, birden çok oyuncunun ortak ve koordineli hareketini ifade eder; sorudaki tek oyuncunun bireysel kararını açıklamaz.",
+        "Bu, taktik sınıflamasında standart bir kategori değildir ve sorudaki bireysel karar alma durumunu tanımlamaz."
+      ]
+    },
+    {
+      "question": "Yapılan spor dalına özgü olan taktiktir. Futbolda hücum ve savunma taktiği gibi. Yukarıda özellikleri verilen taktik türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel taktik",
+        "Özel taktik",
+        "Bireysel taktik",
+        "Kolektif taktik",
+        "Pratik taktik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Özel taktik, belirli bir spor dalına özgü olarak geliştirilen taktik anlayışı ifade eder. Futboldaki hücum ve savunma taktikleri gibi örnekler, o branşın kendine özgü kurallarına ve oyun mantığına bağlı olarak şekillenen taktik yaklaşımlardır. Bu nedenle soruda tanımlanan \"yapılan spor dalına özgü taktik\" özel taktiktir.",
+      "optionNotes": [
+        "Genel taktik tüm spor dallarında ortak olan temel taktik ilkelerini kapsar, belirli bir branşa özgü (örn. sadece futbola özgü) uygulamaları tanımlamaz.",
+        "Doğru yanıt: Futboldaki hücum ve savunma taktiği gibi, yapılan spor dalına özgü geliştirilen taktik türü özel taktiktir.",
+        "Bireysel taktik, tek bir sporcunun anlık kararını ifade eder; soru ise bir branşın bütününe ait genel bir taktik yaklaşımından (hücum/savunma) bahsetmektedir.",
+        "Kolektif taktik, takım oyuncularının birlikte koordineli uyguladığı taktiği ifade eder; soru burada branşa özgü taktik türünü sormaktadır, oyuncu sayısını değil.",
+        "Bu ifade taktik sınıflamasında kabul gören standart bir kategori değildir, branşa özgü taktiği tanımlamaz."
+      ]
+    },
+    {
+      "question": "Sporcunun geçmişteki müsabaka pozisyonlarını da göz önünde bulundurarak aktüel durum için “duruma özgü bellek” oluşturmaya yönelmesi kaçıncı basamak taktiğinde yer alır?",
+      "options": [
+        "1. basamak",
+        "2. basamak",
+        "3. basamak",
+        "4. basamak",
+        "5. Basamak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taktik düşünme ve karar verme süreci, sporcunun müsabaka sırasında bilgiyi algılama, analiz etme ve çözüm üretme aşamalarından oluşan basamaklı bir yapı olarak ele alınır. Sporcunun geçmiş müsabaka pozisyonlarına ait deneyimlerini kullanarak güncel duruma özgü bir \"bellek\" oluşturması, algılanan bilginin yorumlanıp anlamlandırıldığı analiz basamağına karşılık gelir ve bu sınıflamada 3. basamak olarak kabul edilir. Bu basamak, ham algılamadan sonra ancak motor çözümden önce yer alan, geçmiş deneyimlerin güncel duruma aktarıldığı aşamadır.",
+      "optionNotes": [
+        "Bu basamak genellikle müsabaka pozisyonunun ilk algılanması/fark edilmesiyle ilişkilidir, geçmiş deneyimlere dayalı bellek oluşturma sürecini henüz kapsamaz.",
+        "Bu basamakta algılanan bilginin ilk değerlendirmesi yapılır, ancak geçmiş pozisyonlara dayalı \"duruma özgü bellek\" oluşturma süreci bu aşamada tamamlanmış değildir.",
+        "Doğru yanıt: Sporcunun geçmiş müsabaka pozisyonlarını kullanarak aktüel durum için duruma özgü bellek oluşturması, bilginin analiz edilip yorumlandığı 3. basamakta gerçekleşir.",
+        "Bu basamak genellikle çözümün uygulanması veya kararın motor tepkiye dönüştürülmesiyle ilişkilidir, bellek oluşturma süreci bu aşamadan önce tamamlanmıştır.",
+        "Bu basamak sürecin sonunda yer alan uygulama/değerlendirme ile ilişkilendirilir, geçmiş deneyimlere dayalı bellek oluşturma aşamasını tanımlamaz."
+      ]
+    },
+    {
+      "question": "I. Genel II. Özel III. Bireysel IV. Kolektif Yukarıdakilerden hangileri Birinci tip taktik sınıflamasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taktik, antrenman bilimi literatüründe farklı sınıflama tiplerine göre ele alınır. Birinci tip sınıflamada taktik, uygulama kapsamına göre \"genel taktik\" ve \"özel taktik\" olmak üzere ikiye ayrılır; genel taktik tüm spor dallarında geçerli ortak ilkeleri, özel taktik ise belirli bir branşa özgü uygulamaları kapsar. Bireysel ve kolektif taktik ayrımı ise katılımcı sayısına göre yapılan farklı bir sınıflama tipinde ele alınır, bu nedenle birinci tip sınıflamaya dahil değildir.",
+      "optionNotes": [
+        "Sadece genel taktiği içerir, özel taktiği (II) dışarıda bırakarak birinci tip sınıflamanın tamamını kapsamaz.",
+        "Sadece özel taktiği içerir, genel taktiği (I) dışarıda bırakarak birinci tip sınıflamanın tamamını kapsamaz.",
+        "Doğru yanıt: Birinci tip taktik sınıflaması genel taktik ve özel taktik ayrımına dayanır, bu nedenle I ve II doğru yanıttır.",
+        "Bireysel taktik (III), katılımcı sayısına göre yapılan farklı bir sınıflama tipine ait olduğu için birinci tip sınıflamaya dahil edilmesi hatalıdır.",
+        "Bireysel (III) ve kolektif (IV) taktik, katılımcı sayısına göre yapılan ayrı bir sınıflamaya aittir; birinci tip sınıflamayı genel/özel taktik ile sınırlı tutmak gerekir."
+      ]
+    },
+    {
+      "question": "Bir müsabakada taktik davranışı gerçekleştirebilmek için gereken önemli becerilerin ve yeteneklerin sistematik olarak geliştirilmesi ve yerleştirilmesi amacıyla yapılan antrenmana ne ad verilir?",
+      "options": [
+        "Taktik anlayış",
+        "Taktik eğitim",
+        "Teorik Eğitim",
+        "Pratik-Uygulamalı Eğitim",
+        "Taktik antrenman"
+      ],
+      "correctIndex": 4,
+      "explanation": "Taktik antrenman, bir sporcunun müsabaka sırasında taktik davranışı sergileyebilmesi için gerekli olan bilgi, beceri ve yeteneklerin sistematik ve planlı biçimde geliştirilip yerleştirildiği antrenman türü olarak tanımlanır. Bu süreç yalnızca teorik bilgi aktarımını değil, bu bilgilerin pratik uygulamalarla sporcunun hareket repertuarına kalıcı olarak kazandırılmasını kapsar. Bu nedenle soruda tanımlanan kavram \"taktik antrenman\"dır.",
+      "optionNotes": [
+        "Taktik anlayış, sporcunun taktiksel durumları kavrama ve yorumlama becerisini ifade eden daha bilişsel/zihinsel bir kavramdır; sistematik antrenman sürecinin kendisini tanımlamaz.",
+        "Taktik eğitim genel bir öğretim sürecini ifade eder, ancak soruda tanımlanan sistematik ve yerleştirici antrenman süreci spesifik olarak \"taktik antrenman\" terimiyle karşılanır.",
+        "Teorik eğitim sadece bilgi aktarımına odaklanır, becerilerin sistematik geliştirilip yerleştirilmesini kapsayan pratik antrenman sürecini ifade etmez.",
+        "Bu ifade sadece uygulama boyutuna işaret eder, taktik davranışın bütünsel ve sistematik gelişimini kapsayan antrenman sürecinin tam tanımı değildir.",
+        "Doğru yanıt: Müsabaka için gereken taktik beceri ve yeteneklerin sistematik olarak geliştirilip yerleştirilmesi amacıyla yapılan antrenman, taktik antrenman olarak tanımlanır."
+      ]
+    },
+    {
+      "question": "I. Temel antrenman dönemi II. Gelişim antrenman dönemi III. Üst düzey antrenman dönemi Yukarıdakilerden hangileri Uzun süreli antrenman aşamaları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Uzun süreli antrenman süreci, sporcunun gelişim düzeyine göre sırayla temel antrenman dönemi, gelişim antrenman dönemi ve üst düzey antrenman dönemi olmak üzere üç ana aşamaya ayrılır. Temel dönemde genel motor ve kondisyonel temeller oluşturulurken, gelişim döneminde branşa özgü teknik-taktik ve kondisyonel gelişim derinleştirilir; üst düzey dönemde ise performans yarışma koşullarında mükemmelleştirilir. Bu üç dönem birbirini tamamlayan zorunlu aşamalardır, bu nedenle I, II ve III'ün tümü doğrudur.",
+      "optionNotes": [
+        "Sadece temel antrenman dönemini içerir, gelişim ve üst düzey dönemlerini dışarıda bırakarak uzun süreli antrenman sürecinin tamamını yansıtmaz.",
+        "Üst düzey antrenman dönemini (III) dışladığı için uzun süreli antrenman aşamalarının tümünü kapsamaz.",
+        "Gelişim antrenman dönemini (II) atladığı için aşamalar arasındaki ara geçiş evresini göz ardı eder ve eksik bir sıralama sunar.",
+        "Temel antrenman dönemini (I) dışarıda bırakır, oysa sporcu gelişiminin temelini oluşturan bu ilk aşama uzun süreli antrenmanın başlangıç basamağıdır.",
+        "Doğru yanıt: Uzun süreli antrenman süreci temel, gelişim ve üst düzey antrenman dönemlerinin üçünü de kapsar."
+      ]
+    },
+    {
+      "question": "Kişinin teknik bir modeli bireysel olarak ortaya koyma biçimi olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "Sportif teknik",
+        "Taktik",
+        "Stil",
+        "Fizik",
+        "Model"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spor biliminde \"stil\", bir sporcunun genel geçer teknik modeli kendi bireysel fiziksel ve kişisel özelliklerine göre uygulamaya aktarma biçimi olarak tanımlanır. Teknik model herkes için ortak bir referans çerçevesi sunarken, stil bu modelin sporcudan sporcuya farklılaşan bireysel uygulanış şeklini ifade eder. Bu nedenle soruda tanımlanan \"bireysel ortaya koyma biçimi\" kavramı stildir.",
+      "optionNotes": [
+        "Sportif teknik, branşa özgü hareketin genel ve ortak (standart) uygulama modelini ifade eder; bireysel farklılaşmayı değil ortak referans çerçevesini tanımlar.",
+        "Taktik, müsabaka sırasında alınan karar ve davranışlarla ilgilidir; bireyin bir teknik modeli kendine özgü uygulama biçimiyle ilgisi yoktur.",
+        "Doğru yanıt: Bir teknik modelin sporcu tarafından bireysel olarak ortaya konma biçimi stil olarak tanımlanır.",
+        "Fizik, sporcunun bedensel/antropometrik yapısını ifade eden bir kavramdır, tekniğin bireysel uygulanış biçimini tanımlayan bir terim değildir.",
+        "Model, tekniğin ortak ve ideal (standart) biçimini ifade eder; bireysel farklılaşmayı değil, herkes için geçerli referans yapıyı tanımlar."
+      ]
+    },
+    {
+      "question": "I. Bireysel Taktik II. Grup Taktiği III. Takım Taktiği Yukarıdakilerden hangileri Üçüncü tip taktik sınıflamasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Taktik, katılımcı sayısına göre yapılan üçüncü tip sınıflamada bireysel taktik, grup taktiği ve takım taktiği olmak üzere üçe ayrılır. Bireysel taktik tek sporcunun, grup taktiği birden fazla ama tüm takımdan az sayıda oyuncunun, takım taktiği ise tüm takımın koordineli olarak uyguladığı taktiksel davranışları ifade eder. Bu üç kategori birlikte üçüncü tip taktik sınıflamasını oluşturur, bu nedenle I, II ve III'ün tümü doğrudur.",
+      "optionNotes": [
+        "Sadece bireysel taktiği içerir, grup ve takım taktiğini dışarıda bırakarak üçüncü tip sınıflamanın tamamını kapsamaz.",
+        "Takım taktiğini (III) dışladığı için üçüncü tip taktik sınıflamasının tüm kategorilerini kapsamaz.",
+        "Grup taktiğini (II) atladığı için bireysel ile takım arasındaki ara kategoriyi göz ardı eder.",
+        "Bireysel taktiği (I) dışarıda bırakır, oysa katılımcı sayısına göre sınıflamada en küçük birim olan bireysel taktik de bu sınıflamanın bir parçasıdır.",
+        "Doğru yanıt: Üçüncü tip taktik sınıflaması bireysel taktik, grup taktiği ve takım taktiğinin üçünü birden kapsar."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi taktik uygulama aşamasında 1. Sırada yer alır?",
+      "options": [
+        "Müsabaka pozisyonunu algılamak ve analiz etmek",
+        "Düşünce olarak çözümü bulmak",
+        "Taktik görevin motorik çözümünü gerçekleştirmek",
+        "Bir konuya yoğunlaşabilme",
+        "Pozisyonun gelişimini önceden sezme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Taktik uygulama süreci, sporcunun önce müsabaka içindeki durumu fark etmesiyle başlar. Bu nedenle sürecin ilk adımı, müsabaka pozisyonunun algılanması ve analiz edilmesidir; sporcu ancak bu bilgiyi elde ettikten sonra zihinsel çözüm üretme ve bunu motor olarak uygulama aşamalarına geçebilir. Dolayısıyla taktik uygulamada ilk sırada yer alan adım \"müsabaka pozisyonunu algılamak ve analiz etmek\"tir.",
+      "optionNotes": [
+        "Doğru yanıt: Taktik uygulama sürecinin ilk adımı, mevcut müsabaka durumunun fark edilip analiz edilmesidir; sonraki tüm adımlar bu bilgiye dayanır.",
+        "Bu adım, pozisyon algılanıp analiz edildikten sonra gelen ikinci aşamadır; algılama olmadan bir çözüm üretilemez.",
+        "Bu, sürecin son aşamasıdır; algılama, analiz ve zihinsel çözüm bulma tamamlanmadan motor uygulamaya geçilemez.",
+        "Yoğunlaşma, taktik sürecin genelinde gereken bir ön koşul/destekleyici yetenektir, ancak sıralı uygulama aşamalarının birinci somut adımı değildir.",
+        "Önceden sezme (anticipasyon), ileri düzey bir beceri olup algılama ve analiz basamağından sonra gelişen bir süreçtir, ilk adım değildir."
+      ]
+    },
+    {
+      "question": "I. Kendi kendine konuşma antrenmanı II. Gizli algı antrenmanı III. Kendini hayal etme antrenmanı Yukarıdakilerden hangileri Zihinsel Antrenman yöntemleri arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Zihinsel (psikolojik) antrenman yöntemleri arasında kendi kendine konuşma antrenmanı, gizli algı antrenmanı ve kendini hayal etme antrenmanı sayılır. Bu yöntemlerin her biri, sporcunun hareketi zihinsel olarak prova etmesini farklı bir şekilde (kendisiyle konuşarak, bir modeli izleyerek/algılayarak veya kendi performansını hayal ederek) sağlar. Üçü de literatürde kabul görmüş zihinsel antrenman teknikleri olduğundan I, II ve III'ün tümü doğrudur.",
+      "optionNotes": [
+        "Sadece kendi kendine konuşma antrenmanını içerir, gizli algı ve kendini hayal etme antrenmanlarını dışarıda bırakarak eksik bir listedir.",
+        "Kendini hayal etme antrenmanını (III) dışladığı için zihinsel antrenman yöntemlerinin tümünü kapsamaz.",
+        "Gizli algı antrenmanını (II) atladığı için literatürde kabul edilen üç temel yöntemden birini göz ardı eder.",
+        "Kendi kendine konuşma antrenmanını (I) dışarıda bırakır, oysa bu da yaygın kabul gören bir zihinsel antrenman yöntemidir.",
+        "Doğru yanıt: Kendi kendine konuşma, gizli algı ve kendini hayal etme antrenmanlarının üçü de zihinsel antrenman yöntemleri arasında yer alır."
+      ]
+    },
+    {
+      "question": "Sporcunun, idealize ettiği bir sporcuyu belli bir hareketi yaparken zihninde canlandırması ve hayal etmesi hangi zihinsel antrenman yöntemine girmektedir?",
+      "options": [
+        "Kendi kendine konuşma antrenmanı",
+        "Gizli algı antrenmanı",
+        "Kendini hayal etme antrenmanı",
+        "İmgeleme – ideomotor antrenmanı",
+        "Zihinsel – Psikolojik antrenman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gizli algı antrenmanı, sporcunun idealize ettiği (örnek aldığı) bir sporcuyu belirli bir hareketi yaparken zihninde canlandırması ve bu modeli algılayarak öğrenmeye çalışmasıdır. Bu yöntemde sporcunun kendisi değil, dışarıdan bir model gözlemlenip zihinsel olarak canlandırılır; bu, onu kendi performansını hayal ettiği \"kendini hayal etme antrenmanı\"ndan ayıran temel farktır. Bu nedenle soruda tanımlanan yöntem gizli algı antrenmanıdır.",
+      "optionNotes": [
+        "Bu yöntem sporcunun hareketle ilgili kendi kendisiyle zihinsel olarak konuşmasını içerir, başka bir sporcuyu zihninde canlandırmayı kapsamaz.",
+        "Doğru yanıt: İdealize edilen bir sporcunun hareketinin zihinde canlandırılarak algılanması, gizli algı antrenmanının tanımıdır.",
+        "Bu yöntemde sporcu kendi hareketini hayal eder; soruda ise başka (idealize edilmiş) bir sporcu canlandırılmaktadır, bu nedenle uygun seçenek değildir.",
+        "Bu terim genel imgeleme kavramını ifade eder, ancak soruda özel olarak başka bir sporcunun model alınarak canlandırılması tanımlanmıştır, bu da spesifik olarak gizli algı antrenmanı kategorisine girer.",
+        "Bu, tüm zihinsel yöntemleri kapsayan genel bir üst kategoridir; soruda tanımlanan spesifik tekniği (başka sporcuyu canlandırma) ayırt etmez."
+      ]
+    },
+    {
+      "question": "Sportif tekniğin otomatik hâle getirildiği teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Üst düzey antrenman safhası",
+        "Sağlamlaştırma ve pekiştirme safhası",
+        "Kaba koordinasyon safhası"
+      ],
+      "correctIndex": 3,
+      "explanation": "Teknik öğrenim sürecinin son aşaması olan sağlamlaştırma ve pekiştirme safhasında, önceki aşamalarda öğrenilen hareket kalıpları tekrarlar yoluyla otomatik hale getirilir. Bu safhada sporcu, tekniği bilinçli bir çaba göstermeden, değişen koşullar altında da stabil biçimde uygulayabilir hale gelir. Bu nedenle sportif tekniğin otomatikleştiği safha, sağlamlaştırma ve pekiştirme safhasıdır.",
+      "optionNotes": [
+        "Bu, öğrenim sürecinin ilk aşamasıdır; burada hareket henüz tanınıp genel hatlarıyla anlaşılmaya çalışılır, otomasyon bu aşamada gerçekleşmez.",
+        "Bu safhada hareketin ayrıntıları bilinçli olarak düzeltilip hassaslaştırılır; otomatikleşme henüz tamamlanmamıştır, süreç hâlâ bilinçli kontrol gerektirir.",
+        "Bu, teknik öğrenim safhalarından biri değil, uzun süreli antrenman dönemlerinden biridir; terminolojik olarak farklı bir sınıflamaya aittir.",
+        "Doğru yanıt: Bu safhada teknik, tekrarlar yoluyla otomatik hale getirilir ve bilinçli kontrol ihtiyacı en aza iner.",
+        "Bu safhada hareketin genel/kaba yapısı oluşturulur, hareket henüz otomatikleşmemiştir ve çok sayıda hata içerir."
+      ]
+    },
+    {
+      "question": "Kondisyon düzeltilir ve geliştirilir. Teknik ve taktik yanında zihinsel ve psikolojik gelişime yer verilir. Yukarıda özellikleri verilen Uzun süreli antrenman aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel antrenman dönemi",
+        "Gelişim antrenman dönemi",
+        "Üst düzey antrenman dönemi",
+        "Genel Fiziksel Antrenman Dönemi",
+        "Özel fiziksel Antrenman Dönemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gelişim antrenman dönemi, temel antrenman döneminde kazanılan genel alt yapının üzerine inşa edilerek kondisyonel yeteneklerin düzeltilip geliştirildiği, teknik ve taktik gelişimin yanı sıra zihinsel/psikolojik gelişime de önem verildiği bir aşamadır. Bu dönem, sporcunun üst düzey performansa hazırlanma sürecinde branşa özgü yükün ve karmaşıklığın artırıldığı ara aşamadır. Bu nedenle soruda tanımlanan özellikler gelişim antrenman dönemine aittir.",
+      "optionNotes": [
+        "Bu dönemde amaç genel ve çok yönlü temel beceriler oluşturmaktır; kondisyonun ileri düzeyde düzeltilip geliştirilmesi ve zihinsel-psikolojik gelişime özel önem verilmesi bu erken aşamanın değil, sonraki aşamanın özelliğidir.",
+        "Doğru yanıt: Kondisyonun düzeltilip geliştirildiği, teknik-taktik yanında zihinsel-psikolojik gelişime de yer verildiği dönem, gelişim antrenman dönemidir.",
+        "Bu dönemde kondisyon zaten mükemmelleştirilmiş durumdadır ve çalışmalar yarışma koşullarında uygulanır; soruda anlatılan \"düzeltme ve geliştirme\" ifadesi daha önceki bir aşamayı tanımlar.",
+        "Bu, uzun süreli antrenmanın resmi üç ana döneminden biri değildir; soruda tanımlanan kapsamlı teknik-taktik-zihinsel gelişim bu sınırlı kategoriyle örtüşmez.",
+        "Bu da standart üç dönemden biri değildir ve sadece fiziksel boyuta odaklanan bir ifadedir; soru ise teknik, taktik ve zihinsel gelişimi birlikte içeren kapsamlı bir dönemi tanımlamaktadır."
+      ]
+    },
+    {
+      "question": "I. Bütünden parçaya II. Parçadan bütüne III. Bilinenden bilinmeyene IV. Kolaydan zora, basitten karmaşığa Yukarıdakilerden hangileri Taktik eğitim gelişiminde uygulanan yöntemler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "I –II – III",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "Taktik eğitiminin geliştirilmesinde bütünden parçaya, parçadan bütüne, bilinenden bilinmeyene ve kolaydan zora/basitten karmaşığa doğru ilerleme gibi birbirini tamamlayan öğretim yöntemleri kullanılır. Bu yöntemler, öğretilecek taktiksel içeriğin karmaşıklığına ve sporcunun gelişim düzeyine göre seçilerek bir arada uygulanabilir. Bu nedenle I, II, III ve IV'ün tümü taktik eğitim gelişiminde kullanılan yöntemler arasında yer alır.",
+      "optionNotes": [
+        "Sadece bütünden parçaya yöntemini içerir, diğer üç yöntemi (parçadan bütüne, bilinenden bilinmeyene, kolaydan zora) dışarıda bırakarak eksik bir listedir.",
+        "Sadece parçadan bütüne yöntemini içerir, taktik eğitiminde kullanılan diğer yöntemleri göz ardı eder.",
+        "Bilinenden bilinmeyene ve kolaydan zora ilkelerini (III, IV) dışladığı için taktik eğitim yöntemlerinin tamamını kapsamaz.",
+        "Kolaydan zora, basitten karmaşığa ilkesini (IV) dışarıda bırakır; oysa bu da taktik öğretiminde yaygın kullanılan temel bir yöntemdir.",
+        "Doğru yanıt: Bütünden parçaya, parçadan bütüne, bilinenden bilinmeyene ve kolaydan zora/basitten karmaşığa ilkelerinin dördü de taktik eğitim gelişiminde uygulanan yöntemlerdir."
+      ]
+    },
+    {
+      "question": "Sporcunun belli bir hareketin nasıl yapılması gerektiğini zihinsel olarak kendisiyle konuşması, hangi zihinsel antrenman yöntemine girmektedir?",
+      "options": [
+        "Kendi kendine konuşma antrenmanı",
+        "Gizli algı antrenmanı",
+        "Kendini hayal etme antrenmanı",
+        "İmgeleme – ideomotor antrenmanı",
+        "Zihinsel – Psikolojik antrenman"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kendi kendine konuşma antrenmanı, sporcunun belirli bir hareketin nasıl yapılması gerektiğini zihinsel olarak kendi kendisiyle konuşarak (iç konuşma yoluyla) pekiştirmesini ifade eder. Bu yöntemde dışarıdan bir model izlenmez veya canlandırılmaz; sporcu doğrudan kendi zihinsel diyaloğu üzerinden hareketi yönlendirir. Bu nedenle soruda tanımlanan yöntem kendi kendine konuşma antrenmanıdır.",
+      "optionNotes": [
+        "Doğru yanıt: Hareketin nasıl yapılması gerektiğini zihinsel olarak kendisiyle konuşarak pekiştirme, kendi kendine konuşma antrenmanının tanımıdır.",
+        "Bu yöntem başka (idealize edilmiş) bir sporcunun hareketinin zihinde canlandırılıp algılanmasını içerir, kendi kendine iç konuşmayı değil bir modelin gözlemlenmesini ifade eder.",
+        "Bu yöntemde sporcu kendi hareketini görsel olarak hayal eder; soruda tanımlanan ise sözel/zihinsel bir konuşma (iç ses) sürecidir, görsel hayal etme değildir.",
+        "Bu terim daha genel bir görsel/duyusal canlandırma sürecini ifade eder, soruda tanımlanan özel olarak sözel iç konuşma biçimini karşılamaz.",
+        "Bu, tüm zihinsel antrenman türlerini kapsayan genel bir üst kategoridir, soruda tanımlanan spesifik iç konuşma tekniğini ayırt etmez."
+      ]
+    },
+    {
+      "question": "Sporcuya hareketin bütünlüğü içerisinde hareketin ana safhaları öğretilmeye çalışıldığı teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Üst düzey antrenman safhası",
+        "Kaba koordinasyon safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Sağlamlaştırma ve pekiştirme safhası"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kaba koordinasyon safhasında sporcuya hareketin bütünlüğü içinde ana safhaları (temel hareket akışı) öğretilmeye çalışılır; bu aşamada hareket henüz ayrıntılı biçimde değil, genel/kaba bir çerçevede kazandırılır. Hareketin ince detayları ve pekiştirilmesi sonraki safhalara bırakılır. Bu nedenle soruda tanımlanan özellik kaba koordinasyon safhasına aittir.",
+      "optionNotes": [
+        "Bu daha önceki bir aşamadır; burada hareketin sadece genel amacı tanınıp anlaşılmaya çalışılır, hareketin ana safhalarının bütünlük içinde öğretilmesi henüz bu aşamada gerçekleşmez.",
+        "Bu bir teknik öğrenim safhası değil, uzun süreli antrenman dönemlerinden biridir; terminolojik olarak farklı bir sınıflamaya aittir.",
+        "Doğru yanıt: Hareketin bütünlüğü içinde ana safhalarının öğretilmeye çalışıldığı aşama, kaba koordinasyon safhasıdır.",
+        "Bu safhada hareketin ana yapısı değil, ayrıntıları ve ince detayları üzerinde çalışılır; soruda tanımlanan \"ana safhaların bütünlük içinde öğretilmesi\" ise daha önceki bir aşamayı ifade eder.",
+        "Bu son aşamada hareket zaten otomatikleştirilmiştir; soruda tanımlanan \"ana safhaların öğretilmeye çalışılması\" ise öğrenim sürecinin daha başındaki bir aşamayı ifade eder."
+      ]
+    },
+    {
+      "question": "I. Çok Yönlü Teknik Eğitim II. Genel Teknik Eğitimi III. Özel Teknik Eğitim Yukarıdakilerden hangileri tekniğin eğitim aşamaları arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Tekniğin eğitim aşamaları, sporcunun gelişim sürecine paralel olarak çok yönlü teknik eğitim, genel teknik eğitim ve özel teknik eğitim olmak üzere üç basamakta ele alınır. Çok yönlü teknik eğitimde geniş bir hareket dağarcığı kazandırılırken, genel teknik eğitimde branşın temel teknikleri, özel teknik eğitimde ise branşa özgü ileri düzey teknikler geliştirilir. Bu üç aşama birbirini tamamladığından I, II ve III'ün tümü doğrudur.",
+      "optionNotes": [
+        "Sadece çok yönlü teknik eğitimi içerir, genel ve özel teknik eğitim aşamalarını dışarıda bırakarak eksik bir sıralamadır.",
+        "Özel teknik eğitimi (III) dışladığı için tekniğin eğitim aşamalarının tamamını kapsamaz.",
+        "Genel teknik eğitimi (II) atladığı için çok yönlü eğitim ile özel eğitim arasındaki ara basamağı göz ardı eder.",
+        "Çok yönlü teknik eğitimi (I) dışarıda bırakır, oysa bu, tekniğin eğitiminde temel alt yapıyı oluşturan ilk basamaktır.",
+        "Doğru yanıt: Çok yönlü teknik eğitim, genel teknik eğitim ve özel teknik eğitimin üçü de tekniğin eğitim aşamaları arasında yer alır."
+      ]
+    },
+    {
+      "question": "Sporcunun, belli bir hareketi kendisinin nasıl uyguladığını ve uygulaması gerektiğini hayâl etmesi hangi zihinsel antrenman yöntemine girmektedir?",
+      "options": [
+        "Kendi kendine konuşma antrenmanı",
+        "Gizli algı antrenmanı",
+        "Kendini hayal etme antrenmanı",
+        "Zihinsel – Psikolojik antrenman",
+        "Fiziksel Antrenman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kendini hayal etme antrenmanı, sporcunun belirli bir hareketi kendisinin nasıl uyguladığını ve nasıl uygulaması gerektiğini zihninde canlandırmasını ifade eder. Bu yöntemde odak nokta sporcunun kendi performansıdır; dışarıdan bir modelin gözlemlenmesi (gizli algı antrenmanı) veya sözel iç konuşma (kendi kendine konuşma antrenmanı) ile karıştırılmamalıdır. Bu nedenle soruda tanımlanan yöntem kendini hayal etme antrenmanıdır.",
+      "optionNotes": [
+        "Bu yöntem sözel/zihinsel iç konuşmaya dayanır; soruda tanımlanan ise görsel olarak kendi hareketini hayal etme sürecidir, sözel konuşma değildir.",
+        "Bu yöntemde idealize edilen başka bir sporcu zihinde canlandırılır; soruda ise sporcunun kendi hareketini hayal etmesi anlatılmaktadır, bu farkla ayırt edilir.",
+        "Doğru yanıt: Sporcunun kendi hareketini nasıl uyguladığını/uygulaması gerektiğini zihninde canlandırması, kendini hayal etme antrenmanının tanımıdır.",
+        "Bu, tüm zihinsel yöntemleri kapsayan genel bir üst kategoridir; soruda tanımlanan spesifik tekniği (kendi hareketini hayal etme) ayırt etmez.",
+        "Fiziksel antrenman, bedensel/kondisyonel yetenekleri geliştiren somut uygulamalı çalışmaları ifade eder; zihinsel canlandırma sürecini kapsamaz."
+      ]
+    },
+    {
+      "question": "Hareketin bütün olarak tanımlandığı ve algılamalar yoluyla öğrenim yapıldığı teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Üst düzey antrenman safhası",
+        "Kaba koordinasyon safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Sağlamlaştırma ve pekiştirme safhası"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teknik öğrenim sürecinin ilk safhası olan amaca yönelik tanıma ve anlama safhasında, sporcuya hareket bir bütün olarak tanıtılır ve öğrenme büyük ölçüde görsel/duyusal algılamalar yoluyla gerçekleşir. Bu aşamada sporcu, hareketin genel amacını ve temel yapısını kavramaya çalışır; ayrıntılı koordinasyon ve otomasyon bu safhada henüz söz konusu değildir. Bu nedenle soruda tanımlanan özellik bu ilk safhaya aittir.",
+      "optionNotes": [
+        "Doğru yanıt: Hareketin bütün olarak tanımlanıp algılamalar yoluyla öğrenilmeye başlandığı ilk aşama, amaca yönelik tanıma ve anlama safhasıdır.",
+        "Bu bir teknik öğrenim safhası değil, uzun süreli antrenman dönemlerinden biridir; soruda tanımlanan ilk algılama sürecini ifade etmez.",
+        "Bu safhada hareketin ana safhaları bütünlük içinde öğretilmeye başlanır, ancak soruda tanımlanan \"sadece algılama yoluyla bütün olarak tanımlama\" daha önceki bir aşamayı ifade eder.",
+        "Bu safhada hareketin ayrıntıları bilinçli olarak işlenir; soru ise hareketin henüz bütün olarak algılandığı en başlangıç aşamasını tanımlamaktadır.",
+        "Bu, öğrenim sürecinin son ve otomasyon aşamasıdır; soruda tanımlanan ilk algılama ve tanıma süreciyle ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Bilerek ve ayrıntıları çözüme ulaştıracak şekilde teknik uygulamaların söz konusu olduğu teknik öğrenim safhası aşağıdakilerden hangisidir?",
+      "options": [
+        "Amaca yönelik tanıma ve anlama safhası",
+        "Ayrıntılı ve ince koordinasyon safhası",
+        "Üst düzey antrenman safhası",
+        "Kaba koordinasyon safhası",
+        "Sağlamlaştırma ve pekiştirme safhası"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ayrıntılı ve ince koordinasyon safhasında sporcu, hareketi artık bilinçli bir şekilde ve ayrıntıları çözüme ulaştıracak biçimde uygulamaya çalışır. Bu aşamada kaba koordinasyon safhasında kazanılan genel hareket yapısı üzerinde ince düzeltmeler yapılır ve hareketin hassasiyeti artırılır. Bu nedenle soruda tanımlanan özellik ayrıntılı ve ince koordinasyon safhasına aittir.",
+      "optionNotes": [
+        "Bu ilk aşamada hareket henüz genel hatlarıyla tanınır; ayrıntılara bilinçli şekilde odaklanma ve ince düzeltmeler bu aşamada henüz gerçekleşmez.",
+        "Doğru yanıt: Hareketin ayrıntılarının bilinçli olarak çözüme ulaştırıldığı teknik uygulamalar, bu safhada gerçekleşir.",
+        "Bu bir teknik öğrenim safhası değil, uzun süreli antrenman dönemlerinden biridir; ayrıntılı koordinasyon sürecini tanımlamaz.",
+        "Bu safhada hareketin genel/kaba yapısı oluşturulur; ayrıntıların bilinçli olarak çözüme ulaştırılması ise bir sonraki, daha ileri aşamada gerçekleşir.",
+        "Bu son aşamada hareket zaten otomatikleşmiştir ve bilinçli ayrıntı çözümüne ihtiyaç azalmıştır; soru ise bilinçli ayrıntı çalışmasının yoğun olduğu aşamayı tanımlamaktadır."
+      ]
+    },
+    {
+      "question": "Branşa özgü kondisyon mükemmelleştirilir. Teknik ve taktik gelişim yarışma koşullarında uygulanır. Yukarıda özellikleri verilen Uzun süreli antrenman aşaması aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel antrenman dönemi",
+        "Gelişim antrenman dönemi",
+        "Üst düzey antrenman dönemi",
+        "Genel Fiziksel Antrenman Dönemi",
+        "Özel fiziksel Antrenman Dönemi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Üst düzey antrenman döneminde, branşa özgü kondisyonel yetenekler mükemmelleştirilir ve teknik-taktik gelişim doğrudan yarışma koşullarında uygulanarak sınanır. Bu dönem, uzun süreli antrenman sürecinin son ve en ileri aşamasıdır; önceki dönemlerde (temel ve gelişim) kazanılan alt yapı burada performansa dönüştürülür. Bu nedenle soruda tanımlanan özellikler üst düzey antrenman dönemine aittir.",
+      "optionNotes": [
+        "Bu dönemde amaç genel ve çok yönlü temel yetenekleri oluşturmaktır; kondisyonun mükemmelleştirilmesi ve yarışma koşullarında uygulama bu erken aşamanın değil, sürecin son aşamasının özelliğidir.",
+        "Bu dönemde kondisyon henüz düzeltilip geliştirilme aşamasındadır; soruda tanımlanan \"mükemmelleştirme\" ve \"yarışma koşullarında uygulama\" ise daha ileri bir aşamayı ifade eder.",
+        "Doğru yanıt: Branşa özgü kondisyonun mükemmelleştirildiği ve teknik-taktik gelişimin yarışma koşullarında uygulandığı dönem, üst düzey antrenman dönemidir.",
+        "Bu, uzun süreli antrenmanın resmi üç ana döneminden biri değildir; soruda tanımlanan kapsamlı mükemmelleştirme ve yarışma uygulaması bu sınırlı kategoriyle örtüşmez.",
+        "Bu da standart üç dönemden biri değildir; soru sadece fiziksel boyutu değil, teknik ve taktiğin yarışma koşullarında bütünleşik gelişimini tanımlamaktadır."
+      ]
+    },
+    {
+      "question": "I. Araştırmak II. Gizlemek III. Duruma uygun davranış uygulaması Yukarıdakilerden hangileri Brath'ın taktik eğitiminde yer alan yöntemsel temel ilkelerdendir?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "I – III",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Taktik eğitiminde benimsenen yöntemsel temel ilkeler arasında durumu araştırmak (keşfetmek), niyeti/çözümü rakipten gizlemek ve duruma uygun davranışı doğru zamanda uygulamak sayılır. Bu üç unsur, sporcunun müsabaka içinde etkili taktiksel davranış sergilemesi için birbirini tamamlayan temel ilkelerdir. Bu nedenle I, II ve III'ün tümü bu yöntemsel ilkeler arasında yer alır.",
+      "optionNotes": [
+        "Sadece araştırmayı içerir, gizleme ve duruma uygun davranış uygulaması ilkelerini dışarıda bırakarak eksik bir listedir.",
+        "Duruma uygun davranış uygulaması ilkesini (III) dışladığı için yöntemsel temel ilkelerin tamamını kapsamaz.",
+        "Gizlemek ilkesini (II) atladığı için taktik eğitiminde rakibe karşı niyetin gizlenmesi gibi önemli bir ilkeyi göz ardı eder.",
+        "Araştırmak ilkesini (I) dışarıda bırakır, oysa durumu keşfetme/araştırma da taktik eğitiminin temel bir bileşenidir.",
+        "Doğru yanıt: Araştırmak, gizlemek ve duruma uygun davranış uygulaması ilkelerinin üçü de taktik eğitiminde yer alan yöntemsel temel ilkelerdendir."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Taktik Antrenmanın Metodik İlkeleriyle ilgili yanlış bir bilgidir?",
+      "options": [
+        "Taktik eğitim, teori ve uygulama bütünleşmelidir",
+        "Teknik ve taktik eğitim paralel olarak geliştirilmelidir",
+        "Taktik çalışmalarda öncelikle varyasyonlar ve alternatif uygulamalar çalışılır",
+        "Görsel yeteneğin gelişimi taktik uygulama yeteneğinin gelişimi üzerinde çok etkilidir",
+        "Taktik anlayış zorlaştırılmış iç ve dış faktörler altında geliştirilse istenilen taktik olgunluğa erişmek daha kolay olacaktır."
+      ],
+      "correctIndex": 2,
+      "explanation": "Taktik antrenmanın metodik ilkelerine göre taktik çalışmalara önce standart/temel çözümlerle başlanır, sporcu bu temel taktiksel davranışı güvenle uyguladıktan sonra varyasyonlara ve alternatif uygulamalara geçilir. \"Taktik çalışmalarda öncelikle varyasyonlar ve alternatif uygulamalar çalışılır\" ifadesi bu ilkeye aykırıdır; çünkü doğru yöntem basitten karmaşığa ilerlemeyi gerektirir ve varyasyonlar temel çözüm öğrenildikten sonra devreye girer. Bu nedenle bu seçenek, taktik antrenmanın metodik ilkeleriyle ilgili yanlış bilgidir.",
+      "optionNotes": [
+        "Bu doğru bir metodik ilkedir; taktik eğitimde teorik bilgi ile pratik uygulamanın birlikte yürütülmesi gerektiği kabul edilir, dolayısıyla \"yanlış bilgi\" aranan bu soruda cevap olamaz.",
+        "Bu da doğru bir ilkedir; teknik ve taktik birbirinden bağımsız değil, eş zamanlı ve birbirini besleyen şekilde geliştirilmelidir, bu nedenle yanlış bilgi olarak işaretlenemez.",
+        "Doğru yanıt: Metodik ilkeye göre önce temel/standart taktiksel çözüm öğretilir, varyasyon ve alternatif uygulamalar daha sonra çalışılır; bu seçenek sırayı tersine çevirdiği için yanlış bilgidir.",
+        "Bu doğru bir ilkedir; sporcunun müsabaka içindeki durumları doğru algılayabilmesi görsel algı yeteneğine bağlıdır, bu nedenle yanlış bilgi olarak işaretlenemez.",
+        "Bu da kabul edilen doğru bir ilkedir; zorlaştırılmış koşullar altında antrenman yapmak taktiksel olgunluğu hızlandırır, bu nedenle yanlış bilgi olarak işaretlenemez."
+      ]
+    }
+  ]
+}

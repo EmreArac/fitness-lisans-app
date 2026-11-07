@@ -1,0 +1,249 @@
+{
+  "course": "ogrenme1",
+  "unit_index": 1,
+  "topic": "Antrenörlük Mesleğine Giriş",
+  "questions": [
+    {
+      "question": "Aşağıdakilerden hangisi spor ortamlarında yer alan ilişkiler örüntüsünden biri değildir?",
+      "options": [
+        "Antrenör",
+        "Sporcu",
+        "Hakem",
+        "Antrenman etkinlikleri",
+        "Veliler"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "19. yüzyılda alt zümrelere ait sporları(örneğin boks, yürüyüş gibi) öğreten kişilere ne ad verilirdi?",
+      "options": [
+        "Coaching",
+        "Character",
+        "Caring",
+        "Competence",
+        "Trainer"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "I. Boks II. Yürüyüş III. Kürek IV. Kriket Yukarıda verilenlerden hangileri 19. Yüzyılda üst zümre tarafından yapılan sporlar arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "I – II",
+        "II – III – IV",
+        "III – IV",
+        "I - II – III – IV"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Aşağıdakilerden hangisi Sporcuların bütünsel gelişimine yönelik amaçlarından biri değildir?",
+      "options": [
+        "Yetkinlik",
+        "Özgüven",
+        "Gönüllülük",
+        "Bağ kurma",
+        "Karakter"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Aynı yıl doğumlu akran grupları içerisinde ayca büyük olan çocukların diğerlerine karşı sağladığı avantaj olarak tanımlanan kavrama ne ad verilir?",
+      "options": [
+        "Bağıl yaş etkisi",
+        "Katılım sporu ortamı",
+        "Performans sporu ortamı",
+        "Performans sporcusu",
+        "Takvim yaş etkisi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "I. Yetişkinler II. Ergenler III. Çocuklar Yukarıda verilen süreçlerinden hangileri ‘katılım sporu ortamı’ kapsamında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Sporcunun yaptığı spordaki tekniktaktik becerilere, performans gelişimine, sağlıklı ve iyi bir spora özgü fiziksel uygunluğa sahip olma durumuna ne ad verilir?",
+      "options": [
+        "Özgüven",
+        "Bağ kurma",
+        "Yetkinlik",
+        "Karakter",
+        "Umursama – umursanma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Yönetici II. Antrenör III. Sporcu IV. Ebeveynler Yukarıda verilenlerden hangileri spor ortamlarının temel paydaşları arasında yer alır?",
+      "options": [
+        "I",
+        "I – II",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Ergenlik dönemini tamamlamış bireylerden oluşur. Amaç katılım spor ortamının önceki dönemlerindeki kazanımlarını korumak ve geliştirmektir. Yukarıda özellikleri verilen Katılım sporu bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Çocuklar",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Önceleri eğitim alanında bir kişiyi yetiştiren, ona bir şeyi öğreten özel öğretmen anlamına gelen “…………” kelimesi, 19. yüzyılda sanayileşme ve şehirleşmenin gelişimi ile Antrenörlük mesleğini tanımlamaya başlamıştır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Coaching",
+        "Trainer",
+        "Character",
+        "Caring",
+        "Competence"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Spor ortamının en temel paydaşları aşağıdakilerden hangisidir?",
+      "options": [
+        "Antrenör – Sporcu",
+        "Antrenör – Ebeveynler",
+        "Antrenör – Yönetici",
+        "Sporcu – Ebeveynler",
+        "Sporcu – Yönetici"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cesaretlendirme yoluyla bir sporcuyu, ulaşması istenilen hedeflere ulaşmasında ve spor ortamındaki diğer bireylerin yapıcı bir şekilde desteklemelerine yardımcı olan strateji aşağıdakilerden hangisidir?",
+      "options": [
+        "Sporcular ile etkili iletişim kurma",
+        "İlgi / Samimiyet",
+        "Ulaşılabilir olma",
+        "Pozitif destek",
+        "Güven"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "…………...çocukların spora katılımına yönelik düşünceleri ve davranışları, çocukların psikolojik ve davranışsal kazanımları ile doğrudan etkilidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Yönetici",
+        "Antrenör",
+        "Ebeveynler",
+        "Sporcu",
+        "Hakem"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "I. Yüksek performans sporcusu II. Performans sporcusu III. Gelişmekte olan sporcu Yukarıda verilen süreçlerinden hangileri ‘performans sporu ortamı’ kapsamında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Spora katılım piramidine göre birey, spora ilk ve en yoğun olarak nereden başlamaktadır?",
+      "options": [
+        "Elit Yarışmalar",
+        "Ulusal Yarışmalar",
+        "Okul sporu - Beden Eğitim",
+        "Bölgesel Yarışmalar",
+        "Yerel Yarışmalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bireyin kişisel hedefleri ve beklentileri (eğlenmek, beceri geliştirmek ve sağlıklı yaşam alışkanlığı kazanma vb.) önceliğinde asıl amacın yarışmak ve kazanmak olmadığı spor ortamlarını ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Katılım spor ortamı",
+        "Performans spor ortamı",
+        "Amaçlı Oyun",
+        "Amaçlı Alıştırma",
+        "Fiziksel Uygunluk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bireyin sportif kapasitesini geliştirmeyi amaçlayan ve bunu performans normları ile karşılaştırarak ve yarışmalarda yüksek performans göstermek üzere etkinliklerin yapıldığı ortamları ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Katılım spor ortamı",
+        "Performans spor ortamı",
+        "Amaçlı Oyun",
+        "Amaçlı Alıştırma",
+        "Fiziksel Uygunluk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Spora başlama yaşlarından genellikle 12 yaş civarına kadar süren, çeşitli spor dallarına katılım göstererek gerekli becerileri kazanmayı amaçlayan katılım sporu bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Çocuklar",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Beceri ve performans gelişimini sağlamaya yönelik olarak tasarlanan etkinliklere ne ad verilir?",
+      "options": [
+        "Katılım spor ortamı",
+        "Performans spor ortamı",
+        "Amaçlı Oyun",
+        "Amaçlı Alıştırma",
+        "Fiziksel Uygunluk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Antrenman ve etkinliklerin odak noktası yarışmak ve bu yarışmalarda başarılı olmak için gerekli olan kapasitelerin gelişimi olan performans spor ortamı bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Çocuklar",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Bu gruptaki bireyler yetişkinlerden oluşmaktadır. Performans sporu ortamının en az katılımı bu grupta yer alır. Yukarıda özellikleri verilen Performans spor ortamı bileşeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Yetişkinler",
+        "Ergenler",
+        "Gelişmekte olan sporcu",
+        "Yüksek performans sporcusu",
+        "Performans sporcusu"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Bir spor dalının becerilerini geliştirmek ve elit sporcu olmak amacı ile bu spor ortamını tercih eden 13 – 15 yaş arasındaki bireylere yönelik yapılan Antrenörlük aşağıdakilerden hangisidir?",
+      "options": [
+        "Katılım Sporu-Çocuk Antrenörlüğü",
+        "Katılım Sporu- Ergen ve Yetişkin Antrenörlüğü",
+        "Performans Sporu Antrenörlüğü – Gelişmekte olan Sporcu",
+        "Performans Sporu Ortamı Antrenörlüğü – Performans Dönemi",
+        "Performans Sporu Antrenörlüğü – Yüksek Performans Dönemi"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

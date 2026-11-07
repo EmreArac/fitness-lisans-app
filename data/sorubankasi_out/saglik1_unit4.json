@@ -1,0 +1,223 @@
+{
+  "course": "saglik1",
+  "unit_index": 4,
+  "topic": "Sporcu Sağlığı ve İlk Yardım",
+  "questions": [
+    {
+      "testNum": 1,
+      "num": 1,
+      "question": "Kas, tendon veya bağ dokusu yaralandığı zaman bölgedeki………….yırtılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["Kan damarları", "Tendon damarları", "Kas damarları", "Kas lifleri", "Bağ damarları"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 2,
+      "question": "Fiziksel zihinsel ve sosyal yönden iyi olma hâline ne ad verilir?",
+      "options": ["Spor", "Aktivite", "Stres", "Sağlık", "İlk yardım"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 3,
+      "question": "Kalbin kasılmaları sonucu oluşan damarlardaki basınç dalgalanmalarına ne ad verilir?",
+      "options": ["Solunum", "Nabız", "Kan basıncı", "Bilinç", "Tepki"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 4,
+      "question": "Ağrının derecesi ve lokalizasyonu belirlendiği TOTAPS aşaması aşağıdakilerden hangisidir?",
+      "options": ["Konuş", "Gözle", "Dokun", "Aktif Hareket", "Pasif Hareket"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 5,
+      "question": "Spor yaralanmalarını önleme piramidinin dördüncü basamağı aşağıdakilerden hangisidir?",
+      "options": [
+        "Bir Hedef Belirleme-Risk Faktörü analizi",
+        "Yüklenme yönetimi",
+        "Atletik gelişim, kuvvet ve kondisyon kalitesinin iyileştirilmesi",
+        "Hareket Verimliliğinin Arttırılması",
+        "Önceki yaralanma-Etkin rehabilitasyon süreci"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 6,
+      "question": "Aşağıdakilerden hangisi şok belirtilerinden biri değildir?",
+      "options": ["Derinin soluklaşması", "Soğuk terleme", "Göz bebeklerinin genişlemesi", "Nabzın hızlanması", "Kan basıncı yükselmesi"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 7,
+      "question": "I. Hayati tehlikenin ortadan kaldırılması, II. Yaşamsal fonksiyonların sürdürülmesinin sağlanması III. Hasta/ yaralının durumunun kötüleşmesinin önlenmesi IV. İyileşmenin kolaylaştırılması Yukarıdakilerden hangileri İlk yardımın öncelikli amaçları arasında yer almaktadır?",
+      "options": ["Yalnız I", "I – II", "II – III – IV", "III – IV", "I – II – III – IV"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 8,
+      "question": "Yorgunluk olmaksızın mesleki, boş zaman ve günlük yaşam aktivitelerini başarılı bir şekilde yapma ve bu uygunluğu yaşam boyu devam ettirebilme yeteneğine ne ad verilir?",
+      "options": ["İlk yardım", "Sağlık", "Fiziksel uygunluk", "Bilinç", "Hareket yeteneği"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 1,
+      "num": 9,
+      "question": "Kas iskelet sistemi yaralanmalarını tedavi etmede kullanılan en güncel ilk yardım metodu aşağıdakilerden hangisidir?",
+      "options": ["TOTAPS", "POLICE", "ALİCE", "SPİKE", "FRİCE"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 10,
+      "question": "Eski protokolde (PRICE) yaralanmış bölgenin istirahat etmesi sağlanarak iyileşmenin hızlanması beklenirdi ama yapılan çalışmalarla………………………..ile dokuda iyileşmenin daha iyi olduğu gözlenmektedir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["Koruma", "Uygun dozda yüklenme", "Buz", "Kompresyon", "Elevasyon"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 1,
+      "num": 11,
+      "question": "I. Konuş II. Gözle III. Aktif Hareket IV. Beceri Testleri Yukarıdakilerden hangileri TOTAPS aşamaları arasında yer alır?",
+      "options": ["Yalnız I", "I – II", "II – III – IV", "III – IV", "I – II – III – IV"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 12,
+      "question": "Yaralanan ya da aniden hastalanan kişilere, sağlık personeli tarafından eldeki olanaklar kullanılarak geçici olarak yapılan ilaçsız müdahalelere ne ad verilir?",
+      "options": ["Spor", "Aktivite", "Stres", "Sağlık", "İlk yardım"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 1,
+      "num": 13,
+      "question": "Bilinç kapalı olduğunda solunum değerlendirilmesi nasıl yapılmaktadır?",
+      "options": ["Bak – dinle – hisset", "Bak – gör – hisset", "Bak – dokun – hisset", "Dokun – hisset – gör", "Hisset – dinle – dokun"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 1,
+      "num": 14,
+      "question": "….….renkte deri oksijenin yetersizliğinin belirtisidir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["Gri", "Kırmızı", "Sarı", "Mavi", "Pembe"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 1,
+      "num": 15,
+      "question": "Nabız atım sayısı yetişkinlerde kaçla kaç arasındadır?",
+      "options": ["40 – 60", "60 – 80", "60 – 100", "80 – 100", "90 – 100"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 1,
+      "question": "1. Derece Bilinç Kaybının karşılığı aşağıdakilerden hangisidir?",
+      "options": ["Tüm uyarılara cevap verir.", "Sözlü ve gürültülü uyaranlara cevap verir.", "Ağrılı uyaranlara cevap verir.", "Tüm uyaranlara karşı tepkisizdir.", "Cevap vermez."],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 2,
+      "question": "TYD’nin açılım aşağıdakilerden hangisidir?",
+      "options": ["Teknik yaşam desteği", "Temel yardım desteği", "Teknik yardım desteği", "Teorik yaşam desteği", "Temel yaşam desteği"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 3,
+      "question": "I. Kuru boğulma II. Yaş boğulma III. İkincil boğulma Yukarıda verilenlerden hangisi veya hangileri boğulma durumlarındandır?",
+      "options": ["Yalnız I", "I – II", "I – III", "II – III", "I – II – III"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 4,
+      "question": "Bilinç düzeyleri kaça ayrılır?",
+      "options": ["2", "3", "4", "5", "6"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 5,
+      "question": "Yaralanmış bölge üzerinde basınç oluşturarak kanamayı durdurmak, kontrol altına almak ve şişliği önlemeye ne ad verilir?",
+      "options": ["Uygun dozda yüklenme", "Kompresyon", "Elevasyon", "Buz", "Koruma"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 6,
+      "question": "Yaralanan bölgeye 2 saat arayla……dakikalık buz uygulaması yapılır. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": ["5", "10", "15", "20", "25"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 7,
+      "question": "Aşağıdakilerden hangisi ilk yardım çantasında bulunması gereken Pansuman Malzemelerinden biri değildir?",
+      "options": ["Alkollü pamuk", "Cerrahi eldiven", "Gazlı bez", "Sargı bezi", "Batikon"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 8,
+      "question": "KSC’nin açılımı aşağıdakilerden hangisidir?",
+      "options": ["Kalp solunum canlandırması", "Karaciğer solunum canlandırması", "Kalp suni canlandırması", "Karaciğer suni canlandırması", "Kalp sistemi canlandırması"],
+      "correctIndex": 0
+    },
+    {
+      "testNum": 2,
+      "num": 9,
+      "question": "Ortam sıcaklığının çok düşük olması sonucuna bağlı olarak vücutta bir takım belirtilerin ortaya çıkmasına ne ad verilir?",
+      "options": ["Boğulma", "Donma", "Terleme", "Isınma", "Bilinç kaybı"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 10,
+      "question": "Aşağıdakilerden hangisi ilk yardım çantasında bulunması gereken ilaçlardan biri değildir?",
+      "options": ["Kodein", "Pudra", "Oksijenli su", "Vazelin", "Soğuk sprey"],
+      "correctIndex": 2
+    },
+    {
+      "testNum": 2,
+      "num": 11,
+      "question": "Esas boğulmadan kurtulan kişinin 15 gün sonra akciğerde gelişen ödem, kapanma vb. nedenlerle kaybedilmesi durumuna ne ad verilir?",
+      "options": ["Birincil boğulma", "İkincil boğulma", "Kuru boğulma", "Yaş boğulma", "Sıvı boğulma"],
+      "correctIndex": 1
+    },
+    {
+      "testNum": 2,
+      "num": 12,
+      "question": "I. Önceki Yaralanma Öyküsü II. Yaş III. Cinsiyet IV. Yetersiz Fiziksel Uygunluk Düzeyi Yukarıdakilerden hangileri spor yaralanmalarında kişinin kendisinden kaynaklı faktörler arasında yer almaktadır?",
+      "options": ["Yalnız I", "I – II", "II – III – IV", "III – IV", "I - II – III – IV"],
+      "correctIndex": 4
+    },
+    {
+      "testNum": 2,
+      "num": 13,
+      "question": "Spor Yaralanmalarını Önleme Piramidi kaç basamaktan oluşmaktadır?",
+      "options": ["2", "3", "4", "5", "6"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 14,
+      "question": "Aşağıdakilerden hangisi TOTAPS aşamalarından biri değildir?",
+      "options": ["Konuş", "Gözle", "Dokun", "Bilişsel testler", "Aktif Hareket"],
+      "correctIndex": 3
+    },
+    {
+      "testNum": 2,
+      "num": 15,
+      "question": "Aşağıdakilerden hangisi ilk yardım çantasında bulunması gereken araç– gereçlerden biri değildir?",
+      "options": ["Trakea tüpü", "Dil baskısı", "Termometre", "Splintler", "Göz temizleyicileri"],
+      "correctIndex": 4
+    }
+  ]
+}

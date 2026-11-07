@@ -1,0 +1,520 @@
+{
+  "course": "yonetim1",
+  "unit_index": 2,
+  "topic": "Spor İşletmeciliği",
+  "questions": [
+    {
+      "question": "I. Genel araştırma II. Uygulamalı araştırma III. Alan araştırmaları Yukarıdakilerden hangisi araştırma çeşitleri kapsamında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Araştırma, işletmelerin yeni bilgi edinmek amacıyla yürüttüğü sistemli çalışmaların genel adıdır ve literatürde üçe ayrılır: genel (temel) araştırma, uygulamalı araştırma ve alan araştırmaları. Her biri farklı amaç ve kapsamda olsa da üçü de araştırma türleri arasında sayılır, bu nedenle I, II ve III'ün tümü doğrudur.",
+      "optionNotes": [
+        "Sadece genel araştırmayı içerir, uygulamalı araştırma ve alan araştırmalarını araştırma türleri dışında bırakarak eksik bir sınıflandırma yapar.",
+        "Sadece uygulamalı araştırmayı kapsar; genel araştırma ve alan araştırmalarının da birer araştırma türü olduğunu göz ardı eder.",
+        "Genel ve uygulamalı araştırmayı doğru sayar ama alan araştırmalarını dışarıda bırakır, oysa o da araştırma türlerinden biridir.",
+        "Uygulamalı araştırma ve alan araştırmalarını kapsar fakat genel araştırmayı listeye almaz; bu da sınıflandırmayı eksik bırakır.",
+        "Doğru yanıt: Genel araştırma, uygulamalı araştırma ve alan araştırmalarının üçü birden araştırma çeşitleri kapsamında yer alır."
+      ]
+    },
+    {
+      "question": "Yeni bilgi ve anlayışların elde edilmesine yönelik olarak yapılan çalışmalara ne ad verilir?",
+      "options": [
+        "Genel araştırma",
+        "Uygulamalı araştırma",
+        "Alan araştırmaları",
+        "Basit Geliştirme",
+        "Teknolojik Geliştirme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genel araştırma (temel araştırma), herhangi bir ticari uygulama kaygısı taşımadan, bilim adına yeni bilgi ve anlayışlar üretmeyi amaçlayan araştırma türüdür. Bu tanım doğrudan genel araştırmanın özelliğidir.",
+      "optionNotes": [
+        "Doğru yanıt: Yeni bilgi ve anlayış üretmeye yönelik, uygulamadan bağımsız çalışmalar genel (temel) araştırma olarak tanımlanır.",
+        "Belirli bir ürün, hizmet ya da üretim sürecine yönelik somut bir uygulama hedefi taşır; burada tanımlanan genel bilgi üretimi amacı değildir.",
+        "Belirli bir alanda ileride kullanılmak üzere tamamlayıcı bilgi toplamaya odaklanır, yeni bilgi/anlayış üretme amacı bu tanımın merkezinde değildir.",
+        "Bu bir araştırma türü değil, geliştirme (development) sınıflandırmasına ait, günlük gözlem temelli bir kavramdır.",
+        "Araştırma değil geliştirme kategorisine girer; teknoloji ve ürün/süreç iyileştirmesiyle ilgilidir, bilgi üretimi tanımıyla örtüşmez."
+      ]
+    },
+    {
+      "question": "Belirli uygulamalara yönelik mal ve hizmetler ile üretim süreçleri üzerinde yapılan ve yeni bilgilerin elde edilmesine yol açan çalışmalara ne ad verilir?",
+      "options": [
+        "Genel araştırma",
+        "Uygulamalı araştırma",
+        "Alan araştırmaları",
+        "Basit Geliştirme",
+        "Teknolojik Geliştirme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uygulamalı araştırma, belirli mal, hizmet ve üretim süreçlerine yönelik olarak yürütülür ve elde edilen yeni bilgiler doğrudan pratik bir uygulamaya dönüştürülmek üzere kullanılır. Sorudaki \"belirli uygulamalara yönelik\" ifadesi bu türün temel özelliğidir.",
+      "optionNotes": [
+        "Belirli bir uygulama hedefi olmadan, salt bilgi üretmeye yöneliktir; sorudaki \"belirli uygulamalara yönelik\" vurgusuyla çelişir.",
+        "Doğru yanıt: Belirli mal/hizmet ve üretim süreçlerine yönelik yürütülüp yeni bilgi elde edilmesini sağlayan çalışmalar uygulamalı araştırma olarak adlandırılır.",
+        "Daha çok ileride kullanılacak tamamlayıcı bilgilerin keşfiyle ilgilidir, somut bir ürün/süreç uygulamasına yönelik sistematik çalışma tanımını karşılamaz.",
+        "Araştırma değil, mevcut bilgiyi günlük gözlemle iyileştirme çabasıdır; yeni bilgi üretme iddiası taşımaz.",
+        "Var olan teknolojinin geliştirilmesiyle ilgilenir, soruda tarif edilen \"yeni bilgi elde etme\" amaçlı araştırma sürecini ifade etmez."
+      ]
+    },
+    {
+      "question": "Zamanı gelince kullanmak üzere bir alanla ilgili tamamlayıcı bilgilerin araştırılarak keşfedilmesi ne ad verilir?",
+      "options": [
+        "Genel araştırma",
+        "Uygulamalı araştırma",
+        "Alan araştırmaları",
+        "Basit Geliştirme",
+        "Teknolojik Geliştirme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alan araştırmaları, ileride ihtiyaç duyulabilecek bir konuda şimdiden tamamlayıcı bilgi toplamayı ve bu bilgiyi gelecekte kullanılmak üzere keşfetmeyi amaçlar. Sorudaki \"zamanı gelince kullanmak üzere\" ifadesi bu türün karakteristik özelliğidir.",
+      "optionNotes": [
+        "Zamanlama veya ileride kullanım amacı taşımaz; amaç doğrudan yeni bilgi ve anlayış üretmektir.",
+        "Belirli bir ürün/hizmet/sürece hemen uygulanmak üzere yürütülür, \"zamanı gelince kullanma\" fikriyle örtüşmez.",
+        "Doğru yanıt: Bir alanla ilgili tamamlayıcı bilgilerin ileride kullanılmak üzere araştırılıp keşfedilmesi alan araştırmalarının tanımıdır.",
+        "Araştırma kategorisine ait değildir; geliştirme sınıflandırmasının bir türüdür.",
+        "Araştırma değil geliştirme türüdür; teknoloji temelli iyileştirmeyle ilgilidir, tamamlayıcı bilgi keşfiyle ilgili değildir."
+      ]
+    },
+    {
+      "question": "I. Diyalog ve Basit Geliştirme II. Teknolojik Geliştirme III. Bilimsel Geliştirme Yukarıdakilerden hangisi geliştirme çeşitleri kapsamında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "Geliştirme (development) çalışmaları da araştırma gibi kendi içinde alt türlere ayrılır: diyalog ve basit geliştirme, teknolojik geliştirme ve bilimsel geliştirme. Bu üç tür de geliştirme çeşitleri kapsamında değerlendirilir.",
+      "optionNotes": [
+        "Diyalog ve basit geliştirmeyi kapsar ama teknolojik ve bilimsel geliştirmeyi geliştirme türleri dışında bırakır.",
+        "Sadece teknolojik geliştirmeyi sayar, diyalog/basit geliştirme ile bilimsel geliştirmenin de birer geliştirme türü olduğunu göz ardı eder.",
+        "Diyalog/basit ve teknolojik geliştirmeyi kapsar fakat bilimsel geliştirmeyi dışarıda bırakır.",
+        "Teknolojik ve bilimsel geliştirmeyi içerir ama diyalog ve basit geliştirmeyi listeye almaz.",
+        "Doğru yanıt: Diyalog ve basit geliştirme, teknolojik geliştirme ve bilimsel geliştirmenin üçü de geliştirme çeşitleri arasında yer alır."
+      ]
+    },
+    {
+      "question": "Spor işletmesinde çalışan bir elemanın içinde bulunduğu ortamı eleştirerek, yeni önerilerde bulunması, hangi geliştirme çeşidine girmektedir?",
+      "options": [
+        "Genel",
+        "Uygulamalı",
+        "Alan",
+        "Basit",
+        "Teknolojik"
+      ],
+      "correctIndex": 3,
+      "explanation": "Basit geliştirme, işletme içindeki bir kişinin resmî bir araştırma sürecine veya teknolojik bir alt yapıya başvurmadan, yalnızca içinde bulunduğu ortamı gözlemleyip eleştirerek günlük, kişisel gözleme dayalı yeni öneriler sunmasıdır. Sorudaki elemanın kendi çalışma ortamını eleştirip öneri getirmesi bu basit/diyalog temelli geliştirme türüne örnektir.",
+      "optionNotes": [
+        "Bu bir araştırma çeşididir, geliştirme türü değildir; ayrıca yeni bilgi/anlayış üretimiyle ilgilidir, günlük öneri sunmakla ilgili değildir.",
+        "Bu da bir araştırma türüdür, belirli ürün/süreçlere yönelik sistematik çalışmayı ifade eder; sorudaki kişisel gözlem ve öneriyi tanımlamaz.",
+        "Araştırma sınıflandırmasına ait bir kavramdır, ileride kullanılacak tamamlayıcı bilgi keşfiyle ilgilidir; burada sorulan geliştirme türü değildir.",
+        "Doğru yanıt: Çalışanın kendi ortamını eleştirip yeni öneriler sunması, sistematik araştırma ya da teknoloji kullanımı içermeyen basit geliştirme kapsamına girer.",
+        "Teknoloji veya fiziksel altyapıyla ilgili sistemli bir geliştirme çalışmasını ifade eder; sorudaki kişisel ve informal eleştiri/öneri süreciyle örtüşmez."
+      ]
+    },
+    {
+      "question": "Spor işletmesine devam eden bir müşterinin içinde bulunduğu spor ortamını gözleyerek geliştirmeye yönelik önerilerde bulunulması, hangi geliştirme çeşidine girmektedir?",
+      "options": [
+        "Genel",
+        "Uygulamalı",
+        "Alan",
+        "Basit",
+        "Teknolojik"
+      ],
+      "correctIndex": 4,
+      "explanation": "Teknolojik geliştirme, işletmenin sunduğu hizmetin kullanıldığı ortamın (tesis, ekipman, teknik altyapı) dışarıdan -bu örnekte müşteri tarafından- gözlemlenerek bu fiziksel/teknik ortamın iyileştirilmesine yönelik önerilerde bulunulmasını kapsar. Müşterinin spor ortamını gözlemleyip geliştirmeye yönelik öneri sunması bu türe örnektir.",
+      "optionNotes": [
+        "Araştırma türüdür, geliştirme ile ilgili değildir; ayrıca bilgi üretimiyle ilgilidir, ortam gözlemiyle ilgili değildir.",
+        "Bir araştırma çeşididir; belirli ürün ve süreçlere yönelik sistematik çalışmayı ifade eder, müşteri gözlemiyle ilgili bir geliştirme türü değildir.",
+        "Araştırma sınıflandırmasına girer, tamamlayıcı bilgi keşfiyle ilgilidir; sorudaki durumla ilişkili değildir.",
+        "Daha çok işletme içindeki kişilerin informal, günlük gözlem ve eleştirilerine dayanır; burada söz konusu olan müşterinin spor ortamına (fiziksel/teknik yapı) yönelik gözlemidir, bu da basit değil teknolojik geliştirme kapsamına girer.",
+        "Doğru yanıt: Müşterinin işletmenin sunduğu spor ortamını gözleyerek bu ortamın teknik/fiziksel yönden geliştirilmesine ilişkin öneride bulunması teknolojik geliştirme kapsamına girer."
+      ]
+    },
+    {
+      "question": "I. Broşür II. El kitapçığı III. Afiş IV. Pankart V. El ilanları Yukarıdakilerden hangileri halkı spor programları konusunda bilgilendirmeye yönelik kullanılan Halkla İlişkiler yöntemlerindendir?",
+      "options": [
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4,
+      "explanation": "Halkı spor programları konusunda bilgilendirmeye yönelik kullanılan halkla ilişkiler araçları arasında broşür, el kitapçığı, afiş, pankart ve el ilanları gibi basılı/görsel iletişim materyalleri sayılır. Bu beş aracın tamamı halkı bilgilendirme amacıyla kullanılan yöntemlerdir.",
+      "optionNotes": [
+        "Sadece broşür ve el kitapçığını kapsar, afiş, pankart ve el ilanlarını dışarıda bırakır.",
+        "El kitapçığı ve afişi sayar ama broşür, pankart ve el ilanlarını listeye almaz.",
+        "Broşür, el kitapçığı ve afişi kapsar fakat pankart ve el ilanlarını dışarıda bırakarak eksik kalır.",
+        "El kitapçığı, afiş ve pankartı sayar ama broşür ve el ilanlarını listeye almaz.",
+        "Doğru yanıt: Broşür, el kitapçığı, afiş, pankart ve el ilanlarının beşi de halkı spor programları konusunda bilgilendirmeye yönelik kullanılan halkla ilişkiler yöntemlerindendir."
+      ]
+    },
+    {
+      "question": "İşletmeler, ar-ge ve yenilik çalışmalarına büyük önem vermelerinin temel nedenlerini kaç grupta toplamışlardır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "İşletmelerin ar-ge ve yenilik çalışmalarına önem vermesinin temel nedenleri literatürde dört grupta toplanmıştır: pazarla ilgili nedenler, örgütsel nedenler, sosyal nedenler ve personelle ilgili nedenler.",
+      "optionNotes": [
+        "Nedenler iki grupla sınırlandırılamaz; sınıflandırma dört ana grubu kapsar.",
+        "Üç grup, sınıflandırmadaki gruplardan birini (örneğin sosyal veya personelle ilgili nedenler) dışarıda bırakır, bu nedenle eksiktir.",
+        "Doğru yanıt: Ar-ge ve yenilik çalışmalarına önem verilmesinin temel nedenleri pazarla ilgili, örgütsel, sosyal ve personelle ilgili olmak üzere dört grupta toplanmıştır.",
+        "Beş grup sayısı, sınıflandırmaya girmeyen \"hukuki\" gibi bir kategoriyi de dahil ederek abartılı bir sayı verir.",
+        "Altı grup, gerçek sınıflandırmadan fazla sayıda kategori öne sürer ve tanımlanan dört temel grupla uyuşmaz."
+      ]
+    },
+    {
+      "question": "Endüstride yenilikçi olarak isim yapmak ve bunu sürdürmek hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bir işletmenin endüstride yenilikçi olarak tanınması ve bu imajı sürdürmesi, işletmenin kurumsal kimliği, stratejisi ve itibarıyla ilgili olduğu için örgütsel nedenler kapsamında değerlendirilir.",
+      "optionNotes": [
+        "Pazar payı, rekabet gücü veya müşteri talebiyle ilgili nedenlerdir; burada vurgulanan ise işletmenin kurumsal kimliği ve itibarıdır.",
+        "Ar-ge sınıflandırmasının dört temel grubundan biri değildir; patent veya yasal zorunluluklarla ilgili olmayan bu durumu açıklamaz.",
+        "Doğru yanıt: Endüstride yenilikçi olarak isim yapmak ve bunu sürdürmek, işletmenin kurumsal kimliği ve stratejik konumlanmasıyla ilgili olduğu için örgütsel nedenler arasında yer alır.",
+        "Toplumsal beklentiler veya tüketici taleplerine yönelik nedenlerle ilgilidir, işletmenin kendi kurumsal imajıyla ilgili bir durumu ifade etmez.",
+        "Araştırmacı/çalışan çekme ve elde tutma ile ilgilidir; endüstrideki yenilikçi imajın sürdürülmesiyle doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "question": "Önde giden işletme olmak ve korumak, rakiplere karşı koyabilmek için yeni ürün geliştirmek hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 0,
+      "explanation": "Önde giden işletme olmayı korumak ve rakiplere karşı yeni ürün geliştirmek, doğrudan pazar payı ve rekabet gücüyle ilgili olduğu için pazarla ilgili nedenler arasında sayılır.",
+      "optionNotes": [
+        "Doğru yanıt: Pazarda liderliği korumak ve rakiplere karşı yeni ürün geliştirmek, pazar rekabeti ve pazar payıyla ilgili olduğundan pazarla ilgili nedenler kapsamına girer.",
+        "Bu durumla ilgili yasal bir zorunluluk veya patent/mevzuat unsuru söz konusu değildir.",
+        "Kurumsal kimlik veya iç yapılanmayla ilgili değil, doğrudan pazar rekabetiyle ilgilidir.",
+        "Toplumsal/tüketici beklentisi değil, rakiplere karşı pazar konumunu koruma kaygısı söz konusudur.",
+        "Araştırmacı istihdamıyla değil, pazar liderliğinin korunmasıyla ilgili bir nedendir."
+      ]
+    },
+    {
+      "question": "Değişiklik bekleyen tüketiciyi tatmin etmek, hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 3,
+      "explanation": "Değişiklik bekleyen tüketicinin isteklerini tatmin etmek, toplumun ve tüketicilerin değişen beklentilerine yanıt vermekle ilgili olduğundan sosyal nedenler kapsamında değerlendirilir.",
+      "optionNotes": [
+        "Pazar liderliği veya rekabet gücüyle değil, doğrudan tüketicinin değişim beklentisini tatmin etmekle ilgilidir; bu daha çok toplumsal bir motivasyondur.",
+        "Yasal bir zorunluluk söz konusu değildir; tüketici beklentisiyle ilgili bir durumdur.",
+        "İşletmenin iç yapısı veya kimliğiyle değil, tüketicinin/toplumun değişim talebiyle ilgilidir.",
+        "Doğru yanıt: Değişiklik bekleyen tüketiciyi tatmin etme isteği, toplumsal/tüketici beklentilerine duyarlılığı ifade ettiğinden sosyal nedenler arasında yer alır.",
+        "Araştırmacı istihdamıyla ilgili değildir; tüketici tatminiyle ilgili bir nedendir."
+      ]
+    },
+    {
+      "question": "Yetenekli ve istekli araştırmacıları işletmeye çekebilmek, hangi ar-ge ve yenilik çalışmasıyla ilgilidir?",
+      "options": [
+        "Pazarla ilgili",
+        "Hukuki",
+        "Örgütsel",
+        "Sosyal",
+        "Personelle ilgili"
+      ],
+      "correctIndex": 4,
+      "explanation": "Yetenekli ve istekli araştırmacıları işletmeye çekebilmek, doğrudan insan kaynağı ve çalışan temini ile ilgili olduğundan personelle ilgili nedenler arasında sayılır.",
+      "optionNotes": [
+        "Pazar payı veya rekabetle değil, nitelikli araştırmacı istihdamıyla ilgilidir.",
+        "Herhangi bir yasal zorunluluk söz konusu değildir; insan kaynağı teminiyle ilgili bir durumdur.",
+        "Kurumsal kimlik ya da imajla değil, doğrudan araştırmacı çekme kapasitesiyle ilgilidir.",
+        "Toplumsal beklenti değil, nitelikli personel teminiyle ilgili bir nedendir.",
+        "Doğru yanıt: Yetenekli ve istekli araştırmacıları işletmeye çekebilmek, insan kaynağı teminiyle ilgili olduğundan personelle ilgili nedenler kapsamına girer."
+      ]
+    },
+    {
+      "question": "…………. sanayi toplumunun en temel ögelerinden biridir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Okullar",
+        "İşletmeler",
+        "Hastaneler",
+        "Bankalar",
+        "Kulüpler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sanayi toplumunun en temel ögelerinden biri işletmelerdir; çünkü mal ve hizmet üretimi, istihdam ve ekonomik faaliyetlerin büyük bölümü işletmeler aracılığıyla gerçekleştirilir.",
+      "optionNotes": [
+        "Eğitim kurumlarıdır, sanayi toplumunun üretim/ekonomik yapısının temel ögesi olarak tanımlanmaz.",
+        "Doğru yanıt: İşletmeler, mal ve hizmet üretimini gerçekleştiren birimler olarak sanayi toplumunun en temel ögelerinden biridir.",
+        "Sağlık hizmeti sunan kurumlardır, sanayi toplumunun temel ekonomik yapı taşı olarak anılmaz.",
+        "Finansal aracılık yapan kurumlardır; sanayi toplumunun temel ögesi tanımı doğrudan işletmelere atfedilir, bankalara değil.",
+        "Sosyal/sportif amaçlı örgütlenmelerdir, sanayi toplumunun ekonomik temel yapı taşı olarak nitelendirilmez."
+      ]
+    },
+    {
+      "question": "I. Bir alet, makine veya benzeri bir aracı çalıştırma II. Çeşitli iş ve faaliyetlerin yapıldığı yer, iş yeri III. Maddi ve beşeri fonksiyonlardan oluşan bir üretim birimi Yukarıdakilerden hangileri İşletme kavramının anlamları arasında yer almaktadır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II",
+        "II – III",
+        "I – II – III"
+      ],
+      "correctIndex": 4,
+      "explanation": "İşletme kavramı farklı anlamlarda kullanılabilir: bir alet veya makineyi çalıştırma eylemi, çeşitli iş ve faaliyetlerin yapıldığı yer (iş yeri) ve maddi-beşeri unsurlardan oluşan bir üretim birimi. Bu üç anlam da işletme kavramının kullanım alanları arasındadır.",
+      "optionNotes": [
+        "Sadece \"çalıştırma\" anlamını kapsar, iş yeri ve üretim birimi anlamlarını dışarıda bırakır.",
+        "Sadece iş yeri anlamını sayar, çalıştırma eylemi ve üretim birimi anlamlarını göz ardı eder.",
+        "Çalıştırma ve iş yeri anlamlarını kapsar ama üretim birimi anlamını listeye almaz.",
+        "İş yeri ve üretim birimi anlamlarını içerir fakat çalıştırma eylemi anlamını dışarıda bırakır.",
+        "Doğru yanıt: Çalıştırma eylemi, iş yeri ve üretim birimi anlamlarının üçü de işletme kavramının farklı kullanımları arasında yer alır."
+      ]
+    },
+    {
+      "question": "Kişi ve kurumların ihtiyaçlarını karşılamak üzere, üretim faktörlerini bir araya getirerek mal veya hizmet üreten/pazarlayan ve sonunda maddi ve manevi bir kâr elde etmeyi amaçlayan iktisadi, teknik ve hukuki birimlere ne ad verilir?",
+      "options": [
+        "Satın alma",
+        "Üretim",
+        "İşletme",
+        "Pazarlama",
+        "Fon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu tanım, üretim faktörlerini bir araya getirerek mal veya hizmet üreten/pazarlayan ve kâr elde etmeyi amaçlayan iktisadi, teknik ve hukuki birim olarak işletmenin klasik tanımıdır.",
+      "optionNotes": [
+        "İşletmenin yürüttüğü bir fonksiyon/faaliyettir, işletmenin kendisini tanımlayan bir kavram değildir.",
+        "İşletmenin gerçekleştirdiği temel faaliyetlerden biridir, ancak işletmenin tüm iktisadi/hukuki birim niteliğini kapsayan tanımı ifade etmez.",
+        "Doğru yanıt: Üretim faktörlerini bir araya getirerek mal/hizmet üreten, pazarlayan ve kâr amacı güden iktisadi, teknik ve hukuki birim işletme olarak tanımlanır.",
+        "İşletmenin ürettiği mal/hizmeti pazara sunma fonksiyonudur, işletmenin bütününü tanımlayan bir kavram değildir.",
+        "Finansal kaynak anlamına gelir, işletmenin iktisadi-hukuki birim tanımıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "İktisadi açıdan bir mal veya hizmetin kaç özelliği bulunması gereklidir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "İktisadi açıdan bir mal veya hizmetin iki temel özelliği bulunmalıdır: insan ihtiyacını karşılayacak bir faydaya sahip olması (fayda) ve kıt/sınırlı olması (kıtlık). Bu iki özellik olmadan mal veya hizmet iktisadi bir değer taşımaz.",
+      "optionNotes": [
+        "Doğru yanıt: İktisadi bir mal/hizmetin fayda sağlaması ve kıt (sınırlı) olması gerekir; bu iki özellik iktisadi mal/hizmet tanımının temelini oluşturur.",
+        "İktisadi mal/hizmet tanımı için gereken özellik sayısını fazla göstererek, sınıflandırmadaki fayda ve kıtlık ikilisine gereksiz bir üçüncü unsur ekler.",
+        "Gerçek sınıflandırmadan iki özellik fazla sayı önerir, iktisadi mal/hizmet tanımı sadece fayda ve kıtlıkla sınırlıdır.",
+        "Beş özellik, iktisadi mal/hizmet tanımının temel iki unsurunu (fayda-kıtlık) aşan, gerçekçi olmayan bir sayıdır.",
+        "Altı özellik, tanımın gerektirdiği sayının çok üzerindedir ve iktisadi mal/hizmet kavramının basit iki koşuluyla uyuşmaz."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi soyut olarak nitelenen hizmetlerden biridir?",
+      "options": [
+        "Kitap",
+        "Yiyecek",
+        "Spor malzemesi",
+        "Eğitim",
+        "Elbise"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eğitim, elle tutulamayan, fiziksel bir varlığı olmayan, tüketildiği anda üretilen bir hizmet olduğu için soyut (gayri maddi) hizmetler arasında sayılır.",
+      "optionNotes": [
+        "Fiziksel, elle tutulabilen somut bir maldır, hizmet değildir.",
+        "Tüketilen somut, fiziksel bir maldır; soyut hizmet tanımına girmez.",
+        "Fiziksel, dokunulabilir bir malzeme/ekipmandır, soyut bir hizmet değildir.",
+        "Doğru yanıt: Eğitim, fiziksel bir varlığı olmayan, elle tutulamayan bir hizmet olduğundan soyut hizmetler arasında yer alır.",
+        "Somut, fiziksel bir tüketim malıdır; soyut hizmet tanımıyla ilgisi yoktur."
+      ]
+    },
+    {
+      "question": "Fiziki değerleri, emek insan gücünü, toprak gibi yer üstü ve yer altı kaynaklarını ifade eden kavrama ne ad verilir?",
+      "options": [
+        "Sermaye",
+        "Bilgi",
+        "Doğa",
+        "Hizmet",
+        "Beşeri kapasite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu tanımda sözü edilen fiziki değerler, emek (insan gücü) ve toprak gibi yer üstü-yer altı doğal kaynaklar, üretimde kullanılan maddi/fiziksel girdilerin tümünü kapsayan geniş anlamıyla sermaye kavramına karşılık gelir; bu kavram, üretim sürecinde kullanılan somut kaynakları ifade eder.",
+      "optionNotes": [
+        "Doğru yanıt: Fiziki değerler, emek gücü ve doğal kaynakları kapsayan bu tanım, üretimde kullanılan somut/maddi girdilerin bütününü ifade eden sermaye kavramına karşılık gelir.",
+        "Soyut, tecrübe ve yeteneğe dayalı bir üretim girdisidir; sorudaki tanım ise fiziksel/maddi kaynaklara atıfta bulunur, bilgiye değil.",
+        "Sadece toprak ve doğal kaynakları kapsar; sorudaki tanım ayrıca fiziki değerleri ve emeği de içerdiğinden doğa kavramından daha kapsamlı bir kavramı ifade eder.",
+        "Soyut bir ekonomik faaliyet türüdür, fiziki değerler ve doğal kaynaklarla ilgili bir kavram değildir.",
+        "Tecrübe, yetenek ve bilgi birikimiyle ilgilidir; sorudaki tanım ise fiziksel/maddi kaynaklara odaklanır."
+      ]
+    },
+    {
+      "question": "Bir mal ve hizmetin üretilip sunulması için gerekli olan tecrübe, yetenek ve kapasiteyi ifaden kavrama ne ad verilir?",
+      "options": [
+        "Sermaye",
+        "Bilgi",
+        "Doğa",
+        "Hizmet",
+        "Beşeri kapasite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bir mal veya hizmetin üretilip sunulabilmesi için gerekli olan tecrübe, yetenek ve kapasite, üretim sürecinin bilgi/beşeri sermaye boyutunu oluşturur ve bu kavram \"bilgi\" olarak adlandırılır.",
+      "optionNotes": [
+        "Fiziksel/maddi kaynakları ve üretim araçlarını ifade eder; tecrübe, yetenek ve kapasite gibi soyut unsurları kapsamaz.",
+        "Doğru yanıt: Bir mal/hizmetin üretilip sunulması için gerekli tecrübe, yetenek ve kapasite \"bilgi\" kavramıyla ifade edilir.",
+        "Toprak ve doğal kaynaklarla ilgilidir, tecrübe ve yetenek gibi insani/soyut unsurlarla ilgisi yoktur.",
+        "Üretimin kendisiyle, sunulan faaliyetle ilgilidir; tecrübe ve yeteneğin kaynağını tanımlayan bir kavram değildir.",
+        "Kavram olarak yakın görünse de soruda tanımlanan kavram metinde doğrudan \"bilgi\" olarak adlandırılır; bu seçenek tanımın kullandığı terimle örtüşmez."
+      ]
+    },
+    {
+      "question": "İşletme içi ve işletmeler arası olay ve faaliyetlerle ilgili sebep-sonuç ilişkilerini ele alarak bir işletmenin amaçlarına en etkin biçimde nasıl ulaşılacağını inceleyen kavrama ne ad verilir?",
+      "options": [
+        "İhtiyaç",
+        "Trampa",
+        "Okinomika",
+        "İşletme bilimi",
+        "Merkezleşme"
+      ],
+      "correctIndex": 3,
+      "explanation": "İşletme bilimi, işletme içi ve işletmeler arası olay ve faaliyetlerdeki sebep-sonuç ilişkilerini inceleyerek işletmenin amaçlarına en etkin biçimde nasıl ulaşılacağını araştıran bilim dalıdır.",
+      "optionNotes": [
+        "Organizmanın duyduğu bir eksikliği ifade eder, sebep-sonuç ilişkilerini inceleyen bir bilim dalı değildir.",
+        "Mal ve hizmetlerin doğrudan değiştirilmesi (barter) anlamına gelir, bir bilim dalını ifade etmez.",
+        "Bu sorudaki tanımla örtüşmeyen, işletme biliminin sistematik inceleme alanını ifade etmeyen bir terimdir.",
+        "Doğru yanıt: Sebep-sonuç ilişkilerini ele alıp işletmenin amaçlarına en etkin ulaşma yollarını inceleyen disiplin işletme bilimidir.",
+        "Yönetimde karar alma yetkisinin toplanmasıyla ilgili bir kavramdır, sebep-sonuç ilişkilerini inceleyen bir bilim dalı değildir."
+      ]
+    },
+    {
+      "question": "Organizmanın duyduğu bir eksiklik olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "İşletme bilimi",
+        "Trampa",
+        "Okinomika",
+        "Merkezleşme",
+        "İhtiyaç"
+      ],
+      "correctIndex": 4,
+      "explanation": "İhtiyaç, bir organizmanın bedensel veya psikolojik açıdan duyduğu eksiklik hali olarak tanımlanır ve bu eksiklik, bireyi onu gidermeye yönelik davranışlara motive eder.",
+      "optionNotes": [
+        "Sebep-sonuç ilişkilerini inceleyen bir disiplindir, organizmanın eksiklik hissiyle ilgili bir kavram değildir.",
+        "Mal/hizmet değişimini ifade eder, organizmanın hissettiği eksiklikle ilgisi yoktur.",
+        "Organizmanın eksiklik durumunu tanımlamayan, farklı bir kavramdır.",
+        "Yönetimsel karar yetkisinin toplanmasıyla ilgilidir, organizmanın eksiklik hissiyle ilgisi yoktur.",
+        "Doğru yanıt: Organizmanın duyduğu bir eksiklik hâli ihtiyaç olarak tanımlanır."
+      ]
+    },
+    {
+      "question": "İhtiyaçlar dizisinin temelinde yer alan ve motivasyonun ilk adımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maslow'un ihtiyaçlar hiyerarşisinde en alt ve temel düzeyi oluşturan temel fizyolojik ihtiyaçlar (oksijen, yeme, içme, uyku gibi), karşılanmadığı sürece diğer ihtiyaçların ortaya çıkmasını engelleyen, motivasyonun ilk adımı olan ihtiyaçlardır.",
+      "optionNotes": [
+        "Doğru yanıt: İhtiyaçlar hiyerarşisinin temelinde yer alan ve motivasyonun ilk adımını oluşturan ihtiyaçlar temel fizyolojik ihtiyaçlardır.",
+        "Hiyerarşinin ikinci basamağıdır, temel fizyolojik ihtiyaçlar karşılandıktan sonra ortaya çıkar; ilk adım değildir.",
+        "Hiyerarşinin üçüncü basamağıdır, temelde değil daha üst bir düzeyde yer alır.",
+        "Hiyerarşinin dördüncü basamağıdır, motivasyonun ilk adımı olarak nitelendirilemez.",
+        "Hiyerarşinin en üst basamağıdır, temel/ilk ihtiyaç olarak tanımlanamaz."
+      ]
+    },
+    {
+      "question": "Oksijen alma, yeme, içme, uyku, giyinme ve barınma hangi ihtiyaç hiyerarşisine girmektedir?",
+      "options": [
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Temel Fizyolojik İhtiyaçlar",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oksijen alma, yeme, içme, uyku, giyinme ve barınma gibi bedensel yaşamı sürdürmeye yönelik ihtiyaçlar, Maslow'un hiyerarşisinde temel fizyolojik ihtiyaçlar kategorisine girer.",
+      "optionNotes": [
+        "Fiziksel/ekonomik tehlikelerden korunma isteğiyle ilgilidir, oksijen-yeme-içme gibi doğrudan bedensel yaşamsal ihtiyaçları kapsamaz.",
+        "Sosyal ilişkiler ve aidiyetle ilgilidir, bedensel yaşamsal ihtiyaçları tanımlamaz.",
+        "Doğru yanıt: Oksijen alma, yeme, içme, uyku, giyinme ve barınma gibi yaşamsal ihtiyaçlar temel fizyolojik ihtiyaçlar kapsamındadır.",
+        "Özgüven ve başarı takdiriyle ilgilidir, bedensel yaşamsal ihtiyaçlarla ilgisi yoktur.",
+        "Bireyin potansiyelini gerçekleştirmesiyle ilgilidir, temel yaşamsal/bedensel ihtiyaçları ifade etmez."
+      ]
+    },
+    {
+      "question": "İhtiyaçlar dizisinin ikinci sırasında yer alan, ihtiyaç aşağıdakilerden hangisidir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maslow'un ihtiyaçlar hiyerarşisinde temel fizyolojik ihtiyaçların ardından ikinci sırada güvenlik ihtiyacı gelir; bu ihtiyaç bireyin fiziksel, ekonomik ve psikolojik tehlikelerden korunma isteğini ifade eder.",
+      "optionNotes": [
+        "Hiyerarşinin birinci/en temel basamağıdır, ikinci sırada değildir.",
+        "Doğru yanıt: Hiyerarşinin ikinci sırasında yer alan ihtiyaç güvenlik ihtiyacıdır.",
+        "Hiyerarşinin üçüncü basamağıdır, ikinci sırada yer almaz.",
+        "Hiyerarşinin dördüncü basamağıdır, ikinci sırayla ilgisi yoktur.",
+        "Hiyerarşinin en üst (beşinci) basamağıdır, ikinci sıradaki ihtiyaç değildir."
+      ]
+    },
+    {
+      "question": "Sporcunun bir spor takımında yer alma, birlikte başarılı olma isteği hangi ihtiyaçla ilgilidir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sporcunun bir takımda yer alma ve birlikte başarılı olma isteği, bir gruba ait olma, kabul görme ve sevme-sevilme duygusunu yansıttığı için Maslow'un hiyerarşisindeki bağlanma, aidiyet, sevme ve sevilme ihtiyacı kapsamına girer.",
+      "optionNotes": [
+        "Bedensel yaşamsal ihtiyaçlarla ilgilidir, takıma ait olma isteğiyle ilgisi yoktur.",
+        "Tehlikelerden korunma isteğiyle ilgilidir, bir takıma ait olma ve birlikte başarı isteğini tanımlamaz.",
+        "Doğru yanıt: Bir takımda yer alma ve birlikte başarılı olma isteği, aidiyet ve bağlanma ihtiyacının bir yansımasıdır.",
+        "Özgüven ve başarının takdir edilmesiyle ilgilidir, takıma ait olma isteğinden farklı bir düzeyi ifade eder.",
+        "Bireyin kendi potansiyelini gerçekleştirmesiyle ilgilidir, takıma ait olma isteğini doğrudan tanımlamaz."
+      ]
+    },
+    {
+      "question": "Özgüven, başarıyla övünme, başarının başkaları tarafından takdiri, rekabet edebilme duygusu, benliğine saygı duyma, bağımsız ve özgür olma hangi ihtiyaç hiyerarşisine girmektedir?",
+      "options": [
+        "Temel Fizyolojik İhtiyaçlar",
+        "Güvenlik İhtiyacı",
+        "Bağlanma, Aidiyet, Sevme ve Sevilme İhtiyacı",
+        "Saygı Görme İhtiyacı",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Özgüven, başarıyla övünme, başarının başkaları tarafından takdir edilmesi, rekabet etme duygusu, benliğe saygı ve bağımsız olma isteği gibi unsurlar, Maslow'un hiyerarşisinde saygı görme ihtiyacı kategorisinde yer alır.",
+      "optionNotes": [
+        "Bedensel yaşamsal ihtiyaçlarla ilgilidir, özgüven ve başarı takdiriyle ilgisi yoktur.",
+        "Tehlikelerden korunma isteğiyle ilgilidir, özgüven ve başarı takdiriyle ilgili değildir.",
+        "Gruba ait olma ve sevilme isteğiyle ilgilidir, özgüven ve başarı takdirinden farklı bir düzeyi ifade eder.",
+        "Doğru yanıt: Özgüven, başarı takdiri, rekabet duygusu ve bağımsız olma isteği gibi unsurlar saygı görme ihtiyacı kapsamındadır.",
+        "Bireyin kendi potansiyelini tam olarak gerçekleştirmesiyle ilgilidir, başkalarının takdirine dayalı saygı ihtiyacından farklıdır."
+      ]
+    }
+  ]
+}

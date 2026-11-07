@@ -1,0 +1,501 @@
+{
+  "course": "saglik1",
+  "unit_index": 2,
+  "topic": "Spor Fizyolojisi",
+  "questions": [
+    {
+      "question": "Hücre içinde mitokondride oluşan, aerobik sistemin başlangıç kısmını oluşturan, kimyasal reaksiyon zincirine ne ad verilir?",
+      "options": [
+        "Elektron transfer sistemi",
+        "Aerobik sistem",
+        "Anaerobik metabolizma",
+        "Krebs çemberi",
+        "Adenozin trifosfat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Krebs çemberi (sitrik asit döngüsü), mitokondri matriksinde gerçekleşen ve piruvatın asetil-CoA'ya dönüşmesinin ardından başlayan bir reaksiyonlar zinciridir. Aerobik enerji sisteminin ilk büyük basamağını oluşturur; bu döngüde açığa çıkan NADH ve FADH2 gibi yüksek enerjili elektron taşıyıcıları, daha sonra elektron transfer sistemine taşınarak büyük miktarda ATP üretimine zemin hazırlar. Bu nedenle soruda tanımlanan, mitokondride gerçekleşen ve aerobik sistemin başlangıcını oluşturan reaksiyon zinciri Krebs çemberidir.",
+      "optionNotes": [
+        "Elektron transfer sistemi de mitokondride yer alır fakat Krebs çemberinden sonra devreye giren, aerobik sistemin son (başlangıç değil, bitiş) basamağıdır.",
+        "Aerobik sistem, sorudaki özel reaksiyon zincirinin adı değil, bu zinciri de içine alan genel enerji sisteminin bütününün adıdır.",
+        "Anaerobik metabolizma oksijen kullanılmadan gerçekleşen enerji üretimini ifade eder; soru ise oksijenli (aerobik) sistemden bahsetmektedir.",
+        "Doğru yanıt: Krebs çemberi, mitokondride gerçekleşen ve aerobik enerji sisteminin başlangıç kısmını oluşturan kimyasal reaksiyon zinciridir.",
+        "Adenozin trifosfat (ATP), bir reaksiyon zinciri değil, enerjiyi depolayan ve kullanıma hazır hâle getiren bir moleküldür."
+      ]
+    },
+    {
+      "question": "Hücrelerin normal işlevlerini sürdürebilmeleri için iç ortam koşullarının sabit tutulmasına ne ad verilir?",
+      "options": [
+        "Boşaltım",
+        "Hareket",
+        "Homeostaz",
+        "Adaptasyon",
+        "Üreme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Homeostaz, hücrelerin ve dolayısıyla organizmanın normal işlevlerini sürdürebilmesi için iç ortamın (sıvı-elektrolit dengesi, pH, sıcaklık, besin ve gaz konsantrasyonları gibi) belirli sınırlar içinde sabit tutulmasını ifade eden temel bir fizyolojik kavramdır. Vücut, çeşitli düzenleyici mekanizmalarla (negatif geri bildirim döngüleri gibi) bu dengeyi sürekli korumaya çalışır.",
+      "optionNotes": [
+        "Boşaltım, metabolik atıkların hücreden ve vücuttan uzaklaştırılmasıdır; homeostazın sağlanmasına katkı sağlayan bir mekanizmadır ama homeostazın kendisi değildir.",
+        "Hareket, kas-iskelet sistemi aracılığıyla yer değiştirme ya da pozisyon değiştirme yeteneğidir; iç ortam dengesiyle doğrudan ilgili değildir.",
+        "Doğru yanıt: Homeostaz, hücrelerin normal işlev görebilmesi için iç ortam koşullarının (sıcaklık, pH, iyon dengesi vb.) sabit aralıklarda tutulması sürecidir.",
+        "Adaptasyon, organizmanın değişen çevresel koşullara zaman içinde uyum sağlayarak değişim göstermesidir; sabitliği değil, değişimi ifade eder.",
+        "Üreme, türün sürekliliğini sağlayan biyolojik işlevdir ve iç ortam dengesinin korunmasıyla doğrudan ilişkili değildir."
+      ]
+    },
+    {
+      "question": "ATP'nin yüksek enerjili fosfat bağlarını, hidroliz reaksiyonlarıyla koparılması ile ATP'nin farklı enerji türlerine dönüştürülerek kullanılması hangi biyolojik enerji dönüşümüne girmektedir?",
+      "options": [
+        "Birinci tip",
+        "İkinci tip",
+        "Üçüncü tip",
+        "Dördüncü tip",
+        "Beşinci tip"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biyolojik enerji dönüşümleri sınıflandırmasında üçüncü tip enerji dönüşümü, ATP'nin yüksek enerjili fosfat bağlarının hidroliz reaksiyonlarıyla koparılarak depolanan kimyasal enerjinin mekanik, elektriksel veya ısı enerjisi gibi kullanılabilir enerji türlerine dönüştürüldüğü basamağı ifade eder. Kas kasılması, sinir iletimi gibi hücresel işler bu tip enerji dönüşümü sayesinde gerçekleştirilir.",
+      "optionNotes": [
+        "Birinci tip enerji dönüşümü, güneş enerjisinin fotosentez yoluyla bitkilerde kimyasal enerjiye dönüştürüldüğü basamağı ifade eder; ATP'nin kullanımıyla ilgili değildir.",
+        "İkinci tip enerji dönüşümü, besinlerdeki kimyasal enerjinin hücresel solunum yoluyla ATP sentezine dönüştürülmesini ifade eder; bu, ATP'nin üretilmesi aşamasıdır, hidrolizle kullanılması değildir.",
+        "Doğru yanıt: Üçüncü tip enerji dönüşümü, ATP'nin fosfat bağlarının hidrolizle koparılması sonucu açığa çıkan enerjinin mekanik iş, elektriksel uyarı veya ısı gibi farklı enerji türlerine dönüştürülerek kullanılmasıdır.",
+        "Bu sınıflandırmada dördüncü bir basamak tanımlanmamıştır; enerji dönüşümü temel olarak üç ana tip altında ele alınır.",
+        "Bu sınıflandırmada beşinci bir basamak tanımlanmamıştır; enerji dönüşümü temel olarak üç ana tip altında ele alınır."
+      ]
+    },
+    {
+      "question": "Physus ne anlama gelmektedir?",
+      "options": [
+        "Yaşam",
+        "Sağlık",
+        "Spor",
+        "Egzersiz",
+        "Bilim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fizyoloji terimi, Antik Yunancadaki \"physis/physus\" (doğa, yaşam) ve \"logos\" (bilim, bilgi) kelimelerinin birleşiminden türetilmiştir. Physus kökü \"yaşam\" veya \"doğa\" anlamına gelir; logos ise bu yaşamsal süreçlerin incelenmesini, yani bilimini ifade eder. Bu nedenle fizyoloji, canlıların yaşamsal işlevlerini inceleyen bilim dalı olarak tanımlanır.",
+      "optionNotes": [
+        "Doğru yanıt: \"Physus\", Antik Yunancada \"yaşam\" veya \"doğa\" anlamına gelen kök kelimedir; fizyoloji teriminin ilk bileşenini oluşturur.",
+        "Sağlık, fizyolojinin uygulama alanlarından biriyle ilişkilendirilebilecek bir kavramdır ancak \"physus\" kelimesinin sözlük anlamı değildir.",
+        "Spor, fizyoloji biliminin incelediği konulardan biri olabilir ancak bu, \"physus\" kelimesinin doğrudan karşılığı değildir.",
+        "Egzersiz, fizyolojinin alt disiplinlerinden egzersiz fizyolojisinin konusu olmakla birlikte \"physus\" kelimesinin anlamı değildir.",
+        "Bilim anlamına gelen kelime \"physus\" değil, terimin ikinci kökü olan \"logos\"tur; bu seçenek köklerin karıştırılmasından kaynaklanan bir yanılgıdır."
+      ]
+    },
+    {
+      "question": "I. Su II. Elektrolitler III. Proteinler IV. Lipitler V. Karbonhidratlar Yukarıdakilerden hangileri Protoplazmayı oluşturan maddelerdendir?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I – II – III",
+        "I – II – III – IV",
+        "I – II – III – IV – V"
+      ],
+      "correctIndex": 4,
+      "explanation": "Protoplazma, hücrenin canlı kısmını oluşturan ve sitoplazma ile çekirdek içeriğini kapsayan karmaşık bir yapıdır; inorganik maddeler (su, elektrolitler) ile organik maddelerin (proteinler, lipitler, karbonhidratlar) bir karışımından meydana gelir. Su protoplazmanın ana bileşeni olup ortam sağlar, elektrolitler hücresel elektriksel ve kimyasal dengeyi korur, proteinler yapısal ve işlevsel görevler üstlenir, lipitler zar yapılarının temelini oluşturur, karbonhidratlar ise enerji kaynağı olarak görev yapar. Bu nedenle sayılan beş maddenin tümü protoplazmayı oluşturan bileşenler arasındadır.",
+      "optionNotes": [
+        "Bu seçenek yalnızca suyu içerdiği için eksiktir; protoplazma sadece sudan oluşmaz, elektrolitler, proteinler, lipitler ve karbonhidratları da içerir.",
+        "Bu seçenek yalnızca elektrolitleri içerdiği için eksiktir; protoplazmanın yapısında su ve diğer organik maddeler de bulunur.",
+        "Bu seçenek su, elektrolit ve proteinleri kapsasa da lipitleri ve karbonhidratları dışarıda bıraktığı için eksiktir.",
+        "Bu seçenek dört maddeyi (su, elektrolit, protein, lipit) kapsasa da karbonhidratları listeye dahil etmediği için eksiktir.",
+        "Doğru yanıt: Protoplazma; su, elektrolitler, proteinler, lipitler ve karbonhidratlar olmak üzere sayılan tüm maddelerin bir araya gelmesiyle oluşur."
+      ]
+    },
+    {
+      "question": "Canlı organizmalarındaki tüm yaşamsal işlevleri inceleyen bilim dalına ne ad verilir?",
+      "options": [
+        "Biyoloji",
+        "Psikoloji",
+        "Fizyoloji",
+        "Kimya",
+        "Anatomi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fizyoloji, canlı organizmalardaki hücre, doku, organ ve sistemlerin normal şartlar altında nasıl işlev gördüğünü, yani yaşamsal faaliyetlerin mekanizmalarını inceleyen bilim dalıdır. \"Physus\" (yaşam) ve \"logos\" (bilim) kelimelerinden türeyen bu terim, doğrudan yaşamsal işlevlerin incelenmesine odaklanır.",
+      "optionNotes": [
+        "Biyoloji, canlıların yapısını, çeşitliliğini, sınıflandırılmasını ve evrimini de kapsayan daha geniş bir bilim dalıdır; yaşamsal işlevlerin incelenmesine özgü değildir.",
+        "Psikoloji, zihinsel süreçleri ve davranışları inceleyen bir bilim dalıdır; organizmanın fizyolojik işlevleriyle değil, zihinsel-davranışsal boyutla ilgilenir.",
+        "Doğru yanıt: Fizyoloji, canlı organizmalardaki tüm yaşamsal işlevlerin (dolaşım, solunum, sindirim, boşaltım vb.) nasıl gerçekleştiğini inceleyen bilim dalıdır.",
+        "Kimya, maddelerin yapısını, özelliklerini ve birbirleriyle etkileşimlerini inceleyen bir bilim dalıdır; canlı işlevlerine özgü bir inceleme alanı değildir.",
+        "Anatomi, organizmanın yapısını ve organların konumunu inceler; işlevden çok yapıyla ilgilenir, bu nedenle fizyolojiden farklıdır."
+      ]
+    },
+    {
+      "question": "Çekirdeği ve zarlı organelleri bulunmayan hücrelere ne ad verilir?",
+      "options": [
+        "Prokaryot hücre",
+        "Ökaryot hücre",
+        "Kimyasal",
+        "Organik",
+        "İnorganik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prokaryot hücreler, zarla çevrili belirgin bir çekirdeğe ve zarlı organellere (mitokondri, endoplazmik retikulum, Golgi aygıtı gibi) sahip olmayan, genetik materyalin sitoplazma içinde serbestçe bulunduğu basit yapılı hücrelerdir. Bakteriler bu hücre tipinin tipik örnekleridir.",
+      "optionNotes": [
+        "Doğru yanıt: Prokaryot hücreler, çekirdek zarına ve zarlı organellere sahip olmayan, genetik materyalin sitoplazmada serbest hâlde bulunduğu hücrelerdir.",
+        "Ökaryot hücreler tam tersine belirgin bir çekirdeğe ve zarlı organellere sahiptir; bu nedenle soruda tanımlanan özelliklere uymaz.",
+        "Kimyasal, bir hücre tipini değil madde veya tepki türünü tanımlayan bir kavramdır; hücre sınıflandırmasıyla ilgili değildir.",
+        "Organik, karbon içeren bileşiklerin sınıflandırmasında kullanılan bir terimdir; bir hücre tipinin adı değildir.",
+        "İnorganik, karbon içermeyen bileşiklerin sınıflandırmasında kullanılan bir terimdir; bir hücre tipinin adı değildir."
+      ]
+    },
+    {
+      "question": "Canlı hücrelerde gerçekleşen biyokimyasal olayların tamamına ne ad verilmektedir?",
+      "options": [
+        "Beslenme",
+        "Solunum",
+        "ATP",
+        "Metabolizma",
+        "Boşaltı"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metabolizma, canlı hücrelerde gerçekleşen tüm biyokimyasal tepkilerin bütününü ifade eden kapsayıcı bir terimdir. Yapım (anabolizma) ve yıkım (katabolizma) reaksiyonlarını içerir; besinlerin enerjiye dönüştürülmesi, hücresel yapıların sentezlenmesi ve atıkların oluşturulması gibi süreçlerin tamamı metabolizma kapsamında değerlendirilir.",
+      "optionNotes": [
+        "Beslenme, organizmanın besin maddelerini alması sürecidir; metabolizmanın gerçekleşmesi için gerekli bir girdidir ama biyokimyasal olayların tamamını kapsamaz.",
+        "Solunum, hücresel düzeyde oksijen kullanımı ve enerji üretimini ifade eder; metabolizmanın önemli bir parçasıdır ama onun bütününü ifade etmez.",
+        "ATP, hücresel enerjinin taşındığı ve kullanıldığı bir moleküldür; bir süreç veya olaylar bütünü değildir.",
+        "Doğru yanıt: Metabolizma, canlı hücrelerde gerçekleşen yapım ve yıkım reaksiyonları dâhil tüm biyokimyasal olayların tümünü kapsayan terimdir.",
+        "Boşaltı(m), metabolizma sonucu oluşan atık ürünlerin hücreden uzaklaştırılmasıdır; metabolizmanın bir çıktısıdır, kendisi değildir."
+      ]
+    },
+    {
+      "question": "Canlıların hücrelerindeki düzeni korumak amacıyla metabolizmada oluşan atık maddeleri hücreden uzaklaştırmasına ne ad verilir?",
+      "options": [
+        "Beslenme",
+        "Solunum",
+        "ATP",
+        "Metabolizma",
+        "Boşaltım"
+      ],
+      "correctIndex": 4,
+      "explanation": "Boşaltım, metabolik faaliyetler sonucunda hücre içinde oluşan ve hücre düzenini bozabilecek atık maddelerin (karbondioksit, üre, amonyak gibi) hücre dışına veya vücuttan uzaklaştırılması sürecidir. Bu işlev, hücre içi homeostazın korunması açısından hayati önem taşır.",
+      "optionNotes": [
+        "Beslenme, besin maddelerinin hücreye alınması sürecidir; atık uzaklaştırma ile ters bir işlevi ifade eder.",
+        "Solunum, oksijen alıp karbondioksit vermeyi ve enerji üretimini kapsayan bir süreçtir; atık maddelerin genel olarak uzaklaştırılmasından farklı, daha spesifik bir gaz değişimi sürecidir.",
+        "ATP, enerji taşıyan bir molekül olup atık madde uzaklaştırma süreciyle doğrudan tanımlanamaz.",
+        "Metabolizma, hücredeki tüm biyokimyasal olayların bütününü ifade eder; atık uzaklaştırma bu bütünün sadece bir parçasıdır, kendisi değildir.",
+        "Doğru yanıt: Boşaltım, metabolizma sonucu oluşan atık maddelerin hücre düzenini korumak amacıyla hücreden uzaklaştırılması işlemidir."
+      ]
+    },
+    {
+      "question": "Doğada kaç tane element bulunur?",
+      "options": [
+        "51",
+        "63",
+        "76",
+        "85",
+        "92"
+      ],
+      "correctIndex": 4,
+      "explanation": "Doğada doğal olarak bulunan element sayısı yaklaşık 92'dir (hidrojenden uranyuma kadar periyodik tablodaki doğal elementler). Bu elementler, canlı organizmaları oluşturan karbon, hidrojen, oksijen, azot gibi temel yapı taşlarını da içerir. Diğer sayılar bu rakamla örtüşmediği için yanlıştır.",
+      "optionNotes": [
+        "51 rakamı, doğada bulunan doğal element sayısını karşılamaz; gerçek sayının oldukça altındadır.",
+        "63 rakamı, doğada bulunan doğal element sayısını karşılamaz; gerçek sayının altındadır.",
+        "76 rakamı, doğada bulunan doğal element sayısını karşılamaz; gerçek sayıya yakın olsa da doğru değer değildir.",
+        "85 rakamı, doğada bulunan doğal element sayısını karşılamaz; gerçek sayıya yakın olsa da doğru değer değildir.",
+        "Doğru yanıt: Doğada yaklaşık 92 element doğal olarak bulunmaktadır."
+      ]
+    },
+    {
+      "question": "Aşağıdakilerden hangisi organik bileşenlerden biri değildir?",
+      "options": [
+        "Tuz",
+        "Karbonhidratlar",
+        "Lipitler",
+        "Proteinler",
+        "Nükleik asitler"
+      ],
+      "correctIndex": 0,
+      "explanation": "Organik bileşikler, temel yapısında karbon atomu barındıran ve genellikle canlılar tarafından sentezlenen bileşiklerdir (karbonhidratlar, lipitler, proteinler, nükleik asitler gibi). Tuz (örneğin sodyum klorür) ise karbon içermeyen, iyonik yapıda inorganik bir bileşiktir; bu nedenle organik bileşenler arasında sayılmaz.",
+      "optionNotes": [
+        "Doğru yanıt: Tuz, karbon atomu içermeyen iyonik bir bileşik olduğu için inorganik bileşen sınıfına girer, organik bileşen değildir.",
+        "Karbonhidratlar, karbon, hidrojen ve oksijen atomlarından oluşan organik bileşiklerdir; bu nedenle bu seçenek sorunun yanıtı olamaz.",
+        "Lipitler, karbon iskeletine sahip yağ ve yağ benzeri organik bileşiklerdir; bu nedenle bu seçenek sorunun yanıtı olamaz.",
+        "Proteinler, amino asitlerden oluşan ve karbon içeren organik makromoleküllerdir; bu nedenle bu seçenek sorunun yanıtı olamaz.",
+        "Nükleik asitler (DNA, RNA), karbon iskeletine sahip organik makromoleküllerdir; bu nedenle bu seçenek sorunun yanıtı olamaz."
+      ]
+    },
+    {
+      "question": "Atom çekirdeğin dışında yörüngelerde serbest dolaşan atom altı parçacıklara ne ad verilir?",
+      "options": [
+        "Atom",
+        "İyon",
+        "Proton",
+        "Nötron",
+        "Elektron"
+      ],
+      "correctIndex": 4,
+      "explanation": "Elektronlar, negatif yüklü ve çok küçük kütleli atom altı parçacıklardır; atom çekirdeğinin dışında belirli enerji seviyelerinde (yörüngelerde/orbitallerde) bulunur ve hareket ederler. Kimyasal bağların oluşumu ve elektriksel olaylar büyük ölçüde elektronların hareketine bağlıdır.",
+      "optionNotes": [
+        "Atom, proton, nötron ve elektronlardan oluşan bütün bir yapıdır; çekirdek dışında dolaşan tek bir parçacığı ifade etmez.",
+        "İyon, elektron kaybı veya kazanımı sonucu net elektrik yükü taşıyan bir atom veya moleküldür; atom altı bir parçacık değildir.",
+        "Proton, pozitif yüklü bir parçacık olup atom çekirdeğinin içinde bulunur, çekirdeğin dışında dolaşmaz.",
+        "Nötron, yüksüz bir parçacık olup proton gibi atom çekirdeğinin içinde yer alır, çekirdeğin dışında bulunmaz.",
+        "Doğru yanıt: Elektronlar, atom çekirdeğinin dışında yörüngelerde dolaşan, negatif yüklü atom altı parçacıklardır."
+      ]
+    },
+    {
+      "question": "İnsan vücudu, yaklaşık olarak kaç trilyon hücreden oluşmaktadır?",
+      "options": [
+        "100 trilyon",
+        "150 trilyon",
+        "200 trilyon",
+        "250 trilyon",
+        "300 trilyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fizyoloji ders kitaplarında genel kabul gören yaklaşıma göre insan vücudu yaklaşık 100 trilyon hücreden oluşmaktadır. Bu hücreler, farklı doku ve organ sistemlerini oluşturacak şekilde özelleşmiş olup vücudun yapısal ve işlevsel temelini meydana getirir.",
+      "optionNotes": [
+        "Doğru yanıt: İnsan vücudu, ders kitabı kabulüne göre yaklaşık 100 trilyon hücreden oluşmaktadır.",
+        "150 trilyon rakamı, kabul edilen yaklaşık hücre sayısından daha yüksek bir değerdir ve ders kitabı verisiyle örtüşmez.",
+        "200 trilyon rakamı, kabul edilen yaklaşık hücre sayısından daha yüksek bir değerdir ve ders kitabı verisiyle örtüşmez.",
+        "250 trilyon rakamı, kabul edilen yaklaşık hücre sayısından daha yüksek bir değerdir ve ders kitabı verisiyle örtüşmez.",
+        "300 trilyon rakamı, kabul edilen yaklaşık hücre sayısından oldukça yüksek bir değerdir ve ders kitabı verisiyle örtüşmez."
+      ]
+    },
+    {
+      "question": "Kan damarlarının etrafında çok sayıda bulunan bağışıklık sisteminde önemli rolü olan hücrelere ne ad verilir?",
+      "options": [
+        "Mezenkim",
+        "Makrofajlar",
+        "Plazma",
+        "Mast",
+        "Pigment"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mast hücreleri, bağ dokusunda ve özellikle kan damarlarının çevresinde yoğun olarak bulunan bağışıklık sistemi hücreleridir. İçerdikleri histamin ve diğer kimyasal mediatörler sayesinde alerjik reaksiyonlarda, iltihabi yanıtlarda ve damar geçirgenliğinin düzenlenmesinde önemli rol oynarlar.",
+      "optionNotes": [
+        "Mezenkim hücreleri, bağ dokusunun gelişimine kaynaklık eden farklılaşmamış kök hücrelerdir; bağışıklıkta birincil rol üstlenen, damar çevresinde yoğunlaşan hücreler değildir.",
+        "Makrofajlar bağışıklıkta fagositoz yoluyla önemli rol oynayan hücrelerdir ancak soruda tanımlanan, kan damarları çevresinde özellikle yoğunlaşan ve histamin salgılayan hücre tipi mast hücreleridir.",
+        "Plazma, kanın sıvı kısmını ifade eden bir terimdir (ya da antikor üreten plazma hücrelerini); damar çevresinde yoğunlaşan bağışıklık hücresi tanımına uymaz.",
+        "Doğru yanıt: Mast hücreleri, kan damarlarının çevresinde çok sayıda bulunan ve bağışıklık/iltihabi yanıtta önemli rol oynayan hücrelerdir.",
+        "Pigment hücreleri, melanin gibi renk maddeleri üreten hücrelerdir; bağışıklık sistemiyle ilişkili bir görevleri yoktur."
+      ]
+    },
+    {
+      "question": "Nöron gövdesinden çıkan, sayıları bir veya daha fazla olan, kısa uzantılara………..adı verilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Dendrit",
+        "Akson",
+        "Miyosit",
+        "Monosit",
+        "Glia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dendritler, nöron hücre gövdesinden çıkan, sayıca bir veya daha fazla olabilen, dallanmış ve kısa uzantılardır. Görevleri, diğer nöronlardan veya reseptörlerden gelen uyarıları alarak hücre gövdesine iletmektir; böylece nöronun bilgi alım yüzeyini oluştururlar.",
+      "optionNotes": [
+        "Doğru yanıt: Dendritler, nöron gövdesinden çıkan, sayıları bir veya daha fazla olabilen kısa uzantılardır ve uyarıları hücre gövdesine taşır.",
+        "Akson, nöronda genellikle tek sayıda bulunan, uzun ve uyarıyı hücre gövdesinden diğer hücrelere ileten uzantıdır; kısa ve çok sayılı olma tanımına uymaz.",
+        "Miyosit, kas hücresine verilen addır; nöronun bir uzantısı değildir.",
+        "Monosit, kanda bulunan bir tür bağışıklık hücresidir; nöronla ilgili bir yapı değildir.",
+        "Glia (glia hücreleri), nöronlara destek, besin sağlama ve koruma görevi üstlenen sinir sistemi hücreleridir; nöronun kendi uzantısı değildir."
+      ]
+    },
+    {
+      "question": "Suyun, çok yoğun olduğu ortamdan az yoğun olduğu ortama doğru yarı geçirgen bir zar üzerinden geçişine ne ad verilir?",
+      "options": [
+        "Difüzyon",
+        "Ozmoz",
+        "Pasif Taşıma",
+        "Aktif Taşıma",
+        "Endositoz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ozmoz, suyun yarı geçirgen bir zar aracılığıyla, su konsantrasyonunun yüksek (çözünen madde konsantrasyonunun düşük) olduğu ortamdan düşük olduğu (çözünen madde konsantrasyonunun yüksek) ortama doğru hareketidir. Bu süreç herhangi bir enerji harcanmadan, konsantrasyon farkı sayesinde kendiliğinden gerçekleşir.",
+      "optionNotes": [
+        "Difüzyon, çözünmüş partiküllerin yoğun bölgeden seyrek bölgeye hareketini ifade eden genel bir terimdir; özellikle suyun yarı geçirgen zardan geçişini tanımlayan özel terim değildir.",
+        "Doğru yanıt: Ozmoz, suyun yarı geçirgen bir zar üzerinden yoğun ortamdan az yoğun ortama doğru hareketidir.",
+        "Pasif taşıma, enerji harcanmadan gerçekleşen tüm taşıma türlerini kapsayan genel bir kategoridir; ozmoz bu kategorinin bir alt türüdür, ancak sorudaki spesifik su hareketinin özel adı değildir.",
+        "Aktif taşıma, enerji (ATP) harcanarak maddelerin konsantrasyon gradyanına karşı taşınmasıdır; sorudaki kendiliğinden gerçekleşen su hareketiyle çelişir.",
+        "Endositoz, hücrenin dış ortamdaki maddeleri zarını içe katlayarak hücre içine alması sürecidir; bir zar üzerinden moleküler geçişten farklı bir mekanizmadır."
+      ]
+    },
+    {
+      "question": "Partiküllerin içinde dağıldığı sitoplazmanın berrak sıvı kısmına en ad verilir?",
+      "options": [
+        "Pasif Taşıma",
+        "Difüzyon",
+        "Ozmoz",
+        "Aktif Taşıma",
+        "Sitozol"
+      ],
+      "correctIndex": 4,
+      "explanation": "Sitozol, hücre organellerini ve çeşitli partikülleri içinde barındıran, sitoplazmanın berrak ve sıvı (jel benzeri) kısmını ifade eder. Hücre içi birçok biyokimyasal reaksiyonun gerçekleştiği ortamdır ve su, iyonlar, küçük moleküller ve çözünmüş proteinlerden oluşur.",
+      "optionNotes": [
+        "Pasif taşıma, enerji harcanmadan gerçekleşen madde taşınma şeklidir; sitoplazmanın sıvı kısmını tanımlayan bir yapı veya madde değildir.",
+        "Difüzyon, moleküllerin yoğun bölgeden seyrek bölgeye hareket etme sürecidir; bir yapı veya madde adı değildir.",
+        "Ozmoz, suyun yarı geçirgen zardan geçiş sürecidir; sitoplazmanın sıvı kısmını tanımlayan bir terim değildir.",
+        "Aktif taşıma, enerji harcanarak gerçekleşen madde taşınma şeklidir; bir yapı veya madde adı değildir.",
+        "Doğru yanıt: Sitozol, partiküllerin içinde dağıldığı, sitoplazmanın berrak sıvı kısmına verilen addır."
+      ]
+    },
+    {
+      "question": "Proteinlerin sentez edildikleri hücre organelidir. Membranı yoktur ve membranoz olmayan hücre organelleri grubunda yer alır. RNA ve 80 tip proteinden oluşmaktadır. Yukarıda özellikleri verilen organel aşağıdakilerden hangisidir?",
+      "options": [
+        "Endoplazmik Retikulum",
+        "Ribozomlar",
+        "Golgi Aygıtı",
+        "Lizozomlar",
+        "Peroksizomlar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ribozomlar, protein sentezinin gerçekleştiği, zarla çevrili olmayan (membranoz olmayan) hücre organelleridir. Ribozomal RNA (rRNA) ve çok sayıda farklı protein alt biriminden (yaklaşık 80 tip protein) oluşan iki alt birimli (büyük ve küçük) yapılardır; serbest halde sitoplazmada veya endoplazmik retikuluma bağlı olarak bulunabilirler.",
+      "optionNotes": [
+        "Endoplazmik Retikulum, zarlı bir organel olup protein ve lipit sentezinde rol oynar; ancak kendisi zar içermeyen bir yapı değildir, soruda tanımlanan membransız organel tanımına uymaz.",
+        "Doğru yanıt: Ribozomlar, membranı olmayan, RNA ve çok sayıda proteinden oluşan, protein sentezinin gerçekleştiği organellerdir.",
+        "Golgi Aygıtı, zarlı bir organel olup proteinlerin paketlenmesi ve hücre içinde/dışında taşınmak üzere hazırlanmasıyla görevlidir; protein sentezi yapmaz ve zarsız değildir.",
+        "Lizozomlar, zarlı organellerdir ve hücre içi sindirim enzimlerini içerirler; protein sentezinden sorumlu değildirler.",
+        "Peroksizomlar, zarlı organellerdir ve oksidatif reaksiyonlar ile zararlı maddelerin detoksifikasyonunda rol alırlar; protein sentezi işlevi görmezler."
+      ]
+    },
+    {
+      "question": "Kürek branşında Aerobik enerji sisteminin kullanımı kaçtır?",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "80",
+        "95"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kürek, genellikle birkaç dakika süren, yüksek yoğunluklu bir spor branşı olduğu için enerji gereksinimi hem anaerobik hem de aerobik enerji sistemlerinden önemli oranda karşılanır. Ders kitabı kabullerine göre kürekte aerobik enerji sisteminin kullanım oranı yaklaşık %50 olarak kabul edilir; kalan kısım ise anaerobik kaynaklardan sağlanır.",
+      "optionNotes": [
+        "%10 oranı, kürek branşındaki aerobik katkı için oldukça düşük bir değerdir ve ders kitabı verisiyle örtüşmez.",
+        "%20 oranı, kürek branşındaki aerobik katkı için düşük bir değerdir ve ders kitabı verisiyle örtüşmez.",
+        "Doğru yanıt: Kürek branşında aerobik enerji sisteminin kullanım oranı yaklaşık %50'dir; anaerobik ve aerobik sistemler dengeli biçimde devreye girer.",
+        "%80 oranı, kürek branşı için aerobik katkıyı gerçek değerden daha yüksek göstermektedir; bu oran daha uzun süreli dayanıklılık sporlarına daha yakındır.",
+        "%95 oranı, kürek branşı için aerobik katkıyı gerçek değerden çok daha yüksek göstermektedir; bu oran yalnızca çok uzun süreli, düşük yoğunluklu aktivitelere yakındır."
+      ]
+    },
+    {
+      "question": "Bir gram suyun sıcaklığını bir derece artırabilmek için gereken enerji miktarına ne ad verilir?",
+      "options": [
+        "Basınç",
+        "ATP",
+        "MOL",
+        "Kalori",
+        "Fosfojen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kalori, 1 gram suyun sıcaklığını 1 santigrat derece artırmak için gereken enerji miktarı olarak tanımlanan bir enerji/ısı birimidir. Egzersiz fizyolojisinde enerji harcamasını ve besinlerin enerji değerini ifade etmek için yaygın olarak kullanılır.",
+      "optionNotes": [
+        "Basınç, birim alana uygulanan kuvveti ifade eden fiziksel bir büyüklüktür; bir enerji/ısı birimi değildir.",
+        "ATP, hücresel enerjinin depolandığı ve taşındığı bir moleküldür; bir ısı birimi tanımı değildir.",
+        "MOL, bir maddenin miktarını (parçacık sayısını) ifade eden kimyasal birimdir; enerji veya ısı birimi değildir.",
+        "Doğru yanıt: Kalori, 1 gram suyun sıcaklığını 1 derece artırmak için gereken enerji miktarını ifade eden birimdir.",
+        "Fosfojen, ATP-CP enerji sisteminde yer alan fosfat bileşiklerini (ATP ve kreatin fosfat) ifade eden bir terimdir; bir ısı/enerji birimi değildir."
+      ]
+    },
+    {
+      "question": "Hareketsiz bir insan, günde yaklaşık kaç gram ATP kullanmaktadır?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fizyoloji ders kitaplarında yer alan kabule göre, dinlenim hâlindeki (hareketsiz) bir insan günde yaklaşık 40 gram ATP kullanmaktadır. Vücuttaki ATP depoları çok sınırlı olduğundan, kullanılan ATP sürekli olarak yeniden sentezlenerek bu miktarın karşılanması sağlanır.",
+      "optionNotes": [
+        "10 gram değeri, hareketsiz bir insanın günlük ATP kullanım miktarı için ders kitabı kabulünden daha düşüktür.",
+        "20 gram değeri, hareketsiz bir insanın günlük ATP kullanım miktarı için ders kitabı kabulünden daha düşüktür.",
+        "30 gram değeri, hareketsiz bir insanın günlük ATP kullanım miktarına yakın olsa da ders kitabında belirtilen değer değildir.",
+        "Doğru yanıt: Hareketsiz bir insan günde yaklaşık 40 gram ATP kullanmaktadır.",
+        "50 gram değeri, hareketsiz bir insanın günlük ATP kullanım miktarı için ders kitabı kabulünden daha yüksektir."
+      ]
+    },
+    {
+      "question": "Dinlenimde enerjinin 2/3'ü………1/3'ü ise ………elde edilir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "Yağlardan – glikozdan",
+        "Glikozdan – yağlardan",
+        "Proteinden – glikozdan",
+        "Proteinden – yağlardan",
+        "Yağlardan – proteinden"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dinlenim (istirahat) hâlinde vücut, enerji gereksiniminin büyük kısmını (yaklaşık 2/3'ünü) yağların oksidasyonundan, kalan kısmını (yaklaşık 1/3'ünü) ise glikozdan (karbonhidrat kaynaklarından) elde eder. Bu durum, düşük yoğunluklu/dinlenim koşullarında yağ metabolizmasının enerji üretiminde öncelikli kaynak olarak kullanılmasından kaynaklanır.",
+      "optionNotes": [
+        "Doğru yanıt: Dinlenimde enerjinin 2/3'ü yağlardan, 1/3'ü ise glikozdan elde edilir.",
+        "Bu seçenek oranları ters çevirerek glikozu birincil, yağı ikincil kaynak olarak göstermektedir; oysa dinlenimde yağlar enerjinin daha büyük kısmını sağlar.",
+        "Protein, dinlenim hâlinde enerji üretiminde öncelikli bir kaynak olarak kullanılmaz; bu seçenek proteini yanlış biçimde birincil kaynak olarak göstermektedir.",
+        "Protein, dinlenim hâlinde enerji üretiminde öncelikli bir kaynak olarak kullanılmaz; bu seçenek proteini yanlış biçimde birincil kaynak olarak göstermektedir.",
+        "Protein, dinlenim hâlinde enerji üretiminde ikincil kaynak olarak bile glikozdan önde değildir; bu seçenek oranları ve kaynakları hatalı eşleştirmektedir."
+      ]
+    },
+    {
+      "question": "Bir sistemin ya da cismin iş yapabilme yeteneğine ne ad verilir?",
+      "options": [
+        "Güç",
+        "Enerji",
+        "İş",
+        "Kuvvet",
+        "Zaman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enerji, bir sistemin veya cismin iş yapabilme kapasitesi/yeteneği olarak tanımlanır. Vücutta enerji, çeşitli biçimlerde (kimyasal, mekanik, ısı vb.) bulunabilir ve ATP aracılığıyla hücresel işlerin gerçekleştirilmesinde kullanılır.",
+      "optionNotes": [
+        "Güç, birim zamanda yapılan işi ifade eder; iş yapabilme yeteneğinin kendisi değil, bu yeteneğin ne hızda kullanıldığının ölçüsüdür.",
+        "Doğru yanıt: Enerji, bir sistemin veya cismin iş yapabilme yeteneğidir.",
+        "İş, bir kuvvetin bir cismi belirli bir yol boyunca hareket ettirmesiyle gerçekleşen fiili eylemdir; potansiyel bir yetenek değil, gerçekleşmiş bir sonuçtur.",
+        "Kuvvet, bir cismin hareketini veya şeklini değiştirebilecek itme/çekme etkisidir; enerjiden farklı bir fiziksel büyüklüktür.",
+        "Zaman, bir olayın süresini ifade eden bir büyüklüktür; iş yapabilme yeteneğiyle doğrudan ilgili değildir."
+      ]
+    },
+    {
+      "question": "I. Moleküllerin hücre zarı boyunca aktif taşınması II. Kasların kasılması III. Sinir uyarılarının iletimi IV. Hücre bölünmesi ve hücrenin gelişimi Yukarıdaki fizyolojik işlevlerden hangileri için ATP gereklidir?",
+      "options": [
+        "I – II",
+        "II – III",
+        "I – II – III",
+        "I – III – IV",
+        "I – II – III – IV"
+      ],
+      "correctIndex": 4,
+      "explanation": "ATP, hücresel enerjinin evrensel taşıyıcısı olduğu için hücrede gerçekleşen pratik olarak tüm enerji gerektiren işlevlerde kullanılır. Moleküllerin hücre zarı boyunca aktif taşınması (iyon pompaları gibi), kasların kasılması (aktin-miyozin etkileşimi), sinir uyarılarının iletimi (iyon pompaları ve nörotransmitter salınımı) ve hücre bölünmesi/gelişimi (sentez ve yapısal süreçler) işlevlerinin tümü doğrudan ya da dolaylı olarak ATP harcanmasını gerektirir.",
+      "optionNotes": [
+        "Bu seçenek yalnızca aktif taşıma ve kas kasılmasını kapsamakta, sinir iletimi ve hücre bölünmesini dışarıda bırakmaktadır; oysa bu işlevler de ATP gerektirir.",
+        "Bu seçenek yalnızca kas kasılması ve sinir iletimini kapsamakta, aktif taşımayı ve hücre bölünmesini dışarıda bırakmaktadır; oysa bu işlevler de ATP gerektirir.",
+        "Bu seçenek aktif taşıma, kas kasılması ve sinir iletimini kapsamakta ancak hücre bölünmesi ve gelişimini dışarıda bırakmaktadır; oysa bu süreç de ATP gerektirir.",
+        "Bu seçenek aktif taşıma, sinir iletimi ve hücre bölünmesini kapsamakta ancak kas kasılmasını dışarıda bırakmaktadır; oysa kas kasılması da ATP gerektiren temel bir işlevdir.",
+        "Doğru yanıt: Listelenen dört işlevin (aktif taşıma, kas kasılması, sinir iletimi, hücre bölünmesi/gelişimi) tümü ATP enerjisine gereksinim duyar."
+      ]
+    },
+    {
+      "question": "Dinlenim sırasında 100 mililitre kanda yaklaşık kaç miligram sabit laktik asit bulunmaktadır?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fizyoloji ders kitaplarında yer alan kabule göre, dinlenim durumunda 100 mililitre kanda normal (sabit/bazal) düzeyde yaklaşık 10 miligram laktik asit bulunur. Egzersiz yoğunluğu arttığında anaerobik glikoliz hızlanır ve kandaki laktik asit düzeyi bu bazal değerin üzerine çıkar.",
+      "optionNotes": [
+        "Doğru yanıt: Dinlenim sırasında 100 mililitre kanda yaklaşık 10 miligram sabit laktik asit bulunur.",
+        "20 miligram değeri, dinlenimdeki bazal laktik asit düzeyi için ders kitabı kabulünden daha yüksektir.",
+        "30 miligram değeri, dinlenimdeki bazal laktik asit düzeyi için ders kitabı kabulünden daha yüksektir.",
+        "40 miligram değeri, dinlenimdeki bazal laktik asit düzeyi için ders kitabı kabulünden daha yüksektir.",
+        "50 miligram değeri, dinlenimdeki bazal laktik asit düzeyi için ders kitabı kabulünden oldukça yüksektir; bu değer yoğun egzersiz sonrası düzeylere daha yakındır."
+      ]
+    },
+    {
+      "question": "Birim zamanda ortaya konan iş olarak ifade edilen kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "İş",
+        "ATP",
+        "Güç",
+        "Kalori",
+        "Fosfojen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Güç, birim zamanda yapılan iş miktarı olarak tanımlanır (Güç = İş / Zaman). Sporda güç, bir hareketin ne kadar hızlı ve ne kadar kuvvetli gerçekleştirildiğini gösterir; örneğin sıçrama veya sprint performansı güç kapasitesiyle doğrudan ilişkilidir.",
+      "optionNotes": [
+        "İş, bir kuvvetin bir cismi belirli bir yol boyunca hareket ettirmesiyle gerçekleşen enerji aktarımıdır; zaman birimini içermez, bu nedenle \"birim zamanda ortaya konan iş\" tanımına uymaz.",
+        "ATP, hücresel enerjinin taşındığı moleküldür; bir iş/zaman oranını ifade eden fiziksel bir büyüklük değildir.",
+        "Doğru yanıt: Güç, birim zamanda ortaya konan iş olarak tanımlanan kavramdır.",
+        "Kalori, bir enerji/ısı birimidir; zamana bölünmüş bir iş miktarını ifade etmez.",
+        "Fosfojen, ATP-CP enerji sistemindeki fosfat bileşiklerini ifade eden bir terimdir; iş veya güçle ilgili bir birim veya kavram değildir."
+      ]
+    }
+  ]
+}
