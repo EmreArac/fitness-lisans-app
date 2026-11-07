@@ -21,60 +21,79 @@
   ],
   "summary": [
     {
-      "heading": "Eğitim, Öğretim ve Öğrenme Kavramları",
-      "paragraphs": [
-        "Eğitim, en çok benimsenen tanımıyla (Ertürk, 1979) 'bireyin davranışlarında kendi yaşantısı yoluyla kasıtlı olarak istendik davranış değişikliği meydana getirme sürecidir'. Bu tanımdan yola çıkarak eğitimin üç temel özelliği vardır: bireyin davranışlarının amaçlanan yönde değiştirilmesi gerektiği, bu değişikliğin bireyin kendi yaşantısı (bilgi-çevre etkileşimi) yoluyla gerçekleştiği ve eğitimin planlı ve programlı bir süreç olduğu. Eğitim yoluyla kişinin amaçları, bilgileri, davranışları, tavırları ve ahlak ölçüleri değişir; eğitimin başlıca amaçları arasında kişinin kendini gerçekleştirmesi, toplumsal doğasına sağlıklı uyumu, hoşgörülü ve demokratik bir kişilik kazanması, yaratıcı ve üretici bir yaşama hazırlanması ile erdemli ve girişimci bir karakter geliştirmesi sayılabilir.",
-        "İnsanın öğrenmesi ve gelişimi üç alanda gerçekleşir: bilişsel, duyuşsal ve psikomotor (devinişsel) alan. Bilişsel alan; çevreyi anlama, kavrama, problem çözme, analiz-sentez yapma gibi zihinsel süreçleri kapsar ve bu alandaki öğrenmenin sonunda kişi 'bilgi kazanır'. Duyuşsal alan; sevgi, saygı, hoşgörü, sorumluluk gibi duyguların öğrenilmesini ve sosyalleşmeyi içerir, sonucunda 'ilgi, alışkanlık, tutum kazanma' gerçekleşir. Psikomotor alan ise zihin-kas koordinasyonu gerektiren becerilerin öğrenimini kapsar ve sonucunda kişi 'beceri kazanır' (örn. ip atlayamazken atlayabilir hâle gelmesi). Bu üç alan birbirinden tamamen ayrı değildir; birindeki gelişim diğerlerini de etkiler. Bu nedenle antrenörlerin sporculara sadece psikomotor beceriler kazandırmakla kalmayıp duyuşsal ve bilişsel kazanımları da hedeflemesi gerekir.",
-        "Öğretim, Türk Dil Kurumu tanımına göre 'öğrenmeyi kolaylaştıracak etkinlikleri düzenleme, araç-gereçleri sağlama ve kılavuzluk etme işi'dir. Eğitim bireyde davranış değişikliği geliştirme süreciyken, öğretim bu değişikliğin planlı ve programlı şekilde nasıl yapılacağıyla ilgilidir; yani öğretim bir süreçtir, planlıdır ve öğreneni geliştirmeyi, öğrenmeyi başlatıp sürdürmeyi amaçlar.",
-        "Öğrenme, 'yaşantı sonucu davranışta ya da potansiyel davranışta meydana gelen nispeten kalıcı izli bir değişme' olarak tanımlanır. Eğitim bir süreçken öğrenme bu sürecin bir ürünüdür; bir başka deyişle eğitim neden, öğrenme ise sonuçtur. Öğrenmenin ortak özellikleri şunlardır: davranışta gözlenebilir bir değişme olması, bu değişmenin nispeten sürekli olması, yaşantı kazanma sonucunda oluşması; buna karşılık yorgunluk, hastalık, ilaç alma gibi geçici etkenlerle veya sadece büyüme sonucu meydana gelen değişiklikler öğrenme sayılmaz. İnsan davranışları üçe ayrılır: doğuştan gelen davranışlar (refleksler ve içgüdüler; örn. aşırı sese tepki vermek), geçici davranışlar (hastalık, ilaç, alkol etkisiyle oluşan davranışlar) ve sonradan kazanılan/öğrenme ürünü davranışlar (yazı yazma, top sürme, şut atma gibi). Antrenörlerin kazandıracağı veya değiştireceği davranışlar bu üçüncü gruba, öğrenme ürünü davranışlara aittir.",
-        "Spor pedagojisi, çocukların ve gençlerin hem sporda (psikomotor alan) hem de spor yoluyla (bilişsel ve duyuşsal alanlar) öğrenmeleriyle ilgilenen, spor bilimlerinin bir alt disiplinidir. Çok boyutlu ve çok katmanlı olan bu alan üç temel boyuttan oluşur: içerik (bağlam) bilgisi (öğretilecek bilginin siyasi, sosyal, kültürel bağlamı), öğrenenler ve öğrenme (çocuk/genç sporcuların farklı ihtiyaçlarının anlaşılması ve öğrenme kuramlarında uzmanlık) ve antrenörler/antrenörlük (antrenörün güçlü spor içerik bilgisini pedagojik alan bilgisiyle birleştirebilmesi). Güçlü bir spor bilgisine sahip olmak tek başına yeterli değildir; uzman ve başarılı antrenörler, spor içerik bilgisiyle pedagojik alan bilgisini birleştirebilen kişilerdir."
+      "heading": "Eğitim, Öğretim ve Öğrenme Nedir?",
+      "emoji": "📚",
+      "bullets": [
+        "Ertürk'ün tanımıyla **eğitim**, bireyin davranışlarında kendi yaşantısıyla kasıtlı olarak oluşturulan, **planlı ve programlı** bir değişim sürecidir.",
+        "Öğrenme üç alanda gerçekleşir: **bilişsel** alanda bilgi, **duyuşsal** alanda ilgi/tutum, **psikomotor** alanda beceri kazanılır.",
+        "**Öğretim**, öğrenmeyi kolaylaştıracak etkinlikleri düzenleme ve kılavuzluk etme işidir; eğitimin nasıl yapılacağını planlar.",
+        "**Öğrenme**, yaşantı sonucu davranışta oluşan **nispeten kalıcı bir değişmedir** — eğitim neden, öğrenme ise onun sonucu (ürünü)dür.",
+        "Davranışlar üçe ayrılır: **doğuştan gelen** (refleks/içgüdü, örn. ani sese irkilme), **geçici** (hastalık/ilaç etkisiyle) ve **öğrenme ürünü** davranışlar (top sürme, şut atma gibi) — antrenörler üçüncü grupla ilgilenir.",
+        "**Spor pedagojisi**, çocuk ve gençlerin sporda ve spor yoluyla öğrenmesini inceleyen bir alt disiplindir; içerik bilgisi, öğrenenler ve antrenörlük olmak üzere üç boyutu vardır.",
+        "Başarılı bir antrenör, güçlü spor bilgisini **pedagojik alan bilgisiyle** birleştirebilen kişidir."
       ]
     },
     {
       "heading": "Öğrenmeyi Etkileyen Faktörler",
-      "paragraphs": [
-        "Öğrenmeyi doğrudan etkileyen faktörler üç başlık altında ele alınır: öğrenenle ilgili faktörler, öğretme yöntemiyle ilgili faktörler ve öğrenme malzemesiyle ilgili faktörler.",
-        "Öğrenenle ilgili faktörler: Türe özgü hazıroluş (organizmanın istenen davranışı gösterecek biyolojik donanıma sahip olması; insana uçmanın öğretilememesi gibi) ve olgunlaşma (genetik olarak zamanı geldiğinde kendiliğinden oluşan, çevreden bağımsız biyolojik değişiklikler; bebeğin 5-6 ayda oturması gibi) temel ön koşullardır. Genel uyarılmışlık hali ve kaygı düzeyi öğrenmeyi U şeklinde etkiler: hem çok düşük hem çok yüksek uyarılmışlık/kaygı öğrenmeyi zorlaştırırken orta düzey bir uyarılmışlık öğrenmeyi kolaylaştırır; ancak sportif yetenek ve benlik saygısı yüksek olan sporcular yüksek kaygıya daha dayanıklıdır. Eski yaşantılar, öğrenmeyi transfer (aktarım) yoluyla etkiler: önceden öğrenilenler yeni öğrenmeyi kolaylaştırıyorsa olumlu transfer (badmintondaki ayak hareketlerinin voleybolu kolaylaştırması), zorlaştırıyorsa olumsuz transfer (masa tenisi forehandının tenis forehandını zorlaştırması) söz konusudur. Güdü (motivasyon), organizmayı harekete geçiren içsel (bireyin kendi ihtiyacını hissetmesi) veya dışsal (antrenör isteğiyle oluşan) kaynaklı olabilir. Dikkat ise bilincin bir noktada toplanmasıdır ve öğrenme dikkatle başlar; sporcunun yaşı büyüdükçe dikkat süresi de artar (ilkokulda ~3-5 dk, ortaokulda ~5-8 dk, lisede ~10-15 dk, üniversitede ~15-20 dk).",
-        "Öğretme yöntemiyle ilgili faktörler: Öğrenmeye ayrılan zaman aralıklı çalışma (konunun düzenli aralıklarla tekrar edilmesi, daha etkili) ile toplu çalışma (ihtiyaç anında yoğun çalışma, kalıcılık açısından zayıf) şeklinde ikiye ayrılır. Öğrenilen konunun yapısına göre basit beceriler bütün halinde (ip atlama gibi), kompleks beceriler parçalara bölerek (smaç gibi) öğretilmelidir. Sporcunun aktif katılımı arttıkça öğrenme de güçlenir, çünkü psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır. Geribildirim (dönüt), öğrenene öğrenme sonucunun bildirilmesidir; içsel (sporcunun kendi performansını değerlendirmesi) ve dışsal (antrenör, hakem, seyirci gibi başkalarının bilgi vermesi) olmak üzere ikiye ayrılır ve işitsel, görsel veya yazılı biçimde verilebilir.",
-        "Öğrenme malzemesiyle (içerikle) ilgili faktörler: Telaffuz edilebilirlik (malzemenin antrenör tarafından doğru ifade edilebilmesi; özellikle 6-11/12 yaş somut işlemler dönemindeki çocuklara bilmedikleri kelimelerle anlatım yapılmaması gerekir), algısal ayırt edilebilirlik (öğrenilecek bilginin çevredeki diğer uyarıcılardan ayırt edilebilir olması; vurgu, tekrar, görsel materyal kullanımı bunu sağlar), anlamsal çağrışım (yeni bilginin sporcunun zihnindeki diğer bilgilerle bağlantılı olması; bağlantısız bilgiler kolay unutulur ve bu durum transfer kavramıyla ilişkilidir) ve kavramsal gruplandırma (bilgilerin gruplar ve alt gruplar halinde sunulmasının öğrenmeyi kolaylaştırması; anlamsal çağrışımdan farkı, bu dizilimin öznel değil nesnel olmasıdır)."
+      "emoji": "🧠",
+      "bullets": [
+        "Üç faktör grubu öğrenmeyi etkiler: **öğrenenle ilgili**, **öğretme yöntemiyle ilgili** ve **öğrenme malzemesiyle ilgili** faktörler.",
+        "Öğrenenle ilgili: **türe özgü hazıroluş** (biyolojik olarak o davranışa uygun olma) ve **olgunlaşma** (zamanla kendiliğinden oluşan biyolojik gelişim) temel ön koşuldur.",
+        "**Genel uyarılmışlık/kaygı** öğrenmeyi U şeklinde etkiler — çok düşük ya da çok yüksek değil, orta düzey uyarılmışlık öğrenmeyi en çok kolaylaştırır.",
+        "**Eski yaşantılar**, yeni öğrenmeyi **transfer** yoluyla etkiler: kolaylaştırırsa olumlu, zorlaştırırsa olumsuz transfer denir.",
+        "**Güdü (motivasyon)** içsel (kişinin kendi isteği) veya dışsal (antrenörden gelen) olabilir; **dikkat** öğrenmenin başladığı noktadır ve yaşla birlikte süresi artar.",
+        "Öğretme yöntemiyle ilgili: düzenli **aralıklı çalışma**, yoğun **toplu çalışmadan** daha kalıcıdır; sporcunun aktif katılımı arttıkça öğrenme güçlenir.",
+        "**Geribildirim (dönüt)**, sporcuya performansının ne kadar doğru/hatalı olduğunu bildirmektir (içsel ya da dışsal); malzemede de telaffuz edilebilirlik, algısal ayırt edilebilirlik, anlamsal çağrışım ve kavramsal gruplandırma önemlidir."
       ]
     },
     {
-      "heading": "Öğretme ve Öğrenmenin Kuramsal Temelleri",
-      "paragraphs": [
-        "Öğrenmeyi açıklamaya çalışan kuramlar dört ana başlıkta toplanır: davranışçı öğrenme kuramları, sosyal-bilişsel (bilişsel ağırlıklı davranışçı) kuram, bilişsel öğrenme kuramları ve yapılandırmacı öğrenme kuramı.",
-        "Davranışçı öğrenme kuramları (Pavlov, Watson, Thorndike, Guthrie, Skinner), öğrenmeyi uyarıcı (U) ile tepki (T) arasında bağ kurma süreci olarak tanımlar; önemli olan bireyin ne düşündüğü değil ne yaptığıdır ve tüm değişkenler çevrededir. Pavlov'un klasik koşullamasında uyarıcı genellemesi (benzer uyarıcılara aynı tepkiyi verme; sert bir antrenörden korkan oyuncunun tüm antrenörlerden korkması), ayırt etme (genellemenin tersi; belirli bir antrenörden korkup diğerlerinden korkmama), alışma (tekrarlanan uyarıcıya tepkinin azalması) ve duyarlılık kazanma (tekrarlanan uyarana normalden fazla tepki verme) ilkeleri yer alır; öğrenilmiş çaresizlik de sporcunun ne yaparsa yapsın durumu değiştiremeyeceğini öğrenmesidir. Thorndike'ın hazırbulunuşluk yasası, bir etkinliği yapmaya hazır olup olmamanın duygusal sonuçlarını açıklar; etki yasasına göre pekiştirilen tepkinin gücü artar. Skinner'ın edimsel koşullamasında pekiştireç (hoşa giden uyarıcı) davranışı güçlendirir: olumlu pekiştirme/pekiştireç (hoşa giden bir şeyin verilmesi, örn. antrenörün 'bravo' demesi) ve olumsuz pekiştirme/pekiştireç (hoş olmayan bir durumdan kaçınmanın sağlanması, örn. ağrı kesici alıp oynama) ayrımı önemlidir; Premack ilkesi az istenen bir etkinliğin daha çok istenen bir etkinliğe bağlanmasıdır (antrenman sonunda maç yaptırmak gibi). Pekiştireçler bireysel olmalı, davranış gerçekleştiğinde mümkün olan en kısa sürede verilmeli ve yeni öğrenilen bir davranışta sürekli, iyi öğrenilmiş bir davranışta ise daha seyrek pekiştirme (tarife) kullanılmalıdır; davranışın küçük adımlara bölünerek pekiştirilmesine şekillendirme denir. Ceza, istenmeyen davranışı zayıflatmayı hedefler (mola verme gibi).",
-        "Bandura'nın sosyal-bilişsel öğrenme kuramına göre birey her şeyi doğrudan yaşamadan, başkalarını (saygın, güçlü modelleri) gözleyerek de öğrenebilir; gözlenen davranış pekiştiriliyorsa taklit edilir, cezalandırılıyorsa edilmez. Bu kuramda öğrenme dört süreçte gerçekleşir: dikkat etme (modelin dikkat çekici kılınması), hatırda tutma (sözel/sembolik temsil), davranışı meydana getirme (tekrar ederek davranışa dönüştürme) ve güdüleme (dışsal pekiştireçle davranışı sürdürme isteği oluşturma). Antrenörler sporcuları için birer model olduklarından antrenman içinde ve dışında davranışlarına dikkat etmelidir.",
-        "Bilişsel öğrenme kuramları, davranışçılığın U-T bağının aksine öğrenmeyi U-O-T (uyarıcı-organizma-tepki) bağı ile açıklar; öğrenen, bilgiyi pasif almak yerine özümseyen ve aktif olarak yapılandıran biridir. Gestalt kuramcılarına (Wertheimer, Köhler, Koffka) göre insanlar nesneleri bütün olarak algılar, bütün parçaların toplamından farklıdır ve öğrenme şekil-zemin ilişkisindeki değişmedir; bu nedenle antrenör önce genel çerçeveyi sunmalı, sporcuyu bilişsel dengesizliğe sokarak problem çözmeye yöneltmelidir. Bilgiyi işleme kuramı ise bilginin nasıl alındığını, işlendiğini, uzun süreli bellekte depolandığını ve geri getirildiğini açıklayan bir modeldir (dikkat/seçici algı → kısa süreli bellek/kodlama → uzun süreli bellek → hatırlama, unutma riskiyle birlikte). Bu modele göre antrenörler sporcunun dikkatini çekmeli, önemli bilgiyi ayrıştırmasına yardım etmeli, yeni bilgiyi eski bilgiyle ilişkilendirmeli (eklemleme), örgütleme stratejileri (tablo, grafik) kullanmalı, somut örnekler vermeli, karıştırmayı önleyici tedbirler almalı ve aralıklı tekrar/özetlemelere yer vermelidir.",
-        "Yapılandırmacı öğrenme kuramı (Piaget - bilişsel yapılandırmacılık, Vygotsky - sosyal yapılandırmacılık), öğrenenlerin etkili öğrenmesi için yeni bilgiler karşısında bir dengesizlik sürecinin gerekli olduğunu savunur. Öğrenme bireyin zihninde gerçekleşen, önceki bilgi ve deneyimlere dayanarak yeni anlamlar inşa etme sürecidir; öğrenen pasif bir alıcı değil, aktif bir yapılandırıcıdır. Bu yaklaşımda pedagojik odak 'görev yönelimli'dir; antrenörün rolü bilgiyi doğrudan vermek değil, sporcunun kendi anlamını oluşturmasını kolaylaştırmaktır. Öğrenme-öğretme ortamının keşfe yönelik, uygulamalı, aktif ve işbirlikli (akran eğitimi, grup çalışması, durumsal öğrenme, yansıtıcı uygulamalar) olması beklenir; aşırı kuralcı bir yaklaşım öğrenmeyi olumsuz etkileyebilir."
+      "heading": "Öğrenme Kuramları",
+      "emoji": "💡",
+      "bullets": [
+        "Öğrenme kuramları dört grupta toplanır: **davranışçı**, **sosyal-bilişsel**, **bilişsel** ve **yapılandırmacı** kuramlar.",
+        "**Davranışçı kuramlar** (Pavlov, Skinner...) öğrenmeyi **uyarıcı-tepki (U-T)** bağı olarak görür; önemli olan düşünce değil davranıştır. Pavlov'dan **genelleme, ayırt etme, alışma ve duyarlılık kazanma** kavramları gelir.",
+        "Sporcunun ne yaparsa yapsın sonucu değiştiremeyeceğini öğrenmesine **öğrenilmiş çaresizlik** denir; Skinner'ın edimsel koşullamasında davranışı güçlendiren hoşa giden/gitmeyen uyarıcıya **pekiştireç** denir (olumlu/olumsuz).",
+        "Pekiştireç, davranıştan **hemen sonra, en kısa sürede** ve kişiye özel verilmelidir; **Premack ilkesi** az istenen işi çok istenen işe bağlamaktır, davranışı adım adım pekiştirmeye **şekillendirme** denir.",
+        "**Bandura'nın sosyal-bilişsel kuramına** göre insan başkalarını gözleyerek de öğrenir; bu süreç **dikkat etme, hatırda tutma, davranışı meydana getirme ve güdülenme** adımlarından geçer — antrenörler sporcuları için birer modeldir.",
+        "**Bilişsel kuramlar**, öğrenmeyi **U-O-T** (uyarıcı-organizma-tepki) ile açıklar; odakta gözlenebilir bir ürün değil, bireyin zihninde gerçekleşen **süreç** (algılama, anlam verme) vardır ve öğrenme içsel güdülenmeyle, insani biçimde gerçekleşir.",
+        "**Yapılandırmacı kuram** (Piaget, Vygotsky), öğrenmenin gerçekleşmesi için bir **dengesizlik** yaşanmasını gerekli görür; öğrenen pasif değil, bilgiyi kendi zihninde aktif olarak **yapılandıran** biridir."
       ]
     },
     {
-      "heading": "Öğrenme ve Öğretim İlkeleri",
-      "paragraphs": [
-        "Öğrenme ve öğretim ilkeleri, antrenörlere sporculara istendik bilgi, beceri ve duyuşsal özellikler kazandırmada yol gösteren, on iki temel ilkeden oluşan bir çerçevedir.",
-        "Sporcuya görelik (düzeye uygunluk) ilkesi, sporcunun ilgi, ihtiyaç, yetenek ve hazırbulunuşluk düzeyine göre öğretim yapılmasını; etkin katılım ilkesi, sporcunun öğrenme sürecine ne kadar çok duyu organıyla katılırsa öğrenmenin o kadar kalıcı olacağını ('duyarım unuturum, görürüm hatırlarım, yaparım anlarım') ifade eder. Yaşama yakınlık ilkesi, öğrenilenlerin gerçek yaşam koşullarında kullanılmasını (sporcuları maça götürüp izletmek gibi); somuttan soyuta ilkesi özellikle 6-11/12 yaş çocuklarda gerçek nesne ve görsel-işitsel materyal kullanımının önemini vurgular.",
-        "Bilinenden bilinmeyene ilkesi, yeni bilgi ve becerilerin sporcunun önceden sahip olduğu bilgi üzerine inşa edilmesini gerektirir; bunun için antrenörün öncelikle sporcuların hazırbulunuşluk düzeylerini tespit etmesi şarttır. Güncellik (aktüalite) ilkesi, konuların güncel olay ve örneklerle ilişkilendirilmesini; yakından uzağa ilkesi, öğretimin sporcunun en yakın fiziksel/sosyal çevresinden başlamasını önerir.",
-        "Basitten karmaşığa ilkesi, içeriğin kolaydan zora sıralanmasını (hentbolda önce temel pas, sonra yerden pas, bilek pası gibi); genelden özele (tümdengelim) ilkesi ise önce bütünün, sonra parçaların öğretilmesini savunur (smaçı bütün olarak gösterip sonra adımlama-sıçrama-kol hareketini ayrı öğretmek gibi). Ekonomiklik ilkesi, en az maliyet, süre ve çabayla en fazla verimi hedefler; açıklık (ayanilik) ilkesi, antrenörün kullandığı dilin sporcunun düzeyine uygun, sade ve anlaşılır olmasını gerektirir. Son olarak bütünlük ilkesi, sporcunun sadece psikomotor değil bilişsel ve duyuşsal yönden de bir bütün olarak geliştirilmesi gerektiğini vurgular."
+      "heading": "Öğretim İlkeleri",
+      "emoji": "🎯",
+      "bullets": [
+        "**Sporcuya görelik** ilkesi öğretimin sporcunun ilgi/ihtiyaç/hazırbulunuşluk düzeyine göre yapılmasını; **etkin katılım** ilkesi sporcunun ne kadar çok duyuyla katılırsa o kadar kalıcı öğreneceğini savunur.",
+        "**Yaşama yakınlık** ilkesi öğrenilenlerin gerçek hayatta kullanılmasını, **somuttan soyuta** ilkesi özellikle küçük çocuklarda gerçek nesne ve görsel materyal kullanımını önerir.",
+        "**Bilinenden bilinmeyene** ilkesi, yeni bilgiyi sporcunun önceki bilgisi üzerine inşa etmeyi gerektirir — bunun için antrenör önce sporcunun **hazırbulunuşluk düzeyini tespit etmelidir**.",
+        "**Güncellik (aktüalite)** ilkesi konuları güncel örneklerle ilişkilendirmeyi, **yakından uzağa** ilkesi öğretime sporcunun yakın çevresinden başlamayı önerir.",
+        "**Basitten karmaşığa** ilkesi içeriği kolaydan zora sıralar; **genelden özele** ilkesi ise önce bütünü sonra parçaları öğretmeyi savunur (örn. önce smaçın tamamı, sonra adımları).",
+        "**Ekonomiklik** ilkesi en az çaba/süreyle en fazla verimi, **açıklık (ayanilik)** ilkesi sade ve anlaşılır bir dil kullanmayı hedefler.",
+        "**Bütünlük** ilkesi, sporcunun sadece beceri değil, bilişsel ve duyuşsal yönden de bir bütün olarak geliştirilmesi gerektiğini vurgular."
       ]
     },
     {
       "heading": "Öğretme Stratejileri",
-      "paragraphs": [
-        "Öğretme stratejisi, antrenman hedeflerine ulaşmak için izlenen genel öğretim yoludur ve üçe ayrılır: sunuş yoluyla öğretme, buluş (keşfetme) yoluyla öğretme ve araştırma-inceleme yoluyla öğretme.",
-        "Sunuş yoluyla öğretme stratejisi (Ausubel), kavram ve genellemelerin antrenör tarafından açıklayıcı biçimde, bütün-parça-bütün (tümdengelimsel) mantıkla doğrudan verildiği, antrenörün aktif/merkezde, sporcunun yarı aktif olduğu bir stratejidir. Basamakları: temel kavramı açıklama, alt kavramları tanımlama, örnekler verme, sporcuların kendi örneklerini vermesi, konuyu özetleme ve nesnel değerlendirme yapmadır. İçeriğin fazla, sürenin az ve sporcu sayısının kalabalık olduğu durumlarda tercih edilir; zamandan ekonomi sağlar ancak sporcuyu daha pasif bırakır.",
-        "Buluş (keşfetme) yoluyla öğretme stratejisi (Bruner), öğreneni temele alır; sporcular örnekleri inceleyip karşılaştırarak, tümevarımsal bir akıl yürütmeyle ilke ve ilişkileri kendileri keşfeder. Basamakları antrenörün örnek sunması, sporcunun örneği tanımlaması, ek ve olumsuz örneklerle karşılaştırma yapılması ve sonunda sporcunun tanımı kendisinin oluşturmasıdır. Orijinal fikir üretme, esnek düşünme ve özgüven kazandırma gibi avantajları vardır, fakat sunuştan daha fazla hazırlık ve antrenör yönlendirme becerisi gerektirir.",
-        "Araştırma-inceleme yoluyla öğretme stratejisi (Dewey), bir problem çözme yaklaşımıdır: sporcu problemi hisseder, tanımlar, denenceler (olası çözümler) kurar, veri toplar ve verileri değerlendirerek sonuca ulaşır. Sporcuların aktif katılımını, bilimsel düşünmeyi ve sorumluluk duygusunu geliştirir; ancak zaman alıcı olması, antrenörden iyi hazırlık istemesi ve kalabalık gruplarda bazı sporcuların geri planda kalması gibi sınırlılıkları vardır."
+      "emoji": "🧭",
+      "bullets": [
+        "**Öğretme stratejisi**, antrenman hedefine ulaşmak için izlenen genel yoldur; üçe ayrılır: **sunuş**, **buluş** ve **araştırma-inceleme** yoluyla öğretme.",
+        "**Sunuş yoluyla öğretme** (Ausubel), bilginin antrenör tarafından doğrudan ve bütün-parça-bütün mantığıyla açıklandığı stratejidir; kalabalık gruplarda zamandan tasarruf sağlar ama sporcuyu pasif bırakır.",
+        "**Buluş (keşfetme) yoluyla öğretme** (Bruner), sporcunun örnekleri inceleyerek ilke ve ilişkileri kendi keşfetmesine dayanır; özgüven ve esnek düşünme kazandırır ama daha fazla hazırlık gerektirir.",
+        "**Araştırma-inceleme yoluyla öğretme** (Dewey), bir problem çözme yaklaşımıdır: sporcu problemi hisseder, tanımlar, **denenceler** kurar, veri toplar ve sonuca kendisi ulaşır.",
+        "Bu stratejide antrenörün rolü **rehberlik etmektir** — çözüm yollarını doğrudan anlatmak, sporcunun kendi keşfetme sürecini ortadan kaldırır.",
+        "Araştırma-inceleme aktif katılım ve bilimsel düşünmeyi geliştirir ama zaman alır ve kalabalık gruplarda bazı sporcular geri planda kalabilir."
       ]
     },
     {
       "heading": "Genel Öğretim Yöntemleri",
-      "paragraphs": [
-        "Yöntem, bir hedefe ulaşmak için izlenen en kısa yoldur; bu bölümde antrenörlerin bilişsel ve duyuşsal hedefleri kazandırmada kullanabileceği beş genel yöntem ele alınır: anlatma, soru-cevap, tartışma, gösteri ve örnek olay.",
-        "Anlatma yöntemi, antrenörün olay ve ilkeleri sözel olarak sporculara aktardığı, sporcunun dinleyici/pasif kaldığı geleneksel bir yöntemdir; konuya giriş ve özetleme bölümlerinde, zamandan tasarruf gerektiğinde kullanışlıdır, ancak psikomotor hedeflerde ve işiterek öğrenmeyi tercih etmeyen sporcularda etkisi sınırlıdır.",
-        "Soru-cevap tekniği, antrenörün sorular sorarak öğretimi sürdürmesidir; hem sunuş (kapalı uçlu sorular) hem buluş (açık uçlu sorular) stratejilerinde kullanılabilir. İyi bir soru sporcunun düzeyine uygun, açık, düşündürücü ve 'evet/hayır' ile cevaplanamayan nitelikte olmalı; sorular tüm gruba dengeli dağıtılmalıdır.",
-        "Tartışma yöntemi, iki veya daha fazla kişinin bir konuyu görüş ve düşünce alışverişiyle açıklığa kavuşturmasıdır; grup bütünlüğünü, iletişim ve dinleme becerilerini geliştirir, fakat yavaş ilerleme ve bazı sporcuların tartışmayı tekeline alması gibi sınırlılıkları vardır. Gösteri (demonstrasyon), bir işin antrenör veya sporcu tarafından yapılarak gösterilmesidir; özellikle psikomotor davranışların öğretiminde yazılı/sözel anlatımdan daha etkilidir ve basit, sporcuların görebileceği konumda, anlatımla uyumlu şekilde yapılmalıdır.",
-        "Örnek olay yöntemi, gerçek yaşamdan bir problem durumunun sporculara sunularak çözüm önerileri üretilmesine dayanır; analitik düşünmeyi, araştırma-problem çözme yeteneğini ve empatiyi geliştirir. Seçilen olay sporcunun düzeyine uygun, ikilem yaratan ve ilgi çekici olmalı; kalabalık gruplarda olay küçük gruplara bölünerek incelenmeli ve sonunda ortak sonuçlara varılmalıdır."
+      "emoji": "🗣️",
+      "bullets": [
+        "**Yöntem**, bir hedefe ulaşmak için izlenen en kısa yoldur; beş temel yöntem vardır: **anlatma, soru-cevap, tartışma, gösteri ve örnek olay**.",
+        "**Anlatma** yöntemi, antrenörün bilgiyi sözel olarak aktardığı, sporcunun pasif dinleyici kaldığı geleneksel bir yöntemdir; girişte ve özetlemede kullanışlıdır.",
+        "**Soru-cevap** tekniğinde antrenör sorularla öğretimi yönlendirir; iyi bir soru açık, düşündürücü ve 'evet/hayır' ile cevaplanamayan nitelikte olmalıdır.",
+        "**Tartışma** yöntemi, görüş alışverişiyle bir konuyu açıklığa kavuşturur; iletişim becerilerini geliştirir ama yavaş ilerler.",
+        "**Gösteri (demonstrasyon)**, bir işin yapılarak gösterilmesidir; özellikle psikomotor becerilerde sözel anlatımdan daha etkilidir.",
+        "**Örnek olay** yöntemi, gerçek bir problem durumunu sporculara sunup çözüm aramalarını sağlar; analitik düşünme ve empati geliştirir."
       ]
     }
   ],
@@ -82,7 +101,13 @@
     {
       "id": "u6q1",
       "question": "Yaşantılar sonucu davranışlarımızda oluşan oldukça kalıcı değişikliklere ne ad verilir?",
-      "options": ["Eğitim", "Öğretim", "Öğrenme", "Öğretme", "Algı"],
+      "options": [
+        "Eğitim",
+        "Öğretim",
+        "Öğrenme",
+        "Öğretme",
+        "Algı"
+      ],
       "correctIndex": 2,
       "explanation": "Öğrenme, metinde 'yaşantı sonucu davranışta ya da potansiyel davranışta meydana gelen nispeten kalıcı izli bir değişme' olarak tanımlanır. Eğitim bu değişikliği kasıtlı olarak sağlayan daha kapsamlı süreç, öğretim ise bu sürecin nasıl düzenleneceğiyle ilgilidir; soruda tarif edilen doğrudan öğrenmedir.",
       "optionNotes": [
@@ -96,7 +121,13 @@
     {
       "id": "u6q2",
       "question": "Aşağıdakilerden hangisi öğrenmeyi etkileyen öğrenenle ilgili öğelerden biri değildir?",
-      "options": ["Genel uyarılmışlık düzeyi", "Dikkat", "Eski yaşantılar", "Katılma", "Güdü"],
+      "options": [
+        "Genel uyarılmışlık düzeyi",
+        "Dikkat",
+        "Eski yaşantılar",
+        "Katılma",
+        "Güdü"
+      ],
       "correctIndex": 3,
       "explanation": "Metinde öğrenenle ilgili faktörler türe özgü hazıroluş, olgunlaşma, genel uyarılmışlık hali, eski yaşantılar, güdü ve dikkat olarak sayılmıştır. Katılım (sporcunun aktif katılımı) ise öğretme yöntemiyle ilgili faktörler grubunda ele alınmıştır, çünkü katılım düzeyi kullanılan öğretim yönteminin niteliğine bağlıdır.",
       "optionNotes": [
@@ -110,7 +141,13 @@
     {
       "id": "u6q3",
       "question": "\"Yaptıklarının ve söylediklerinin ne kadar hatalı ya da hatasız olduğuna ilişkin bilgi edinen sporcu daha kolay öğrenmektedir.\" Yukarıdaki ifade hangi kavram ile ilgilidir?",
-      "options": ["Olgunlaşma", "Hazıroluş", "Güdü", "Pekiştireç", "Dönüt"],
+      "options": [
+        "Olgunlaşma",
+        "Hazıroluş",
+        "Güdü",
+        "Pekiştireç",
+        "Dönüt"
+      ],
       "correctIndex": 4,
       "explanation": "Metinde geribildirim (dönüt/feedback), 'öğrenene öğrenme sonucunun bildirilmesi', yani sporcunun ne kadar doğru veya hatalı yaptığı konusunda bilgilendirilmesi olarak tanımlanmıştır. Bu nedenle ifade doğrudan dönüt (geribildirim) kavramıyla ilgilidir.",
       "optionNotes": [
@@ -224,7 +261,13 @@
     {
       "id": "u6q9",
       "question": "Halil antrenör öğretim sürecini düzenlerken öncelikle sporcularının hazır bulunuşluklarını dikkate almaktadır. Halil antrenörün öğretimde hangi ilkeyi öncelikle dikkate aldığı savunulabilir?",
-      "options": ["Aktivite", "Hayatilik", "Basitten karmaşığa", "Bilinenden bilinmeye", "Sporcuya görelik"],
+      "options": [
+        "Aktivite",
+        "Hayatilik",
+        "Basitten karmaşığa",
+        "Bilinenden bilinmeye",
+        "Sporcuya görelik"
+      ],
       "correctIndex": 3,
       "explanation": "Metinde 'Bilinenden bilinmeyene ilkesi' açıklanırken tam olarak şu ifade kullanılmıştır: 'Bu ilkenin uygulanabilmesi için antrenörün öncelikle sporcuların hazırbulunuşluk düzeylerini tespit etmesi ... gerekmektedir.' Sorudaki 'öncelikle hazır bulunuşluklarını dikkate alma' ifadesi bu tanımla birebir örtüşmektedir. NOT: Kitabın orijinal yanıt anahtarında bu soru için 'C' (Basitten karmaşığa) harfi verilmiştir; ancak basitten karmaşığa ilkesi içeriğin kolaydan zora sıralanmasıyla ilgilidir ve hazırbulunuşluk tespitiyle doğrudan ilişkilendirilmemiştir. Ünite metnindeki açık eşleşme nedeniyle bu, olası bir dizgi/yanıt anahtarı hatası olarak değerlendirilip yanıt 'Bilinenden bilinmeye' (D) olarak düzeltilmiştir.",
       "optionNotes": [

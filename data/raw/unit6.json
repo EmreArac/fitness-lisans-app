@@ -21,63 +21,98 @@
   "summary": [
     {
       "heading": "Birim Antrenman Nedir?",
-      "paragraphs": [
-        "Birim antrenman, günlük antrenman olarak da ifade edilen ve antrenman planlamasının en küçük parçası olan tek bir çalışma programıdır. Bompa'ya göre bir antrenman birimi, aşamalı artan yüklenme ilkesine bağlı olarak antrenörün yapılan çalışmadaki artış ve azalmayı izlemesine olanak sağlayacak biçimde düzenlenmelidir. Birim antrenmanın amaç ve içeriği belirlenirken haftalık (mikro) ve aylık (makro) planlara bağlı kalınmalıdır.",
-        "Birim antrenman; ısınma, ana (temel) bölüm ve soğuma (bitiriş) bölümlerini kapsayan uygulanabilir tek bir programdır. Bazı kaynaklarda bu üç bölüme ek olarak bir de başlangıç (giriş) bölümü eklenir ve toplam dört bölümden söz edilir: giriş, ısınma, ana bölüm, soğuma. Giriş bölümünde sporcuların toplanması, yoklama alınması ve antrenmanın amacı, şiddeti ve yoğunluğunun anlatılması sağlanır; bu bölüm yeni başlayan sporcularda 5-10 dakika sürerken tecrübeli sporcularda kısaltılabilir ya da tamamen atlanabilir.",
-        "Birim antrenmanın süresi sporcunun yaşına, cinsiyetine, gelişim düzeyine, deneyimine, spor dalına ve antrenman evresine bağlı olarak değişmekle birlikte ortalama 2 saat (120 dakika) civarındadır. Süresine göre birim antrenmanlar kısa (30-90 dakika), orta (2-3 saat) ve uzun (3 saat üzeri) olarak sınıflandırılabilir."
+      "emoji": "🧩",
+      "bullets": [
+        "**Birim antrenman**, günlük antrenman demektir ve antrenman planlamasının en küçük parçasıdır.",
+        "Bompa'ya göre yüklenme aşamalı artmalı, antrenör artış ve azalmayı buradan takip etmelidir.",
+        "İçeriği her zaman haftalık (**mikro**) ve aylık (**makro**) plana bağlı kalınarak belirlenir.",
+        "Temelde 3 bölümden oluşur: **ısınma**, **ana bölüm**, **soğuma** — bazı kaynaklarda buna bir de **giriş** bölümü eklenir, toplam 4 bölüm olur.",
+        "Giriş bölümünde yoklama alınır, amaç ve şiddet anlatılır; yeni başlayanlarda 5-10 dakika sürer, tecrübelilerde kısalır ya da hiç yapılmaz.",
+        "Ortalama süresi **~2 saat (120 dakika)**'dır: kısa (30-90 dk), orta (2-3 saat), uzun (3 saat üzeri) olarak sınıflanır."
       ]
     },
     {
       "heading": "Isınma (Hazırlık) Bölümü",
-      "paragraphs": [
-        "Isınma, antrenman ya da yarışma sırasında en üst düzeyde verim gelişimi için gerekli görülür; uygun bir ısınma sporcunun kas aktivitelerini artırarak antrenman ya da müsabakaya iyi bir düzeyde hazırlanmasını sağlar. Isınma için aktif ve pasif ısınma olmak üzere iki sınıflama yapılır. Aktif ısınma, fiziksel aktivite uygulamalarıyla kas ve vücut ısısının yükseltilmesidir ve kendisi de genel ısınma (koşu, bisiklet, cimnastik gibi genel hareketler) ile özel ısınma (spor branşına özgü hareketler) olarak ikiye ayrılır. Pasif ısınma ise sauna, sıcak duş, ısıtma torbaları gibi yöntemlerle sporcunun kendi enerjisini kullanmadan kas ve vücut ısısını yükseltmesidir.",
-        "İdeal ısınma süresi genel olarak 25-30 dakika kadar olmalıdır; Bompa bu süreyi ortalama 30 dakika olarak verirken tecrübeli sporcularda 45 dakikaya kadar çıkabileceğini belirtir. Isınmanın en önemli özelliği vücut ısısının yaklaşık 1°C kadar artırılmasıdır; ısınmanın başlamasından 3-5 dakika sonra vücut ısısı yükselmeye başlar ve 10-20 dakika arasında en üst düzeye çıkar. Günay'a göre ısınma süresinin 1/3'ü genel ısınmaya, 2/3'ü ise özel ısınmaya ayrılmalıdır.",
-        "Aktif ısınmanın fizyolojik etkileri arasında kas ve eklem kuvvetinin artışı, kılcal damarların genişleyerek kaslara kan akışının hızlanması, sinir iletim hızının ve metabolik tepkime oranının artması sayılabilir. Isınmanın ayrıca sporcuyu konsantrasyon ve motivasyon yönünden müsabakaya hazırlayan psikolojik etkileri ve yaralanma riskini azaltan koruyucu etkileri de vardır.",
-        "Güncel kaynaklara göre ısınma bölümünde dinamik germe hareketleri tercih edilmeli, statik germe (streching) hareketlerinden kaçınılmalıdır; çünkü vücut soğukken yapılan statik germe kaslarda mikro yırtıklara ve ciddi yaralanmalara yol açabilir. Statik germe egzersizleri daha çok antrenmanın soğuma bölümünde uygulanmalıdır."
+      "emoji": "🔥",
+      "bullets": [
+        "Isınma, antrenman ya da yarışmadan en iyi verimi almak için kas ve vücudu hazırlar.",
+        "İki türü var: **aktif ısınma** (hareketle, kendi enerjinle) ve **pasif ısınma** (sauna, sıcak duş gibi dış kaynaklarla).",
+        "Aktif ısınma kendi içinde **genel ısınma** (koşu, bisiklet gibi) ve **özel ısınma** (branşa özel hareketler) olarak ikiye ayrılır.",
+        "İdeal ısınma süresi **25-30 dakika**'dır; tecrübeli sporcularda 45 dakikaya kadar çıkabilir.",
+        "Vücut ısısı ısınmanın 3-5. dakikasında yükselmeye başlar, 10-20. dakikada tepe noktaya çıkar (yaklaşık **1°C** artış).",
+        "Kas-eklem gücünü, kan akışını ve sinir iletim hızını artırır; konsantrasyonu yükseltir, yaralanma riskini azaltır.",
+        "Vücut soğukken **statik germe** yapılmamalı (mikro yırtık riski); ısınmada **dinamik germe** tercih edilir, statik germe soğuma bölümüne bırakılır."
       ]
     },
     {
       "heading": "Ana (Temel) Bölüm",
-      "paragraphs": [
-        "Antrenmanın asıl kısmı olan ana bölümde sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel biyomotor yetileri ve psikolojik nitelikleri geliştirmek amaçlanır. Bompa'ya göre yeni başlayan sporcularda öğrenme önceliklidir, bu nedenle uygulama sıralaması genellikle teknik/taktik öğrenimi, sürat ve çeviklik geliştirme, kuvvet geliştirme ve dayanıklılık geliştirme şeklinde olmalıdır. Temel bölümün başında yorgunluk az olduğundan yeni beceriler ve teknik-taktik öğretimine öncelik verilmeli, dayanıklılık çalışmaları ise yorucu niteliği nedeniyle genellikle bölümün sonuna bırakılmalıdır.",
-        "Ana bölümün içeriği sporun türüne, sporcunun cinsiyetine, yaşına, antrenman durumuna ve antrenman evresine göre değişir; üst düzey sporcularda aynı antrenmanda birden fazla parametrenin (teknik, taktik, fiziksel, psikolojik) birlikte geliştirilmesi hedeflenebilir. Antrenörler birim antrenmanın sonunda genellikle kondisyonu geliştirmek amacıyla 'tamamlayıcı antrenman' olarak adlandırılan, 15-20 dakikalık ek fiziksel çalışmalar uygulatabilir; bu uygulamalar genellikle tam tükenmeye ulaşılmayan antrenmanlardan sonra tercih edilir."
+      "emoji": "💪",
+      "bullets": [
+        "Antrenmanın asıl kısmıdır: yeni beceri, **teknik ve taktik** öğretimi, biyomotor ve psikolojik gelişim burada yapılır.",
+        "Bompa'ya göre yeni başlayan sporcularda öğrenme önceliklidir.",
+        "Sıralama genelde şöyle gider: **teknik/taktik** → sürat/çeviklik → kuvvet → dayanıklılık.",
+        "Dayanıklılık çalışmaları en yorucu olduğu için bölümün sonuna bırakılır; yorgunluk yeni beceri öğrenimini zorlaştırır.",
+        "İçerik; spor türüne, cinsiyete, yaşa ve antrenman evresine göre değişir; üst düzey sporcularda birden fazla özellik birlikte geliştirilebilir.",
+        "Antrenman sonunda 15-20 dakikalık ek **\"tamamlayıcı antrenman\"** uygulanabilir, genelde tam tükenmeye ulaşmayan antrenmanların ardından."
       ]
     },
     {
       "heading": "Bitiriş (Soğuma) Bölümü",
-      "paragraphs": [
-        "Ana bölümün tamamlanmasının ardından geçilen soğuma bölümü, egzersizden önceki duruma dönüşü sağlamak için vücut fonksiyonlarını ve kan dolaşımını kademeli olarak yorgunluktan uzaklaştıran hareketlerden oluşur. Antrenman ya da müsabaka sonrasında kanda ve kasta biriken laktik asit ve atık ürünlerin uzaklaştırılması için soğuma bölümü gereklidir.",
-        "Soğuma yaklaşık 20 dakika civarı sürer ve iki ana bölümden oluşur: ilk yaklaşık 10 dakika düşük tempoda (maksimal kalp atım sayısının %40-50'si) aktif jog ve benzeri toparlanma hareketleri, ikinci yaklaşık 10 dakika ise statik germe alıştırmalarıdır. Statik germe hareketleri egzersiz sonrası için uygunken dinamik germe hareketleri ısınma bölümü için daha uygundur."
+      "emoji": "🧊",
+      "bullets": [
+        "Soğuma, egzersiz öncesi duruma dönüşü sağlar ve kandaki/kastaki laktik asit ile atık ürünleri temizler.",
+        "Toplam süresi yaklaşık **20 dakika**'dır.",
+        "İlk ~10 dakika düşük tempoda **aktif soğuma**: jog ve benzeri toparlanma hareketleri (maksimal kalp atımının %40-50'si).",
+        "İkinci ~10 dakika **statik germe** alıştırmalarıdır.",
+        "Dinlenme temelli **pasif soğuma** yöntemleri de toparlanma sürecinin bir parçası olabilir.",
+        "Statik germe egzersiz sonrası için uygundur; dinamik germe ise ısınma bölümüne özeldir."
       ]
     },
     {
       "heading": "Haftalık (Mikro) Antrenman Planlaması",
-      "paragraphs": [
-        "Mikro antrenman planlaması, haftalık yapılacak birim antrenman sayısının belirlenmesidir; genellikle haftada 3-6 arası yapılan planlamalar mikro plan olarak kabul edilir. Bir biyomotor yetinin (kuvvet, dayanıklılık, sürat, esneklik, koordinasyon) geliştirilmesi, benzer içerikli antrenman birimlerinin art arda en az 2-3 defa tekrarlanmasını gerektirir. Dayanıklılık geliştirmek için haftada en az 3, dayanıklılığı korumak için yarışma evresinde haftada 2 antrenman yeterli olabilir; kuvvet ve sürat düzeyini korumak için haftada 1-2, plyometrik ve çeviklik antrenmanları için haftada 2-3 gün antrenman önerilir.",
-        "Mikro döngü yapılandırılırken sporcunun biyolojik ve antrenman yaşı, cinsiyeti, antrenman seviyesi, sağlık durumu, fiziksel-motorik gelişimi, teknik-taktik seviyesi, psikolojik durumu ve geçmiş başarı/başarısızlıkları gibi ön koşullar dikkate alınmalıdır. Bir mikro döngü genellikle düşük ya da orta sertlikte antrenmanlarla başlamalı, ardından daha sert yüklenmelere geçilmelidir; önemli bir yarışma öncesinde doruklama (peak) yarışmanın başlangıcından 3-5 gün önce olmalıdır.",
-        "Mikro döngüler tek zirveli, iki zirveli veya üç zirveli olarak yapılandırılabilir ve sporcunun gelişim düzeyi ile antrenman kapasitesi bu yapıyı belirleyen en önemli etmenlerdir. Yüksek düzeyli sporcularda antrenman birimleri yüksek sertlik ve kapsamda olurken yeni başlayan sporcularda daha düşük şiddette tutulmalıdır; bu nedenle mikro döngünün bireye özgü olarak tasarlanması önemlidir."
+      "emoji": "📆",
+      "bullets": [
+        "**Mikro plan**, haftalık yapılacak birim antrenman sayısını belirler; haftada **3-6** antrenman mikro plan sayılır.",
+        "Bir biyomotor yetiyi geliştirmek için benzer antrenmanlar art arda en az 2-3 kez tekrarlanmalı.",
+        "Dayanıklılık geliştirmek için haftada en az 3, korumak için (yarışma evresinde) haftada 2 antrenman yeterlidir.",
+        "Kuvvet ve sürati korumak için haftada 1-2, plyometrik/çeviklik için haftada 2-3 gün antrenman önerilir.",
+        "Planlarken sporcunun yaşı, cinsiyeti, seviyesi, sağlığı ve psikolojik durumu gibi etmenler dikkate alınır.",
+        "Mikro döngü düşük/orta sertlikle başlar, sonra sertleşir; önemli yarışma öncesi doruklama (**peak**) yarışmadan 3-5 gün önce yapılır.",
+        "Döngüler tek, iki veya üç zirveli olabilir; üst düzey sporcularda şiddet daha yüksek, yeni başlayanlarda daha düşük tutulur."
       ]
     },
     {
       "heading": "Aylık (Makro) Döngü",
-      "paragraphs": [
-        "Makro döngü, farklı hedef ve branşlara göre genellikle 2-7 hafta (bazı kaynaklara göre 2-5 hafta) arasını kapsayan ve 2-5 veya 2-7 mikro döngüden oluşan bir antrenman programıdır. Makro döngünün süresi ve yapısı belirlenirken spor dalının gereksinimleri göz önünde bulundurulmalı ve yarışma takvimine göre hazırlanmalıdır; hazırlık döneminde makro döngünün süresi genellikle 4-7 hafta arasında sürer.",
-        "Bireysel sporlarda yarışma dönemindeki makro döngüler, yarışma takvimine uygun kısa bloklar biçiminde 2-4 haftalık mikro döngüler içerir. Takım sporlarında ise ayda 4-8 arası yarışma olabileceğinden antrenörler hangi yarışmanın daha önemli olduğuna karar vererek sporcuyu ona göre hazırlamalıdır; takım sporlarında sezon öncesi hazırlık dönemi yaklaşık 6-8 hafta sürer ve makro döngüler bu sürenin genel ve özel hazırlık evrelerini kapsayacak şekilde yapılandırılır."
+      "emoji": "🗓️",
+      "bullets": [
+        "**Makro döngü**, genellikle 2-7 hafta süren ve 2-7 mikro döngüden oluşan bir antrenman programıdır.",
+        "**Hazırlık döneminde** makro döngü süresi **4-7 hafta** arasındadır.",
+        "Bireysel sporlarda yarışma dönemindeki makro döngüler, 2-4 haftalık kısa bloklar şeklindedir.",
+        "Takım sporlarında ayda 4-8 yarışma olabilir; antrenör en önemli olanı seçip sporcuyu ona göre hazırlar.",
+        "Takım sporlarında sezon öncesi hazırlık dönemi yaklaşık 6-8 hafta sürer."
       ]
     },
     {
       "heading": "Yıllık Antrenman Planı ve Dönemleme",
-      "paragraphs": [
-        "Yıllık plan, antrenörlerin bir yıl boyunca antrenmanları yönlendirebilmesi için önemli bir kılavuzdur ve sporcunun 12 aylık ya da bir sezonluk sürecini kapsar. Yıllık planda amaç, sporcunun verim düzeyini geliştirerek fizyolojik uyumu en üst düzeye çıkarmaktır; genellikle sezonun son ayları geçiş dönemi olarak kullanılır ve bu dönemde psikolojik, fizyolojik yapı ile merkezi sinir sistemi toparlanarak yeni antrenman yılına hazırlık yapılır.",
-        "Dönemleme, hazırlanan yıllık planın daha küçük parçalara bölünerek yıl içindeki hedef yarışmalara yönelik sporsal verimin en üst düzeye çıkarılmasını ve korunmasını sağlama işlemidir. Matveyev tek yarışma dönemli (tek uçlu) bir yapı önermiş olsa da günümüzde iki uçlu (2 hedef yarışma), üç uçlu (3 hedef yarışma) ve çok uçlu (çok hedef yarışma) planlara da ihtiyaç duyulmaktadır; yılda bir önemli müsabaka varsa tek uçlu, iki önemli müsabaka varsa iki uçlu, üç önemli müsabaka varsa üç uçlu dönemleme seçilmelidir.",
-        "Çoğu spor branşında yıllık antrenman planı hazırlık, müsabaka (yarışma) ve geçiş dönemi olmak üzere üç bölümde hazırlanır. Hazırlık ve müsabaka dönemleri kendi içinde genel ve özel olmak üzere ikiye ayrılır: genel alt bölümde genel fizyolojik temellerin geliştirilmesi, özel alt bölümde ise branşa özgü biyomotor beceri, teknik ve taktik gelişimi hedeflenir. Geçiş dönemi antrenman yılının diğer dönemlerinden farklı olarak düzenlenir ve esas olarak organizmanın dinlenmesine, tatile ve genel kondisyonun korunmasına ayrılır."
+      "emoji": "🏆",
+      "bullets": [
+        "**Yıllık plan**, sporcunun 12 aylık ya da bir sezonluk sürecini kapsar; amaç verimi ve fizyolojik uyumu en üst düzeye çıkarmaktır.",
+        "Sezonun son ayları **geçiş dönemi** olarak ayrılır; bu dönemde vücut ve sinir sistemi toparlanıp yeni yıla hazırlanır.",
+        "**Dönemleme**, yıllık planı küçük parçalara bölüp hedef yarışmalara göre verimi en üst düzeye çıkarma işlemidir.",
+        "Matveyev tek yarışma dönemli (**tek uçlu**) yapı önermiştir; günümüzde iki uçlu, üç uçlu ve çok uçlu planlar da kullanılır (önemli müsabaka sayısına göre seçilir).",
+        "Yıllık plan üç bölümden oluşur: **hazırlık**, **müsabaka (yarışma)** ve **geçiş dönemi**.",
+        "Hazırlık ve müsabaka dönemleri kendi içinde genel ve özel alt bölümlere ayrılır.",
+        "Geçiş dönemi dinlenme, tatil ve genel kondisyonun korunmasına ayrılır."
       ]
     },
     {
       "heading": "Çok Yıllık Antrenman Planlaması (Olimpik Döngü)",
-      "paragraphs": [
-        "Sporcunun en üst düzey verime ulaştırılabilmesi, uzun süreli bir antrenman sürecinde beceri ve gelişim düzeyinin sürekli ve aşamalı olarak geliştirilmesini hedefleyen bir planlama ile mümkündür. Sporcular için uzun vadeli sportif performans hedeflerinin genel hatlarıyla belirlenmesi 'olimpik döngü' olarak adlandırılan 4 veya 8 yıllık hedefler doğrultusunda oluşturulur. Genç sporcularda ise uzun süreli planlar, sportif hedefler ve gelişim düzeylerine göre 8-16 yıl aralığında belirlenebilmektedir.",
-        "Etkin bir antrenman programının hazırlanması için sporcunun verim potansiyeli ve gelişim hızı branşına uygun bilimsel testlerle düzenli aralıklarla izlenmelidir; bu izlem her yıl için yeni hedefler belirlenmesine ve makro-mikro döngü içeriklerinin oluşturulmasına önemli bir geri bildirim sağlar. Antrenörler öncelikle sporcunun güçlü ve güçsüz yönlerini belirlemeli, ardından güçsüz yönleri geliştirmeye yönelik olarak yıllık plana bağlı kalarak makro ve mikro plan içeriklerini oluşturmalıdır."
+      "emoji": "🥇",
+      "bullets": [
+        "Uzun vadeli hedefler **\"olimpik döngü\"** olarak adlandırılır ve genelde **4 veya 8 yıllık** planlanır.",
+        "**Genç sporcularda** bu süre **8-16 yıl** aralığına kadar uzayabilir.",
+        "Sporcunun verim potansiyeli ve gelişim hızı bilimsel testlerle düzenli izlenir; bu izlem her yıl yeni hedefler belirlemeye yardımcı olur.",
+        "Antrenörler önce sporcunun güçlü/güçsüz yönlerini belirler, sonra güçsüz yönleri geliştirmeye odaklanarak makro-mikro plan içeriğini oluşturur."
       ]
     }
   ],

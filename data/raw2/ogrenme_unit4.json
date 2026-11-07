@@ -7,119 +7,174 @@
     "Gelişimi etkileyen faktörleri kavrayabilme",
     "Gelişimin türlerini açıklayabilme"
   ],
-  "keywords": ["Gelişim", "Motor Gelişim", "Gelişim İlkeleri", "Gelişim Türleri"],
+  "keywords": [
+    "Gelişim",
+    "Motor Gelişim",
+    "Gelişim İlkeleri",
+    "Gelişim Türleri"
+  ],
   "summary": [
     {
-      "heading": "Motor Gelişim: Tanım ve Önemi",
-      "paragraphs": [
-        "Motor gelişim, doğum öncesi dönemden başlayarak ölene kadar devam eden tüm hareketsel süreçleri kapsar. Fizyolojik bir süreç gibi görünse de aslında çocuğun psikolojisi üzerinde de büyük etkiye sahiptir; çünkü çocuklar motor becerilerini oyun içinde keşfeder, yaratıcılığını geliştirir, sosyalleşir, özgüven kazanır ve benlik kavramı edinir. Yetersiz bir motor gelişim süreci çocuğu bu faydalardan yoksun bırakır ve ileride kazanılacak motor becerilerin gelişimini de olumsuz etkiler.",
-        "Psikomotor gelişim ile motor gelişim sık sık birbirinin yerine kullanılsa da aslında tam olarak aynı değildir. Motor gelişim, doğumdan erişkinliğin sonuna kadar olan harekete ilişkin davranışların gelişimini kapsarken; psikomotor gelişim daha geniş bir alanı kapsayarak doğum öncesi (fötal) dönemden ölene kadar olan tüm harekete ilişkin gelişim ve değişim süreçlerini içerir."
+      "heading": "Motor Gelişim Nedir?",
+      "emoji": "🏃",
+      "bullets": [
+        "**Motor gelişim**, doğum öncesinden ölene kadar süren tüm hareketsel değişim sürecidir.",
+        "Sadece fiziksel değil, çocuğun psikolojisini de etkiler: oyun yoluyla özgüven, sosyalleşme ve **benlik kavramı** kazanılır.",
+        "Yetersiz bir motor gelişim süreci, çocuğu bu faydalardan mahrum bırakır ve sonraki becerileri de olumsuz etkiler.",
+        "**Motor gelişim** doğumdan erişkinliğe kadarki hareket gelişimini kapsar; **psikomotor gelişim** ise doğum öncesinden (fötal dönem) ölene kadar daha geniş bir süreçtir."
       ]
     },
     {
-      "heading": "Motor Gelişimin Tarihsel Gelişimi (4 Periyot)",
-      "paragraphs": [
-        "Motor gelişim konusu 20. yüzyıldan bu yana farklı araştırmacıların ilgisini çekmiş ve tarihsel süreci 4 ana periyotta toplanmıştır. 1787-1928 yılları arasını kapsayan ilk dönem 'başlangıç periyodu' olarak adlandırılır; bu dönemde Tiedemann'ın oğlunun yakalama davranışının refleksten istemli harekete geçişini incelediği gözlemleri, Darwin'in 'Bebeğin Biyografik Taslağı' adlı eseri ve Shinn'in 'Bebeğin Biyografisi' adlı eseri öne çıkar.",
-        "1928-1946 yılları arası 'olgunlaşma periyodu' olarak adlandırılır; Gessel, McGraw, Bayley'in motor gelişim ölçeği ve Monica Wild'in çalışmaları öncülük etmiştir. Bu dönemde araştırmacılar biyolojik süreçlerin önemini vurgulamış ve hareket becerilerindeki sıranın tüm bireyler için aynı olduğunu, çevrenin etkisini ise neredeyse yok sayarak savunmuşlardır.",
-        "1946-1970 yılları arasını kapsayan üçüncü dönem 'norm/tanımlama dönemi'dir; bu dönemde antropometrik ölçümler ve performans testleriyle çocukların motor performans düzeylerine ait normlar geliştirilmiştir (Espenschade, Glassow, Rarick). Son olarak 1980-90'lı yıllarda psikomotor gelişimin altındaki süreçlere odaklanan 'süreç-yönelimli dönem' ortaya çıkmıştır; Connolly'nin 'Motor Beceri Gelişimi Mekanizması' adlı eseri bu dönemin önemli çalışmalarındandır."
+      "heading": "Tarihte Motor Gelişim: 4 Dönem",
+      "emoji": "🕰️",
+      "bullets": [
+        "Motor gelişim araştırmaları 20. yüzyıldan beri 4 ana periyotta incelenir.",
+        "**Başlangıç periyodu** (1787-1928): ilk gözlemler yapıldı (örn. Darwin ve Shinn'in bebek biyografileri).",
+        "**Olgunlaşma periyodu** (1928-1946): biyolojik süreçler ön plandaydı, çevrenin etkisi neredeyse yok sayıldı.",
+        "**Norm/tanımlama periyodu** (1946-1970): ölçümlerle çocukların motor performans normları geliştirildi.",
+        "**Süreç-yönelimli dönem** (1980-90'lar): asıl odak, gelişimin altındaki mekanizmalara kaydı."
       ]
     },
     {
-      "heading": "Motor Gelişimle İlgili Temel Tanımlar",
-      "paragraphs": [
-        "Hareket, vücudun ağırlık merkezinin iz düşümünün yer değiştirmesi veya vücudun bütününün (lokomotor) ya da bir parçasının (lokomotor olmayan) yer değiştirmesi olarak tanımlanır. Form (hareket şekli) ise birden fazla hareketin belirli bir düzen içinde yapılarak bir model oluşturmasıdır; örneğin bir voleybolcunun smaç vuruşu sırasındaki bacak, kol, gövde ve baş düzeni 'form' olarak adlandırılır.",
-        "Motor beceri, öğrenme sonucu edinilen ve hedefe doğru gerçekleştirilen tek ya da birden fazla vücut bölümünün devrede olduğu istemli hareketlerdir. Temel motor beceriler, çocuklarda 2-7 yaş arasında ortaya çıkan ve sportif becerilere zemin hazırlayan koşma, atma, atlama, fırlatma, yakalama, tırmanma gibi becerilerdir. Spor becerisi ise temel becerilerin gelişerek özelleşmesiyle ortaya çıkan, spor dalına özgü becerilerdir.",
-        "Motor öğrenme, hareket becerilerinin ediniminde ve mükemmelleştirilmesindeki temel değişikliklerdir; deneyimler yoluyla bir hareketin öğrenilmesi ve motor performansta ilerleme olarak tanımlanır. Motor kontrol, vücuttaki sinirsel ve fiziksel değişikliklerle bağımsız görevlerin yerine getirilmesidir. Motor davranış, motor öğrenme, motor kontrol ve motor gelişim gibi kavramlarda meydana gelen biyolojik temelli değişimleri kapsayan geniş bir kavramdır. Motor performans ise hareket becerisinin gerçekleşmesi sonrasında süre, mesafe gibi kavramlarla ölçülebilen gözlemlenebilir özelliklerdir. Deneyim, çevre tarafından sunulan ve öğrenmeye etki ederek gelişimsel özelliklerin ortaya çıkmasına katkıda bulunan edinimlerdir."
+      "heading": "Temel Kavramlar: Hareketten Performansa",
+      "emoji": "📖",
+      "bullets": [
+        "**Hareket**, vücudun bütününün ya da bir parçasının yer değiştirmesidir.",
+        "**Form**, birden fazla hareketin belirli bir düzende birleşerek bir model oluşturmasıdır (örn. smaç vuruşundaki duruş).",
+        "**Motor beceri**, öğrenilerek edinilen, hedefe yönelik istemli hareketlerdir.",
+        "**Temel motor beceriler** 2-7 yaş arasında ortaya çıkar: koşma, atma, atlama, yakalama gibi; **spor becerisi** bunların özelleşmiş hâlidir.",
+        "**Motor öğrenme**, deneyimle hareketin öğrenilip ilerlemesidir; **motor kontrol** ise sinirsel-fiziksel değişimlerle görevlerin yerine getirilmesidir.",
+        "**Motor performans**, hareketin süre/mesafe gibi gözlenebilir ölçülebilir sonucudur; **deneyim** ise çevrenin öğrenmeye katkı sağlayan birikimidir."
       ]
     },
     {
-      "heading": "Büyüme, Gelişim ve Psikomotor Gelişim",
-      "paragraphs": [
-        "Büyüme, boyca uzama ve kilogramca artış şeklinde karşımıza çıkan kavramdır; gelişimin niceliksel, yani ölçülebilen yönünü oluşturur. Büyümenin en hızlı olduğu dönemler sırasıyla doğum öncesi, bebeklik ve ergenlik dönemidir. Bireyin kilo kaybetmesi büyüme olarak değerlendirilmez; büyüme artışla ifade edilen pozitif bir kavramdır.",
-        "Gelişim (gelişme), büyüyen bir organizmanın yapısında olan değişiklikler sonucu olgunlaşması ve biyolojik fonksiyonlarının farklılaşmasıdır; olgunlaşma, kalıtım ve öğrenmenin ürünü olup nitel ve nicel değişimleri içerir. Büyüme ve olgunlaşma gelişimin nicelik yönünü, hazırbulunuşluk ve öğrenme ise nitelik yönünü oluşturur. Örneğin bir bebeğin 6. ayın sonunda sindirim sisteminin basit gıdaları sindirebilecek düzeye gelmesi, dışarıdan gözlenemeyen bir gelişim örneğidir.",
-        "Psikomotor gelişim, yaşam döngüsü boyunca hareket görevinin gerekleri, kişinin biyolojik özellikleri ve öğrenme ortamının koşulları arasındaki etkileşimin belirlediği motor davranıştaki ilerleyici değişimlerdir. Gelişim genel olarak ileriye doğru işleyen pozitif bir süreç olarak görülse de, motor davranışlardaki gelişim zaman içinde farklı bir yöne (örneğin yaşlılıkta gerilemeye) gidebilir."
+      "heading": "Büyüme mi, Gelişim mi?",
+      "emoji": "📏",
+      "bullets": [
+        "**Büyüme**, boy ve kiloda artış demektir; gelişimin sadece ölçülebilen (niceliksel) yanıdır.",
+        "Büyüme en hızlı doğum öncesi, bebeklik ve ergenlikte olur; kilo kaybı büyüme sayılmaz, büyüme hep artışla ilgilidir.",
+        "**Gelişim**, olgunlaşma + kalıtım + öğrenmenin ürünüdür; nitel ve nicel değişimi birlikte içerir.",
+        "Örnek: bebeğin 6. ayda sindirim sisteminin katı gıdayı sindirebilir hale gelmesi, dışarıdan görünmeyen bir **gelişim** örneğidir.",
+        "**Psikomotor gelişim**, hareket görevi + biyolojik özellikler + öğrenme ortamının birlikte şekillendirdiği değişimdir; her zaman ileriye gitmez, yaşlılıkta gerileyebilir."
       ]
     },
     {
-      "heading": "Hareket: Refleks ve Bilinçli Hareketler",
-      "paragraphs": [
-        "İnsanlarda iki farklı hareket modeli gözlenir: istem dışı hareketler (refleksler) ve bilinçli hareketler (reaksiyonlar). Refleks hareketler, etkiye karşı verilen istemsiz tepkilerdir; eklem reseptörlerinden alınan uyarı Serebral Korteks'e ulaşmadan omurilikte cevaba dönüşür ve kaslar bu cevabı harekete çevirir. Elimizi sıcak bir nesneye değdirdiğimizde aniden çekmemiz ya da yüzümüze aniden gelen sudan korunmak için gözlerimizi kapatmamız, refleksif hareket örnekleridir.",
-        "Yeni doğan bebeklerde emme, göz kırpma gibi bazı refleksif hareketler, zaman içinde büyüme ve gelişmeye bağlı olarak yerlerini istemli (bilinçli) hareketlere bırakır. Bilinçli hareketler (reaksiyonlar), etkiye verilen istemli tepkilerdir; insan beyninin gelişmesiyle sinir iletim hızı artar ve bu artış bilinçli hareket edebilmede önemli rol oynar. Bu sinirsel iletim süreci insan hayatının ilk zamanlarında hızlıdır, yaşlanmayla birlikte yavaşlar."
+      "heading": "Refleks mi, Bilinçli Hareket mi?",
+      "emoji": "🧠",
+      "bullets": [
+        "**Refleks hareketler** istemsizdir; uyarı beyne (Serebral Korteks) ulaşmadan omurilikte cevaba dönüşür.",
+        "Örnekler: sıcak bir nesneye dokununca elini çekmek, yüze su gelince gözü kapatmak.",
+        "Yenidoğandaki emme, göz kırpma gibi refleksler zamanla **bilinçli hareketlere (reaksiyonlara)** dönüşür.",
+        "**Bilinçli hareketler** istemlidir; beyin geliştikçe sinir iletim hızı artar, bu da bilinçli harekette kritik rol oynar.",
+        "Bu sinirsel iletim hızı hayatın ilk dönemlerinde yüksektir, yaşlanınca yavaşlar."
       ]
     },
     {
-      "heading": "Öğrenme, Olgunlaşma ve Hazırbulunuşluk",
-      "paragraphs": [
-        "Öğrenme, bireyin olgunlaşma düzeyine göre çevresiyle etkileşimi sonucunda yeni davranışlar kazanması ya da eski davranışlarını değiştirmesi, yani davranışlarının yeniden düzenlenmesi veya kalıcı olarak değişmesidir. Yüzme bilmeyen bir kişinin eğitim alarak yüzmeyi öğrenmesi kalıcı davranış değişikliğine örnektir; yüzmeyi bilen birinin farklı teknikleri (kelebek, kurbağalama vb.) öğrenmesi ise davranışın yeniden düzenlenmesine örnektir. Öğrenme üzerinde olgunlaşmanın büyük etkisi vardır ve öğrenme doğrudan gözlemlenemeyen içsel bir süreç olduğundan, kişinin gözlemlenebilen davranışlarındaki değişimler üzerinden değerlendirilir.",
-        "Olgunlaşma, doğuştan gelen, genetik faktörlerle belirlenmiş ve bu nedenle dış çevre etkenlerine dirençli olan, bireyin beklenen işi yapabilecek fiziksel kapasiteye erişebilmesi için fonksiyon seviyelerindeki nitelikli yükselmeleri ve biyolojik değişimleri içeren süreçtir. Becerinin ortaya çıkışı çevresel faktörlerden etkilenmezken, ortaya çıkan becerinin gelişimi çevresel şartlardan ve deneyimlerden doğrudan etkilenir.",
-        "Hazırbulunuşluk, kişinin olgunlaşmasının yanı sıra çevreyle girdiği etkileşimin olası sonucu olarak belli davranışları gerçekleştirebilecek ön bilgi, beceri ve tutuma sahip olması durumudur. Hem fiziksel hem de zihinsel (mental) olarak hazır olmayı kapsar; örneğin yeterli antrenman yapmış bir sporcu kendini müsabakaya zihinsel olarak hazır hissetmiyorsa başarılı olamayabilir."
+      "heading": "Öğrenme, Olgunlaşma, Hazırbulunuşluk",
+      "emoji": "🎓",
+      "bullets": [
+        "**Öğrenme**, çevreyle etkileşim sonucu davranışın kalıcı değişmesi veya yeniden düzenlenmesidir.",
+        "Örnek: yüzme bilmeyen birinin yüzmeyi öğrenmesi **kalıcı davranış değişikliği**'dir; bilen birinin yeni stil öğrenmesi **davranışın yeniden düzenlenmesi**'dir.",
+        "**Olgunlaşma**, genetik olarak belirlenmiş, çevreden bağımsız biyolojik gelişim sürecidir; becerinin ortaya çıkışı çevreden etkilenmez ama gelişimi etkilenir.",
+        "**Hazırbulunuşluk**, hem fiziksel hem zihinsel olarak bir davranışı yapmaya hazır olma durumudur (örn. antrenmanlı ama zihinsel hazır olmayan sporcu başarısız olabilir)."
       ]
     },
     {
-      "heading": "Gelişim Yönü ve Büyüme Hızı",
-      "paragraphs": [
-        "Gelişim, baştan ayağa, merkezden dışarı ve genelden özele doğru bir yol izler. Baştan ayağa ilkesine göre anne karnında önce baş oluşur, bunu kollar ve bacaklar takip eder; doğum sonrasında da kontrol aynı sırayla (önce baş-boyun, sonra üst gövde, son olarak bacaklar) sağlanır ve bu süreç yaşlılıkta tersine döner. Merkezden dışa ilkesi, gelişimin büyük kas gruplarından küçük kas gruplarına ilerlemesini ifade eder (önce omuz, sonra dirsek, el bileği ve parmaklar). Genelden özele ilkesine göre ise çocuk önce yetersiz ve kaba hareketlerle (örneğin nesne fırlatma) başlar, zamanla bu hareketler özelleşerek gelişmiş becerilere (örneğin topu potaya atma) dönüşür.",
-        "Büyüme hızı, karakteristik ve evrensel modeller şeklindedir ve genellikle dış etkenlere dirençlidir. Gelişimin geri kalması durumunda kendi kendine düzenlenme süreci devreye girerek çocuğun yaşıtlarının düzeyine gelmesini sağlar; örneğin bir hastalık nedeniyle büyümesi duraklayan çocuk, hastalığı atlattıktan sonra kendi büyüme sürecine dönebilir. Ancak çok düşük doğum kilosu gibi büyük sapmalarda bu kendi kendine düzenleme yeterli olmayabilir ve gelişimsel gerilik boy-kiloyla sınırlı kalmayıp zihinsel ve motorik süreçleri de etkileyebilir."
+      "heading": "Gelişimin Yönü ve Hızı",
+      "emoji": "🧭",
+      "bullets": [
+        "**Baştan ayağa ilkesi**: önce baş, sonra kollar/bacaklar gelişir; yaşlılıkta bu sıra tersine döner.",
+        "**Merkezden dışa ilkesi**: büyük kas gruplarından (omuz) küçüklere (parmaklar) doğru gelişir.",
+        "**Genelden özele ilkesi**: kaba hareketler (fırlatma) zamanla özelleşmiş becerilere (potaya atış) dönüşür.",
+        "Büyüme hızı evrenseldir ve dış etkenlere dayanıklıdır; hastalık gibi bir gerileme sonrası çocuk kendi büyüme eğrisine geri dönebilir (**kendi kendine düzenleme**).",
+        "Çok düşük doğum kilosu gibi büyük sapmalarda bu düzenleme yetersiz kalabilir ve zihinsel/motor süreçleri de etkileyebilir."
       ]
     },
     {
-      "heading": "Farklılaşma, Bütünleşme ve Kritik Dönem",
-      "paragraphs": [
-        "Farklılaşma, bebeklik dönemindeki hareket kalıplarından, çocuk ve gençlerin daha fonksiyonel ve daha becerili hareketlere doğru ilerlemesidir; hareket becerileri gelişimle birlikte basitten zora, kompleks becerilere doğru yol izler. Bütünleşme ise duyu sistemlerinin ve çeşitli kas gruplarının koordineli bir şekilde çalışmasıdır; örneğin bir çocuğun bardaktan suyu dökmeden içebilmesi ya da çorba kaşığını ağzına götürebilmesi, el-göz koordinasyonu gerektiren bütünleşme örnekleridir.",
-        "Kritik (hassas) dönem, insan yavrusunun oluşumu sırasında her organ ve sistemin belli zamanlarda geliştiği, bu dönemlerde dışarıdan gelecek bir etkinin gelişim sürecini telafisi olmayacak şekilde bozabileceği dönemdir. Bu süreç doğumu takip eden yaklaşık ilk 6 yıl boyunca devam eder; özellikle 0-2 yaş duygusal yönden ve güven gelişimi açısından çok önemlidir. 3 yaşa kadar fiziksel gelişim çok hızlıdır ve çocuk benmerkezci davranır; çocuk zihinsel gelişiminin yüzde altmışını, sinir sistemi gelişiminin ise yüzde seksenini yaşamının ilk beş yılında tamamlar. Bu dönemde çocuk fiziksel, sosyal ve zihinsel olarak savunmasız olduğundan, doğru davranış modelleri ve doğru çevresel uyaranlar büyük önem taşır."
+      "heading": "Farklılaşma, Bütünleşme, Kritik Dönem",
+      "emoji": "🔑",
+      "bullets": [
+        "**Farklılaşma**, basit hareketlerden daha kompleks ve becerili hareketlere ilerlemedir.",
+        "**Bütünleşme**, duyu ve kas gruplarının koordineli çalışmasıdır (örn. bardaktan dökmeden su içmek, el-göz koordinasyonu).",
+        "**Kritik (hassas) dönem**, her organ ve sistemin belirli zamanlarda geliştiği, dışarıdan gelecek bir bozukluğun telafi edilemeyeceği dönemdir.",
+        "Bu dönem doğumdan sonraki ilk ~6 yılı kapsar; 0-2 yaş özellikle güven gelişimi için kritiktir.",
+        "Çocuk zihinsel gelişiminin **%60**'ını, sinir sistemi gelişiminin **%80**'ini ilk 5 yılda tamamlar; bu yüzden doğru çevresel uyaranlar çok önemlidir."
       ]
     },
     {
-      "heading": "Bireysel Farklılıklar, Beden Ölçüleri, Filogeni ve Ontogeni",
-      "paragraphs": [
-        "Bireysel farklılıklar, çocukların fiziksel ve zihinsel gelişimlerinin kalıtım ve çevrenin ilişkisiyle değişim göstermesi sonucu normal sınırlar içinde ortaya çıkan farklılıklardır; örneğin tek yumurta ikizleri genetik olarak aynı olsa da farklı sosyal çevrelerde büyüdüklerinde gelişimsel farklılıklar sergileyebilir. Bu farklılıklar belirli sınırlar içinde kalmalıdır; aksi halde (örneğin 18 aylık olup hâlâ oturamayan bir çocukta) durum bireysel farklılıktan çıkıp gelişimsel gerilik boyutuna taşınır.",
-        "Beden ölçüleri, motor yeterlilikleri doğrudan etkiler; özellikle 1-5 yaş arasında beden yapısı, kas yapısı ve duruşa ait değişimler hareket kapasitesini belirler. Bacakların uzaması lokomotor hareketlerin doğru yapılmasını, omuzların genişlemesi ve kolların uzaması ise fırlatma hareketlerinin etkinliğini artırır; beden ölçüleri değiştikçe motor kontrol artar ve motor davranışın kalitesi yükselir.",
-        "Filogenetik beceriler, öğrenme ihtiyacı duymaksızın kendiliğinden ortaya çıkan, insan filosuna ait genetik özelliklerden kaynaklanan becerilerdir; atma, tutma, yakalama, yürüme, koşma gibi büyük kas gruplarıyla yapılan temel hareket becerileri bunun örnekleridir. Ontogenetik beceriler ise çevre uyaranları ve öğrenme iş birliği sonucunda gelişen, kendiliğinden ortaya çıkmayan, daha özelleşmiş becerilerdir; örneğin kendiliğinden fırlatma yapan bir çocuğun hentbol eğitimiyle kaleye şut atar hale gelmesi ontogenetik beceridir. Kısaca filogenetik beceriler motor gelişim sürecini, ontogenetik beceriler motor öğrenme sürecini ifade eder."
+      "heading": "Bireysel Farklılıklar ve Beceri Türleri",
+      "emoji": "🧬",
+      "bullets": [
+        "**Bireysel farklılıklar**, kalıtım-çevre etkileşimiyle normal sınırlar içinde ortaya çıkan gelişim farklarıdır (örn. tek yumurta ikizlerinin farklı çevrede farklı gelişmesi).",
+        "Bu fark belirli sınırı aşarsa (örn. 18 aylıkken hâlâ oturamayan çocuk) artık **gelişimsel gerilik** sayılır.",
+        "**Beden ölçüleri** (boy, kas yapısı) motor yeterliliği doğrudan etkiler; bacak/kol uzaması hareket kalitesini artırır.",
+        "**Filogenetik beceriler**, öğrenmeye gerek kalmadan kendiliğinden ortaya çıkar: yürüme, koşma, atma, yakalama gibi büyük kas becerileri.",
+        "**Ontogenetik beceriler**, çevre ve öğrenme yoluyla kazanılan özelleşmiş becerilerdir (örn. kendiliğinden fırlatan çocuğun eğitimle hentbolda kaleye şut atması)."
       ]
     },
     {
-      "heading": "Gelişimi Etkileyen Faktörler: Kalıtım",
-      "paragraphs": [
-        "Gelişim, kalıtım ve çevrenin ortaklaşa bir ürünüdür. Kalıtım, üreme esnasında anne ve babada bulunan özelliklerin genler yoluyla genç kuşağa aktarılmasıdır. Kalıtıma müdahale etmek mümkün olmadığından, bireysel farklılıklardaki en büyük etken kalıtımdır; göz-saç rengi, kişilik, zekâ, hastalıklar, yetenekler, boy ve genel vücut yapısı kalıtsal özelliklerdir ancak çevresel koşullardan da etkilenirler.",
-        "Kalıtımla ilgili temel tanımlar şunlardır: Genotip, canlının taşıdığı baskın ve çekinik genlerin tümüdür. Fenotip (dışyapı), genotipte bulunan ve çevrenin etkisiyle dış görünüşe yansıyan özelliklerdir. Baskın (dominant) gen, heterozigot durumda fenotipte etkisini gösterebilen gen türüdür; çekinik (resesif) gen ise heterozigot durumda fenotipte etkisini gösteremeyen gen türüdür. Homozigot, iki alel genin baskın ya da çekinik olma özelliğinin aynı olmasıdır (AA, aa); heterozigot ise bu özelliklerin farklı olmasıdır (Aa). Çekinik genler dış görünüşte ortaya çıkmasa da bir sonraki kuşağa aktarılabilir; örneğin büyükanne/büyükbabadaki mavi göz geni bir kuşak atlayarak torunda ortaya çıkabilir.",
-        "Irk faktörü de genetik bir etkendir ve gelişim sürecinde farklılıklar yaratır; örneğin siyahi ırka mensup yeni doğan bebeklerin merkezi sinir sistemi daha olgunlaşmış olabilir ve bu da motor becerilerin kazanılma hızını etkileyebilir. Ancak yaşanılan çevre de ırksal özelliklerde değişime neden olabilir; örneğin Amerika'da yetişen Japon çocuklar Japonya'dakilere göre daha iri yapılı olabilmektedir."
+      "heading": "Kalıtımın Gücü",
+      "emoji": "🧬",
+      "bullets": [
+        "**Kalıtım**, anne-babadaki özelliklerin genler yoluyla çocuğa aktarılmasıdır; müdahale edilemeyeceği için bireysel farkların en büyük kaynağıdır.",
+        "**Genotip**, taşınan tüm genlerin toplamıdır; **fenotip** ise çevrenin etkisiyle dışarıya yansıyan görünümdür.",
+        "**Dominant (baskın) gen** heterozigot durumda etkisini gösterir; **resesif (çekinik) gen** gösteremez ama bir sonraki kuşağa geçebilir (örn. atlayan göz rengi geni).",
+        "**Homozigot**, iki alelin aynı olmasıdır (AA, aa); **heterozigot** ise farklı olmasıdır (Aa).",
+        "**Irk** da genetik bir etkendir (örn. bazı bebeklerde sinir sistemi daha olgun doğabilir), ama yaşanılan çevre de ırksal özellikleri değiştirebilir."
       ]
     },
     {
-      "heading": "Çevre: Doğum Öncesi, Doğum Sırası ve Doğum Sonrası Etkenler",
-      "paragraphs": [
-        "Doğum öncesinde bebeğin ilk ve tek çevresi anne rahmidir; anneyi etkileyen her durumdan bebek doğrudan etkilenir. Annenin yetersiz beslenmesi, sigara, alkol ya da uyuşturucu kullanımı, radyasyona maruz kalma, kronik/ateşli hastalıklar, ilaç kullanımı, stres ve şiddet gibi durumlar bebeği olumsuz etkiler. En sık karşılaşılanlar yetersiz-dengesiz beslenme ile alkol ve sigara kullanımına bağlı problemlerdir; gebelikte alkol kullanımı merkezi sinir sistemi hasarı ve zihinsel gerilik, sigara kullanımı ise düşük doğum kilosu ve erken doğumla ilişkilendirilmiştir.",
-        "Doğum sırasında en sık görülen komplikasyonlar; göbek kordonunun boyna dolanması sonucu oksijensiz kalma, doğum stresine bağlı mekonyum atımı, bebeğin ters pozisyonda olması ve olası doktor hatalarıdır. Bu sorunlar bebeğin kuvöze alınmasına veya kalıcı bedensel sorunlara yol açabilir.",
-        "Doğum sonrası dönemde gelişimi etkileyen kalıtım dışı etkenler fiziksel çevre ve sosyal çevre olmak üzere iki başlıkta incelenir. Beslenme bu etkenler arasında en önemlilerindendir; yetersiz beslenmenin düzeyi ve süresi arttıkça gelişimin etkilenme boyutu da artar. Fiziksel aktivite kas gelişimini destekler ancak yaşa uygun olmayan aşırı yüklenmeler büyüme plağı yaralanması gibi sakatlıklara yol açabilir."
+      "heading": "Çevre: Doğum Öncesi, Sırası, Sonrası",
+      "emoji": "🤰",
+      "bullets": [
+        "Doğum öncesi bebeğin tek çevresi anne rahmidir; annenin sigara, alkol, kötü beslenme gibi durumları bebeği doğrudan etkiler.",
+        "Gebelikte **alkol** merkezi sinir sistemi hasarı ve zihinsel gerilik riskini, **sigara** ise düşük doğum kilosu ve erken doğum riskini artırır.",
+        "Doğum sırasında en sık görülen sorunlar: göbek kordonunun boyna dolanması, mekonyum atımı, bebeğin ters pozisyonu.",
+        "Doğum sonrası en önemli etken **beslenmedir**; yetersizliğin süresi arttıkça gelişime etkisi de büyür.",
+        "Fiziksel aktivite kas gelişimini destekler, ama yaşa uygun olmayan aşırı yüklenmeler **büyüme plağı yaralanması** gibi sakatlıklara yol açabilir."
       ]
     },
     {
-      "heading": "Fiziksel Çevre ve Sosyal Çevre",
-      "paragraphs": [
-        "Fiziksel çevre, insanın içinde yaşadığı fiziksel ortamı ifade eder ve beslenme, hastalık-kazalar, iklim/mevsimler, aşırı yorgunluk, yaşam koşulları ve psikolojik durum gibi alt faktörleri içerir. Yaşam koşulları başlığı altında çocuğa sunulan imkânlar (örneğin spor yapabileceği bir alanın olup olmaması) da fiziksel çevrenin bir parçası olarak değerlendirilir. Psikolojik durumlar (stres, kaygı, depresyon, beslenme bozuklukları gibi) da büyüme ve gelişmeyi olumsuz etkileyebilir; ayrıca günümüzde teknoloji bağımlılığı ve hareketsiz yaşam da önemli bir risk faktörü olarak öne çıkmaktadır.",
-        "Sosyal çevre, bireyin etrafındaki insanları, yaşadığı çevreyi, örf ve adetleri kapsar. Bireyin kişiliği ve davranışları, çevresel etkiler altında kendini rahat hissedip hissetmemesinden ve temel ihtiyaçlarının karşılanma düzeyinden etkilenir. Ailenin tutumları çocuğun alışkanlıkları (örneğin sigara kullanımı) ve spor yapıp yapmayacağı üzerinde büyük etkiye sahiptir; sportif aktivite yapma fırsatı olmayan ya da buna izin verilmeyen bireylerde gelişimsel problemler daha yaygın görülür."
+      "heading": "Fiziksel Çevre vs Sosyal Çevre",
+      "emoji": "🌍",
+      "bullets": [
+        "**Fiziksel çevre**: beslenme, hastalık/kazalar, iklim, yaşam koşulları (örn. spor alanı imkânı olup olmaması) ve psikolojik durum gibi faktörleri kapsar.",
+        "Stres, kaygı gibi psikolojik durumlar ile günümüzde **teknoloji bağımlılığı** ve hareketsizlik de büyümeyi olumsuz etkileyen risklerdir.",
+        "**Sosyal çevre**: bireyin etrafındaki insanlar, örf ve adetlerdir; kişinin temel ihtiyaçlarının karşılanma düzeyinden etkilenir.",
+        "Ailenin tutumu, çocuğun alışkanlıkları ve spor yapıp yapmayacağı üzerinde büyük etkiye sahiptir."
       ]
     },
     {
-      "heading": "Gelişimin Türleri: Bilişsel Gelişim (Piaget Dönemleri)",
-      "paragraphs": [
-        "Gelişim; bilişsel, duyuşsal ve psikomotor gelişim olmak üzere üç temel boyutta incelenir. Bilişsel gelişim, çocukların dünyayla ilgili deneyimlerini ve hayatlarına nasıl yön vereceklerini anlama ve geliştirme sürecidir. Piaget'in kuramına göre bilişsel gelişim özümleme (çevreyle etkileşerek bilgi edinme), uyma (edinilen bilgiye tepki verme) ve adaptasyon (tepkiye uyum sağlayarak yeni tepkiler geliştirme) aşamalarından geçen dört dönemde gerçekleşir.",
-        "Duyusal Motor Dönem (0-2 yaş), bebeklerin duyularını ve motor becerilerini kullanarak dış dünyayla iletişim kurduğu, refleksif hareketlerle başlayıp istemli hareketlerle devam eden dönemdir; nesnelerin sürekliliği, taklit etme ve deneme-yanılma öğrenmeleri bu dönemin önemli kavramlarıdır. İşlem Öncesi Dönem (2-6 yaş), sembolik dönemi takiben sezgisel döneme geçişi kapsar; çocuklar mantıktan uzak, sezgilerle ilerler, sınıflandırma becerileri tek yönlüdür ve nesnelerin korunumu (örneğin kesilen bir kekin miktarının değişmediğini anlama) konusunda yetersizdirler.",
-        "Somut İşlemler Dönemi (7-11 yaş), çocukların mantığı ön plana çıkardığı, nesneler arasında nedensel ilişkiler kurabildiği ve nesne korunumu problemini çözebildiği dönemdir; ancak soyut kavramları tam anlamıyla açıklayamazlar. Soyut İşlemler Dönemi (12 yaş ve üzeri), düşünce sisteminin yetişkin seviyesine ulaştığı, değişkenler arası ilişkiler kurarak tümdengelim/tümevarım yoluyla sorunlara yaklaşılabildiği, 15 yaş civarında bilişsel gelişimin en üst seviyeye ulaştığı dönemdir."
+      "heading": "Bilişsel Gelişim: Piaget'in 4 Dönemi",
+      "emoji": "🧩",
+      "bullets": [
+        "Gelişim üç boyutta incelenir: **bilişsel**, **duyuşsal** ve **psikomotor** gelişim.",
+        "Piaget'e göre bilişsel gelişim **özümleme**, **uyma** ve **adaptasyon** aşamalarından geçen 4 dönemde gerçekleşir.",
+        "**Duyusal Motor Dönem (0-2 yaş)**: dünyayla duyular ve motor becerilerle tanışılır; refleksten istemli harekete geçilir.",
+        "**İşlem Öncesi Dönem (2-6 yaş)**: çocuk mantıktan çok sezgiyle ilerler, **nesne korunumunu** (örn. kesilen keğin miktarı değişmez) henüz anlayamaz.",
+        "**Somut İşlemler Dönemi (7-11 yaş)**: mantık ön plana çıkar, nesne korunumu çözülür ama soyut kavramlar hâlâ zordur.",
+        "**Soyut İşlemler Dönemi (12 yaş+)**: düşünce yetişkin seviyesine ulaşır; bilişsel gelişim ~15 yaşta zirveye çıkar."
       ]
     },
     {
-      "heading": "Duyuşsal Gelişim",
-      "paragraphs": [
-        "Duyuşsal gelişim, çocukların fiziksel etkinliklere katılarak ve oyunlar oynayarak hem kendi yeteneklerini hem de çevrelerini tanıdıkları, duygusal ve sosyal özelliklerin geliştiği, yaşam boyu devam eden bir süreçtir. Bilişsel gelişimin destekleyicisidir; örneğin matematiği seven bir çocuk sevmeyen çocuğa göre bu alanda daha hızlı ilerler. Sevme, hoşlanma, acı duyma, üzülme, korku ve kaygı gibi tepkiler duyuşsal gelişimle ilgilidir ve deneyimlerin çeşitliliği, sıklığı ve kalitesiyle doğru orantılı olarak gelişir; bize uygun olmayan bir spor branşıyla uğraşmamız sonucunda o spordan soğumamız buna bir örnektir.",
-        "Erken çocukluk (2-5 yaş) döneminde çocuklar en bencil, istekleri konusunda geçimsiz ve zor ikna olan dönemdedirler; doğru ile yanlışı ayırt etmeye başlar ve vicdan gelişmeye başlar. Geç çocukluk (6-11 yaş) döneminde cinsiyet farklılıkları hissedilmeye başlar, benmerkezci tutum sürmekle birlikte kazanma-kaybetmeyi kabullenme süreci henüz tam gelişmemiştir ve çocuklar merak-macera duygusuyla kendilerini tehlikeye atabilirler."
+      "heading": "Duyuşsal Gelişim: Hisler ve Tutumlar",
+      "emoji": "💛",
+      "bullets": [
+        "**Duyuşsal gelişim**, fiziksel etkinlik ve oyun yoluyla duygusal/sosyal özelliklerin gelişmesidir; bilişsel gelişimi de destekler.",
+        "Sevme, acı, korku, kaygı gibi tepkileri kapsar; örneğin sevmediğimiz bir spor branşından soğumamız buna örnektir.",
+        "**Erken çocukluk (2-5 yaş)**: çocuk en bencil ve geçimsiz dönemdedir; doğru-yanlış ayrımı ve vicdan gelişmeye başlar.",
+        "**Geç çocukluk (6-11 yaş)**: cinsiyet farkları hissedilir, kazanma-kaybetmeyi kabullenme henüz tam gelişmemiştir, merak-macera riskli davranışlara yol açabilir."
       ]
     },
     {
       "heading": "Psikomotor (Devinişsel) Gelişim",
-      "paragraphs": [
-        "Psikomotor gelişim, sinir ve kasların işlevleri ile fiziksel yapıda meydana gelen değişimleri kapsar. Erken çocukluk (2-5 yaş) döneminde algısal motor yetenekler sürekli ilerler; beden, zaman, mekân ve yön algısı henüz tam gelişmemiştir ancak temel hareket yetenekleri hızla gelişir. Bu dönemde çocuklar oldukça hareketlidir, koşmayı yürümeye tercih ederler; ince motor becerileri (örneğin yazı yazma) kaba motor becerilerine (örneğin atma, koşma) göre daha zayıftır ve bedensel cinsiyet farklılıkları henüz belirgin değildir.",
-        "Geç çocukluk (6-11 yaş) döneminde büyüme erken çocukluğa göre yavaşlar ancak sürer; büyük kas gruplarının (kaba) gelişimi küçük kaslara (ince) oranla daha fazladır. Dominant el ve ayak bu dönemde belirlenmiş olur, el-göz koordinasyonu dönem sonunda iyi bir seviyeye ulaşır; enerji yüksek, dayanıklılık ise düşüktür ve temel hareket becerileri oldukça gelişmiş düzeydedir."
+      "emoji": "⚙️",
+      "bullets": [
+        "**Psikomotor gelişim**, sinir-kas işlevleri ve fiziksel yapıdaki değişimleri kapsar.",
+        "**Erken çocukluk (2-5 yaş)**: beden/zaman/mekân algısı tam gelişmemiştir ama temel hareketler hızla gelişir; çocuk koşmayı yürümeye tercih eder.",
+        "Bu dönemde **kaba motor beceriler** (atma, koşma) **ince motor becerilerden** (yazı yazma) daha güçlüdür.",
+        "**Geç çocukluk (6-11 yaş)**: büyüme yavaşlar, büyük kas grupları hâlâ küçüklerden önde gelişir.",
+        "Bu dönemde **dominant el/ayak** belirlenir, el-göz koordinasyonu iyi seviyeye ulaşır; enerji yüksek ama dayanıklılık düşüktür."
       ]
     }
   ],

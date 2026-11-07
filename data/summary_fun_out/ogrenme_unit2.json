@@ -1,0 +1,82 @@
+{
+  "summary": [
+    {
+      "heading": "Motor Davranış Bilimi: Üç Kardeş Alan",
+      "emoji": "🧠",
+      "bullets": [
+        "**Motor Davranış**, insan hareketlerinin en iyi nasıl yapılacağını inceleyen bilim alanıdır ve üç alt alandan oluşur.",
+        "Bu üç alan: **Motor Öğrenme** (ülkemizde \"Beceri Öğrenimi\"), **Motor Gelişim** (\"Psikomotor Gelişim\") ve **Motor Kontrol**.",
+        "**Beceri Öğrenimi**, alıştırma ve deneyim sonucu harekette oluşan değişiklikleri inceler; algı, dikkat ve karar verme gibi süreçlerden yararlanır.",
+        "Sporcunun büyüme veya enerji sistemlerinin antrenmanla gelişmesi beceri öğrenimi kapsamına girmez.",
+        "**Motor Gelişim**, hareketlerin çocuklukta nasıl geliştiğini ve yaşla nasıl gerilediğini inceler.",
+        "**Motor Kontrol**, hareketlerin merkezi sinir sistemi tarafından kas ve eklemler üzerinden nasıl organize edildiğini inceler; biyomekanikle bağlantılıdır.",
+        "İyi bir antrenör olmak için bu üç alanın temellerini bilmek gerekir 💪."
+      ]
+    },
+    {
+      "heading": "Öğrenme mi, Performans mı?",
+      "emoji": "📈",
+      "bullets": [
+        "**Öğrenme**, zamanla gelişen bir **süreç**tir.",
+        "Alıştırma ve/veya deneyimin sonucunda oluşur.",
+        "Kapasitede meydana gelen göreceli ve **kalıcı** bir değişikliktir.",
+        "Doğrudan gözlemlenemez; sadece **performans** üzerinden çıkarım yapılabilir — bu dördü öğrenmenin temel özellikleridir.",
+        "**Performans**, \"beceriyi uygulama eylemi\"dir ve kalıcı değildir.",
+        "Yorgunluk, hastalık veya dikkatsizlik performansı düşürür; yüksek motivasyon veya şans ise artırabilir.",
+        "Gerçek öğrenmeyi ölçmek için test, antrenmandan bir süre (saat/gün/hafta) sonra yapılmalıdır."
+      ]
+    },
+    {
+      "heading": "Beceri Nedir? Tek Boyutlu Sınıflama",
+      "emoji": "🏃",
+      "bullets": [
+        "**Guthrie (1952)**'ye göre beceri, bir sonuca maksimum kesinlik ve minimum enerji/zamanla ulaşma yeteneğidir.",
+        "Bir hareketin beceri sayılması için bir **hedefi** olmalı; hedefsiz eylem sadece \"hareket\"tir.",
+        "**Motor Beceri**: bir amaca yönelik, öğrenilmesi gereken **istemli** davranıştır.",
+        "Reflekslerden farkı istemli olmasıdır; refleksler hızlı, programlanmış ve **istemsiz**dir.",
+        "Kas büyüklüğüne göre: **kaba beceri** (büyük kas, yürüme-atlama) ve **ince beceri** (küçük kas, yüksek kesinlik, yazı yazma).",
+        "Başlama-bitişe göre: **kesik beceri** (top atma), **seri beceri** (vites değiştirme) ve **devamlı beceri** (başı-sonu belirsiz, dakikalarca sürer: yüzme, bisiklet).",
+        "Çevreye göre **açık** (tahmin edilemez: penaltı) / **kapalı** (sabit: dart) beceri; öğelere göre **motor beceri** (nasıl yapıldığı önemli: halter) / **zihinsel beceri** (ne yapıldığı önemli: satranç)."
+      ]
+    },
+    {
+      "heading": "Gentile'nin Çok Boyutlu Haritası",
+      "emoji": "🗺️",
+      "bullets": [
+        "Tek boyutlu sınıflama yetersiz kalınca **Gentile (2000)** çok boyutlu sınıflamayı önerdi.",
+        "İki ana boyut: **Düzenleyici Şartlar** ve **Hareket Gereklilikleri**.",
+        "Düzenleyici Şartlar: çevre sabit mi değişken mi, denemeler arası tepki değişkenliği var mı?",
+        "Hareket Gereklilikleri: vücut yer değiştirmesi ve nesne manipülasyonu gerekiyor mu?",
+        "Bu boyutların alt dalları ile toplam **16 farklı** beceri tanımlanabilir.",
+        "En basit hareketler tablonun sol üstünde, en zor hareketler sağ altında yer alır.",
+        "Antrenman basitten zora, sol üstten başlanarak kademeli ilerletilmelidir 📈."
+      ]
+    },
+    {
+      "heading": "Reaksiyon Zamanı: Ne Kadar Hızlı Karar Veriyorsun?",
+      "emoji": "⚡",
+      "bullets": [
+        "**Algı**, bilgiye anlam yükleme işlevidir ve karar vermenin ilk adımıdır (örn. kalecinin topun yönünü algılaması).",
+        "**Reaksiyon Zamanı**: uyaranın verilmesi ile tepkinin başlaması arasındaki süre.",
+        "**Basit reaksiyon zamanı** hızı gösterir; **seçici (çoklu) reaksiyon zamanı** hem hızı hem doğruluğu gösterir.",
+        "**Seçici reaksiyon zamanı**: birden fazla uyarana, her birine özel bir tepki vermektir (örn. trafik ışığının renklerine göre farklı tepki).",
+        "Reaksiyon zamanını uzatan etkenler: uyaran sayısının artması, hareketin karmaşıklığı, **sezinleme** yapamamak (geçmiş deneyim azlığı).",
+        "Kısa aralıklı ardışık uyaranlara tepki (sporda **aldatma**) ve alışılmışın tam tersi bir hareket (Türkiye'den İngiltere'ye araba kullanmaya geçmek gibi) de reaksiyonu yavaşlatır.",
+        "Az uyaran, basit hareket ve önceden bilgi vererek **sezinlemeyi** kolaylaştırmak reaksiyon zamanını azaltır 🏎️."
+      ]
+    },
+    {
+      "heading": "Dikkat ve Canlılık Düzeyi",
+      "emoji": "👁️",
+      "bullets": [
+        "**Dikkat**: aynı anda birkaç nesne veya düşünceden birinin canlı ve belirgin şekilde zihin tarafından alınmasıdır.",
+        "Öğrenme için dikkat şarttır; antrenörü dikkatle dinlemeyen sporcu öğrenemez.",
+        "Dikkat kapasitesi **sınırlıdır**: bir görev zorlaştıkça ona ayrılan dikkat büyür, başka işe kalan dikkat **azalır**.",
+        "Yeni başlayanlara önce basit/kapalı hareketler öğretilmeli, sonra çevreye uyum alıştırmalarına geçilmelidir.",
+        "Sporcuya hareketi \"neden\" öğrendiğini açıklamak dikkatini toplamasına yardımcı olur 🎯.",
+        "**Canlılık Düzeyi**: merkezi sinir sisteminin aktivasyonudur; fizyolojik ve psikolojik süreçleri kapsar.",
+        "**Ters U Hipotezi**: çok düşük veya çok yüksek canlılıkta performans düşer; zihinsel becerilerde düşük, halter gibi büyük kas becerilerinde yüksek bir optimal canlılık seviyesi vardır."
+      ]
+    }
+  ]
+}

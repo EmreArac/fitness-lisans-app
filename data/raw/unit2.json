@@ -14,44 +14,64 @@
   ],
   "summary": [
     {
-      "heading": "Antrenmanın Temel İşlevleri ve Kondisyonel Hazırlık",
-      "paragraphs": [
-        "Her sporcu, antrenmanın temel işlevlerine ihtiyaç duyar; bunlar fiziksel, teknik, taktik ve zihinsel-psikolojik-kuramsal hazırlıktır ve tüm sporsal programlarda birlikte yer almalıdır. Antrenman faktörleri piramidinde en altta fiziksel antrenman, üzerinde teknik antrenman, onun üzerinde taktik antrenman, en üstte ise psikolojik antrenman bulunur; bu sıralama üst düzey becerilerin sağlam bir fiziksel temel üzerine inşa edildiğini gösterir.",
-        "Sporun üç temel özelliği olan teknik, taktik ve kondisyon birbirini tamamlar. Kondisyonel hazırlık kavramı, sporcunun fiziksel, teknik ve taktik yönden antrenmana hazırlanması sürecidir. Kondisyon, müsabaka boyunca teknik-taktik yeteneklerin korunmasını ve sporcunun spor dalının fiziksel gereklerine dayanmasını sağlar.",
-        "Fiziksel uygunluğu (aerobik kapasite, anaerobik güç, kuvvet, sürat, esneklik, çeviklik, denge, koordinasyon) yeterli olmayan bir sporcuda erken ortaya çıkan yorgunluk, nöromüsküler koordinasyonu bozarak teknik kapasiteyi düşürür ve istenen taktiğin uygulanmasını güçleştirir. Bu nedenle sportif başarı; kondisyonel ve psikolojik özelliklerin, teorik birikimin ve taktik uygulamaların teknikle bütünleşmesiyle elde edilir."
+      "heading": "Antrenmanın Temel Taşları",
+      "emoji": "🔺",
+      "bullets": [
+        "Her sporcu dört temel hazırlığa ihtiyaç duyar: **fiziksel**, **teknik**, **taktik** ve **zihinsel-psikolojik** hazırlık.",
+        "Antrenman piramidinde en altta **fiziksel antrenman**, üstünde **teknik**, onun üstünde **taktik**, en tepede **psikolojik antrenman** yer alır.",
+        "Bu sıralama üst düzey becerilerin sağlam bir fiziksel temel üzerine kurulduğunu gösterir — yani antrenmanın ilk temel işlevi her zaman **fiziksel hazırlık**tır.",
+        "**Kondisyonel hazırlık**, sporcunun fiziksel, teknik ve taktik yönden antrenmana hazırlanma sürecidir.",
+        "Yetersiz fiziksel uygunluk (aerobik kapasite, kuvvet, sürat, esneklik, denge gibi) erken yorgunluğa yol açar, bu da teknik ve taktik performansı düşürür.",
+        "Sportif başarı; kondisyon, teknik, taktik ve zihinsel özelliklerin bütünleşmesiyle elde edilir. 💪"
       ]
     },
     {
       "heading": "Fiziksel (Bedensel) Hazırlık",
-      "paragraphs": [
-        "Bedensel hazırlık şu şekilde tanımlanır: sporcunun temel motorik özelliklerinin, spor disiplinlerinin gerektirdiği düzeye ulaştırılmasına yönelik yapılan çalışmalardır. Bu hazırlığın temel amacı, sporcunun vücut fonksiyonlarını artırmak ve motorik özelliklerini üst düzeye çıkarmaktır; geliştirilmemiş fiziksel yetersizlikler, teknik ve taktik gelişimi de sınırlar. Uzun süreli antrenman sürecinde üç dönem yer alır: genel ve çok yönlü gelişimin sağlandığı temel antrenman dönemi, genel ve özel kondisyonun düzeltilip geliştirildiği gelişim antrenman dönemi ve branşa özgü kondisyonun mükemmelleştirildiği üst düzey antrenman dönemi.",
-        "Fiziksel antrenmanın iki temel amacı vardır: sporcunun fizyolojik potansiyelini artırmak ve spor dalına özgü biyomotor yetenekleri üst düzeye çıkarmak. Bu kapsamda fiziksel antrenman, genel fiziksel antrenman ve özel (spor dalına özgü) fiziksel antrenman olmak üzere ikiye ayrılır; her ikisi de hazırlık döneminde uygulanır, ancak hazırlık döneminin başında genel fiziksel hazırlık, sonraki evrelerde ise spor dalına özgü (özel) fiziksel hazırlık öne çıkar.",
-        "Genel fiziksel hazırlığın hedefi, sporcunun çalışma kapasitesini artırmak ve gelecekteki yüklenmelere hazırlamaktır; bu evrede orta şiddette, uzun süreli, çok yönlü bir antrenman uygulanır ve düz bar, sıra, ip, sağlık topu gibi genel araçlarla kuvvet, hareketlilik, esneklik, aerobik ve anaerobik kapasite geliştirilir; genç sporcularda bu süreç 2-4 yıl sürebilir. Özel (spor dalına özgü) fiziksel hazırlık ise genel hazırlık üzerine kurulur; spor dalı etkinliklerine benzer alıştırmalarla (örneğin güreşçilerde dayanıklılık-hız, voleybol ve basketbolda ağırlık çalışmaları gibi) sporcunun branşa özgü fiziksel gelişimi hızlandırılır ve bu süreç 2-4 ay, uzun planlamada 1-2 yıla kadar sürebilir.",
-        "Sürecin son aşaması olan biyomotor yetilerde üst düzey hazırlıkta, sporcunun kuvvet, esneklik, sürat ve dayanıklılık gibi motor özellikleri, seçtiği spor dalına özgü alıştırmalarla (örneğin yüksek atlamacılarda bacak presi, sıçrama alıştırmaları ve derinlik sıçramaları gibi) zirveye taşınır. Bu evredeki özel alıştırmalar, davranışların hareket ve teknik yapısına doğrudan odaklanır."
+      "emoji": "💪",
+      "bullets": [
+        "**Bedensel hazırlık**, sporcunun temel motorik özelliklerini ve koordinatif yeteneklerini spor dalının gerektirdiği seviyeye çıkarma çalışmasıdır.",
+        "Uzun süreli antrenmanda 3 dönem vardır: **temel antrenman dönemi** (genel/çok yönlü gelişim), **gelişim antrenman dönemi** (kondisyonu geliştirme) ve **üst düzey antrenman dönemi** (branşa özgü mükemmelleşme).",
+        "Fiziksel antrenman ikiye ayrılır: **genel fiziksel hazırlık** (hazırlık döneminin başında ağırlıklı) ve **özel (spor dalına özgü) fiziksel hazırlık** (sonraki evrelerde ağırlıklı).",
+        "**Genel fiziksel hazırlık**: orta şiddette, uzun süreli, çok yönlü bir çalışmadır; düz bar, sıra, ip, sağlık topu gibi araçlarla kuvvet, esneklik ve aerobik-anaerobik kapasite geliştirilir, gençlerde 2-4 yıl sürebilir.",
+        "**Özel fiziksel hazırlık**: branşa özgü çalışmalardır (örn. güreşte dayanıklılık-hız, voleybol/basketbolda ağırlık çalışması); 2-4 ay, uzun planlamada 1-2 yıla kadar sürebilir.",
+        "**Biyomotor yetilerde üst düzey hazırlık**: kuvvet, esneklik, sürat ve dayanıklılık, branşa özgü alıştırmalarla zirveye taşınır (örn. yüksek atlamada bacak presi 🦵, sıçrama ve derinlik sıçramaları)."
       ]
     },
     {
       "heading": "Teknik Hazırlık",
-      "paragraphs": [
-        "Teknik şu şekilde tanımlanır: branşın temel hareketlerinin, amaca uygun en ekonomik bir şekilde yapılmasıdır; bir başka ifadeyle spor disiplinine ait hareketin ideal modelidir. Teknik, sporda başarıya ulaşabilmenin birinci temel ögesi sayılır ve sinir-kas koordinasyonuna dayalı bir adaptasyon mekanizmasının ürünüdür. Sporcunun bir beceriyi bireysel olarak uygulama biçimine ise stil denir; stilde modelin ana yapısı değişmez, sporcu kendi anatomik ve fizyolojik özelliklerini modele ekler.",
-        "Teknik eğitim, çok yönlü teknik eğitim (koordinatif yeteneklerin ve hareket zenginliğinin geliştirilmesi), genel teknik eğitimi (kondisyonel özelliklerle bütünleşik ayrıntılı eğitim) ve özel teknik eğitim (spor dalına özgü, otomatikleşmiş eğitim) olmak üzere üç aşamada gerçekleşir. Tekniğin öğrenimi de dört safhadan oluşur: amaca yönelik tanıma ve anlama safhası, kaba koordinasyon safhası, ayrıntılı ve ince koordinasyon safhası, sağlamlaştırma ve pekiştirme safhası; bu son safhada teknik otomatik hâle gelir ve sporcu en üst düzeye ulaşır.",
-        "Sportif teknikte kinematik özellikler (zamanlama, uzunluk-mesafe, hızlanma) ile dinamik özellikler (ivmeleme, frenleme, kuvvet vuruşu, döndürme momenti) birlikte değerlendirilir. Antrenörler, hatanın ve nedeninin tespiti, mevcut düzeltme olanaklarının değerlendirilmesi ve en uygun düzeltme şartına karar verilmesi sırasıyla teknik hataları düzeltir; bu süreçte sporcunun fiziksel hazırlık düzeyi, bireysel, psikolojik ve bedensel özellikleri dikkate alınmalıdır."
+      "emoji": "🎯",
+      "bullets": [
+        "**Teknik**, bir branşın temel hareketlerinin en ekonomik şekilde yapılmasıdır — sporun \"ideal hareket modeli\".",
+        "Teknik, sinir-kas koordinasyonuna dayanır ve sportif başarının birinci temel ögesi sayılır.",
+        "**Stil**, sporcunun bir hareketi kendi anatomik ve fizyolojik özellikleriyle bireysel olarak uygulama biçimidir; modelin ana yapısı değişmez.",
+        "Teknik eğitim 3 aşamada ilerler: **çok yönlü teknik eğitim**, **genel teknik eğitim** ve **özel teknik eğitim**.",
+        "Tekniğin öğrenimi 4 safhadan geçer: tanıma-anlama → kaba koordinasyon → ince koordinasyon → **sağlamlaştırma/pekiştirme** (teknik burada otomatikleşir).",
+        "Teknikte **kinematik** (zamanlama, mesafe, hızlanma) ve **dinamik** (kuvvet, ivme, frenleme) özellikler birlikte değerlendirilir.",
+        "Hata düzeltme sırası: hatayı ve nedenini bulma → düzeltme imkanlarını değerlendirme → en uygun çözüme karar verme."
       ]
     },
     {
       "heading": "Taktik Hazırlık",
-      "paragraphs": [
-        "Taktik, teknik yeteneği gelişmiş bir sporcunun sabit ve değişken koşullarda bireysel ve takım olarak becerilerini sergilemesi işidir ve ancak teknik hazırlığın geliştirilmesiyle başarıya ulaşabilir; topu iyi tutamayan bir sporcu pası istediği yere atamaz. Taktik, oyun hedeflerine erişmek için alınan tüm organize tedbirleri, plan, düşünme, metot ve faaliyet prensiplerini kapsar. Sınıflandırmada taktik; genel taktik-özel taktik, bireysel taktik-kolektif taktik, ya da bireysel-grup-takım taktiği olarak ayrılabilir.",
-        "Taktik uygulama sırasıyla şu aşamalardan geçer: müsabaka pozisyonunu algılamak ve analiz etmek, düşünce olarak çözümü bulmak ve taktik görevin motorik çözümünü gerçekleştirmek. Taktik eğitimde ise sırasıyla algılama (hissetme sürati), operatif düşünebilme, hareket sürati ve koordinasyon gibi sensomotorik özellikler ile psikolojik yetenekler geliştirilir; bu eğitim araştırmak, gizlemek ve duruma uygun davranışı uygulamak bileşenleriyle üç basamakta (tipik davranışları tekrarlama, müsabaka pozisyonunu sezinleme, rakibin davranışlarını tanıyarak doğru kararı verme) gerçekleşir.",
-        "Taktik antrenman, müsabakada taktik davranışı gerçekleştirmek için gerekli becerilerin sistematik olarak geliştirilmesidir ve teorik eğitim (öğrenme, dikkat, bilgi alımı becerilerinin geliştirilmesi) ile pratik-uygulamalı eğitimin (taktik şemaların tekrarlanarak otomatikleşmesi) bütünleşmesini gerektirir. Taktik antrenmanın metodik ilkeleri arasında teori-uygulama bütünlüğü, teknik-taktik eğitimin paralel yürütülmesi, savunmasızdan müsabaka şartlarına kademeli zorlaştırma, temelden varyasyona ilerleme, gözlem/video ile görsel yeteneğin geliştirilmesi ve bütünden parçaya, kolaydan zora gibi öğretim yöntemleri yer alır."
+      "emoji": "♟️",
+      "bullets": [
+        "**Taktik**, teknik açıdan gelişmiş bir sporcunun sabit/değişken koşullarda bireysel veya takım olarak üstünlük kurma becerisidir; ancak güçlü bir **teknik** temeliyle başarıya ulaşır.",
+        "Klasik örnek: \"Topu iyi tutamayan bir sporcu pası istediği yere atamaz\" → bu, **teknik-taktik** ilişkisini gösterir.",
+        "Taktik sınıflandırılır: **genel-özel taktik**, **bireysel-kolektif taktik**, bireysel-grup-takım taktiği.",
+        "Taktik uygulama 3 adımdır: pozisyonu algılama/analiz etme → çözümü düşünme → motorik çözümü uygulama.",
+        "Taktik eğitimde algılama (hissetme sürati), operatif düşünme, hareket sürati ve koordinasyon geliştirilir.",
+        "**Taktik antrenman**, teorik eğitimi (öğrenme, dikkat, bilgi alımı) pratik eğitimle (taktik şemaların tekrarla otomatikleşmesi) birleştirir."
       ]
     },
     {
       "heading": "Zihinsel ve Kuramsal Hazırlık",
-      "paragraphs": [
-        "Zihinsel antrenman şu şekilde tanımlanır: yapılacak olan hareketin uygulama olmaksızın yoğun bir şekilde zihinde canlandırılmasıdır; bilinen bir hareketin geliştirilmesi ya da yeni bir hareketin pasif öğrenme süreci olarak da adlandırılır. Zihinsel psikolojik hazırlık ise bir sporcunun, kendisini etkileyen algı, stres, motivasyon, eğitim ve motorik becerilerin üstesinden gelerek ilgili spor dalına hazırlanması işidir; sporcular ancak psiko-enerji düzeylerini düzenli kontrol ederlerse bunun yarışmadaki faydasını görebilirler.",
-        "Zihinsel antrenman üç yöntemle uygulanır: kendi kendine konuşma antrenmanı (sporcunun bir hareketi nasıl yapması gerektiği konusunda zihinsel olarak kendisiyle konuşması), gizli algı antrenmanı (idealize edilen bir sporcunun hareketinin zihinde canlandırılması) ve kendini hayal etme/imgeleme antrenmanı (sporcunun kendi uygulamasını, geçmiş bilgi ve deneyimlerini kullanarak hayal etmesi). Bu yöntemler sporcunun duygu ve düşüncelerini kontrol edebilme, kendine güven, motivasyon, stresle başa çıkabilme ve beceri öğrenimi konularında başarı sağlamasına yardımcı olur.",
-        "Antrenmanın kuramsal/eğitimsel boyutu, sporcunun verim düzeyinin spor dalının özelliği, eğitim süreci, planlama, fiziksel-fizyolojik-psikolojik yüklenmeler gibi etmenlere bağlı olduğunu kabul eder. Antrenman bireysel bir özellik taşıdığından bireyden bireye farklılık gösterir ve bilimsel kurallara, başarılı antrenörlerin ve sporcuların deneyimlerine dayanarak planlı ve sistematik şekilde düzenlenmelidir; bu deneyimlerin genelleştirilip uyarlanması, antrenörün sporcuyu kendi kendine düşünüp hareket edebilecek şekilde yönlendirmesine katkı sağlar."
+      "emoji": "🧠",
+      "bullets": [
+        "**Zihinsel antrenman**, yapılacak hareketi uygulama olmadan yoğun biçimde zihinde canlandırmaktır — bir tür pasif öğrenme.",
+        "**Zihinsel-psikolojik hazırlık**, sporcunun algı, stres, motivasyon, eğitim ve motorik becerilerin üstesinden gelerek spor dalına hazırlanma işidir.",
+        "3 yöntemle uygulanır: **kendi kendine konuşma antrenmanı**, **gizli algı antrenmanı** (idealize sporcuyu zihinde canlandırma) ve **imgeleme/hayal etme antrenmanı**.",
+        "Bu yöntemler özgüven, motivasyon, stresle baş etme ve beceri öğreniminde sporcuya yardımcı olur.",
+        "Antrenmanın **kuramsal/eğitimsel boyutu**, verimin eğitim süreci, planlama ve fiziksel-psikolojik yüklenmelere bağlı olduğunu kabul eder.",
+        "Antrenman bireyseldir; bilimsel kurallara ve başarılı antrenör/sporcuların deneyimlerinin genelleştirilip uyarlanmasına dayanarak planlanır. 📘"
       ]
     }
   ],

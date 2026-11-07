@@ -17,57 +17,85 @@
   "summary": [
     {
       "heading": "Çocuklarda Fiziksel Aktivite ve Ölçme-Değerlendirmenin Önemi",
-      "paragraphs": [
-        "Çocukları sağlıklı ve mutlu bir geleceğe hazırlamak, toplumların en önemli hedeflerinden biridir. Küçük yaşlarda edinilen fiziksel aktivite alışkanlığı, yaşam boyu sürecek sporun ilk aşamasını oluşturur. Geniş katılımlı fiziksel aktivite programları, katılımcı çocuklar arasından fiziksel testlerde öne çıkan yetenekli çocukların belirlenme şansını artırır.",
-        "Antrenörlerin ölçme ve değerlendirme konusunda yetkin olması, sporcularının performanslarına ilişkin verileri doğru yorumlayabilmesini sağlar. Yetenek seçimi havuzuna seçim ve bu sürecin takibinde, sporcuların fiziksel yeterliliklerinin sayısal verilerle bilinmesi, adil ve objektif bir değerlendirme yapılmasına katkı sunar.",
-        "Fiziksel uygunluk (fitness), hareketlerin doğru olarak yapılmasını ve fiziksel dayanıklılıkla ilgili olarak vücudun kondisyon durumunu ifade eder. Diğer bir tanıma göre ise fiziksel uygunluk kişinin çalışma kapasitesidir; bu kapasite kişinin kuvvetine, dayanıklılığına, çabukluğuna ve bu unsurların birlikte çalışmasına bağlıdır. WHO, FİMS, ACSM, CDC gibi uluslararası kuruluşlar, toplumun sağlığını ve fiziksel uygunluk düzeyini geliştirmek amacıyla bu alanda sürekli araştırmalar yürütmektedir."
+      "emoji": "🏃",
+      "bullets": [
+        "Çocuklukta kazanılan **fiziksel aktivite** alışkanlığı, yaşam boyu sürecek sporun ilk basamağıdır.",
+        "Geniş katılımlı programlar, yetenekli çocukların fiziksel testlerle fark edilme şansını artırır.",
+        "Antrenörün **ölçme ve değerlendirme** bilgisi, performans verilerini doğru yorumlamasını ve adil, objektif seçim yapmasını sağlar.",
+        "**Fiziksel uygunluk (fitness)**, hareketleri doğru yapma becerisi ve vücudun genel kondisyon durumu olarak tanımlanır.",
+        "Başka bir tanıma göre fitness, kişinin **çalışma kapasitesidir** — kuvvet, dayanıklılık ve çabukluğun birlikte çalışmasına bağlıdır.",
+        "**WHO, FİMS, ACSM, CDC** gibi uluslararası kuruluşlar toplum sağlığı ve fiziksel uygunluk için sürekli araştırma yapar."
       ]
     },
     {
       "heading": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi",
-      "paragraphs": [
-        "Olimpiyatlar İçin Sporda Yetenek Seçimi ve Spora Yönlendirme Projesi dört aşamadan oluşur: I. Aşamada ilköğretim okullarında beden eğitimi öğretmenleri tarafından spora yatkınlık ölçümleri yapılır; II. Aşamada seçilen çocuklar BESYO uzmanlarınca daha kapsamlı bir test bataryasından geçirilir; III. Aşamada seçilen çocuklar 8 haftalık temel spor eğitim programına katılır; IV. Aşamada ise çok yönlü temel spor eğitimi sonunda çocuklar yetenekli oldukları spor dallarına yönlendirilir.",
-        "Gençlik ve Spor Bakanlığı ile Milli Eğitim Bakanlığı arasında imzalanan işbirliği protokolü çerçevesinde proje, 81 il, 957 ilçe ve 9527 okulda, ilkokul 3. sınıfa devam eden 423.557 öğrenci üzerinde yürütülmüştür. Bu öğrencilerden 46.884'ü ilk sportif yatkınlık testinde ortalama %10'luk dilime girerek, temel hareket ve sportif beceriler eğitimine davet edilmiştir.",
-        "Sporcu Gelişimi ve Eğitimi Modülleri, birbirini takip eden üç süreçten oluşur: Eğitim 1 - Temel Hareket Becerileri Eğitimi ve Gelişimi (Temel Düzey, 2,5 ay), Eğitim 2 - Spora Özgü Temel Eğitim ve Hareket Becerileri Gelişimi (Orta Düzey, 5 ay) ve Eğitim 3 - Çoklu Beceri Gelişimini İçeren Spor Eğitimi/Çoklu Branş Eğitimi (İleri Düzey, 5 ay). Bu üç süreç toplamda 12 aylık bir eğitim programı oluşturur.",
-        "İlk temel test ve ölçümler antropometrik olarak boy uzunluğu, vücut ağırlığı, kulaç uzunluğu, bacak uzunluğu ve oturma yüksekliğini; motorik olarak ise dikey sıçrama, esneklik, geriye sağlık topu atma, pençe kuvveti, çeviklik ve sürat testlerini kapsar. İkinci aşamada ise koordinasyon testi, mekik koşusu, denge testi ve görsel reaksiyon testi gibi daha ileri düzey testler uygulanarak sporcu adayları federasyonlarla işbirliği içinde ilgili branşlara yönlendirilir."
+      "emoji": "🎯",
+      "bullets": [
+        "Proje **4 aşamadan** oluşur: önce okullarda tarama, sonra uzman testi, temel eğitim ve son olarak branşa yönlendirme.",
+        "**Gençlik ve Spor Bakanlığı** ile **Milli Eğitim Bakanlığı** arasındaki işbirliği protokolüyle yürütülür.",
+        "**81 il, 957 ilçe, 9527 okulda**, ilkokul 3. sınıftan **423.557 öğrenci** taranmıştır.",
+        "Bu öğrencilerden **46.884'ü** (ortalama **%10'luk dilim**) temel hareket ve sportif beceriler eğitimine davet edilmiştir.",
+        "Eğitim modülleri sırayla uygulanır: **Temel Düzey** (2,5 ay) → **Orta Düzey** (5 ay) → **İleri Düzey/Çoklu Branş** (5 ay) — toplam 12 ay.",
+        "İlk test bataryası **antropometrik ölçümleri** (boy, ağırlık, kulaç, bacak, oturma yüksekliği) ve **motorik testleri** (dikey sıçrama, esneklik, sağlık topu, pençe kuvveti, çeviklik, sürat) kapsar.",
+        "İkinci aşamada **koordinasyon, mekik koşusu, denge ve görsel reaksiyon testleri** uygulanır ve adaylar federasyonlarla ilgili branşlara yönlendirilir."
       ]
     },
     {
       "heading": "Antropometrik Ölçümler",
-      "paragraphs": [
-        "Vücut ağırlığı (kg), öğrenci ayakkabısız ve spor kıyafeti ile ölçülür. Boy uzunluğu (cm) ölçümünde ise topuk, kalça, sırt ve başın arka bölümünün iz düşümü aynı dikey doğrultuda olmalı, başın pozisyonu gözler karşıya bakacak şekilde ayarlanmalıdır.",
-        "Oturma yüksekliği (cm) ölçümünde öğrenci sandalyeye otururken dizler 90 derece açıda tutulur; kalça, sırt ve başın arka bölümünün iz düşümü aynı dikey doğrultuda olacak ve başın pozisyonu gözler karşıya bakacak şekilde olacaktır. Kulaç uzunluğu (cm) ölçümünde ise sırt geriye dayalı biçimde, kollar avuç içi karşıya bakacak şekilde yere paralel ve gergin olarak yanlara açılır; her iki kolun orta parmakları arasındaki uzaklık ölçülür.",
-        "Bu ölçümler, özellikle vücut yapısı ve uzuv uzunluklarının baskın olduğu spor branşlarına öğrencilerin yönlendirilmesinde temel veriler sağlar. Erken çocukluk döneminde (4-5 yaş) yıllık boy artışı ortalama 6 cm, vücut ağırlığı artışı ise 2 kg'dır; cinsiyetler arasında bu dönemde fark görülmez, ancak 7-10 yaşın sonlarına doğru kız çocukları lehine bir durum gözlenmeye başlar."
+      "emoji": "📏",
+      "bullets": [
+        "**Vücut ağırlığı**, öğrenci ayakkabısız ve spor kıyafetiyle tartılarak ölçülür.",
+        "**Boy uzunluğu** ölçümünde topuk, kalça, sırt ve başın arka kısmı aynı dikey hizada, gözler karşıya bakacak şekilde durulur.",
+        "**Oturma yüksekliği**, dizler 90 derece açıdayken aynı duruş kurallarıyla ölçülür.",
+        "**Kulaç uzunluğu**, kollar yana paralel açılırken iki elin **orta parmakları** arasındaki uzaklık olarak ölçülür.",
+        "Bu ölçümler, vücut yapısının belirleyici olduğu spor dallarına yönlendirmede temel veri sağlar.",
+        "**4-5 yaş** arası çocuklarda yıllık boy artışı ortalama **6 cm**, ağırlık artışı **2 kg**'dır; bu yaşta cinsiyet farkı görülmez.",
+        "**7-10 yaşın sonlarına** doğru kız çocukları lehine bir fark görülmeye başlar."
       ]
     },
     {
       "heading": "Fiziksel Performans Testleri: Esneklik, Sıçrama ve Kuvvet",
-      "paragraphs": [
-        "Esneklik (uzan-eriş) testinde öğrenci ayakkabısız olarak esneklik tahtasının dayanma bölümüne ayak tabanlarını yerleştirir, dizlerini gergin tutarak kalça ekleminden bükülüp öne doğru uzanır ve cetveli parmak ucuyla en uzak noktaya kadar iter. Dizlerin bükülmemesi, doğru ölçüm için kritik önemdedir ve test iki deneme ile uygulanır.",
-        "Dikey sıçrama testinde öğrenci, ayakları omuz genişliğinde açık dik pozisyonda sıçrama matının üzerinde durur; hızla dizlerini bükerek çöker ve kollarını kullanarak en yüksek hızla yukarı sıçrar, iniş sırasında dizlerini bükmeden sıçradığı noktaya düşmeye çalışır. El kavrama (pençe kuvveti) testinde ise kol aşağıya gergin biçimde uzatılarak el dinamometresi tüm kuvvetle sıkılır; ölçüm hem sağ hem sol el için ayrı ayrı yapılır.",
-        "Geriye sağlık topu atma testinde katılımcı, atış yapacağı yöne sırtı dönük pozisyon alır; topu iki eliyle önde tutup dizlerini hafifçe büktükten sonra vücudunu hızla gererek topu geriye doğru fırlatır. Atış alanı açısı 30 derece olarak belirlenmiştir ve belirlenen çizgiyi aşarak geriye düşme durumunda atış tekrarlanır."
+      "emoji": "💪",
+      "bullets": [
+        "**Esneklik (uzan-eriş) testinde** dizler gergin tutularak öne uzanılır, cetvel parmak ucuyla en uzak noktaya itilir; test 2 deneme ile yapılır.",
+        "**Dikey sıçrama testinde** öğrenci çökerek kollarını kullanıp en yüksek sıçramayı yapar ve dizini bükmeden aynı noktaya iner.",
+        "**Pençe (el kavrama) kuvveti**, dinamometreyle kol gergin aşağı uzatılarak her iki el için ayrı ölçülür.",
+        "**Geriye sağlık topu atma testinde** sırt atış yönüne dönük, top önde tutulup vücut gererek geriye fırlatılır.",
+        "Sağlık topu atışında atış alanı açısı **30 derece**'dir; belirlenen çizgi aşılırsa atış tekrarlanır."
       ]
     },
     {
       "heading": "Fiziksel Performans Testleri: Çabukluk, Sürat ve Koordinasyon",
-      "paragraphs": [
-        "Çeviklik testinde öğrenci, parkurun orta çizgisinin 50 cm gerisinde koşu yönüne yan duruş pozisyonunda hazır bekler; çıkış komutuyla hızla koşarak işaretlenmiş hedeflere sırayla eliyle dokunur ve başlangıç çizgisini geçerek testi tamamlar. 20 metre sürat koşusu testinde ise öğrenci, fotoselin 1 metre gerisindeki çıkış çizgisinden başlayarak 20 metrelik mesafeyi en yüksek süratle, yavaşlamadan tamamlar.",
-        "Koordinasyon testi, fotoselle ölçülen süre içinde art arda uygulanan 10 farklı istasyonu içerir: öne takla, denge tahtasından geçiş, engel üzerinden top atma, tek ayakla sekme (sağ-sol), elle top yer değiştirme, ayakla top yer değiştirme, duvara top atma, alttan-üstten engel geçişi, koşarak engeller arası slalom ve son olarak mekik koşu testi. Her istasyon için tanımlanmış hatalar (örneğin çemberin dışına basma, engeli atlama, belirlenen bölgeye basmama) yapıldığında hareketin yeniden tekrarlanması istenir.",
-        "20 metre mekik koşu testi, dayanıklılık özelliğini ölçmek amacıyla uygulanır; sporcu 20 metrelik parkurda, verilen sinyal sesleriyle koşmaya devam eder. Test 7 km/s hızla başlar ve her seviyede 0,5 km/s artarak zorlaşır. Sporcu sinyali bir kez kaçırırsa teste devam edebilir; ancak art arda iki kez sinyali kaçırırsa test o sporcu için sonlandırılır ve ulaşılan mekik sayısı kaydedilir."
+      "emoji": "⚡",
+      "bullets": [
+        "**Çeviklik testinde** öğrenci orta çizginin 50 cm gerisinde yan durur, komutla koşup hedeflere sırayla dokunur.",
+        "**20 metre sürat koşusu testinde** öğrenci fotoselin **1 metre gerisindeki** çizgiden başlayıp mesafeyi yavaşlamadan tamamlar.",
+        "**Koordinasyon testi**, takla ve denge tahtası gibi **10 farklı istasyonu** fotoselle ölçülen sürede içerir; hata yapılan istasyon tekrarlanır.",
+        "**20 metre mekik koşu testi**, **dayanıklılığı** ölçmek için yapılır; sinyal sesleriyle koşuya devam edilir.",
+        "Mekik testi **7 km/s** hızla başlar ve her seviyede **0,5 km/s** artarak zorlaşır.",
+        "Sporcu sinyali bir kez kaçırırsa devam edebilir; ancak **üst üste 2 kez** kaçırırsa test sonlanır ve ulaşılan mekik sayısı kaydedilir."
       ]
     },
     {
       "heading": "Denge ve Görsel Reaksiyon Testleri",
-      "paragraphs": [
-        "Denge testi, öğrencinin destek ayağı üzerinde ağırlık (kütle) merkezinin durağanlığını veya hareketliliğini tespit etmek amacıyla uygulanır. Toplam 70 saniye süren test sırasında öğrenci sırasıyla çift ayakla, sol ayakla ve sağ ayakla denge platformu üzerinde belirtilen sürelerde hareketsiz durmaya çalışır; öğrenci platformdan düşerse veya zamanında platforma çıkamazsa test tekrarlanır.",
-        "Görsel reaksiyon testi, bir uyaranın (görme, dokunma, işitme) sinirler yoluyla merkezi sinir sistemine iletilmesi, burada karar oluşturulması ve bu kararın tekrar sinirler yoluyla kaslara iletilerek harekete geçirilmesi sürecini inceler. Reaksiyon zamanı, uyaranın gelmesiyle tepkinin başlamasına kadar geçen süreyi; tepki süresi ise uyaranın başlama zamanı ile tepkinin başladığı zaman arasında geçen süreyi ifade eder. Test, öğrencinin görsel bir uyarıya (rastgele yanan lambalardan kırmızı renge) vermiş olduğu tepki süresini ve bu tepkiyi devam ettirebilme düzeyini incelemeyi amaçlar; her lamba için en az 3 uyarı verilerek toplam 24 tekrar sonrasında test sonlandırılır."
+      "emoji": "⚖️",
+      "bullets": [
+        "**Denge testi**, toplam **70 saniye** sürer; öğrenci çift ayak, sol ayak ve sağ ayakla sırasıyla platformda hareketsiz durmaya çalışır.",
+        "Platformdan düşülürse veya süresinde çıkılamazsa denge testi tekrarlanır.",
+        "**Görsel reaksiyon testi**, bir uyaranın sinirlerle algılanıp karar verilip kasa iletilmesi sürecini inceler.",
+        "**Reaksiyon zamanı**, uyarandan tepkinin başlamasına kadar geçen süredir; **tepki süresi** ise uyaranın başlamasıyla tepkinin başlaması arasındaki süredir.",
+        "Test kırmızı ışığa verilen tepkiyi ölçer; her lamba için en az 3 uyarı olmak üzere toplam **24 tekrar** yapılır.",
+        "Amaç, öğrencinin **tepki süresini** ve bu tepkiyi **devam ettirebilme düzeyini** birlikte incelemektir."
       ]
     },
     {
       "heading": "Bölüm Özeti",
-      "paragraphs": [
-        "Antrenörlerin çocuklara yönelik fiziksel aktivite, ölçme ve değerlendirme konularına hakim olması, özellikle yetiştirici antrenörlük konusunda yetkin olmalarını sağlar. Dünyada spor alanında ileri gitmiş ülkeler, çocuklara uzun süre yatırım yaptıktan sonra aralarından şampiyon sporcular çıkarmaktadır; bu nedenle devlet yetkilileri, çocuklara sistematik antropometrik ölçüm ve fiziksel performans testleri uygulanması konusunda önemli organizasyonlar yapmaktadır.",
-        "Fiziksel ve antropometrik testler hakkında bilgi sahibi olmak, antrenörlere büyük avantajlar sağlar. Kuvvet, dayanıklılık, sürat, çeviklik, koordinasyon seviyesi, esneklik ve vücut kompozisyonuna yönelik test ve ölçüm sonuçları, üst seviyelerde yarışmacı olmaya aday genç sporcuları belirlemede ve bu sporcuların hangi branş için daha yeterli olduğu konusunda tahminler yapılmasında kullanılır. Bu testlerin büyük çoğunluğu, basit araç ve gereçler kullanılarak uygulanabilir."
+      "emoji": "✅",
+      "bullets": [
+        "Antrenörlerin çocuklara yönelik **ölçme ve değerlendirme** bilgisi, iyi bir yetiştirici antrenör olmanın temelidir.",
+        "Sporda ileri ülkeler, çocuklara uzun yıllar yatırım yaparak şampiyonlar çıkarır; bu yüzden devletler sistematik test organizasyonları yürütür.",
+        "**Kuvvet, dayanıklılık, sürat, çeviklik, koordinasyon, esneklik** ve vücut kompozisyonu testleri, yetenekli genç sporcuları belirlemede kullanılır.",
+        "Bu testlerin büyük çoğunluğu, basit araç ve gereçlerle uygulanabilir."
       ]
     }
   ],

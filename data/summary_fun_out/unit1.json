@@ -1,0 +1,43 @@
+{
+  "summary": [
+    {
+      "heading": "Temel Kavramlar: Spor mu, Antrenman mı?",
+      "emoji": "🏃",
+      "bullets": [
+        "**Spor**, TDK'ya göre bedeni veya zihni geliştirmek için kurallara bağlı, bireysel veya toplu yapılan hareketlerin tümüdür.",
+        "**Fiziksel aktivite**, iskelet kasları aracılığıyla oluşan enerji harcamasıdır; kural veya rekabet şartı yoktur (yürüme, merdiven çıkma gibi).",
+        "**Performans**, sporcunun ortaya koyduğu somut fiziksel, fizyolojik ve psikolojik verim düzeyidir.",
+        "Performansı etkileyen faktörler **içsel** (yaş, cinsiyet, anatomik yapı, genetik, otonom sinir sistemi) ve **dışsal** (antrenman ortamı, malzeme, iklim) olmak üzere ikiye ayrılır.",
+        "**Egzersiz**, fiziksel uygunluğu geliştirmeye yönelik planlı ve tekrarlayıcı vücut hareketleridir.",
+        "**Antrenman**, sporcuyu fiziksel, teknik, taktik ve zihinsel açıdan en yüksek sporsal verime hazırlayan tüm sistematik yöntemleri kapsar.",
+        "**Antrenör**, sporcuyu teknik, taktik, kondisyon ve zihinsel açıdan üst düzey verimliliğe ulaştıran; sağlık koruma, planlama ve etik sorumlulukları olan eğitici kişidir."
+      ]
+    },
+    {
+      "heading": "Sporcu Nasıl Gelişir? LTAD ve DMSP",
+      "emoji": "📈",
+      "bullets": [
+        "**LTAD (Uzun Vadeli Sporcu Gelişimi)** modeli, bebeklikten yetişkinliğe yedi evrede ilerler; geçişlerde takvim yaşı değil **biyolojik yaş** esas alınır.",
+        "Evreler sırayla: Aktif Başlangıç (0-6 yaş) → Temel Eğitim (kız 6-8, erkek 6-9) → **Antrenman Yapmayı Öğrenme** (kız 8-11, erkek 9-12).",
+        "Devamında **Antrenman İçin Antrenman** (kız 11-15, erkek 12-16) → Yarışma İçin Antrenman (kız 15-17, erkek 16-18) → Kazanmak İçin Antrenman (kız 17+, erkek 18+) → Aktif Yaşam İçin Antrenman.",
+        "**Jimnastik, ritmik jimnastik ve artistik buz pateni** gibi erken özelleşen branşlarda evreler öne çekilir; **atletizm, futbol, voleybol, güreş, boks** gibi geç özelleşen sporlarda sırasıyla uygulanır.",
+        "**DMSP (Sporcu Katılımlı Gelişim Modeli)** üç aşamadan oluşur: Örnekleme (6-12 yaş, çoklu spor), **Uzmanlaşma** (13-15 yaş, branş sayısı azalır), Yatırım (16 yaş ve sonrası, tek branşta yüksek performans).",
+        "DMSP'ye göre erken yaşta çoklu spora katılım (örnekleme) uzun vadeli başarıya katkı sağlar; erken tek spora özelleşme genelde en iyi performansı getirmez.",
+        "**Balyi**'nin LTAD'ı biyolojik/fizyolojik temelliyken, **Côté**'nin DMSP'si ağırlıklı olarak psikolojik bir çerçeveye dayanır."
+      ]
+    },
+    {
+      "heading": "Vücut Yüklenmeye Nasıl Uyum Sağlar?",
+      "emoji": "💪",
+      "bullets": [
+        "Antrenman yüklenmesi vücutta iki tür uyum başlatır: **akut uyum** (anlık tepki) ve **kronik uyum** (zamanla gelişen, kas/sinir/kalp sistemlerindeki kalıcı değişim).",
+        "**Süperkompenzasyon (fazla tamamlama)**, tükenen enerji kaynaklarının başlangıç seviyesinin üzerine çıkacak şekilde tamamlanmasıdır; yorgunluk → dinlenme → yenilenme olmak üzere 3 evrede gerçekleşir.",
+        "Yeni antrenman uyaranı genelde **24-48 saat** içinde verilmeli; dinlenme çok uzarsa fazla tamamlama kaybolur ve gelişme durur.",
+        "**Sürantrenman (overtraining)**, yetersiz dinlenme ve yorgunluk birikimiyle düşük performansa yol açan aşırı antrenman sürecidir; huzursuzluk, kilo kaybı, iştahsızlık gibi belirtiler görülür.",
+        "Sürantrenmanı gidermek için yoğunluk düşürülmeli, beslenme/uyku/masaj ve dinlenme artırılmalı; **antrenman sayısını artırarak yüklenmeye devam etmek yanlış bir uygulamadır**.",
+        "**Antrenmansızlaşma (detraining)**, uzun süre ara verilmesiyle oluşan performans kaybıdır; kazanılan form **4-8 hafta**da, ileri düzey sporcularda **2-3 hafta**da kaybolmaya başlar.",
+        "Detraining'de kapiller yoğunluk, arteriovenöz oksijen farkı, oksidatif enzim aktivitesi, **kalp debisi ve atım hacmi azalır** (artmaz); kas atrofi gelişir, **sürat** az kayıp yaşarken **esneklik** çok çabuk geriler."
+      ]
+    }
+  ]
+}

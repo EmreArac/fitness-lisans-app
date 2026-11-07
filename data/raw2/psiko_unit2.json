@@ -21,108 +21,158 @@
   ],
   "summary": [
     {
-      "heading": "Giriş: Toplumsal Bir Kurum Olarak Spor",
-      "paragraphs": [
-        "Spor, insanlık tarihi kadar eski bir toplumsal kurumdur ve içinde yaşadığımız kültürle yakından bağlantılıdır. Dünyanın en kitlesel ve heyecan verici etkinliklerinden biri olan spor; ekonomi, siyaset, medya ve sosyalizasyon süreçleriyle iç içe geçmiş, toplumsal yaşamın küçük bir minyatürü sayılabilecek bir toplumsal olgudur.",
-        "Sosyalleşme (toplumsallaşma) sürecinde birey, yaşadığı toplumun kültürünü öğrenir; spor bu süreçte özellikle çocukların gelişiminde çok önemli bir araçtır. Çocuklar, spor sayesinde kurallara uymayı, disiplini, mücadele etmeyi, birlikte hareket etmeyi ve rakibe saygı göstermeyi öğrenirler. Sporun sosyalleşmeye katkısı başta aile olmak üzere okul, arkadaş grubu ve medya aracılığıyla gerçekleşir.",
-        "Toplumsal hayatı şekillendiren temel olgulardan biri olan toplumsal cinsiyet de spor sosyolojisinin önemli konularından biridir; toplumun kadına ve erkeğe biçtiği roller ve kalıp yargılar, kadın ve erkeğin spora katılımını yakından etkilemektedir."
+      "heading": "Spor Neden Bir Toplumsal Kurum?",
+      "emoji": "🏟️",
+      "bullets": [
+        "Spor, insanlık tarihi kadar eski bir **toplumsal kurum**dur; ekonomi, siyaset ve medya ile iç içedir.",
+        "**Sosyalleşme** sürecinde birey toplumun kültürünü öğrenir; spor bu süreçte çocuklar için çok güçlü bir araçtır.",
+        "Çocuklar spor sayesinde kurallara uymayı, disiplini ve rakibe saygıyı öğrenir.",
+        "Bu sosyalleşme başta aile olmak üzere okul, arkadaş grubu ve medya aracılığıyla gerçekleşir.",
+        "**Toplumsal cinsiyet** de spor sosyolojisinin önemli konularından biridir; toplumun kadın-erkeğe biçtiği roller spora katılımı etkiler."
       ]
     },
     {
-      "heading": "Toplumsal Bir Olgu Olarak Spor",
-      "paragraphs": [
-        "John Loy'un geliştirdiği modele göre (Şekil 2.1), spor dört farklı noktadan birbiriyle bağlantılı bir bütün oluşturur: örgüt olarak spor, yarışma olarak spor, toplumsal sistem olarak spor ve toplumsal kurum olarak spor. Bu dört görünüm aynı zamanda teknoloji, çevre ve sosyalleşme kavramlarıyla da karşılıklı etkileşim içindedir; örneğin teknoloji sayesinde sporun yayılımı kolaylaşmakta ve yeni uygulamalar (VAR, gol çizgisi teknolojisi gibi) hızla sporun içinde karşılık bulmaktadır.",
-        "Sporu sosyolojik olarak incelemek için bazı temel kavramları bilmek gerekir. Toplumsal olay, toplum içinde başlangıç ve bitiş noktası belli olan, somut ve tekil bir olaydır (örneğin belirli bir futbol karşılaşması). Toplumsal olgu ise başlangıç-bitiş süresi ve yeri kesin olarak belirlenemeyen, süreç içinde ortaya çıkan daha genel bir gelişmedir (spor kurumunun kendisi bir toplumsal olgudur).",
-        "Toplumsal rol, belirli bir sosyal mevkii işgal eden kişinin o mevkiye özgü eylem, davranış ve tutumları yerine getirmesidir; toplumsal statü ise bireyin toplumsal hiyerarşi içindeki konumunu ve bu konuma toplum tarafından yüklenen onur ya da saygınlığı ifade eder. Şöhretli sporcuların toplumsal statüsünün yükselmesi, hayatlarının kamuoyu tarafından daha fazla izlenmesine ve yaşanan olumsuzlukların (örneğin doping vakalarının) daha büyük tepki görmesine yol açar.",
-        "Toplumsal hareketlilik, bireylerin farklı fiziksel mekanlar ve toplumsal statüler arasındaki geçişini ifade eder. Statüde ve gelirde büyük bir değişiklik olmadan gerçekleşen hareketlilik yatay hareketliliktir (örneğin bir memurun başka bir şehre tayin olması); pozisyon, gelir, statü ve yaşam tarzında önemli değişiklikler yaratan hareketlilik ise dikey hareketliliktir (örneğin amatör bir sporcunun profesyonel bir kulübe transfer olması). Elit spor, sporcular için dikey hareketlilik olanağı sunabilmektedir."
+      "heading": "Spor: Dört Yüzü Olan Bir Olgu",
+      "emoji": "🔄",
+      "bullets": [
+        "**John Loy**'un modeline göre spor dört noktada birleşir: **örgüt**, **yarışma**, **toplumsal sistem** ve **toplumsal kurum** olarak spor.",
+        "Bu dört görünüm teknoloji, çevre ve sosyalleşmeyle de etkileşir (örn. VAR gibi teknolojiler).",
+        "**Toplumsal olay**: başı-sonu belli, somut ve tekil bir olaydır (örn. tek bir futbol maçı).",
+        "**Toplumsal olgu**: süresi ve yeri kesin belirlenemeyen, daha genel bir gelişmedir (sporun kendisi gibi).",
+        "**Toplumsal rol**, bir mevkiye özgü davranışlardır; **toplumsal statü** ise bireyin hiyerarşideki konumu ve saygınlığıdır.",
+        "**Toplumsal hareketlilik** yatay (statü değişmeden, örn. şehir tayini) ya da dikey (büyük statü sıçraması, örn. amatörden profesyonelliğe geçiş) olabilir."
       ]
     },
     {
-      "heading": "Sporun Toplumsal İşlevleri",
-      "paragraphs": [
-        "Wilkerson ve Dodder'ın belirttiği gibi (Tablo 2.1), sporun altı temel sosyal işlevi vardır. Duygusal boşalma işlevi, sporu yapmanın duyguların boşalmasına ve stresin azalmasına olanak sağlaması; bir güvenlik sübabı olarak saldırganlık eğilimlerini geriletmesidir. Kimliğin teyidi, spora kişinin tanınma ve kişisel niteliklerini dışa vurma fırsatı yaratmasıdır. Sosyal kontrol, sporun kişileri içine alarak üzerlerinde bir kontrol sağlama imkanı tanımasıdır.",
-        "Sosyalleşme işlevi, sporcuların sosyal bir yapı içinde var olmalarına hizmet etmesidir. Değişim organı işlevi, sporun tarihsel değişimlere kadar varabilen sosyal değişim ve yeni davranış biçimleri üretilmesine yol açmasıdır. Kolektif bilinç işlevi, ortak amaçlar etrafında toplanılan bir topluluk ruhu yaratmasıdır; başarı işlevi ise hem sporcunun hem de özdeşleştiği takımın hedefine ulaşmasının bir tatmin ve başarı duygusu vermesidir.",
-        "Bu işlevlerin yanı sıra sportif faaliyetlerdeki temas, sosyal ilişkilerin gelişmesini ve yalnızlık hissinin azalmasını sağlayarak toplumsal dayanışmayı güçlendirir; artan iş bölümü ile sosyal bütünleşme arasındaki uyumun sağlanmasında da spor aktif bir ajan olarak görev yapar."
+      "heading": "Sporun 6 Süper Gücü",
+      "emoji": "⚡",
+      "bullets": [
+        "**Wilkerson ve Dodder**'a göre sporun altı temel sosyal işlevi vardır.",
+        "**Duygusal boşalma**: sporu bizzat yapmak (izlemek değil!) stresi azaltır, saldırganlığı güvenli biçimde boşaltır.",
+        "**Kimliğin teyidi**: kişiye tanınma ve kendini ifade etme fırsatı verir.",
+        "**Sosyal kontrol**: insanları spora dahil ederek üzerlerinde bir kontrol sağlar.",
+        "**Sosyalleşme işlevi** sporcuyu sosyal yapıya katar; **değişim organı işlevi** yeni davranış biçimleri üretir.",
+        "**Kolektif bilinç** ortak amaç ruhu yaratır; **başarı işlevi** tatmin ve başarı hissi verir.",
+        "Ayrıca sportif temas sosyal dayanışmayı güçlendirir ve toplumsal bütünleşmeye katkı sağlar."
       ]
     },
     {
-      "heading": "Sporun Diğer Toplumsal Kurumlarla İlişkisi",
-      "paragraphs": [
-        "Spor; aile, eğitim, ekonomi, hukuk, din, medya, siyaset, sağlık, kent/serbest zaman, turizm ve toplumsal cinsiyet gibi pek çok toplumsal kurumla yakından ilişkilidir. Spor-Aile ilişkisinde sosyalleşme sürecinden başlayarak ömür boyu devam eden bir gelişim söz konusudur; çocuklar ebeveynlerinden aldıkları spor kültürünü içselleştirerek toplumsal hayata katılırlar. Spor-Eğitim ilişkisinde beden eğitimi dersleri, çocukların küçük yaşlardan itibaren farklı spor dalları ile tanışmasını sağlar.",
-        "Spor-Ekonomi ilişkisinde spor, bireysel bir tüketim kategorisi haline gelmiş; büyük meblağların dolaşımda olduğu profesyonel spor organizasyonları farklı iş kollarını etkilemektedir. Spor-Medya ilişkisinde sporun toplumsal yaşamdaki rolü arttıkça medyanın da sporla ilgisi artmış ve sporcu şöhretler tüketim endüstrisinin yüzleri olarak reklamlarda yer almıştır. Spor-Siyaset ilişkisinde iktidarlar, tarih boyunca kitleleri etkilemek ve onları sorunlardan uzaklaştırmak amacıyla sporu kullanmışlardır.",
-        "Spor-Sağlık ilişkisinde sporun amacı bireylerin fiziksel ve ruhsal sağlığına katkıda bulunmaktır; düzenli spor hareketsizliğin sebep olduğu hastalıkların görülme sıklığını azaltır. Spor-Hukuk ilişkisinde sportif organizasyonların sağlıklı işleyebilmesi hukuki düzenlemelere bağlıdır (örneğin Bosman kararları ve Uluslararası Spor Tahkim Mahkemesi/CAS). Spor-Din ilişkisinde özellikle Latin Amerika ülkelerinde futbol ile din arasında yoğun bir bağlantı gözlemlenir (stadyumlardaki şapeller, taraftar mezarlıkları gibi).",
-        "Spor-Kent ve Serbest Zaman ilişkisi, Sanayi Devrimi sonrasında kentleşme ile serbest zaman kullanımı arasındaki bağlantıdan doğmuştur. Spor-Turizm ilişkisinde büyük organizasyonlar ve gelenekselleşmiş turnuvalar (Dünya Kupası, Olimpiyatlar gibi) dünyanın her yerinden turist çekmektedir. Spor-Toplumsal Cinsiyet ilişkisinde ise spor, tarih boyunca ataerkil kodların dolaşıma sokulmasına katkıda bulunmuş; kadın sporcular halen erkek sporculardan daha az kazanmaktadır."
+      "heading": "Spor Her Kurumla Bağlantılı",
+      "emoji": "🔗",
+      "bullets": [
+        "Spor; aile, eğitim, ekonomi, hukuk, din, medya, siyaset, sağlık, turizm ve toplumsal cinsiyet gibi kurumlarla iç içedir.",
+        "**Spor-Aile**: çocuklar ailelerinden aldıkları spor kültürünü içselleştirir.",
+        "**Spor-Eğitim**: beden eğitimi dersleri çocukları farklı spor dallarıyla tanıştırır.",
+        "**Spor-Ekonomi ve Medya**: spor büyük bir tüketim ve reklam endüstrisi haline geldi.",
+        "**Spor-Siyaset ve Hukuk**: iktidarlar sporu kitleleri yönlendirmek için kullanır; **Bosman kararları** ve **CAS** gibi düzenlemeler sporun işleyişine yön verir.",
+        "**Spor-Sağlık**: düzenli spor, hareketsizlikten kaynaklanan hastalıkları azaltır.",
+        "**Spor-Turizm ve Toplumsal Cinsiyet**: Dünya Kupası, Olimpiyatlar gibi organizasyonlar turist çeker; kadın sporcular hâlâ erkeklerden daha az kazanır."
       ]
     },
     {
-      "heading": "Toplumsal ve Kültürel Bir Olgu Olarak Spor",
-      "paragraphs": [
-        "Kültür, belli bir topluluğun belli zaman ve koşullarda üretim biçimindeki sosyal kişiliği olarak tanımlanabilir; toplumun düşünce, değer yargı ve inançları bütünüdür. Tayfun Amman'a göre kültürün özellikleri şöyle sıralanabilir: kültür öğrenilir, tarihidir ve süreklidir, sosyaldir, ideal ya da idealleştirilmiş bir kurallar sistemidir, ihtiyaçları karşılar ve doyum sağlar, değişir ve birleştiricidir.",
-        "Spor, içinde yapıldığı toplumdan beslenen ve ortaya çıkardığı değerler aracılığı ile toplumsal hayatı besleyen bir etkinlik türüdür; her toplumun sporu ve spor kültürü, kendi kültürünün bir yansımasıdır. Spor, toplum içerisinde yapılış amaçlarına göre pek çok farklı biçimde karşımıza çıkar: yarışma (verim) sporu, elit spor (yüksek verim sporu), profesyonel spor, okul sporu, sağlık sporu, eğlence sporları, aile sporları, mücadele sporları, engelliler için spor, yaşlılar için spor, fitness, kitle sporu, herkes için spor, rekreasyonel sporlar, macera sporları ve doğa sporları gibi.",
-        "Clarke ve Clarke'a göre spor, toplumsal olarak inşa edilmiş bir aktivitedir; kapsamlı ideolojik tanımlamaları pasif biçimde yansıtmakla kalmaz, bu imajların üretimine de katkıda bulunur. Talimciler'e göre (Şekil 2.2), 'sporun sosyolojisi' (yönetici, spor insanı, sporcu, kulüpler ve devletin spor politikaları ile ilgilenen daha teknik boyut) ile 'sosyolojinin sporu' (toplum, taraftar, medya, ekonomi ve devletin spor ideolojisini içeren boyut), birbirini sürekli etkileyen iki değerler sistemidir."
+      "heading": "Spor, Kültürün Aynasıdır",
+      "emoji": "🎭",
+      "bullets": [
+        "**Kültür**, bir topluluğun belli zaman ve koşullardaki üretim biçimindeki sosyal kişiliğidir; düşünce, değer ve inançlar bütünüdür.",
+        "Kültür öğrenilir, süreklidir, sosyaldir, idealleştirilmiş bir kurallar sistemidir ve ihtiyaçları karşılayıp doyum sağlar.",
+        "**Spor**, içinde yapıldığı toplumdan beslenen ve ortaya çıkardığı değerlerle toplumsal hayatı besleyen bir etkinlik türüdür.",
+        "Spor; yarışma sporu, **elit spor**, profesyonel spor, okul sporu, sağlık sporu, fitness, rekreasyonel spor gibi çok farklı biçimlerde karşımıza çıkar.",
+        "**Clarke ve Clarke**'a göre spor toplumsal olarak inşa edilmiş bir aktivitedir ve ideolojik imgeler üretir.",
+        "**Talimciler**'e göre 'sporun sosyolojisi' (yönetici, sporcu, kulüp boyutu) ile 'sosyolojinin sporu' (toplum, medya, ekonomi boyutu) birbirini sürekli etkiler."
       ]
     },
     {
-      "heading": "Spora İlişkin Kuramsal Yaklaşımlar",
-      "paragraphs": [
-        "Spor sosyolojisinde en yaygın kullanılan üç yaklaşım işlevselci, çatışmacı ve eleştirel yaklaşımlardır. İşlevselci yaklaşıma göre spor, belli kurallara göre yapılan bir uğraşı olması nedeniyle insanlara kurallara uyma alışkanlığı kazandırır ve toplumun ortak değerlerinin yerleşmesine ve gelişmesine katkıda bulunur. Bu bakış açısına göre spor, toplumun olduğu kadar bireylerin de yararlandığı değerli bir sosyal kurumdur; bu nedenle toplumsal düzen ve istikrarı destekleyen, geleneksel değerleri koruyan spor programları geliştirilmeli ve yaygınlaştırılmalıdır.",
-        "Çatışmacı yaklaşım, işlevselci anlayışın tersine spor kurumunu ırk, cinsiyet ve sınıf temelinde inceler ve sporun bu alanlarda olumsuz bir rol oynadığını, halkı var olan sorunlardan uzaklaştıran bir 'afyon' olduğunu ileri sürer. Bambery'ye göre spor, devletlerarası rekabet, kapitalist üretim ve sınıf ilişkileri çerçevesine oturur; sporun itici güçleri olan performans, rekabet ve rekor, kapitalist üretim tarzının bir aynasıdır.",
-        "Eleştirel yaklaşıma göre spor, var olan ideolojinin sürmesine katkıda bulunan mekanizmalardan biridir (Adorno, Horkheimer, Habermas). Eleştirel kuramcılar sporu sosyal bir yapı, kültürün üretildiği ve dönüştürüldüğü bir alan olarak görür ve sporun baskı ve sömürü biçimlerine karşı koymak ve toplumu dönüştürmek için kullanılması gerektiğini savunurlar. Bu üç temel yaklaşımın yanı sıra etkileşimci, feminist ve figürasyon yaklaşımları da kullanılmaktadır. Spor sosyolojisinin en sık başvurulan düşünürlerinden biri Pierre Bourdieu'dur; onun Habitus kavramı, her toplumsal sınıfın kendine özgü sportif 'zevkleri' olduğunu ve sporun bedenin meşru kullanımı üzerinde bir mücadele alanı olduğunu ifade eder."
+      "heading": "Sporu Açıklayan Kuramlar",
+      "emoji": "🧠",
+      "bullets": [
+        "**İşlevselci yaklaşım**: spor kurallara uymayı öğretir, toplumun ortak değerlerini yerleştirir; bu yüzden geleneksel değerleri koruyan spor programları yaygınlaştırılmalıdır.",
+        "**Çatışmacı yaklaşım**: sporu ırk, cinsiyet ve sınıf temelinde eleştirir; halkı sorunlardan uzaklaştıran bir \"afyon\" olarak görür (**Bambery**'ye göre kapitalist üretimin bir aynasıdır).",
+        "**Eleştirel yaklaşım** (Adorno, Horkheimer, Habermas): spor, var olan ideolojinin sürmesine katkıda bulunan bir mekanizmadır, ama toplumu dönüştürmek için de kullanılabilir.",
+        "Bunların yanında **etkileşimci**, **feminist** ve **figürasyon** yaklaşımları da kullanılır.",
+        "**Pierre Bourdieu**'nun **Habitus** kavramı: her toplumsal sınıfın kendine özgü sportif zevkleri vardır; spor, bedenin meşru kullanımı üzerine bir mücadele alanıdır."
       ]
     },
     {
-      "heading": "Spor ve Sosyalleşme",
-      "paragraphs": [
-        "Sosyalleşme, bireyin içinde yaşadığı toplumun kültürünü öğrenme sürecidir; ailede başlar, eğitim kurumu ve çevre ile devam eder ve yaşam boyu sürer. Sosyalleşme, bireylerin toplumsal norm ve değerlere ilişkin bir farkında olma durumuna ulaşmalarını ve bir benlik duygusu edinmelerini sağlar; farklı kuşakları birbirine bağlayarak kültürün sürekliliğini de sağlamış olur.",
-        "Leonard II'nin geliştirdiği modele göre (Şekil 2.3), sporda sosyalleşme süreci iki boyutta ele alınır: spora yönelik sosyalleşme ve spor yoluyla sosyalleşme. Spora yönelik sosyalleşme, bireylerin spora çeşitli sosyalleşme ajanları (aile, arkadaşlar, okul, sosyal çevre, medya) aracılığıyla katılmaya başlamasını ifade eder. Spor yoluyla sosyalleşme ise bireyin spora katılması sonucu kazandığı psikolojik ve sosyal sonuçları (karakter oluşturma, disiplin öğrenme, ahlaki gelişim, iyi vatandaş olma gibi) ifade etmektedir."
+      "heading": "Spor Nasıl Sosyalleştirir?",
+      "emoji": "🤝",
+      "bullets": [
+        "**Sosyalleşme**, bireyin yaşadığı toplumun kültürünü öğrenme sürecidir; ailede başlar, yaşam boyu sürer.",
+        "Bireye norm ve değer bilinci, bir benlik duygusu kazandırır; kuşaklar arasında kültürün sürekliliğini sağlar.",
+        "**Leonard II**'nin modeline göre sporda sosyalleşme iki boyutludur: **spora yönelik sosyalleşme** ve **spor yoluyla sosyalleşme**.",
+        "**Spora yönelik sosyalleşme**: bireyin aile, arkadaş, okul, medya gibi ajanlar aracılığıyla spora katılmaya başlamasıdır.",
+        "**Spor yoluyla sosyalleşme**: spora katılımın getirdiği psikolojik ve sosyal kazanımlardır (karakter, disiplin, ahlaki gelişim, iyi vatandaşlık)."
       ]
     },
     {
-      "heading": "Spora Yönelik Sosyalleşme Ajanları",
-      "paragraphs": [
-        "Aile etkisi: Toplumun en küçük ve en önemli bileşeni olan aile, çocukların toplumsal hayata ilişkin öğrenme süreçlerinin ilk başladığı yerdir. Aile bireylerinin rol model olması, çocuğun sporla bağının kurulmasında hayati önem taşır; aileler sporu bizzat icra etmek kadar izlemek ve tüketmekle de çocuklarına örnek olurlar. Küntay'a göre aile, sosyal dünyayı ve spor dünyasını görmeyi sağlayan ilk birimdir ve çocuğun spora katılıp katılmayacağını belirleyen ilk ve güçlü etkiye sahiptir.",
-        "Arkadaşlar-Sosyal Çevre etkisi: Çocuğun içinde bulunduğu sosyal çevre ve arkadaşlık ilişkileri de spora katılımı etkiler. Akcan ve Bulgu'ya göre ilk çocukluk yıllarında ebeveynlerin doğrudan etkisi, ergenlik dönemi ile birlikte yerini öğretmenlere, antrenörlere ve özellikle akranlara bırakır; bu nedenle arkadaşlar önemli birer sosyal ajan haline gelir.",
-        "Okul etkisi: Okul, beden eğitimi dersleri ve törenler başta olmak üzere öğretmenlerin etkisiyle çocukların spora katılımında yoğun bir role sahiptir. Okul sporunun amacı; dayanışma ve işbirliği duygusunun gelişmesi, kural bilincinin oluşturulması ve paylaşma, hoşgörü, yardımseverlik gibi insani değerlerin spor yoluyla aktarılmasıdır. Okul, arkadaşlar ve medyanın bir araya gelmesi bu etkiyi daha da güçlendirir (örneğin 1980'lerde 'Beyaz Gölge' dizisi sonrası basketbolun mahallelerde yaygınlaşması gibi).",
-        "Medya etkisi: Sporun geniş kitlelere ulaşmasında aracılık eden medya, sosyalleşme ajanı olarak da etkide bulunur. Sporcu şöhretlerin medya aracılığıyla tanınması, sporun cazibesini ve yarattığı çekimi artırır. Medya ve sosyal medya, çocuklar ve gençlerin spora aktif katılımlarının yanı sıra birer spor izleyicisi ve tüketicisi olmalarını sağlayan alt yapıyı oluşturur."
+      "heading": "Spora Kim Yönlendirir?",
+      "emoji": "👨‍👩‍👧‍👦",
+      "bullets": [
+        "**Aile**, çocuğun spora bağının kurulmasında ilk ve en güçlü etkidir; ebeveynler rol model olur.",
+        "**Küntay**'a göre aile, çocuğun spor dünyasını gördüğü ilk birimdir.",
+        "**Arkadaşlar ve Sosyal Çevre**: ergenlikle birlikte ebeveyn etkisinin yerini öğretmen, antrenör ve özellikle akranlar alır.",
+        "**Okul**, beden eğitimi dersleri ve öğretmenler aracılığıyla dayanışma, kural bilinci ve paylaşma değerlerini aktarır.",
+        "**Medya**, sporcu şöhretleri tanıtarak sporun cazibesini artırır, çocukları birer izleyici ve tüketici yapar.",
+        "Spora yönelik sosyalleşmenin dört temel ajanı bunlardır: **aile, arkadaşlar/sosyal çevre, okul ve medya**."
       ]
     },
     {
-      "heading": "Spor Yoluyla Sosyalleşme",
-      "paragraphs": [
-        "Spor yoluyla sosyalleşme, bireyin spora katılması sonucu kazandığı karakter oluşturma, disiplini öğrenme, yaşam mücadelesine hazırlanma, ahlaki gelişim ve iyi bir vatandaş olma gibi sonuçları ifade eder. Ak'a (2017) göre spor ve fiziksel aktiviteler okul çağı çocuklarında akademik başarıyı da artırmaktadır; çünkü spor özünde sistem, disiplin, hedef ve başarı kombinasyonudur.",
-        "Elit sporcular için spor aynı zamanda bir meslektir; düzenli bir hayat, beslenme alışkanlıkları ve disiplinli antrenman süreçleri gerektirir. Sportif etkinlikler rakibe saygıyı, kurallara uymayı ve dürüst mücadele etmeyi öğretir. Fair Play ilkeleri -kurallara saygı göstermek, hakemlere saygı göstermek ve kararlarını kabullenmek, rakibe saygı göstermek, herkese eşit şans tanımak ve duygularını kontrol altında tutmak- sporun ahlaki temelini oluşturur ve bir yaşam biçimi olarak spor sahasının da ötesine geçer.",
-        "Spor yoluyla sosyalleşmenin olumlu etkilerinin yanı sıra, elit düzeyde sporcular açısından birtakım olumsuz etkileri de bulunmaktadır. Sürekli başarı baskısı altında yaşamak, ağır sakatlıklar ve doping gibi maddelerin kullanımına, ayrıca sosyalleşme süreçlerinin bozulmasına yol açabilmektedir."
+      "heading": "Sporun Kazandırdıkları (ve Riskleri)",
+      "emoji": "🏅",
+      "bullets": [
+        "Spor; karakter oluşturma, disiplin, ahlaki gelişim ve iyi bir vatandaş olma gibi kazanımlar sağlar.",
+        "**Ak (2017)**'ya göre spor ve fiziksel aktivite, okul çağı çocuklarında akademik başarıyı da artırır.",
+        "Elit sporcular için spor bir meslektir; disiplinli antrenman ve beslenme alışkanlıkları gerektirir.",
+        "**Fair Play**, bir ideal anlayışı ve bir yüksek kültür ürünüdür; kurallara, hakemlere ve rakibe saygıyı, eşit şans tanımayı ve duygu kontrolünü kapsar.",
+        "Madalyonun diğer yüzü: sürekli başarı baskısı ağır sakatlıklara, **doping** kullanımına ve sosyalleşme bozukluklarına yol açabilir."
       ]
     },
     {
-      "heading": "Toplumsal Cinsiyet ve Spor: Temel Kavramlar",
-      "paragraphs": [
-        "Biyolojik cinsiyet, kadının ve erkeğin biyolojik ve fizyolojik olarak taşıdığı özelliklerdir. Toplumsal cinsiyet ise toplumun kadın ve erkeğe yüklediği belirli roller, sorumluluklar, özellikler ve beklentiler olarak tanımlanır. Toplumsal cinsiyet rolleri, bu farklılıklara dayalı olarak kadından ve erkekten beklenen rol ve sorumlulukları ifade eder; doğal ve sabit değildir, topluma, kültüre ve zamana göre değişebilir (örneğin güreşte Buse Tosun, Evin Demirhan ve Yasemin Adar gibi kadın sporcuların uluslararası başarıları, güreşin biyolojik cinsiyetle ilişkisi olmadığını göstermiştir).",
-        "Toplumsal cinsiyet kalıp yargıları, bireylerin cinsiyetlerine bağlı olarak nasıl görünmeleri, düşünmeleri, hissetmeleri ve davranmaları gerektiğine ilişkin kalıplaşmış yargılar ve beklentilerdir; çocukların sporda kendi potansiyellerini gerçekleştirmelerini engelleyebilir ve olumsuz deneyimler nedeniyle sporu bırakmalarına yol açabilir (örneğin 'güreş, boks gibi spor dalları kadınlara uygun değildir' gibi genellemeler).",
-        "Cinsiyete dayalı ayrımcılık, bir kişinin cinsiyetine bağlı olarak yapılan herhangi bir ayrım, mahrumiyet ve kısıtlamadır (örneğin kadın hakemlerin erkek futbolunda görevlendirilmemesi). Toplumsal cinsiyet eşitliği ise fırsatlara ve kaynaklara erişimde, kullanmada ve kontrol etmede kadının ve erkeğin eşit bir konumda olması, sorumluluk ve rollere eşit değer verilmesidir."
+      "heading": "Cinsiyet mi, Toplumsal Cinsiyet mi?",
+      "emoji": "⚖️",
+      "bullets": [
+        "**Biyolojik cinsiyet**: kadın ve erkeğin taşıdığı biyolojik ve fizyolojik özelliklerdir.",
+        "**Toplumsal cinsiyet**: toplumun kadın ve erkeğe yüklediği roller, sorumluluklar ve beklentilerdir.",
+        "**Toplumsal cinsiyet rolleri** sabit değildir, topluma ve zamana göre değişir (örn. kadın güreşçilerin uluslararası başarıları).",
+        "**Toplumsal cinsiyet kalıp yargıları**: cinsiyete göre nasıl davranılması gerektiğine dair kalıplaşmış beklentilerdir; çocukların sporu bırakmasına yol açabilir.",
+        "**Cinsiyete dayalı ayrımcılık**: cinsiyete bağlı ayrım, mahrumiyet veya kısıtlamadır (örn. kadın hakemlerin erkek futbolunda görevlendirilmemesi).",
+        "**Toplumsal cinsiyet eşitliği**: kadın ve erkeğin fırsat, kaynak ve rollerde eşit değere sahip olmasıdır."
       ]
     },
     {
-      "heading": "Sporda Toplumsal Cinsiyet Eşitliği Alanları",
-      "paragraphs": [
-        "Dünyada sporda toplumsal cinsiyet eşitliği 5 stratejik alanda ele alınır; Türkiye'de bunlara spor eğitimi alanı da eklenerek 6 alana çıkarılmıştır (Tablo 2.2): spora katılım (kadınların spor faaliyetlerine katılımının artırılması), spor yönetimi (karar alma mekanizmalarında eşit temsil), antrenörlük ve hakemlik (bu alanlarda eşitliğin başarılması), sporda toplumsal cinsiyet temelli şiddet (bunun ortadan kaldırılması), spor medyasında toplumsal cinsiyet eşitliği ve spor eğitimi (okul ve üniversite düzeyinde eşit fırsatlar).",
-        "Türkiye'de lisanslı sporcuların %38'i kadın, %62'si erkektir; spor federasyonlarına bağlı sporcularda ise kadın oranı %34, erkek oranı %66'dır (Grafik 2.1). Güreş, futbol, boks, basketbol gibi dallarda kadın sporcu oranı %20'nin altındadır. Spor yönetiminde kadın temsili çok düşüktür: 2017'de 60 federasyonun yalnızca %5'inin başkanı kadındır. Antrenörlükte kadın oranı %31, erkek oranı %69'dur (Grafik 2.2) ve antrenörlük kademesi yükseldikçe bu fark kadınların aleyhine artar (5. kademede kadın antrenör oranı %7,5'tir).",
-        "Toplumsal cinsiyet temelli şiddet; cinsel taciz, cinsel saldırı, tecavüz, cinsel sömürü, fiziksel ve duygusal-psikolojik şiddeti kapsar ve güvenli spor ortamını tehdit eden en önemli konulardan biridir. Spor medyasında kadın sporcular erkek sporculardan daha az yer alır ve çoğunlukla sporcu kimlikleri yerine anne, eş gibi toplumsal cinsiyet rolleri üzerinden sunulur. Spor eğitiminde (SBF/BESYO) kadın öğrencilere ayrılan kontenjan erkeklere göre daha düşüktür (%38,44'e karşı %61,56)."
+      "heading": "Eşitlik İçin 6 Kritik Alan",
+      "emoji": "📊",
+      "bullets": [
+        "Dünyada sporda cinsiyet eşitliği 5 alanda ele alınır; Türkiye'de **spor eğitimi** eklenerek 6 alana çıkar.",
+        "Bu 6 alan: **spora katılım**, **spor yönetimi**, **antrenörlük ve hakemlik**, **toplumsal cinsiyet temelli şiddet**, **spor medyası** ve **spor eğitimi**.",
+        "Türkiye'de lisanslı sporcuların %38'i kadın, %62'si erkek; güreş, futbol, boks, basketbol gibi dallarda kadın oranı %20'nin altında.",
+        "Spor yönetiminde kadın temsili çok düşük: 2017'de federasyonların yalnızca %5'inin başkanı kadın.",
+        "Antrenörlükte kadın oranı %31; kademe yükseldikçe bu oran düşer (5. kademede %7,5).",
+        "**Toplumsal cinsiyet temelli şiddet** cinsel taciz, saldırı ve fiziksel/psikolojik şiddeti kapsar; güvenli spor ortamını tehdit eder.",
+        "Medyada kadın sporcular daha az yer bulur ve çoğunlukla sporcu kimliği yerine anne/eş gibi rollerle sunulur."
       ]
     },
     {
-      "heading": "Sporda Toplumsal Cinsiyet Eşitsizliğinin Nedenleri",
-      "paragraphs": [
-        "Tablo 2.3'te sıralanan başlıca nedenler arasında şunlar yer alır: kadınlara/kız çocuklarına yüklenen ev işleri ve çocuk bakımı sorumluluklarının serbest zamanlarını daraltması; bazı kültürlerde ailenin kız çocuklarının spora katılımına izin vermemesi; maddi yetersizlik nedeniyle spor olanaklarına erişimden ilk yoksun kalan grubun kız çocukları olması; kadınların kamusal alanda fiziksel/cinsel tacize maruz kalma oranının yüksekliği.",
-        "Diğer nedenler ise şöyledir: sporun her kademesinde sayısal ve kültürel erkek egemenliğinin olması; spor kulüplerinde erkek çocuklarına kız çocuklarından daha fazla olanak sunulması; güçlü, kaslı kadınların 'kadınlıklarının' sorgulanması; medyada sporcu/antrenör kadınlara az yer verilmesi; toplumsal cinsiyet eşitliği düzenlemelerini içeren ulusal politikaların olmaması ve yöneticilerin kadınları yöneticilik pozisyonlarına uygun görmemesi."
+      "heading": "Eşitsizliğin Kök Nedenleri",
+      "emoji": "🧩",
+      "bullets": [
+        "Kız çocuklarına yüklenen ev işi ve çocuk bakımı sorumlulukları serbest zamanlarını kısıtlar.",
+        "Bazı kültürlerde aileler kız çocuklarının spora katılımına izin vermez; maddi yetersizlikte ilk feda edilen genelde kız çocukları olur.",
+        "Kamusal alanda kadınların fiziksel/cinsel tacize maruz kalma riski yüksektir.",
+        "Sporun her kademesinde sayısal ve kültürel erkek egemenliği hâkimdir; kulüpler erkek çocuklara daha fazla olanak sunar.",
+        "Güçlü, kaslı kadınların \"kadınlığı\" sorgulanır; medyada kadın sporcu ve antrenörlere az yer verilir.",
+        "Toplumsal cinsiyet eşitliğini destekleyen ulusal politikalar eksiktir; yöneticiler kadınları yöneticilik için uygun görmez."
       ]
     },
     {
-      "heading": "Toplumsal Cinsiyete Duyarlı Antrenör",
-      "paragraphs": [
-        "Toplumsal cinsiyete duyarlı antrenör, kız ve erkek çocuklarının farklı sosyalleşme süreçleri yaşadığını, farklı bireysel ve toplumsal beklentilere ve ilgilere sahip olduklarını görebilen ve cinsiyetçi kalıp yargıları fark edebilen bir bakış açısına sahiptir. Bu duyarlılığın olmaması; kız çocuklarının spora katılamamasına, çocukların istedikleri spor dalını seçememesine ve sporun yararlarından faydalanamamasına neden olabilmektedir.",
-        "Tablo 2.4'te sayılan antrenör sorumlulukları arasında şunlar yer alır: her iki cinsiyetin ilgi ve ihtiyaçlarına saygı göstermek ve desteklemek; her iki cinsiyetten sporcularla eşit koşullarda etkileşim kurmak; cinsiyetler arasında işbirliğini desteklemek; sorumlulukların kızlar ve erkekler arasında eşit paylaşılmasını sağlamak; güvenli bir ortam ve ulaşım imkanı sunmak; aile desteği/izni almak; her iki cinsiyetten rol modeller sunmak; kıyafet seçiminde esnek olmak ve toplumsal cinsiyet kalıp yargısı içeren yorumlardan ('kız gibi oynama' gibi) kaçınmak.",
-        "Toplumsal cinsiyete duyarlı dil kullanımı da antrenörler için önemlidir (Tablo 2.5): 'sportmen' yerine 'sporcu/adil oyuncu', 'spor adamı' yerine 'spor insanı/spor uzmanı', 'teknik adam' yerine 'teknik direktör', 'adam gibi oynamak' yerine 'başarılı/iyi oynamak' gibi cinsiyet içermeyen ve kadını görünmez kılmayan ifadeler tercih edilmelidir."
+      "heading": "Duyarlı Antrenör Nasıl Olunur?",
+      "emoji": "🧑‍🏫",
+      "bullets": [
+        "Toplumsal cinsiyete duyarlı antrenör, kız ve erkek çocukların farklı sosyalleşme süreçleri ve beklentileri olduğunu fark eder.",
+        "Bu duyarlılık olmazsa kız çocukları spora katılamayabilir veya istediği branşı seçemeyebilir.",
+        "Sorumluluklar arasında her iki cinsiyete eşit koşullarda davranmak, aralarında işbirliğini desteklemek ve sorumlulukları eşit paylaştırmak vardır.",
+        "Güvenli ortam ve ulaşım sağlamak, aile desteği almak ve her iki cinsiyetten rol modeller sunmak da antrenörün görevidir.",
+        "En kritik özellik: **toplumsal cinsiyet kalıp yargısı içeren ifadelerden kaçınmak** (örn. \"kız gibi oynama\" dememek).",
+        "Dilde de duyarlı olunmalı: \"sportmen\" yerine \"sporcu\", \"spor adamı\" yerine \"spor insanı\", \"teknik adam\" yerine \"teknik direktör\" denmeli."
       ]
     }
   ],

@@ -22,99 +22,136 @@
   ],
   "summary": [
     {
-      "heading": "İşletme Kavramı ve İşletme Bilimi",
-      "paragraphs": [
-        "İşletmeler sanayi toplumunun en temel ögelerinden biridir. Üretici ile tüketicinin birbirinden ayrılmasıyla ortaya çıkan yeni pazarlara mal ve hizmet sunabilmek için işletmeler doğmuştur. Kendi ihtiyaçlarını karşılamak üzere üretim yapan kişi, grup ya da örgütler işletme sayılmaz; işletme kavramı başkalarının ihtiyaçlarını karşılamaya yöneliktir.",
-        "Buna göre işletme; kişi ve kurumların ihtiyaçlarını karşılamak üzere, üretim faktörlerini bir araya getirerek mal veya hizmet üreten/pazarlayan ve sonunda maddi ve manevi bir kâr elde etmeyi amaçlayan iktisadi, teknik ve hukuki bir birimdir. İşletmeler iktisadi, yani faydalı mal ve hizmet üretir; bu faydanın oluşması, üretilen mal ve hizmetin insan ihtiyaçlarını karşılayabilmesine ve bunun için belirli bir çaba sarf edilmiş olmasına bağlıdır.",
-        "İşletme faaliyetini gerçekleştirirken sermaye, doğa, beşeri kapasite ve bilgi gibi üretim faktörlerini bir araya getirir. Özellikle 21. yüzyılda bilgi, diğer üretim faktörlerinin önüne geçmiş belirleyici bir kaynak hâline gelmiştir. İşletmeler kapalı, çevreden etkilenmeyen sistemler değildir; toplumla, tüketicilerle ve çeşitli kuruluşlarla sürekli etkileşim içinde bulunan açık sistemlerdir.",
-        "İşletme bilimi ise işletme içi ve işletmeler arası olay ve faaliyetlerin sebep-sonuç ilişkilerini ele alarak, bir işletmenin amaçlarına en etkin biçimde nasıl ulaşabileceğini inceleyen bilim dalıdır. Spor işletmeleri (spor tesisleri, rekreasyon merkezleri vb.) de maddi kazanç sağlasalar bile esas itibarıyla insanların spor ihtiyaçlarını karşılamak için kurulur; kamu eliyle işletilenlerde asıl amaç sporu kitlelere yaymak ve toplumsal fayda yaratmaktır."
+      "heading": "İşletme Nedir?",
+      "emoji": "🏢",
+      "bullets": [
+        "İşletmeler, üretici ile tüketici birbirinden ayrılınca ortaya çıkan pazarlara mal ve hizmet sunmak için doğdu.",
+        "Kendi ihtiyacını karşılamak için üretim yapan kişi veya gruplar **işletme sayılmaz** — işletme başkalarının ihtiyacını karşılar.",
+        "**İşletme**: üretim faktörlerini bir araya getirip mal/hizmet üreten, kâr amacı güden iktisadi, teknik ve hukuki bir birimdir.",
+        "İşletmeler **iktisadi** birimlerdir, yani insan ihtiyaçlarını karşılayan faydalı mal ve hizmet üretirler.",
+        "Sermaye, doğa, insan gücü ve bilgi gibi üretim faktörlerini kullanır; 21. yüzyılda **bilgi** en belirleyici kaynak haline geldi.",
+        "İşletmeler çevreden etkilenen **açık sistemlerdir**, toplumla sürekli etkileşim içindedir.",
+        "**İşletme bilimi**, bir işletmenin amaçlarına en etkin şekilde nasıl ulaşacağını inceler; spor işletmeleri kâr yanında toplumsal faydayı da hedefler."
       ]
     },
     {
-      "heading": "İşletmeye Olan İhtiyaç ve İnsan İhtiyaçları",
-      "paragraphs": [
-        "Bütün ekonomik faaliyetlerin temelinde insan ihtiyaçlarının karşılanması amacı yatar. İnsan ihtiyaçları sınırsız olduğu hâlde bu ihtiyaçları karşılayacak kaynaklar kıttır ve bu ihtiyaçlar bir kez karşılanmakla ortadan kalkmaz, belirli aralıklarla tekrar eder. Bu yüzden insan sürekli ekonomik faaliyet içinde bulunmak, yani çalışıp üretmek zorundadır. İhtiyaç; organizmanın duyduğu bir eksikliktir ve bu eksikliği gidermek için amaçlı eylemlerde bulunulur.",
-        "İhtiyaçlar klasik olarak birincil ve ikincil ihtiyaçlar şeklinde ikiye ayrılır. Birincil ihtiyaçlar; hava, su ve gıda gibi doğuştan var olan ihtiyaçlardır. İkincil ihtiyaçlar ise arkadaşlık kurma, insanlarla birlikte olma gibi sosyal ihtiyaçlardır ve yaşamın ilk yıllarından itibaren ortaya çıkar.",
-        "Abraham Maslow bu ikili sınıflandırmayı yeterli bulmayarak insan ihtiyaçlarını bir hiyerarşi (ihtiyaçlar dizisi) içinde ele almıştır: Hiyerarşinin temelinde ve en zorunlu düzeyinde oksijen, yeme, içme, uyku, giyinme ve barınma gibi temel fizyolojik ihtiyaçlar bulunur. İkinci sırada can ve mal güvenliği, iş güvenliği gibi güvenlik ihtiyaçları gelir. Üçüncü düzeyde bağlanma, aidiyet, sevme ve sevilme ihtiyacı yer alır; örneğin bir sporcunun takımına ait olması ve takım arkadaşlarıyla dayanışması bu düzeye karşılık gelir.",
-        "Dördüncü düzeyde saygı görme ihtiyacı bulunur; özgüven, başarıyla övünme, başkalarının takdiri, rekabet edebilme ve bağımsız olma gibi unsurları kapsar; gelişmiş toplumlarda ilk üç ihtiyaç grubu büyük ölçüde karşılandığından, ait olma ve statü ihtiyaçları bu toplumlarda önemli bir yer tutar. Hiyerarşinin en üstünde ise kendini gerçekleştirme ihtiyacı yer alır; bireyin kendi potansiyelinin farkına varması, yaratıcı olması ve kendisini sürekli geliştirmesiyle ilgilidir. İhtiyaçlar karşılanamadığında insan mutsuz olur; içine kapanma, yabancılaşma ya da saldırgan davranışlar gösterebilir."
+      "heading": "İnsan İhtiyaçları ve Maslow'un Hiyerarşisi",
+      "emoji": "🧠",
+      "bullets": [
+        "İnsan ihtiyaçları sınırsız, kaynaklar ise kıttır; bu yüzden insan sürekli üretmek zorundadır.",
+        "**İhtiyaç**, organizmanın hissettiği bir eksikliktir ve giderilse de belirli aralıklarla tekrar eder.",
+        "Klasik sınıflamada ihtiyaçlar **birincil** (hava, su, gıda gibi doğuştan gelen) ve **ikincil** (arkadaşlık gibi sosyal) olarak ikiye ayrılır.",
+        "Abraham Maslow bunu yetersiz bulup ihtiyaçları bir **hiyerarşi** içinde sıraladı.",
+        "Hiyerarşinin en temelinde **temel fizyolojik ihtiyaçlar** (oksijen, yeme, içme, uyku, giyinme, barınma) yer alır.",
+        "İkinci sırada **güvenlik ihtiyacı**, üçüncü sırada bağlanma/aidiyet ve **sevme-sevilme ihtiyacı** gelir.",
+        "Dördüncü sırada **saygı görme ihtiyacı** (özgüven, takdir, statü dahil) ve en üstte **kendini gerçekleştirme ihtiyacı** bulunur."
       ]
     },
     {
-      "heading": "İşletme Kurma Gerekliliği ve Spor Tesislerinin Yönetimi",
-      "paragraphs": [
-        "Çağdaş işletme olgusuna, kişilerin kendi ihtiyaçlarını kendi içinde karşıladığı kapalı ev ekonomisinden ve trampa (mal ya da hizmetin başka bir mal ya da hizmetle değişimi) ekonomisinden geçilerek gelinmiştir. İhtiyaçların artıp çeşitlenmesi ve paranın değişim aracı olarak devreye girmesi, üretime yönelik işletme biriminin ortaya çıkmasını sağlamıştır. Spor aktivitelerine katılımın insan sağlığı, çalışma verimliliği, psikolojik dayanıklılık ve sosyalleşme üzerindeki etkilerinin anlaşılması, toplumun spor işletmelerine olan ihtiyacını giderek artırmıştır.",
-        "Spor tesislerinin yönetimi; spor organizasyonları, beden eğitimi, rekreasyon ve fiziksel aktivite programlarının yürütülmesiyle ilgili standartları yükseltmeyi ve hizmet sunumuna ilişkin kararları vererek liderlik yapmayı ifade eder. Enflasyon nedeniyle malzeme ve iş gücü maliyetlerinin yükselmesi, yüksek faiz oranlarının finansmanı zorlaştırması ve tesislerin engelli erişimine uygun hâle getirilmesi gerekliliği, tesis yönetimini günümüzde daha karmaşık bir meslek hâline getirmiştir.",
-        "Spor işletmelerinde tesislerin iyi ve verimli yönetilmesi için kaliteli, eğitimli ve mesleğini seven personele ihtiyaç vardır. Bunun yanında güvenlik ve emniyet, erişim kolaylığı, temizlik ve hijyen, kapasite ve işlevsellik ile nazik ve hızlı hizmet, hizmet kalitesini artırmak için son derece önemlidir. Soyunma odaları ve duşların temizliği, araç gereçlerdeki teknolojik gelişmelerin takip edilmesi ve yoğun saatlerde yeterli personel bulundurulması gibi görünüşte basit işler, spor işletmesinin amacına ulaşması açısından kritik önemdedir."
+      "heading": "İşletme Kurma Gerekliliği ve Spor Tesisi Yönetimi",
+      "emoji": "🏟️",
+      "bullets": [
+        "Kapalı ev ekonomisi ve **trampa** (mal karşılığı mal değişimi) döneminden, paranın değişim aracı olmasıyla işletmelere geçildi.",
+        "Sporun sağlık, verimlilik ve sosyalleşmeye katkısı anlaşıldıkça spor işletmelerine duyulan ihtiyaç arttı.",
+        "**Spor tesisi yönetimi**, spor ve rekreasyon programlarının standartlarını yükseltip hizmet kararları almayı kapsar.",
+        "Enflasyon, yüksek faiz oranları ve engelli erişimi zorunlulukları tesis yönetimini daha karmaşık bir meslek yaptı.",
+        "İyi yönetim için eğitimli personel, güvenlik, temizlik, kapasite ve hızlı hizmet kritik önemdedir.",
+        "Soyunma odası temizliği gibi küçük görünen detaylar bile işletmenin başarısı için kritiktir."
       ]
     },
     {
-      "heading": "İşletmenin İşlevlerine Giriş",
-      "paragraphs": [
-        "Bir işletmenin amaçlarına ulaşması için gerekli iş, işlem ve faaliyetler; iş bölümü, uzmanlık, yetki ve sorumluluk esasına göre belirli işlevler (fonksiyonlar) hâlinde gruplandırılır. Bu bölümde işletme işlevleri; satın alma, üretim, pazarlama, finansman, muhasebe, personel (insan kaynakları), halkla ilişkiler ve araştırma-geliştirme (Ar-Ge) başlıkları altında ele alınmaktadır. Bu işlevlerin her biri, işletmenin mal ve hizmet üretim sürecinde önemli görevler üstlenir ve spor işletmelerinde de aynı mantıkla uygulama alanı bulur."
+      "heading": "İşletme İşlevlerine Giriş",
+      "emoji": "🧩",
+      "bullets": [
+        "İşletme amaçlarına ulaşmak için işler, iş bölümü ve uzmanlığa göre **işlevlere (fonksiyonlara)** ayrılır.",
+        "Ana işlevler: **satın alma, üretim, pazarlama, finans, muhasebe, personel, halkla ilişkiler ve Ar-Ge**.",
+        "Her işlev, mal/hizmet üretim sürecinde önemli görevler üstlenir ve spor işletmelerinde de aynı şekilde uygulanır."
       ]
     },
     {
       "heading": "Satın Alma İşlevi",
-      "paragraphs": [
-        "Satın alma işlevi, üretilen malın insan ihtiyaçlarını planlandığı biçimde karşılamasına yönelik olarak, üretimde kullanılacak hammadde, yardımcı madde ve hazır parçaların yeterli kalite ve miktarda, uygun fiyatla ve zamanında temin edilmesidir. Bu işlev belirli bir satın alma örgütü ve ilgili personel ile yürütülür; satın almanın tek bir elden yürütülmesine merkezleşme, alt birimlere de yetki verilmesine ise merkezleşmeme denir.",
-        "İşletmeler genel olarak üç yöntemle satın alma yapar: ihtiyaç duyulduğunda satın alma/kiralama, belirli miktarlarda sürekliliği sağlayacak satın alma ve satıcılarla sözleşme yaparak düzenli satın alma. Hangi yöntemin seçileceği işletmenin büyüme hedefine ve ihtiyaçların aciliyetine göre değişir.",
-        "Spor işletmelerinde satın alma işlevi özellikle önemlidir; çünkü spor tesislerinde kullanılan araç, gereç ve malzemelerin maliyeti yüksektir ve kalite, sağlamlık gibi özelliklere göre fiyatları değişebilir. Satın alma stratejisi; tesisin sermayesine, yerine, hedef kitlesine ve kapasitesine bağlı olarak tesis sahibi veya yöneticisi tarafından geliştirilir ve hangi malzemenin ne zaman, nasıl ve hangi koşullarda temin edileceğinin planlanmasını gerektirir."
+      "emoji": "🛒",
+      "bullets": [
+        "**Satın alma işlevi**, üretimde kullanılacak malzemeleri yeterli kalite ve miktarda, uygun fiyat ve zamanda temin etmektir.",
+        "Tek elden yürütülmesi **merkezleşme**, alt birimlere yetki verilmesi **merkezleşmeme** olarak adlandırılır.",
+        "Üç temel yöntem vardır: ihtiyaç anında satın alma, düzenli stok için satın alma ve sözleşmeyle sürekli satın alma.",
+        "Spor tesislerinde araç-gereç maliyeti yüksek olduğu için satın alma stratejisi büyük önem taşır.",
+        "Strateji; tesisin sermayesine, konumuna, hedef kitlesine ve kapasitesine göre belirlenir."
       ]
     },
     {
       "heading": "Üretim İşlevi",
-      "paragraphs": [
-        "Üretim; fayda yaratmak, yani insanların ihtiyaçlarını karşılayan bir değerin elde edilmesi olarak tanımlanır. İşletmeler, mal veya hizmetten (ya da her ikisinden) oluşan insan istek ve ihtiyaçlarını tatmin edecek mamulleri üretip pazarlamak için kurulur ve yaratılan değer parayla ölçülür; üretim eylemleri satış fiyatı ile üretim maliyeti arasındaki farkı en yükseğe çıkaracak biçimde yönetilmelidir.",
-        "Hizmetler, soyut, fiziki bir mala bağlı olabilen ya da olmayan, sahiplenilemeyen ve genellikle insan emeğine dayanan bir üretim türüdür; hizmetin başarısı büyük ölçüde onu sunan personelin niteliğine bağlıdır. Spor hizmetleri üretiminde girdileri iş gücü, malzeme, tesis ve sermaye oluştururken; çıktı, duygusal, ruhsal ve fiziksel açıdan memnun, sağlıklı ve sosyalleşmiş bireyler (bazı durumlarda profesyonel sporcular) olarak ortaya çıkar. Bu süreç, geri besleme ile sürekli değerlendirilir.",
-        "Spor hizmetleri üretiminin esasını, insanların farklı spor faaliyetlerine katılma isteklerini karşılamak için planlanan spor programları oluşturur; bu programlar aktif katılım (bizzat spor yapma) ve pasif katılım (seyirci olarak izleme) şeklinde ikiye ayrılabilir ve her ikisi de katılımcıların ihtiyaç ve isteklerine doygunluk sağlamayı amaçlar."
+      "emoji": "🏭",
+      "bullets": [
+        "**Üretim**, fayda yaratmak yani insan ihtiyaçlarını karşılayan bir değer elde etmektir.",
+        "Üretim, satış fiyatı ile üretim maliyeti arasındaki farkı en yükseğe çıkaracak şekilde yönetilmelidir.",
+        "**Hizmet**, soyut, sahiplenilemeyen ve genellikle insan emeğine dayanan bir üretim türüdür.",
+        "Spor hizmetlerinde girdiler iş gücü, malzeme, tesis ve sermaye; çıktı ise sağlıklı, mutlu ve sosyalleşmiş bireylerdir.",
+        "Spor programları **aktif katılım** (bizzat yapma) ve **pasif katılım** (izleyici olma) olarak ikiye ayrılır."
       ]
     },
     {
       "heading": "Pazarlama İşlevi",
-      "paragraphs": [
-        "Pazarlama; ihtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik birtakım insan faaliyetleri olarak tanımlanır. Pazarlama sadece satış ve tanıtımla sınırlı değildir; tüketicilerin ihtiyaç ve isteklerinin nasıl ortaya çıktığını ve nelerden etkilendiğini belirlemeye yönelik faaliyetleri de kapsar; amacı, pazarın ihtiyaç ve isteklerini anlayarak işletmenin önceden belirlenen hedeflere ulaşmasını sağlamaktır.",
-        "Hizmet işletmelerinde pazarlamanın üretici ile tüketici arasındaki köprü görevini, çoğunlukla hizmeti bizzat sunan personel üstlenir; bu nedenle hizmet kalitesi büyük ölçüde personelin dürüstlüğüne, güvenilirliğine ve iletişim becerisine bağlıdır. Kötü ya da kötü algılanan bir hizmet, mevcut müşterileri olumsuz etkileyerek 'negatif pazarlama' etkisi yaratabilir; buna karşın başarılı bir hizmet yeni iş fırsatları ve olumlu tavsiyeler getirir.",
-        "Spor pazarlamasında, özellikle kâr amacı gütmeyen kamu spor kurumlarında, spor yöneticisinin sportif program ve aktiviteleri yönlendirip kontrol etmesi ve halkın isteklerini göz önünde tutarak hizmetleri açık bir şekilde tanımlaması gerekir. Sadece tesis yapmak yeterli değildir; tesislerin etkin işletilmesi ve halkın sportif ihtiyaçlarının karşılanması için pazarlama faaliyetlerinin de yürütülmesi, özellikle talebin yoğunlaştığı akşam ve hafta sonu saatlerinin dikkate alınması gerekir."
+      "emoji": "📣",
+      "bullets": [
+        "**Pazarlama**, ihtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik insan faaliyetleridir.",
+        "Sadece satış ve tanıtım değil, tüketici ihtiyaçlarının nasıl ortaya çıktığını anlamayı da kapsar.",
+        "Hizmet işletmelerinde pazarlamanın köprü rolünü genellikle hizmeti sunan personel üstlenir.",
+        "Kötü hizmet \"**negatif pazarlama**\" etkisi yaratır; iyi hizmet yeni fırsatlar ve olumlu tavsiyeler getirir.",
+        "Spor işletmelerinde talebin yoğunlaştığı akşam ve hafta sonu saatleri pazarlamada dikkate alınmalıdır."
       ]
     },
     {
       "heading": "Finans İşlevi",
-      "paragraphs": [
-        "Finansal yönetim, işletmenin amaçlarını gerçekleştirebilmesi için gerekli finansmanın temin edilmesi ve bu kaynakların uygun biçimde değerlendirilmesiyle ilgilenir; amacı işletmenin güvenliğini ve kârlılığını sağlamaktır. Kaynaklarını etkili yönetebilen işletmeler büyür ve hayatta kalır, yönetemeyenler ise zarar ederek kapanma riskiyle karşı karşıya kalır.",
-        "İşletmenin sermayesi kaynağına göre öz sermaye (sahiplerin kendi varlıklarından işletmeye kattığı değerler) ve dış kaynaklı sermaye (faiz karşılığında dışarıdan temin edilen kaynaklar) olmak üzere ikiye ayrılır. Kullanım biçimine göre ise sermaye, sabit sermaye (arazi, bina, makine gibi tüketim için değil uzun süreli kullanım için bağlanan varlıklar) ve işletme sermayesi (kasa, banka, hisse senedi gibi genellikle bir yılda nakde çevrilebilen varlıklar) olarak ikiye ayrılır.",
-        "Spor işletmelerinde finansal planlama özel önem taşır; çünkü araç, gereç ve tesisler yüksek maliyetli olup uzun çalışma saatleri (genellikle 07:00-21:00) nedeniyle hızla yıpranabilir. Finansal yönetimin görevleri arasında gerekli bölümlerin kurulması ve faaliyet sonuçlarının değerlendirilmesi, giderlerin doğruluğunun araştırılması, vergi ve kredi yönetimi ile dönemsel mali raporların hazırlanması sayılabilir."
+      "emoji": "💰",
+      "bullets": [
+        "**Finansal yönetim**, işletmenin ihtiyacı olan kaynakları temin edip verimli kullanmayı sağlar; amacı güvenlik ve kârlılıktır.",
+        "Sermaye kaynağına göre **öz sermaye** (sahiplerin kendi varlığı) ve **dış kaynaklı sermaye** (faizle dışarıdan temin) olarak ikiye ayrılır.",
+        "Kullanım biçimine göre ise **sabit sermaye** (arazi, bina, makine gibi tüketim için değil, uzun süreli kullanım için bağlanan varlıklar) ve **işletme sermayesi** (kasa, banka gibi kısa sürede nakde çevrilebilen varlıklar) vardır.",
+        "Spor tesislerinde araçlar yüksek maliyetli olup uzun çalışma saatleri (07:00-21:00) nedeniyle hızla yıpranır, bu yüzden finansal planlama önemlidir."
       ]
     },
     {
       "heading": "Muhasebe İşlevi",
-      "paragraphs": [
-        "Muhasebe; mali karakterde ve para ile ifade edilebilen işlemlere ait güvenilir bilgilerin toplanması, doğruluklarının belirlenmesi, kaydedilmesi, raporlanması, analiz ve yorumlanması sürecidir. Yöneticiler, muhasebe verilerine dayanmadan sağlıklı işletme kararı alamaz; bu nedenle muhasebe aynı zamanda önemli bir yönetim aracı olarak kabul edilir.",
-        "Muhasebe bölümünün gerçekleştirmesi gereken faaliyetler arasında yapılan işlerin kayıtlarını tutmak, mali durum tablolarını hazırlamak, üretilen mal veya hizmetlerin maliyetlerini hesaplamak, işletme bütçesini hazırlamak ve gerçekleşen rakamları planla karşılaştırarak gerekli tedbirleri almak sayılabilir. Pazar araştırması yapmak ise muhasebenin değil, pazarlama ve Ar-Ge işlevlerinin görev alanına girer.",
-        "Spor işletmeleri için muhasebe işlevi özellikle kritiktir; çünkü araç, gereç ve malzemelerin maliyeti yüksektir ve yoğun kullanım (günde on saate kadar) nedeniyle hızla amortismana uğrar. Bu araçların kayıtlarının tutulması, kullanımdan elde edilen faydanın belirlenmesi ve hizmet maliyetinin hesaplanması, geleceğe yönelik bütçe planlamasının temelini oluşturur."
+      "emoji": "📊",
+      "bullets": [
+        "**Muhasebe**, mali işlemlere ait güvenilir bilgilerin toplanması, kaydedilmesi, raporlanması ve yorumlanması sürecidir.",
+        "Yöneticiler muhasebe verisi olmadan sağlıklı karar alamaz; bu yüzden muhasebe önemli bir yönetim aracıdır.",
+        "Görevleri: kayıt tutmak, **mali durum tablolarını hazırlamak**, maliyet hesaplamak ve **işletme bütçesini hazırlamak**.",
+        "Pazar araştırması yapmak muhasebenin değil, **pazarlama ve Ar-Ge** işlevinin görevidir.",
+        "Spor işletmelerinde araçlar yoğun kullanımdan (günde 10 saate kadar) hızla amortismana uğrar, bu da bütçe planlamasının temelidir."
       ]
     },
     {
       "heading": "Personel İşlevi",
-      "paragraphs": [
-        "Personel işlevi; bir üretim faktörü olan insan kaynağının en ekonomik yollardan sağlanması ve verimli bir biçimde çalıştırılması amacına yönelik işletme faaliyetlerinin yerine getirilmesidir. Personel planlaması; işlerin tanımlanmasını, iş gereklerinin (eğitim, tecrübe, yetenek vb.) belirlenmesini ve gelecekteki personel ihtiyacının tahmin edilmesini kapsar.",
-        "Personel sağlama sürecinde, iş analiziyle belirlenen ihtiyaca uygun adaylar iç veya dış kaynaklardan seçilerek işe alınır; iç kaynaklardan sağlama moral ve motivasyonu güçlendirirken dış kaynaklardan sağlama yeni düşüncelerin işletmeye girmesini kolaylaştırır. Personel eğitimi, hizmet öncesi (okul ve üniversitelerdeki genel/mesleki eğitim) ve hizmet içi eğitim (işe girdikten sonra kurum tarafından verilen eğitim) olmak üzere iki aşamada yürütülür; teknolojik değişim hizmet içi eğitimi giderek daha gerekli kılmaktadır.",
-        "Spor işletmelerinde insan kaynağı, hizmeti sağlayan en pahalı ve en önemli kaynaktır; yöneticiden antrenöre, yardımcı hizmetliden teknik elemana kadar çok çeşitli meslek gruplarını barındırır. Müşterilerin bireysel beklentilerine (kondisyon kazanma, zayıflama, sağlıklı olma vb.) uygun personel seçimi, hem müşteri memnuniyetini hem de işletmenin sürekliliğini doğrudan etkilediği için personel alımı spor işletmelerinin en önemli işlevlerinden biri sayılır."
+      "emoji": "👥",
+      "bullets": [
+        "**Personel işlevi**, insan kaynağının en ekonomik yollardan sağlanması ve verimli çalıştırılması amacına yönelik faaliyetlerdir.",
+        "Personel planlaması iş tanımları, iş gerekleri ve gelecekteki personel ihtiyacını tahmin etmeyi kapsar.",
+        "Adaylar **iç kaynaklardan** (moral/motivasyonu güçlendirir) veya **dış kaynaklardan** (yeni fikirler getirir) seçilir.",
+        "Eğitim, **hizmet öncesi eğitim** (okul/üniversite) ve **hizmet içi eğitim** (işe girince kurum tarafından verilen) olarak ikiye ayrılır.",
+        "Spor işletmelerinde insan kaynağı en pahalı ve en önemli kaynaktır; personel seçimi en kritik işlevlerden biridir."
       ]
     },
     {
       "heading": "Halkla İlişkiler İşlevi",
-      "paragraphs": [
-        "Halkla ilişkiler; işletmenin halkla doğru ve sağlıklı ilişkiler kurup geliştirmesi, halkta kurum hakkında olumlu izlenim oluşturması ve kurum ile halkın karşılıklı etkileşiminin ortak çıkarlara dayalı sürdürülmesidir; kısaca işletmenin halkın davranışlarından etkilenmesi ve halkı etkilemesi durumunu ifade eder. Halkla ilişkiler; halkı belirli bir inanç, tutum ya da eyleme (örneğin sağlıklı yaşam için spor yapmaya) yöneltmeye çalışır.",
-        "Halkı spor programları konusunda bilgilendirmek için broşür, el kitapçığı, afiş, pankart, el ilanı, resim ve aydınlatıcı levha gibi çeşitli iletişim araçları kullanılır; her biri farklı amaçlara (tanıtım, duyuru, dikkat çekme, kural anlatımı vb.) hizmet eder.",
-        "Spor işletmelerinde halkla ilişkiler faaliyetlerinin etkili olması için spor programlarının iyi hazırlanması, farklı halk kitleleriyle iletişim kanallarının açık tutulması ve halkın tepkilerini ölçecek bir iletişim ağının kurulması gerekir; çünkü halk her zaman kendisine faydalı olan spor programlarının önemini doğru anlamayabilir ve etkili halkla ilişkiler bu tutumu değiştirmeye yardımcı olabilir."
+      "emoji": "🤝",
+      "bullets": [
+        "**Halkla ilişkiler**, işletmenin halkın davranışlarından etkilenmesi ve halkı etkilemesi durumunu ifade eder.",
+        "Halkı belirli bir inanç, tutum ya da eyleme (örneğin spor yapmaya) yöneltmeye çalışır.",
+        "Broşür, el ilanı, afiş, pankart gibi iletişim araçları halkı bilgilendirmek için kullanılır.",
+        "Spor işletmelerinde etkili olması için programların iyi hazırlanması ve halkın tepkilerini ölçen bir iletişim ağı gerekir."
       ]
     },
     {
       "heading": "Araştırma Geliştirme (Ar-Ge) İşlevi",
-      "paragraphs": [
-        "Araştırma ve geliştirme; yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak amacıyla yapılan ve bilginin sistematik olarak toplanmasını, analizini ve yorumunu gerektiren bir çalışmadır. İşletmelerin rekabet ortamında ayakta kalabilmesi, pazarda önde gidebilmesi, yenilikçi bir isim yapabilmesi, değişen tüketici beklentilerini karşılayabilmesi ve yetenekli araştırmacıları bünyesine çekebilmesi Ar-Ge faaliyetlerine bağlıdır.",
-        "Geliştirme faaliyetleri üç başlıkta incelenebilir: diyalog ve basit geliştirme (başkalarını izleyerek/taklit ederek yapılan basit yenilikler), teknolojik geliştirme (müşteri gözleminden edinilen fikirlerin uygulanması) ve bilimsel geliştirme (araştırma personeli istihdam etmeyi gerektiren, bilimsel bilgiye dayanan yenilik). Araştırmalar da genel araştırma, uygulamalı araştırma ve özel alan araştırması olmak üzere sınıflandırılabilir.",
-        "Spor işletmeleri için de Ar-Ge faaliyetlerinin sürdürülebilir olması büyük önem taşır; çünkü teknik gelişmeler, yenilik ve buluşlar ancak Ar-Ge çalışmaları sonucunda ortaya çıkar ve işletmenin diğer tüm işlevleriyle (üretim, pazarlama, finans vb.) yakından ilişkilidir. Dünyanın en iyi hizmetini sunan bir spor işletmesi bile, rekabet gücünü sürdürebilmek için sürekli ve düzenli Ar-Ge faaliyetlerine ihtiyaç duyar."
+      "emoji": "🔬",
+      "bullets": [
+        "**Araştırma ve geliştirme (Ar-Ge)**, yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak için sistematik toplama, analiz ve yorum gerektiren çalışmadır.",
+        "Rekabette ayakta kalmak, yenilik yapmak ve yetenekli araştırmacıları çekmek Ar-Ge'ye bağlıdır.",
+        "Geliştirme üç türdür: **diyalog/basit geliştirme**, **teknolojik geliştirme** ve **bilimsel geliştirme**.",
+        "Araştırmalar da genel, uygulamalı ve özel alan araştırması olarak sınıflandırılır.",
+        "Spor işletmeleri için de sürekli Ar-Ge, rekabet gücünü korumak için gereklidir."
       ]
     }
   ],

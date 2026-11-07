@@ -1,0 +1,66 @@
+{
+  "summary": [
+    {
+      "heading": "Sağlık ve Spor: Nasıl Bağlantılı?",
+      "emoji": "🏃",
+      "bullets": [
+        "**Sağlık**, sadece hastalık olmaması değil; fiziksel, zihinsel ve sosyal yönden iyi olma hâlidir.",
+        "Düzenli fiziksel aktivite **kas-iskelet, dolaşım ve solunum sistemlerini** geliştirir.",
+        "Spor; kalp-damar hastalıkları, felç, diyabet, kemik erimesi ve bazı kanser türlerini önlemeye yardımcı olur.",
+        "Spor ayrıca vücut **esnekliğini artırır**, azaltmaz — bu sık karıştırılan bir noktadır.",
+        "40 milyondan fazla çocuk ve genç, okul dışında spor kulüplerine (yüzme, cimnastik vb.) katılıyor.",
+        "Ama dikkatsiz yapılan spor **mikrotravmalara** yol açabilir: doku, kaldırabileceğinden fazla strese girerse yaralanma oluşur.",
+        "Bu yüzden sahadaki doktor dışında hakem ve antrenörlerin de ilk yardım bilgisi olması gerekir."
+      ]
+    },
+    {
+      "heading": "Yaralanmaya Zemin Hazırlayan Faktörler",
+      "emoji": "⚠️",
+      "bullets": [
+        "Risk faktörleri ikiye ayrılır: **içsel (kişisel)** faktörler ve **çevresel** faktörler.",
+        "Bazı faktörler değiştirilebilir (fiziksel uygunluk), bazıları değiştirilemez (**yaş**, cinsiyet).",
+        "İçsel faktörler: önceki yaralanma öyküsü, **yaş** (12-15 adölesan dönem ve ileri yaş), cinsiyet, yetersiz fiziksel uygunluk, **biyomekanik dizilim bozukluğu**, uyku/beslenme eksikliği, stres ve yorgunluk.",
+        "Çevresel faktörler: ekipman-zemin uyumu, **ışıklandırma**, oynanan pozisyon, **hava koşulları** (maks 25°C, min 16°C), spor tipi, aşırı antrenman yoğunluğu ve antrenör-sporcu anlaşmazlığı.",
+        "En sık görülen yaralanmalar: bağ zedelenmesi, kırık, eklem/kıkırdak zedelenmesi, kas lifi kopması, tendon yaralanması ve burkulma.",
+        "Yaralanan dokudaki damarlar yırtılır → kanama → şişlik → basınç artışı → ağrı ve hassasiyet."
+      ]
+    },
+    {
+      "heading": "Yaralanmaları Önleme Piramidi",
+      "emoji": "🛡️",
+      "bullets": [
+        "Önleme üç yoldan yapılır: **ekipman desteği** (breys, ortez, uygun ayakkabı), **eğitim** (kuvvet, denge, eklem hareketi) ve kurallar.",
+        "Önleme bir **piramit** gibidir, her basamak bir öncekinin üstüne kurulur.",
+        "1. basamak: hedef grup belirleme ve **risk faktörü analizi** (piramidin temeli).",
+        "2. basamak: **yüklenme yönetimi** — hem az hem fazla yüklenme risklidir, kademeli program gerekir.",
+        "3. basamak: **atletik gelişim**, kuvvet ve kondisyonun iyileştirilmesi.",
+        "4. basamak: hareket verimliliğinin artırılması; tepede ise önceki yaralanma ve rehabilitasyon süreci yer alır.",
+        "Koruyucu ekipman (dişlik, ayak bileği desteği) ciddi yaralanmaları azaltır; elit sporcu için çim, amatör için yapay zemin daha güvenli sayılır."
+      ]
+    },
+    {
+      "heading": "Sahada İlk Yardımın Temel İlkeleri",
+      "emoji": "🚑",
+      "bullets": [
+        "**İlk yardım**, yaralanan/aniden hastalanan kişiye olay yerinde yapılan geçici, ilaçsız müdahaledir; amacı hayati tehlikeyi ortadan kaldırmaktır.",
+        "Bilinç kapalıysa önce hava yolu, solunum (bak-dinle-hisset) ve dolaşım (şah damarından 5 saniye nabız) kontrol edilir.",
+        "**Dokuz hayati bulgu**: nabız (yetişkinde 60-100, sporcuda 40-60/dk), solunum (12-20, sporcuda 6-8/dk), kan basıncı, vücut sıcaklığı (~37°C), cilt rengi, göz bebekleri, bilinç durumu, hareket yeteneği ve ağrıya tepki.",
+        "Solunum/kalp durursa **KSC (kalp-solunum canlandırması)** uygulanır: tek kişi için 15 kalp masajına karşılık 2 solunum, masaj dakikada 80-100 baskı hızında.",
+        "Ciddi kanamada kompresyon, bölgeyi kalp üstüne kaldırma ve gerekirse **turnike** (en fazla 10 dakika) uygulanır; şokta hasta ısıtılır, bacakları yukarı kaldırılır.",
+        "Sahada değerlendirme **TOTAPS** ile yapılır: Talk (konuş), Observe (gözle), Touch (dokun), Active/Passive Motion (hareket ettir), Skill Tests (beceri testleri)."
+      ]
+    },
+    {
+      "heading": "Ön Tedavi: POLICE Protokolü",
+      "emoji": "🧊",
+      "bullets": [
+        "Ön tedavinin amacı ağrı, şişlik ve eziklik hissini azaltmak, bölgeyi gerektiği kadar hareketsizleştirmektir.",
+        "Yaralanmanın ilk fizyolojik cevabı: doku içi kanama, ardından ödem (şişlik), ağrı-hassasiyet, ciltte ısı artışı ve kızarıklıktır.",
+        "Güncel protokolün adı **POLICE**; eski **RICE** ve **PRICE** protokollerinin yerini almıştır.",
+        "**P**rotection (Koruma): bölge askı/koltuk değneğiyle korunur ama tam hareketsizlik şart değildir. **OL** = Optimal Loading (Uygun Yüklenme): eski protokollerdeki **Rest/Dinlenme**'nin yerine geçmiştir, çünkü tam hareketsizlik iyileşmeyi geciktirir.",
+        "**I**ce (Buz): doğrudan cilde değil, bez/havlu arayla; süre minimum 12-15, maksimum 30 dakika; ilk 24-48 saatte sık uygulanır; açık yara veya dolaşım bozukluğunda uygulanmaz.",
+        "**C**ompression (Kompresyon): elastik bandaj alttan kalbe doğru sarılır. **E**levation (Elevasyon): bölge kalp seviyesinin üzerine kaldırılır, genelde 2 saatte bir 20 dakika."
+      ]
+    }
+  ]
+}

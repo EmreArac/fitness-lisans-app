@@ -23,72 +23,108 @@
   ],
   "summary": [
     {
-      "heading": "Hareket Eğitiminin Tanımı, Amacı ve Önemi",
-      "paragraphs": [
-        "İnsan, yaşamını sağlıklı ve nitelikli sürdürebilmek için her dönemde harekete gereksinim duyar. Çocuk okul çağına geldiğinde hareket ederek değişik hedeflere ulaşmayı denediği için hareket eğitimi; sağlık, dinçlik, eğlence, etkileme/etkilenme, estetik, biçimlenme, performans, kendine güven, macera, toplumsallık ve rekreasyon gibi birçok amaçla yapılır. Hareket eğitimi, insanın büyüme, gelişme ve davranış şekline göre seçilen aktivitelerin harekete dayalı olarak uygulandığı bir eğitim türüdür ve birinci derecede katkısı bedensel gelişim üzerinedir; bununla birlikte çocuğun duygusal, sosyal ve bilişsel gelişimine de katkıda bulunur.",
-        "Okul öncesi ve ilkokul dönemi düşünüldüğünde 6-9 yaş grubundaki çocuklar temel hareket becerileri, 10-11 yaşındaki çocuklar ise özelleşmiş hareket becerileri yoluyla bu amaçları gerçekleştirir. Temel hareket becerilerinin tam da bu dönemde (okul öncesi ve ilkokulda) ele alınmaya başlanmasının amacı, ortaokul ve lise çağlarında giderek önemi artan daha karmaşık oyun stratejileri ve taktikleri için bir altyapı oluşturmaktır.",
-        "Yapılan çalışmalar, temel hareket becerilerinin çocuklar tarafından zamanında ve doğru öğrenilmemesi durumunda ileriki yaşlarda hareket etme becerisinde yetersizlik yaşandığını ve bunun çocukların yaşam boyunca etkinliklere katılmaktan kaçınmasına yol açtığını göstermektedir. Hareket, her yaşta ve her öğrenme stiline sahip çocuk için iyi bir öğrenme aracıdır; insan çevresini hareketle algılar, dış dünyayı hareketle keşfeder ve hareket aynı zamanda toplumsal bir iletişim aracıdır."
+      "heading": "Hareket Eğitimi: Tanım, Amaç ve Önem",
+      "emoji": "🏃",
+      "bullets": [
+        "**Hareket eğitimi**, çocuğun gelişimine uygun hareket temelli bir eğitim türüdür; öncelikle bedensel gelişimi destekler ama duygusal-sosyal-bilişsel gelişime de katkı sağlar.",
+        "Amaçları arasında sağlık, dinçlik, eğlence, estetik, performans, **kendine güven**, macera, toplumsallık ve rekreasyon bulunur.",
+        "**6-9 yaş** grubu **temel hareket becerilerini**, **10-11 yaş** grubu ise **özelleşmiş hareket becerilerini** kullanarak bu hedeflere ulaşır.",
+        "Bu yüzden temel hareket becerileri **okul öncesi ve ilkokul döneminde** kazandırılır; bu dönem, ortaokul-lisede gelişen karmaşık oyun strateji ve taktiklerine altyapı oluşturur.",
+        "Beceriler zamanında ve doğru öğrenilmezse çocuk ileride etkinliklere katılmaktan kaçınabilir.",
+        "Hareket; çevreyi algılamanın, dünyayı keşfetmenin ve toplumsal iletişimin güçlü bir aracıdır."
       ]
     },
     {
-      "heading": "Hareket Eğitiminin Tarihçesi, Yaklaşımının Amaçları ve İlkeleri",
-      "paragraphs": [
-        "Hareket eğitimi alanında 1960'larda ve 1970'lerde Gilliom, Kirchner, Logsdon ve arkadaşları, Maulden ve Layson, Maulden ve Redfen, Russell ve Stanley gibi isimlerin öncülüğünde önemli bir gelişim yaşanmıştır. Rudolf Laban tarafından geliştirilen hareket eğitimi yaklaşımı; çocuğun problem çözme becerisini, bilişsel ve yaratıcı olarak katılımını, bilgiyi keşfetme-analiz etme-uygulama ve bireysel farklılıkları dikkate almayı içerir. Bu süreçte eğitimciler rehber ve yol gösterici konumundadır; Gilliom'un problem çözme ve keşfetme sürecine dayanan metodolojisi, çocukların kendi hareket problemlerini çözme yöntemlerini keşfetmelerini sağlar.",
-        "Yapılandırmacı anlayışın bir yansıması olan hareket eğitimi yaklaşımında çocukta kendine güven, problem çözme becerileri ve işbirlikli öğrenme becerilerinin geliştirilmesi önemlidir. Bu yaklaşımı kullanan eğiticilerin (1) çocukların keşfetmelerine yardımcı olup hareket deneyimleri yaratması, (2) çocukları hareket problemlerini tanımlamaya ve çözmeye teşvik etmesi ve (3) çocukları eşli veya grupla çalışmaları için uygun ortamlar sağlaması beklenir. Hareket eğitiminin özellikleri ise şöyle sıralanabilir: bireysel bir keşiftir, öğrenci merkezlidir, temelinde problem çözme bulunur, geleneksel beden eğitiminden daha az formal yapıdadır, motor becerilerin öğrenilmesini kolaylaştırır, çocuğa tatmin duygusu yaşatır, hareket analizini destekler, kolay bulunabilen ve ekonomik araç-gereç gerektirir ve gelişmeler belirli aralıklarla ölçülmelidir.",
-        "6-9 yaş dönemi, temel hareket becerilerinin en hassas dönemidir; bu dönemde hareket eğitimi uygulamalarında şu ilkelere dikkat edilmelidir: çok yönlü hareket eğitimiyle çoklu deneyim kazandırmak, her çocuğun becerisini geliştirebilmesi için yeterli etkinlik uygulamak, etkinlikleri önce eğlenceli kurgulamak, her çocuğun aktif katılımını sağlamak (gerekirse beceriyi grubun ihtiyacına göre yeniden şekillendirmek) ve güvenlik için uygulama alanı ile malzemeleri çocuklara uygun hâle getirmek (örneğin küçük hafif sünger topların kullanılması)."
+      "heading": "Hareket Eğitiminin Tarihçesi ve İlkeleri",
+      "emoji": "🧭",
+      "bullets": [
+        "Hareket eğitimi yaklaşımı **1960-70'lerde** Gilliom, Kirchner, Logsdon gibi isimlerce geliştirildi; **Rudolf Laban**'ın yaklaşımı problem çözmeyi, yaratıcı katılımı ve bireysel farklılıkları temel alır.",
+        "Eğitimci bu yaklaşımda bir **rehberdir**: çocukların keşfetmesine yardımcı olur, hareket problemlerini çözmelerini teşvik eder, eşli/grup çalışmalarına ortam hazırlar.",
+        "Yaklaşım **yapılandırmacı** bir anlayışa dayanır; çocukta özgüven, problem çözme ve işbirlikli öğrenme becerilerini geliştirmeyi hedefler.",
+        "Hareket eğitiminin özellikleri: **bireysel bir keşiftir**, **öğrenci merkezlidir**, temelinde **problem çözme** vardır, geleneksel beden eğitiminden **daha az formaldir**, **motor becerileri** kolaylaştırır, tatmin duygusu verir, hareket analizini destekler, ekonomik malzeme gerektirir ve ilerleme düzenli ölçülür.",
+        "**6-9 yaş** döneminde uygulanırken çok yönlü deneyim kazandırmak, yeterli etkinlik sunmak, önce eğlenceyi kurgulamak, herkesin aktif katılımını sağlamak ve güvenli malzeme (örneğin küçük sünger toplar) kullanmak ilke olarak benimsenir."
       ]
     },
     {
       "heading": "Temel Hareket Becerileri",
-      "paragraphs": [
-        "Temel hareket becerileri; oyunlarda, sporlarda, dansta ve fiziksel uygunluk aktivitelerinde kullanılan karmaşık ve özel motor becerilerin temelini oluşturan becerilerdir. Hareket eğitiminin içindeki iki temel unsurdan biri olan bu beceriler; çocuğun bir noktadan başka bir noktaya yer değiştirirken, vücut dengesini sağlarken veya herhangi bir nesneyi kontrol ederken gerekli olan hareketleri kapsar. Erken çocukluk döneminde ve ilkokulda öğrenilmesi gereken bu beceriler, istenilen seviyede öğrenildikten sonra yaşam boyu kullanılır.",
-        "Temel hareket becerileri, beceri temaları bakımından üçe ayrılır: yer değiştirme hareketleri (yürüme, koşma, atlama-sıçrama, adım al-sek, galop-kayma, yuvarlanma, tırmanma), dengeleme hareketleri (eğilme, esnetme, dönme, salınım, ağırlık aktarma, atlama-konma, başlama-durma, dinamik-statik denge, duruş-oturuş, itme, çekme) ve nesne kontrolü gerektiren hareketler (topa alıştırma, atma, tutma, yakalama, ayakla vurma, yuvarlama, durdurma-kontrol, top sürme, raketle vurma, uzun saplı araçla vurma). İki veya daha fazla beceri temasının birleştirilmesiyle de 'birleştirilmiş hareketler' oluşur; bu becerilerdeki gelişim eksikliği, çocuğun gelecekte etkinliklere katılımını engelleyebilir.",
-        "Antrenörler, çocukların kendi vücutlarını anlamalarına yardımcı olacak problem çözmeye dayalı hareketler sunarak ve onları hareketleri düzenleyip adapte etmeleri için cesaretlendirerek bu becerileri geliştirir. Uygulamada beceriler; top sürme-raketle vurma, topa alıştırma-atma-tutma-yakalama, uzun saplı araçla vurma, yürüme-koşma, atlama-sıçrama, adım al-sek/galop-kayma, yuvarlanma-tırmanma, itme-çekme ve statik-dinamik denge gibi tema gruplarına uygun, güvenlik önlemleri alınmış etkinlik ve oyunlarla (örneğin pas oyunu, dairede dönen top oyunu, halat çekme oyunu) kazandırılır."
+      "emoji": "🤸",
+      "bullets": [
+        "**Temel hareket becerileri**, oyun, spor, dans ve fiziksel uygunlukta kullanılan karmaşık hareketlerin temelini oluşturur; erken çocukluk ve ilkokulda öğrenilip yaşam boyu kullanılır.",
+        "**Yer değiştirme hareketleri**: yürüme, koşma, atlama-sıçrama, galop, yuvarlanma, tırmanma gibi bir noktadan diğerine gitme hareketleridir.",
+        "**Dengeleme hareketleri**: eğilme, dönme, salınım, itme-çekme, statik-dinamik denge gibi vücut dengesini koruma hareketleridir.",
+        "**Nesne kontrolü hareketleri**: topa alıştırma, atma, tutma, yakalama, top sürme, raketle vurma gibi bir nesneyi yönetme becerileridir.",
+        "İki veya daha fazla beceri temasının birleşmesiyle **birleştirilmiş hareketler** oluşur; bu becerilerdeki eksiklik çocuğun ileride etkinliklere katılımını zorlaştırabilir.",
+        "Antrenörler, problem çözmeye dayalı hareketler ve güvenli oyunlarla (pas oyunu, halat çekme gibi) bu becerileri geliştirir."
       ]
     },
     {
       "heading": "Temel Hareket Kavramları",
-      "paragraphs": [
-        "Temel hareket becerisi ile hareket kavramı arasındaki fark şudur: beceri, yapılacak hareketin bir eylem olduğunu anlatırken; hareket kavramları, bu hareketin değiştiricilerini, yani 'nasıl' yapılacağını tanımlar (örneğin 'koş' eylemi tek başına değil, 'kısa adımlarla zikzak koş' şeklinde hareket kavramıyla birleşince daha anlamlı olur). Çocuklara önce hareket becerileri, ardından hareket kavramları öğretilmelidir; çocuk kavramları öğrenirken aynı zamanda becerilerle uygulayarak hareket niteliğini artırır.",
-        "Hareket kavramları dört ana başlıkta toplanır: 'Vücut ne yapabilir?' sorusunun cevabını veren Vücut Farkındalığı (vücut bölümlerini tanıma, bu bölümlerin yapacağı hareketleri açıklama, vücut ağırlığının transferi); 'Vücut nerede hareket eder?' sorusunun cevabını veren Alan Farkındalığı (kişisel/genel alan, yönler, seviyeler, yol, uzamsal ilişkiler, ebat); 'Vücut nasıl hareket eder?' sorusunun cevabını veren Efor Farkındalığı (zaman, tempo, güç, akıcılık); ve 'Vücut parçalarıyla, nesne veya bireyle, eş ve grupla neler yapabilirim?' sorusunun cevabını veren Hareket İlişkileri (vücut parçalarıyla, nesne/bireyle, eş-grup ile ilişkiler).",
-        "Vücut farkındalığının amacı; vücut parçalarını tanımlama, vücudun alacağı şekil ve pozisyonları bilme, vücut hareketlerinin farkında olma ve vücudu bir iletişim aracı olarak algılamadır. Alan farkındalığı; kişisel alana saygı gösterme, genel alanda güvenle hareket etme ve farklı yönleri tanımayı; efor farkındalığı, statik-dinamik dengeyi ve hız/güç değişimlerini anlamayı; hareket ilişkileri ise vücut parçalarının birbiriyle, eşle/grupla ve nesnelerle olan ilişkisini anlamayı amaçlar. Her etkinlik hem bir beceri temasını hem de bir veya daha fazla hareket kavramını (örneğin adım al-sek becerisi ile genel-kişisel alan kavramını) birlikte içerir."
+      "emoji": "🧠",
+      "bullets": [
+        "**Hareket becerisi** \"ne\" yapılacağını (eylemi), **hareket kavramı** ise \"nasıl\" yapılacağını tanımlar (örn. \"koş\" yerine \"kısa adımlarla zikzak koş\").",
+        "**Vücut Farkındalığı**: \"Vücut ne yapabilir?\" sorusuna cevap verir; vücut bölümlerini tanıma ve ağırlık transferini kapsar.",
+        "**Alan Farkındalığı**: \"Vücut nerede hareket eder?\" sorusuna cevap verir; kişisel/genel alan, yönler, seviyeler ve uzamsal ilişkileri kapsar — örneğin sahada çarpışmadan hareket etmek bu kavramla ilgilidir.",
+        "**Efor Farkındalığı**: \"Vücut nasıl hareket eder?\" sorusuna cevap verir; zaman, tempo, güç ve akıcılığı kapsar.",
+        "**Hareket İlişkileri**: vücut parçalarının, nesnelerin, eşin ve grubun birbiriyle ilişkisini kapsar.",
+        "Çocuklara önce beceri, sonra kavram öğretilir; her etkinlik hem bir beceri temasını hem bir hareket kavramını birlikte içerir."
       ]
     },
     {
-      "heading": "Oyunun Tanımı ve Tarihsel Gelişimi",
-      "paragraphs": [
-        "Türkçede oyun ve oynamak sözcüğünün pek çok anlamı vardır: çocuk oyunu, dans, tiyatro gösterisi, şans oyunları, spor eylemleri hep bu sözcükle anılır. Huizinga'nın ifadesiyle 'Oyun ya bir yarışmaya benzer ya da bir şeye en iyi benzemek için yarıştır.' Oyunun ne zaman başladığı tam olarak bilinmemekle birlikte, en ilkel kabile ve toplumlar kadar eski olduğu bilinmektedir; ilk insan, doğadaki güçlü gördüğü olayları ve özellikleri, çevreye uyum ihtiyacından dolayı taklit ederek avantajlı duruma geçmeye çalışmıştır.",
-        "İlk insan, duygu ve düşüncelerini ifade etmek için tabiat ve hayvan seslerinden, jest ve mimiklerinden yararlanarak 'taklit'i meydana getirmiştir; bugün bile oyunlardaki figür, ritim, mimik ve jestlerde bu taklit izlerine rastlanır. İlkçağ insanları avlarını daha kolay avlayabilmek için avcılığı taklit ederek egzersiz yapma ihtiyacı duymuş, bu da en basit oyunların doğmasına yol açmıştır (örneğin Eskimoların ayı balığı avcılığını yansıtan oyunu gibi). Önceleri dini tören ve şenliklerle gelişen oyun, zamanla din dışı konulara yönelmiş; bayramlara, yıldönümlerine, asker uğurlamaya, savaş dönüşlerini ve nişan-düğün gibi özel günleri kutlamaya kadar yayılarak günümüze ulaşmıştır."
+      "heading": "Oyunun Tanımı ve Tarihçesi",
+      "emoji": "🎭",
+      "bullets": [
+        "Türkçede \"oyun\" çok anlamlıdır: çocuk oyunu, dans, tiyatro, şans oyunları ve spor hep bu kelimeyle anılır.",
+        "Oyun en ilkel toplumlar kadar eskidir; ilk insan doğadaki güçlü gördüğü olayları **taklit** ederek çevreye uyum sağlamaya çalışmıştır.",
+        "İlk insan duygularını ifade etmek için doğa ve hayvan seslerini, jest ve mimikleri taklit etmiştir (örneğin Eskimoların ayı balığı avını yansıtan oyunu); bu izler bugünkü oyunlarda da görülür.",
+        "Oyun önce **dini tören ve şenliklerle (ritüel)** gelişmiş, sonra din dışı alana geçerek bayram, düğün, nişan gibi özel günlere ait bir **gelenek** hâline gelmiştir.",
+        "Böylece oyunun tarihsel gelişimi şu sırayı izler: **Taklit → Ritüel → Gelenek**."
       ]
     },
     {
-      "heading": "Oyunların Sınıflandırılması",
-      "paragraphs": [
-        "Oyunların sınıflandırılması birçok kişi tarafından yapılmış olsa da (Corbin, Avedon ve Smith, Caillois), en kapsamlı sınıflama Roger Caillois'e aittir. Caillois, oyuncuların başarı ve coşku duygularını tatmak için seçtikleri davranışları dört ana başlık altında toplamıştır: Şans Oyunları (Alea), Gösteri-Rol Oyunları (Mimicr), Macera-Heyecan Oyunları (Vertigo-İlinx) ve Mücadele-Yarışma Oyunları (Agon).",
-        "Şans Oyunlarında (Alea) oyuncu enerji toplamak/harcamak yerine oyunun gidişini oluruna bırakır; kadere ve rastlantıya dayanır, fiziksel beceri ve stratejinin önemi yoktur (kağıt oyunları, zar, fal, rulet gibi). Gösteri-Rol Oyunlarında (Mimicr) oyuncular kendi kişiliklerinin dışında bir rol üstlenip hayali bir evrende bu rolü oynarlar (meddah, tiyatro, orta oyunu, opera, sinema). Macera-Heyecan Oyunları (Vertigo-İlinx), insanın başını döndüren, heyecan ve ürpertili zevk veren etkinlikleri kapsar (sallanma, kayak, dağa tırmanma, havada dalış).",
-        "Mücadele-Yarışma Oyunları (Agon), sporda olduğu gibi motor aktivitelere ya da dama/satranç gibi zekâ gücüne dayanan, yarışma ve mücadele gerektiren oyunları kapsar; oyuncu sadece kendine güvenir. Bu grup, fiziksel beceri ile şans/strateji faktörlerinin bulunup bulunmamasına göre dörde ayrılır: Fiziksel Beceri Oyunları (bovling, halter, koşu, stafet), Strateji Oyunları (dama, satranç gibi zekâya dayalı 'savaş oyunları'), Fiziksel Beceri ve Strateji Oyunları (mendil kapmaca, boks, güreş) ve Strateji ve Şans İçeren Fiziksel Beceri Oyunları (futbol gibi takım oyunları)."
+      "heading": "Oyunların Sınıflandırılması (Caillois)",
+      "emoji": "🎲",
+      "bullets": [
+        "Oyunların en kapsamlı sınıflamasını **Roger Caillois** yapmıştır; oyunları dört ana grupta toplar.",
+        "**Şans Oyunları (Alea)**: beceri ve stratejiden çok kadere/rastlantıya dayanır (kağıt oyunu, zar, rulet).",
+        "**Gösteri-Rol Oyunları (Mimicr)**: oyuncunun kendi kişiliği dışında bir rol üstlendiği hayali oyunlardır (tiyatro, meddah, sinema).",
+        "**Macera-Heyecan Oyunları (Vertigo-İlinx)**: baş döndüren, heyecan veren etkinliklerdir (kayak, dağa tırmanma, dalış).",
+        "**Mücadele-Yarışma Oyunları (Agon)**: sporda olduğu gibi motor ya da zekâ gücüne dayanan, yarışma içeren **sportif mücadele** oyunlarıdır; oyuncu sadece kendine güvenir.",
+        "Agon grubu dörde ayrılır: **Fiziksel Beceri Oyunları** (koşu, halter), **Strateji Oyunları** (dama, satranç), **Fiziksel Beceri ve Strateji Oyunları** (güreş, boks) ve **Strateji ve Şans İçeren Fiziksel Beceri Oyunları** (futbol gibi takım oyunları)."
       ]
     },
     {
       "heading": "Oyunun Çocuk Gelişimine Etkileri",
-      "paragraphs": [
-        "Çocuk, kavramları, nesneleri, toplumsal kuralları ve mücadele etmeyi oyun içinde önce algılar, sonra anlar, öğrenir ve geliştirir. Oyunun fiziksel gelişim ve sağlık üzerindeki etkisi, mücadele oyunlarında çocukların sürekli koşması, zıplaması, tırmanması, çekip itmesiyle ortaya çıkar; bu hareketlilik solunum, dolaşım, bağışıklık, kas-iskelet-tendon ve sinir sistemini destekler, iştahı açar ve kuvvet-çabukluk-dayanıklılığın gelişmesini sağlar.",
-        "Oyunun sosyal gelişim üzerindeki etkisi, bir grup çalışması olan oyunun kendine özgü kurallarından kaynaklanır: kurallara uymayan çocuk oyun dışı bırakılır, böylece çocuk kurallara uymayı öğrenir. Oyun içinde çocuk farklı kültürlerden gelen oyunculara hoşgörülü olmayı, toplumu tanımayı, sosyal rolleri ve meslekleri (anne-baba, doktorculuk, polisçilik, antrenörlük) öğrenir; grup oyunlarında da mensubiyet ve fedakârlık duyguları gelişir.",
-        "Oyunun psikolojik gelişim üzerindeki etkisi, ileriki yaşlardaki kişilik özelliklerinin çocuklukta oynanan oyunlar içinde şekillenmesiyle ilgilidir; oyun, çocuğun duyduklarını-gördüklerini sınadığı, yanlışlarını düzelttiği bir 'deney odası'dır ve bu süreçte çocuk toplumu, kuralları, meslekleri, gelenek-görenekleri, iyi-kötüyü ve doğru-yanlışı öğrenirken kişiliğini de şekillendirir; ayrıca hayal dünyasıyla gerçekleri harmanlayarak yaratıcılığını geliştirir. Zihinsel gelişime en önde gelen etkisi öğrenmedir: çocuk oyunda kavram ve nesneleri tanıyıp kullanmayı öğrenir, dil dağarcığını geliştirir, sürekli algılama-yorumlama-karar verme içinde taktik geliştirir."
+      "emoji": "🌱",
+      "bullets": [
+        "**Fiziksel gelişim**: mücadele oyunlarındaki koşma, zıplama, tırmanma; solunum, dolaşım, bağışıklık ve kas-iskelet sistemini güçlendirir, kuvvet-çabukluk-dayanıklılığı geliştirir.",
+        "**Sosyal gelişim**: kurallara uymayan çocuk oyun dışı kalır, böylece kurallara uymayı öğrenir; farklı kültürlere hoşgörülü olmayı, toplumu tanımayı ve sosyal rolleri/meslekleri (anne-baba, doktorculuk, polisçilik, antrenörlük) öğrenir.",
+        "Grup oyunları ayrıca **mensubiyet ve fedakârlık** duygularını geliştirir.",
+        "**Psikolojik gelişim**: oyun bir \"deney odasıdır\" — çocuk burada toplumu, kuralları, gelenekleri ve **iyi-kötü/doğru-yanlışı** öğrenerek kişiliğini şekillendirir; hayal gücü ve yaratıcılığı da gelişir.",
+        "**Zihinsel/bilişsel gelişim**: çocuk kavram ve nesneleri tanımayı öğrenir, dil dağarcığını geliştirir ve sürekli algılama-yorumlama-karar verme yoluyla taktik geliştirir."
       ]
     },
     {
       "heading": "Eğitsel Oyunların Yapısı ve Özellikleri",
-      "paragraphs": [
-        "Eğitsel oyunlar, oyunların genel sınıflandırmasında mücadele-yarışma oyunları grubuna girer; temelinde dikkat, zekâ ve motorik özelliklerle bir şeye en iyi benzeme (taklit) veya kurallar çerçevesinde belirlenen hedefe ulaşma, üstün gelme vardır. Eğitsel oyunlarda iki amaç bulunur: birincisi oyuncunun amacıdır (oyunu kazanmak, üstün gelmek); ikincisi ise oyunu seçen/yöneten kişinin amacıdır (oyuncuların kazanma arzusundan faydalanarak bazı yetenekleri kazandırmak ve geliştirmek). Birinci amaç, ikinci amaç için bir araç niteliği taşır.",
-        "Eğitsel oyunların her ortamda ve yaş grubunda ilgi görmesi şu altı özellikten kaynaklanır: Motivasyon (insan yaradılışında oyun oynamaya karşı istekliliğin bulunması ve bunun oyunun içeriğini, kurallarını belirlemesi), Özgür ortam olması (kurallar belli olsa da oyuncuların sınırlandırılmış hareketleri kendilerine göre yorumlama ve sergileme özgürlüğü), Motorik özellikleri test etme imkânı (oyuncuların kendi kapasitelerini ölçüp başkalarıyla kıyaslaması), Sonucun belirsizliği (oyunun her an değişebilecek, önceden bilinmeyen sonucu), Birliktelik ilişkisi (oyuncuları aynı takımda ya da karşı takımda olsalar da birbirine bağlayan duygu paylaşımı) ve Karmaşıklık (bir oyun içinde kuvvet, çabukluk, dayanıklılık gibi birçok farklı hareket özelliğinin bir arada bulunması)."
+      "emoji": "🧩",
+      "bullets": [
+        "**Eğitsel oyunlar**, oyunların genel sınıflamasında **mücadele-yarışma** grubuna girer; dikkat, zekâ ve motor becerilerle bir hedefe ulaşmayı veya taklit etmeyi içerir.",
+        "İki amacı vardır: **oyuncunun amacı** (kazanmak, üstün gelmek) araçtır; **yöneticinin amacı** (kazanma isteğini kullanarak yetenek geliştirmek) asıl hedeftir.",
+        "**Motivasyon**: insanın doğuştan oyun oynamaya istekli olması, oyunun içerik ve kurallarını belirler.",
+        "**Özgür ortam olması**: kurallar belli olsa da oyuncuların hareketleri kendilerine göre yorumlama ve sergileme özgürlüğü vardır.",
+        "**Motorik özellikleri test etme imkânı** (kendi kapasitesini ölçüp başkasıyla kıyaslama) ve **sonucun belirsizliği** (önceden bilinmeyen, her an değişebilen sonuç) diğer önemli özelliklerdir.",
+        "**Birliktelik ilişkisi** (takım arkadaşı/rakiple duygu paylaşımı) ve **karmaşıklık** (kuvvet, çabukluk, dayanıklılık gibi birçok özelliğin bir arada bulunması) son iki özelliktir."
       ]
     },
     {
       "heading": "Eğitsel Oyunların Sınıflandırılması",
-      "paragraphs": [
-        "Eğitsel oyunlar iki şekilde sınıflandırılır: yapısına göre ve seçilip oynanmasında etkili olan özelliklere göre. Yapısına göre sınıflandırmada, oynanış biçimi ve sergilenen özellikler bakımından üç temel grup (ve aralarında geçiş oyunları) bulunur: Taklit Oyunları (oyuncuların bir şeye benzeyerek yarıştığı, örneğin tavşan sıçraması, ördek yürüyüşü, top yuvarlanması gibi oyunlar), Mücadele Oyunları (sportif bir figür taşımadan tamamen kapasiteyle mücadele edilen stafet yarışı, elim sende, halat çekme gibi oyunlar) ve Basit Sportif Oyun Formları (bir spor dalının motifini içeren, sportif formların oyunlaştırılmış hâli; şato topu, yakan top, yengeç futbolu gibi).",
-        "Seçmede ve oynamada etkili özelliklere göre eğitsel oyunlar altı farklı şekilde sınıflandırılır: (1) Yaş gruplarına göre: okul öncesi, ilkokul, ortaokul, lise, yetişkinlik ve yaşlılık dönemi oyunları; (2) Oynandıkları alanlara göre: sınıf, salon, bahçe veya kırsal alan, kış ve su oyunları; (3) Oyuncu sayısına göre: ferdî, ikili ve grup oyunları; (4) Oynanma düzenine göre: çizgi, daire ve dağınık düzen oyunları; (5) Kullanılan araç-gerece göre: araçlı ve araçsız oyunlar; (6) Oynanma/oynatılma amacına göre: eğlence amaçlı (vakit geçirme, samimiyet kurma), eğitim amaçlı (hazırlık, dinlenme, teknik-taktik öğretimi için yeteneklerin geliştirilmesi) ve tedavi amaçlı (psikolojik-fizyolojik rahatlama, postürel bozuklukların tedavisinde kullanılan egzersizlerin oyunlaştırılması) eğitsel oyunlar."
+      "emoji": "📂",
+      "bullets": [
+        "Eğitsel oyunlar iki şekilde sınıflandırılır: **yapısına göre** ve **seçilip oynanma özelliklerine göre**.",
+        "Yapısına göre üç grup vardır: **Taklit Oyunları** (bir şeye benzeyerek yarışma, örn. tavşan sıçraması), **Mücadele Oyunları** (stafet, halat çekme gibi tamamen kapasiteyle mücadele) ve **Basit Sportif Oyun Formları** (bir spor dalının oyunlaştırılmış hâli, örn. yakan top).",
+        "**Yaş gruplarına göre**: okul öncesi, ilkokul, ortaokul, lise, yetişkinlik ve yaşlılık oyunları.",
+        "**Oynandıkları alanlara göre**: **sınıf**, **salon**, **bahçe veya kırsal alan**, **kış** ve **su oyunları**.",
+        "**Oyuncu sayısına göre** (ferdî, ikili, grup), **oynanma düzenine göre** (çizgi, daire, dağınık) ve **araç-gerece göre** (araçlı, araçsız) de sınıflandırılabilir.",
+        "**Oynanma amacına göre**: **eğlence amaçlı**, **eğitim amaçlı** (teknik-taktik öğretimi) ve **tedavi amaçlı** (postürel bozuklukların düzeltilmesi) eğitsel oyunlar."
       ]
     }
   ],
@@ -96,7 +132,13 @@
     {
       "id": "u3q1",
       "question": "\"Çocuklar voleybol sahasında dağınık düzende yürürler. Çocukların ellerinde birer tane voleybol topu vardır. Voleybol topunu direksiyon gibi kullanarak voleybol sahasının içinde birbirlerine çarpmadan yürürler.\" Yukarıdaki etkinlik örneği hangi hareket kavramı ile daha yakından ilişkilidir?",
-      "options": ["Vücut farkındalığı", "Alan farkındalığı", "Efor farkındalığı", "Hareket ilişkileri", "Çaba farkındalığı"],
+      "options": [
+        "Vücut farkındalığı",
+        "Alan farkındalığı",
+        "Efor farkındalığı",
+        "Hareket ilişkileri",
+        "Çaba farkındalığı"
+      ],
       "correctIndex": 1,
       "explanation": "Etkinlikte çocuklar genel alanda birbirlerine çarpmadan hareket etmeyi öğrenmektedir; bu, \"Vücut nerede hareket eder?\" sorusuna cevap veren Alan Farkındalığı kavramının (genel alan, kişisel alan, yönler) doğrudan bir uygulamasıdır. Yürüme bir temel beceri olsa da burada vurgulanan, sahadaki diğer çocuklarla çarpışmadan mekânı doğru kullanabilmedir.",
       "optionNotes": [
@@ -110,7 +152,13 @@
     {
       "id": "u3q2",
       "question": "\"Çocuklar beşerli grup olurlar. Her grup sahanın ortasındaki çizgisinde arka arkaya sıralanır. Sahanın dip çizgisinde huniler bulunmaktadır. Antrenörün komutu ile grubun önündeki çocuklar, gidip ilk huniyi alıp grubunun yanına gelir. Daha sonra ikinci çocuk gidip ikinci huniyi alır. Etkinlik son çocuğun huniyi almasına kadar devam eder.\" Yukarıdaki etkinlik örneği hangi temel hareket becerisine karşılık gelmektedir?",
-      "options": ["Birleştirilmiş hareketler", "Dengeleme hareketleri", "Yer değiştirme", "Nesne kontrolü", "Yer hareketleri"],
+      "options": [
+        "Birleştirilmiş hareketler",
+        "Dengeleme hareketleri",
+        "Yer değiştirme",
+        "Nesne kontrolü",
+        "Yer hareketleri"
+      ],
       "correctIndex": 2,
       "explanation": "Bu bayrak yarışı (stafet) tarzı etkinlikte çocuklar koşarak bir noktadan diğerine gitmekte, yani bedenlerini bir noktadan başka bir noktaya taşımaktadır. Bu, temel hareket becerilerinden \"yer değiştirme hareketleri\" grubuna (koşma, yürüme vb.) girer; belirgin bir nesne kontrolü ya da denge unsuru vurgulanmamıştır.",
       "optionNotes": [
@@ -124,7 +172,13 @@
     {
       "id": "u3q3",
       "question": "Çocuğun temel hareket becerilerini geliştirdiği dönem aşağıdakilerden hangisidir?",
-      "options": ["Okul öncesi ve ilkokul", "İlkokul ve ortaokul", "Okul öncesi", "İlkokul", "Tüm okul dönemi"],
+      "options": [
+        "Okul öncesi ve ilkokul",
+        "İlkokul ve ortaokul",
+        "Okul öncesi",
+        "İlkokul",
+        "Tüm okul dönemi"
+      ],
       "correctIndex": 0,
       "explanation": "Metinde açıkça belirtildiği gibi çocuğun temel hareket becerilerini geliştirdiği ortam, okul öncesi ve ilkokul dönemde olmalıdır. Bu dönemde kazanılan temel beceriler, ortaokul ve lise döneminde gelişen daha karmaşık oyun stratejileri ve taktikler için bir altyapı oluşturur.",
       "optionNotes": [
@@ -138,7 +192,13 @@
     {
       "id": "u3q4",
       "question": "\"Basketbol topunu baş, omuz, bel, diz çevresinden, ayakların arasından düşürmeden çevirme\" etkinliğinin karşılık geldiği temel hareket kavramı ve hareket becerisi aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
-      "options": ["Alan farkındalığı – nesne kontrol becerisi", "Efor farkındalığı – dengeleme becerisi", "Vücut farkındalığı – nesne kontrol becerisi", "Alan farkındalığı – dengeleme becerisi", "Vücut farkındalığı - akrobatik beceriler"],
+      "options": [
+        "Alan farkındalığı – nesne kontrol becerisi",
+        "Efor farkındalığı – dengeleme becerisi",
+        "Vücut farkındalığı – nesne kontrol becerisi",
+        "Alan farkındalığı – dengeleme becerisi",
+        "Vücut farkındalığı - akrobatik beceriler"
+      ],
       "correctIndex": 2,
       "explanation": "Etkinlik, topu baş, omuz, bel ve diz gibi farklı vücut bölümlerinin çevresinde dolaştırmayı içerdiği için \"Vücut Ne Yapabilir?\" sorusuna cevap veren Vücut Farkındalığı kavramıyla ilişkilidir. Top elle/vücutla yönetildiği için de bu, nesne kontrolü beceri temasına girer; doğru eşleşme bu nedenle \"Vücut farkındalığı – nesne kontrol becerisi\"dir.",
       "optionNotes": [
@@ -152,7 +212,13 @@
     {
       "id": "u3q5",
       "question": "Aşağıdakilerden hangisi hareket eğitiminin özelliklerinden biri değildir?",
-      "options": ["Hareket eğitimi bireysel bir keşiftir.", "Hareket eğitimi öğrenen merkezlidir.", "Temelinde problem çözme vardır.", "Geleneksel beden eğitiminden daha az formal yapıdadır.", "Motor becerilerin öğrenilmesini kolaylaştırır."],
+      "options": [
+        "Hareket eğitimi bireysel bir keşiftir.",
+        "Hareket eğitimi öğrenen merkezlidir.",
+        "Temelinde problem çözme vardır.",
+        "Geleneksel beden eğitiminden daha az formal yapıdadır.",
+        "Motor becerilerin öğrenilmesini kolaylaştırır."
+      ],
       "correctIndex": 2,
       "explanation": "Resmi yanıt anahtarı bu seçeneği işaretlemektedir; kitapta problem çözme, ayrıntılı olarak \"Hareket Eğitimi Yaklaşımının Amaçları\" başlığı altında çocukta GELİŞTİRİLMESİ hedeflenen bir beceri/amaç olarak işlenir, doğrudan bir \"özellik\" tanımı olarak vurgulanmaz. Diğer dört seçenek ise metindeki özellikler listesinde birebir ifadeyle yer almaktadır.",
       "optionNotes": [
@@ -166,7 +232,13 @@
     {
       "id": "u3q6",
       "question": "Oyunun tarihsel gelişimi aşağıdakilerden hangisinde doğru olarak verilmiştir?",
-      "options": ["Algılama-Öğrenme- Yaşatma", "Bilgi- Görgü- Davranış", "Taklit – Ritüel- Gelenek", "İhtiyaç – Yaşam biçimi – Malzeme", "Beceri- Eğlenme- Kazanma"],
+      "options": [
+        "Algılama-Öğrenme- Yaşatma",
+        "Bilgi- Görgü- Davranış",
+        "Taklit – Ritüel- Gelenek",
+        "İhtiyaç – Yaşam biçimi – Malzeme",
+        "Beceri- Eğlenme- Kazanma"
+      ],
       "correctIndex": 2,
       "explanation": "Metne göre oyun, ilk insanların doğadaki güçlü gördükleri olayları ve özellikle hayvan hareketlerini \"taklit\" etmesiyle başlamış, önceleri dini tören ve şenliklerle (ritüel) gelişmiş, daha sonra bayram, düğün ve nişan gibi özel günlere ait toplumsal bir alışkanlık/gelenek hâline gelerek yayılmıştır. Bu nedenle oyunun tarihsel gelişim sırası Taklit-Ritüel-Gelenek olarak özetlenebilir.",
       "optionNotes": [
@@ -180,7 +252,13 @@
     {
       "id": "u3q7",
       "question": "Aşağıdakilerden hangisi sportif mücadele oyun grubudur?",
-      "options": ["Geleneksel oyunlar", "Şans oyunları", "Gösteri - rol oyunları", "Macera - heyecan oyunları", "Mücadele oyunları"],
+      "options": [
+        "Geleneksel oyunlar",
+        "Şans oyunları",
+        "Gösteri - rol oyunları",
+        "Macera - heyecan oyunları",
+        "Mücadele oyunları"
+      ],
       "correctIndex": 4,
       "explanation": "Roger Caillois'in sınıflamasına göre oyunlar Şans (Alea), Gösteri-Rol (Mimicr), Macera-Heyecan (Vertigo-İlinx) ve Mücadele-Yarışma (Agon) olmak üzere dört ana grupta toplanır. Sporda olduğu gibi motor aktivitelere dayanan, yarışma ve mücadele içeren oyunlar \"Mücadele oyunları\" (Agon) grubuna girer.",
       "optionNotes": [
@@ -194,7 +272,13 @@
     {
       "id": "u3q8",
       "question": "Aşağıdakilerden hangisi oyunların sosyal gelişim üzerine etkilerinden biri değildir?",
-      "options": ["Meslekleri öğrenir.", "Rolleri öğrenir.", "Toplumsal farklı kültürleri öğrenir.", "İyi - kötüyü öğrenir.", "Gelenekleri öğrenir."],
+      "options": [
+        "Meslekleri öğrenir.",
+        "Rolleri öğrenir.",
+        "Toplumsal farklı kültürleri öğrenir.",
+        "İyi - kötüyü öğrenir.",
+        "Gelenekleri öğrenir."
+      ],
       "correctIndex": 3,
       "explanation": "Metinde \"iyi ve kötüyü, doğruyu-yanlışı öğrenme\" ayrımı, kitabın \"Oyunun Psikolojik Gelişim Üzerine Etkisi\" başlığı altında kişilik gelişimi ve ahlaki değerlerin şekillenmesiyle ilişkilendirilerek ele alınır; sosyal gelişim başlığı altında ise meslek, rol, kültür tanıma ve kurallara uyma gibi etkiler sayılır. Bu nedenle \"iyi-kötüyü öğrenme\", doğrudan bir sosyal gelişim etkisi olarak değil, psikolojik gelişim etkisi olarak sınıflandırılır.",
       "optionNotes": [
@@ -208,7 +292,13 @@
     {
       "id": "u3q9",
       "question": "Eğitsel oyunlarda kurallar belli olsa bile, oyuncular kendilerinden bazı şeyler oyuna katarak, bunları kurallar çerçevesinde arkadaşlarıyla paylaşırlar. Sınırlandırılmış hareketleri kendilerine göre yorumlama ve sergileme özgürlüğüne sahiptirler. Yukarıdaki açıklama, eğitsel oyunların hangi özelliği ile ilgilidir?",
-      "options": ["Motivasyon", "Özgür ortam olması", "Motorik özellikleri test etme imkânı", "Sonucun belirsizliği", "Karmaşıklık"],
+      "options": [
+        "Motivasyon",
+        "Özgür ortam olması",
+        "Motorik özellikleri test etme imkânı",
+        "Sonucun belirsizliği",
+        "Karmaşıklık"
+      ],
       "correctIndex": 1,
       "explanation": "Bu tanım, metindeki \"Özgür ortam olması\" başlığı altında birebir anlatılan özelliğe karşılık gelir: oyuncular kurallar belli olsa da kendilerinden bazı şeyler katarak sınırlandırılmış hareketleri kendilerine göre yorumlama ve sergileme özgürlüğüne sahiptir.",
       "optionNotes": [
@@ -222,7 +312,13 @@
     {
       "id": "u3q10",
       "question": "Aşağıdakilerden hangisi oynandıkları alanlara göre sınıflandırılan oyunlardan biri değildir?",
-      "options": ["Sınıf oyunları", "Salon oyunları", "Bahçe veya kırsal alan oyunları", "Su oyunları", "Tiyatro oyunları"],
+      "options": [
+        "Sınıf oyunları",
+        "Salon oyunları",
+        "Bahçe veya kırsal alan oyunları",
+        "Su oyunları",
+        "Tiyatro oyunları"
+      ],
       "correctIndex": 4,
       "explanation": "Metne göre eğitsel oyunlar oynandıkları alanlara göre sınıf oyunları, salon oyunları, bahçe veya kırsal alan oyunları, kış oyunları ve su oyunları olmak üzere beş grupta sınıflandırılır. Tiyatro oyunları bu sınıflamada yer almaz; tiyatro, Caillois'in oyun sınıflamasında \"Gösteri-Rol Oyunları (Mimicr)\" grubuna örnek olarak verilmiştir.",
       "optionNotes": [

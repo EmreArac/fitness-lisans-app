@@ -1,0 +1,98 @@
+{
+  "summary": [
+    {
+      "heading": "Neden Ölçüyoruz, Neden Değerlendiriyoruz?",
+      "emoji": "🎯",
+      "bullets": [
+        "Hayatımız ölçme ve değerlendirmeyle örülü: saate bakmak **ölçme**, \"biraz daha uyusam mı\" demek ise **değerlendirme**dir.",
+        "Öğretmenler, antrenörler, fitness eğitmenleri ve fizyoterapistler hepsi bu ikiliyi kullanır: önce ölçer, sonra karar verir.",
+        "Spor biliminde ölçme-değerlendirme 6 temel amaca hizmet eder: **yerleştirme**, **tanı (teşhis)**, **başarının değerlendirilmesi**, **tahmin (kestirim)**, **program değerlendirme** ve **motivasyon**.",
+        "Sonuçta sporcunun güçlü/zayıf yanları görülür, doğru yönlendirme yapılır ve daha sağlam kararlar alınır."
+      ]
+    },
+    {
+      "heading": "Ölçme Nedir?",
+      "emoji": "📏",
+      "bullets": [
+        "**Ölçme**, bir özelliğin var olup olmadığını (varsa ne derece var olduğunu) gözleyip sonucu sayı veya sembollerle ifade etmektir.",
+        "Örnek: \"Nil'in boyu 168 cm\" veya \"araç 140 km/sa gidiyordu\" cümleleri birer ölçmedir.",
+        "Ölçülen şey nesnenin kendisi değil, ona ait **özelliğin derecesi veya miktarı**dır.",
+        "Ölçme 3 adımda yapılır: özelliği tanımla, uygun sayı/sembol kümesini seç, hangi sayının hangi duruma verileceğine dair **kuralı** belirle.",
+        "Özellikler kişiden kişiye, zamandan zamana değişir; bu **değişkenlik** olmasa ölçmeye de gerek kalmazdı."
+      ]
+    },
+    {
+      "heading": "Değişken Ne Demek?",
+      "emoji": "🔀",
+      "bullets": [
+        "**Değişken**, en az iki farklı değer alabilen özelliktir (örn. cinsiyet: kadın/erkek).",
+        "**Nicel değişken** sayılarla ifade edilir (boy, ağırlık, başarı puanı); **nitel değişken** sıfat veya sembollerle ifade edilir (cinsiyet, okul türü).",
+        "**Sürekli değişken** sonsuz ara değer alabilir (boy, ağırlık, MaxVO2); **süreksiz (kesikli) değişken** sınırlı sayıda değer alır (diploma derecesi, cinsiyet, medeni durum).",
+        "**Bağımsız değişken** etkileyendir, **bağımlı değişken** etkilenendir — bu rol sabit değildir, araştırmanın amacına göre değişebilir.",
+        "Örnek: sigara-kanser araştırmasında kanser bağımlı değişkendir; ama aynı araştırmacı kanser-depresyon ilişkisini incelerse kanser bu kez bağımsız değişken olur."
+      ]
+    },
+    {
+      "heading": "3 Tip Ölçme: Doğrudan, Dolaylı, Türetilmiş",
+      "emoji": "🧮",
+      "bullets": [
+        "**Doğrudan ölçme**: özelliği kendisiyle aynı türden bir araçla ölçersin (şut sayısı, smaç sayısı, boy, ağırlık). Güvenirliği ve geçerliği en yüksek yöntemdir.",
+        "**Dolaylı ölçme**: doğrudan gözlenemeyen bir özelliği, onunla ilişkili başka bir özellik üzerinden ölçersin — sıcaklık termometredeki cıvayla, zekâ veya kişilik ise bir ölçekle ölçülür.",
+        "**Türetilmiş ölçme**: en az iki ölçüm sonucunu matematiksel bir formülle birleştirerek elde edilir.",
+        "Klasik örnek: **Vücut Kitle İndeksi (VKİ)** = ağırlık (kg) ÷ boy² (m²) — türetilmiş ölçmedir."
+      ]
+    },
+    {
+      "heading": "Birim ve Sıfır Kavramı",
+      "emoji": "0️⃣",
+      "bullets": [
+        "**Birim**, bir ölçme aracının en küçük parçasıdır (cm, mm, km, kilo, gram).",
+        "İyi bir birimde 3 şart aranır: **eşitlik** (her parça aynı büyüklükte), **genellik** (herkesçe aynı şekilde anlaşılır), **kullanışlılık** (ölçülen şeye uygun büyüklükte, örn. şehirler arası mesafede km).",
+        "**Mutlak (gerçek) sıfır**, ölçülen özelliğin gerçekten yokluğunu gösterir (örn. takımda hiç futbolcu olmaması = \"yok\").",
+        "**Bağıl (göreceli) sıfır**, yokluk anlamına gelmez; sadece ölçek üzerinde tanımlı bir başlangıç noktasıdır (örn. 0°C, sıcaklığın hiç olmadığı anlamına gelmez)."
+      ]
+    },
+    {
+      "heading": "4 Ölçek Seviyesi",
+      "emoji": "📊",
+      "bullets": [
+        "**Ölçek**, özellikleri ve farkları ortaya çıkaran araçtır (metre, termometre, baskül). Bilgi zenginliğine göre 4 düzeye ayrılır.",
+        "**Sınıflama (nominal) ölçeği**: sadece kategori ayırır (kadın-erkek, pasör-smaçör-libero). Sayılar miktar belirtmez; sadece **frekans tablosu** ve **mod** hesaplanabilir.",
+        "**Sıralama (dereceleme) ölçeği**: büyükten küçüğe dizer (boy sırası, başarı sırası). Birimler eşit olmadığından toplama/çıkarma yapılamaz; ama **medyan**, yüzdelik ve sıra farkı korelasyonu hesaplanabilir.",
+        "**Eşit aralıklı ölçek**: başlangıcı bağıl sıfırdır (termometre, takvim). **Aritmetik ortalama** (toplam ÷ veri sayısı), standart sapma ve korelasyon hesaplanabilir; ama oranlama yapılamaz — 100 puan, 50 puandan \"iki kat\" başarılı sayılmaz.",
+        "**Eşit oranlı ölçek**: başlangıcı gerçek (mutlak) sıfırdır, birimler eşittir (kilogram, metre, sayma yoluyla elde edilen veriler). Oranlama anlamlıdır (100 kg, 50 kg'ın iki katıdır) ve her türlü matematiksel/istatistiksel işlem (çarpma, bölme dahil) yapılabilir."
+      ]
+    },
+    {
+      "heading": "Değerlendirme Nedir?",
+      "emoji": "⚖️",
+      "bullets": [
+        "**Değerlendirme**, ölçme sonuçlarını bir ölçütle karşılaştırıp bir karara varma sürecidir.",
+        "Bir şeyin değerlendirme sayılması için 3 öge şart: **ölçme sonuçları**, **ölçüt** ve **karar**.",
+        "Ölçme sonuçlarının güvenilir ve geçerli olması gerekir; aksi halde değerlendirme de hatalı çıkar.",
+        "**Ölçüt**, sonuçların karşılaştırıldığı sabit değer/kriterdir ve iki türü vardır: **mutlak ölçüt** ve **bağıl ölçüt**."
+      ]
+    },
+    {
+      "heading": "Mutlak mı, Bağıl mı?",
+      "emoji": "⚔️",
+      "bullets": [
+        "**Mutlak ölçüt**: ölçümden ÖNCE belirlenen, sabit ve kesin bir standarttır (örn. \"185 cm'den uzun olanlar takıma girer\", günde 10.000 adım hedefi). Genelde bir kurum veya kurul belirler.",
+        "**Bağıl ölçüt**: ölçümden SONRA, grubun sonuçlarına bakılarak belirlenir ve sadece o grup için geçerlidir (örn. \"ortalamanın üstü geçer\", \"ilk 5 proje finale kalır\").",
+        "**Mutlak değerlendirme (kritere bağlı)**: mutlak ölçüte göre yapılır (örn. boy ölçütünü 1.80 cm koyup buna uyanları seçmek).",
+        "**Bağıl değerlendirme (norm dayanıklı)**: bağıl ölçüte göre yapılır (örn. sınıfta en yüksek puanı alanı \"en başarılı\" ilan etmek).",
+        "Pedometre örneği: adım sayını başkasıyla kıyaslamak **bağıl**, sabit bir hedefle (10.000 adım) kıyaslamak **mutlak** değerlendirmedir."
+      ]
+    },
+    {
+      "heading": "Ne Zaman Hangi Değerlendirme?",
+      "emoji": "⏱️",
+      "bullets": [
+        "**Tanıma ve yerleştirmeye yönelik değerlendirme**: sürecin BAŞINDA yapılır, başlangıç seviyesini ve ön koşulları belirler (örn. yetenek seçimi).",
+        "**Biçimlendirici değerlendirme (Formative)**: süreç BOYUNCA yapılan sürekli gözlem ve geri bildirimdir; eksikleri erken fark ettirir (örn. antrenörün anlık düzeltmeleri).",
+        "**Değer biçmeye yönelik / özetleyici değerlendirme (Summative)**: sürecin SONUNDA yapılan nihai değerlendirmedir (örn. olimpiyat sonunda madalya kazanmak).",
+        "Örnek: vücut yağının her hafta ölçülmesi biçimlendirici, 8 hafta sonunda yapılan son ölçüm ise özetleyici değerlendirmedir."
+      ]
+    }
+  ]
+}

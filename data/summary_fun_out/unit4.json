@@ -1,0 +1,93 @@
+{
+  "summary": [
+    {
+      "heading": "Spor ve Performans Nedir?",
+      "emoji": "🏆",
+      "bullets": [
+        "Spor, bedensel ve ruhsal sağlığı geliştirir; toplumlar arasında barışçıl ilişkiler kurulmasına da yardımcı olur.",
+        "Zirveye ulaşmak sadece yetenekle değil, bilimsel antrenman programları ve alt yapı yatırımıyla olur.",
+        "**Performans (sporsal verim)**, sporcunun fizyolojik, psikolojik ve biyomotorik olarak ortaya koyduğu verim düzeyidir.",
+        "Performansı belirleyen temel unsur, sporcunun **temel ve tamamlayıcı motorik özelliklerinin düzeyi**dir.",
+        "Bu yüzden yetenek seçim sınavlarında sürat, dayanıklılık ve kuvvet gibi motorik özellikler esas alınır."
+      ]
+    },
+    {
+      "heading": "Motorik Özelliklere Genel Bakış",
+      "emoji": "🧩",
+      "bullets": [
+        "**Temel motorik özellikler**, antrenman yapılmasa bile vücudun doğal gelişimiyle bir ölçüde kendiliğinden gelişir.",
+        "İleri düzeye taşınmaları için antrenmandaki motorik uyaranlar şarttır.",
+        "Temel motorik özellikler üç ana başlıkta incelenir: **Dayanıklılık, Kuvvet ve Sürat**.",
+        "**Esneklik ve beceri** ise bu üçünü tamamlayan, özel güçlülüğü sınırlayan **tamamlayıcı motorik özellikler**dir.",
+        "Sporcunun motorik özellik düzeyi, yeteneğini ve performansını doğrudan belirler."
+      ]
+    },
+    {
+      "heading": "Dayanıklılık: Yorgunluğa Direnç",
+      "emoji": "🫁",
+      "bullets": [
+        "**Dayanıklılık**, fiziki ve fizyolojik yorgunluğa dayanma gücüdür; kalp-dolaşım, solunum ve sinir sistemiyle belirlenir.",
+        "Maksimal yüklenmede kullanılabilen **oksijen miktarı**, dayanıklılık düzeyinin önemli göstergesidir (karbondioksit değil!).",
+        "Dayanıklılık antrenmanı organizmayı güçlendirir: daha hızlı toparlanma, artan vital kapasite, güçlenen kalp, daha çok kılcal damar.",
+        "**Aerobik dayanıklılık**, yeterli oksijenle (oksijen borcu olmadan) 3 dakikadan uzun süren çalışmalarda ortaya çıkar.",
+        "**Anaerobik dayanıklılık**, süratli/maksimal yüklenmelerde devreye girer; **fosfojen (ATP-CP)** ve **laktik asit** sistemleriyle çalışır.",
+        "Süreye göre dayanıklılık **kısa süreli** (45 sn-2 dk), **orta süreli** (2-8 dk) ve **uzun süreli** (8 dk ve üzeri, tamamen aerobik) olarak ayrılır."
+      ]
+    },
+    {
+      "heading": "Kuvvet: Direnci Yenme Gücü",
+      "emoji": "💪",
+      "bullets": [
+        "**Kuvvet**, bir kütleyi hareket ettirme ya da bir direnci yenme yeteneğidir; sinir-kas sisteminin işidir.",
+        "**Maksimal kuvvet**, sporcunun bir denemede kaldırabileceği en yüksek yüktür.",
+        "Kuvveti etkileyen üç faktör: **morfolojik-fizyolojik** (antropometri, kas metabolizması), **koordinatif** (kaslar arası/içi uyum) ve **motivasyonel** faktör.",
+        "Kuvvet türleri: **çabuk kuvvet** (kuvvet+sürat), **kuvvette devamlılık**, **statik kuvvet** (izometrik) ve **dinamik kuvvet** (izotonik).",
+        "**Salt (mutlak) kuvvet**, vücut ağırlığından bağımsız üretilen maksimal kuvvettir; **relatif (göreli) kuvvet** ise vücut ağırlığına karşı geliştirilen kuvvettir.",
+        "Formül: **Relatif Kuvvet = Salt Kuvvet / Vücut Ağırlığı**; geliştirmek için maksimal kuvveti artırmak veya kilo vermek gerekir."
+      ]
+    },
+    {
+      "heading": "Sürat: Hız Yeteneği",
+      "emoji": "⚡",
+      "bullets": [
+        "**Sürat**, bir mesafeyi en kısa sürede kat etme yeteneğidir; kalıtımsaldır ama antrenmanla geliştirilebilir.",
+        "Kas lifi tipi, yaş, boy, adım uzunluğu, esneklik ve ruhsal durum sürati etkiler (göz rengi etkilemez!).",
+        "Sürat türleri arasında **reaksiyon sürati**, **ivme**, **maksimum sürat** ve **sprint sürati** (~30 metre) sayılabilir.",
+        "**Reaksiyon sürati** şu sırayla gerçekleşir: önce duyu organları uyarıyı algılar.",
+        "Sonra uyarı **merkezî sinir sistemine** ulaşır ve emir oluşur, ardından emir kaslara iletilir.",
+        "Son olarak kasta mekanik bir olay gerçekleşir — bu sıra bozulursa reaksiyon oluşmaz."
+      ]
+    },
+    {
+      "heading": "Esneklik: Eklem Hareket Genişliği",
+      "emoji": "🤸",
+      "bullets": [
+        "**Esneklik**, bir eklem etrafındaki hareket serbestliğidir (**Range of Motion**); performansı artırır, yaralanma riskini azaltır.",
+        "Türleri: **aktif esneklik** (dış yardımsız), **pasif esneklik** (dış kuvvetle), **dinamik esneklik**, **statik-aktif** ve **statik-pasif esneklik**.",
+        "Kapsadığı eklem sayısına göre **genel esneklik** ve **özel esneklik** olarak da ayrılır.",
+        "**İç faktörler**: eklemin yapısı, kemik yapısı, kas-tendon-ligament elastikiyeti, derinin elastikiyeti, kasın gevşeme-kasılma yeteneği, eklem ısısı.",
+        "**Dış faktörler**: antrenman ortamının ısısı, günün saati, sakatlanma sonrası toparlanma, yaş, cinsiyet, giysi/ekipman sınırlamaları."
+      ]
+    },
+    {
+      "heading": "Beceri: Çabuk ve Doğru Tepki",
+      "emoji": "🎯",
+      "bullets": [
+        "**Beceri**, iskelet kasları ile merkezî sinir sisteminin uyumla çalışarak amaca yönelik hareket üretmesidir.",
+        "Kısa sürede yeni hareketleri öğrenme ve duruma uygun çabuk tepki verme yeteneğini de kapsar.",
+        "**Dayanıklılık, kuvvet ve sürat** çalışmalarıyla yapılan **kombine alıştırmalarla** geliştirilir.",
+        "Beceriye ait 5 temel özellik: **kinestetik ayrımlama**, **boyutsal yön belirleme** (mekansal oryantasyon), **denge**, **ritim** ve **reaksiyon**."
+      ]
+    },
+    {
+      "heading": "Bileşik Motorik Özellikler: Birleşince Ne Olur?",
+      "emoji": "🔗",
+      "bullets": [
+        "Temel özellikler birleştiğinde yeni özellikler doğar: **kuvvet + sürat = çabuk kuvvet**.",
+        "**dayanıklılık + sürat = süratte devamlılık**, **kuvvet + dayanıklılık = kuvvette devamlılık**.",
+        "Motorik özellikler birbirini etkiler: aşırı **kuvvet antrenmanı esnekliği azaltabilir**.",
+        "Aşırı **esneklik çalışması da kuvveti olumsuz etkileyebilir**, bu yüzden dengeli bir antrenman planı gerekir."
+      ]
+    }
+  ]
+}

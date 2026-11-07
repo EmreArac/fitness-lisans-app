@@ -1,0 +1,54 @@
+{
+  "summary": [
+    {
+      "heading": "Doping Nedir?",
+      "emoji": "⚠️",
+      "bullets": [
+        "**Doping**, sadece yasaklı madde kullanımı değildir; **Dünya Dopingle Mücadele Kuralları**'nın 2. maddesindeki kuralların ihlali de (örnek vermeyi reddetme, madde bulundurma, suç ortaklığı gibi) doping sayılır.",
+        "Sporcular dayanıklılık/kas gücü artırmak, kilo düşürmek ya da başka ilaç kullanımını gizlemek için yasaklı madde kullanır; bu ciddi sağlık sorunlarına yol açar.",
+        "Dopingle mücadelenin **en temel ilkesi sporcunun sağlığını korumaktır**.",
+        "Doping aynı zamanda bir aldatmacadır: dürüstlüğe, saygıya ve hakkaniyete aykırıdır; hileyle gelen başarı gerçek mutluluk vermez.",
+        "**WADA** (Dünya Dopingle Mücadele Ajansı), 1999'da kurulan, hükümetler ile spor hareketinin eşit temsil edildiği bağımsız bir kuruluştur; dopingle mücadeleyi destekler, koordine eder, denetler.",
+        "Türkiye'de bu görevi **TDMK** (Türkiye Dopingle Mücadele Komisyonu) yürütür; örnekler dünyada ~30 WADA akreditasyonlu laboratuvarda, Türkiye'de ise **Hacettepe Doping Kontrol Laboratuvarı**'nda analiz edilir.",
+        "**Dünya Dopingle Mücadele Kuralları** ilk kez 2003'te kabul edilip 2004'te yürürlüğe girdi, 2009 ve 2015'te güncellendi; en son hâli 1 Ocak 2021'de başlıyor."
+      ]
+    },
+    {
+      "heading": "Yasaklılar Listesi",
+      "emoji": "📋",
+      "bullets": [
+        "**Yasaklılar Listesi**'ni WADA hazırlar ve **yılda en az bir kez günceller**; her liste 1 Ocak - 31 Aralık arasında geçerlidir.",
+        "Listedeki maddeler tedavi amaçlı da olsa kullanılamaz; tıbbi gerekçesi olan sporcu ancak **Tedavi Amaçlı Kullanım İstisnası (TAKİ)** onayıyla kullanabilir.",
+        "Bir madde/yöntemin listeye girmesi için şu üç ölçütten en az ikisi gerekir: performansı artırması, **sağlığa risk oluşturması**, ya da sporun ruhuna aykırı olması.",
+        "Liste üçe ayrılır: her zaman yasaklı (S0-S5 maddeler, M1-M3 yöntemler), sadece müsabaka içinde yasaklı (S6-S9), ve bazı sporlarda yasaklı (P1 - beta blokerler).",
+        "**Kusursuz Sorumluluk İlkesi**'ne göre sporcu, vücudunda bulunan her maddeden ve kullandığı ilaç/besin destek ürününden **kendisi sorumludur**.",
+        "Besin destek ürünleri risklidir çünkü etiketleme kuralları gevşek olabilir ve etikette yazmayan yasaklı madde içerebilir; 'bilmiyordum' savunması kabul edilmez."
+      ]
+    },
+    {
+      "heading": "Doping Kontrol Süreci",
+      "emoji": "🧪",
+      "bullets": [
+        "Yetkili her **Dopingle Mücadele Kuruluşu**, bir sporcudan her zaman ve her yerde idrar/kan örneği alabilir; **önceden haber verilmesi gerekmez**.",
+        "Doping kontrol görevlisi (DKG) sporcuyu bilgilendirir, sporcu bildirim formunu imzalar; **sporcu kontrolü reddedemez**, sadece geçerli nedenlerle (ödül töreni, medya, soğuma egzersizi, tıbbi tedavi gibi) istasyona geç gidebilir.",
+        "Süreç 11 adımdan oluşur: kap seçimi, örnek verme (**en az 90 ml idrar**), örneğin A (en az 60 ml) ve B (en az 30 ml) şişelerine bölünmesi, şişelerin kilitlenmesi, kontrol formunun doldurulması ve örneğin WADA akreditasyonlu laboratuvara gönderilmesi.",
+        "Laboratuvar sporcunun kimliğini (ad, adres, doğum tarihi) görmez; sadece kod numarası ile **branş, cinsiyet, federasyon ve kontrol tarihi** gibi kimliksiz bilgilere erişir.",
+        "Örnekte yasaklı madde/yöntem kanıtı bulunursa buna **Aykırı Analitik Bulgu (AAB)** denir.",
+        "Örnekler **10 yıl** dondurularak saklanır ve yeniden analiz edilebilir; teknoloji geliştiğinde geçmiş hileler ortaya çıkabilir, bu da güçlü bir caydırıcıdır.",
+        "18 yaşından küçük veya engelli sporcular için süreç küçük değişikliklerle uygulanır."
+      ]
+    },
+    {
+      "heading": "Sporcu ve Antrenörün Görevleri",
+      "emoji": "🤝",
+      "bullets": [
+        "Sporcular yürürlükteki tüm dopingle mücadele kurallarını bilmeli ve **yedikleri, içtikleri, vücutlarına giren her şeyden kendileri sorumludur**.",
+        "Sporcular örnek alımına her an hazır olmalı, kendilerine tedavi veren sağlık personelini yasaklı madde konusunda uyarmalı ve soruşturmalarda iş birliği yapmalıdır.",
+        "Antrenörlerin en önemli görevi sporcuları dopingle mücadele konusunda bilgilendirip olası kural ihlallerinden korumaktır.",
+        "Antrenörler temel kavramları, sporcu hak/sorumluluklarını, **Yasaklılar Listesi**'ni, kontrol sürecini, sonuçların değerlendirilmesini ve besin destek ürünü risklerini iyi bilmeli ve doğru aktarmalıdır.",
+        "Antrenörler sporculara örnek verme konusunda eğitim vermeli ve kontrolü reddetmenin **hak mahrumiyeti cezası** doğuran bir kural ihlali olduğunu açıkça anlatmalıdır.",
+        "Antrenörlerden risk altındaki sporcuları fark edip tedbirli davranmaları ve temiz sporu teşvik etmeleri beklenir."
+      ]
+    }
+  ]
+}

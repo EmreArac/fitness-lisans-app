@@ -20,58 +20,75 @@
   ],
   "summary": [
     {
-      "heading": "Sporda Koruma Temel Kavramlar",
-      "paragraphs": [
-        "Çocuk koruma; çocuğun yaşama, gelişme, korunma ve katılım haklarının güvence altına alınarak çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişiminde yarar ve esenliğinin gözetilmesi anlamına gelir. BM Çocuk Hakları Sözleşmesi'nin 1. maddesine göre çocuk, 'daha erken yaşta reşit olma durumu hariç, on sekiz yaşına kadar her insan' olarak tanımlanır. Çocukların korunması düşüncesi, sanayi devriminde çocukların ağır şartlarda çalıştırılmasına karşı gelişen ilk sosyal politika tedbirlerine kadar uzanır ve zamanla çocukların da yetişkinler gibi haklara sahip olduğu anlayışı kabul görmüştür.",
-        "UNICEF, çocuk koruma kavramını; çocuklara yapılan her türlü şiddet, istismar, ihmal, sömürü ve taciz olaylarını engelleme ve bu olaylara kısa sürede yanıt verip müdahale etme olarak tanımlar. Önemli iki nokta vardır: çocuk koruma, istismar davranışları ortaya çıktıktan sonra uygulanan bir program değil, riskleri önceden fark ederek önlem alan önleyici bir yaklaşımdır; ayrıca sadece çocuğun korunmasına yönelik önlemleri içermez, antrenör, yönetici, ebeveyn ve çalışan gibi spor alanındaki tüm unsurların korunmasını da kapsar.",
-        "Spor, çocukların fiziksel, zihinsel, duygusal ve sosyal gelişimi için en önemli araçlardan biridir; bu nedenle UNESCO'nun Beden Eğitimi ve Spor Uluslararası Şartı ve IOC'nin temel prensipleri, güvenli ortamlarda spor yapmanın her çocuğun hakkı ve taraf devletlerin sorumluluğu olduğunu vurgular. Ancak spor faaliyetleri, kendine özgü doğası (güç ve itaat ilişkisi, yüksek etkileşim, başarı merkezli kültür) nedeniyle çocuklar için en çok risk taşıyan alanlardan birine de dönüşebilmekte ve bazı istismar biçimlerinin zeminini oluşturabilmektedir.",
-        "Spor alanında yaşanan taciz ve istismarın sporcu üzerinde hayati etkileri vardır: fiziksel (hastalık, yaralanma, yeme bozuklukları), bilişsel (kendine güvensizlik), duygusal (geçici ruh hali bozuklukları), davranışsal (okulu bırakma, hile yapma eğilimi), zihinsel (kaygı, depresyon, kendine zarar verme, intihar), ilişkilere etki (sosyal dışlanma) ve ekonomik kayıplar gibi birçok boyutu içerebilir.",
-        "Cense ve Brackenridge (2001), sporcuların istismara uğrama riskini artıran temel faktörleri şöyle sıralamıştır: çocuklar arasındaki yaş ve olgunlaşma farklılıkları, çocukların yetişkin otoritesine direnmesinin zorluğu, antrenörlerin bilgi/beceri üstünlüğünden kaynaklanan güçlü otoritesi, sporcuların elit düzeye ulaşma isteği ve antrenöre karşı gelmekten korkması, eğitici davranış ile istismarcı davranışı ayırt etmenin zorluğu, spor kültüründeki otoriter liderlik iklimi ve güç dengesizliği, sporcunun baskın ebeveyn deneyimi nedeniyle taciz davranışlarını normal kabul etmesi ve üst düzey genç sporcuların yoğun kamp/antrenman dönemleri nedeniyle akranlarından izole olması. Ayrıca sportif başarının cazibesi, maddi ve manevi getiriler ile antrenör-sporcu arasındaki kuvvetli güven ilişkisi de istismar davranışlarının göz ardı edilip normalleşmesine yol açabilir.",
-        "Türk Dil Kurumu, taciz kavramını tedirgin etme/rahatsız etme, istismar kavramını ise sömürme olarak tanımlar. Çocuk istismarı; çocuğa bakmak, gözetmek ve eğitmekle görevli kişiler ya da yabancılar tarafından çocuğun bedensel veya psikolojik sağlığına zarar verecek, sosyal gelişimini engelleyecek şekilde uygulanan tüm fiziksel, duygusal veya cinsel tutumları, ihmali ve ticari sömürüyü kapsar. DSÖ, çocuk istismarını sorumluluk ve güç-güven ilişkisine dayalı durumlardan ortaya çıkan her türlü fiziksel/duygusal kötü muamele, cinsel istismar, ihmal ve çocuğa zarar verme potansiyeli olan davranışlar olarak tanımlar ve fiziksel istismar, cinsel istismar, duygusal istismar ve ihmal olmak üzere 4 temel istismar biçimi belirler.",
-        "Güvenli spor; spor ortamındaki tüm bireylerin ihmale, fiziksel, duygusal, cinsel ve ekonomik istismara uğramamasını sağlamak için bütün güvenlik önlemlerinin alındığı bir sistemdir. Örneğin Uluslararası Kayak Federasyonu, kötüye kullanım/istismar iddialarının ciddiye alınıp hızlı yanıtlanmasını, gönüllüler dahil tüm çalışanların çocuk koruma ilkelerine uygun işe alınmasını ve doğru davranış eğitiminin sağlanmasını taahhüt etmiştir."
+      "heading": "Çocuk Koruma Nedir?",
+      "emoji": "🛡️",
+      "bullets": [
+        "**Çocuk koruma**, çocuğun yaşama, gelişme, korunma ve katılım haklarını güvence altına alıp iyiliğini gözetmektir; BM Sözleşmesi'ne göre **çocuk**, 18 yaşına kadar herkestir.",
+        "UNICEF'e göre çocuk koruma istismarı **önceden önleyen** bir yaklaşımdır ve gerektiğinde **kısa sürede yanıt verip müdahale** eder - sadece sorun çıktıktan sonra devreye giren bir program değildir.",
+        "Çocuk koruma sadece çocuğu değil, **antrenör, yönetici, ebeveyn ve çalışanları** da kapsayan geniş bir anlayıştır.",
+        "Spor gelişim için çok değerlidir ama **güç-itaat ilişkisi**, yoğun fiziksel etkileşim ve başarı odaklı kültürü yüzünden istismara da zemin hazırlayabilir.",
+        "İstismarın sporcuda fiziksel, zihinsel (kaygı, depresyon), davranışsal ve ekonomik ağır etkileri olabilir.",
+        "Cense ve Brackenridge'e göre riski artıran başlıca etmenler: **antrenör-sporcu güç dengesizliği**, **maddi/manevi kazançlar** ve kuvvetli **güven ilişkisinin** istismarı normalleştirmesi.",
+        "DSÖ istismarı 4 ana tipe ayırır: **fiziksel istismar**, **cinsel istismar**, **duygusal istismar** ve **ihmal**; **güvenli spor** ise bunlara karşı tüm önlemlerin alındığı sistemdir."
       ]
     },
     {
-      "heading": "Sporda Koruma Alanında Hak Temelli Anlayış",
-      "paragraphs": [
-        "Çocuk hakları, ihtiyaç temelli olmaktan ziyade hak temelli bir anlayıştır; hak sahipleri (çocuklar), yasal haklarını elde etmeleri ve savunmaları için cesaretlendirilen bireylerdir, hayır kurumlarının nesneleri değildir. Hak temelli yaklaşım şu özelliklere sahiptir: çocuklar ve hakları üzerinde belirgin bir odaklanma, ayrımcılık gözetmeme, hesap verilebilirlik, katılım, çocuğun yüksek yararı ve hak temelli ortak amaçlar için diğer kesimlerle birlikte çalışma.",
-        "Çocukların korunmasına ilişkin ilk uluslararası metin, 26 Eylül 1924'te kabul edilen Cenevre Bildirgesi'dir (imzacılardan biri Gazi Mustafa Kemal Atatürk'tür). Bu beş maddelik bildirge; çocuğun doğal gelişimi, beslenme/tedavi/eğitim hakkı, felaket anında önceliği, istismara karşı korunması ve yeteneklerinin insanlık yararına yetiştirilmesi gibi ilkeleri içerir, ancak yaptırım gücü olmadığından devletlerin iyi niyet beyanı niteliğinde kalmıştır.",
-        "1948'de BM Genel Kurulu, çocuk haklarına sınırlı yer veren İnsan Hakları Evrensel Bildirgesi'ni kabul etmiştir. Uzun çalışmalar sonucunda 1959'da BM Genel Kurulu, çocukların özel bakım ve korunmaya muhtaç olduğunu kabul eden 10 maddelik Çocuk Hakları Bildirgesi'ni kabul etmiştir; bu bildirgede ayrımcılık yasağı, özel korunma, ad/vatandaşlık hakkı, sosyal güvenlik, eğitim, eğlence ve ihmal/kötü muameleye karşı korunma gibi haklar yer alır.",
-        "20 Kasım 1989'da BM Genel Kurulu, çocuk haklarının anayasası niteliğindeki Çocuk Hakları Sözleşmesi'ni (ÇHS) oy birliğiyle kabul etmiştir. Sözleşme; yaşama ve gelişme hakkı (temel yaşam standartları, eğitim, oyun, dinlenme), eşitlik ve ayrım gözetmeme ilkesi (madde 2), katılım hakkı (madde 12 - çocuğun kendini ilgilendiren konularda görüşünü ifade etme hakkı) ve çocuğun yüksek yararı ilkesi (madde 3) üzerine kurulmuştur. Madde 19 ise çocuğun her türlü istismar ve kötü muameleye karşı korunması için devletlerin tüm önlemleri almasını öngörür ve bu madde spor örgütlerinin de çocuk istismarını önleme sorumluluğunu ortaya koyar. Türkiye sözleşmeyi 14 Eylül 1990'da imzalamış, Anayasa'nın 90. maddesi uyarınca sözleşme iç hukukta kanunlardan üstün konuma gelmiştir.",
-        "Avrupa Konseyi'nin 2007'de Lanzarote'de imzaya açılan ve 'Lanzarote Sözleşmesi' olarak bilinen Çocukların Cinsel Sömürü ve Cinsel İstismara Karşı Korunmasına İlişkin Sözleşmesi (Türkiye'de 2011'de yürürlüğe girmiştir), çocukların her tür cinsel sömürü ve istismarını engellemeyi, bu konuda mücadele etmeyi ve mağdurların haklarını korumayı amaçlar. Sözleşmenin 5. maddesi, spor alanında çocuklarla çalışacak kişilerin işe alımı, eğitimi ve bilinçlendirilmesine yönelik hükümler içerir; 18. madde cinsel istismarı tanımlar, 28. madde ağırlaştırıcı halleri (mağdura ciddi zarar, aile üyesi tarafından işlenme vb.) düzenler. Bu çerçevede Avrupa Konseyi, üye devletler arasında spor işbirliğini teşvik eden Sporda Genişletilmiş Kısmi Anlaşma'yı (EPAS) da oluşturmuştur; Türkiye 2020'de 38. üye olarak EPAS'a katılmıştır.",
-        "Uluslararası spor politika belgeleri de spora katılımı temel bir insan hakkı olarak tanımlar: UNESCO'nun 1978'de kabul ettiği Uluslararası Beden Eğitimi ve Spor Şartı'nın 1. maddesi, herkesin beden eğitimi ve spora temel bir erişim hakkına sahip olduğunu belirtir. IOC'nin Olimpik Antlaşması'nın 4. maddesi, spor faaliyetlerine katılımın bir insan hakkı olduğunu ve ayrımcılık yapılmaksızın olimpik ruh içinde spor yapma fırsatının herkese sağlanması gerektiğini ifade eder. BM Çocuk Hakları Sözleşmesi'nin 31. maddesi de çocukların dinlenme, oyun ve yaşına uygun eğlence etkinliklerine katılma hakkını güvence altına alır; bu üç belge birlikte, güvenli ve uygun ortamlarda spor yapmanın her çocuğun hakkı ve devletlerin sorumluluğu olduğunu teyit eder."
+      "heading": "Çocuk Hakları: Kısa Tarih",
+      "emoji": "📜",
+      "bullets": [
+        "**Çocuk hakları**, ihtiyaç değil **hak temelli** bir anlayıştır: çocuklar haklarını savunabilen bireylerdir, yardım nesnesi değildir.",
+        "Hak temelli yaklaşımın özellikleri: **ayrımcılık gözetmeme**, **hesap verilebilirlik**, **katılım** ve **çocuğun yüksek yararı**.",
+        "Çocuk korumaya ilişkin **ilk uluslararası metin**, 1924'teki **Cenevre Bildirgesi**'dir (imzacılardan biri Atatürk'tür) ama yaptırım gücü yoktu.",
+        "1959'da 10 maddelik Çocuk Hakları Bildirgesi, 1989'da ise çocuk haklarının anayasası sayılan **Çocuk Hakları Sözleşmesi (ÇHS)** kabul edildi.",
+        "ÇHS'nin madde 19'u devletlere çocuğu her türlü istismara karşı koruma yükümlülüğü verir, spor örgütleri de bu sorumluluğu taşır; Türkiye sözleşmeyi 1990'da imzaladı ve Anayasa md.90 ile iç hukukta kanunlardan üstün kıldı.",
+        "Avrupa Konseyi'nin **Lanzarote Sözleşmesi**'nin **5. maddesi**, spor alanında çocuklarla çalışacakların işe alımı, eğitimi ve bilinçlendirilmesini düzenler.",
+        "UNESCO'nun Beden Eğitimi ve Spor Şartı, IOC'nin Olimpik Antlaşması ve BM ÇHS (madde 31), spora katılımı herkes için temel bir **insan hakkı** sayar."
       ]
     },
     {
-      "heading": "Sporda Çocuk İstismarı: Genel Çerçeve ve Fiziksel İstismar",
-      "paragraphs": [
-        "Çocuğun sağlığını, fiziksel ve psikososyal gelişimini olumsuz etkileyen davranışlar istismar olarak tanımlanır. Spor, bir yandan çocukların fiziksel, zihinsel, duygusal ve sosyal gelişimine önemli katkılar sağlarken, barındırdığı güç ve itaat kültürü nedeniyle özellikle elit sporcuları istismara karşı savunmasız bırakabilmektedir; araştırmacılar, seçkin seviyeye ulaşan sporcuların kırılgan bir yapıya sahip olduğunu ve verdikleri emek karşısında maruz kaldıkları yıpratıcı davranışları göz ardı ederek sadece performansa odaklandıklarını göstermiştir.",
-        "UNICEF, spor alanında görülebilecek istismar biçimlerini genel çerçevede şöyle sıralamıştır: performans ya da vücut şekli hakkında psikolojik aşağılama, performansı artırmak için aşırı baskı, onur kırıcı takıma kabul ritüelleri, fiziksel ceza (dayak) uygulanması, aşırı risk alarak yaralanmaya neden olma, doping/performans artırıcı kullandırma, alkol ya da bağımlılık yapan madde kullanımı için akran baskısı, yaralı sporcunun oyundan çıkarılmaması, fiziksel egzersizin ceza olarak kullanılması ve yetersiz dinlenme/bakım sağlanmaması.",
-        "Uluslararası spor federasyonları, DSÖ'nün sınıflandırmasını temel alarak fiziksel, duygusal, cinsel istismar ve ihmali 4 temel istismar tipi olarak ele alır. Fiziksel istismar; IOC'ye göre fiziksel travma veya yaralanmaya neden olan delme, dayak, tekme, ısırma, yanma gibi kasıtlı ve hoş olmayan eylemlerdir; DSÖ'ye göre ise çocuğun yaşamına, gelişimine, bedenine veya onuruna zarar veren ya da zarar verme ihtimali olan hareketlerde bulunma ve çocuğun kaza dışı her türlü yaralanmasına sebep olmadır; en yaygın rastlanılan ve belirlenmesi en kolay istismar tipidir. Spor ortamında görülen fiziksel istismar biçimleri arasında vurmak, tekmelemek, saç/kulak çekmek, itmek, cimciklemek, takıma kabul ritüelleri, acı veren fiziksel cezalar, tükenmişken performansa zorlama ve sıklet için aşırı kilo aldırıp verdirme sayılabilir; göstergeleri ise açıklanamayan morarmalar, çoklu yanıklar, kırık kemikler ve haşlanmış deri gibi belirtilerdir."
+      "heading": "İstismar ve Fiziksel İstismar",
+      "emoji": "🥊",
+      "bullets": [
+        "İstismar, çocuğun sağlığına ve gelişimine zarar veren davranışlardır; elit sporcular güç-itaat kültürü yüzünden özellikle risk altındadır.",
+        "UNICEF'e göre spor istismarı; psikolojik aşağılama, aşırı performans baskısı, onur kırıcı kabul ritüelleri, fiziksel ceza, doping zorlaması ve yetersiz dinlenme gibi birçok biçimde görülebilir.",
+        "**Fiziksel istismar**, kasıtlı olarak bedensel travma/yaralanmaya neden olan eylemlerdir (IOC tanımı) ve en yaygın, en kolay fark edilen istismar tipidir.",
+        "Spor ortamında fiziksel istismar örnekleri: **vurmak**, tekmelemek, saç/kulak çekmek, itmek, acı veren kabul ritüelleri, tükenmişken performansa zorlamak ve sıklet için aşırı kilo aldırıp verdirmek.",
+        "Göstergeleri arasında açıklanamayan morarmalar, çoklu yanıklar, kırık kemikler ve haşlanmış deri izleri sayılabilir."
       ]
     },
     {
-      "heading": "Duygusal İstismar",
-      "paragraphs": [
-        "Duygusal istismar, bir kişi tarafından çocuğun psikolojik ve ruhsal gelişimine zarar veren veya zarar verme ihtimali olan davranışlardır; spor ortamında sporcu ile kritik ilişki içindeki bir kişi (antrenör vb.) tarafından yapılan, genellikle temassız davranışlar şeklinde ortaya çıkar. Gündelik yaşamda en sık rastlanan istismar tipi olup spor ortamında da en sık görülen ve en geniş olumsuz etki alanına sahip istismar türüdür; bunun nedeni, öfkeli bağırma ya da aşırı yüksek hedefler koyma gibi davranışların çoğu zaman 'motivasyon aracı' olarak normal kabul edilmesi ve bu nedenle kanıtlanmasının zor olmasıdır.",
-        "Duygusal istismar fiziksel biçimde (örneğin sporcuya cisim fırlatma) veya sözel biçimde (bağırarak küçümseme, aşağılama, isim takma) ortaya çıkabilir; ayrıca ilgi ve destek göstermemek (ağlayan sporcuya duyarsız kalmak, yok sayma, ayrımcılık) de bu kapsama girer. Antrenörlerin gerçekçi olmayan yüksek hedefler koyması, performans baskısı nedeniyle sporcuyu sürekli eleştirmesi, küçümsemesi ya da günah keçisi ilan etmesi de duygusal yıkıma neden olabilir. Çocuklar gelişim süreçlerinde farklılık gösterdiğinden, bir sporcunun fiziksel özellikleri (kısa/uzun boylu olması vb.) nedeniyle lakap takılması veya pasifleştirilmesi de duygusal gelişimi olumsuz etkiler.",
-        "Spor ortamında en yaygın duygusal istismar biçimleri şunlardır: sporcuya değersiz olduğunu hissettirmek, sürekli görmezden gelmek, yaş/seviyeye göre aşırı yüksek hedeflerle baskı altında hissettirmek, küçük düşürmek, öfkeyle bağırmak, tehdit etmek, utandırmak, takımın başarısızlığını belirli bir sporcuya yüklemek, zorbalık yapmak, alay etmek, lakap takmak, olumsuz iletişim dili kullanmak ve sporcunun kendi görüşlerini ifade etmesine izin vermemek. Önlenmesi için her sporcuya eşit mesafe ve ilgiyle davranılması gerekir."
+      "heading": "Görünmeyen Yara: Duygusal İstismar",
+      "emoji": "💔",
+      "bullets": [
+        "**Duygusal istismar**, çocuğun psikolojik gelişimine zarar veren, genellikle temassız davranışlardır; sporda en sık görülen istismar türüdür.",
+        "Öfkeli bağırma veya aşırı yüksek hedefler çoğu zaman 'motivasyon' sanılıp normalleştirildiği için fark edilmesi zordur.",
+        "Cisim fırlatma gibi fiziksel biçimlerde ya da bağırma, aşağılama, isim takma gibi sözel biçimlerde ortaya çıkabilir.",
+        "İlgisizlik, yok sayma, ayrımcılık ve gerçekçi olmayan hedeflerle sürekli eleştirme de duygusal yıkıma yol açar.",
+        "En yaygın örnekler: **değersiz hissettirmek**, görmezden gelmek, **küçük düşürmek**, öfkeyle bağırmak, tehdit etmek, başarısızlığı bir sporcuya yüklemek, **lakap takmak** ve **olumsuz iletişim dili** kullanmak.",
+        "Önlenmesi için her sporcuya eşit mesafe ve ilgiyle davranılmalıdır."
       ]
     },
     {
-      "heading": "Cinsel İstismar",
-      "paragraphs": [
-        "Cinsel istismar; yetişkinlerin cinsel arzu ve gereksinimlerini karşılamak için çocuk ya da ergeni güç kullanarak, tehdit ya da kandırma yoluyla kullanmasıdır; çocuğun ne olup bittiğinin farkında olup olmaması önemli değildir. Bazı bireyler çocuklara erişmek için kasıtlı olarak spor etkinliklerini hedef alabilir ve antrenörlük rolünü uygunsuz fiziksel temasları gizlemek için kullanabilir; bu nedenle uluslararası spor örgütleri fiziksel temas standartları getirmiştir: temas spor becerisi geliştirme, yaralanma tedavisi/önleme veya başarı kutlama amacıyla yapılmalı, genital ve özel bölgelere dokunulmamalı, temas öncesi açıklama yapılıp onay alınmalı ve temas gizli/gözden ırak yerlerde uygulanmamalıdır.",
-        "Sporcuların sürekli seyahat etmesi de cinsel istismar riskini artırabileceğinden, çalışanların çocuklarla aynı odada kalmaması, aynı cinsiyetteki sporcuların birlikte kalması ve kapı açık olmadan bireysel toplantı yapılmaması gibi önlemler alınmıştır. Ayrıca sporcuların tuvalet/soyunma odası gibi mahremiyet alanlarında görüntülenmesi ve kişisel bilgilerinin paylaşılan görsellerde yer alması, istismarcıların çocukla güven ilişkisi kurup onu savunmasız bırakmasına zemin hazırlayabileceğinden önemli bir risktir.",
-        "Spor ortamında en yaygın cinsel istismar biçimleri; cinsel eylem talep etme, cinsel içerikli oyunlar/uygunsuz dokunuşlara izin verme, teşhircilik, uygunsuz/gereksiz temas, cinsel içerikli görsel/ses kaydına maruz bırakma, cinsel içerikli söz ve şakalar ile çocuğa ait uygunsuz görüntünün kaydedilmesi/paylaşılmasıdır. Mağdurlar genellikle antrenörün sahip olduğu mutlak güç/otorite ve kariyerlerinin ona bağlı olması nedeniyle durumu açığa çıkaramaz; IOC, 2007 bildirgesinde üye ülkelerden sıfır tolerans politikaları geliştirmelerini, uygulamaları izlemelerini, eğitim programları oluşturmalarını ve ailelerle işbirliği yapmalarını istemiştir."
+      "heading": "Cinsel İstismarı Tanı",
+      "emoji": "🚫",
+      "bullets": [
+        "**Cinsel istismar**, yetişkinlerin güç, tehdit veya kandırma yoluyla çocuğu cinsel amaçla kullanmasıdır; çocuğun farkında olup olmaması önemli değildir.",
+        "Bazı kişiler çocuğa erişmek için antrenörlük rolünü kötüye kullanabilir; bu yüzden temas kuralları vardır: sadece beceri/tedavi amaçlı, genital bölgeye dokunmadan, önceden izin alarak ve gizli olmayan ortamlarda.",
+        "Seyahatler riski artırır; bu yüzden çalışanlar çocuklarla aynı odada kalmaz, aynı cinsiyetteki sporcular birlikte kalır, kapı açık olmadan birebir görüşme yapılmaz.",
+        "En yaygın örnekler: cinsel eylem talep etme, teşhircilik, uygunsuz/gereksiz temas, cinsel içerikli görüntü/ses kaydı, cinsel şakalar ve uygunsuz görüntü paylaşımı.",
+        "Mağdurlar, antrenörün otoritesine ve kariyerlerinin ona bağlı olmasına bağlı olarak durumu açığa çıkaramayabilir.",
+        "IOC, 2007'de üye ülkelerden **sıfır tolerans** politikaları, eğitim programları ve aile işbirliği istemiştir."
       ]
     },
     {
-      "heading": "İhmal",
-      "paragraphs": [
-        "İhmal, kısaca yapılması gerekeni yapmamak olarak tanımlanır; çocuğa bakmakla yükümlü kişilerin beslenme, giyim, tıbbi, sosyal ve duygusal gereksinimler gibi yükümlülüklerini yerine getirmemesidir. Örneğin antrenman malzemelerinin uçlarının sivri olması nedeniyle sporcunun yaralanması ihmal olarak tanımlanır; spor alanlarında önlenebilecek bir nedenden dolayı sporcunun zarar görmesi kazadan ziyade ihmal kapsamına girer.",
-        "İhmal, fiziksel, cinsel ve duygusal boyutlarda ele alınabilir ancak bu boyutları birbirinden ayırmak güçtür: çocuğa gereken sosyal kaynakların sağlanmaması fiziksel ihmal, cinsel gelişimine gereken önemin verilmemesi cinsel istismara yönelik ihmal, çocuğun sevilmemesi veya takımda kabul görmemesine seyirci kalınması ise duygusal ihmal örnekleridir. Sporcuyu disiplin amacıyla yalnız/denetimsiz bırakmak gibi ceza yöntemleri de zamanla içine kapanıklık, aşırı hassasiyet gibi kişilik özelliklerine yol açarak ihmal ve duygusal istismara neden olabilir.",
-        "Sporda görülen en yaygın ihmal örnekleri: uygun olmayan ekipmanla antrenman yaptırmak, beslenme konusunda eksik bilgi vermek, sağlık/sakatlık durumunu dikkate almadan katılım istemek, aşırı sıcak/soğukta spor yaptırmak, yanlış tedavi yöntemleri uygulatmak, seyahat/konaklamada yetersiz denetim sağlamak, akran zorbalığına müsaade etmek, izinsiz görüntü paylaşmak, elverişsiz yerlerde antrenman yaptırmak, istismar şüphelerini görmezden gelmek ve sporcuları fiziksel/duygusal zararlardan korumamaktır."
+      "heading": "İhmal: Eksik Kalan Özen",
+      "emoji": "⚠️",
+      "bullets": [
+        "**İhmal**, yapılması gerekeni yapmamaktır; çocuğa bakmakla görevli kişilerin beslenme, tıbbi, sosyal ve duygusal ihtiyaçları karşılamamasıdır.",
+        "Örnek: antrenman malzemesinin sivri olması yüzünden sporcunun yaralanması bir **kazadan** değil, **ihmalden** kaynaklanır - önlenebilir zararlar ihmal sayılır.",
+        "İhmal fiziksel, cinsel ve duygusal boyutlarda olabilir; örneğin çocuğun sevilmemesine veya takımda dışlanmasına seyirci kalmak duygusal ihmaldir.",
+        "En yaygın örnekler: **uygun olmayan ekipmanla antrenman yaptırmak**, eksik beslenme bilgisi vermek, sağlık/sakatlık durumunu göz ardı etmek, aşırı sıcak/soğukta çalıştırmak.",
+        "Ayrıca: **seyahat/konaklamada yetersiz denetim**, **akran zorbalığına müsaade etmek**, izinsiz görüntü paylaşmak ve istismar şüphelerini görmezden gelmek de ihmal örnekleridir."
       ]
     }
   ],

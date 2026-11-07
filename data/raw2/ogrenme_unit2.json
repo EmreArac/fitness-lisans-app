@@ -19,52 +19,81 @@
   ],
   "summary": [
     {
-      "heading": "Beceri Öğrenimi Alanı ve Motor Davranış Bilimleri",
-      "paragraphs": [
-        "İnsan hareketlerinin en optimum düzeyde nasıl ortaya konabileceğini inceleyen bilim alanlarından biri motor davranıştır. Motor davranış alanı birbiriyle ilişkili üç alt alanın birleşiminden oluşur: Motor Öğrenme, Motor Gelişim ve Motor Kontrol. Ülkemizde motor öğrenme alanına genel olarak \"Beceri Öğrenimi\" denilirken, motor gelişim alanı için \"Psikomotor Gelişim\" ifadesi kullanılır.",
-        "Beceri Öğrenimi (Motor Öğrenme), alıştırma ve deneyim sonucu harekette meydana gelen değişiklikleri; yani hareketlerin ne şekilde kazanıldığını, öğrenildiğini inceler. Bu alan öğrenmeyi hızlandıran/artıran veya yavaşlatan/gerileten etkenleri araştırır ve bir hareketi sergilerken gerekli olan algı, dikkat ve karar verme gibi süreçleri incelediği için psikoloji alanından yoğun şekilde yararlanır. Önemli bir ayrım: sporcuda gelişim, büyüme veya enerji sistemlerinin antrenman sonucu gelişmesiyle oluşan değişimler beceri öğrenimi kapsamında değerlendirilmez.",
-        "Motor Gelişim (Psikomotor Gelişim), hareketlerin çocukluk döneminde nasıl ve neden geliştiğini, yaşla birlikte nasıl gerilediğini inceler; gelişim yaşa bağlı olarak pozitif olabileceği gibi yaşlılıkla birlikte bir kayıp anlamına da gelebilir. Motor Kontrol ise hareketlerin merkezi sinir sistemi tarafından kas ve eklem hareketleri üzerinden nasıl organize edildiğini inceleyen, biyomekanik alanıyla yakın bilgi alışverişi içinde olan teorik temelli bir alandır. Bir antrenörün sporcularının hareket ve becerilerini geliştirebilmesi için bu üç alanın temel kavramlarını bilmesi gerekir."
+      "heading": "Motor Davranış Bilimi: Üç Kardeş Alan",
+      "emoji": "🧠",
+      "bullets": [
+        "**Motor Davranış**, insan hareketlerinin en iyi nasıl yapılacağını inceleyen bilim alanıdır ve üç alt alandan oluşur.",
+        "Bu üç alan: **Motor Öğrenme** (ülkemizde \"Beceri Öğrenimi\"), **Motor Gelişim** (\"Psikomotor Gelişim\") ve **Motor Kontrol**.",
+        "**Beceri Öğrenimi**, alıştırma ve deneyim sonucu harekette oluşan değişiklikleri inceler; algı, dikkat ve karar verme gibi süreçlerden yararlanır.",
+        "Sporcunun büyüme veya enerji sistemlerinin antrenmanla gelişmesi beceri öğrenimi kapsamına girmez.",
+        "**Motor Gelişim**, hareketlerin çocuklukta nasıl geliştiğini ve yaşla nasıl gerilediğini inceler.",
+        "**Motor Kontrol**, hareketlerin merkezi sinir sistemi tarafından kas ve eklemler üzerinden nasıl organize edildiğini inceler; biyomekanikle bağlantılıdır.",
+        "İyi bir antrenör olmak için bu üç alanın temellerini bilmek gerekir 💪."
       ]
     },
     {
-      "heading": "Öğrenme – Performans İlişkisi",
-      "paragraphs": [
-        "Beceri öğrenimi alanının anlaşılması için öncelikle öğrenme kavramının dört temel özelliği bilinmelidir: (1) Öğrenme bir süreçtir, zaman içinde gelişir; (2) öğrenme alıştırma/pratik yapmanın ve/veya deneyimin sonucunda oluşur; (3) öğrenme, kapasitede oluşan veya oluştuğu varsayılan göreceli kalıcı değişimlerdir; (4) öğrenme doğrudan gözlemlenemez, performans üzerinden çıkarım yapılması gerekir.",
-        "Performans ise genel olarak bir eylem, \"beceriyi uygulama eylemi\" olarak tanımlanır. Performans kalıcı değildir ve çok çeşitli etkenlere bağlı olarak değişebilir: yorgunluk, hastalık veya dikkatsizlik performansta azalmaya; yüksek motivasyon, şans veya takviye besinler ise artışa yol açabilir. Bu nedenle performans ile ölçülen eylem, bazen kalıcı olduğu varsayılan öğrenmeden farklılık gösterebilir; bir antrenman seansı sonrası yapılan test genellikle o anki performansı yansıtır, gerçek öğrenmeyi ölçmek için ölçümün bir süre sonra (saat, gün veya hafta) yapılması gerekir.",
-        "Özetle: bireyin alıştırma ve deneyim sonucu motor becerileri uygulama yeterliliğinde ortaya çıkan göreli ve kalıcı davranış değişikliğine öğrenme denir; performans ise bu öğrenmenin dışa vurulan, değişken ve geçici göstergesidir."
+      "heading": "Öğrenme mi, Performans mı?",
+      "emoji": "📈",
+      "bullets": [
+        "**Öğrenme**, zamanla gelişen bir **süreç**tir.",
+        "Alıştırma ve/veya deneyimin sonucunda oluşur.",
+        "Kapasitede meydana gelen göreceli ve **kalıcı** bir değişikliktir.",
+        "Doğrudan gözlemlenemez; sadece **performans** üzerinden çıkarım yapılabilir — bu dördü öğrenmenin temel özellikleridir.",
+        "**Performans**, \"beceriyi uygulama eylemi\"dir ve kalıcı değildir.",
+        "Yorgunluk, hastalık veya dikkatsizlik performansı düşürür; yüksek motivasyon veya şans ise artırabilir.",
+        "Gerçek öğrenmeyi ölçmek için test, antrenmandan bir süre (saat/gün/hafta) sonra yapılmalıdır."
       ]
     },
     {
-      "heading": "Beceri Sınıflaması: Tanım ve Tek Boyutlu Sınıflama",
-      "paragraphs": [
-        "Guthrie (1952)'ye göre beceri, \"belirli bir sonuca maksimum kesinlik ve minimum enerji ve/veya zaman harcayarak ulaşma yeteneği\"dir. Bir hareketin beceri sayılabilmesi için ulaşılması gereken bir hedef veya amaç olmalıdır; amaç yoksa o eylem sadece \"hareket\" olarak adlandırılır. Spor bilimleri alanında bu kavram \"Motor Beceri\" olarak ele alınır: bir amaca yönelik olarak yapılan ve öğrenilmesi gereken istemli davranış veya göreve motor beceri denir. Motor beceriyi reflekslerden ayıran temel özellik istemli olmasıdır; reflekslerin çoğu iskelet kaslarıyla gerçekleştirilse de çok hızlı, programlanmış ve istemsizdir.",
-        "Motor becerilerin sayıca çok fazla olması, onları belirli özelliklere göre sınıflama ihtiyacını doğurmuştur. Tek boyutlu sınıflama, becerileri tek bir özelliğe göre dört farklı şekilde gruplandırır. Kullanılan kas büyüklüğüne göre beceriler büyük kas kitlesi (kaba) ve küçük kas kitlesi (ince) olarak ikiye ayrılır: kaba beceriler kesinliğin çok önemli olmadığı, büyük kas gruplarıyla yapılan hareketlerdir (yürüme, atlama); ince beceriler ise göz-el koordinasyonu ve yüksek kesinlik gerektiren hareketlerdir (resim yapmak, yazı yazmak, dikiş-nakış).",
-        "Hareketin başlama ve bitiş netliğine göre beceriler kesik, seri ve devamlı olmak üzere üçe ayrılır. Kesik beceri, başı ve sonu belli, genellikle kısa süreli hareketlerdir (top atma, topa vurma). Seri beceri, birçok kesik hareketin art arda birleşmesiyle oluşan karmaşık harekettir (araba vitesi değiştirmek, cimnastikte yer hareketleri). Devamlı beceri ise başı ve sonu tam olarak belli olmayan, dakikalarca sürebilen hareketlerdir (yüzme, bisiklet).",
-        "Çevrenin tahmin edilebilirlik düzeyine göre beceriler açık ve kapalı olarak ikiye ayrılır. Açık beceride çevresel şartlar değişkendir ve tahmin edilemez (kaleci için penaltı atışı, ormanlık alanda koşu); kapalı beceride çevresel şartlar sabittir ve tahmin edilebilir, kişi eylemden önce plan yapabilir (dart atışı, daktilo kullanımı). Son olarak motor ve bilişsel öğelerin önemine göre beceriler motor ve zihinsel olarak ikiye ayrılır: motor becerilerde başarıyı belirleyen temel unsur hareketin NASIL yapıldığıdır (ağırlık kaldırmak, yüksek atlama); zihinsel becerilerde ise başarıyı belirleyen unsur NE yapıldığıdır (satranç oynamak, antrenörlük)."
+      "heading": "Beceri Nedir? Tek Boyutlu Sınıflama",
+      "emoji": "🏃",
+      "bullets": [
+        "**Guthrie (1952)**'ye göre beceri, bir sonuca maksimum kesinlik ve minimum enerji/zamanla ulaşma yeteneğidir.",
+        "Bir hareketin beceri sayılması için bir **hedefi** olmalı; hedefsiz eylem sadece \"hareket\"tir.",
+        "**Motor Beceri**: bir amaca yönelik, öğrenilmesi gereken **istemli** davranıştır.",
+        "Reflekslerden farkı istemli olmasıdır; refleksler hızlı, programlanmış ve **istemsiz**dir.",
+        "Kas büyüklüğüne göre: **kaba beceri** (büyük kas, yürüme-atlama) ve **ince beceri** (küçük kas, yüksek kesinlik, yazı yazma).",
+        "Başlama-bitişe göre: **kesik beceri** (top atma), **seri beceri** (vites değiştirme) ve **devamlı beceri** (başı-sonu belirsiz, dakikalarca sürer: yüzme, bisiklet).",
+        "Çevreye göre **açık** (tahmin edilemez: penaltı) / **kapalı** (sabit: dart) beceri; öğelere göre **motor beceri** (nasıl yapıldığı önemli: halter) / **zihinsel beceri** (ne yapıldığı önemli: satranç)."
       ]
     },
     {
-      "heading": "Çok Boyutlu Beceri Sınıflaması",
-      "paragraphs": [
-        "Tek boyutlu sınıflamanın bazı becerileri tam olarak tanımlayamaması nedeniyle Gentile (2000) tarafından çok boyutlu sınıflama önerilmiştir. Bu sınıflama, motor becerilerin çevresel şartlardan, zorluktan ve kullanılan malzemelerden nasıl etkilendiğini daha iyi ifade etmeyi amaçlar ve iki ana boyuttan oluşur: Düzenleyici Şartlar ve Hareket Gereklilikleri.",
-        "Düzenleyici Şartlar, bir beceriyi başarıyla gerçekleştirmek için hareket özelliklerini belirleyen çevresel faktörleri tanımlar; alt boyutları çevre şartları (çevre sabit mi yoksa değişken mi?) ve denemeler (denemeler arası tepkilerde değişkenlik var mı?) dır. Hareket Gereklilikleri ise vücut hareketlerine ve nesne manipülasyonuna göre beceriyi yapabilmek için gerekli unsurları tanımlar; alt boyutları vücut hareketleri (uygulayıcının mekân değiştirmesi gerekiyor mu?) ve nesne manipülasyonu (bir cismi manipüle etmesi gerekiyor mu?) dır.",
-        "Her bir ana boyutun iki alt boyutu olması, motor becerilerin toplamda 16 farklı şekilde tanımlanmasına imkân verir (Tablo 2.1, Gentile 2000). Sınıflamanın en sol üst bölümü en basit hareketleri temsil ederken, sağa ve aşağı doğru ilerledikçe hareketler zorlaşır; en zor hareketler tablonun en alt sağ bölümünde yer alır. Bir sporcuya basit formdan başlayarak kademeli olarak zorlaştırma yapılmak isteniyorsa, alıştırma planlaması sol üst bölgeden başlayıp aşamalı olarak ilerletilmelidir."
+      "heading": "Gentile'nin Çok Boyutlu Haritası",
+      "emoji": "🗺️",
+      "bullets": [
+        "Tek boyutlu sınıflama yetersiz kalınca **Gentile (2000)** çok boyutlu sınıflamayı önerdi.",
+        "İki ana boyut: **Düzenleyici Şartlar** ve **Hareket Gereklilikleri**.",
+        "Düzenleyici Şartlar: çevre sabit mi değişken mi, denemeler arası tepki değişkenliği var mı?",
+        "Hareket Gereklilikleri: vücut yer değiştirmesi ve nesne manipülasyonu gerekiyor mu?",
+        "Bu boyutların alt dalları ile toplam **16 farklı** beceri tanımlanabilir.",
+        "En basit hareketler tablonun sol üstünde, en zor hareketler sağ altında yer alır.",
+        "Antrenman basitten zora, sol üstten başlanarak kademeli ilerletilmelidir 📈."
       ]
     },
     {
-      "heading": "Karar Vermeyi Etkileyen Faktörler: Reaksiyon Zamanı",
-      "paragraphs": [
-        "Motor becerilerin öğrenilmesi, kasların istenen biçimde, zamanda ve sürede kasılmasını gerektiren karmaşık bir süreçtir. Açık becerilerde olduğu gibi değişen çevre şartlarına uyum sağlayarak doğru ve hızlı karar verebilme kapasitesi de gereklidir. \"Algı\", bilgiye anlam yükleme işlevi olarak tanımlanır ve karar vermenin en önemli ve ilk unsurudur (örneğin bir kalecinin penaltı sırasında topun yönünü algılaması).",
-        "Uyaranın verilmesi ile tepkinin başlangıcı arasındaki süreye reaksiyon zamanı denir. Reaksiyon zamanı çalışmaları yalnızca sprint branşlarında olduğu gibi karar vermenin hızını göstermek için değil, aynı zamanda karar vermenin doğruluğunu (verimliliğini) anlamak için de yapılır: basit reaksiyon zamanı hızı gösterirken, çoklu/seçici reaksiyon zamanı aynı zamanda doğruluğu da gösterir. Birden fazla uyaran ve her bir uyaran için belirlenmiş ayrı bir tepki durumuna seçici reaksiyon zamanı denir (örneğin trafik ışığının farklı renklerine göre farklı tepki vermek gerekmesi).",
-        "Reaksiyon zamanını etkileyen etkenler arasında şunlar sayılır: uyaranların sayısının artması; uyarana cevap vermek için yapılacak hareketin karmaşıklığı; sezinleme (geçmiş deneyimlerin sınırlı olması nedeniyle uyaran verilmeden önce zamanlama ve mekân konusunda tahmin yapamamak); kısa aralıklarla ardı ardına uyarı niteliğinde verilen hareketlere tepki vermek zorunda kalmak (sporda aldatma gibi); ve daha önce alışılmış durumların tam tersi bir doğrultuda hareket etmek zorunda kalmak (örneğin Türkiye'de araba kullanmayı öğrenen birinin İngiltere'de araba kullanması). Bu durumların tersi, yani uyaran sayısının azlığı, basit hareketler ve tutarlı uyarı-tepki ilişkisi, hızlı ve doğru karar vermeye yol açar."
+      "heading": "Reaksiyon Zamanı: Ne Kadar Hızlı Karar Veriyorsun?",
+      "emoji": "⚡",
+      "bullets": [
+        "**Algı**, bilgiye anlam yükleme işlevidir ve karar vermenin ilk adımıdır (örn. kalecinin topun yönünü algılaması).",
+        "**Reaksiyon Zamanı**: uyaranın verilmesi ile tepkinin başlaması arasındaki süre.",
+        "**Basit reaksiyon zamanı** hızı gösterir; **seçici (çoklu) reaksiyon zamanı** hem hızı hem doğruluğu gösterir.",
+        "**Seçici reaksiyon zamanı**: birden fazla uyarana, her birine özel bir tepki vermektir (örn. trafik ışığının renklerine göre farklı tepki).",
+        "Reaksiyon zamanını uzatan etkenler: uyaran sayısının artması, hareketin karmaşıklığı, **sezinleme** yapamamak (geçmiş deneyim azlığı).",
+        "Kısa aralıklı ardışık uyaranlara tepki (sporda **aldatma**) ve alışılmışın tam tersi bir hareket (Türkiye'den İngiltere'ye araba kullanmaya geçmek gibi) de reaksiyonu yavaşlatır.",
+        "Az uyaran, basit hareket ve önceden bilgi vererek **sezinlemeyi** kolaylaştırmak reaksiyon zamanını azaltır 🏎️."
       ]
     },
     {
-      "heading": "Karar Vermeyi Etkileyen Faktörler: Dikkat ve Canlılık Düzeyi",
-      "paragraphs": [
-        "TDK'ye göre dikkat, \"duygularla düşünceyi bir şey üzerinde toplama\" olarak basitçe tanımlanır. Ders kitabındaki tanıma göre ise \"aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına dikkat denir.\" Herhangi bir öğrenmenin gerçekleşebilmesi için dikkatin verilmesi gerekir; antrenörün anlattığı bir hareketi sporcunun dikkatle dinlememesi öğrenmeyi olumsuz etkiler.",
-        "Beceri öğreniminde dikkat kapasitesinin sınırlı olduğu bilinmelidir: çevre veya görevin zorluk derecesi arttıkça, o göreve ayrılan dikkat payı büyür ve dolayısıyla eşzamanlı yürütülecek başka bir işe ayrılabilecek dikkat kapasitesi azalır. Bu nedenle özellikle açık beceriler öğretilirken yeni başlayanlar için hareketler mümkün olduğunca basitleştirilmeli; açık beceriler önce kapalı hale getirilip hareket koordinasyonu sağlanmalı, ardından çevreyi algılama ve uyum sağlamaya yönelik alıştırmalara geçilmelidir. Deneyimsiz sporculardan tek seferde bir işte başarı beklenirken, kişi uzmanlaştıkça aynı anda birden fazla işi başarıyla yapabilir (örneğin basketbolda top sürerken hem topa hem rakibe dikkat edebilme).",
-        "Karar vermenin hızı ve doğruluğunu etkileyen diğer bir unsur canlılık düzeyidir; basitçe \"merkezi sinir sisteminin aktivasyonu\" olarak tanımlanır ve hem fizyolojik hem psikolojik süreçleri kapsar. Beceri öğrenimiyle ilişkisi bakımından Ters U Hipotezi önemlidir: canlılığın çok düşük veya çok yüksek olduğu durumlarda karar verme ve performans düşüktür; en üst düzey performans için öğrenilen/sergilenen becerinin türüne bağlı bir optimal canlılık seviyesi vardır. Küçük kas kitlesi gerektiren veya yüksek düzeyde karar verme içeren zihinsel becerilerde düşük optimal canlılık düzeyi; halter gibi karar verme süreçlerinin az olduğu büyük kas kitlesi becerilerinde yüksek optimal canlılık düzeyi gerekir. Canlılık düzeyi optimal noktaya kadar arttıkça performans artar, bu noktadan sonra devam eden artış performansı azaltır. Nitekim elit Muay-Thai sporcuları üzerinde yapılan bir araştırmada, yorgunluğun basit reaksiyon zamanını olumsuz etkilediği ancak seçenekli reaksiyon zamanının doğruluğunu anlamlı şekilde değiştirmediği bulunmuştur."
+      "heading": "Dikkat ve Canlılık Düzeyi",
+      "emoji": "👁️",
+      "bullets": [
+        "**Dikkat**: aynı anda birkaç nesne veya düşünceden birinin canlı ve belirgin şekilde zihin tarafından alınmasıdır.",
+        "Öğrenme için dikkat şarttır; antrenörü dikkatle dinlemeyen sporcu öğrenemez.",
+        "Dikkat kapasitesi **sınırlıdır**: bir görev zorlaştıkça ona ayrılan dikkat büyür, başka işe kalan dikkat **azalır**.",
+        "Yeni başlayanlara önce basit/kapalı hareketler öğretilmeli, sonra çevreye uyum alıştırmalarına geçilmelidir.",
+        "Sporcuya hareketi \"neden\" öğrendiğini açıklamak dikkatini toplamasına yardımcı olur 🎯.",
+        "**Canlılık Düzeyi**: merkezi sinir sisteminin aktivasyonudur; fizyolojik ve psikolojik süreçleri kapsar.",
+        "**Ters U Hipotezi**: çok düşük veya çok yüksek canlılıkta performans düşer; zihinsel becerilerde düşük, halter gibi büyük kas becerilerinde yüksek bir optimal canlılık seviyesi vardır."
       ]
     }
   ],

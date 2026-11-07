@@ -11,42 +11,63 @@
     "Denge kavramını tanımlayabilme",
     "Dengenin sportif performans açısından önemini açıklayabilme"
   ],
-  "keywords": ["Koordinasyon", "Hareketlilik", "Çeviklik", "Denge", "Antrenman"],
+  "keywords": [
+    "Koordinasyon",
+    "Hareketlilik",
+    "Çeviklik",
+    "Denge",
+    "Antrenman"
+  ],
   "summary": [
     {
       "heading": "Koordinasyon",
-      "paragraphs": [
-        "Koordinasyon şu şekilde tanımlanır: “kısa bir süre içerisinde zor hareketleri öğrenebilme ve değişik durumlarda amaca uygun çabuk bir şekilde tepki gösterebilme, her hareketin birbirini doğru olarak izlemesi ve istenilen kuvvetle meydana gelmesidir” (Koç, 2005). Meinel'e göre koordinasyon, tüm vücudun her tür hareketinin uyumudur; Sevim (2002) ise koordinasyonu, sporcunun karmaşık hareketleri kısa zamanda öğrenip değişik şartlarda çabuk ve amaca uygun uygulayabilme yeteneği olarak tanımlar. Fizyolojik açıdan koordinasyon, merkezî sinir sistemi ile iskelet-kas sisteminin kombine işbirliği, yani merkezî sinir sisteminin insan hareketlerini düzenlemesi olarak anlaşılır. Koordinatif yetenekler doğuştan kazanılmaz; antrenmanla geliştirilir, ancak kaliteli gelişim için birçok faktörün uyum içinde çalışması gerekir.",
-        "Koordinasyonu oluşturan temel faktörler arasında motorik uyum ve yer değiştirme yeteneği, sevk ve idare (kombinasyon) yeteneği, mekân-saha kavrama, denge, çok yönlülük, beceriklilik, hareket hissi, hareket akıcılığı ve yumuşaklığı, esneklik, ritim ve varyasyon yeteneği sayılabilir (Sevim, 2002). Koordinasyonu etkileyen faktörler ise vücut ağırlığı, boy, zamanlama, hareket dakikliği (göz-kas koordinasyonu, proprioseptif ve kinestetik duyarlılık), denge, reaksiyon zamanı, hareket sürati, hareketin yönü-uzaklığı, görerek nişanlama, kassal tansiyon, yaş, kondisyonel yeteneklerin yeterliliği, doğru teknikle öğrenim ve sakatlık geçmişi gibi geniş bir yelpazeyi kapsar (Koç, 2005; Özer, 2004). Örneğin kaslara oranla vücut ağırlığının fazla olması beceriyi sınırlar, kassal tansiyonun aşırı veya yetersiz olması ise hareketleri tutuk ya da kararsız kılar.",
-        "Koordinasyon üç şekilde sınıflandırılır: genel dinamik koordinasyon (koşma, yürüme, sıçrama gibi vücudun birçok bölümünün rol aldığı hareket zincirleri), parçalara ayrılmış koordinasyon (el-göz, ayak-göz gibi belirli bölümlerin görsel kontrolle yürütülen hareketleri) ve ayrı ayrı koordinasyon (kas gruplarının birbirinden bağımsız olarak çalışması) (Sevim, 1991).",
-        "Sportif performans açısından iyi bir koordinasyon kapasitesi, hareketin daha az enerjiyle ve daha verimli yapılmasını sağlar; sporcunun hızlı gerçekleştirmesi gereken hareketleri daha başarılı biçimde uygulamasına imkân verir (Schreiner, 2000). Koordinasyon, sporcunun öğrendiği teknik ve taktiği başarıyla uygulayabilmesini, bedenini fiziksel ve fizyolojik uyum içinde kullanabilmesini sağlar; aynı zamanda çabuk düşünmeyi gerektirdiğinden sporcunun mental gelişimine de katkıda bulunur (Erdoğan, 2014)."
+      "emoji": "🤹",
+      "bullets": [
+        "**Koordinasyon**, zor hareketleri kısa sürede öğrenip farklı durumlarda amaca uygun ve çabuk şekilde uygulayabilme yeteneğidir.",
+        "Fizyolojik olarak **merkezî sinir sistemi** ile **iskelet-kas sistemi**nin uyumlu işbirliğidir; **eklemler** ve **eklem bağları** da bu işbirliğine dahildir (kan sıvısı/dolaşım sistemi dahil değildir).",
+        "Doğuştan gelmez, **antrenmanla geliştirilir**.",
+        "Koordinasyonu oluşturan 12 faktör arasında motorik uyum, **sevk ve idare (kombinasyon) yeteneği**, mekân kavrama, denge, çok yönlülük, beceriklilik, **hareket hissi**, **hareket akıcılığı ve yumuşaklığı**, esneklik, **ritim** ve varyasyon yeteneği sayılır.",
+        "Vücut ağırlığı, boy, yaş, reaksiyon zamanı ve **kassal tansiyon** gibi etkenler koordinasyonu etkiler; örneğin aşırı kas gerginliği hareketleri tutuk yapar.",
+        "Üç türü vardır: **genel dinamik koordinasyon** (koşma, sıçrama gibi tüm vücudu kullanan hareket zincirleri), **parçalara ayrılmış koordinasyon** (el-göz gibi görsel kontrollü hareketler) ve **ayrı ayrı koordinasyon** (birbirinden bağımsız çalışan kas grupları).",
+        "İyi koordinasyon, hareketi az enerjiyle ve verimli yapmayı sağlar; teknik-taktik uygulamaya ve sporcunun mental gelişimine katkı sunar."
       ]
     },
     {
       "heading": "Hareketlilik",
-      "paragraphs": [
-        "Hareketlilik şu şekilde tanımlanır: “sporcunun hareketlerini eklemlerin müsaade ettiği oranda, geniş bir açıda ve değişik yönlere uygulayabilme yeteneği” (Sevim, 1997). Hareketlilik, esneklikle geliştirilir; ancak esneklik bir motorik özellik değil, kasın kendi özelliğidir (Çakıroğlu, 1997). Branşın gerektirdiği esnekliği iyi gelişmiş sporcularda sakatlanma riski daha düşüktür. Hareketliliğin gelişim devreleri yaşa göre değişir: 3-10 yaş arası çok iyi, 10-13 yaş iyi, 12-15 yaş kötü, 15-19 yaş yeniden iyi seviyededir; bu nedenle hareketlilik çalışmaları küçük yaşlardan başlayıp yaşam boyu sürmelidir (Sevim, 1997).",
-        "Hareketliliği etkileyen faktörler arasında eklem yapısı, kas liflerinin ve derinin gerilme yeteneği, kasların ısınma derecesi, yorgunluk, merkezî sinir sisteminin uygulama süreci, günün saati ve dış ısı, yüklenmenin kalitesi ile yaş ve cinsiyet farkı sayılabilir.",
-        "Hareketlilik üç şekilde sınıflandırılır. Genel ve özel hareketlilik ayrımında genel hareketlilik, omurga-kalça-omuz gibi büyük eklem sistemlerindeki salınım genişliğini, özel hareketlilik ise hareketin gerektirdiği belirli eklemlerin (örneğin cimnastikte omurga, buz patininde diz) çalışmasını ifade eder. Aktif ve pasif hareketlilik ayrımında aktif hareketlilik, kasın kendi kuvvetiyle dış yardım almadan ulaşabildiği en büyük açı; pasif hareketlilik ise dışarıdan uygulanan kuvvetle geliştirilen esnekliktir (Sevim, 1997). Statik ve dinamik hareketlilik ayrımında statik hareketlilik, eklemin belirli bir pozisyonda süreli korunması (örneğin frontal split'te bekleme); dinamik hareketlilik ise kas kullanımının yoğun olduğu, ritim ve hızın öne çıktığı hareketlerdir (örneğin frontal jump).",
-        "Sportif performans açısından eklem hareket genişliği başarı için önemlidir; esneklik, kuvvet ve hız gibi fiziksel faktörlerin ve tekniğin gelişiminde etkilidir, sakatlanmaları önler ve antrenman sürecinin vazgeçilmez bir parçasıdır (Zorba ve Doğan, 1991; Mengütay, 1992). Hareketlilik antrenmanlarında temel ilkeler arasında çalışmaların günlük yapılması, yorgun durumda yapılmaması, kuvvet ve sürat antrenmanlarından önce uygulanması, şiddetin kademeli artırılması ve antrenman düzeninde önce pasif germe, sonra aktif alıştırmaların yapılması yer alır (Sevim, 1997)."
+      "emoji": "🧘",
+      "bullets": [
+        "**Hareketlilik**, sporcunun hareketlerini eklemlerin elverdiği ölçüde geniş açılarda ve farklı yönlerde yapabilme yeteneğidir.",
+        "**Esneklik** ile geliştirilir, ama esneklik motorik bir özellik değil, kasın kendi yapısına ait bir niteliktir; iyi esneklik sakatlanma riskini azaltır.",
+        "Gelişim yaşa göre değişir: 3-10 yaş çok iyi, 10-13 yaş iyi, 12-15 yaş kötü, 15-19 yaş yeniden iyi seviyededir; bu yüzden çalışmalara küçük yaşta başlanıp hayat boyu sürdürülmelidir.",
+        "Eklem yapısı, kas ve deri esnekliği, ısınma derecesi, yorgunluk, günün saati ile yaş-cinsiyet farkı hareketliliği etkileyen faktörlerdir.",
+        "Üç sınıflandırması vardır: genel/özel hareketlilik, **aktif hareketlilik** (kasın kendi kuvvetiyle dış yardım almadan ulaştığı en büyük açı) ile **pasif hareketlilik** (dışarıdan uygulanan kuvvetle sağlanan esneklik), ve **statik hareketlilik** (sabit pozisyonda süreli bekleme) ile **dinamik hareketlilik** (ritim ve hızın öne çıktığı hareketler).",
+        "Eklem hareket genişliği performans, teknik gelişimi ve sakatlık önleme açısından önemlidir.",
+        "Temel ilkeler: çalışmalar günlük yapılmalı, yorgunken yapılmamalı, kuvvet/sürat antrenmanından önce uygulanmalı, şiddet kademeli artırılmalı ve antrenmanda önce **pasif germe**, sonra **aktif alıştırmalar** yapılmalı."
       ]
     },
     {
       "heading": "Çeviklik",
-      "paragraphs": [
-        "Çeviklik, “yavaşlama, hızlanma ve yön değiştirme hareketlerinin en kısa sürede verimli bir şekilde uygulanmasını sağlayan fiziksel bir beceri” olarak tanımlanır (Günay vd., 2017); daha kısa bir ifadeyle hızlı ve doğru biçimde yön değiştirebilme özelliğidir. Çevikliğin olmazsa olmaz üç unsuru koordinasyon, denge ve patlayıcılıktır (Engin, 2018). Performans sporcuları çevikliği, sporcunun yön değiştirmesini sağlayan lokomotor bir beceri olarak görür; bu, dikey veya yatay yöndeki motor kontrolü korurken aniden durma, yön değiştirme ve hızlanmanın etkili biçimde birleştirilmesidir (Ellis vd., 2000).",
-        "Çevikliği etkileyen faktörler arasında vücut ağırlığı, boy, denge, reaksiyon zamanı, hareket sürati ve isabetliliği, hareket mesafesi ve yönü, görerek nişanlama, kas tonusu, yaş, yorgunluk, duyu organlarının hassaslığı, kondisyonel özelliklerin düzeyi, öğrenilen tekniğin doğruluğu ve antrenman/hareketsel deneyim sayılabilir (Sevim, 2010; Brown ve Ferrigno, 2000; Sheppard ve Young, 2006).",
-        "Sheppard ve Young'a (2006) göre çeviklik antrenmanları; yön değiştirme tekniğine yönelik alıştırmalar, kapalı beceri alıştırmaları, çabukluk alıştırmaları ve reaktif çeviklik antrenmanı gibi gruplara ayrılır; öne-geriye-yana adım çalışmaları, yüksek hızda koşu ve kayma, ayna-gölge, yakalama-kaçma oyunları gibi uygulamalarla geliştirilir.",
-        "Sportif performans açısından çeviklik; sinir-kas sisteminin ve motor becerilerin kontrolüne temel oluşturur, ani yön değiştirmelerin yol açtığı sakatlık riskini azaltır ve hücum-savunmada oyuncu performansını olumlu etkiler (Engin, 2018). Günümüzde çeviklik için sürat ve kuvvet gibi fiziksel özelliklerin yanında görsel tarama, sezgi, algılama ve karar verme gibi bilişsel faktörlerin de önemli olduğu kabul edilmektedir (Armstrong ve Greig, 2018; Zemkova, 2016)."
+      "emoji": "⚡",
+      "bullets": [
+        "**Çeviklik**, yavaşlama, hızlanma ve yön değiştirme hareketlerini en kısa sürede verimli biçimde uygulama becerisidir; kısaca hızlı ve doğru yön değiştirme özelliğidir.",
+        "Olmazsa olmaz üç unsuru: **koordinasyon**, **denge** ve **patlayıcılık**.",
+        "Lokomotor bir beceridir: durma, yön değiştirme ve hızlanmayı kontrollü biçimde birleştirir (örnek: slalom çubukları arasında dripling yapan futbolcu).",
+        "Vücut ağırlığı, boy, denge, reaksiyon zamanı, yaş, yorgunluk ve öğrenilen tekniğin doğruluğu gibi faktörlerden etkilenir.",
+        "Sheppard ve Young'a göre dört antrenman grubu vardır: **yön değiştirme tekniği alıştırmaları**, **kapalı beceri alıştırmaları**, **çabukluk alıştırmaları** ve **reaktif çeviklik antrenmanı** (öne-geriye-yana adım, yüksek hızda koşu-kayma, ayna-gölge, yakalama-kaçma gibi örneklerle).",
+        "Sakatlık riskini azaltır, hücum-savunmada oyuncu performansını artırır.",
+        "Günümüzde sürat ve kuvvetin yanında görsel tarama, sezgi, algılama ve karar verme gibi bilişsel faktörler de çeviklik için önemli sayılır."
       ]
     },
     {
       "heading": "Denge",
-      "paragraphs": [
-        "Denge, insanın yürüme, koşma, durma gibi günlük hareketlerini yaparken gereksinim duyduğu, karmaşık duyusal, motor ve biyomekanik süreçlerin koordinasyonunu tanımlayan genel bir kavramdır. Yentürk (2018) dengeyi, postürü korumaktan karmaşık hareketleri sergilemeye kadar uzanan motor becerilerin temel bileşeni olarak tanımlar; spor bilimi açısından ise denge, merkezî sinir sistemi ile iskelet-kas sisteminin uyumlu etkileşimini ifade eden koordinasyonun bir parçasıdır (Muratlı, 2003).",
-        "Dengeyi etkileyen faktörler arasında kas yorgunluğu veya zayıflığı, yaş, cinsiyet, fiziksel aktivite düzeyi, geçirilmiş yaralanmalar, ilaçlar ve yaşlanma süreci bulunur. Denge becerisi çocuklukta gelişir ve yaklaşık 10 yaşında erişkin seviyesine ulaşır; yaşlanmayla birlikte kontrol ve koordinasyon zayıflar, reaksiyon zamanı uzar ve düşme riski artar (Bozan, 2007).",
-        "Denge dört şekilde sınıflandırılır: motorsal denge (uygun egzersizle farklı ortamlarda -su, buz, hava, kara- kazanılan denge yeterliliği), statik denge (sabit bir pozisyonda dengede kalabilme becerisi; vücut ağırlığı, bağ gerginliği ve kas kasılması belirleyicidir), dinamik denge (ağırlık merkezinin hareket sırasında yeni konumlara adapte edilebilmesi) ve objeyle denge (top, çubuk gibi ek bir ekipmanla sağlanan denge) (Dinçer, 2017; Özaras ve Yalçın, 2001; San-Bayhan ve Artan, 2004; Günay vd., 2017).",
-        "Sportif performans açısından denge, vücut kompozisyonunu koruyabilmede ve ani değişiklikler içeren dinamik sporlarda temel oluşturur; tüm spor dalları belirli düzeyde denge içerir (Altay, 2001). Denge antrenmanları sakatlıkların önlenmesinde ve sakatlık sonrası rehabilitasyonda kritik öneme sahiptir; ayrıca kasların güçlenmesine ve doğru postürün sağlanmasına yardımcı olur (Ateş, 2017; Dilber, 2016)."
+      "emoji": "⚖️",
+      "bullets": [
+        "**Denge**, yürüme, koşma, durma gibi günlük hareketlerde gereken duyusal, motor ve biyomekanik süreçlerin koordinasyonudur; yaşam kalitesini de etkiler.",
+        "Postürü korumaktan karmaşık hareketlere kadar motor becerilerin temel bileşenidir; **merkezî sinir sistemi** ile **iskelet-kas sistemi**nin uyumlu etkileşimini içerir.",
+        "Kas yorgunluğu/zayıflığı, yaş, cinsiyet, fiziksel aktivite düzeyi ve geçirilen yaralanmalardan etkilenir; yaklaşık **10 yaşında** yetişkin seviyesine ulaşır, yaşlanmayla kontrol zayıflar ve düşme riski artar.",
+        "Dört türü vardır: **motorsal denge** (su, buz, hava, kara gibi farklı ortamlarda egzersizle kazanılan yeterlilik), **statik denge** (sabit bir pozisyonda dengede kalabilme, örn. tek ayak üzerinde öne eğilme), **dinamik denge** (hareket sırasında ağırlık merkezinin yeni konumlara adapte edilmesi) ve **objeyle denge** (top, çubuk gibi ek ekipmanla sağlanan denge).",
+        "Tüm spor dalları belirli düzeyde denge içerir; vücut kompozisyonunun korunmasında ve dinamik sporlarda temel oluşturur.",
+        "Sakatlık önleme ve rehabilitasyonda kritik rol oynar; kasların güçlenmesine ve doğru postüre yardımcı olur."
       ]
     }
   ],
@@ -54,7 +75,13 @@
     {
       "id": "u5q1",
       "question": "Aşağıdakilerden hangisinin diğerleriyle iş birliği içerisinde çalışması, hentbolda düşerek atış hareketini gerçekleştiren bir sporcunun vücudunda hareketin sonucunu etkilemez?",
-      "options": ["İskelet kasları", "Merkezî sinir sistemi", "Eklemler", "Kan sıvısı", "Eklem bağları"],
+      "options": [
+        "İskelet kasları",
+        "Merkezî sinir sistemi",
+        "Eklemler",
+        "Kan sıvısı",
+        "Eklem bağları"
+      ],
       "correctIndex": 3,
       "explanation": "Koordinasyon, bir hareketin uygulanmasına katılan iskelet kasları, eklemler, eklem bağları ve merkezî sinir sistemi arasındaki işbirliği olarak tanımlanır. Kan sıvısı (dolaşım sistemi) bu nöro-musküler işbirliğinin bir bileşeni olarak sayılmaz; dolayısıyla koordinasyonun oluşumunda doğrudan rol oynayan yapılar arasında yer almaz.",
       "optionNotes": [
@@ -68,7 +95,13 @@
     {
       "id": "u5q2",
       "question": "Sporda zor hareketleri kısa zaman içerisinde öğrenebilmek ve en az efor ile uygulayabilmek için geliştirilmesi gereken özellik aşağıdakilerden hangisidir?",
-      "options": ["Dayanıklılık", "Sürat", "Kuvvet", "Hareketlilik", "Koordinasyon"],
+      "options": [
+        "Dayanıklılık",
+        "Sürat",
+        "Kuvvet",
+        "Hareketlilik",
+        "Koordinasyon"
+      ],
       "correctIndex": 4,
       "explanation": "Bu tanım doğrudan koordinasyonun tanımına karşılık gelir: “sporcunun karmaşık hareketleri kısa zamanda öğrenebilmesi ve değişik şartlar altında bu hareketleri çabuk ve amaca uygun olarak uygulayabilme yeteneği” (Sevim, 2002). Dolayısıyla soruda tarif edilen özellik koordinasyondur.",
       "optionNotes": [
@@ -82,7 +115,13 @@
     {
       "id": "u5q3",
       "question": "Aşağıdakilerden hangisi koordinasyonu oluşturan faktörlerden biri değildir?",
-      "options": ["Performans", "Hareketin akıcılığı", "Sevk ve idare yeteneği", "Ritim", "Hareket hissi"],
+      "options": [
+        "Performans",
+        "Hareketin akıcılığı",
+        "Sevk ve idare yeteneği",
+        "Ritim",
+        "Hareket hissi"
+      ],
       "correctIndex": 0,
       "explanation": "Sevim (2002)'e göre koordinasyonu oluşturan faktörler arasında motorik uyum, sevk ve idare yeteneği, mekân kavrama, denge, çok yönlülük, beceriklilik, hareket hissi, hareket akıcılığı ve yumuşaklığı, esneklik, ritim ve varyasyon yeteneği sayılır. “Performans” bu listede yer alan spesifik bir faktör değildir; performans, koordinasyonun da içinde bulunduğu birçok özelliğin ortaya çıkardığı genel bir sonuçtur, bir bileşeni değildir.",
       "optionNotes": [
@@ -96,7 +135,13 @@
     {
       "id": "u5q4",
       "question": "Aşağıdaki koordinatif özelliklerden hangisi, sporcunun hareketlerini eklemlerin müsaade ettiği oranda, geniş bir açıda ve değişik yönlere uygulayabilme yeteneği olarak tanımlanır?",
-      "options": ["Koordinasyon", "Hareketlilik", "Çeviklik", "Denge", "Beceri"],
+      "options": [
+        "Koordinasyon",
+        "Hareketlilik",
+        "Çeviklik",
+        "Denge",
+        "Beceri"
+      ],
       "correctIndex": 1,
       "explanation": "Bu, Sevim (1997)'in hareketlilik tanımıdır: hareketlilik, sporcunun hareketlerini eklemlerin müsaade ettiği oranda, geniş bir açıda ve değişik yönlere uygulayabilme yeteneğidir.",
       "optionNotes": [
@@ -110,7 +155,13 @@
     {
       "id": "u5q5",
       "question": "Sporcunun, dış kuvvet olmadan kendi başına kas faaliyeti ile yapabildiği ve eklemin mümkün olan en büyük hareket açısına ulaşabildiği hareketlilik çalışması aşağıdakilerden hangisidir?",
-      "options": ["Genel hareketlilik", "Dinamik hareketlilik", "Statik hareketlilik", "Pasif hareketlilik", "Aktif hareketlilik"],
+      "options": [
+        "Genel hareketlilik",
+        "Dinamik hareketlilik",
+        "Statik hareketlilik",
+        "Pasif hareketlilik",
+        "Aktif hareketlilik"
+      ],
       "correctIndex": 4,
       "explanation": "Aktif hareketlilik, eklemin kendi başına, dışarıdan yardım almadan, yalnızca kas kuvvetiyle ulaşabildiği en büyük hareket genişliği olarak tanımlanır (Sevim, 1997). Soruda tarif edilen “dış kuvvet olmadan kendi kas faaliyeti” ifadesi bu tanıma karşılık gelir.",
       "optionNotes": [
@@ -164,7 +215,13 @@
     {
       "id": "u5q8",
       "question": "Aşağıdakilerden hangisi, art arda dizilmiş slalom çubukları arasından dripling yapan bir futbolcunun, bir noktadan diğer noktaya doğru hareket ederken bedenin yönünü olabildiğince hızlı, akıcı, kolay ve kontrollü biçimde değiştirmesini sağlayan özelliktir?",
-      "options": ["Koordinasyon", "Çeviklik", "Beceri", "Denge", "Hareketlilik"],
+      "options": [
+        "Koordinasyon",
+        "Çeviklik",
+        "Beceri",
+        "Denge",
+        "Hareketlilik"
+      ],
       "correctIndex": 1,
       "explanation": "Bu tanım Erdem (2015)'in çeviklik tanımına karşılık gelir: çeviklik, dengeyi kaybetmeksizin bedenin bir noktadan diğerine hızlı, akıcı, kolay ve kontrollü biçimde yön değiştirmesini sağlayan lokomotor bir beceridir. Slalom çubukları arasında dripling yapma, hızlı yön değiştirmeyi gerektiren tipik bir çeviklik örneğidir.",
       "optionNotes": [
@@ -178,7 +235,13 @@
     {
       "id": "u5q9",
       "question": "Sporcunun tek ayak üzerinde iken diğer ayak gergin olarak geriye uzatılmış vaziyette öne doğru eğilerek kollarını her iki yana açtığı denge pozisyonu, aşağıdaki denge türlerinden hangisine bir örnektir?",
-      "options": ["Motorsal denge", "Dinamik denge", "Statik denge", "Objeyle denge", "Aktif denge"],
+      "options": [
+        "Motorsal denge",
+        "Dinamik denge",
+        "Statik denge",
+        "Objeyle denge",
+        "Aktif denge"
+      ],
       "correctIndex": 2,
       "explanation": "Tarif edilen pozisyon, sabit bir duruşun belirli bir süre korunmasını gerektiren bir denge şeklidir; bu statik dengenin tanımına uyar: “sabit pozisyonda dengede kalabilme becerisi” (Dinçer, 2017). Hareket sırasında sürekli bir yer değiştirme veya ek ekipman kullanımı olmadığı için statik dengeye örnektir.",
       "optionNotes": [
@@ -192,7 +255,13 @@
     {
       "id": "u5q10",
       "question": "Aşağıdaki kavramlardan hangisi, insanın günlük yaşantısında yürüme, koşma, durma benzeri yalın hareketleri yaparken gereksinim duyduğu ve yaşam kalitesini de etkileyen durumu tanımlar?",
-      "options": ["Koordinasyon", "Hareketlilik", "Çeviklik", "Denge", "Beceri"],
+      "options": [
+        "Koordinasyon",
+        "Hareketlilik",
+        "Çeviklik",
+        "Denge",
+        "Beceri"
+      ],
       "correctIndex": 3,
       "explanation": "Metinde denge şu şekilde tanımlanır: “insanın günlük yaşantısında yürüme, koşma, durma benzeri yalın hareketleri yaparken gereksinim duyduğu yaşam kalitesini etkileyen bir durumdur.” Bu ifade doğrudan dengenin tanımına karşılık gelir.",
       "optionNotes": [

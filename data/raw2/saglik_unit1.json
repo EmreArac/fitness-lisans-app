@@ -6,89 +6,140 @@
     "İnsan vücudundaki anatomik yapıların konumlarını ve hareketlerini tanımlayan terimleri açıklayabilme",
     "Hareket sistemini oluşturan temel yapıların fonksiyonlarını açıklayabilme"
   ],
-  "keywords": ["Doku", "Kas", "Düzlemler", "Hareket"],
+  "keywords": [
+    "Doku",
+    "Kas",
+    "Düzlemler",
+    "Hareket"
+  ],
   "summary": [
     {
-      "heading": "Anatomiye Giriş ve Vücudun Yapısal Organizasyonu",
-      "paragraphs": [
-        "Anatomi terimi eski Yunancada 'ana' (içinden) ve 'tome' (kesmek) kelimelerinin birleşmesinden oluşur ve parçalara ayırma anlamına gelir. Anatomi; vücudun şekil ve yapısını, mikroskopik ile makroskopik yapılar arasındaki yapısal ve fonksiyonel ilişkileri inceleyen bilim dalıdır. Yapıları birbirinden izole öğrenmek yerine fonksiyonları ve diğer yapılarla ilişkileri ile birlikte öğrenmek konunun bütünlük içinde kavranmasını kolaylaştırır.",
-        "İnsan vücudunun yaşam süreçleri, küçükten büyüğe doğru sıralanan yapısal organizasyon seviyelerinde düzenlenir: kimyasal, hücresel, doku, organ, organ sistemi ve organizma seviyesi. Yüksek organizasyon seviyeleri, kendisinden daha düşük seviyelerin bir araya gelmesiyle oluşur; yani hücreler dokuları, dokular organları, organlar da organ sistemlerini meydana getirir."
+      "heading": "Anatomi Nedir? Vücudun Yapı Katmanları",
+      "emoji": "🧱",
+      "bullets": [
+        "**Anatomi**, Yunanca \"ana\" (içinden) ve \"tome\" (kesmek) kelimelerinden gelir; vücudun şekil ve yapısını inceleyen bilim dalıdır.",
+        "Yapıları tek tek değil, fonksiyonları ve birbirleriyle ilişkileriyle öğrenmek konuyu bütün olarak kavramayı kolaylaştırır.",
+        "Vücut küçükten büyüğe 6 seviyede organize olur: **kimyasal, hücresel, doku, organ, organ sistemi, organizma**.",
+        "Her seviye kendinden küçük seviyelerin birleşmesiyle oluşur: hücreler dokuyu, dokular organı, organlar da organ sistemini yapar."
       ]
     },
     {
-      "heading": "Hücre: Yapının Temel Birimi",
-      "paragraphs": [
-        "Hücre, 'canlı' olgusunun temelini oluşturur ve üç temel özelliğe sahiptir: yapının temel birimidir (hücreler dokuları ve organları oluşturur), çoğalma ve büyümenin temel birimidir (sinir hücreleri dışındaki tüm hücreler ikiye bölünerek çoğalabilir) ve fonksiyonun temel birimidir (bedenin herhangi bir işlevi hücre düzeyinde organize olur). Hücre büyüklüğü genellikle 10-50 mikrometre arasında değişir; ancak bazı nöronların aksonu 1 metreye kadar uzayabilir.",
-        "Hücrenin yapı taşları organeller (nukleus, mitokondriyum, Golgi aygıtı, endoplazmik retikulum, lizozom, peroksizom) ve supramoleküler kompleksler (ribozom, mikrotübül, sentriyol, enzim kompleksleri) olmak üzere ikiye ayrılır. Hücreyi çevreleyen ince, yarı geçirgen zar plazmalemma (hücre zarı) olarak adlandırılır ve hücre içi ortamı dış ortamdan ayırarak özgül bir iç denge yaratır."
+      "heading": "Hücre: Yaşamın Temel Birimi",
+      "emoji": "🔬",
+      "bullets": [
+        "**Hücre**, canlılığın temelidir; üç görevi vardır: yapının, çoğalma/büyümenin ve fonksiyonun temel birimi olmak.",
+        "Sinir hücreleri hariç tüm hücreler ikiye bölünerek çoğalabilir.",
+        "Hücre boyu genelde **10-50 mikrometre**dir; bazı nöronların aksonu 1 metreye kadar uzayabilir.",
+        "Hücre yapı taşları ikiye ayrılır: **organeller** (nükleus, mitokondri, Golgi, endoplazmik retikulum, lizozom, peroksizom) ve **supramoleküler kompleksler** (ribozom, mikrotübül, sentriyol).",
+        "**Ribozomlar**, hücrede protein sentezinin (translasyon) gerçekleştiği yapılardır; faaliyetleri artınca üretilen protein miktarı da artar.",
+        "Hücreyi çevreleyen ince zar **plazmalemma** (hücre zarı) olarak adlandırılır ve hücre içini dış ortamdan ayırır."
       ]
     },
     {
-      "heading": "Doku Çeşitleri: Epitel, Bağ-Destek, Kas ve Sinir Dokusu",
-      "paragraphs": [
-        "Benzer yapı, işlev ve farklılaşmaya sahip hücrelerin bir araya gelmesiyle oluşan birliğe doku denir. Doku, kendi içinde bir bütün oluşturmaz; organizmanın kısmi bir yapı ve işlev malzemesidir. İnsan vücudunda dört ana doku tanımlanmıştır: epitel dokusu, bağ ve destek dokusu, kas dokusu ve sinir dokusu.",
-        "Epitel dokusu, vücudun iç ve dış yüzeylerini örten; ayrıca salgı bezlerinin işlevinde ve duyusal algılamada rol oynayan dokudur. Üç şekli vardır: yüzey epiteli (bedenin iç-dış yüzeylerini kaplar; tek tabakalı, çok tabakalı veya çok sıralı olabilir), salgı bezi epiteli (ekzokrin bezler ürünlerini vücut yüzeyine, endokrin bezler ise kan dolaşımına boşaltır) ve duyu epiteli (özgül uyarımları algılayıp merkezi sinir sistemine iletir; örneğin iç kulaktaki makula epiteli).",
-        "Bağ ve destek dokusu bütün bedene yayılmıştır; kemik, kıkırdak ve tendon şeklinde bedene sağlamlık verir, bağ dokusu olarak organların zeminini oluşturur ve suyu depolar. Embriyonal, retiküler, yağ ve asıl bağ dokusu ile destek dokusu olmak üzere beş bölümde incelenir. Kas dokusu, kontraksiyon (kasılma) yeteneği ile hareketi sağlar; düz kas, çizgili iskelet kası ve kalp kası olmak üzere üç çeşidi vardır. Sinir dokusu ise uyarıları iletmekle görevli nöronlardan ve onları destekleyen glia hücrelerinden oluşur."
+      "heading": "4 Doku Çeşidi: Epitel, Bağ-Destek, Kas, Sinir",
+      "emoji": "🧵",
+      "bullets": [
+        "**Doku**, benzer yapı ve işleve sahip hücrelerin birliğidir; vücutta 4 ana doku vardır: **epitel, bağ-destek, kas ve sinir dokusu**.",
+        "**Epitel dokusu** vücut yüzeylerini örter; 3 türü var: yüzey epiteli, salgı bezi epiteli (ekzokrin → vücut yüzeyine, endokrin → kana salgılar) ve duyu epiteli.",
+        "**Bağ ve destek dokusu** bedene sağlamlık verir; 5 alt türü vardır: embriyonal, retiküler, yağ, asıl bağ dokusu ve destek dokusu.",
+        "**Kas dokusu** kasılarak hareketi sağlar; 3 çeşidi vardır: düz kas, çizgili iskelet kası, kalp kası.",
+        "**Sinir dokusu**, uyarı ileten nöronlar ile onlara destek olan glia hücrelerinden oluşur."
       ]
     },
     {
-      "heading": "Bağ ve Destek Dokusunun Lif Yapısı",
-      "paragraphs": [
-        "Asıl bağ dokusu, amorf (şekilsiz) bir temel madde ile fibroblastlar tarafından sentezlenen liflerden oluşur. Üç tür bağ dokusu lifi vardır: Kollajen lifler boyunun ancak %8'i kadar esneyebilir ve gerilmeye karşı çok dirençlidir (1 mm² kesit 10-20 kg ağırlık taşıyabilir). Elastin lifler uzunluklarının %150'si kadar gerilip eski haline dönebilir ve akciğer, kan damarı gibi elastik organlarda yoğundur. Retiküler lifler insandaki en ince ve narin liflerdir; karaciğer, lenf düğümleri ve kemik iliğinde bol bulunur ve bazal laminanın yapısına katılır.",
-        "Kıkırdak dokusu, kondrosit hücrelerinden, amorf temel maddeden ve liflerden oluşur; kan damarı ve siniri yoktur, beslenmesini difüzyonla sağlar. Üç çeşidi vardır: lifli kıkırdak (vertebra diskleri, meniskuslerde; kollajen lif oranı yüksek), hiyalin kıkırdak (eklem yüzeylerini kaplar, basınca karşı dirençlidir) ve elastik kıkırdak (kulak kıkırdağı gibi bükülebilir, sarı renktedir).",
-        "Kemik dokusu insan bedeninin en sağlam dokusudur; basınca karşı sağlamlığı kıkırdaktan yaklaşık 10 kat fazladır, çünkü organik temel maddesine %85 kalsiyum fosfat gibi anorganik bileşikler yerleşmiştir. Kemik hücresi osteosit olarak adlandırılır. Kemik dışını saran periost, kemiğin beslenmesini, korunmasını ve yeni kemik oluşumunu sağlar. Kemiğin dış tabakası 'substantia kompakta', iç kısmı ise kemik iliğini barındıran petek yapılı 'substantia spongiosa'dır. Egzersizle bağ ve destek dokusunda hipertrofi (hücrede büyüme) veya hiperplazi (hücre sayısında artış) şeklinde adaptasyonlar görülebilir; antrenmanla tendon kesit alanı ve sertliği artabilir."
+      "heading": "Bağ Dokusu Lifleri: Kollajen, Elastin, Kıkırdak, Kemik",
+      "emoji": "🕸️",
+      "bullets": [
+        "**Kollajen lifler** boyunun sadece %8'i kadar esneyebilir ama gerilmeye çok dirençlidir: 1 mm² kesit **10-20 kg** taşıyabilir.",
+        "**Elastin lifler** uzunluğunun %150'si kadar gerilip eski haline döner; akciğer ve kan damarı gibi elastik organlarda yoğundur.",
+        "**Retiküler lifler** vücuttaki en ince ve narin liflerdir; karaciğer, lenf düğümü ve kemik iliğinde bol bulunur.",
+        "**Kıkırdak dokusu** damarsızdır, beslenmesini difüzyonla sağlar; 3 türü var: lifli kıkırdak, hiyalin kıkırdak (eklem yüzeyleri) ve elastik kıkırdak.",
+        "**Kemik dokusu** vücudun en sağlam dokusudur, kıkırdaktan ~10 kat daha dayanıklıdır çünkü %85'i kalsiyum fosfat içerir; kemik hücresine **osteosit** denir.",
+        "Kemiğin dış tabakası **substantia kompakta**, iç petek yapılı kısmı **substantia spongiosa**'dır; dışını saran **periost** besler ve korur.",
+        "Egzersizle bağ dokusunda **hipertrofi** (büyüme) ya da **hiperplazi** (sayı artışı) görülebilir; antrenman tendonu da güçlendirir."
       ]
     },
     {
-      "heading": "Kas Dokusu Çeşitleri ve Sarkomer Yapısı",
-      "paragraphs": [
-        "Düz kaslar iç organlarda ve kan damarlarında bulunur, otonom sinir sistemi tarafından yönetilir ve kontraksiyonu istem dışı, yavaş ve dalgalıdır. Çizgili iskelet kası somatik sinir sisteminin kontrolü altındadır; kontraksiyonu istemli, hızlı ve keskindir. Kasılabilen yapı birimi kas lifidir; kas lifi ortalama 10-100 mikrometre çapında ve 15 cm uzunluğundadır. Kalp kası da enine çizgilidir ancak nukleusu hücre ortasındadır ve istemsiz çalışır; sarkoplazmasının %30'u mitokondriyumdan oluşur.",
-        "Kas lifinin iki 'Z' çizgisi arasında kalan bölümü sarkomer olarak adlandırılır ve kasın en küçük işlevsel birimidir. Sarkomerde kalın miyozin filamentleri ile ince aktin filamentleri yan yana dizilir; kontraksiyon sırasında aktin filamentleri miyozin filamentlerinin ortasına doğru kayarak kasılmayı ve kuvvet üretimini sağlar. Çapraz köprü sayısının en fazla olduğu ve sarkomerin en çok kuvvet ürettiği uzunluğa optimum uzunluk denir.",
-        "Kasın kasılma hızını belirleyen en önemli özellik kas fibril tipidir. FT (fast-twitch, Tip 2a/2B/2X) lifler beyaz, kalın, hızlı kasılan, anaerob baskın ve güç odaklı liflerdir; ST (slow-twitch, Tip I) lifler kırmızı, ince, yavaş kasılan, aerob baskın ve dayanıklılık odaklı liflerdir. Egzersizin türüne bağlı olarak kas lifleri FT'den ST'ye veya ST'den FT'ye dönüşebilir."
+      "heading": "Kas Dokusu ve Sarkomer: Kasılmanın Sırrı",
+      "emoji": "💪",
+      "bullets": [
+        "**Düz kas** iç organlarda bulunur, istemsiz ve yavaş çalışır; **çizgili iskelet kası** istemli, hızlı ve keskin kasılır.",
+        "Kasılabilen birim **kas lifi**dir: çapı 10-100 mikrometre, boyu ortalama 15 cm'dir.",
+        "**Kalp kası** da çizgilidir ama istemsiz çalışır, nükleusu ortadadır ve sarkoplazmasının %30'u mitokondridir.",
+        "**Sarkomer**, iki Z çizgisi arasındaki bölgedir ve kasın en küçük fonksiyonel birimidir; ince aktin ve kalın miyozin filamentleri kayarak kasılmayı sağlar.",
+        "En fazla kuvvetin üretildiği uzunluk **optimum uzunluk** olarak adlandırılır.",
+        "**FT lifler** (Tip 2a/2B/2X) beyaz, hızlı kasılan, güç odaklı ve anaerobiktir; **ST lifler** (Tip I) kırmızı, yavaş, dayanıklılık odaklı ve aerobiktir.",
+        "Egzersiz türüne göre kas lifleri FT ↔ ST arasında dönüşebilir."
       ]
     },
     {
-      "heading": "Sinir Dokusu, Organlar ve Organ Sistemleri",
-      "paragraphs": [
-        "Sinir dokusunun asıl hücresi nörondur; her nöron morfolojik, genetik ve fonksiyonel olarak bağımsız bir birimdir ve uyarıları iletir. Nöronun gövdesi 'perikaryon', kısa sitoplazma uzantıları 'dendrit', tek uzun uzantısı ise 'akson' olarak adlandırılır. Glia hücreleri uyarım iletiminde görev almaz ancak nöronlara destek olur, besin ulaştırır ve atık maddeleri uzaklaştırır.",
-        "Organlar, hücre ve dokuların belirli görevler için bir araya gelmesiyle oluşan yapılardır; organ sistemleri ise belirli bir ortak görevi yerine getirmek üzere bir araya gelmiş organ topluluklarıdır. İnsan vücudunda kas-iskelet, solunum, dolaşım, sinir, endokrin, sindirim, üriner, üreme, bağışıklık-lenfatik ve integumenter (deri) sistemleri bulunur; her biri farklı görevler üstlenirken birbirleriyle sinerjik bir bütünlük içinde çalışır."
+      "heading": "Sinir Dokusu, Organlar ve Sistemler",
+      "emoji": "🧠",
+      "bullets": [
+        "Sinir dokusunun hücresi **nöron**dur: gövdesi \"perikaryon\", kısa uzantıları \"dendrit\", tek uzun uzantısı \"akson\" olarak adlandırılır.",
+        "**Glia hücreleri** uyarı iletmez ama nörona destek olur, besin taşır ve atığı uzaklaştırır.",
+        "**Organ**, hücre ve dokuların belirli bir görev için birleşmesidir; **organ sistemi** ise ortak görevli organ topluluğudur.",
+        "Vücutta 10 organ sistemi vardır: kas-iskelet, solunum, dolaşım, sinir, endokrin, sindirim, üriner, üreme, bağışıklık-lenfatik ve integumenter (deri)."
       ]
     },
     {
       "heading": "Anatomik Duruş, Düzlemler ve Eksenler",
-      "paragraphs": [
-        "Anatomik duruş; yüzü öne dönük, baş ve gövde dik, kollar yanlarda ve avuç içi öne bakar şekilde ayakta duran bir kişiyi referans alan standart pozisyondur. Anatomik tanımlamalar bu pozisyona göre yapılır ve insan vücudundan üç ana düzlemin geçtiği varsayılır.",
-        "Sagittal (anteroposterior) düzlem vücudu önden arkaya kesip sağ-sol olarak ikiye ayırır; vücudun tam ortasından geçtiğinde median düzlem adını alır ve ona yakın yapılar 'medial', uzak yapılar 'lateral' olarak tanımlanır. Transvers (horizontal) düzlem vücudu yere paralel şekilde enine kesip alt-üst olarak ayırır; başa yakın yapılar 'superior', uzak yapılar 'inferior'dur. Frontal (koronal) düzlem vücudu sağdan sola kesip ön-arka olarak ayırır; ön cepheye yakın yapılar 'anterior', uzak yapılar 'posterior'dur.",
-        "Eksenler, eklemler çevresinde oluşan hareketlerin tanımlanmasında kullanılır. Vertikal aksis baştan ayaklara dikey iner ve yere diktir; sagittal aksis önden arkaya yere paralel uzanır; frontal aksis ise sağdan sola yere paralel uzanır. Her eksen, kendisine dik olan düzlemdeki hareketleri tanımlamakta kullanılır."
+      "emoji": "🧍",
+      "bullets": [
+        "**Anatomik duruş**: yüz öne dönük, baş-gövde dik, kollar yanda, avuç içleri öne bakar; tüm tanımlar bu pozisyona göre yapılır.",
+        "**Sagittal düzlem** vücudu sağ-sol ikiye ayırır; tam ortadan geçerse \"median düzlem\" denir, yakın yapılar **medial**, uzak yapılar **lateral**dir.",
+        "**Transvers düzlem** vücudu alt-üst ikiye ayırır; başa yakın yapılar **superior**, uzak yapılar **inferior**dur.",
+        "**Frontal (koronal) düzlem** vücudu ön-arka ikiye ayırır; öne yakın yapılar **anterior**, uzak yapılar **posterior**dur.",
+        "Eklem hareketlerini tanımlamak için **vertikal, sagittal ve frontal aksis** kullanılır; her eksen kendine dik düzlemdeki hareketi tanımlar."
       ]
     },
     {
-      "heading": "Pozisyon ve Hareketi Tanımlayan Terimler",
-      "paragraphs": [
-        "Anatomik pozisyon terimleri karşılıklı çiftler halinde kullanılır: anterior-posterior (ön-arka), superior-inferior (yukarı-aşağı), medial-lateral (orta hatta yakın-uzak), dorsal-ventral (sırt-karın tarafı), proksimal-distal (gövdeye yakın-uzak), superfisyal-profundus (yüzeyel-derin) ve internal-eksternal (iç-dış) bu çiftlerden bazılarıdır.",
-        "Hareket terimleri düzlemlere göre gruplanır. Sagittal düzlemde fleksiyon (eklem açısının daralması) ve ekstansiyon (eklem açısının açılması) ile ayak bileğinde dorsifleksiyon ve plantar fleksiyon gerçekleşir. Frontal düzlemde abduksiyon (orta hattan uzaklaşma), adduksiyon (orta hatta yaklaşma), lateral fleksiyon ve ayak için eversiyon-inversiyon hareketleri görülür. Transvers düzlemde ise internal (medial) ve eksternal (lateral) rotasyon ile önkolun pronasyon-supinasyon hareketleri gerçekleşir. Sirkümdiksiyon, açısal hareketlerin kombinasyonu ile oluşan dairesel bir harekettir."
+      "heading": "Hareketi Tanımlayan Terimler",
+      "emoji": "🔄",
+      "bullets": [
+        "Pozisyon terimleri çift halde kullanılır: **anterior-posterior, superior-inferior, medial-lateral, proksimal-distal, internal-eksternal** gibi.",
+        "**Sagittal düzlemde**: fleksiyon (eklem açısının daralması), ekstansiyon (açılması) ile ayak bileğinde dorsifleksiyon-plantar fleksiyon.",
+        "**Frontal düzlemde**: abduksiyon (orta hattan uzaklaşma), adduksiyon (orta hatta yaklaşma), lateral fleksiyon ve ayakta eversiyon-inversiyon.",
+        "**Transvers düzlemde**: internal/eksternal rotasyon ile önkolun pronasyon-supinasyon hareketleri.",
+        "**Sirkümdiksiyon**, açısal hareketlerin birleşmesiyle oluşan dairesel bir harekettir."
       ]
     },
     {
-      "heading": "Aktif Hareket (Kas) Sistemi: Mimari, Kuvvet ve Kasılma Tipleri",
-      "paragraphs": [
-        "Hareket sistemi, aktif hareket sistemi (kas sistemi) ve pasif hareket sistemi (iskelet sistemi) olmak üzere ikiye ayrılır. İnsanda yaklaşık 640-850 kas bulunur; her kasın başlangıç noktası 'origio', kemiğe tutunma noktası ise 'insertio' olarak adlandırılır. Kas lifleri 'fasikül' demetleri halinde paketlenir; kas lifini çevreleyen bağ doku zarı 'endomysium', fasikülü çevreleyen 'perimysium', tüm kası çevreleyen ise 'epimysium' adını alır.",
-        "Kas fibrillerinin tendona bağlanma açısına pennasyon açısı denir. Fibriller tendona paralel ise açı 0'dır ve kasta üretilen kuvvetin tamamı tendona iletilir (fusiform kaslar, örn. biceps brachii); açı 0'dan büyükse (pennat kaslar) tendona iletilen kuvvette düşüş olur, ancak birim alana daha fazla fibril sığdığından fizyolojik kesit alanı ve toplam kuvvet üretme kapasitesi artabilir.",
-        "Bir kasın kuvveti fizyolojik çapraz kesit alanına bağlıdır (ortalama 25 N/cm²) ve cinsiyet, yaş, kas içi koordinasyon ile bağ doku sağlığından etkilenir. Kas kasılma tipleri üçe ayrılır: izometrik kontraksiyon (eklemde rotasyon olmadan kas fibrillerinde minimal kısalma, kas tonusu), izotonik kontraksiyon (kas uzunluğunda değişim olur; kısalma konsantrik, uzama eksantrik kontraksiyondur). Maksimal eksantrik kasılma, izometrik ve konsantrik kasılmaya göre daha fazla kuvvet üretir; kuvvet üretme sıralaması büyükten küçüğe eksantrik > izometrik > konsantriktir."
+      "heading": "Aktif Hareket Sistemi: Kaslar ve Kasılma Tipleri",
+      "emoji": "🏋️",
+      "bullets": [
+        "Hareket sistemi **aktif hareket sistemi** (kas) ve **pasif hareket sistemi** (iskelet) olarak ikiye ayrılır; insanda yaklaşık 640-850 kas bulunur.",
+        "Kasın başlangıç noktası **origio**, kemiğe tutunma noktası **insertio** olarak adlandırılır.",
+        "Paketlenme büyükten küçüğe şöyledir: **kas → fasikül → kas fibrili (lif) → myofibril**; lifi saran zar endomysium, fasikülü saran perimysium, tüm kası saran epimysium'dur.",
+        "**Pennasyon açısı** 0 ise (fusiform kas, örn. biceps brachii) kuvvetin tamamı tendona iletilir; açı büyüdükçe iletim azalır ama daha fazla fibril sığar.",
+        "Kas kuvveti **fizyolojik kesit alanına** bağlıdır (ortalama 25 N/cm²).",
+        "3 kasılma tipi vardır: **izometrik** (kısalma yok), **konsantrik** (kas kısalır) ve **eksantrik** (kas uzar).",
+        "Maksimum kuvvet üretimi büyükten küçüğe şöyle sıralanır: **eksantrik > izometrik > konsantrik**."
       ]
     },
     {
-      "heading": "Kasların Fonksiyonel Sınıflandırması ve Kaldıraç Tipleri",
-      "paragraphs": [
-        "Kaslar hareketteki rollerine göre sınıflandırılır: Agonist, hareketin başlatılmasında ve gerçekleştirilmesinde doğrudan görev alan kastır (örn. ayak bileği dorsifleksiyonunda tibialis anterior). Antagonist, hareketin ters yönünde görev alarak hareketi yavaşlatan veya durduran kastır (örn. dorsifleksiyon sırasında gastrocnemius ve soleus). Sinerjist kaslar, agonisti desteklemek için birlikte çalışır ve bazen stabilizatör görevi üstlenir.",
-        "Kaslar, kemikleri kaldıraç olarak kullanarak eklemlerde tork (rotasyonel kuvvet) üretirler. Birinci tip kaldıraçta eklem merkezi, kuvvet ve yük noktaları arasındadır (örn. baş-boyun ekstansörleri). İkinci tip kaldıraçta rotasyon merkezi kemiğin bir ucundadır ve kas kuvvet kolu yük kolundan daha uzundur, bu nedenle mekanik avantaj sağlar (örn. parmak ucuna kalkarken gastrocnemius); kas-iskelet sisteminde az bulunur. Üçüncü tip kaldıraçta da rotasyon merkezi kemiğin bir ucundadır, ancak kas tendonunun (kuvvet uygulama noktasının) bağlandığı yer, eklem aksisi ile yük arasında kalır; bu yüzden yük kolu kuvvet kolundan daha uzundur, mekanik dezavantaj vardır fakat hareket hızı kazanılır (örn. biceps brachii ile dirsek fleksiyonu). Üçüncü tip kaldıraçlar kas-iskelet sisteminde en sık görülen tiptir."
+      "heading": "Kas Rolleri ve Kaldıraç Tipleri",
+      "emoji": "⚖️",
+      "bullets": [
+        "**Agonist**, hareketi başlatan ve gerçekleştiren kastır (örn. dorsifleksiyonda tibialis anterior).",
+        "**Antagonist**, harekete ters yönde kuvvet üretip onu yavaşlatan/durduran kastır (örn. gastrocnemius ve soleus).",
+        "**Sinerjist** kaslar agonisti destekler; bazen sabitleyici **stabilizatör** görevi görür.",
+        "**1. tip kaldıraç**: eklem merkezi, kuvvet ve yük noktaları arasındadır (örn. baş-boyun ekstensörleri).",
+        "**2. tip kaldıraç**: kuvvet kolu yük kolundan uzundur, mekanik avantaj sağlar ama vücutta azdır (örn. parmak ucuna kalkma).",
+        "**3. tip kaldıraç**: kas tendonu, eklem aksisi ile yük arasındadır; yük kolu daha uzundur, mekanik dezavantaj vardır ama hareket hızı kazanılır (örn. biceps brachii ile dirsek fleksiyonu). Vücutta en sık görülen tiptir."
       ]
     },
     {
-      "heading": "Pasif Hareket (İskelet) Sistemi: Kemikler, Eklemler ve Bağ Doku",
-      "paragraphs": [
-        "Pasif hareket sistemi kemikler, eklemler ve bağ dokudan oluşur. İskelet sistemi toplam 208 kemikten oluşur ve beden ağırlığının ortalama %17'sini oluşturur; hareketin pasif bileşeni olmanın yanında bedene şekil verir ve organlara koruma sağlar. Kemikler, eklemler aracılığıyla birbirine tutunur. Sinartroz eklemler az oynak veya oynak olmayan bağlantılardır (sindesmoz, sinkondroz, sinostoz); diartroz eklemler ise oynar eklemlerdir ve eklem yüzeyleri kıkırdakla kaplı, sinovyal sıvı salgılayan bir eklem kapsülü ile çevrilidir. Diartroz eklemler hareket serbestliğine göre tek eksenli (ginglymus, örn. parmak eklemleri), iki eksenli (örn. baş parmağın eyer eklemi) ve üç eksenli (örn. omuz ve kalça ekleminin top-soket eklemleri) olarak sınıflandırılır.",
-        "Tendonlar kasları kemiklere bağlar ve kas kuvvetini kemiğe iletirken elastik enerji depolar; ligamentler ise kemikleri kemiklere bağlayarak dış kuvvetlere direnç gösterir ve eklem hareket açıklığını sınırlar. Eklem hareketi kemik engellemesi (örn. dirsekte olekranon), bağ engellemesi (örn. ligamentum iliofemorale) veya kas engellemesi ile sınırlanabilir.",
-        "İnsan vücudu baş, boyun, gövde (toraks, karın, omurga, pelvis) ile üst ve alt ekstremitelerden oluşur. Omurga; 7 servikal, 12 torakal, 5 lumbal vertebra ile sakrum ve koksiksten oluşan toplam 26 kemiklik bir kolon şeklindedir (çocukta 33-34 adet omur, yetişkinde kaynaşma sonucu 26 adede iner). Üst ekstremite omuz, üst kol, önkol ve elden oluşur; omuz ekleminde top-soket yapısı kalçaya göre daha sığ bir soket içerir, bu da hareket serbestliğini artırır fakat yaralanma riskini de yükseltir. Alt ekstremite ise yer tepki kuvvetlerine maruz kalırken gövdenin ve üst ekstremitelerin ağırlığını destekler; kinetik zincir ilkesi gereği bir eklemdeki pozisyon değişikliği zincir üzerindeki diğer eklemleri de etkiler."
+      "heading": "Pasif Hareket Sistemi: Kemikler ve Eklemler",
+      "emoji": "🦴",
+      "bullets": [
+        "Pasif sistem **kemik, eklem ve bağ doku**dan oluşur; iskelet toplam **208 kemik**tir ve beden ağırlığının ~%17'sidir.",
+        "**Sinartroz** eklemler az oynak/oynamaz bağlantılardır (sindesmoz, sinkondroz, sinostoz); **diartroz** eklemler oynar, kıkırdak kaplı ve sinovyal sıvılıdır.",
+        "Diartroz eklemler tek eksenli (örn. parmak), iki eksenli (örn. başparmağın eyer eklemi) ve üç eksenli (örn. omuz ve kalçanın top-soket eklemi) olarak sınıflanır.",
+        "**Tendon** kası kemiğe bağlar ve elastik enerji depolar; **ligament** kemiği kemiğe bağlar, dış kuvvete direnir ve eklem hareketini sınırlar.",
+        "Omurga 7 servikal + 12 torakal + 5 lumbal vertebra + sakrum + koksiksten oluşur, yetişkinde toplam **26 kemik**tir (çocukta 33-34).",
+        "**Üst ekstremite** omuz, üst kol (humerus), önkol (radius-ulna) ve elden oluşur; omuz eklemi sığ soketlidir, hareket serbestliği fazla ama yaralanma riski yüksektir.",
+        "**Alt ekstremite** yer tepki kuvvetine maruz kalır; **kinetik zincir** ilkesine göre bir eklemdeki değişiklik diğer eklemleri de etkiler."
       ]
     }
   ],
@@ -96,7 +147,13 @@
     {
       "id": "u1q1",
       "question": "Hücrede ribozom faaliyeti artarsa aşağıdakilerden hangisi artar?",
-      "options": ["Su miktarı", "Amino asit miktarı", "Ozmotik basınç", "Protein miktarı", "ATP üretim miktarı"],
+      "options": [
+        "Su miktarı",
+        "Amino asit miktarı",
+        "Ozmotik basınç",
+        "Protein miktarı",
+        "ATP üretim miktarı"
+      ],
       "correctIndex": 3,
       "explanation": "Ribozomlar hücrede protein sentezinin (translasyon) gerçekleştiği yapılardır; bu nedenle ribozom faaliyetinin artması doğrudan üretilen protein miktarının artması anlamına gelir. Amino asitler bu süreçte tüketilen yapı taşlarıdır, dolayısıyla miktarları artmaz, protein sentezlendikçe azalır.",
       "optionNotes": [
@@ -110,7 +167,13 @@
     {
       "id": "u1q2",
       "question": "Aşağıdakilerden hangisi frontal düzlemde gerçekleşen hareketlerden biri değildir?",
-      "options": ["Abduksiyon", "Lateral fleksiyon", "İnversiyon", "Adduksiyon", "Ekstansiyon"],
+      "options": [
+        "Abduksiyon",
+        "Lateral fleksiyon",
+        "İnversiyon",
+        "Adduksiyon",
+        "Ekstansiyon"
+      ],
       "correctIndex": 4,
       "explanation": "Frontal (koronal) düzlemde gerçekleşen hareketler; orta hattan uzaklaşma ve yaklaşma olan abduksiyon-adduksiyon, gövdenin yana eğilmesi olan lateral fleksiyon ile ayağın eversiyon-inversiyon hareketleridir. Ekstansiyon ise fleksiyonla birlikte sagittal düzlemde gerçekleşen bir eklem hareketidir, bu nedenle frontal düzlem hareketleri arasında yer almaz.",
       "optionNotes": [
@@ -124,7 +187,13 @@
     {
       "id": "u1q3",
       "question": "Kas kasılma tiplerinde üretilebilecek maksimum kas kuvvetlerinin büyükten küçüğe sıralanışı aşağıdakilerden hangisidir?",
-      "options": ["İzometrik – Eksantrik - Konsantrik", "Konsantrik – Eksantrik - İzometrik", "Eksantrik – Konsantrik - İzometrik", "Eksantrik – İzometrik - Konsantrik", "İzometrik – Konsantrik - Eksantrik"],
+      "options": [
+        "İzometrik – Eksantrik - Konsantrik",
+        "Konsantrik – Eksantrik - İzometrik",
+        "Eksantrik – Konsantrik - İzometrik",
+        "Eksantrik – İzometrik - Konsantrik",
+        "İzometrik – Konsantrik - Eksantrik"
+      ],
       "correctIndex": 3,
       "explanation": "Metinde ve bölüm özetinde belirtildiği gibi maksimal eksantrik kas kasılması, izometrik ve konsantrik kasılmaya göre daha fazla kuvvet üretir; dolayısıyla büyükten küçüğe sıralama eksantrik > izometrik > konsantrik şeklindedir. Bu sıralama, kasın gerilirken (eksantrik) kısalırken (konsantrik) üretebildiğinden daha fazla kuvvet üretebilmesinden kaynaklanır.",
       "optionNotes": [
@@ -138,7 +207,13 @@
     {
       "id": "u1q4",
       "question": "Kemiği kemiğe bağlayan yapı aşağıdakilerden hangisidir?",
-      "options": ["Ligament", "Tendon", "Kartilaj", "Diyafiz", "Kıkırdak"],
+      "options": [
+        "Ligament",
+        "Tendon",
+        "Kartilaj",
+        "Diyafiz",
+        "Kıkırdak"
+      ],
       "correctIndex": 0,
       "explanation": "Metinde açıkça belirtildiği gibi ligamentler kemikleri kemiklere bağlayan yapılardır; temel fonksiyonları dış kuvvetlere direnç göstermek ve eklem hareket açıklığını sınırlamaktır. Tendon ise kası kemiğe bağladığından bu sorunun cevabı değildir.",
       "optionNotes": [
@@ -152,7 +227,13 @@
     {
       "id": "u1q5",
       "question": "Gerilmeye karşı en dirençli lif tipi aşağıdakilerden hangisidir?",
-      "options": ["Kollajen", "Elastin", "Retiküler", "Kas", "Kartilaj"],
+      "options": [
+        "Kollajen",
+        "Elastin",
+        "Retiküler",
+        "Kas",
+        "Kartilaj"
+      ],
       "correctIndex": 0,
       "explanation": "Metinde kollajen liflerin boyunun ancak %8'i kadar esneyebildiği ve gerilmeye karşı çok dirençli olduğu, 1 mm² kesitli kollajen lifinin 10-20 kg ağırlığı taşıyabildiği belirtilmiştir. Elastin ve retiküler lifler ise esneklik ve narinlik ile tanımlanır, kollajen kadar gerilme direnci göstermezler.",
       "optionNotes": [
@@ -166,7 +247,13 @@
     {
       "id": "u1q6",
       "question": "Radius ve humerus vücudun hangi bölgesindedir?",
-      "options": ["Aksiyel iskelet", "Üst ekstremite", "Alt ekstremite", "Sırasıyla alt ve üst ekstremite", "Toraks"],
+      "options": [
+        "Aksiyel iskelet",
+        "Üst ekstremite",
+        "Alt ekstremite",
+        "Sırasıyla alt ve üst ekstremite",
+        "Toraks"
+      ],
       "correctIndex": 1,
       "explanation": "Metinde üst ekstremitenin omuz, üst kol, önkol ve elden oluştuğu ve kolu oluşturan kemiklerin humerus, radius ve ulna olduğu belirtilmiştir. Bu nedenle radius ve humerus üst ekstremite kemikleridir.",
       "optionNotes": [
@@ -180,7 +267,13 @@
     {
       "id": "u1q7",
       "question": "Bacağın laterale doğru vücuttan uzaklaştırılması hareketine ne ad verilir?",
-      "options": ["Ekstansiyon", "Adduksiyon", "Abduksiyon", "Fleksiyon", "Protraksiyon"],
+      "options": [
+        "Ekstansiyon",
+        "Adduksiyon",
+        "Abduksiyon",
+        "Fleksiyon",
+        "Protraksiyon"
+      ],
       "correctIndex": 2,
       "explanation": "Metinde abduksiyon, bir eklemin frontal planda orta hattan uzaklaştırılması hareketi olarak tanımlanmıştır. Bacağın laterale, yani vücudun orta hattından uzağa doğru hareket ettirilmesi bu tanıma uyduğundan cevap abduksiyondur.",
       "optionNotes": [
@@ -194,7 +287,13 @@
     {
       "id": "u1q8",
       "question": "Aşağıdaki terimlerden hangisi hareket sırasında, eklem hareketine karşı yönde kuvvet üreten kası ifade eder?",
-      "options": ["Agonist", "Antagonist", "Sinerjist", "Stabilizatör", "İzotonik"],
+      "options": [
+        "Agonist",
+        "Antagonist",
+        "Sinerjist",
+        "Stabilizatör",
+        "İzotonik"
+      ],
       "correctIndex": 1,
       "explanation": "Metinde antagonist, hareketin gerçekleştiği yönün tersi yönde (hareketi yavaşlatmaya veya durdurmaya yönelik) agonist kas veya kas grubuna karşı görev alan kas olarak tanımlanmıştır. Örnek olarak dorsifleksiyon sırasında tibialis anteriorun antagonisti olan gastrocnemius ve soleus kasları verilmiştir.",
       "optionNotes": [
@@ -208,7 +307,13 @@
     {
       "id": "u1q9",
       "question": "'Vücudumuzdaki eklemlerin birçoğu 3. tip kaldıraç olarak görev alırlar.' ifadesi hangi anlama gelir?",
-      "options": ["Mekanik avantaj sağlarlar.", "Kuvvet kolu yük kolundan daha uzundur.", "Kas tendonu yük ile eklem aksisi arasındadır.", "Kas tendonu eklemden uzak bir noktaya bağlanmıştır.", "Az kuvvetle fazla yük kaldırabilirler."],
+      "options": [
+        "Mekanik avantaj sağlarlar.",
+        "Kuvvet kolu yük kolundan daha uzundur.",
+        "Kas tendonu yük ile eklem aksisi arasındadır.",
+        "Kas tendonu eklemden uzak bir noktaya bağlanmıştır.",
+        "Az kuvvetle fazla yük kaldırabilirler."
+      ],
       "correctIndex": 2,
       "explanation": "Metinde üçüncü tip kaldıraçta rotasyon merkezinin kemiğin bir ucunda konumlandığı ve yük kolunun kas kuvvet kolundan daha uzun olduğu belirtilir; bu, kasın kuvvet uyguladığı noktanın (tendonun bağlandığı yer) eklem aksisi ile yükün etki ettiği nokta arasında kaldığı anlamına gelir. Örnek olarak biceps brachii ile dirsek fleksiyonunda ağırlık kaldırma verilmiştir ve bu düzenleme mekanik dezavantaj yaratsa da hareket hızı avantajı sağlar.",
       "optionNotes": [
@@ -222,7 +327,13 @@
     {
       "id": "u1q10",
       "question": "Aşağıdakilerden hangisinde kas komponentleri büyükten küçüğe doğru sıralanmıştır?",
-      "options": ["Kas fibrili - sarkomer - myofilament - myofibril", "Kas - fasikül - kas fibrili - myofibril", "Sarkomer - fasikül - myofibril - myofilament", "Kas - kas fibrili - myosin - myofibril", "Fasikül - myofilament - kas fibrili - sarkomer"],
+      "options": [
+        "Kas fibrili - sarkomer - myofilament - myofibril",
+        "Kas - fasikül - kas fibrili - myofibril",
+        "Sarkomer - fasikül - myofibril - myofilament",
+        "Kas - kas fibrili - myosin - myofibril",
+        "Fasikül - myofilament - kas fibrili - sarkomer"
+      ],
       "correctIndex": 1,
       "explanation": "Metinde belirtilen paketlenme hiyerarşisine göre kas, fasiküllerin bir araya gelmesiyle; fasikül, kas liflerinin (kas fibrili) bir araya gelmesiyle; kas lifi de myofibrillerin bir araya gelmesiyle oluşur. Bu nedenle büyükten küçüğe doğru doğru sıralama kas - fasikül - kas fibrili - myofibril şeklindedir.",
       "optionNotes": [

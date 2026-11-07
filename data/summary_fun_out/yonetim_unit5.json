@@ -1,0 +1,79 @@
+{
+  "summary": [
+    {
+      "heading": "Toplumu Bir Arada Tutan Kurallar",
+      "emoji": "📜",
+      "bullets": [
+        "İnsan ailede başlar, toplumsal kurumlara katılır ve başkalarıyla **toplumsal ilişki** kurar; bunların bütünü **toplumsal yaşam**dır.",
+        "Farklı insanları bir arada tutmak için ortak kurallara, yani **toplumsal düzen kuralları**na ihtiyaç vardır.",
+        "Bunlar dört türdür: **görgü kuralları** (ihlali kınama/ayıplama getirir), **ahlak kuralları** (ihlali vicdan azabı = **sübjektif ahlak**, ya da toplumsal kınama = **objektif ahlak**) ve **din kuralları** (manevi yaptırımlı).",
+        "**Hukuk kuralları**, devlet tarafından konulan, uygulanan ve uyulması zorunlu kurallardır.",
+        "Hukuku diğerlerinden ayıran fark: devlet **cebir (zor kullanma)** gücüyle maddi yaptırım uygulayabilir; diğer kuralların yaptırımı sadece manevidir."
+      ]
+    },
+    {
+      "heading": "Hukukun Türleri: Kamu, Özel, Karma",
+      "emoji": "⚖️",
+      "bullets": [
+        "**Kamu hukuku**, devletin kuruluş-görev-yetkilerini ve devletin diğer devlet/kişilerle ilişkisini düzenler; taraflar eşit değildir, devlet üstün güçle tek taraflı kural koyar.",
+        "Kamu hukuku dalları: **Anayasa Hukuku**, **İdare Hukuku**, **Ceza Hukuku**, **Uluslararası Kamu Hukuku** ve Mali Hukuk.",
+        "**Özel hukuk**, eşit ve özgür taraflar arasındaki ilişkileri düzenler (örnek: satış sözleşmesi, nikah).",
+        "Özel hukuk dalları: **Medeni Hukuk**, **Borçlar Hukuku**, **Ticaret Hukuku** ve **Devletler Özel Hukuku**.",
+        "Taraflardan birinin devlet olması tek başına belirleyici değildir; asıl ölçüt ilişkideki eşitliktir.",
+        "Her iki hukuktan özellik taşıyan dallar **karma hukuk** sayılır: İş, Fikri Mülkiyet, Bankacılık, Hava, Çevre, Yargılama, İcra-İflas ve **Vergi Hukuku** gibi; **Spor Hukuku** da bu karma yapıya örnektir."
+      ]
+    },
+    {
+      "heading": "Yaptırım: Kurallara Uyulmazsa Ne Olur?",
+      "emoji": "🔨",
+      "bullets": [
+        "**Yaptırım**, kurala uyulmadığında devletin devreye girerek hukuka uygun davranışı sağladığı zorlayıcı önlemdir; düzeltici ve caydırıcı etkisi vardır.",
+        "Hukuku diğer kurallardan ayıran şey, yaptırımı **cebren (zorla)** uygulatabilmesidir.",
+        "**Cebri icra**: devletin gücüyle bir yükümlülüğün zorla yerine getirilmesi (örn. borcun haczedilmesi).",
+        "**Tazminat**: zararın giderilmesi; maddi tazminat ve manevi tazminat olarak ikiye ayrılır.",
+        "**Geçersizlik (hükümsüzlük)**: hukuka, ahlaka veya kamu düzenine aykırı işlemlerin hiçbir hüküm doğurmaması.",
+        "**Ceza**: kanunun suç saydığı bir fiil veya ihmali işleyen kişiye uygulanan yaptırımdır.",
+        "**Yokluk**: ağır bir sakatlık nedeniyle işlemin hiç yapılmamış sayılması; **İptal**: hukuka aykırı işlemin dava yoluyla baştan itibaren geçersiz kılınması."
+      ]
+    },
+    {
+      "heading": "Hukukun Kaynakları ve Normlar Hiyerarşisi",
+      "emoji": "🏛️",
+      "bullets": [
+        "Hukukun kaynakları **asıl (asli)** ve **yardımcı (tali)** kaynaklar olarak ikiye ayrılır.",
+        "**Yazılı kaynaklar**: Anayasa, Kanunlar, Milletlerarası Antlaşmalar, Cumhurbaşkanlığı Kararnameleri ve Yönetmelikler (bazı eski KHK/tüzükler de hâlâ geçerli olabilir).",
+        "**Yazısız kaynaklar**: **örf ve adet hukuku**, doktrin ve içtihat; TMK md.1'e göre yazılı kaynak yetersiz kalınca sırayla bunlara başvurulur.",
+        "**Anayasa**, devletin kuruluşunu ve kişilerin hak/sorumluluklarını düzenleyen, diğer tüm kanunlardan üstün temel normdur (Türkiye'de katı/sert bir Anayasa uygulanır).",
+        "Güçler ayrılığı: **yasama** TBMM'nin (md.7), **yürütme** Cumhurbaşkanı'nın (md.8), **yargı** bağımsız ve tarafsız mahkemelerin (md.9) yetkisidir.",
+        "**Normlar hiyerarşisi** (Kelsen), üstteki normun alttakini belirlediği sıralamadır: en üstte Anayasa; sonra Kanun-Milletlerarası Antlaşma-OHAL dönemi CB Kararnamesi; sonra Olağan dönem CB Kararnamesi; en altta Yönetmelikler.",
+        "Temel hak ve özgürlüklere ilişkin bir milletlerarası antlaşma ile kanun çatışırsa, **antlaşma** esas alınır."
+      ]
+    },
+    {
+      "heading": "Kişi ve Hak Kavramları",
+      "emoji": "🪪",
+      "bullets": [
+        "Kişiler **gerçek kişiler** ve **tüzel kişiler** olmak üzere ikiye ayrılır (Türk Medeni Kanunu).",
+        "Gerçek kişi, kendi namına hak edinebilen insandır; herkes **hak ehliyeti**ne sahiptir, **fiil ehliyeti** ise ayırt etme gücü olan ve kısıtlı olmayan erginlerde bulunur.",
+        "Tüzel kişi, insanların ortak amaçla oluşturduğu, kendi kişiliğinden ayrı örgüt/mal topluluğudur (dernek, vakıf, şirket gibi); amacı hukuka/ahlaka aykırı topluluklar tüzel kişilik kazanamaz.",
+        "Spor alanında **sporcular, antrenörler ve yöneticiler gerçek kişi**dir; **spor kulüpleri, vakıflar, şirketler, federasyonlar ve konfederasyonlar tüzel kişi**dir.",
+        "Spor kulüplerinin tüzel kişiliği **5253 sayılı Dernekler Kanunu**'na dayanır.",
+        "**Hak**, hukuk düzeninin kişilere tanıdığı yetkidir; **kamu hakları** (kişi-devlet ilişkisi) ve **özel haklar** (kişiler arası ilişki) olarak ikiye ayrılır.",
+        "Anayasa'nın **58. ve 59. maddeleri**, gençliğin korunmasını ve sporun geliştirilmesini sosyal-ekonomik hak olarak güvence altına alır."
+      ]
+    },
+    {
+      "heading": "Spor Hukuku Nedir?",
+      "emoji": "🏅",
+      "bullets": [
+        "**Spor**, hareket ihtiyacına dayalı, kurallı, sosyalleşme ve meslekleşme sağlayan; yönetim, iktisat, pazarlama, uluslararası ilişkiler ve hukukla iç içe bir alandır.",
+        "Farklı kültürlerden insanları bir araya getirmesi, hak ve menfaatlerin korunması için hukuka duyulan ihtiyacı doğurur; böylece **spor hukuku** ayrı bir alan olarak ortaya çıkar.",
+        "**Spor hukuku**, sporun sorunlarına hukuki çözüm üreten, adalet ve eşitliği güçlendiren, spor örgütlerinin kuruluş-görev-yetkisini belirleyen bilim dalıdır.",
+        "Hem kamu hem özel hukuktan beslendiği için **karma hukuk dalı** sayılır; spor yönetimiyle de güçlü bir bağı vardır (plan, örgütlenme, denge kurma, karar alma).",
+        "**Gerçek kişi süjeler**: antrenörler, teknik direktörler, sporcular, spor yöneticileri, hakemler, gözlemciler, il temsilcileri, seyirciler.",
+        "**Tüzel kişi süjeler**: spor kulüpleri, spor federasyonları, spor eğitimi veren yükseköğretim kurumları, **Gençlik ve Spor Bakanlığı**, konfederasyonlar, tahkim kurulları.",
+        "Konu başlıkları: örgüt kuruluşu/tescili, spor politikaları, şike-doping-ırkçılık gibi disiplin konuları, transfer/sözleşme, tahkim ve uyuşmazlık çözümü, tesislerin teknik esasları — hepsinde adalet, fırsat eşitliği ve fair-play korunur."
+      ]
+    }
+  ]
+}

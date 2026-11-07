@@ -1,0 +1,95 @@
+{
+  "summary": [
+    {
+      "heading": "Beslenme: Performansın Temeli",
+      "emoji": "🥗",
+      "bullets": [
+        "**Yeterli beslenme**, vücudun karbonhidrat, protein ve yağdan enerji alarak yaşamını sürdürmesidir; **dengeli beslenme** ise tüm besin ihtiyaçlarını sağlığı koruyacak şekilde karşılamaktır.",
+        "**IOC (Uluslararası Olimpiyat Komitesi)**, besini sağlığı ve vücut fonksiyonlarını korumak için tüketilen gıdalar olarak tanımlar.",
+        "Dengeli beslenme antrenman uyumunu, toparlanmayı, bağışıklığı, uyku kalitesini ve konsantrasyonu artırır; sakatlık/hastalık tedavisine de destek olur.",
+        "Antrenmanda kaslar daha sık ve güçlü kasılır, **solunum hızı** ve **kalp atım hızı (KAH)** artar; bu yüzden sporcular sporcu olmayanlardan daha fazla enerji harcar.",
+        "Çocuklarda kilogram başına enerji harcaması yetişkinlerden fazladır (7 yaşında ~%25 daha fazla) çünkü kas koordinasyonu henüz tam gelişmemiştir.",
+        "Yetersiz enerji alımı çocuk/gençlerde ergenlik gecikmesi, boy kısalığı, kemik ve sakatlık sorunları, adet düzensizliği gibi ciddi sonuçlara yol açabilir.",
+        "Enerji gereksinimini yaş, cinsiyet, vücut kompozisyonu ve antrenman ortamı (sıcaklık, nem, yükselti) etkiler; her şeyden önce öncelik **sağlığın korunmasıdır**."
+      ]
+    },
+    {
+      "heading": "Enerji Sistemleri: Vücudun Yakıtı",
+      "emoji": "⚡",
+      "bullets": [
+        "**Kalori**, 1 gram suyu 1°C ısıtmak için gereken enerjidir; **1 kilokalori (kkal) = 1000 kalori**.",
+        "Enerji veren makro besinler: **karbonhidrat ve protein 1 gramda ~4 kkal**, **yağ 1 gramda ~9 kkal** verir; vitamin, mineral ve su kalori içermez.",
+        "Günlük enerji harcamasının %60-75'i **bazal metabolizma**, ~%10'u besinlerin termik etkisi, kalanı fiziksel aktivitedir; **Harris-Benedict formülü** bazal metabolizmayı hesaplamada en yaygın kullanılan yöntemdir.",
+        "Hücrenin enerji molekülü **ATP**'dir; vücuttaki deposu sınırlıdır (80-100 gram) ve sürekli yenilenmesi gerekir.",
+        "Kısa, yüksek şiddetli hareketlerde enerji önce **ATP-CP (fosfojen) sistemi**nden, sonra oksijensiz çalışan **anaerobik glikoliz (laktik asit) sistemi**nden gelir (1-3 dakikalık, 100-800 metrelik koşular).",
+        "Oksijen kullanan **aerobik (oksidatif) sistem** uzun süreli aktivitelerde devreye girer; etkinliğini **VO2maks** (maksimal oksijen tüketimi) belirler.",
+        "Antrenman 10 dakikayı geçtiğinde enerji ağırlıkla aerobik sistemden gelir; 60 dakikayı aşan antrenmanlarda kas-karaciğer glikojen depoları tükenmeye başlar ve performans düşer."
+      ]
+    },
+    {
+      "heading": "Karbonhidratlar: Ana Yakıt",
+      "emoji": "🍞",
+      "bullets": [
+        "Karbonhidratlar vücudun temel enerji kaynağıdır ve beynin yakıtı olan **glikoz**u sağlar; basit karbonhidratlar hızlı, **kompleks karbonhidratlar** (ekmek, pirinç, sebze, tahıl) yavaş sindirilir. Sporcularda günlük alımın %80-85'i kompleks karbonhidrat olmalı.",
+        "Karbonhidrat depoları: karaciğerde ~100 gram, kasta ~300-400 gram **glikojen**, kanda 15-20 gram glikoz; düzenli antrenmanla bu depo 2 katına çıkabilir.",
+        "**Glisemik indeks**, bir besinin kan şekerini yükseltme hızını gösterir; basit karbonhidratlar genelde yüksek, kompleks karbonhidratlar düşük-orta glisemik indekslidir.",
+        "Antrenmandan **3 saat önce**, orta-düşük glisemik indeksli ve **katı** karbonhidratlar (%60-65, 3-5 g/kg) içeren, düşük yağlı bir öğün yenmelidir.",
+        "1 saati aşan antrenmanlarda saatte ~60 gram karbonhidrat, %6-8'lik sporcu içecekleriyle 15-20 dakikada bir alınmalı; süre 3 saate yaklaşınca miktar %50 artırılmalı.",
+        "Antrenman sonrası doğru beslenmeyle glikojen depoları **24-48 saatte** dolar, yanlış (düşük karbonhidratlı) beslenmeyle bu **72 saate** çıkar; ilk 2 saat yeniden dolum için en kritik zamandır.",
+        "Yarış öncesi **karbonhidrat yükleme**sinde, yarıştan 5-7 gün önce alım 10-12 g/kg'a çıkarılırken antrenman yoğunluğu azaltılır."
+      ]
+    },
+    {
+      "heading": "Proteinler: Yapı Taşları",
+      "emoji": "💪",
+      "bullets": [
+        "Proteinin birincil görevi enerji üretmek değil, **hücre onarımı, kas dokusu yenilenmesi**, hemoglobin/antikor ve enzim-hormon üretimidir; yeterli karbonhidrat varken enerjiye katkısı sınırlıdır.",
+        "Proteinin yapı taşı **aminoasit**lerdir; 22 aminoasitten 8'i vücutta üretilemez ve besinle alınması gerekir (**esansiyel aminoasitler**).",
+        "Lösin, izolösin ve valinden oluşan **BCAA (dallı zincirli aminoasitler)**, uzun antrenmanların son evrelerinde enerjinin ~%10'unu sağlayabilir.",
+        "Hayvansal proteinler (yumurta, et, süt) bitkisel proteinlere göre daha kaliteli kabul edilir; bitkisel proteinler esansiyel aminoasit açısından eksiktir.",
+        "Günlük protein ihtiyacı: sedanterlerde 0.8-1 g/kg, dayanıklılık sporcularında 1.2-1.7 g/kg, kuvvet-güç sporcularında **1.6-2 g/kg**; kas kütlesi artırmak isteyenlerde bu **2.5-3 g/kg**'a çıkabilir, daha fazlası ek fayda sağlamaz.",
+        "Sporcularda günlük enerjinin %15-20'si proteinden gelmeli; ISSN her öğünde 20-40 gram (0.40-0.55 g/kg) kaliteli protein, karbonhidratla birlikte, 3-4 saatte bir tüketilmesini önerir.",
+        "Uykudan yarım saat önce alınan 30-40 gram **kazein** (süt, yoğurt), gece boyunca kas protein sentezini destekler."
+      ]
+    },
+    {
+      "heading": "Yağlar: Dev Enerji Deposu",
+      "emoji": "🥑",
+      "bullets": [
+        "Yağlar vücudun en büyük enerji deposudur (**trigliserid** olarak saklanır); 1 gram yağ ~9 kkal verir, karbonhidrat/proteinin iki katından fazla.",
+        "Yağların görevleri: organları darbeden koruma, vücut sıcaklığını koruma, büyüme-gelişmeyi desteklemek, beyin/göz/cilt sağlığı ve **A, D, E, K vitaminlerinin** emilimini sağlamaktır — kas hasarının onarımı yağların görevi DEĞİLDİR, bu proteinin işidir.",
+        "Diyetteki yağ oranı %15-25 olmalı; %15'in altı yağda eriyen vitamin eksikliğine yol açabilir.",
+        "Yağ asitleri doymuş, tekli doymamış ve çoklu doymamış olarak sınıflanır; **omega 3 ve omega 6** dışarıdan alınması zorunlu olduğundan **esansiyel yağ asitleri** denir.",
+        "DSÖ, omega6/omega3 oranının 5'e 1 olmasını önerir, ama gerçek oran çoğu ülkede 16-25'e 1'dir; aşırı doymuş yağ kalp-damar riskini artırır (toplam yağın %7'sini geçmemeli).",
+        "Yağlar karbonhidrattan ~50 kat fazla depolanabilir ama enerjiye dönüşümü daha fazla oksijen gerektirir; bu yüzden yüksek şiddetli antrenmanda değil, **dinlenim ve düşük şiddetli** egzersizde öncelikli kullanılır.",
+        "Çoklu doymamış yağ asitleri hormon (insülin, testosteron, büyüme hormonu) sentezine katkı sağlar; haftada 2-3 kez balık tüketimi önerilir."
+      ]
+    },
+    {
+      "heading": "Vitaminler ve Mineraller: Küçük ama Kritik",
+      "emoji": "💊",
+      "bullets": [
+        "**Vitaminler**, enerji vermeyen ama enerjinin açığa çıkmasına yardım eden mikro besinlerdir; üst düzey sporcularda ihtiyaç normal insanların 3-6 katı olabilir.",
+        "**Yağda eriyen vitaminler (A, D, E, K)** vücutta depolanır ve fazlası toksik olabilir; **suda eriyen vitaminler (B grubu, C)** depolanmaz, fazlası idrarla atılır.",
+        "**D vitamini** kalsiyum-fosfor emilimi, kemik gelişimi ve testosteron üretiminde görevlidir; sporcularda eksikliği yaygındır, günde 4000 IU takviye önerilebilir.",
+        "**B12 vitamini** sadece hayvansal gıdalarda bulunur, bu yüzden vegan/vejetaryenlerde eksiklik riski taşır; **C vitamini** kolajen yapımı ve bağışıklıkta önemlidir, ısıya karşı hassastır.",
+        "**Mineraller**, vücutta üretilemeyen inorganik maddelerdir, vücut ağırlığının ~%4'ünü oluşturur; **makro mineraller** (kalsiyum, sodyum, potasyum vb.) fazla, **mikro mineraller** (demir, çinko, iyot vb.) az miktarda gerekir.",
+        "**Kalsiyum** kemik sağlığı ve kas kasılması için önemlidir (D vitamini ve magnezyuma bağlı çalışır); **potasyum ve sodyum** sıvı-elektrolit dengesini korur.",
+        "**Demir**, hemoglobin ve myoglobinle oksijen taşır; demir eksikliği anemisi özellikle dayanıklılık ve kadın sporcularında sık görülür, C vitamini emilimini artırırken çay/kahve azaltır."
+      ]
+    },
+    {
+      "heading": "Su ve İçecekler: Hidrasyon Şart",
+      "emoji": "💧",
+      "bullets": [
+        "Vücuttaki su oranı %50-75 arasındadır (çocuklarda en yüksek); **hidrasyon**, alınan ve kaybedilen suyun eşit olmasıdır.",
+        "Terle kaybedilen vücut ağırlığının %2'si performans düşüşüne, %4'ü kassal güç kaybına, %5'i sıcak çarpmasına, %7'si halüsinasyona, %10'u ciddi sıcak çarpması ve kardiyovasküler çöküşe yol açabilir.",
+        "Antrenman öncesi son öğünde 2-2.5 bardak, antrenmandan 20-30 dakika önce 1-2 bardak su içilmelidir.",
+        "1 saati aşan antrenmanlarda her 20 dakikada 150-250 ml soğuk (4-8°C), %6-8 karbonhidrat içeren sporcu içeceği önerilir (saatte ~60 gram karbonhidrat); sıcaklık 30°C'yi veya süre 2.5 saati aşarsa miktar %50 artırılmalı.",
+        "Sıvı kaybı antrenman öncesi-sonrası tartılarak hesaplanabilir; idrar rengi de hidrasyonu gösterir (açık renk iyi, koyu renk ciddi dehidrasyon işaretidir).",
+        "Kaybedilen sıvının **%120-150'si** takip eden 24 saat içinde yerine konmalıdır; örneğin 3 litre kayıp için **4.5 litre** sıvı içilmelidir.",
+        "Sadece su içmek yetersiz olabilir; su yanında süt, ayran, maden suyu ve sporcu içecekleri de tüketilmeli, çikolatalı süt kas onarımına yardımcı olur."
+      ]
+    }
+  ]
+}

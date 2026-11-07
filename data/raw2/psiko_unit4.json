@@ -9,65 +9,114 @@
     "Sporda fair play anlayışının gerileme nedenlerini açıklayabilme",
     "Dünyada ve Türkiye'deki fair play örgütlenmelerini ve ödül kategorilerini ifade edebilme"
   ],
-  "keywords": ["Spor", "Fair Play", "Formal Fair Play", "İnformal Fair Play", "Ödül"],
+  "keywords": [
+    "Spor",
+    "Fair Play",
+    "Formal Fair Play",
+    "İnformal Fair Play",
+    "Ödül"
+  ],
   "summary": [
     {
-      "heading": "Fair Play Teriminin Köken ve Anlam Gelişimi",
-      "paragraphs": [
-        "Türkçeye İngilizceden giren 'fair play' sözcüğünün dilimizdeki tam kelime karşılığı 'adil oyun'dur. Kavramın bugünkü anlam içeriğine kavuşabilmesi uzun bir tarihsel süreç gerektirmiştir. Oyunu tanımlayan 'fair' sıfatı, 4. yüzyıldan itibaren Germen yazı dilinde önce 'uygun', 'yararlı' anlamı taşımış, sonraları 'güzel', 'dostça' anlamlarını da yüklenmiştir; bu, kelimenin bugünkü 'estetik' içerikli kullanımını başlangıçtan beri koruduğunu gösterir. 14. yüzyıl İngiliz edebiyatında ise 'terbiyeli', 'namuslu', 'dürüst', 'doğru sözlü' anlamlarının yüklenmesiyle kelimeye 'etik' kapsam da dahil olmuş ve anlam genişlemesi yaşanmıştır. Yani 'fair' kelimesi önce estetik, sonra etik bir içerik kazanmıştır.",
-        "Mevcut bilgiler, 'fair play' ifadesinin 15. ve 16. yüzyıllarda henüz fiziksel aktiviteler bağlamında kullanılmadığını göstermektedir; bu dönemde kavramın oyunla dolaylı bağlantılı ilk biçimleri, şövalye turnuva kurallarında geçen 'fayre Attaynt' (adil/dürüst kazanma) ve centilmenlik dışı davranışı tanımlayan 'foule play' (faullü oyun) ifadelerinde görülür. Kavramı spor/rekabet bağlamında ilk kullanan kişi Shakespeare'dir: 16. yüzyıldan 17. yüzyıla geçişte, en az iki bireyin rekabete dayalı ilişkisi bağlamında, 'fırsat eşitliğini korumak' ve 'şövalyece düşünüş tarzını göstermek' anlamında şans oyunları çerçevesinde kullanmıştır. Kavram spor terminolojisine doğrudan 18. yüzyılda girmiş, 19. yüzyıldan itibaren sporda en önemli tutumları tanımlayan terim olarak ağırlık kazanmıştır.",
-        "Türkçe literatürde 'fair play' terimini ilk kullanan ve tanıtan kişi, Türk beden eğitiminin ve olimpizminin öncüsü Selim Sırrı Tarcan'dır; 1926 yılında bastığı 'Sporcu Neler Bilmeli' adlı eserinde, terimin 'sporda nezaketi, asaleti ve cömertliği kendine rehber edinmek' anlamına geldiğini vurgulamıştır. 1928 tarihli 'Spor Ruhu' adlı eserde de fair play benzer biçimde tanımlanmıştır. Tamamen fair play konulu ilk Türkçe kaynak ise 1974 yılında yayımlanan 'Sporda Erdemlik – Fair Play' adlı çeviridir; bu sayede kavramın Türkçe karşılığı 'sporda erdemlik' olarak yerleşmiş, sonraları 'sportif erdem' kullanımı da önerilmiştir. Türk Dil Kurumu ise terim için 'dürüst oyun' karşılığını önermektedir."
+      "heading": "Fair Play Kelimesinin Kökeni",
+      "emoji": "📜",
+      "bullets": [
+        "**Fair play** Türkçede \"adil oyun\" demektir; bugünkü anlamına ulaşması uzun bir süreç almıştır.",
+        "4. yüzyıldan beri Germen dilinde \"fair\" önce \"uygun, yararlı\", sonra \"güzel, dostça\" anlamına gelmiş - yani önce **estetik** bir içerik taşımıştır.",
+        "14. yüzyıl İngiliz edebiyatında \"terbiyeli, dürüst, doğru sözlü\" anlamları eklenerek kelimeye **etik** bir boyut da katılmıştır.",
+        "15-16. yüzyılda şövalye turnuvalarında \"fayre Attaynt\" (adil kazanma) ve \"foule play\" (faullü oyun) ifadeleri görülür; henüz spora özgü bir terim değildir.",
+        "Kavramı rekabet bağlamında ilk kullanan kişi **William Shakespeare**'dir (16-17. yüzyıl geçişi); \"fırsat eşitliğini korumak\" ve \"şövalyece düşünüş tarzı\" anlamında kullanmıştır.",
+        "Terim spor diline 18. yüzyılda girmiş, 19. yüzyıldan itibaren sporun en önemli tutumu haline gelmiştir.",
+        "Türkçede terimi ilk kullanan kişi **Selim Sırrı Tarcan**'dır (1926, \"Sporcu Neler Bilmeli\"); 1974'teki \"Sporda Erdemlik – Fair Play\" çevirisiyle \"sporda erdemlik\" karşılığı yerleşmiş, **Türk Dil Kurumu** ise \"dürüst oyun\" önerir."
       ]
     },
     {
-      "heading": "Fair Play Kavramının Kapsamı ve Temel Şartları",
-      "paragraphs": [
-        "Sporda fair play anlayışının merkezinde sporcu bulunur; çünkü sporcu, oyunun gerçekleşmesini sağlayan asli unsur olmakla birlikte oyunun sonucunu doğrudan etkileyen ve hakem, antrenör, yönetici, seyirci, basın gibi çevrelerden de etkilenen en önemli aktördür. Fair play ilkelerine uygun bir yarışma ortamının yaratılabilmesi için beş asgari temel şart gereklidir: kurallara uyma, hakem kararlarını kabullenme, rakibe saygı, fırsat eşitliği ve yarışma şartlarının eşitliği.",
-        "Kurallara uyma, oyun kurallarına kesin ve eksiksiz uymayı şart koşar; kurucu kurallar ilgili sporun oynanmasını mümkün kılan, ihlali o sporu başka bir faaliyete dönüştüren kurallardır (örneğin futbolda topu sürekli elle oynamak futbolu ortadan kaldırır), düzenleyici kurallar ise oyun içindeki talimatlara (örn. boksta yumruk atmanın serbest, futbolda yasak olması) ilişkindir. Hakem kararlarını kabullenme de fair play'in vazgeçilmez unsuru olarak vurgulanır; rakibe saygı ise rakibin bir oyun partneri olarak görülüp değer verilmesini gerektirir.",
-        "Fırsat eşitliği, yarışma şartlarının biçimsel benzerliğinin talep edilmesi anlamına gelir. Yarışma şartlarının eşitliği ise genetik donanım, ülke imkanları, antrenör, antrenman, beslenme gibi farklılıkların ortadan kaldırılması değil; sadece yarışmaya başlama şartlarının (start şanslarının) formal olarak eşitlenmesi demektir. Güreş, boks ve halter gibi branşlarda sıklet (ağırlık) kategorilerinin oluşturulması bu amaca hizmet eder; nitekim Antik Çağ'da sıklet düzenlemesi bulunmadığından bu dönemin yarışmalarında fırsat eşitliği ilkesinden söz edilemez."
+      "heading": "Fair Play'in 5 Temel Şartı",
+      "emoji": "⚖️",
+      "bullets": [
+        "Fair play'in merkezinde **sporcu** vardır; sonucu etkiler ama hakem, antrenör, seyirci gibi çevrelerden de etkilenir.",
+        "Adil bir yarışma ortamı için 5 temel şart gerekir: **kurallara uyma**, **hakem kararlarını kabullenme**, **rakibe saygı**, **fırsat eşitliği** ve **yarışma şartlarının eşitliği**.",
+        "**Rakibe saygı**, rakibi bir **oyun partneri** olarak görüp değer vermek demektir.",
+        "Kurallara uyma ikiye ayrılır: **kurucu kurallar** (ihlali sporu başka bir faaliyete çevirir, örn. futbolda eli kullanma) ve **düzenleyici kurallar** (örn. boksta yumruk serbest, futbolda yasak).",
+        "**Fırsat eşitliği**, yarışma şartlarının biçimsel olarak benzer olmasını ister.",
+        "**Yarışma şartlarının eşitliği**, imkan ve antrenman farklarını yok etmez, yalnızca start şansını eşitler; bu yüzden güreş, boks, halterde **sıklet (ağırlık) kategorileri** vardır.",
+        "Antik Çağ'da sıklet düzenlemesi yoktu, bu yüzden o dönemde fırsat eşitliğinden söz edilemez."
       ]
     },
     {
       "heading": "Formal ve İnformal Fair Play",
-      "paragraphs": [
-        "Fair play tanımı kapsamında verilen iki anlayış, ilk defa 1964 yılında Hans Lenk tarafından 'formal' ve 'informal' fair play olarak ayrımlaştırılmıştır. Formal fair play, amir hükümler içeren oyun kurallarını kabullenme ve onlara kesinlikle uyma ile sınırlıdır; sporun düzenli akışının olmazsa olmazı olan kurucu kurallara saygı ve hakem talimatlarına kesin itaat, formal fair play'in merkezi unsurlarıdır. Günümüzde kural ihlallerinin 'enselenmemek' (yakalanmamak) kriteriyle göze alındığı ve bazı antrenmanlarda dahi öğretildiği görülse de, kurallara uyma ve riayet etme hâlâ fair play'in temeli olarak kabul edilmektedir.",
-        "İnformal fair play ise daha derin ve kapsayıcı bir anlam taşır; sporda kuralların belirlediğinin ötesinde, kurallar üstü bir davranışı talep eder. Sportif rakibe insan olarak saygı duymak, onurunu korumak, ona adalet, insani dayanışma ve hatta dostluk göstermek bu tür davranışlardandır ve bunları yazılı kural metinlerinde bulmak mümkün değildir. İnformal fair play; rakibin maruz kalacağı haksız durumları gidermeye çalışmayı, kendi yarar ve yargısına uygun olmasa bile hakem kararlarına saygı göstermeyi, hakemlerin doğru karar almasına yardımcı olmayı ve galibiyet ya da mağlubiyette ölçülü davranmayı esas alır. Kısacası formal fair play yazılı kurala sıkı sıkıya bağlılığı, informal fair play ise örf, âdet ve norm gibi yazılı olmayan beklentilere uygun davranmayı ifade eder."
+      "emoji": "🤝",
+      "bullets": [
+        "Bu ayrımı ilk kez 1964'te **Hans Lenk** \"formal\" ve \"informal\" fair play olarak yapmıştır.",
+        "**Formal fair play**, yazılı oyun kurallarına ve hakem talimatlarına kesinlikle uymakla sınırlıdır - örneğin bir kuralın (mesela doping yasağının) var olduğunu bilip ona uymak.",
+        "Günümüzde kuralları \"yakalanmadan\" çiğnemek bile görülse de, kurallara uymak hâlâ fair play'in temelidir.",
+        "**İnformal fair play**, yazılı kuralların ötesine geçer; rakibe insan olarak saygı, onurunu koruma, dayanışma ve dostluk göstermeyi içerir.",
+        "İnformal fair play; rakibin haksızlığını düzeltmeye çalışmayı, kendi aleyhine olsa da **hakem kararlarına saygı göstermeyi**, **hakemin doğru karar almasına yardımcı olmayı** ve kazanırken/kaybederken ölçülü davranmayı kapsar.",
+        "Kısaca: formal = yazılı kurala bağlılık, informal = örf, âdet ve norm gibi yazılı olmayan beklentilere uygun davranış."
       ]
     },
     {
-      "heading": "Antik Çağ ve Ortaçağ'da Fair Play Anlayışı",
-      "paragraphs": [
-        "MÖ 776'dan başlayıp bin yıldan fazla süren Antik Olimpiyat Oyunları'nda, yarışmacılar oyunların ilk günü kurallara uyacaklarına dair ant içer, hakemler de adil davranacaklarına ve bilgileri gizli tutacaklarına yemin ederlerdi. Kural ihlalleri ağır biçimde cezalandırılırdı: köle muamelesiyle kırbaçlama, yarışmalardan ihraç, hatta zaferi parayla satın almaya çalışan atletler için 'günah heykeli' diktirilmesi gibi yaptırımlar uygulanırdı. Buna karşın Antik Çağ'da, çağımızdaki mücadele sporlarının vazgeçilmezi olan sıklet (ağırlık kategorisi) düzenlemesi bulunmadığından, günümüz fair play anlayışının temel prensiplerinden biri olan 'yarışma şartlarının eşitliği'nden bahsedilemezdi. Klasik Çağ'da (MÖ 500-330) site devletleri arası rekabet arttıkça oyunların kutsallığı azalmış, yeminlerin yaptırım gücü de zayıflayarak kazanmak için etik dışı yollara başvurma eğilimi giderek artmıştır.",
-        "Ortaçağ'da ise 'şövalyeliğin yedi becerisi' (ata binme, yüzme, ok atma, eskrim, av, satranç, iyi şiir okuma) yalnızca soylulara özgü bedensel alıştırmalardı. Fair play'in kaynaklarını inceleyen araştırmacılara göre bu idealin ana hatları Ortaçağ şövalye turnuvalarında konulmuştur: şövalyece tutum, karşılaşmada şartların (örneğin silahların) eşitliğini, yenilmiş ya da silahsız kalmış rakibe onurlu muameleyi ve karşılaşma talimatlarına uymayı içeriyordu. Ancak Ortaçağ turnuvaları aynı zamanda krallık gücünün bir gösteri alanı olduğundan, modern fair play'in şart koştuğu 'performansı serbestçe ortaya koyma' ortamından uzaktı; turnuvalarda fırsat eşitliğinden çok zümre menfaatleri ve gösteriş ön plandaydı."
+      "heading": "Antik Çağ ve Ortaçağ'da Fair Play",
+      "emoji": "🏛️",
+      "bullets": [
+        "MÖ 776'dan başlayıp 1000 yıldan fazla süren **Antik Olimpiyat Oyunları**'nda sporcular kurallara uyacaklarına, hakemler adil davranacaklarına **ant içerdi**.",
+        "Kural ihlalleri ağır cezalandırılırdı: kırbaçlama, yarışmadan ihraç, hatta zaferi satın almaya çalışanlara \"**günah heykeli**\" diktirilmesi.",
+        "Antik Çağ'da **sıklet (ağırlık) kategorisi** yoktu, bu nedenle \"yarışma şartlarının eşitliği\" ilkesinden bahsedilemezdi.",
+        "Klasik Çağ'da (MÖ 500-330) site devletleri arası rekabet artınca yeminlerin gücü zayıflamış, etik dışı yollara başvurma artmıştır.",
+        "Ortaçağ'da \"**şövalyeliğin yedi becerisi**\" (ata binme, yüzme, ok atma, eskrim, av, satranç, şiir) sadece soylulara özgüydü.",
+        "Şövalye turnuvaları fair play'in köklerini oluşturur: silah eşitliği, yenilen/silahsız rakibe onurlu davranış ve talimatlara uyma.",
+        "Ancak turnuvalar aynı zamanda krallık gücünün gösterisiydi; fırsat eşitliğinden çok zümre menfaati ve gösteriş ön plandaydı."
       ]
     },
     {
-      "heading": "Modern Fair Play Anlayışının İngiltere'deki Gelişimi",
-      "paragraphs": [
-        "Modern fair play anlayışının sistematik temelleri 19. yüzyıl İngiltere'sinde atılmıştır. Bu süreçte en belirleyici rolü, Public Schools denilen yatılı kolejler (Eton, Harrow, Winchester, Rugby vb.) ve Oxford-Cambridge üniversiteleri oynamıştır. 19. yüzyılın ilk yarısında Thomas Arnold, müdürlüğünü yaptığı Rugby kolejinde öğrencilerde 'genç Hıristiyan centilmen' idealini yerleştirmeyi hedeflemiş, sporu moral eğitim aracı olarak kullanmış ve bireysel spordan çok takım sporunun geliştirilmesini amaçlamıştır. Yüzyılın ikinci yarısında Uppingham kolejinin müdürü Edward Thring ise spor ve jimnastiği müfredat programına dahil ederek öğrencilerin pratik hayata uyumunu sağlamayı hedeflemiştir. Takım oyunları, bireyin başka becerilerini (rakibe saygı, yenilgiyi soğukkanlılıkla karşılama, takım için çaba sarf etme) ferdi oyunlardan daha çok geliştirdiği için özellikle önemsenmiştir.",
-        "Fair play'in yaygınlaşmasında İngiliz soylularının yüzyıllardır süregelen bahis, yarışma ve yarıştırma tutkusu da önemli rol oynamıştır; soylular karşılaşma boyunca iyi niyetin korunmasına ve kurallara uyulmasına dikkat ediyordu. Sadece büyük erkek çocukların unvan ve mülkiyet hakkına sahip olmasını hükme bağlayan primogeniture yasası nedeniyle orta sınıfa dahil olan diğer çocuklar, centilmen olarak kabul görmek için soyluların tutum ve davranışlarını örnek alarak fair play anlayışını alt tabakalara taşımışlardır. 18.-19. yüzyıllarda ortaya çıkan 'amatör kurallar' ise başlangıçta çalışan kesimi belirli spor dallarından (örn. Henley kürek yarışları) dışlamak amacıyla konmuş sınıfsal düzenlemeler olsa da, paradoksal biçimde sporun 'temiz' kalmasını garantileyerek fair play anlayışının yerleşmesine katkıda bulunmuştur. Bu gelişmelerin olumlu sonuçları, modern olimpiyat oyunlarının kurucusu Baron Pierre de Coubertin'i de etkilemiş ve fair play'in öngördüğü 'şövalyece düşünüş' anlayışı olimpizm fikrinin temellerinden birini oluşturmuştur."
+      "heading": "Modern Fair Play İngiltere'de Doğuyor",
+      "emoji": "🇬🇧",
+      "bullets": [
+        "Modern fair play'in temelleri 19. yüzyıl İngiltere'sinde, **Public Schools** (Eton, Harrow, Winchester, Rugby) ve Oxford-Cambridge'de atıldı.",
+        "**Thomas Arnold** (Rugby koleji müdürü), sporu moral eğitim aracı yaparak \"genç Hıristiyan centilmen\" idealini ve takım sporunu geliştirmeyi hedefledi.",
+        "**Edward Thring** (Uppingham müdürü), spor ve jimnastiği müfredata katarak öğrencilerin pratik hayata uyumunu sağladı.",
+        "Takım oyunları; rakibe saygı, yenilgiyi soğukkanlı karşılama gibi becerileri bireysel sporlardan daha iyi geliştirdiği için önemsenmiştir.",
+        "İngiliz soylularının bahis ve yarışma tutkusu, iyi niyetin ve kuralların korunmasına katkı sağladı.",
+        "**Primogeniture yasası** nedeniyle unvan alamayan orta sınıf çocukları, centilmen sayılmak için soyluların fair play tavrını örnek aldı.",
+        "**Amatör kurallar** (18-19. yy) başlangıçta çalışan kesimi dışlasa da, sporun \"temiz\" kalmasını sağlayarak fair play'e katkı yaptı; bu gelişmeler modern olimpiyatların kurucusu **Pierre de Coubertin**'i de etkiledi."
       ]
     },
     {
-      "heading": "Fair Play Anlayışında Gerileme Süreci",
-      "paragraphs": [
-        "Modern sporun İngiltere'deki başlangıcında denge açıkça informal fair play lehineydi: Viktorya dönemi İngiliz soylusu için galibiyet önemsizdi, sporu bizzat uygulamaktan alınan zevk önemliydi ve medyada anılmak kabalık sayılırdı. Ancak 19. yüzyıl sonu ile 20. yüzyıl başında sportif yarışmaların ticarileşmeye başlaması ve geniş halk kitlelerine açılmasıyla 'amaç' değişmiş, denge uygulamadan alınan zevkten ciddiyete doğru bozulmuştur. 20. yüzyıl boyunca bu denge giderek informal fair play'den formal fair play'e kaymıştır; bunun anlamı, fair play anlayışının eşit yarışma şartlarını sağlamaktan çıkıp yalnızca oyun kurallarına uymaya indirgenmesidir.",
-        "Günümüz yüksek performans sporunda, kurallara aykırı davranışı hakeme fark ettirmeden yapmak ('enselenmemek' ya da 'kendini yakalatmamak' kriteri) belirleyici hâle gelmiştir; bu durum kamuoyu, medya, sponsor ve politik çevrelerin sporcular üzerindeki performans baskısından kaynaklanmaktadır. Sporun uluslararası, ulusal veya yerel 'prestij' aracı olarak algılanması da ('kasabanın namusu', 'okulun şerefi' gibi özdeşleştirmeler) sürecin değerini kaybettirerek 'ne pahasına olursa olsun kazanma' anlayışını güçlendirmektedir. Araştırmalar, gençlerin kulüplerde aktif spor yapma süresi uzadıkça kural ihlallerini ve haksız avantaj sağlamayı 'akıllı bir taktik' olarak görmeye başladıklarını göstermektedir; buna karşın fair play, bariz ihlallere rağmen halkın, medyanın ve sponsorların modern spora ilgisinde hâlâ önemli bir rol oynamaktadır."
+      "heading": "Fair Play Neden Geriliyor?",
+      "emoji": "📉",
+      "bullets": [
+        "Viktorya dönemi İngiliz soylusu için galibiyet değil, sporu yapmaktan alınan zevk önemliydi - denge **informal fair play** lehineydi.",
+        "19. yüzyıl sonu - 20. yüzyıl başında sporun ticarileşmesi ve kitlelere açılmasıyla amaç değişti, denge ciddiyete kaydı.",
+        "20. yüzyıl boyunca denge **informal fair play**'den **formal fair play**'e kaydı: artık sadece kurallara uymak yeterli görülmeye başlandı.",
+        "Günümüzde kuralı hakeme \"**enselenmeden**\" (yakalanmadan) çiğnemek belirleyici hale geldi; bunun nedeni medya, sponsor ve kamuoyu baskısı.",
+        "Sporun \"kasabanın namusu\" gibi bir prestij aracı sayılması, \"**ne pahasına olursa olsun kazanma**\" anlayışını güçlendirdi - oysa gerçek fair play bunun karşıtıdır.",
+        "Gençler kulüplerde uzun süre spor yapınca kural ihlalini \"akıllı taktik\" olarak görmeye başlıyor; buna karşın fair play hâlâ halkın ve medyanın ilgisinde önemli bir yer tutuyor."
       ]
     },
     {
-      "heading": "Fair Play Kavramının Türkiye Serüveni",
-      "paragraphs": [
-        "19. yüzyıl sonlarında Osmanlı topraklarında görülmeye başlanan ve Meşrutiyet'in ilanı sonrasında yaygınlaşan modern spor uygulamalarında, fair play'e uygun davranış sergileyen sporcular genellikle 'centilmen', 'sportmen' ya da 'efendi' sıfatlarıyla anılıyordu. Türkçe literatürde terimi ilk kullanan kaynak Selim Sırrı Tarcan'ın 1926 tarihli eseridir; 1974'te yayımlanan 'Sporda Erdemlik – Fair Play' ile kavramın Türkçe karşılığı 'sporda erdemlik' olarak yerleşmiştir. Türkiye Milli Olimpiyat Komitesi'nin 1988 basımı 'Olimpik Hareket' adlı eserinde de konu 'Fair Play (Sporda Erdemlik)' başlığıyla ele alınmıştır.",
-        "Türk Dil Kurumu, Temmuz 1994'te yayımladığı çalışmada terim için 'dürüst oyun' karşılığını önermiş, medyada ise 'örnek davranış' ifadesi de kullanılmaya başlanmıştır. Türk Silahlı Kuvvetleri 2005'te yayımladığı bir kitapçıkta kavramı 'Sporda Centilmenlik ve Hakkaniyete Uyma Ruhu (Fair-Play)' olarak tanımlamıştır. Böylece fair play kavramı, Türkçede farklı karşılıklarla ifade edilmeye çalışılsa da, anlam zenginliğini kaybetmemek amacıyla genellikle özgün İngilizce terim olarak kullanılmaya devam etmiştir."
+      "heading": "Fair Play'in Türkiye'deki Yolculuğu",
+      "emoji": "🇹🇷",
+      "bullets": [
+        "Osmanlı'da 19. yüzyıl sonu - Meşrutiyet sonrasında fair play'e uygun davranan sporcular \"**centilmen**\", \"**sportmen**\" ya da \"**efendi**\" olarak anılırdı.",
+        "Türkçede terimi ilk kullanan kaynak **Selim Sırrı Tarcan**'ın 1926 tarihli \"Sporcu Neler Bilmeli\" adlı eseridir.",
+        "1974'te yayımlanan \"**Sporda Erdemlik – Fair Play**\" çevirisiyle Türkçe karşılık \"sporda erdemlik\" olarak yerleşti.",
+        "TMOK'un 1988 basımı \"Olimpik Hareket\" adlı eserinde konu \"Fair Play (Sporda Erdemlik)\" başlığıyla ele alındı.",
+        "**Türk Dil Kurumu**, Temmuz 1994'te terim için \"**dürüst oyun**\" karşılığını önerdi; medyada \"örnek davranış\" ifadesi de kullanıldı.",
+        "Türk Silahlı Kuvvetleri 2005'te kavramı \"Sporda Centilmenlik ve Hakkaniyete Uyma Ruhu (Fair-Play)\" olarak tanımladı.",
+        "Anlam zenginliği kaybolmasın diye kavram Türkçede genellikle özgün İngilizce \"fair play\" olarak kullanılmaya devam etti."
       ]
     },
     {
-      "heading": "Dünyada ve Türkiye'de Fair Play Kuruluşları ve Ödülleri",
-      "paragraphs": [
-        "Fair play ödülleri, sonuçtan bağımsız olarak sporda ya da toplumsal yaşamda gösterilen insani kalitelere verilir ve 'kaybederek de kazanılabilir' fikrini canlı tutmaya yöneliktir. Dünyada fair play organizasyonuna yönelik ilk adım 1963'te Münih'te atılmış, kurumsal yapı 1973'te 'Uluslararası Fair Play Komitesi' (CIFP) adını almış ve 1987'de IOC tarafından tanınmıştır. CIFP, merkezi Paris'te bulunan, kâr amacı gütmeyen bir sivil toplum kuruluşu olup dünya genelinde fair play'in savunuculuğunu ve tanıtımını yapar; 1965'ten itibaren davranış, kariyer ve tanıtım dallarında Dünya Fair Play Ödülleri (Pierre de Coubertin, Jean Borotra, Willi Daume ödülleri) verir. İlk Pierre de Coubertin Dünya Fair Play Büyük Ödülü, 1964 Innsbruck Kış Oyunları'nda rakiplerine kızak vidası vererek fırsat eşitliğini sağlayan İtalyan kızakçı Eugenio Monti'ye verilmiştir.",
-        "Avrupa düzeyinde ise 27 Mayıs 1994'te Zürih'te, Türkiye'nin de kurucu üyesi olduğu Avrupa Fair Play Birliği (EFPM) kurulmuştur; Türk üye Erdoğan Arıpınar birliğin 2. başkanlığına seçilmiştir. EFPM, Avrupa Fair Play Ödülleri, Fair Play Ruhu Ödülü, Fair Play Alevi Ödülü ve Fair Play Vox Ödülü gibi kategorilerde ödüller dağıtır ve 'Play Fair' adlı yayın organı aracılığıyla fair play'i tanıtır.",
-        "Türkiye'de fair play'e ilişkin ilk kurumsal yapılanma, 17 Kasım 1981'de Turgut Atakol başkanlığındaki Türkiye Milli Olimpiyat Komitesi (TMOK) yönetim kurulu tarafından oluşturulan 'Fair Play Komisyonu'dur. 1993'te IOC statüsüne uygun bir yönetmelikle 'TMOK Fair Play Konseyi' kurulmuş; konsey 1994'ten itibaren ödülleri davranış, kariyer ve tanıtım dallarında Büyük Ödül, Şeref Diploması ve Kutlama Ödülü olarak vermeye başlamıştır. 1999'dan itibaren ödüller Toplumsal ve Sportif Fair Play ödülleri olmak üzere iki ana başlıkta toplanmıştır. Türkiye'den İsmet Karababa (1983, ilk Türk fair play ödülü sahibi), Naim Gölleroğlu, Hayrettin Karaca ve Yasemin Adar gibi isimler ulusal ve uluslararası fair play ödülleri almıştır."
+      "heading": "Fair Play Ödülleri ve Kuruluşları",
+      "emoji": "🏆",
+      "bullets": [
+        "Fair play ödülleri sonuçtan bağımsız gösterilen insani kalitelere verilir; \"**kaybederek de kazanılabilir**\" fikrini canlı tutar.",
+        "Dünyadaki ilk adım 1963'te Münih'te atıldı; yapı 1973'te \"**Uluslararası Fair Play Komitesi**\" (**CIFP**) adını aldı ve 1987'de **IOC** tarafından tanındı.",
+        "Merkezi Paris'te olan CIFP, kâr amacı gütmez ve dünya genelinde fair play'in savunuculuğunu yapar; 1965'ten itibaren davranış, kariyer ve tanıtım dallarında **Dünya Fair Play Ödülleri** (Pierre de Coubertin, Jean Borotra, Willi Daume) verir.",
+        "İlk **Pierre de Coubertin Dünya Fair Play Büyük Ödülü**, 1964 Innsbruck Kış Oyunları'nda rakibine kızak vidası veren İtalyan kızakçı **Eugenio Monti**'ye verildi.",
+        "27 Mayıs 1994'te Zürih'te, Türkiye'nin kurucu üyesi olduğu **Avrupa Fair Play Birliği (EFPM)** kuruldu; Türk üye **Erdoğan Arıpınar** 2. başkan seçildi.",
+        "Türkiye'deki ilk kurumsal yapı, 17 Kasım 1981'de **Turgut Atakol** başkanlığındaki **TMOK** yönetim kurulunca kurulan \"**Fair Play Komisyonu**\"dur.",
+        "1993'te \"TMOK Fair Play Konseyi\" kuruldu; 1999'dan itibaren ödüller **Toplumsal** ve **Sportif Fair Play** olmak üzere iki başlıkta toplandı. **İsmet Karababa** (1983, ilk Türk ödülü sahibi), Naim Gölleroğlu, Hayrettin Karaca ve Yasemin Adar gibi isimler ödül aldı."
       ]
     }
   ],
@@ -255,7 +304,13 @@
     {
       "id": "u4q10",
       "question": "Türkiye'de Fair Play'e ilişkin ilk kurumsal yapılanma olan 'Fair Play Komisyonu' hangi organizasyonel yapı içerisinde yer almaktadır?",
-      "options": ["CIFP", "EFPM", "TMOK", "UEFA", "EOC"],
+      "options": [
+        "CIFP",
+        "EFPM",
+        "TMOK",
+        "UEFA",
+        "EOC"
+      ],
       "correctIndex": 2,
       "explanation": "Metinde, 17 Kasım 1981'de Turgut Atakol başkanlığında toplanan Türkiye Milli Olimpiyat Komitesi (TMOK) yönetim kurulunun, Türkiye'de fair play'e ilişkin ilk kurumsal yapılanma olan 'Fair Play Komisyonu'nu oluşturduğu açıkça belirtilmektedir.",
       "optionNotes": [

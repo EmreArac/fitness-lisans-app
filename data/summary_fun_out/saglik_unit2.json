@@ -1,0 +1,194 @@
+{
+  "summary": [
+    {
+      "heading": "Fizyoloji Nedir?",
+      "emoji": "🔬",
+      "bullets": [
+        "**Fizyoloji**, canlı organizmalardaki tüm yaşamsal işlevleri inceleyen bilim dalıdır (Latince \"yaşam\" + \"bilim\").",
+        "Moleküllerden organ ve sistemlere kadar her düzeyde, normal ve hastalıklı durumları araştırır; fizik, kimya ve biyolojiden yararlanır.",
+        "İnsan, hayvan ve bitki fizyolojisi gibi alt dallara ayrılır.",
+        "**Egzersiz ve Spor Fizyolojisi**, vücudun kassal çalışmaya verdiği cevabı ve antrenmanların fizyolojik temellerini inceler.",
+        "Egzersiz, antrenman ve hareketsizliğin vücut üzerindeki akut ve kronik etkilerini araştırır."
+      ]
+    },
+    {
+      "heading": "Canlının Ortak Özellikleri",
+      "emoji": "🧬",
+      "bullets": [
+        "Tüm canlılar ortak temel özellikler taşır: hücre yapısı, beslenme, solunum ve ATP üretimi.",
+        "**Metabolizma** ikiye ayrılır: **anabolizma** (basit moleküllerden karmaşık/büyük moleküllerin yapılması) ve **katabolizma** (karmaşık moleküllerin basit moleküllere parçalanması).",
+        "**Uyarılabilirlik**: iç veya dış kaynaklı elektrik sinyali, hormon ve salgı bezi değişikliklerini algılayıp tepki verme yeteneği.",
+        "**Homeostaz** iç ortamın sabit tutulmasıdır; **adaptasyon** ise çevre koşullarına uyum sağlamaktır.",
+        "Diğer özellikler: boşaltım, hareket, büyüme-gelişme, üreme ve kendine özgü yapısal organizasyon."
+      ]
+    },
+    {
+      "heading": "Vücudun Yapısal Katmanları",
+      "emoji": "🏗️",
+      "bullets": [
+        "Vücut hiyerarşik bir sıra izler: **Kimyasal düzey → Hücresel düzey → Doku → Organ → Organ sistemleri → Organizma**.",
+        "Doğadaki 92 elementten sadece 11'i canlılarda önemli miktarda bulunur.",
+        "Oksijen, karbon, hidrojen ve azot tek başına vücut ağırlığının **%96,3**'ünü oluşturur.",
+        "Kimyasal bileşenler **inorganik** (su, tuzlar) ve **organik** (karbonhidrat, lipit, protein, nükleik asit) olarak ikiye ayrılır.",
+        "**DNA** kalıtsal bilgiyi ve protein yapım talimatını taşır, **RNA** ise protein üretiminde görev alır."
+      ]
+    },
+    {
+      "heading": "Dört Doku Tipi",
+      "emoji": "🧩",
+      "bullets": [
+        "Vücutta 4 temel doku bulunur: **bağ dokusu**, **epitel dokusu**, **kas dokusu** ve **sinir dokusu**.",
+        "**Bağ dokusu** vücuttaki en yaygın dokudur; diğer dokuları bağlar, organları destekler ve korur.",
+        "**Epitel dokusu** iç-dış yüzeyleri örter; koruma, emme, salgılama ve duyu görevleri üstlenir.",
+        "**Kas dokusu** üç çeşittir: düz kas (istemsiz), iskelet kası (istemli) ve kalp kası (istemsiz, interkalar disklerle bağlı).",
+        "**Sinir dokusu**, uyarı ileten nöronlar ile destek sağlayan glia hücrelerinden oluşur."
+      ]
+    },
+    {
+      "heading": "Organlar ve Sistemler",
+      "emoji": "🫀",
+      "bullets": [
+        "İki veya daha fazla doku bir araya gelince **organ**, organlar birleşince **organ sistemi** oluşur.",
+        "Başlıca sistemler: deri (ısı/koruma), sinir (kontrol-koordinasyon), iskelet (destek), kas (hareket), endokrin (hormonlar).",
+        "Diğer sistemler: üriner, üreme, dolaşım (oksijen/besin taşır), lenfatik (bağışıklık), solunum (gaz değişimi) ve sindirim.",
+        "Her sistem, vücudun bütün olarak çalışmasına ve homeostazın korunmasına katkı sağlar."
+      ]
+    },
+    {
+      "heading": "İç Ortam ve Homeostaz",
+      "emoji": "⚖️",
+      "bullets": [
+        "Yetişkin vücudunun **%56-60'ı sıvıdır**; 2/3'ü hücre içinde (ICF), 1/3'ü hücre dışında (ECF) bulunur.",
+        "Hücre dışı sıvının 3/4'ü hücreler arası sıvı, 1/4'ü kan plazmasıdır; Claude Bernard bunu \"iç deniz\" diye adlandırmıştır.",
+        "**Homeostaz**, iç ortamın sabit koşullarda korunmasıdır; terimi ilk **Walter Cannon** tanımlamıştır.",
+        "**Negatif geri bildirim**, etkene zıt yanıt verip eski durumu geri getirir (örn. CO₂ artınca solunum hızlanır) — vücutta en yaygın türdür.",
+        "**Pozitif geri bildirim**de değişiklik giderek şiddetlenir; kan pıhtılaşması buna örnektir, daha az görülür."
+      ]
+    },
+    {
+      "heading": "Hücre: Yaşamın Temel Birimi",
+      "emoji": "🔎",
+      "bullets": [
+        "**Robert Hooke** 1665'te hücreyi keşfedip \"cellula\" adını vermiş; Leeuwenhoek mikroskopla mikroorganizmaları incelemiştir.",
+        "**Hücre**, canlıların yaşama ve üreme yeteneğine sahip en küçük yapısal/fonksiyonel birimidir.",
+        "İnsan vücudu yaklaşık **100 trilyon hücre**den oluşur.",
+        "**Prokaryotik hücreler** sadece bakterilerde bulunur, çekirdek zarı ve zarlı organeli yoktur.",
+        "**Ökaryotik hücreler** zarla çevrili çekirdeğe sahiptir; insanda yaklaşık **200 farklı hücre tipi** vardır."
+      ]
+    },
+    {
+      "heading": "Hücrenin Kimyasal İçeriği",
+      "emoji": "💧",
+      "bullets": [
+        "Hücreyi oluşturan **protoplazma** 5 temel maddeden oluşur: su, elektrolitler, proteinler, lipitler, karbonhidratlar.",
+        "Çoğu hücrenin **%70-85'i sudur** (yağ hücreleri hariç).",
+        "Hücre içinde en çok potasyum, magnezyum, fosfat; hücre dışında sodyum, kalsiyum, klor bulunur.",
+        "**Proteinler** kütlenin %10-20'sini oluşturur: yapısal proteinler ve enzim görevi gören globüler proteinler.",
+        "**Lipitler** enerji kaynağıdır (yağ hücresinin %95'i trigliserit); fosfolipit ve kolesterol hücre zarını oluşturur.",
+        "**Karbonhidratlar** genelde glikojen olarak depolanır (kasta %3'e, karaciğerde %6'ya kadar)."
+      ]
+    },
+    {
+      "heading": "Hücre Zarı Nasıl Yapılmış?",
+      "emoji": "🧱",
+      "bullets": [
+        "Hücre zarı (plazma membranı) 7,5-10 nanometre kalınlığında, ince ve elastik bir yapıdır.",
+        "1972'de Singer ve Nicholson'ın **akıcı mozaik model**ine göre, çift katlı fosfolipit tabaka içine proteinler gömülüdür.",
+        "Yaklaşık bileşim: %55 protein, %25 fosfolipit, %13 kolesterol, %4 diğer lipit, %3 karbonhidrat.",
+        "**Fosfolipitler**in suda çözünen (hidrofilik) ve çözünmeyen (hidrofobik) ucu, zarın seçici geçirgenliğini sağlar.",
+        "**İntegral proteinler** zarı boydan boya geçer (kanal/taşıyıcı); **periferik proteinler** yüzeye tutunur, genelde enzimdir.",
+        "Dış yüzeydeki **glikokaliks** (glikoprotein+glikolipit) hücrelerin birbirini tanımasını ve bağışıklık reaksiyonlarını sağlar."
+      ]
+    },
+    {
+      "heading": "Hücre Zarından Madde Geçişi",
+      "emoji": "🚪",
+      "bullets": [
+        "**Pasif taşıma** ATP harcamadan, yoğundan az yoğuna gerçekleşir: **difüzyon** ve **ozmoz** bu gruptadır.",
+        "Ozmozda hücre hipertonik ortamda su kaybedip büzülürse **plazmoliz**, hipotonik ortamda şişerse **deplazmoliz** denir.",
+        "**Aktif taşıma** ATP enerjisi kullanarak az yoğundan çok yoğuna taşır; örnek: sodyum-potasyum ATPaz pompası.",
+        "**Endositoz** büyük moleküllerin hücreye alınmasıdır: katılar için **fagositoz**, sıvılar için **pinositoz**.",
+        "**Ekzositoz**, hücre içi maddelerin (hormon, enzim gibi) dışarı atılmasıdır — bu üçü (fagositoz, pinositoz, ekzositoz) aktif taşımadır."
+      ]
+    },
+    {
+      "heading": "Hücrenin İçindeki Organeller",
+      "emoji": "🏭",
+      "bullets": [
+        "Organeller **membranlı** (hücre zarı, ER, golgi, mitokondri, lizozom, peroksizom) ve **membransız** (ribozom, sentriyol, filamentler) olarak ikiye ayrılır.",
+        "**Endoplazmik retikulum**: üzerinde ribozom olan tip protein sentezler, düz tip lipit sentezi/glikojen depolar; **ribozomlar** membransız protein üretim yeridir.",
+        "**Golgi aygıtı**, ER'den gelen maddeleri işleyip paketler; **lizozomlar** hücre içi sindirim yapan hidrolitik enzim deposudur.",
+        "**Peroksizomlar** lizozoma benzer ama kendini çoğaltır, toksik maddeleri etkisiz hale getirir.",
+        "**Mitokondri**, hücrenin solunum ve **enerji üretim merkezi**dir; besinlerden ATP üretir, kendi DNA'sına sahiptir.",
+        "**Çekirdek** DNA'yı taşır ve hücreyi yönetir; içindeki **çekirdekçik (nükleolus) zarsızdır** ve ribozomal RNA üretir."
+      ]
+    },
+    {
+      "heading": "Enerji, İş ve Güç",
+      "emoji": "⚡",
+      "bullets": [
+        "**Enerji**, bir sistemin iş yapabilme yeteneğidir; birimi joule veya kaloridir (1 kilokalori = 1000 kalori).",
+        "Canlıların temel enerji kaynağı güneştir: güneş→fotosentezle kimyasal enerji→hücresel solunumla ATP→ATP'nin hidrolizle kullanılması.",
+        "**İş** = kuvvet × mesafe; birimi newton-metre veya joule'dür.",
+        "**Güç**, birim zamanda yapılan iştir (güç = iş / zaman), birimi watt'tır — sıçrama ve sürat gibi hareketler kısa sürede yüksek güç ister.",
+        "Vücudun doğrudan enerji kaynağı **ATP**'dir, besinler ise dolaylı enerji kaynağıdır."
+      ]
+    },
+    {
+      "heading": "ATP: Vücudun Enerji Parası",
+      "emoji": "🔋",
+      "bullets": [
+        "**ATP** (adenozin trifosfat) adenozin ve 3 fosfattan oluşur; son iki bağ parçalanınca **7-12 kcal** enerji açığa çıkar, ADP+fosfat oluşur.",
+        "Vücuttaki ATP deposu sadece **~85 gram**dır, bu yüzden ATP sürekli yeniden üretilmelidir.",
+        "ATP üretimi 3 sistemde gerçekleşir: **ATP-CP (fosfojen) sistemi**, **laktik asit (anaerobik glikoliz) sistemi**, **aerobik (oksijen) sistemi**.",
+        "Fosfojen + laktik asit sistemleri birlikte **anaerobik sistemi**, oksijen sistemi tek başına **aerobik sistemi** oluşturur.",
+        "Bu üç sistem her aktivitede birlikte çalışır; oranları egzersizin süresi ve şiddetine bağlıdır."
+      ]
+    },
+    {
+      "heading": "Fosfojen Sistem: Anlık Patlama",
+      "emoji": "🚀",
+      "bullets": [
+        "**Fosfojen sistem**de kaslardaki ATP ve **kreatin fosfat (CP)** kullanılır; her 1 mol CP, 1 mol ATP üretir.",
+        "Oksijen gerektirmez, çok hızlı çalışır ama depoları sınırlıdır.",
+        "Kadınlarda ortalama **0,3 mol**, erkeklerde **0,6 mol** fosfojen bulunur; bu **10-15 saniyelik** maksimal egzersizi (örn. 100m koşu) destekler.",
+        "Atlama, sıçrama, atma, vurma gibi kısa-kuvvetli hareketlerde kullanılır.",
+        "Depoları hızla tükenir (10-30 saniyede yorgunluk) ama dinlenmede de hızla yeniden dolar."
+      ]
+    },
+    {
+      "heading": "Laktik Asit Sistemi",
+      "emoji": "🔥",
+      "bullets": [
+        "**Glikoliz**, glikoz veya glikojenin parçalanmasıdır; **anaerobik glikoliz (laktik asit sistemi)** oksijensiz, sitoplazmada gerçekleşir.",
+        "Enerji kaynağı **glikoz ve glikojen**dir (karbonhidrat); yağ veya protein bu sistemde kullanılmaz.",
+        "Depo **glikojen** kullanılırsa **1 mol → 3 mol ATP**; **kan glikozu** kullanılırsa **2 mol ATP** elde edilir.",
+        "Oksijen azlığında pirüvik asit **laktik aside** dönüşüp kasta birikir, pH'ı düşürür ve yorgunluğa yol açar.",
+        "Aerobik sistemin yaklaşık **%5'i** kadar ATP üretir; **1-3 dakikalık** yüksek şiddetli aktivitelerde (400-800m) baskındır."
+      ]
+    },
+    {
+      "heading": "Aerobik Sistem: Dayanıklılığın Gücü",
+      "emoji": "🌬️",
+      "bullets": [
+        "**Aerobik sistem**de karbonhidrat, yağ ve protein oksijenle tamamen parçalanır, son ürün **karbondioksit ve su**dur; mitokondride gerçekleşir.",
+        "Üç aşaması: **aerobik glikoliz**, **Krebs çemberi** ve **Elektron Transfer Sistemi (ETS)**.",
+        "Karbonhidratlardan **38-39 mol ATP**, yağlardan ise **129 mol ATP** üretilir — en çok ATP üreten sistemdir.",
+        "Yorgunluk yapan laktik asit gibi yan ürün oluşturmaz; yağın enerji kaynağı olabildiği tek sistemdir.",
+        "Oksijenin kaslara/mitokondriye ulaşması zaman aldığından **yavaş çalışır** (2-3 dakika)."
+      ]
+    },
+    {
+      "heading": "Dinlenim ve Egzersizde Hangi Sistem?",
+      "emoji": "🏃",
+      "bullets": [
+        "Dinlenimde enerji tamamen **aerobik sistem**den gelir: 2/3'ü yağdan, 1/3'ü glikozdan.",
+        "Egzersizde enerji tüketimi dinlenimin **20-120 katı**na çıkabilir; aerobik ve anaerobik sistemler birlikte, orana göre çalışır.",
+        "**100m** gibi en kısa-yüksek şiddetli koşularda sadece **fosfojen sistem**; 200-800m'de fosfojen + laktik asit birlikte kullanılır.",
+        "Şiddet düşüp süre uzadıkça kullanım fosfojenden laktik aside, oradan aerobiğe kayar.",
+        "**Maraton** gibi 10 dakikadan uzun, düşük şiddetli egzersizlerde aerobik sistem baskındır; yorgunluk glikojen tükenmesi ve su-elektrolit kaybından kaynaklanır.",
+        "1500m gibi orta süreli aktivitelerde ve futbolda aerobik ve anaerobik sistemler birlikte devreye girer."
+      ]
+    }
+  ]
+}

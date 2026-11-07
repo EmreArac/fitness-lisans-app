@@ -9,84 +9,106 @@
     "Değerlendirme ile ilgili temel kavramları tanımlayabilme.",
     "Değerlendirme türlerinin özelliklerini sıralayabilme."
   ],
-  "keywords": ["Ölçme", "Değişken", "Birim", "Ölçüt", "Değerlendirme"],
+  "keywords": [
+    "Ölçme",
+    "Değişken",
+    "Birim",
+    "Ölçüt",
+    "Değerlendirme"
+  ],
   "summary": [
     {
-      "heading": "Sporda Ölçme ve Değerlendirmenin Önemi",
-      "paragraphs": [
-        "Ölçme ve değerlendirme, günlük yaşamımızın ayrılmaz bir parçasıdır; farkında olsak da olmasak da sürekli bunlardan yararlanırız. Örneğin sabah çalar saatin gösterdiği zamanı görmek bir ölçmedir, ancak 'birkaç dakika daha uyusam da antrenmana zamanında gidebilirim' şeklindeki karar bir değerlendirmedir. Benzer şekilde arabanın yakıt göstergesine bakmak bir ölçme, buna dayanarak benzin almaya karar vermek ise bir değerlendirmedir.",
-        "Aktivite temelli ortamlarda da ölçme ve değerlendirmeden sıkça yararlanılır. Egzersiz eğitmeni, bir egzersiz programı planlarken ölçmeyi, bireyin gelişimini belirlerken ise değerlendirmeyi kullanır. Beden eğitimi öğretmenleri fitness testleriyle öğrencilerinin fitness bileşenlerini ölçer ve sonuçlara göre değerlendirme yapar; antrenörler ise sporcu ve takımları üzerinde istatistiksel bilgiler toplayarak performans değerlendirmesi yaparlar.",
-        "Mesleğiniz öğretmen, antrenör, fitness eğitmeni veya fizyoterapist olsun, ölçme ve değerlendirmeyi kullanırsınız: öğretmen öğrencilerin başlangıç seviyesini belirlemek için ölçme yapar; fitness eğitmeni hangi egzersizlerin güvenli ve yararlı olacağını değerlendirmek için ölçüm yapar; fizyoterapist hastaların durumunu belirleyip uygun tedaviyi seçmek için ölçüm kullanır; antrenör ise sporcularının kondisyon, güç ve hız gibi yeteneklerini ölçerek takımın güçlü ve zayıf yanlarını belirler.",
-        "Sporda ölçme ve değerlendirme, beden eğitimi, spor ve egzersiz biliminde altı temel amaç için kullanılır: (1) Yerleştirme - yetenekli sporcuların uygun gruplara yerleştirilmesi; (2) Tanı (Teşhis) - sporcuların, hastaların veya katılımcıların mevcut durumunun (zayıf/güçlü yanlarının) belirlenmesi; (3) Başarının Değerlendirilmesi - spora özgü belirlenen amaçlara ulaşılıp ulaşılmadığının saptanması; (4) Tahmin (Kestirim) - ölçüm sonuçlarının gelecekteki başarı düzeyini kestirmede kullanılması; (5) Program Değerlendirme - uygulanan bir programın hedeflerine ulaşıp ulaşmadığının belirlenmesi; (6) Motivasyon - ölçüm sonuçlarının bireyleri teşvik etmek amacıyla kullanılması.",
-        "Sonuç olarak ölçme ve değerlendirme; antrenörün sporcusunu tanımasını, uygulamanın daha nitelikli yapılmasını ve sporculara daha iyi rehberlik edilmesini sağlar. Aynı zamanda ölçenin ve ölçülenin farkındalığını artırır, sporcuların güçlü ve zayıf yanlarının görülmesini, ilgi ve yeteneklerine göre doğru yönlendirilmelerini, karar alıcıların doğru kararlar almasını ve olası risklerin önceden tahmin edilmesini sağlar."
+      "heading": "Neden Ölçüyoruz, Neden Değerlendiriyoruz?",
+      "emoji": "🎯",
+      "bullets": [
+        "Hayatımız ölçme ve değerlendirmeyle örülü: saate bakmak **ölçme**, \"biraz daha uyusam mı\" demek ise **değerlendirme**dir.",
+        "Öğretmenler, antrenörler, fitness eğitmenleri ve fizyoterapistler hepsi bu ikiliyi kullanır: önce ölçer, sonra karar verir.",
+        "Spor biliminde ölçme-değerlendirme 6 temel amaca hizmet eder: **yerleştirme**, **tanı (teşhis)**, **başarının değerlendirilmesi**, **tahmin (kestirim)**, **program değerlendirme** ve **motivasyon**.",
+        "Sonuçta sporcunun güçlü/zayıf yanları görülür, doğru yönlendirme yapılır ve daha sağlam kararlar alınır."
       ]
     },
     {
-      "heading": "Ölçmenin Tanımı ve Süreci",
-      "paragraphs": [
-        "Ölçme, bir betimleme ve tanımlama işlemidir. Geniş anlamda ölçme; belli bir nesnenin belli bir özelliğe sahip olup olmadığının, sahipse sahip oluş derecesinin gözlenip gözlem sonuçlarının sayı, sıfat ve sembollerle ifade edilmesidir. Örneğin 'kaza yapan aracın 140 km hızla ilerlediğinin tespit edilmesi' veya 'Nil'in boyunun 168 cm olması' birer ölçme örneğidir. Ölçmede asıl konu olan şey, bireylerin veya nesnelerin kendisi değil, onlara ait olduğu düşünülen bir özelliğin var olma derecesi veya miktarıdır.",
-        "Ölçme işlemi üç aşamadan oluşan bir süreçtir: önce ölçülecek özellik tanımlanır, ardından bu özelliğe uygun sayı ve semboller kümesi belirlenir, son olarak da hangi sayı veya sembolün hangi duruma verileceğini gösteren kural belirlenir. Örneğin 'Otoparkta 8 araba vardır' ifadesinde ölçülen özellik araba sayısıdır, ölçüm 8'dir ve ölçme kuralı her bir arabanın '1' olarak sayılmasıdır. Benzer şekilde bir sınavda her sorunun 10 puan değerinde olması da bir ölçme kuralıdır.",
-        "Ölçülmeye çalışılan özellik, durumdan duruma, nesneden nesneye ya da zamandan zamana farklılık gösterebilir; bu farklılık kavramı ölçmenin temelini oluşturur. Eğer tüm insanlar aynı uzunlukta, aynı derecede zeki ve her yer aynı sıcaklıkta olsaydı, boy, zekâ veya sıcaklık gibi kavramlardan ve bunların ölçülmesinden söz edilemezdi."
+      "heading": "Ölçme Nedir?",
+      "emoji": "📏",
+      "bullets": [
+        "**Ölçme**, bir özelliğin var olup olmadığını (varsa ne derece var olduğunu) gözleyip sonucu sayı veya sembollerle ifade etmektir.",
+        "Örnek: \"Nil'in boyu 168 cm\" veya \"araç 140 km/sa gidiyordu\" cümleleri birer ölçmedir.",
+        "Ölçülen şey nesnenin kendisi değil, ona ait **özelliğin derecesi veya miktarı**dır.",
+        "Ölçme 3 adımda yapılır: özelliği tanımla, uygun sayı/sembol kümesini seç, hangi sayının hangi duruma verileceğine dair **kuralı** belirle.",
+        "Özellikler kişiden kişiye, zamandan zamana değişir; bu **değişkenlik** olmasa ölçmeye de gerek kalmazdı."
       ]
     },
     {
-      "heading": "Değişken Kavramı ve Türleri",
-      "paragraphs": [
-        "Değişken, en az iki değer alan ya da bir durumdan diğerine farklılık gösteren olaylara, insanlara veya eşyalara ait özelliklere denir. Bir özelliğin değişken sayılabilmesi için gözlemler arasında en az iki farklı değer alabilmesi gerekir. Örneğin bir takımdaki sporcuların cinsiyeti, kadın ve erkek olmak üzere en az iki değer alabildiğinden bir değişkendir.",
-        "Değişkenler aldıkları değerlere göre nicel (sayılarla ifade edilen; örn. boy uzunluğu, ağırlık, akademik başarı puanı) ve nitel (sıfat veya sembollerle ifade edilen; örn. cinsiyet, mezun olunan okul türü) olarak ikiye ayrılır. Ayrıca değerleri arasında sonsuz ara değer bulunabilen değişkenler sürekli değişken (örn. uzunluk, ağırlık, MaxVO2) olarak, değerleri sınırlı sayıda sıfat veya sembolle ifade edilen değişkenler ise süreksiz (kesikli) değişken (örn. diploma derecesi, cinsiyet, medeni durum) olarak adlandırılır.",
-        "Araştırmanın amacına göre ise değişkenler bağımsız (başka bir değişkene bağlı olmadan değer alabilen, etkileyen değişken) ve bağımlı (başka bir değişkene bağlı olarak farklı değerler alabilen, etkilenen değişken) olarak sınıflanır. Bir değişken doğası gereği bağımlı veya bağımsız değildir; bu sınıflama araştırmanın amacına göre değişir. Örneğin sigaranın kanser üzerindeki etkisi araştırılırken kanser bağımlı, sigara bağımsız değişkendir; aynı araştırmacı kanserin depresyon üzerindeki etkisini incelediğinde ise kanser bu kez bağımsız değişken olur."
+      "heading": "Değişken Ne Demek?",
+      "emoji": "🔀",
+      "bullets": [
+        "**Değişken**, en az iki farklı değer alabilen özelliktir (örn. cinsiyet: kadın/erkek).",
+        "**Nicel değişken** sayılarla ifade edilir (boy, ağırlık, başarı puanı); **nitel değişken** sıfat veya sembollerle ifade edilir (cinsiyet, okul türü).",
+        "**Sürekli değişken** sonsuz ara değer alabilir (boy, ağırlık, MaxVO2); **süreksiz (kesikli) değişken** sınırlı sayıda değer alır (diploma derecesi, cinsiyet, medeni durum).",
+        "**Bağımsız değişken** etkileyendir, **bağımlı değişken** etkilenendir — bu rol sabit değildir, araştırmanın amacına göre değişebilir.",
+        "Örnek: sigara-kanser araştırmasında kanser bağımlı değişkendir; ama aynı araştırmacı kanser-depresyon ilişkisini incelerse kanser bu kez bağımsız değişken olur."
       ]
     },
     {
-      "heading": "Ölçme Türleri: Doğrudan, Dolaylı ve Türetilmiş Ölçme",
-      "paragraphs": [
-        "Ölçme türü, ölçülmek istenen özelliğin ortaya çıkarılma şekline ve izlenen yönteme göre üçe ayrılır: doğrudan ölçme, dolaylı ölçme ve türetilmiş ölçme.",
-        "Doğrudan ölçme (temel ölçme), ölçmeye konu olan niteliğin kendisiyle aynı türden bir araçla ölçülmesidir; atılan şut sayısı, vurulan smaç sayısı, boy uzunluğu ve ağırlık gibi özelliklerin ölçülmesi doğrudan ölçmedir. Doğrudan ölçme ile güvenirliği ve geçerliği yüksek bir ölçme elde edilir.",
-        "Dolaylı ölçme, doğrudan gözlenemeyen bir özelliğin, onunla ilişkili olduğu bilinen ya da varsayılan başka bir özellik üzerinden ölçülmesidir. Zekâ, sıcaklık ve akademik başarı dolaylı ölçme ile ölçülür; örneğin sıcaklık doğrudan gözlenemediği için termometredeki cıvanın yükselip alçalmasından yararlanılarak ölçülür. Sporcuların kişilik özelliklerinin bir ölçekle belirlenmesi de dolaylı ölçmeye örnektir.",
-        "Türetilmiş ölçme, ölçmeye konu olan değişken üzerinde başka bir ölçme yapılmadan, bu değişkenle başka değişkenler arasında matematiksel bir bağıntı kurularak elde edilen ölçmedir. Vücut kitle indeksinin (VKİ = vücut ağırlığı (kg) / boy uzunluğunun karesi (m²)) hesaplanması türetilmiş ölçmenin tipik bir örneğidir; türetilmiş ölçme yapılabilmesi için en az iki ölçme sonucunun bulunması gerekir."
+      "heading": "3 Tip Ölçme: Doğrudan, Dolaylı, Türetilmiş",
+      "emoji": "🧮",
+      "bullets": [
+        "**Doğrudan ölçme**: özelliği kendisiyle aynı türden bir araçla ölçersin (şut sayısı, smaç sayısı, boy, ağırlık). Güvenirliği ve geçerliği en yüksek yöntemdir.",
+        "**Dolaylı ölçme**: doğrudan gözlenemeyen bir özelliği, onunla ilişkili başka bir özellik üzerinden ölçersin — sıcaklık termometredeki cıvayla, zekâ veya kişilik ise bir ölçekle ölçülür.",
+        "**Türetilmiş ölçme**: en az iki ölçüm sonucunu matematiksel bir formülle birleştirerek elde edilir.",
+        "Klasik örnek: **Vücut Kitle İndeksi (VKİ)** = ağırlık (kg) ÷ boy² (m²) — türetilmiş ölçmedir."
       ]
     },
     {
-      "heading": "Ölçme Biriminin Özellikleri ve Sıfır Kavramı",
-      "paragraphs": [
-        "Bir ölçme aracını oluşturan en küçük parçacığa birim denir; cm, mm, km, kilo ve gram birer birimdir. Birim, ölçmenin objektif ve standart olmasını sağlar, bu da sonuçların okunmasını, yorumlanmasını ve başkalarına aktarılmasını kolaylaştırır. Anlaşılır bir ölçme sonucu için birimin eşitlik (her noktada aynı büyüklükte olması; örn. 1 metreyi oluşturan her cm'nin birbirine eşit olması), genellik (herkes tarafından aynı şekilde anlaşılması ve kullanılması; örn. ağırlığın kg ile ifade edilmesi) ve kullanışlılık (birimin ölçülecek değişkenin büyüklüğüne uygun olması; örn. şehirler arası uzaklık için km'nin metreden daha kullanışlı olması) özelliklerine sahip olması gerekir.",
-        "Ölçmede bir başlangıç noktası olan sıfır da önemli bir kavramdır ve iki farklı anlamda kullanılır: Mutlak (doğal/gerçek) sıfır, ölçülen özelliğin gerçek anlamda yokluğunu ifade eder; örneğin bir sınıfta futbol takımında oynayan öğrenci bulunmaması durumunda kullanılan 'yok' ifadesi mutlak sıfırı gösterir. Bağıl (göreceli) sıfır ise ölçülen özelliğin yokluğu anlamına gelmez, belli bir düzeyde var olduğunu gösterir; örneğin hava sıcaklığının 0°C olması sıcaklığın hiç olmadığı anlamına gelmez, sadece ölçek üzerinde tanımlanmış bir noktayı ifade eder."
+      "heading": "Birim ve Sıfır Kavramı",
+      "emoji": "0️⃣",
+      "bullets": [
+        "**Birim**, bir ölçme aracının en küçük parçasıdır (cm, mm, km, kilo, gram).",
+        "İyi bir birimde 3 şart aranır: **eşitlik** (her parça aynı büyüklükte), **genellik** (herkesçe aynı şekilde anlaşılır), **kullanışlılık** (ölçülen şeye uygun büyüklükte, örn. şehirler arası mesafede km).",
+        "**Mutlak (gerçek) sıfır**, ölçülen özelliğin gerçekten yokluğunu gösterir (örn. takımda hiç futbolcu olmaması = \"yok\").",
+        "**Bağıl (göreceli) sıfır**, yokluk anlamına gelmez; sadece ölçek üzerinde tanımlı bir başlangıç noktasıdır (örn. 0°C, sıcaklığın hiç olmadığı anlamına gelmez)."
       ]
     },
     {
-      "heading": "Ölçek Türleri",
-      "paragraphs": [
-        "Ölçek, nesnelerdeki özellikleri ve farkları ortaya çıkarmaya yarayan bir araçtır (metre, termometre, baskül gibi). Ölçekler, en az bilgi vericiden en çok bilgi vericiye doğru dört düzeyde sınıflandırılır: sınıflama (adlandırma/nominal), sıralama (dereceleme), eşit aralıklı ve eşit oranlı ölçek.",
-        "Sınıflama (Adlandırma-Nominal) Ölçeği, nesneleri belli bir yönden benzeyip benzemediklerine göre sınıflamayı temel alır; cinsiyete göre kadın-erkek, voleybolda mevkiye göre pasör-smaçör-libero gibi kategoriler birer sınıflamadır. Bu ölçekte verilen sayıların sayısal bir değeri ve miktarı yoktur; hiçbir matematiksel işlem veya karşılaştırma yapılamaz, sadece frekans tablosu ve mod değeri hesaplanabilir.",
-        "Sıralama (Dereceleme) Ölçeği'nde, özelliğe ait büyüklükler belli bir kurala göre büyükten küçüğe veya küçükten büyüğe sıralanır; sporcuların boy sırası veya bir maçta elde ettikleri sayıya göre başarı sırası buna örnektir. Bu ölçekte birimler eşit büyüklükte olmadığından toplama, çıkarma, çarpma ve bölme yapılamaz; ancak medyan, yüzdelik ve sıra farkları korelasyonu gibi istatistiksel işlemler yapılabilir.",
-        "Eşit Aralıklı Ölçek'te sınıflama ve sıralama ölçeklerinde bulunmayan bir başlangıç (sıfır) noktası vardır, ancak bu sıfır göreceli (bağıl) bir sıfırdır. Termometre ve takvim bu ölçeğin örnekleridir. Bu ölçekten elde edilen sonuçlarla aritmetik ortalama, standart sapma ve korelasyon katsayısı hesaplanabilir; ancak oranlama yapılamaz (örn. 100 puan alan öğrencinin 50 puan alandan 'iki kat' başarılı olduğu söylenemez).",
-        "Eşit Oranlı Ölçek'te ise başlangıç noktası gerçek (mutlak) sıfırdır ve birimler birbirine eşittir; kilogram ve metre bu ölçeğin örnekleridir. Başlangıç noktası gerçek sıfır olduğundan bu ölçekten elde edilen sonuçlar oranlamaya uygundur ve anlamlıdır; örneğin 100 kg'lık bir sporcunun 50 kg'lık bir sporcunun ağırlığının iki katı olduğu söylenebilir. Bu ölçek düzeyinde her türlü matematiksel ve istatistiksel işlem yapılabilir."
+      "heading": "4 Ölçek Seviyesi",
+      "emoji": "📊",
+      "bullets": [
+        "**Ölçek**, özellikleri ve farkları ortaya çıkaran araçtır (metre, termometre, baskül). Bilgi zenginliğine göre 4 düzeye ayrılır.",
+        "**Sınıflama (nominal) ölçeği**: sadece kategori ayırır (kadın-erkek, pasör-smaçör-libero). Sayılar miktar belirtmez; sadece **frekans tablosu** ve **mod** hesaplanabilir.",
+        "**Sıralama (dereceleme) ölçeği**: büyükten küçüğe dizer (boy sırası, başarı sırası). Birimler eşit olmadığından toplama/çıkarma yapılamaz; ama **medyan**, yüzdelik ve sıra farkı korelasyonu hesaplanabilir.",
+        "**Eşit aralıklı ölçek**: başlangıcı bağıl sıfırdır (termometre, takvim). **Aritmetik ortalama** (toplam ÷ veri sayısı), standart sapma ve korelasyon hesaplanabilir; ama oranlama yapılamaz — 100 puan, 50 puandan \"iki kat\" başarılı sayılmaz.",
+        "**Eşit oranlı ölçek**: başlangıcı gerçek (mutlak) sıfırdır, birimler eşittir (kilogram, metre, sayma yoluyla elde edilen veriler). Oranlama anlamlıdır (100 kg, 50 kg'ın iki katıdır) ve her türlü matematiksel/istatistiksel işlem (çarpma, bölme dahil) yapılabilir."
       ]
     },
     {
-      "heading": "Değerlendirmenin Tanımı ve Ögeleri",
-      "paragraphs": [
-        "Değerlendirme, bir ölçme işleminden elde edilen ölçme sonuçlarının bir ölçütle karşılaştırılarak ölçülen özellik hakkında bir karara varma sürecidir. Bir şeyin değerlendirme sayılabilmesi için üç öğenin bulunması gerekir: ölçme sonuçları, ölçüt ve karar.",
-        "Değerlendirmenin ilk öğesi olan ölçme sonuçları, ölçmeye konu olan özelliğe karşılık gelen değerlerin sayı veya sembollerle ifade edilmesidir. Doğru bir değerlendirme için ölçme sonuçlarının tesadüfi hatalardan arınık olması, yani güvenirlik ve geçerlik düzeyinin yüksek olması gerekir.",
-        "Değerlendirmenin ikinci ve olmazsa olmaz öğesi ölçüttür: ölçme sonuçlarının karşılaştırıldığı ve değerlendirmeye dayanak olan sabit değer ya da kriterdir. Ölçme sonuçlarının güvenirliği ve geçerliği kadar, seçilen ölçütün uygunluğu da değerlendirmenin doğruluğunu belirler; değerlendirmede mutlak ölçüt ve bağıl ölçüt olmak üzere iki tür ölçüt kullanılır."
+      "heading": "Değerlendirme Nedir?",
+      "emoji": "⚖️",
+      "bullets": [
+        "**Değerlendirme**, ölçme sonuçlarını bir ölçütle karşılaştırıp bir karara varma sürecidir.",
+        "Bir şeyin değerlendirme sayılması için 3 öge şart: **ölçme sonuçları**, **ölçüt** ve **karar**.",
+        "Ölçme sonuçlarının güvenilir ve geçerli olması gerekir; aksi halde değerlendirme de hatalı çıkar.",
+        "**Ölçüt**, sonuçların karşılaştırıldığı sabit değer/kriterdir ve iki türü vardır: **mutlak ölçüt** ve **bağıl ölçüt**."
       ]
     },
     {
-      "heading": "Ölçüt ve Değerlendirme Türleri: Mutlak ve Bağıl",
-      "paragraphs": [
-        "Mutlak ölçüt, ölçme işlemi yapılmadan önce, ölçülecek grubun tamamını kapsayacak şekilde belirlenen kesin ve standart bir ölçüttür; yani test uygulanmadan önce ölçüt miktarı bellidir. Örnekler: 'Boyu 185 cm'den uzun olanlar takıma girer', '100 metreyi 15 saniyenin altında koşanlar finale kalır', 'Akademik ortalaması 2.5 üstü olanlar formasyona başvurabilir'. Mutlak ölçütü genellikle bir kurum veya yetkili kurul belirler.",
-        "Bağıl ölçüt ise ölçme işlemi gerçekleştirildikten sonra, ölçme sonuçları dikkate alınarak bir gruba veya bireye göre belirlenen ölçüttür ve sadece o grup için geçerlidir. Örnekler: 'Ortalamanın üstünde puan alanlar geçer', 'Projelerde en iyi ilk beş proje finale kalır', 'Grubun ilk %25'ine girenler başarılı sayılır'. Bağıl ölçütü değerlendirmeyi yapacak kişi belirler.",
-        "Kullanılan ölçüte göre değerlendirme de ikiye ayrılır. Mutlak Değerlendirme (kritere bağlı değerlendirme), mutlak bir ölçüt temel alınarak yapılan değerlendirmedir; örneğin bir kulübün voleybol takımına seçimde boy uzunluğu ölçütünü 1.80 cm olarak belirlemesi ve bu ölçüte uyan adayların seçilmesi mutlak değerlendirmedir. Bağıl Değerlendirme (norm dayanıklı değerlendirme) ise bağıl ölçütlere göre yapılır; örneğin sınıfta fizik dersinden en yüksek puanı alan öğrencinin 'en başarılı' sayılması, diğer öğrencilerin puanlarıyla karşılaştırmaya dayandığından bağıl değerlendirmedir.",
-        "Pedometre örneğinde olduğu gibi, bir kişinin attığı adım sayısını başka bir kişiyle karşılaştırmak bağıl (norm referanslı) bir değerlendirme, adım sayısını önceden belirlenmiş sabit bir hedefle (örn. günde 10.000 adım) karşılaştırmak ise mutlak (kriter referanslı) bir değerlendirmedir. Fitnessgram'ın Sağlıklı Fitness Noktası gibi kriter referanslı standartlar, bireyin akranlarıyla kıyaslanmasından bağımsız olarak, sağlık açısından yeterli düzeye ulaşıp ulaşmadığını belirlemede kullanılır."
+      "heading": "Mutlak mı, Bağıl mı?",
+      "emoji": "⚔️",
+      "bullets": [
+        "**Mutlak ölçüt**: ölçümden ÖNCE belirlenen, sabit ve kesin bir standarttır (örn. \"185 cm'den uzun olanlar takıma girer\", günde 10.000 adım hedefi). Genelde bir kurum veya kurul belirler.",
+        "**Bağıl ölçüt**: ölçümden SONRA, grubun sonuçlarına bakılarak belirlenir ve sadece o grup için geçerlidir (örn. \"ortalamanın üstü geçer\", \"ilk 5 proje finale kalır\").",
+        "**Mutlak değerlendirme (kritere bağlı)**: mutlak ölçüte göre yapılır (örn. boy ölçütünü 1.80 cm koyup buna uyanları seçmek).",
+        "**Bağıl değerlendirme (norm dayanıklı)**: bağıl ölçüte göre yapılır (örn. sınıfta en yüksek puanı alanı \"en başarılı\" ilan etmek).",
+        "Pedometre örneği: adım sayını başkasıyla kıyaslamak **bağıl**, sabit bir hedefle (10.000 adım) kıyaslamak **mutlak** değerlendirmedir."
       ]
     },
     {
-      "heading": "Amaca Göre Değerlendirme Türleri",
-      "paragraphs": [
-        "Değerlendirme, kullanım amacına göre üçe ayrılır: Tanıma ve Yerleştirmeye Yönelik Değerlendirme, Biçimlendirici Değerlendirme ve Değer Biçmeye Yönelik (Özetleyici) Değerlendirme.",
-        "Tanıma ve Yerleştirmeye Yönelik Değerlendirme, öğretim veya antrenman sürecinin başında yapılır; sporcuların ilgili branşın ön koşulu olan giriş davranışlarına ne derece sahip olduğunu belirlemek ve sürecin başlangıç noktasını saptamak amacıyla kullanılır. Yetenek seçimine dönük değerlendirmeler bu türe örnektir.",
-        "Biçimlendirici Değerlendirme (Formative Evaluation), eğitim veya antrenman süreci boyunca yapılan sürekli gözlem ve geri bildirimlerden oluşur; amacı bireyin süreç içindeki eksiklerini belirleyip bunları gidermek ve uygulamadaki aksaklıkları erken fark etmektir. Bir antrenörün sporcusuna yeni bir teknik öğretirken verdiği anlık geri bildirimler, puanla somutlaştırma amacı gütmeden, biçimlendirici değerlendirme örneğidir.",
-        "Değer Biçmeye Yönelik (Özetleyici) Değerlendirme (Summative Evaluation), eğitim veya antrenman sürecinin sonunda yapılan nihai değerlendirmedir ve tipik olarak bir sürecin sonunu gösterir; bir atletin olimpiyatlar sonunda madalya kazanması özetleyici değerlendirmeye örnektir. Genellikle süreç boyunca yapılan biçimlendirici değerlendirmeler, sonunda özetleyici değerlendirmeye katkıda bulunur; örneğin vücut yağ yüzdesinin her hafta ölçülmesi biçimlendirici, 8 haftanın sonunda yapılan aynı ölçüm ise özetleyici değerlendirme olabilir."
+      "heading": "Ne Zaman Hangi Değerlendirme?",
+      "emoji": "⏱️",
+      "bullets": [
+        "**Tanıma ve yerleştirmeye yönelik değerlendirme**: sürecin BAŞINDA yapılır, başlangıç seviyesini ve ön koşulları belirler (örn. yetenek seçimi).",
+        "**Biçimlendirici değerlendirme (Formative)**: süreç BOYUNCA yapılan sürekli gözlem ve geri bildirimdir; eksikleri erken fark ettirir (örn. antrenörün anlık düzeltmeleri).",
+        "**Değer biçmeye yönelik / özetleyici değerlendirme (Summative)**: sürecin SONUNDA yapılan nihai değerlendirmedir (örn. olimpiyat sonunda madalya kazanmak).",
+        "Örnek: vücut yağının her hafta ölçülmesi biçimlendirici, 8 hafta sonunda yapılan son ölçüm ise özetleyici değerlendirmedir."
       ]
     }
   ],
@@ -94,7 +116,13 @@
     {
       "id": "u5q1",
       "question": "Nesnelerin özelliklerinin gözlemlenip gözlem sonuçlarının sayı veya sembollerle ifade edilmesine ne ad verilir?",
-      "options": ["Değerlendirme", "Ölçüt", "Ölçme", "Ölçekleme", "Birim"],
+      "options": [
+        "Değerlendirme",
+        "Ölçüt",
+        "Ölçme",
+        "Ölçekleme",
+        "Birim"
+      ],
       "correctIndex": 2,
       "explanation": "Bu tanım doğrudan ölçmenin tanımıdır: nesnelerin özelliklerinin gözlemlenip sonuçların sayı veya sembollerle ifade edilmesi ölçmedir. Değerlendirme, bu sonuçların bir ölçütle karşılaştırılıp karara bağlanmasıdır, dolayısıyla farklı bir kavramdır.",
       "optionNotes": [
@@ -108,7 +136,13 @@
     {
       "id": "u5q2",
       "question": "Sınıflama ölçeğinden elde edilen veriler üzerinde aşağıdaki istatistiksel işlemlerden hangisi yapılabilir?",
-      "options": ["Standart Sapma", "Korelasyon", "Medyan", "Mod", "Aritmetik Ortalama"],
+      "options": [
+        "Standart Sapma",
+        "Korelasyon",
+        "Medyan",
+        "Mod",
+        "Aritmetik Ortalama"
+      ],
       "correctIndex": 3,
       "explanation": "Sınıflama ölçeğinde sayılar sadece kategori belirtir, matematiksel işlem yapılamaz; bu ölçekten elde edilen verilerle sadece frekans tablosu oluşturulabilir ve mod (en çok tekrar eden değer) hesaplanabilir.",
       "optionNotes": [
@@ -122,7 +156,13 @@
     {
       "id": "u5q3",
       "question": "Bir veri setinde toplam puanların veri sayısına bölünmesi sonucunda elde edilen değere ne ad verilir?",
-      "options": ["Standart Sapma", "Aritmetik Ortalama", "Mod", "Medyan", "Korelasyon"],
+      "options": [
+        "Standart Sapma",
+        "Aritmetik Ortalama",
+        "Mod",
+        "Medyan",
+        "Korelasyon"
+      ],
       "correctIndex": 1,
       "explanation": "Metinde aritmetik ortalama, bir veri setinde toplam puanların veri sayısına bölünmesi sonucunda elde edilen değer olarak tanımlanmıştır.",
       "optionNotes": [
@@ -236,7 +276,13 @@
     {
       "id": "u5q9",
       "question": "Bir antrenör takımındaki sporcuları başarı durumlarına göre 'başarılı' ve 'başarısız' diye ayırmıştır. Buna göre başarı ölçütlerinin değişken türü aşağıdakilerden hangisidir?",
-      "options": ["Bağımlı", "Bağımsız", "Sürekli", "Kesikli", "Nicel"],
+      "options": [
+        "Bağımlı",
+        "Bağımsız",
+        "Sürekli",
+        "Kesikli",
+        "Nicel"
+      ],
       "correctIndex": 3,
       "explanation": "'Başarılı' ve 'başarısız' şeklindeki iki kategoriyle ifade edilen bu değişken, değerlerini sıfatlarla ifade eden ve sınırlı sayıda değer alan bir değişkendir; metinde verilen 'diploma derecesi (pekiyi, iyi, orta, zayıf)' örneğine benzer şekilde bu bir süreksiz (kesikli) değişkendir.",
       "optionNotes": [
@@ -250,7 +296,13 @@
     {
       "id": "u5q10",
       "question": "Bir antrenörün sporcusunun gol atışına göre her golüne puan vermesi ölçme türlerinden hangisine örnektir?",
-      "options": ["Doğrudan", "Türetilmiş", "Dolaylı", "Mutlak", "Oranlı"],
+      "options": [
+        "Doğrudan",
+        "Türetilmiş",
+        "Dolaylı",
+        "Mutlak",
+        "Oranlı"
+      ],
       "correctIndex": 0,
       "explanation": "Gol sayısını doğrudan sayıp puanlandırmak, ölçülecek özelliğin (gol sayısı) kendisiyle aynı türden bir araçla (sayma) ölçülmesidir; metinde 'atılan şut sayısı, vurulan smaç sayısı' gibi örneklerle açıklanan doğrudan ölçmeye birebir karşılık gelir.",
       "optionNotes": [

@@ -26,30 +26,42 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Antrenmanla İlgili Temel Kavramlar",
-            "paragraphs": [
-              "Antrenman bilimi, İkinci Dünya Savaşı sonrası sporda yaşanan gelişmelerle birlikte hızla ilerleyen, ülkemizde ise 1973'te Ege Üniversitesi Spor Hekimliği Enstitüsü ve 1975'te Spor Akademilerinin kurulmasıyla kurumsallaşan bir alandır. Bir antrenörün sahada başarılı olabilmesi için antrenmanla ilgili temel kavramları birbirinden ayırt ederek tanımlayabilmesi gerekir; çünkü spor, fiziksel aktivite, performans, egzersiz, antrenman ve antrenör kavramları birbiriyle ilişkili olsa da farklı anlamlar taşır.",
-              "Türk Dil Kurumuna göre spor, 'bedeni veya zihni geliştirmek amacıyla kişisel veya toplu olarak gerçekleştirilen, bazı kurallara göre uygulanan hareketlerin tümü' olarak tanımlanır. Spor; kurallara bağlılık, rekabet ve organize bir insan davranışı içermesiyle diğer kavramlardan ayrılır, bireyin fiziksel, sosyal ve psikolojik gelişimine katkı sağlayan biyolojik, pedagojik ve sosyal bir olgu olarak da görülür. Fiziksel aktivite ise daha basit bir kavramdır: enerjiyi harcamak için vücudun hareket etmesi, özellikle iskelet kasları aracılığıyla oluşan enerji harcamasıdır (Zorba, 2017). Fiziksel aktivitenin spordan farkı, kurallara bağlı veya rekabetçi olma zorunluluğunun bulunmamasıdır; yürüme, merdiven çıkma gibi günlük hareketler de fiziksel aktivite kapsamına girer.",
-              "Performans, sporcunun somut olarak fiziksel, fizyolojik, biyomotorik ve psikolojik olarak ortaya koyduğu verim düzeyi olarak tanımlanır. Performansı etkileyen faktörler içsel ve dışsal olmak üzere ikiye ayrılır: yaş, cinsiyet, anatomik yapı, genetik, otonom sinir sistemi gibi bireyin kendi bünyesinden kaynaklanan ve üzerine müdahale olanağı sınırlı olan etkenler içsel faktörlerdir; antrenman ortamı, malzeme, iklim gibi dışarıdan gelen ve değiştirilmesi daha kolay olan etkenler ise dışsal faktörlerdir. Sportif performansı geliştirmek isteyen bir antrenör, dışsal faktörlerde yapacağı iyileştirmelerle daha hızlı ve etkili sonuçlar alabilir.",
-              "Egzersiz, fiziksel uygunluğun bir veya daha fazla ögesini geliştirmeye ya da korumaya yönelik olarak planlı ve programlı şekilde yapılan tekrarlayıcı vücut hareketleridir (Biddle, 1995). Antrenman ise bir sporcunun değişik egzersizler uygulanarak fiziksel, teknik, taktik, zihinsel, psikolojik ve moral açıdan hazırlanmasıdır; geniş anlamda antrenman, sporcunun en yüksek sporsal verime ulaşmasını sağlayan tüm sistematik hazırlanma yöntemlerini kapsar (Dündar, 2017). Antrenör ise genel ya da ilgili spor dalına özgü biçimde, spor etkinliklerini ve antrenmanlarını yaptırarak sporcuyu teknik, taktik, kondisyon, psikolojik, sosyolojik ve zihinsel açıdan üst düzey verimliliğe ulaştıran eğitici kişidir (Sevim, 2003); antrenörün sporcuların sağlığını koruma, planlama yapma, teorik bilgi aktarma ve etik davranma gibi önemli sorumlulukları vardır."
+            "heading": "Temel Kavramlar: Spor mu, Antrenman mı?",
+            "emoji": "🏃",
+            "bullets": [
+              "**Spor**, TDK'ya göre bedeni veya zihni geliştirmek için kurallara bağlı, bireysel veya toplu yapılan hareketlerin tümüdür.",
+              "**Fiziksel aktivite**, iskelet kasları aracılığıyla oluşan enerji harcamasıdır; kural veya rekabet şartı yoktur (yürüme, merdiven çıkma gibi).",
+              "**Performans**, sporcunun ortaya koyduğu somut fiziksel, fizyolojik ve psikolojik verim düzeyidir.",
+              "Performansı etkileyen faktörler **içsel** (yaş, cinsiyet, anatomik yapı, genetik, otonom sinir sistemi) ve **dışsal** (antrenman ortamı, malzeme, iklim) olmak üzere ikiye ayrılır.",
+              "**Egzersiz**, fiziksel uygunluğu geliştirmeye yönelik planlı ve tekrarlayıcı vücut hareketleridir.",
+              "**Antrenman**, sporcuyu fiziksel, teknik, taktik ve zihinsel açıdan en yüksek sporsal verime hazırlayan tüm sistematik yöntemleri kapsar.",
+              "**Antrenör**, sporcuyu teknik, taktik, kondisyon ve zihinsel açıdan üst düzey verimliliğe ulaştıran; sağlık koruma, planlama ve etik sorumlulukları olan eğitici kişidir."
             ]
           },
           {
-            "heading": "Sporcu Gelişim Modelleri",
-            "paragraphs": [
-              "Sporcu gelişim modelleri içinde en bilinen iki yaklaşım, Uzun Vadeli Sporcu Gelişimi (LTAD) modeli ile Sporcu Katılımlı Gelişim Modeli'dir (DMSP). LTAD, bebeklikten yetişkinliğe kadar yaşamın tüm aşamalarını kapsayan, yedi evreden oluşan bir modeldir; evreler arası geçişte çocukların takvim yaşından çok biyolojik (gelişimsel) yaşına dikkat edilmesi gerekir.",
-              "LTAD'ın yedi evresi şöyle sıralanır: Aktif Başlangıç (0-6 yaş) döneminde çocuklar oyun ve temel hareket becerileri kazanır; Temel Eğitim döneminde (kızlar 6-8, erkekler 6-9 yaş) lokomotor, denge ve manipülatif beceriler geliştirilir; Antrenman Yapmayı Öğrenme evresinde (kızlar 8-11, erkekler 9-12 yaş) temel spor becerileri kazandırılır; Antrenman İçin Antrenman evresinde (kızlar 11-15, erkekler 12-16 yaş) aerobik temel, sürat ve kuvvet gelişimine odaklanılır; Yarışma İçin Antrenman evresinde (kızlar 15-17, erkekler 16-18 yaş) motor becerileri en iyi duruma getirme ve rakiple mücadele öğretilir; Kazanmak İçin Antrenman evresinde (kızlar 17 yaş ve üstü, erkekler 18 yaş ve üstü) elit sporcular uluslararası performansa yönelir; son evre olan Aktif Yaşam İçin Antrenman ise yarışmacı kariyerden yaşam boyu fiziksel aktiviteye geçişi ifade eder. Jimnastik, artistik buz pateni gibi erken özelleşme gerektiren branşlarda bu aşamalar öne çekilerek uygulanabilirken; atletizm, futbol, voleybol gibi geç özelleşilen sporlarda aşamalar sırasıyla uygulanır.",
-              "DMSP (Sporcu Katılımlı Gelişim Modeli), LTAD'ı tamamlayıcı nitelikte olup sporcu gelişimini üç aşamaya ayırır: Örnekleme aşamasında (6-12 yaş) sporcular çoklu spor etkinliklerine eğlenceli bir ortamda katılarak çok yönlü temel hareket becerileri geliştirir; Uzmanlaşma aşamasında (13-15 yaş) sporcu, sayısı azalan branşlara yönelerek daha yoğun antrenman yapar; Yatırım aşamasında (16 yaş ve sonrası) ise sporcu, belirli bir spor dalında yüksek düzeyde performans elde etmeye tüm odağını verir. DMSP'nin yedi önermesi, erken yaşta çoklu spora katılımın (örnekleme) kişisel gelişim, uzun vadeli spora bağlılık ve ileride yüksek performansa ulaşma açısından olumlu etkileri olduğunu; buna karşın erken tek spora özelleşmenin genellikle en iyi performans düzeyine katkı sağlamadığını savunur.",
-              "Balyi'nin LTAD modeli biyolojik/fizyolojik olarak yönlendirilmiş bir çerçeve sunarken, Côté'nin DMSP modeli ağırlıklı olarak psikolojik bir çerçeveye dayanır. Bu iki model birlikte değerlendirildiğinde, antrenörlerin sporcuları yaşlarına, gelişim düzeylerine ve bireysel ihtiyaçlarına göre doğru aşamada doğru yöntemlerle yönlendirmesi gerektiği ortaya çıkar."
+            "heading": "Sporcu Nasıl Gelişir? LTAD ve DMSP",
+            "emoji": "📈",
+            "bullets": [
+              "**LTAD (Uzun Vadeli Sporcu Gelişimi)** modeli, bebeklikten yetişkinliğe yedi evrede ilerler; geçişlerde takvim yaşı değil **biyolojik yaş** esas alınır.",
+              "Evreler sırayla: Aktif Başlangıç (0-6 yaş) → Temel Eğitim (kız 6-8, erkek 6-9) → **Antrenman Yapmayı Öğrenme** (kız 8-11, erkek 9-12).",
+              "Devamında **Antrenman İçin Antrenman** (kız 11-15, erkek 12-16) → Yarışma İçin Antrenman (kız 15-17, erkek 16-18) → Kazanmak İçin Antrenman (kız 17+, erkek 18+) → Aktif Yaşam İçin Antrenman.",
+              "**Jimnastik, ritmik jimnastik ve artistik buz pateni** gibi erken özelleşen branşlarda evreler öne çekilir; **atletizm, futbol, voleybol, güreş, boks** gibi geç özelleşen sporlarda sırasıyla uygulanır.",
+              "**DMSP (Sporcu Katılımlı Gelişim Modeli)** üç aşamadan oluşur: Örnekleme (6-12 yaş, çoklu spor), **Uzmanlaşma** (13-15 yaş, branş sayısı azalır), Yatırım (16 yaş ve sonrası, tek branşta yüksek performans).",
+              "DMSP'ye göre erken yaşta çoklu spora katılım (örnekleme) uzun vadeli başarıya katkı sağlar; erken tek spora özelleşme genelde en iyi performansı getirmez.",
+              "**Balyi**'nin LTAD'ı biyolojik/fizyolojik temelliyken, **Côté**'nin DMSP'si ağırlıklı olarak psikolojik bir çerçeveye dayanır."
             ]
           },
           {
-            "heading": "Antrenmana Akut ve Kronik Uyum",
-            "paragraphs": [
-              "Antrenmanın organizmaya verdiği yüklenme (stres), akut ve kronik olmak üzere iki tür uyum süreci başlatır. Antrenman sırasında organizma, solunum ve dolaşım sistemiyle yüksek şiddetli yüklenmelere anlık (akut) tepkiler verirken; antrenmanın şiddeti, sıklığı ve bireyin antrenman düzeyine bağlı olarak zamanla kronik uyum süreci gerçekleşir. Bu uyum süreci kas, sinir, kalp, kan dolaşımı ve enerji mekanizmaları üzerinde gerçekleşir ve performans gelişimi, bu uyumların dengeli olmasını gerektirir.",
-              "Fiziksel aktivite sırasında organizmadaki enerji kaynakları tükenir; aktivite sonrasında bu eksilmenin başlangıç seviyesinin üzerine çıkacak şekilde tamamlanmasına süperkompenzasyon (fazla tamamlama) denir (Neuhof, 2020). Bir antrenman biriminde fazla tamamlama üç evrede gerçekleşir: yüklenme sonrası ortaya çıkan yorgunluk (1. evre), biyokimyasal depoların henüz dolmadığı dinlenme süreci (2. evre) ve organizmanın kendini tamamlayarak daha üst düzeyde bir uyum oluşturduğu yenilenme/fazla tamamlama evresi (3. evre). Eğer dinlenme süresi gereğinden uzun tutulursa fazla tamamlama kaybolur ve performansta gelişme sağlanamaz; bu nedenle yeni bir uyaranın zamanında (antrenmanın türüne göre genellikle 24-48 saat içinde) verilmesi gerekir.",
-              "Sürantrenman (overtraining), aşırı antrenman sonucunda vücutta yorgunluğun birikmesi ve yetersiz dinlenme nedeniyle düşük performansla sonuçlanan yoğun bir eğitim sürecidir (Meeusen vd., 2006). Motivasyon eksikliği, tek taraflı ve monoton antrenman, yetersiz dinlenme, sık müsabakalar ve hastalık/sakatlık sonrası ani yüklenme artışı gibi antrenman sürecindeki hatalar sürantrenmana yol açabilir; huzursuzluk, kilo kaybı, çabuk yorulma, iştahsızlık gibi genel belirtilerin yanında kas glikojeninde düşüş gibi fizyolojik ve depresif duygu durumu gibi psikolojik belirtiler de görülür. Sürantrenmanı gidermek için antrenman yoğunluğunun düşürülmesi, dengeli beslenme, düzenli uyku, masaj ve yeterli yenilenme süresi verilmesi gibi önlemler alınmalı; antrenman sayısını artırarak yüklenmeye devam etmek gibi hatalı uygulamalardan kaçınılmalıdır.",
-              "Antrenmansızlaşma (detraining), antrenmana herhangi bir sebeple (sakatlık, hastalık vb.) haddinden fazla ara verilmesi sonucunda sporcuda performansın gerilemesidir. Antrenmanda kazanılan form birkaç hafta içinde (4-8 hafta) tamamen kaybedilebilir; yüksek antrenmanlı sporcularda bu düşüş 2-3 hafta içinde başlar. Detraining sürecinde kalp-solunum işlevlerinde kapiller yoğunlukta azalma, arterio-venöz oksijen farkında azalma, oksidatif enzim aktivitesinde azalma ve kalp debisi ile atım hacminde azalma gözlenir; kas kuvveti ve gücünde ise fibril çapının azalmasına bağlı atrofi gelişir. Sürat genetiğe bağlı olduğu için diğer özelliklere göre daha az kayba uğrarken, esneklik çok çabuk geriler ve özellikle yaşlılarda yeniden kazanılması daha zordur."
+            "heading": "Vücut Yüklenmeye Nasıl Uyum Sağlar?",
+            "emoji": "💪",
+            "bullets": [
+              "Antrenman yüklenmesi vücutta iki tür uyum başlatır: **akut uyum** (anlık tepki) ve **kronik uyum** (zamanla gelişen, kas/sinir/kalp sistemlerindeki kalıcı değişim).",
+              "**Süperkompenzasyon (fazla tamamlama)**, tükenen enerji kaynaklarının başlangıç seviyesinin üzerine çıkacak şekilde tamamlanmasıdır; yorgunluk → dinlenme → yenilenme olmak üzere 3 evrede gerçekleşir.",
+              "Yeni antrenman uyaranı genelde **24-48 saat** içinde verilmeli; dinlenme çok uzarsa fazla tamamlama kaybolur ve gelişme durur.",
+              "**Sürantrenman (overtraining)**, yetersiz dinlenme ve yorgunluk birikimiyle düşük performansa yol açan aşırı antrenman sürecidir; huzursuzluk, kilo kaybı, iştahsızlık gibi belirtiler görülür.",
+              "Sürantrenmanı gidermek için yoğunluk düşürülmeli, beslenme/uyku/masaj ve dinlenme artırılmalı; **antrenman sayısını artırarak yüklenmeye devam etmek yanlış bir uygulamadır**.",
+              "**Antrenmansızlaşma (detraining)**, uzun süre ara verilmesiyle oluşan performans kaybıdır; kazanılan form **4-8 hafta**da, ileri düzey sporcularda **2-3 hafta**da kaybolmaya başlar.",
+              "Detraining'de kapiller yoğunluk, arteriovenöz oksijen farkı, oksidatif enzim aktivitesi, **kalp debisi ve atım hacmi azalır** (artmaz); kas atrofi gelişir, **sürat** az kayıp yaşarken **esneklik** çok çabuk geriler."
             ]
           }
         ],
@@ -272,44 +284,64 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Antrenmanın Temel İşlevleri ve Kondisyonel Hazırlık",
-            "paragraphs": [
-              "Her sporcu, antrenmanın temel işlevlerine ihtiyaç duyar; bunlar fiziksel, teknik, taktik ve zihinsel-psikolojik-kuramsal hazırlıktır ve tüm sporsal programlarda birlikte yer almalıdır. Antrenman faktörleri piramidinde en altta fiziksel antrenman, üzerinde teknik antrenman, onun üzerinde taktik antrenman, en üstte ise psikolojik antrenman bulunur; bu sıralama üst düzey becerilerin sağlam bir fiziksel temel üzerine inşa edildiğini gösterir.",
-              "Sporun üç temel özelliği olan teknik, taktik ve kondisyon birbirini tamamlar. Kondisyonel hazırlık kavramı, sporcunun fiziksel, teknik ve taktik yönden antrenmana hazırlanması sürecidir. Kondisyon, müsabaka boyunca teknik-taktik yeteneklerin korunmasını ve sporcunun spor dalının fiziksel gereklerine dayanmasını sağlar.",
-              "Fiziksel uygunluğu (aerobik kapasite, anaerobik güç, kuvvet, sürat, esneklik, çeviklik, denge, koordinasyon) yeterli olmayan bir sporcuda erken ortaya çıkan yorgunluk, nöromüsküler koordinasyonu bozarak teknik kapasiteyi düşürür ve istenen taktiğin uygulanmasını güçleştirir. Bu nedenle sportif başarı; kondisyonel ve psikolojik özelliklerin, teorik birikimin ve taktik uygulamaların teknikle bütünleşmesiyle elde edilir."
+            "heading": "Antrenmanın Temel Taşları",
+            "emoji": "🔺",
+            "bullets": [
+              "Her sporcu dört temel hazırlığa ihtiyaç duyar: **fiziksel**, **teknik**, **taktik** ve **zihinsel-psikolojik** hazırlık.",
+              "Antrenman piramidinde en altta **fiziksel antrenman**, üstünde **teknik**, onun üstünde **taktik**, en tepede **psikolojik antrenman** yer alır.",
+              "Bu sıralama üst düzey becerilerin sağlam bir fiziksel temel üzerine kurulduğunu gösterir — yani antrenmanın ilk temel işlevi her zaman **fiziksel hazırlık**tır.",
+              "**Kondisyonel hazırlık**, sporcunun fiziksel, teknik ve taktik yönden antrenmana hazırlanma sürecidir.",
+              "Yetersiz fiziksel uygunluk (aerobik kapasite, kuvvet, sürat, esneklik, denge gibi) erken yorgunluğa yol açar, bu da teknik ve taktik performansı düşürür.",
+              "Sportif başarı; kondisyon, teknik, taktik ve zihinsel özelliklerin bütünleşmesiyle elde edilir. 💪"
             ]
           },
           {
             "heading": "Fiziksel (Bedensel) Hazırlık",
-            "paragraphs": [
-              "Bedensel hazırlık şu şekilde tanımlanır: sporcunun temel motorik özelliklerinin, spor disiplinlerinin gerektirdiği düzeye ulaştırılmasına yönelik yapılan çalışmalardır. Bu hazırlığın temel amacı, sporcunun vücut fonksiyonlarını artırmak ve motorik özelliklerini üst düzeye çıkarmaktır; geliştirilmemiş fiziksel yetersizlikler, teknik ve taktik gelişimi de sınırlar. Uzun süreli antrenman sürecinde üç dönem yer alır: genel ve çok yönlü gelişimin sağlandığı temel antrenman dönemi, genel ve özel kondisyonun düzeltilip geliştirildiği gelişim antrenman dönemi ve branşa özgü kondisyonun mükemmelleştirildiği üst düzey antrenman dönemi.",
-              "Fiziksel antrenmanın iki temel amacı vardır: sporcunun fizyolojik potansiyelini artırmak ve spor dalına özgü biyomotor yetenekleri üst düzeye çıkarmak. Bu kapsamda fiziksel antrenman, genel fiziksel antrenman ve özel (spor dalına özgü) fiziksel antrenman olmak üzere ikiye ayrılır; her ikisi de hazırlık döneminde uygulanır, ancak hazırlık döneminin başında genel fiziksel hazırlık, sonraki evrelerde ise spor dalına özgü (özel) fiziksel hazırlık öne çıkar.",
-              "Genel fiziksel hazırlığın hedefi, sporcunun çalışma kapasitesini artırmak ve gelecekteki yüklenmelere hazırlamaktır; bu evrede orta şiddette, uzun süreli, çok yönlü bir antrenman uygulanır ve düz bar, sıra, ip, sağlık topu gibi genel araçlarla kuvvet, hareketlilik, esneklik, aerobik ve anaerobik kapasite geliştirilir; genç sporcularda bu süreç 2-4 yıl sürebilir. Özel (spor dalına özgü) fiziksel hazırlık ise genel hazırlık üzerine kurulur; spor dalı etkinliklerine benzer alıştırmalarla (örneğin güreşçilerde dayanıklılık-hız, voleybol ve basketbolda ağırlık çalışmaları gibi) sporcunun branşa özgü fiziksel gelişimi hızlandırılır ve bu süreç 2-4 ay, uzun planlamada 1-2 yıla kadar sürebilir.",
-              "Sürecin son aşaması olan biyomotor yetilerde üst düzey hazırlıkta, sporcunun kuvvet, esneklik, sürat ve dayanıklılık gibi motor özellikleri, seçtiği spor dalına özgü alıştırmalarla (örneğin yüksek atlamacılarda bacak presi, sıçrama alıştırmaları ve derinlik sıçramaları gibi) zirveye taşınır. Bu evredeki özel alıştırmalar, davranışların hareket ve teknik yapısına doğrudan odaklanır."
+            "emoji": "💪",
+            "bullets": [
+              "**Bedensel hazırlık**, sporcunun temel motorik özelliklerini ve koordinatif yeteneklerini spor dalının gerektirdiği seviyeye çıkarma çalışmasıdır.",
+              "Uzun süreli antrenmanda 3 dönem vardır: **temel antrenman dönemi** (genel/çok yönlü gelişim), **gelişim antrenman dönemi** (kondisyonu geliştirme) ve **üst düzey antrenman dönemi** (branşa özgü mükemmelleşme).",
+              "Fiziksel antrenman ikiye ayrılır: **genel fiziksel hazırlık** (hazırlık döneminin başında ağırlıklı) ve **özel (spor dalına özgü) fiziksel hazırlık** (sonraki evrelerde ağırlıklı).",
+              "**Genel fiziksel hazırlık**: orta şiddette, uzun süreli, çok yönlü bir çalışmadır; düz bar, sıra, ip, sağlık topu gibi araçlarla kuvvet, esneklik ve aerobik-anaerobik kapasite geliştirilir, gençlerde 2-4 yıl sürebilir.",
+              "**Özel fiziksel hazırlık**: branşa özgü çalışmalardır (örn. güreşte dayanıklılık-hız, voleybol/basketbolda ağırlık çalışması); 2-4 ay, uzun planlamada 1-2 yıla kadar sürebilir.",
+              "**Biyomotor yetilerde üst düzey hazırlık**: kuvvet, esneklik, sürat ve dayanıklılık, branşa özgü alıştırmalarla zirveye taşınır (örn. yüksek atlamada bacak presi 🦵, sıçrama ve derinlik sıçramaları)."
             ]
           },
           {
             "heading": "Teknik Hazırlık",
-            "paragraphs": [
-              "Teknik şu şekilde tanımlanır: branşın temel hareketlerinin, amaca uygun en ekonomik bir şekilde yapılmasıdır; bir başka ifadeyle spor disiplinine ait hareketin ideal modelidir. Teknik, sporda başarıya ulaşabilmenin birinci temel ögesi sayılır ve sinir-kas koordinasyonuna dayalı bir adaptasyon mekanizmasının ürünüdür. Sporcunun bir beceriyi bireysel olarak uygulama biçimine ise stil denir; stilde modelin ana yapısı değişmez, sporcu kendi anatomik ve fizyolojik özelliklerini modele ekler.",
-              "Teknik eğitim, çok yönlü teknik eğitim (koordinatif yeteneklerin ve hareket zenginliğinin geliştirilmesi), genel teknik eğitimi (kondisyonel özelliklerle bütünleşik ayrıntılı eğitim) ve özel teknik eğitim (spor dalına özgü, otomatikleşmiş eğitim) olmak üzere üç aşamada gerçekleşir. Tekniğin öğrenimi de dört safhadan oluşur: amaca yönelik tanıma ve anlama safhası, kaba koordinasyon safhası, ayrıntılı ve ince koordinasyon safhası, sağlamlaştırma ve pekiştirme safhası; bu son safhada teknik otomatik hâle gelir ve sporcu en üst düzeye ulaşır.",
-              "Sportif teknikte kinematik özellikler (zamanlama, uzunluk-mesafe, hızlanma) ile dinamik özellikler (ivmeleme, frenleme, kuvvet vuruşu, döndürme momenti) birlikte değerlendirilir. Antrenörler, hatanın ve nedeninin tespiti, mevcut düzeltme olanaklarının değerlendirilmesi ve en uygun düzeltme şartına karar verilmesi sırasıyla teknik hataları düzeltir; bu süreçte sporcunun fiziksel hazırlık düzeyi, bireysel, psikolojik ve bedensel özellikleri dikkate alınmalıdır."
+            "emoji": "🎯",
+            "bullets": [
+              "**Teknik**, bir branşın temel hareketlerinin en ekonomik şekilde yapılmasıdır — sporun \"ideal hareket modeli\".",
+              "Teknik, sinir-kas koordinasyonuna dayanır ve sportif başarının birinci temel ögesi sayılır.",
+              "**Stil**, sporcunun bir hareketi kendi anatomik ve fizyolojik özellikleriyle bireysel olarak uygulama biçimidir; modelin ana yapısı değişmez.",
+              "Teknik eğitim 3 aşamada ilerler: **çok yönlü teknik eğitim**, **genel teknik eğitim** ve **özel teknik eğitim**.",
+              "Tekniğin öğrenimi 4 safhadan geçer: tanıma-anlama → kaba koordinasyon → ince koordinasyon → **sağlamlaştırma/pekiştirme** (teknik burada otomatikleşir).",
+              "Teknikte **kinematik** (zamanlama, mesafe, hızlanma) ve **dinamik** (kuvvet, ivme, frenleme) özellikler birlikte değerlendirilir.",
+              "Hata düzeltme sırası: hatayı ve nedenini bulma → düzeltme imkanlarını değerlendirme → en uygun çözüme karar verme."
             ]
           },
           {
             "heading": "Taktik Hazırlık",
-            "paragraphs": [
-              "Taktik, teknik yeteneği gelişmiş bir sporcunun sabit ve değişken koşullarda bireysel ve takım olarak becerilerini sergilemesi işidir ve ancak teknik hazırlığın geliştirilmesiyle başarıya ulaşabilir; topu iyi tutamayan bir sporcu pası istediği yere atamaz. Taktik, oyun hedeflerine erişmek için alınan tüm organize tedbirleri, plan, düşünme, metot ve faaliyet prensiplerini kapsar. Sınıflandırmada taktik; genel taktik-özel taktik, bireysel taktik-kolektif taktik, ya da bireysel-grup-takım taktiği olarak ayrılabilir.",
-              "Taktik uygulama sırasıyla şu aşamalardan geçer: müsabaka pozisyonunu algılamak ve analiz etmek, düşünce olarak çözümü bulmak ve taktik görevin motorik çözümünü gerçekleştirmek. Taktik eğitimde ise sırasıyla algılama (hissetme sürati), operatif düşünebilme, hareket sürati ve koordinasyon gibi sensomotorik özellikler ile psikolojik yetenekler geliştirilir; bu eğitim araştırmak, gizlemek ve duruma uygun davranışı uygulamak bileşenleriyle üç basamakta (tipik davranışları tekrarlama, müsabaka pozisyonunu sezinleme, rakibin davranışlarını tanıyarak doğru kararı verme) gerçekleşir.",
-              "Taktik antrenman, müsabakada taktik davranışı gerçekleştirmek için gerekli becerilerin sistematik olarak geliştirilmesidir ve teorik eğitim (öğrenme, dikkat, bilgi alımı becerilerinin geliştirilmesi) ile pratik-uygulamalı eğitimin (taktik şemaların tekrarlanarak otomatikleşmesi) bütünleşmesini gerektirir. Taktik antrenmanın metodik ilkeleri arasında teori-uygulama bütünlüğü, teknik-taktik eğitimin paralel yürütülmesi, savunmasızdan müsabaka şartlarına kademeli zorlaştırma, temelden varyasyona ilerleme, gözlem/video ile görsel yeteneğin geliştirilmesi ve bütünden parçaya, kolaydan zora gibi öğretim yöntemleri yer alır."
+            "emoji": "♟️",
+            "bullets": [
+              "**Taktik**, teknik açıdan gelişmiş bir sporcunun sabit/değişken koşullarda bireysel veya takım olarak üstünlük kurma becerisidir; ancak güçlü bir **teknik** temeliyle başarıya ulaşır.",
+              "Klasik örnek: \"Topu iyi tutamayan bir sporcu pası istediği yere atamaz\" → bu, **teknik-taktik** ilişkisini gösterir.",
+              "Taktik sınıflandırılır: **genel-özel taktik**, **bireysel-kolektif taktik**, bireysel-grup-takım taktiği.",
+              "Taktik uygulama 3 adımdır: pozisyonu algılama/analiz etme → çözümü düşünme → motorik çözümü uygulama.",
+              "Taktik eğitimde algılama (hissetme sürati), operatif düşünme, hareket sürati ve koordinasyon geliştirilir.",
+              "**Taktik antrenman**, teorik eğitimi (öğrenme, dikkat, bilgi alımı) pratik eğitimle (taktik şemaların tekrarla otomatikleşmesi) birleştirir."
             ]
           },
           {
             "heading": "Zihinsel ve Kuramsal Hazırlık",
-            "paragraphs": [
-              "Zihinsel antrenman şu şekilde tanımlanır: yapılacak olan hareketin uygulama olmaksızın yoğun bir şekilde zihinde canlandırılmasıdır; bilinen bir hareketin geliştirilmesi ya da yeni bir hareketin pasif öğrenme süreci olarak da adlandırılır. Zihinsel psikolojik hazırlık ise bir sporcunun, kendisini etkileyen algı, stres, motivasyon, eğitim ve motorik becerilerin üstesinden gelerek ilgili spor dalına hazırlanması işidir; sporcular ancak psiko-enerji düzeylerini düzenli kontrol ederlerse bunun yarışmadaki faydasını görebilirler.",
-              "Zihinsel antrenman üç yöntemle uygulanır: kendi kendine konuşma antrenmanı (sporcunun bir hareketi nasıl yapması gerektiği konusunda zihinsel olarak kendisiyle konuşması), gizli algı antrenmanı (idealize edilen bir sporcunun hareketinin zihinde canlandırılması) ve kendini hayal etme/imgeleme antrenmanı (sporcunun kendi uygulamasını, geçmiş bilgi ve deneyimlerini kullanarak hayal etmesi). Bu yöntemler sporcunun duygu ve düşüncelerini kontrol edebilme, kendine güven, motivasyon, stresle başa çıkabilme ve beceri öğrenimi konularında başarı sağlamasına yardımcı olur.",
-              "Antrenmanın kuramsal/eğitimsel boyutu, sporcunun verim düzeyinin spor dalının özelliği, eğitim süreci, planlama, fiziksel-fizyolojik-psikolojik yüklenmeler gibi etmenlere bağlı olduğunu kabul eder. Antrenman bireysel bir özellik taşıdığından bireyden bireye farklılık gösterir ve bilimsel kurallara, başarılı antrenörlerin ve sporcuların deneyimlerine dayanarak planlı ve sistematik şekilde düzenlenmelidir; bu deneyimlerin genelleştirilip uyarlanması, antrenörün sporcuyu kendi kendine düşünüp hareket edebilecek şekilde yönlendirmesine katkı sağlar."
+            "emoji": "🧠",
+            "bullets": [
+              "**Zihinsel antrenman**, yapılacak hareketi uygulama olmadan yoğun biçimde zihinde canlandırmaktır — bir tür pasif öğrenme.",
+              "**Zihinsel-psikolojik hazırlık**, sporcunun algı, stres, motivasyon, eğitim ve motorik becerilerin üstesinden gelerek spor dalına hazırlanma işidir.",
+              "3 yöntemle uygulanır: **kendi kendine konuşma antrenmanı**, **gizli algı antrenmanı** (idealize sporcuyu zihinde canlandırma) ve **imgeleme/hayal etme antrenmanı**.",
+              "Bu yöntemler özgüven, motivasyon, stresle baş etme ve beceri öğreniminde sporcuya yardımcı olur.",
+              "Antrenmanın **kuramsal/eğitimsel boyutu**, verimin eğitim süreci, planlama ve fiziksel-psikolojik yüklenmelere bağlı olduğunu kabul eder.",
+              "Antrenman bireyseldir; bilimsel kurallara ve başarılı antrenör/sporcuların deneyimlerinin genelleştirilip uyarlanmasına dayanarak planlanır. 📘"
             ]
           }
         ],
@@ -539,77 +571,109 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Antrenman İlkesi ile Antrenman Kuralı Arasındaki Fark",
-            "paragraphs": [
-              "Spor biliminin önemli parçalarından biri olan antrenman metodolojisi ve teorisinin biyolojik, pedagojik, psikolojik ve sosyolojik bilimlere dayalı kendine özgü ilkeleri vardır. Bu ilkeler sporsal antrenmana ait üst düzeyde açıklamaları kapsar; yani somut bir davranış yönergesi vermek yerine genel yönelim temellerini oluşturur.",
-              "Antrenman ilkeleri kavramı sık sık antrenman kuralları kavramı ile karıştırılır. Oysa ilkeler daha genel ve kuramsal bir kavramdır; kurallar ise bu ilkeleri yorumlamaya ve somutlaştırmaya yarayan, daha dar kapsamlı uygulama biçimleridir (Muratlı, Kalyoncu ve Şahin, 2011). Başka bir deyişle antrenman kuralları olmadan ilkeler soyut kalır, ilkeler olmadan da kurallar anlamını kaybeder.",
-              "Birçok yazar antrenman ilkelerini farklı biçimlerde sınıflandırmıştır: Harre (1982) giderek artan yüklenme, yıl boyu yüklenme, periyotlama, devamlılık, bilinçlilik, sistemlilik, açıklık ve anlaşılabilirlik ilkelerinden söz ederken; Martin ve arkadaşları (1999) genel pedagojik ilkeler, antrenman yapısı ve organizasyonuna yönelik ilkeler ile yöntemsel/içerik ilkeleri olmak üzere üç başlık kullanmıştır. Grosser ve arkadaşları (1981) ise uyum etkisi yaratacak yüklenme ilkeleri, periyotlama ve uyumun korunması ilkesi ile özelleşme ilkelerini esas almıştır."
+            "heading": "İlke mi, Kural mı?",
+            "emoji": "📚",
+            "bullets": [
+              "**Antrenman ilkeleri**, biyolojik, pedagojik, psikolojik ve sosyolojik bilimlere dayanan **üst düzey, genel açıklamalardır** — somut bir davranış yönergesi değildir.",
+              "**Antrenman kuralları** ise bu ilkeleri yorumlayıp somutlaştıran, daha dar kapsamlı uygulama biçimleridir (Muratlı, Kalyoncu ve Şahin, 2011).",
+              "Kurallar olmadan ilkeler soyut kalır, ilkeler olmadan da kurallar anlamını kaybeder — ikisi birbirini tamamlar.",
+              "Farklı yazarlar (Harre, Martin, Grosser) ilkeleri farklı şekillerde sınıflandırmış olsa da ayrım hep aynıdır: **ilke genel, kural özeldir**."
             ]
           },
           {
-            "heading": "Antrenmana Bilinçli ve Aktif Katılım, Çok Yönlü Gelişim İlkeleri",
-            "paragraphs": [
-              "Antrenmana bilinçli ve aktif katılım ilkesinde sporcunun antrenman programı konusunda bilgilendirilmesi, yaratıcılığının desteklenmesi, zararlı alışkanlıklardan korunması, gerçekçi ve ulaşılabilir hedefler belirlenmesi ve toparlanma süreçlerine önem verilmesi gibi faktörler rol oynar. Sporcunun antrenmanın amacını ve beklentilerini bilmesi, sürece aktif katılımını ve motivasyonunu artırır.",
-              "Çok yönlü gelişim ilkesi, sporda üst düzey başarı için gerekli olan özelleştirilmiş fiziksel hazırlık ve tekniğe ulaşabilmenin temelinde geniş ve çok yönlü bir fiziksel gelişimin bulunması gerektiğini ifade eder. Bu nedenle sporcunun gerekli bütün kas grupları, eklem esnekliği ve hareketliliği geliştirilmeli; sporcu hızlı, güçlü, dayanıklı, esnek ve koordineli olmalıdır. Bu ilke özellikle çocuk ve gençlerin antrenmanında önemlidir ve bir piramit gibi düşünülebilir: piramidin tabanını çocukluk evresinde kazanılan çok yönlü gelişim oluşturur, üzerine genç sporcularda özel antrenman, en tepede ise olgunlaşma evresinde yüksek performans gelir."
+            "heading": "Bilinçli Katılım ve Çok Yönlü Gelişim",
+            "emoji": "🌱",
+            "bullets": [
+              "Sporcu, antrenman programını ve hedeflerini bilmelidir; bu **motivasyonunu ve aktif katılımını** artırır.",
+              "Yaratıcılığı desteklenmeli, zararlı alışkanlıklardan korunmalı, gerçekçi hedefler konmalı ve toparlanmaya önem verilmelidir.",
+              "**Çok yönlü gelişim ilkesi**: üst düzey başarı için önce geniş ve çok yönlü bir fiziksel temel (kuvvet, hız, dayanıklılık, esneklik, koordinasyon) gerekir.",
+              "Özellikle çocuk ve gençlerde önemlidir: bir piramit gibi düşünülebilir — tabanda çok yönlü gelişim, ortada özel antrenman, tepede yüksek performans."
             ]
           },
           {
             "heading": "Özelleşme (Branşlaşma) İlkesi",
-            "paragraphs": [
-              "Özelleşme ilkesine göre başarı, doğru zamanda branşlaşmayı ve spor dalına özgü hedeflere yönelik çalışmaları gerektirir. Spora başlama, özelleşme ve yüksek performans yaşları spor branşına göre değişir (Tablo 3.1). Branşa özgü egzersizlere katılım, organizmada o branşa özgü morfolojik ve fonksiyonel değişikliklere yol açar; böylece organizma yaptığı aktiviteye uyum sağlar ve bu çalışmaya bağlı olarak hem teknik-taktik hem de fizyolojik uyum birlikte gelişir.",
-              "Branşa özel egzersizler iki grupta toplanır: (1) branşlaşılan spora özgü egzersizler ve (2) biyomotor becerilerin geliştirilmesine yönelik egzersizler. Antrenmanlar; metabolik özelleştirme, biyomekaniksel özelleştirme, kinetik ve kinematik özelleştirme, fizyolojik özelleştirme ve antrenman deneyimi ile atletik durum ilişkisinin özelleştirilmesi başlıkları açısından branşa özgü hâle getirilmelidir. Sporcunun biyolojik/kronolojik yaşı, antrenman altyapısı ve tecrübesi, sağlık durumu, antrenman yüküne toparlanma hızı, vücut yapısı ve kişiliği gibi faktörler bu özelleştirmeyi doğrudan etkiler."
+            "emoji": "🎯",
+            "bullets": [
+              "**Özelleşme ilkesi**: başarı, doğru zamanda branşlaşmayı ve o spor dalına özgü hedeflere yönelik çalışmayı gerektirir.",
+              "Branşa özgü egzersizlere katılım, organizmada **o branşa özgü morfolojik ve fonksiyonel değişiklikler** yaratır — organizma yaptığı aktiviteye uyum sağlar; değişiklikler branştan branşa farklılaşır.",
+              "Bu süreçte hem **teknik-taktik** hem de **fizyolojik uyum** birlikte gelişir.",
+              "Branşa özel egzersizler iki grupta toplanır: (1) **branşa özgü egzersizler**, (2) **biyomotor becerileri geliştiren egzersizler**.",
+              "Antrenmanlar beş başlıkta özelleştirilir: **metabolik özelleştirme**, **biyomekaniksel özelleştirme**, **kinetik-kinematik özelleştirme**, **fizyolojik özelleştirme** ve **antrenman deneyimi-atletik durum ilişkisinin özelleştirilmesi**.",
+              "Bu özelleştirmeyi sporcunun yaşı, antrenman altyapısı/tecrübesi, sağlık durumu, toparlanma hızı, vücut yapısı ve kişiliği etkiler."
             ]
           },
           {
-            "heading": "Bireyselleştirme ve Çeşitlilik İlkeleri",
-            "paragraphs": [
-              "Bireyselleştirme ilkesi, sporcunun becerileri, öğrenme özellikleri ve ilgilendiği spor dalının gereklerine göre bireysel farklılıkların gözetilerek antrenman programlarının hazırlanmasını ifade eder. Antrenörler, başarılı bir sporcunun programını farklı beceri düzeyindeki başka sporculara aynen uygulayarak başarıya ulaşılacağı yanılgısına düşmemelidir; her sporcunun efor kapasitesi ve kişilik gelişimi ayrı ayrı değerlendirilmelidir.",
-              "Çeşitlilik ilkesi, antrenmanın tek tipe bağlı kalmaksızın çoklu eğitim drilleriyle gerçekleştirilmesini öngörür. Elit bir sporcu yılda yaklaşık 2000 saate yakın antrenman yaptığından, uzun süreli ve tekdüze antrenmanlar sporcuların sıkılmasına ve sürantrene olmasına neden olabilir; bu durum özellikle dayanıklılığın baskın olduğu branşlarda daha belirgindir. Antrenman içeriğinin zenginleştirilmesi sporcunun zihinsel ve psikolojik sağlığına olumlu etki eder ve antrenmanı sevmesini sağlayarak verimini yükseltir."
+            "heading": "Bireysellik ve Çeşitlilik",
+            "emoji": "🧩",
+            "bullets": [
+              "**Bireyselleştirme ilkesi**: program, sporcunun becerilerine, öğrenme tarzına ve branşının gereklerine göre kişiye özel hazırlanmalıdır.",
+              "Başarılı bir sporcunun programını aynen başka bir sporcuya uygulamak hatalıdır — her sporcunun efor kapasitesi ve kişiliği farklıdır.",
+              "**Çeşitlilik ilkesi**: antrenman tek bir tipe bağlı kalmadan çoklu eğitim drilleriyle yapılmalıdır.",
+              "Elit bir sporcu yılda yaklaşık **2000 saat** antrenman yapar; uzun süre tekdüze antrenman sporcuyu sıkar ve **sürantrene** olmasına yol açabilir (özellikle dayanıklılık branşlarında).",
+              "Çeşitlilik bu monotonluğu önler: sporcunun zihinsel/psikolojik sağlığına iyi gelir, antrenmanı sevmesini sağlar ve verimini yükseltir."
             ]
           },
           {
-            "heading": "Model Antrenman ve Antrenmanın Özel Olma İlkesi",
-            "paragraphs": [
-              "Model antrenman ilkesi, çevresel faktörler, hava koşulları, zemin, seyirci ve malzeme gibi unsurlar nedeniyle değişen yarışma şartlarına uygun antrenmanlar düzenlenmesini ifade eder. Bompa'ya (2003) göre modelleme bireye veya takıma özgü olmalıdır; antrenör başarılı bir sporcunun modelini referans alabilir ama onu birebir taklit etmemeli, sporcusunun yeteneğine ve fiziki/psikolojik durumuna uygun yeni bir model geliştirmelidir. Modelin oluşturulmasında çevresel faktörler, antrenörün yarışma tecrübesi, yarışma şartlarına uygunluk ve bireye özgü hazırlık rol alır; cinsiyet faktörü bu modelin doğrudan bir bileşeni değildir.",
-              "Antrenmanın özel olma ilkesine göre antrenmana uyum, sporcunun cinsiyeti, yaşı, sağlık durumu, geçmişi, genetik özellikleri, motivasyonu ve çevresel etkenleri gibi bireysel özelliklerine bağlıdır. Bu nedenle antrenmanlar hem spor dalının özelliklerine hem de sporcunun yaş grubuna uygun hazırlanmalıdır.",
-              "Yıllık antrenman periyotlama ilkesi, sporsal verimin sürekliliği için bütün yıl boyunca aktif düzenlenmiş dinlenme evrelerini de içeren bir antrenman planlaması yapılmasını öngörür. Periyotlamada amaç, yüksek antrenman-seyrek müsabaka ya da düşük antrenman-sık müsabaka dengesini doğru kurarak mümkün olan en iyi verim düzeyine ulaşmaktır."
+            "heading": "Model Antrenman ve Özel Olma İlkesi",
+            "emoji": "🏟️",
+            "bullets": [
+              "**Model antrenman ilkesi**: hava koşulları, zemin, seyirci ve malzeme gibi değişen yarışma şartlarına uygun antrenman kurmayı ifade eder.",
+              "Bompa'ya (2003) göre model **bireye veya takıma özgü** olmalı; başarılı bir sporcu birebir taklit edilmez, ona uygun yeni bir model geliştirilir.",
+              "Modeli oluşturan etkenler: **çevresel faktörler**, antrenörün yarışma tecrübesi, yarışma şartlarına uygunluk ve bireye özgü hazırlık — **cinsiyet bu listede yoktur**.",
+              "**Antrenmanın özel olma ilkesi**: uyum, sporcunun cinsiyeti, yaşı, sağlık durumu, geçmişi, genetiği, motivasyonu ve çevresel etkenlerine bağlıdır.",
+              "**Yıllık periyotlama ilkesi**: yıl boyu aktif düzenlenmiş dinlenme evrelerini de içeren bir plan yapılmasıdır; amaç antrenman-müsabaka dengesini doğru kurup en iyi verime ulaşmaktır."
             ]
           },
           {
-            "heading": "Geriye Dönüşüm (Detraining) ve Aşırı Yüklenme",
-            "paragraphs": [
-              "Geriye dönüşüm (detraining), antrenmana herhangi bir nedenle fazla ara verilmesi sonucunda sporcuda performansın gerilemesi durumudur (Sousa vd., 2019). Antrenman yüklenmeleri ile kazanılan performans, yüklenme azaldığında veya tamamen kesildiğinde antrenman öncesi düzeye geri döner; uzun sürede kazanılan özellikler yavaş, kısa sürede kazanılanlar ise hızlı geriye dönüş gösterir. Detraining kas atrofisine yol açarak kuvvet ve dayanıklılığın kaybolmasına neden olur; hastalık, sakatlık, kaza veya sezon sonu gibi nedenlerle antrenmana ara verilmesinden kaynaklanır ve antrenmanın birden değil kademeli olarak azaltılması önerilir.",
-              "Antrenman sıklığı ilkesi çerçevesinde, antrenman yoğunluğu, sıklığı, süresi ve kapsamı birbiriyle ilişkilidir; sıklık arttıkça sportif verim de doğru orantılı olarak artar. Denge bozulduğunda ve sporcu aşırı gayret içine girdiğinde aşırı antrenman sendromu (sürantrenman) ortaya çıkabilir; bu durum sporcunun kariyerinin erken sona ermesine bile yol açabilir (Carfagno ve Hendrix, 2014). Antrenmanda en sık görülen hatalar arasında aşırı antrenman, antrenman azlığı, uygunsuz antrenman sıklığı, branşa uygun olmayan egzersiz/iş oranı ve antrenman programının sporcuyla paylaşılmaması sayılabilir."
+            "heading": "Antrenmana Ara Verince Ne Olur? (Detraining)",
+            "emoji": "📉",
+            "bullets": [
+              "**Detraining (geriye dönüşüm)**: antrenmana fazla ara verilmesi sonucunda performansın gerilemesi durumudur (Sousa vd., 2019).",
+              "Uzun sürede kazanılan özellikler yavaş, kısa sürede kazanılanlar hızlı geri döner; detraining **kas atrofisine** yol açarak kuvvet ve dayanıklılığı azaltır.",
+              "Nedenleri arasında hastalık, sakatlık, kaza veya sezon sonu sayılabilir; antrenman birden değil **kademeli** olarak azaltılmalıdır.",
+              "Yüklenme sıklığı arttıkça verim de artar, ama denge bozulup aşırı gayret gösterilirse **aşırı antrenman sendromu (sürantrenman)** ortaya çıkar — kariyeri erken bitirebilir (Carfagno ve Hendrix, 2014).",
+              "En sık görülen hatalar: aşırı antrenman, antrenman azlığı, uygunsuz sıklık, branşa uymayan egzersiz/iş oranı ve programın sporcuyla paylaşılmaması."
             ]
           },
           {
-            "heading": "Yüklenme ve Dinlenmenin Dengelenmesi, Süperkompenzasyon",
-            "paragraphs": [
-              "Yüklenme ve dinlenmenin doğru düzenlenmesi yenilenme etkisini yükseltir. Fonksiyonel aşırı yüklenmede, artan antrenman yüküne karşın performans geçici olarak geriler; dinlenme sonrasında ise performans gelişir. Bu kısa süreli (birkaç gün sürebilen) olumlu uyum süper kompenzasyon (fazla tamlama) olarak bilinir (Pündük ve Öztürk, 2019) ve antrenmana akut ve kronik uyumun sağlanmasını ifade eder.",
-              "Dinlenme, tam ve eksik (tam olmayan) dinlenme olarak ikiye ayrılır. Tam dinlenme, organizmanın tamamen toparlanması için gereken sürenin tümünü kapsar ve dikkat-koordinasyon çalışmaları, maksimal kuvvet çalışmaları, müsabakalar ile sürat/reaksiyon çalışmalarında gereklidir. Eksik dinlenme ise toparlanma süresinin yaklaşık üçte biri kadardır ve süratte/kuvvette devamlılık ile dayanıklılık çalışmalarında kullanılır. Dinlenme ayrıca aktif (hafif sportif alıştırmalarla dinlenme) ve pasif (hiçbir aktivite yapmadan dinlenme) olarak da uygulanabilir."
+            "heading": "Yüklenme-Dinlenme Dengesi ve Süperkompenzasyon",
+            "emoji": "⚖️",
+            "bullets": [
+              "Doğru yüklenme-dinlenme dengesi yenilenmeyi güçlendirir: yük artınca performans geçici geriler, dinlenince gelişir.",
+              "Bu olumlu, kısa süreli (birkaç gün) uyum **süper kompenzasyon (fazla tamlama)** olarak bilinir (Pündük ve Öztürk, 2019) ve antrenmana **akut ve kronik uyumu** ifade eder.",
+              "Dinlenme ikiye ayrılır: **tam dinlenme** (tam toparlanma; dikkat-koordinasyon, maksimal kuvvet, müsabaka ve sürat/reaksiyon çalışmalarında gerekir) ve **eksik dinlenme** (toparlanma süresinin ~1/3'ü; sürat/kuvvet devamlılığı ve dayanıklılık çalışmalarında kullanılır).",
+              "Ayrıca **aktif dinlenme** (hafif sportif alıştırmalarla) ve **pasif dinlenme** (hiçbir aktivite yapmadan) şeklinde de uygulanır."
             ]
           },
           {
-            "heading": "Yüklenmenin Tanımı ve Türleri",
-            "paragraphs": [
-              "Yüklenme, bir plan ve program çerçevesinde ölçüsü belirlenmiş, kapsam ve içerikte yapılan değişiklikler sonucu organizmada morfolojik, fonksiyonel ve kimyasal değişikliklere neden olan etkinlik olarak tanımlanır. Performansın gelişimi, sporcuya ve yaptığı branşa uygun yüklenmelere ihtiyaç duyar; doğru sıralanmış yüklenmeler aşamalı olarak sportif verimde artışlara yol açar (Smith, 2003).",
-              "Yüklenme, dış ve iç yüklenme olmak üzere ikiye ayrılır. Dış yüklenme; antrenman yöntemlerinin yoğunluğunu, sıklığını, süresini, kapsamını ve dinlenme aralıklarını içerir. İç yüklenme ise her dış yüklenmenin organizmada oluşturduğu fizyolojik, biyokimyasal ve psikolojik reaksiyonu ifade eder.",
-              "Farklı yüklenme yaklaşımları şunlardır: Standart (ölçülü) yüklenme hazırlık döneminde yüklenmenin çeşitliliğini ve sıklığını içerir. Doğrusal (lineer) yüklenme, yüklenmenin zamanla sürekli artması esasına dayanır ancak uzun süre uygulanırsa aşırı antrenman ve sürantrenman riski taşır. Basamaklı yüklenme, aşamalı artan yüklenimlerin ardından az yüklenmeli bir dinlenme evresinin geldiği klasik dönemleme biçimidir ve özellikle yeni başlayan sporcular için uygundur. Odaklanmış (konsantre) yüklenme, kısa süreli aşırı yüklenme sonrasında yeterli dinlenmeyle verimin artmasını sağlar; bağlantılı sıralanan yüklenme ise odaklanmış yüklenme dönemini bir dinlenme döneminin takip etmesini önerir. Düz yüklenme, yüksek kapsam ve yüksek şiddeti birlikte içerdiğinden yalnızca üst düzey sporcularda, müsabaka öncesi dönemin ortalarında kullanılmalıdır."
+            "heading": "Yüklenme Nedir, Türleri Neler?",
+            "emoji": "📊",
+            "bullets": [
+              "**Yüklenme**: plan dahilinde kapsam/içerikte yapılan değişikliklerle organizmada morfolojik, fonksiyonel ve kimyasal değişiklik yaratan etkinliktir.",
+              "İkiye ayrılır: **dış yüklenme** (antrenmanın yoğunluğu, sıklığı, süresi, kapsamı, dinlenme aralıkları) ve **iç yüklenme** (organizmanın verdiği fizyolojik, biyokimyasal, psikolojik tepki).",
+              "Farklı yaklaşımlar: **standart yüklenme** (hazırlık döneminde çeşitlilik), **doğrusal yüklenme** (sürekli artar, uzun sürede sürantrenman riski taşır), **basamaklı yüklenme** (artış + dinlenme evresi, yeni başlayanlara uygun klasik dönemleme).",
+              "**Odaklanmış (konsantre) yüklenme**: kısa süreli aşırı yük sonrası yeterli dinlenme; **düz yüklenme**: yüksek kapsam+şiddet birlikte, sadece üst düzey sporcularda müsabaka öncesi dönemin ortalarında kullanılır."
             ]
           },
           {
-            "heading": "Yüklenmenin Ana Ögeleri: Şiddet, Süre, Sıklık, Kapsam",
-            "paragraphs": [
-              "Yüklenme, nicelik ve nitelik bakımından incelendiğinde dört ana ögeden oluşur: yüklenmenin şiddeti, süresi, sıklığı ve kapsamı. Bu dört öge birbiriyle koordineli biçimde kullanılarak sporcunun sportif güç yeteneğini geliştirmeye yöneliktir.",
-              "Yüklenme şiddeti, her uyarının birim süre içindeki iş yoğunluğunu; yani yapılan işin zorluk derecesini ifade eder (m/sn, km/saat, kg/sn gibi birimlerle anlatılır). Antrenman bütünlüğünde şiddet ile kapsam ters orantılıdır: şiddet yükseldikçe tekrar sayısı (kapsam) azalır. Yüklenme süresi, bir antrenman içinde organizma üzerine etki eden hareket uyarılarının zaman içindeki süresidir; seriler ya da devamlı yüklenmelerde uygulanan uyarıların süresi olarak da tanımlanır.",
-              "Yüklenme sıklığı, bir antrenmandaki yüklenme ve dinlenme safhaları arasındaki zamansal ilişkiyi, genellikle bir hafta içinde yapılan antrenman sayısını ifade eder ve sporcunun dinlenme/toparlanma yeteneğine bağlıdır. Yüklenme kapsamı (volüm) ise bir antrenmandaki tüm uyarıların süresini ve tekrarını içerir; koşu sporlarında kilometre, kuvvet çalışmalarında tekrar sayısı ve kaldırılan toplam ağırlık ile ifade edilir."
+            "heading": "Yüklenmenin 4 Ana Ögesi",
+            "emoji": "🔢",
+            "bullets": [
+              "Yüklenme, nicelik ve nitelik bakımından **dört ana ögeden** oluşur: **şiddet**, **süre**, **sıklık** ve **kapsam** — birlikte sporcunun gücünü geliştirir.",
+              "**Şiddet**: birim süredeki iş yoğunluğu/zorluk derecesidir (m/sn, km/saat, kg/sn gibi birimlerle ölçülür); şiddet arttıkça kapsam (tekrar sayısı) azalır.",
+              "**Süre**: hareket uyarılarının zaman içindeki uzunluğudur.",
+              "**Sıklık**: yüklenme ve dinlenme safhaları arasındaki zamansal ilişkidir — genelde haftalık antrenman sayısı; sporcunun toparlanma yeteneğine bağlıdır.",
+              "**Kapsam (volüm)**: tüm uyarıların süresi ve tekrarıdır — koşuda kilometre, kuvvette tekrar sayısı ve toplam kaldırılan ağırlıkla ifade edilir."
             ]
           },
           {
             "heading": "Artan Yüklenme (Overload) İlkesi",
-            "paragraphs": [
-              "Kasların ve dayanıklılığın fizyolojik gelişimi overload prensibine bağlıdır. Bu prensibe göre kasların kuvvet, dayanıklılık ve hipertrofi gelişimi, sadece kasa verilen zaman periyodu içinde maksimal kuvvet ve dayanıklılık kapasitesinin yüke karşı kullanılmasıyla sağlanır; aynı dirence karşı çalışmanın sürdürülmesi ise kasın yapısında ilave bir değişikliğe yol açmaz. Dolayısıyla uygulanan direncin, kasın yaptığı işe paralel olarak giderek artırılması gerekir.",
-              "Antrenman yükünün sürekli artırılması ilkesine göre biyomotor özellikler farklı zaman ölçeklerinde gelişir: esneklik günden güne, kuvvet haftadan haftaya, hız/sürat genetik özelliklere bağlı olarak aydan aya, dayanıklılık ise ay-yıl süreci içinde artar. Letzelter ve arkadaşları (1987), antrenman durumu ile yüklenmenin birbirine paralel eğriler (paraboller) oluşturduğunu göstermiştir (Şekil 3.3)."
+            "emoji": "📈",
+            "bullets": [
+              "**Overload ilkesi**: kuvvet, dayanıklılık ve hipertrofi gelişimi, kasın maksimal kapasitesinin yüke karşı zorlanmasıyla sağlanır; aynı dirence devam etmek ilerleme yaratmaz.",
+              "Bu yüzden uygulanan direnç, kasın yaptığı işe paralel olarak **giderek artırılmalıdır**.",
+              "Biyomotor özellikler farklı hızlarda gelişir: **esneklik günden güne**, **kuvvet haftadan haftaya**, **hız/sürat** (genetiğe bağlı) **aydan aya**, **dayanıklılık ay-yıl** süreci içinde artar.",
+              "Letzelter ve arkadaşları (1987), antrenman durumu ile yüklenmenin birbirine paralel eğriler (paraboller) oluşturduğunu göstermiştir (Şekil 3.3)."
             ]
           }
         ],
@@ -834,65 +898,92 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Spor, Performans ve Motorik Özellikler",
-            "paragraphs": [
-              "Spor, bireylerin bedensel ve ruhsal sağlığını geliştiren, toplumlar arasında barışçıl ilişkiler kurulmasına da yardımcı olan bir uğraş alanı olarak kabul edilir. Profesyonel sporda zirveye ulaşmak, bilimsel verilere dayanan antrenman programlarının ve alt yapı yatırımlarının yanı sıra sporcunun motorik özelliklerinin geliştirilmesini gerektirir.",
-              "Performans (sporsal verim), sporcunun fizyolojik, psikolojik, biyomotorik ve fiziksel olarak ortaya koyduğu verim düzeyi olarak tanımlanır. Performansı belirleyen temel unsurlardan biri, sporcunun temel ve tamamlayıcı motorik özelliklerinin düzeyidir; bu nedenle özel yetenek seçim sınavlarında da sürat, dayanıklılık ve kuvvet gibi motorik özellikler esas alınır."
+            "heading": "Spor ve Performans Nedir?",
+            "emoji": "🏆",
+            "bullets": [
+              "Spor, bedensel ve ruhsal sağlığı geliştirir; toplumlar arasında barışçıl ilişkiler kurulmasına da yardımcı olur.",
+              "Zirveye ulaşmak sadece yetenekle değil, bilimsel antrenman programları ve alt yapı yatırımıyla olur.",
+              "**Performans (sporsal verim)**, sporcunun fizyolojik, psikolojik ve biyomotorik olarak ortaya koyduğu verim düzeyidir.",
+              "Performansı belirleyen temel unsur, sporcunun **temel ve tamamlayıcı motorik özelliklerinin düzeyi**dir.",
+              "Bu yüzden yetenek seçim sınavlarında sürat, dayanıklılık ve kuvvet gibi motorik özellikler esas alınır."
             ]
           },
           {
-            "heading": "Temel Motorik Özellikler: Genel Çerçeve",
-            "paragraphs": [
-              "Temel motorik özellikler, kişinin yaşamında hiç antrenman yapılmasa da vücudun doğal gelişim süreci içinde belirli bir ölçüde kendiliğinden gelişen, nispeten bağımsız özelliklerdir. Buna karşın bu özelliklerin ileri düzeye taşınması, antrenmanlarda uygulanan motorik spor hareketlerinin verdiği 'uyaranlardan' ayrı düşünülemez.",
-              "Temel motorik özelliklerin içeriksel yapısı üç ana bölümde incelenir: Dayanıklılık, Kuvvet ve Sürat. Esneklik ve beceri ise bu üç temel özelliğin yanında özel güçlülüğü sınırlayan tamamlayıcı motorik özellikler olarak kabul edilir. Sporcunun motorik özelliklerinin düzeyi, yeteneklerini ve performansını doğrudan belirler."
+            "heading": "Motorik Özelliklere Genel Bakış",
+            "emoji": "🧩",
+            "bullets": [
+              "**Temel motorik özellikler**, antrenman yapılmasa bile vücudun doğal gelişimiyle bir ölçüde kendiliğinden gelişir.",
+              "İleri düzeye taşınmaları için antrenmandaki motorik uyaranlar şarttır.",
+              "Temel motorik özellikler üç ana başlıkta incelenir: **Dayanıklılık, Kuvvet ve Sürat**.",
+              "**Esneklik ve beceri** ise bu üçünü tamamlayan, özel güçlülüğü sınırlayan **tamamlayıcı motorik özellikler**dir.",
+              "Sporcunun motorik özellik düzeyi, yeteneğini ve performansını doğrudan belirler."
             ]
           },
           {
-            "heading": "Dayanıklılık",
-            "paragraphs": [
-              "Dayanıklılık, sporcunun fiziki ve fizyolojik yorgunluğa dayanma gücü olarak tanımlanır. Motorsal ve bireysel karakterle ilgili bir yetidir; kalp-dolaşım sistemi, solunum sistemi, sinir sistemi ve psikolojik etkenlerle belirlenir. Kısaca dayanıklılık, vücudun yorgunluğa karşı direnci olarak ifade edilebilir. Kişinin maksimal yüklenmeli çalışma anında kullanabildiği oksijen miktarı, dayanıklılık düzeyinin önemli bir göstergesidir.",
-              "Dayanıklılık antrenmanları organizmada birçok olumlu etki yaratır: vücudun daha kısa sürede toparlanması, vital kapasitenin artması, kalbin güçlenmesi, aktif kılcal damar sayısının artması ve organizmanın enerji kapasitesinin yükselmesi gibi.",
-              "Enerji oluşumu açısından dayanıklılık aerobik ve anaerobik olarak ikiye ayrılır. Aerobik dayanıklılık, organizmanın yeterli oksijen ortamında, oksijen borçlanmasına girmeden ürettiği enerjiye dayanır ve genellikle üç dakikadan uzun süren aralıksız çalışmalarda ortaya çıkar. Anaerobik dayanıklılık ise süratli, dinamik ve maksimal yüklenmelerde, alınan oksijenle ihtiyaç duyulan oksijen arasında denklik olmadığında devreye girer; anaerobik enerji metabolizması fosfojen (ATP-CP) sistemi ve laktik asit sistemi olmak üzere iki yolla gerçekleşir.",
-              "Süre açısından dayanıklılık kısa süreli (45 saniye-2 dakika, ağırlıklı anaerobik), orta süreli (2-8 dakika, aerobik-anaerobik geçiş) ve uzun süreli (8 dakika ve üzeri, tamamen aerobik) olarak sınıflandırılır. Uzun süreli dayanıklılık da kendi içinde yüklenme süresine göre (30 dakikaya kadar, 30-90 dakika arası, 90 dakika ve üzeri) üç alt gruba ayrılır ve her grupta ağırlıklı kullanılan enerji kaynağı (glikoz veya yağ) değişir."
+            "heading": "Dayanıklılık: Yorgunluğa Direnç",
+            "emoji": "🫁",
+            "bullets": [
+              "**Dayanıklılık**, fiziki ve fizyolojik yorgunluğa dayanma gücüdür; kalp-dolaşım, solunum ve sinir sistemiyle belirlenir.",
+              "Maksimal yüklenmede kullanılabilen **oksijen miktarı**, dayanıklılık düzeyinin önemli göstergesidir (karbondioksit değil!).",
+              "Dayanıklılık antrenmanı organizmayı güçlendirir: daha hızlı toparlanma, artan vital kapasite, güçlenen kalp, daha çok kılcal damar.",
+              "**Aerobik dayanıklılık**, yeterli oksijenle (oksijen borcu olmadan) 3 dakikadan uzun süren çalışmalarda ortaya çıkar.",
+              "**Anaerobik dayanıklılık**, süratli/maksimal yüklenmelerde devreye girer; **fosfojen (ATP-CP)** ve **laktik asit** sistemleriyle çalışır.",
+              "Süreye göre dayanıklılık **kısa süreli** (45 sn-2 dk), **orta süreli** (2-8 dk) ve **uzun süreli** (8 dk ve üzeri, tamamen aerobik) olarak ayrılır."
             ]
           },
           {
-            "heading": "Kuvvet",
-            "paragraphs": [
-              "Kuvvet, sporcunun bir kütleyi (kendi vücudu, rakip ya da bir araç) hareket ettirme, bir direnci yenme ya da ona kas çalışmasıyla karşı koyma yeteneği olarak tanımlanır. İçsel ve dışsal direnmeleri aşmayı sağlayan sinir-kas yeteneğidir; sporcunun bir denemede kaldırabileceği en yüksek yük değeri olarak da ifade edilebilir (maksimal kuvvet).",
-              "Kuvvetin oluşumunu ve kalitesini etkileyen başlıca faktörler morfolojik-fizyolojik faktör (antropometrik ölçüler, kas metabolizması), koordinatif faktör (kaslar arası/intermüsküler ve kaslar içi/intramüsküler koordinasyon) ve motivasyonel faktördür.",
-              "Kuvvet türleri arasında maksimal kuvvet (kas-sinir sisteminin istemli kasılmayla ortaya çıkardığı en büyük kuvvet), çabuk kuvvet (kuvvet ve süratin bir ürünü olarak yüksek hızda dış dirençleri yenebilme yetisi), kuvvette devamlılık (uzun süre direnci yenebilme kapasitesi), statik kuvvet (izometrik, kasta gözle görülür kısalma olmadan ortaya çıkan kuvvet) ve dinamik kuvvet (izotonik kasılmalarla ortaya çıkan kuvvet) sayılabilir.",
-              "Ayrıca salt (mutlak) kuvvet, sporcunun vücut ağırlığından bağımsız olarak ürettiği maksimal kuvveti ifade eder; relatif (göreli) kuvvet ise sporcunun kendi vücut ağırlığına karşı geliştirdiği kuvvettir ve Relatif Kuvvet = Salt Kuvvet / Vücut Ağırlığı formülüyle hesaplanır. Relatif kuvveti geliştirmenin iki temel yolu maksimal kuvvetin artırılması ve kilo kaybıdır."
+            "heading": "Kuvvet: Direnci Yenme Gücü",
+            "emoji": "💪",
+            "bullets": [
+              "**Kuvvet**, bir kütleyi hareket ettirme ya da bir direnci yenme yeteneğidir; sinir-kas sisteminin işidir.",
+              "**Maksimal kuvvet**, sporcunun bir denemede kaldırabileceği en yüksek yüktür.",
+              "Kuvveti etkileyen üç faktör: **morfolojik-fizyolojik** (antropometri, kas metabolizması), **koordinatif** (kaslar arası/içi uyum) ve **motivasyonel** faktör.",
+              "Kuvvet türleri: **çabuk kuvvet** (kuvvet+sürat), **kuvvette devamlılık**, **statik kuvvet** (izometrik) ve **dinamik kuvvet** (izotonik).",
+              "**Salt (mutlak) kuvvet**, vücut ağırlığından bağımsız üretilen maksimal kuvvettir; **relatif (göreli) kuvvet** ise vücut ağırlığına karşı geliştirilen kuvvettir.",
+              "Formül: **Relatif Kuvvet = Salt Kuvvet / Vücut Ağırlığı**; geliştirmek için maksimal kuvveti artırmak veya kilo vermek gerekir."
             ]
           },
           {
-            "heading": "Sürat",
-            "paragraphs": [
-              "Sürat, sporcunun belirli bir mesafeyi en kısa sürede kat edebilme, kendisini en yüksek hızda bir yerden bir yere hareket ettirebilme yeteneğidir. Kalıtımsal bir özellik olmakla birlikte bilinçli antrenmanla geliştirilebilir; kas lifi tipi, yaş, boy, adım uzunluğu, esneklik ve ruhsal durum gibi birçok faktörden etkilenir.",
-              "Süratin türleri arasında reaksiyon sürati (bir uyarana karşı algılama ve tepki gösterme yeteneği), ivme (minimum zamanda maksimum hıza erişme), maksimum sürat (ivmelenmeyle elde edilen en büyük hız), ortalama sürat, hareket sürati (ilk ve bitiş hareketi arasındaki süre), algılama sürati ve sprint sürati (yaklaşık 30 metrelik mesafede oluşturulan süre) yer alır.",
-              "Reaksiyon sürati sürecinde sıralı aşamalar izlenir: önce duyu organları uyarıyı algılar, sonra uyarı merkezî sinir sistemine ulaşıp emir oluşur, ardından oluşan emir kaslara iletilir ve son olarak kasta mekanik bir olay gerçekleşir. Bu sıralama bozulduğunda reaksiyon süreci gerçekleşemez."
+            "heading": "Sürat: Hız Yeteneği",
+            "emoji": "⚡",
+            "bullets": [
+              "**Sürat**, bir mesafeyi en kısa sürede kat etme yeteneğidir; kalıtımsaldır ama antrenmanla geliştirilebilir.",
+              "Kas lifi tipi, yaş, boy, adım uzunluğu, esneklik ve ruhsal durum sürati etkiler (göz rengi etkilemez!).",
+              "Sürat türleri arasında **reaksiyon sürati**, **ivme**, **maksimum sürat** ve **sprint sürati** (~30 metre) sayılabilir.",
+              "**Reaksiyon sürati** şu sırayla gerçekleşir: önce duyu organları uyarıyı algılar.",
+              "Sonra uyarı **merkezî sinir sistemine** ulaşır ve emir oluşur, ardından emir kaslara iletilir.",
+              "Son olarak kasta mekanik bir olay gerçekleşir — bu sıra bozulursa reaksiyon oluşmaz."
             ]
           },
           {
-            "heading": "Tamamlayıcı Motorik Özellikler: Esneklik",
-            "paragraphs": [
-              "Esneklik, bir eklem etrafındaki hareket serbestliğini (Range of Motion) ifade eder ve kasın esnekliği ile eklemi çevreleyen bağların özellikleriyle ilişkilidir. Sportif performansı geliştirmede ve yaralanma riskini azaltmada önemli bir faktördür; kas-iskelet yaralanmasından sonra rehabilitasyon sürecine de olumlu etkisi vardır.",
-              "Esneklik türleri arasında aktif esneklik (dış yardım almadan kas aktivitesiyle yapılan hareketlilik), pasif esneklik (dış kuvvetlerin etkisiyle ulaşılan daha büyük eklem hareketliliği), dinamik esneklik (kasların hareketi dinamik olarak yapabilme yeteneği), statik-aktif esneklik ve statik-pasif esneklik (dış kuvvet etkisiyle elde edilen, aktiften daha büyük hareket genişliği) sayılabilir. Ayrıca kapsadığı eklem sayısına göre genel esneklik ve özel esneklik ayrımı da yapılır.",
-              "Esnekliğin sınırlarını etkileyen faktörler iç ve dış faktörler olarak ikiye ayrılır. İç faktörler eklemin yapısı/tipi/formu, hareketi sınırlayan kemik yapısı, kas-tendon-ligament elastikiyeti, derinin elastikiyeti, kasın gevşeme-kasılma yeteneği ve eklem ısısıdır. Dış faktörler ise antrenman ortamının ısısı, günün saati, sakatlanma sonrası toparlanma süreci, yaş, cinsiyet ve giysi/ekipman sınırlamalarıdır."
+            "heading": "Esneklik: Eklem Hareket Genişliği",
+            "emoji": "🤸",
+            "bullets": [
+              "**Esneklik**, bir eklem etrafındaki hareket serbestliğidir (**Range of Motion**); performansı artırır, yaralanma riskini azaltır.",
+              "Türleri: **aktif esneklik** (dış yardımsız), **pasif esneklik** (dış kuvvetle), **dinamik esneklik**, **statik-aktif** ve **statik-pasif esneklik**.",
+              "Kapsadığı eklem sayısına göre **genel esneklik** ve **özel esneklik** olarak da ayrılır.",
+              "**İç faktörler**: eklemin yapısı, kemik yapısı, kas-tendon-ligament elastikiyeti, derinin elastikiyeti, kasın gevşeme-kasılma yeteneği, eklem ısısı.",
+              "**Dış faktörler**: antrenman ortamının ısısı, günün saati, sakatlanma sonrası toparlanma, yaş, cinsiyet, giysi/ekipman sınırlamaları."
             ]
           },
           {
-            "heading": "Tamamlayıcı Motorik Özellikler: Beceri",
-            "paragraphs": [
-              "Beceri, iskelet kasları ve merkezî sinir sisteminin uyum içinde çalışarak amaca yönelik hareketler ortaya koymasıdır; kısa sürede yeni hareketleri öğrenebilme ve değişik durumlarda amaca uygun, çabuk tepki gösterebilme yeteneğini kapsar. Beceri, temel motorik özellikler olan dayanıklılık, kuvvet ve sürat/çabukluk çalışmalarıyla birlikte yapılan kombine alıştırmalarla geliştirilir.",
-              "Beceriye ait temel özellikler şöyle sıralanır: kinestetik ayrımlama (hareketlerdeki hassas farklılaşmaları ve ne kadar kuvvet/hız gerektiğini hissedebilme), boyutsal yön belirleme/mekansal oryantasyon (sporcunun kendini ve çevresini üç boyutlu olarak algılaması), denge (vücudun ağırlık merkezini kontrol ederek istenen pozisyonu koruma), ritim (hareketin zaman ve dinamiğine uygun davranabilme) ve reaksiyon (bir uyarana süratli ve doğru yönde tepki verebilme)."
+            "heading": "Beceri: Çabuk ve Doğru Tepki",
+            "emoji": "🎯",
+            "bullets": [
+              "**Beceri**, iskelet kasları ile merkezî sinir sisteminin uyumla çalışarak amaca yönelik hareket üretmesidir.",
+              "Kısa sürede yeni hareketleri öğrenme ve duruma uygun çabuk tepki verme yeteneğini de kapsar.",
+              "**Dayanıklılık, kuvvet ve sürat** çalışmalarıyla yapılan **kombine alıştırmalarla** geliştirilir.",
+              "Beceriye ait 5 temel özellik: **kinestetik ayrımlama**, **boyutsal yön belirleme** (mekansal oryantasyon), **denge**, **ritim** ve **reaksiyon**."
             ]
           },
           {
-            "heading": "Bileşik Motorik Özellikler",
-            "paragraphs": [
-              "Temel motorik özellikler olan kuvvet, dayanıklılık ve sürat birbirleriyle etkileşime girdiğinde bileşik motorik özellikler ortaya çıkar: kuvvet ile süratin birleşimi çabuk kuvveti, dayanıklılık ile süratin birleşimi süratte devamlılığı, kuvvet ile dayanıklılığın birleşimi ise kuvvette devamlılığı oluşturur.",
-              "Motorik özellikler arasında karşılıklı etkileşim vardır; örneğin aşırı kuvvet antrenmanı esnekliği azaltabileceği gibi, aşırı hareketlilik (esneklik) çalışması da kuvveti olumsuz etkileyebilir. Bu nedenle kuvvet alıştırmaları ile esneklik çalışmaları arasında rasyonel bir ilişki kurulması, dengeli bir antrenman planlaması için gereklidir."
+            "heading": "Bileşik Motorik Özellikler: Birleşince Ne Olur?",
+            "emoji": "🔗",
+            "bullets": [
+              "Temel özellikler birleştiğinde yeni özellikler doğar: **kuvvet + sürat = çabuk kuvvet**.",
+              "**dayanıklılık + sürat = süratte devamlılık**, **kuvvet + dayanıklılık = kuvvette devamlılık**.",
+              "Motorik özellikler birbirini etkiler: aşırı **kuvvet antrenmanı esnekliği azaltabilir**.",
+              "Aşırı **esneklik çalışması da kuvveti olumsuz etkileyebilir**, bu yüzden dengeli bir antrenman planı gerekir."
             ]
           }
         ],
@@ -1122,38 +1213,53 @@ window.COURSES = [
         "summary": [
           {
             "heading": "Koordinasyon",
-            "paragraphs": [
-              "Koordinasyon şu şekilde tanımlanır: “kısa bir süre içerisinde zor hareketleri öğrenebilme ve değişik durumlarda amaca uygun çabuk bir şekilde tepki gösterebilme, her hareketin birbirini doğru olarak izlemesi ve istenilen kuvvetle meydana gelmesidir” (Koç, 2005). Meinel'e göre koordinasyon, tüm vücudun her tür hareketinin uyumudur; Sevim (2002) ise koordinasyonu, sporcunun karmaşık hareketleri kısa zamanda öğrenip değişik şartlarda çabuk ve amaca uygun uygulayabilme yeteneği olarak tanımlar. Fizyolojik açıdan koordinasyon, merkezî sinir sistemi ile iskelet-kas sisteminin kombine işbirliği, yani merkezî sinir sisteminin insan hareketlerini düzenlemesi olarak anlaşılır. Koordinatif yetenekler doğuştan kazanılmaz; antrenmanla geliştirilir, ancak kaliteli gelişim için birçok faktörün uyum içinde çalışması gerekir.",
-              "Koordinasyonu oluşturan temel faktörler arasında motorik uyum ve yer değiştirme yeteneği, sevk ve idare (kombinasyon) yeteneği, mekân-saha kavrama, denge, çok yönlülük, beceriklilik, hareket hissi, hareket akıcılığı ve yumuşaklığı, esneklik, ritim ve varyasyon yeteneği sayılabilir (Sevim, 2002). Koordinasyonu etkileyen faktörler ise vücut ağırlığı, boy, zamanlama, hareket dakikliği (göz-kas koordinasyonu, proprioseptif ve kinestetik duyarlılık), denge, reaksiyon zamanı, hareket sürati, hareketin yönü-uzaklığı, görerek nişanlama, kassal tansiyon, yaş, kondisyonel yeteneklerin yeterliliği, doğru teknikle öğrenim ve sakatlık geçmişi gibi geniş bir yelpazeyi kapsar (Koç, 2005; Özer, 2004). Örneğin kaslara oranla vücut ağırlığının fazla olması beceriyi sınırlar, kassal tansiyonun aşırı veya yetersiz olması ise hareketleri tutuk ya da kararsız kılar.",
-              "Koordinasyon üç şekilde sınıflandırılır: genel dinamik koordinasyon (koşma, yürüme, sıçrama gibi vücudun birçok bölümünün rol aldığı hareket zincirleri), parçalara ayrılmış koordinasyon (el-göz, ayak-göz gibi belirli bölümlerin görsel kontrolle yürütülen hareketleri) ve ayrı ayrı koordinasyon (kas gruplarının birbirinden bağımsız olarak çalışması) (Sevim, 1991).",
-              "Sportif performans açısından iyi bir koordinasyon kapasitesi, hareketin daha az enerjiyle ve daha verimli yapılmasını sağlar; sporcunun hızlı gerçekleştirmesi gereken hareketleri daha başarılı biçimde uygulamasına imkân verir (Schreiner, 2000). Koordinasyon, sporcunun öğrendiği teknik ve taktiği başarıyla uygulayabilmesini, bedenini fiziksel ve fizyolojik uyum içinde kullanabilmesini sağlar; aynı zamanda çabuk düşünmeyi gerektirdiğinden sporcunun mental gelişimine de katkıda bulunur (Erdoğan, 2014)."
+            "emoji": "🤹",
+            "bullets": [
+              "**Koordinasyon**, zor hareketleri kısa sürede öğrenip farklı durumlarda amaca uygun ve çabuk şekilde uygulayabilme yeteneğidir.",
+              "Fizyolojik olarak **merkezî sinir sistemi** ile **iskelet-kas sistemi**nin uyumlu işbirliğidir; **eklemler** ve **eklem bağları** da bu işbirliğine dahildir (kan sıvısı/dolaşım sistemi dahil değildir).",
+              "Doğuştan gelmez, **antrenmanla geliştirilir**.",
+              "Koordinasyonu oluşturan 12 faktör arasında motorik uyum, **sevk ve idare (kombinasyon) yeteneği**, mekân kavrama, denge, çok yönlülük, beceriklilik, **hareket hissi**, **hareket akıcılığı ve yumuşaklığı**, esneklik, **ritim** ve varyasyon yeteneği sayılır.",
+              "Vücut ağırlığı, boy, yaş, reaksiyon zamanı ve **kassal tansiyon** gibi etkenler koordinasyonu etkiler; örneğin aşırı kas gerginliği hareketleri tutuk yapar.",
+              "Üç türü vardır: **genel dinamik koordinasyon** (koşma, sıçrama gibi tüm vücudu kullanan hareket zincirleri), **parçalara ayrılmış koordinasyon** (el-göz gibi görsel kontrollü hareketler) ve **ayrı ayrı koordinasyon** (birbirinden bağımsız çalışan kas grupları).",
+              "İyi koordinasyon, hareketi az enerjiyle ve verimli yapmayı sağlar; teknik-taktik uygulamaya ve sporcunun mental gelişimine katkı sunar."
             ]
           },
           {
             "heading": "Hareketlilik",
-            "paragraphs": [
-              "Hareketlilik şu şekilde tanımlanır: “sporcunun hareketlerini eklemlerin müsaade ettiği oranda, geniş bir açıda ve değişik yönlere uygulayabilme yeteneği” (Sevim, 1997). Hareketlilik, esneklikle geliştirilir; ancak esneklik bir motorik özellik değil, kasın kendi özelliğidir (Çakıroğlu, 1997). Branşın gerektirdiği esnekliği iyi gelişmiş sporcularda sakatlanma riski daha düşüktür. Hareketliliğin gelişim devreleri yaşa göre değişir: 3-10 yaş arası çok iyi, 10-13 yaş iyi, 12-15 yaş kötü, 15-19 yaş yeniden iyi seviyededir; bu nedenle hareketlilik çalışmaları küçük yaşlardan başlayıp yaşam boyu sürmelidir (Sevim, 1997).",
-              "Hareketliliği etkileyen faktörler arasında eklem yapısı, kas liflerinin ve derinin gerilme yeteneği, kasların ısınma derecesi, yorgunluk, merkezî sinir sisteminin uygulama süreci, günün saati ve dış ısı, yüklenmenin kalitesi ile yaş ve cinsiyet farkı sayılabilir.",
-              "Hareketlilik üç şekilde sınıflandırılır. Genel ve özel hareketlilik ayrımında genel hareketlilik, omurga-kalça-omuz gibi büyük eklem sistemlerindeki salınım genişliğini, özel hareketlilik ise hareketin gerektirdiği belirli eklemlerin (örneğin cimnastikte omurga, buz patininde diz) çalışmasını ifade eder. Aktif ve pasif hareketlilik ayrımında aktif hareketlilik, kasın kendi kuvvetiyle dış yardım almadan ulaşabildiği en büyük açı; pasif hareketlilik ise dışarıdan uygulanan kuvvetle geliştirilen esnekliktir (Sevim, 1997). Statik ve dinamik hareketlilik ayrımında statik hareketlilik, eklemin belirli bir pozisyonda süreli korunması (örneğin frontal split'te bekleme); dinamik hareketlilik ise kas kullanımının yoğun olduğu, ritim ve hızın öne çıktığı hareketlerdir (örneğin frontal jump).",
-              "Sportif performans açısından eklem hareket genişliği başarı için önemlidir; esneklik, kuvvet ve hız gibi fiziksel faktörlerin ve tekniğin gelişiminde etkilidir, sakatlanmaları önler ve antrenman sürecinin vazgeçilmez bir parçasıdır (Zorba ve Doğan, 1991; Mengütay, 1992). Hareketlilik antrenmanlarında temel ilkeler arasında çalışmaların günlük yapılması, yorgun durumda yapılmaması, kuvvet ve sürat antrenmanlarından önce uygulanması, şiddetin kademeli artırılması ve antrenman düzeninde önce pasif germe, sonra aktif alıştırmaların yapılması yer alır (Sevim, 1997)."
+            "emoji": "🧘",
+            "bullets": [
+              "**Hareketlilik**, sporcunun hareketlerini eklemlerin elverdiği ölçüde geniş açılarda ve farklı yönlerde yapabilme yeteneğidir.",
+              "**Esneklik** ile geliştirilir, ama esneklik motorik bir özellik değil, kasın kendi yapısına ait bir niteliktir; iyi esneklik sakatlanma riskini azaltır.",
+              "Gelişim yaşa göre değişir: 3-10 yaş çok iyi, 10-13 yaş iyi, 12-15 yaş kötü, 15-19 yaş yeniden iyi seviyededir; bu yüzden çalışmalara küçük yaşta başlanıp hayat boyu sürdürülmelidir.",
+              "Eklem yapısı, kas ve deri esnekliği, ısınma derecesi, yorgunluk, günün saati ile yaş-cinsiyet farkı hareketliliği etkileyen faktörlerdir.",
+              "Üç sınıflandırması vardır: genel/özel hareketlilik, **aktif hareketlilik** (kasın kendi kuvvetiyle dış yardım almadan ulaştığı en büyük açı) ile **pasif hareketlilik** (dışarıdan uygulanan kuvvetle sağlanan esneklik), ve **statik hareketlilik** (sabit pozisyonda süreli bekleme) ile **dinamik hareketlilik** (ritim ve hızın öne çıktığı hareketler).",
+              "Eklem hareket genişliği performans, teknik gelişimi ve sakatlık önleme açısından önemlidir.",
+              "Temel ilkeler: çalışmalar günlük yapılmalı, yorgunken yapılmamalı, kuvvet/sürat antrenmanından önce uygulanmalı, şiddet kademeli artırılmalı ve antrenmanda önce **pasif germe**, sonra **aktif alıştırmalar** yapılmalı."
             ]
           },
           {
             "heading": "Çeviklik",
-            "paragraphs": [
-              "Çeviklik, “yavaşlama, hızlanma ve yön değiştirme hareketlerinin en kısa sürede verimli bir şekilde uygulanmasını sağlayan fiziksel bir beceri” olarak tanımlanır (Günay vd., 2017); daha kısa bir ifadeyle hızlı ve doğru biçimde yön değiştirebilme özelliğidir. Çevikliğin olmazsa olmaz üç unsuru koordinasyon, denge ve patlayıcılıktır (Engin, 2018). Performans sporcuları çevikliği, sporcunun yön değiştirmesini sağlayan lokomotor bir beceri olarak görür; bu, dikey veya yatay yöndeki motor kontrolü korurken aniden durma, yön değiştirme ve hızlanmanın etkili biçimde birleştirilmesidir (Ellis vd., 2000).",
-              "Çevikliği etkileyen faktörler arasında vücut ağırlığı, boy, denge, reaksiyon zamanı, hareket sürati ve isabetliliği, hareket mesafesi ve yönü, görerek nişanlama, kas tonusu, yaş, yorgunluk, duyu organlarının hassaslığı, kondisyonel özelliklerin düzeyi, öğrenilen tekniğin doğruluğu ve antrenman/hareketsel deneyim sayılabilir (Sevim, 2010; Brown ve Ferrigno, 2000; Sheppard ve Young, 2006).",
-              "Sheppard ve Young'a (2006) göre çeviklik antrenmanları; yön değiştirme tekniğine yönelik alıştırmalar, kapalı beceri alıştırmaları, çabukluk alıştırmaları ve reaktif çeviklik antrenmanı gibi gruplara ayrılır; öne-geriye-yana adım çalışmaları, yüksek hızda koşu ve kayma, ayna-gölge, yakalama-kaçma oyunları gibi uygulamalarla geliştirilir.",
-              "Sportif performans açısından çeviklik; sinir-kas sisteminin ve motor becerilerin kontrolüne temel oluşturur, ani yön değiştirmelerin yol açtığı sakatlık riskini azaltır ve hücum-savunmada oyuncu performansını olumlu etkiler (Engin, 2018). Günümüzde çeviklik için sürat ve kuvvet gibi fiziksel özelliklerin yanında görsel tarama, sezgi, algılama ve karar verme gibi bilişsel faktörlerin de önemli olduğu kabul edilmektedir (Armstrong ve Greig, 2018; Zemkova, 2016)."
+            "emoji": "⚡",
+            "bullets": [
+              "**Çeviklik**, yavaşlama, hızlanma ve yön değiştirme hareketlerini en kısa sürede verimli biçimde uygulama becerisidir; kısaca hızlı ve doğru yön değiştirme özelliğidir.",
+              "Olmazsa olmaz üç unsuru: **koordinasyon**, **denge** ve **patlayıcılık**.",
+              "Lokomotor bir beceridir: durma, yön değiştirme ve hızlanmayı kontrollü biçimde birleştirir (örnek: slalom çubukları arasında dripling yapan futbolcu).",
+              "Vücut ağırlığı, boy, denge, reaksiyon zamanı, yaş, yorgunluk ve öğrenilen tekniğin doğruluğu gibi faktörlerden etkilenir.",
+              "Sheppard ve Young'a göre dört antrenman grubu vardır: **yön değiştirme tekniği alıştırmaları**, **kapalı beceri alıştırmaları**, **çabukluk alıştırmaları** ve **reaktif çeviklik antrenmanı** (öne-geriye-yana adım, yüksek hızda koşu-kayma, ayna-gölge, yakalama-kaçma gibi örneklerle).",
+              "Sakatlık riskini azaltır, hücum-savunmada oyuncu performansını artırır.",
+              "Günümüzde sürat ve kuvvetin yanında görsel tarama, sezgi, algılama ve karar verme gibi bilişsel faktörler de çeviklik için önemli sayılır."
             ]
           },
           {
             "heading": "Denge",
-            "paragraphs": [
-              "Denge, insanın yürüme, koşma, durma gibi günlük hareketlerini yaparken gereksinim duyduğu, karmaşık duyusal, motor ve biyomekanik süreçlerin koordinasyonunu tanımlayan genel bir kavramdır. Yentürk (2018) dengeyi, postürü korumaktan karmaşık hareketleri sergilemeye kadar uzanan motor becerilerin temel bileşeni olarak tanımlar; spor bilimi açısından ise denge, merkezî sinir sistemi ile iskelet-kas sisteminin uyumlu etkileşimini ifade eden koordinasyonun bir parçasıdır (Muratlı, 2003).",
-              "Dengeyi etkileyen faktörler arasında kas yorgunluğu veya zayıflığı, yaş, cinsiyet, fiziksel aktivite düzeyi, geçirilmiş yaralanmalar, ilaçlar ve yaşlanma süreci bulunur. Denge becerisi çocuklukta gelişir ve yaklaşık 10 yaşında erişkin seviyesine ulaşır; yaşlanmayla birlikte kontrol ve koordinasyon zayıflar, reaksiyon zamanı uzar ve düşme riski artar (Bozan, 2007).",
-              "Denge dört şekilde sınıflandırılır: motorsal denge (uygun egzersizle farklı ortamlarda -su, buz, hava, kara- kazanılan denge yeterliliği), statik denge (sabit bir pozisyonda dengede kalabilme becerisi; vücut ağırlığı, bağ gerginliği ve kas kasılması belirleyicidir), dinamik denge (ağırlık merkezinin hareket sırasında yeni konumlara adapte edilebilmesi) ve objeyle denge (top, çubuk gibi ek bir ekipmanla sağlanan denge) (Dinçer, 2017; Özaras ve Yalçın, 2001; San-Bayhan ve Artan, 2004; Günay vd., 2017).",
-              "Sportif performans açısından denge, vücut kompozisyonunu koruyabilmede ve ani değişiklikler içeren dinamik sporlarda temel oluşturur; tüm spor dalları belirli düzeyde denge içerir (Altay, 2001). Denge antrenmanları sakatlıkların önlenmesinde ve sakatlık sonrası rehabilitasyonda kritik öneme sahiptir; ayrıca kasların güçlenmesine ve doğru postürün sağlanmasına yardımcı olur (Ateş, 2017; Dilber, 2016)."
+            "emoji": "⚖️",
+            "bullets": [
+              "**Denge**, yürüme, koşma, durma gibi günlük hareketlerde gereken duyusal, motor ve biyomekanik süreçlerin koordinasyonudur; yaşam kalitesini de etkiler.",
+              "Postürü korumaktan karmaşık hareketlere kadar motor becerilerin temel bileşenidir; **merkezî sinir sistemi** ile **iskelet-kas sistemi**nin uyumlu etkileşimini içerir.",
+              "Kas yorgunluğu/zayıflığı, yaş, cinsiyet, fiziksel aktivite düzeyi ve geçirilen yaralanmalardan etkilenir; yaklaşık **10 yaşında** yetişkin seviyesine ulaşır, yaşlanmayla kontrol zayıflar ve düşme riski artar.",
+              "Dört türü vardır: **motorsal denge** (su, buz, hava, kara gibi farklı ortamlarda egzersizle kazanılan yeterlilik), **statik denge** (sabit bir pozisyonda dengede kalabilme, örn. tek ayak üzerinde öne eğilme), **dinamik denge** (hareket sırasında ağırlık merkezinin yeni konumlara adapte edilmesi) ve **objeyle denge** (top, çubuk gibi ek ekipmanla sağlanan denge).",
+              "Tüm spor dalları belirli düzeyde denge içerir; vücut kompozisyonunun korunmasında ve dinamik sporlarda temel oluşturur.",
+              "Sakatlık önleme ve rehabilitasyonda kritik rol oynar; kasların güçlenmesine ve doğru postüre yardımcı olur."
             ]
           }
         ],
@@ -1383,63 +1489,98 @@ window.COURSES = [
         "summary": [
           {
             "heading": "Birim Antrenman Nedir?",
-            "paragraphs": [
-              "Birim antrenman, günlük antrenman olarak da ifade edilen ve antrenman planlamasının en küçük parçası olan tek bir çalışma programıdır. Bompa'ya göre bir antrenman birimi, aşamalı artan yüklenme ilkesine bağlı olarak antrenörün yapılan çalışmadaki artış ve azalmayı izlemesine olanak sağlayacak biçimde düzenlenmelidir. Birim antrenmanın amaç ve içeriği belirlenirken haftalık (mikro) ve aylık (makro) planlara bağlı kalınmalıdır.",
-              "Birim antrenman; ısınma, ana (temel) bölüm ve soğuma (bitiriş) bölümlerini kapsayan uygulanabilir tek bir programdır. Bazı kaynaklarda bu üç bölüme ek olarak bir de başlangıç (giriş) bölümü eklenir ve toplam dört bölümden söz edilir: giriş, ısınma, ana bölüm, soğuma. Giriş bölümünde sporcuların toplanması, yoklama alınması ve antrenmanın amacı, şiddeti ve yoğunluğunun anlatılması sağlanır; bu bölüm yeni başlayan sporcularda 5-10 dakika sürerken tecrübeli sporcularda kısaltılabilir ya da tamamen atlanabilir.",
-              "Birim antrenmanın süresi sporcunun yaşına, cinsiyetine, gelişim düzeyine, deneyimine, spor dalına ve antrenman evresine bağlı olarak değişmekle birlikte ortalama 2 saat (120 dakika) civarındadır. Süresine göre birim antrenmanlar kısa (30-90 dakika), orta (2-3 saat) ve uzun (3 saat üzeri) olarak sınıflandırılabilir."
+            "emoji": "🧩",
+            "bullets": [
+              "**Birim antrenman**, günlük antrenman demektir ve antrenman planlamasının en küçük parçasıdır.",
+              "Bompa'ya göre yüklenme aşamalı artmalı, antrenör artış ve azalmayı buradan takip etmelidir.",
+              "İçeriği her zaman haftalık (**mikro**) ve aylık (**makro**) plana bağlı kalınarak belirlenir.",
+              "Temelde 3 bölümden oluşur: **ısınma**, **ana bölüm**, **soğuma** — bazı kaynaklarda buna bir de **giriş** bölümü eklenir, toplam 4 bölüm olur.",
+              "Giriş bölümünde yoklama alınır, amaç ve şiddet anlatılır; yeni başlayanlarda 5-10 dakika sürer, tecrübelilerde kısalır ya da hiç yapılmaz.",
+              "Ortalama süresi **~2 saat (120 dakika)**'dır: kısa (30-90 dk), orta (2-3 saat), uzun (3 saat üzeri) olarak sınıflanır."
             ]
           },
           {
             "heading": "Isınma (Hazırlık) Bölümü",
-            "paragraphs": [
-              "Isınma, antrenman ya da yarışma sırasında en üst düzeyde verim gelişimi için gerekli görülür; uygun bir ısınma sporcunun kas aktivitelerini artırarak antrenman ya da müsabakaya iyi bir düzeyde hazırlanmasını sağlar. Isınma için aktif ve pasif ısınma olmak üzere iki sınıflama yapılır. Aktif ısınma, fiziksel aktivite uygulamalarıyla kas ve vücut ısısının yükseltilmesidir ve kendisi de genel ısınma (koşu, bisiklet, cimnastik gibi genel hareketler) ile özel ısınma (spor branşına özgü hareketler) olarak ikiye ayrılır. Pasif ısınma ise sauna, sıcak duş, ısıtma torbaları gibi yöntemlerle sporcunun kendi enerjisini kullanmadan kas ve vücut ısısını yükseltmesidir.",
-              "İdeal ısınma süresi genel olarak 25-30 dakika kadar olmalıdır; Bompa bu süreyi ortalama 30 dakika olarak verirken tecrübeli sporcularda 45 dakikaya kadar çıkabileceğini belirtir. Isınmanın en önemli özelliği vücut ısısının yaklaşık 1°C kadar artırılmasıdır; ısınmanın başlamasından 3-5 dakika sonra vücut ısısı yükselmeye başlar ve 10-20 dakika arasında en üst düzeye çıkar. Günay'a göre ısınma süresinin 1/3'ü genel ısınmaya, 2/3'ü ise özel ısınmaya ayrılmalıdır.",
-              "Aktif ısınmanın fizyolojik etkileri arasında kas ve eklem kuvvetinin artışı, kılcal damarların genişleyerek kaslara kan akışının hızlanması, sinir iletim hızının ve metabolik tepkime oranının artması sayılabilir. Isınmanın ayrıca sporcuyu konsantrasyon ve motivasyon yönünden müsabakaya hazırlayan psikolojik etkileri ve yaralanma riskini azaltan koruyucu etkileri de vardır.",
-              "Güncel kaynaklara göre ısınma bölümünde dinamik germe hareketleri tercih edilmeli, statik germe (streching) hareketlerinden kaçınılmalıdır; çünkü vücut soğukken yapılan statik germe kaslarda mikro yırtıklara ve ciddi yaralanmalara yol açabilir. Statik germe egzersizleri daha çok antrenmanın soğuma bölümünde uygulanmalıdır."
+            "emoji": "🔥",
+            "bullets": [
+              "Isınma, antrenman ya da yarışmadan en iyi verimi almak için kas ve vücudu hazırlar.",
+              "İki türü var: **aktif ısınma** (hareketle, kendi enerjinle) ve **pasif ısınma** (sauna, sıcak duş gibi dış kaynaklarla).",
+              "Aktif ısınma kendi içinde **genel ısınma** (koşu, bisiklet gibi) ve **özel ısınma** (branşa özel hareketler) olarak ikiye ayrılır.",
+              "İdeal ısınma süresi **25-30 dakika**'dır; tecrübeli sporcularda 45 dakikaya kadar çıkabilir.",
+              "Vücut ısısı ısınmanın 3-5. dakikasında yükselmeye başlar, 10-20. dakikada tepe noktaya çıkar (yaklaşık **1°C** artış).",
+              "Kas-eklem gücünü, kan akışını ve sinir iletim hızını artırır; konsantrasyonu yükseltir, yaralanma riskini azaltır.",
+              "Vücut soğukken **statik germe** yapılmamalı (mikro yırtık riski); ısınmada **dinamik germe** tercih edilir, statik germe soğuma bölümüne bırakılır."
             ]
           },
           {
             "heading": "Ana (Temel) Bölüm",
-            "paragraphs": [
-              "Antrenmanın asıl kısmı olan ana bölümde sporculara yeni beceriler kazandırmak, teknik ve taktik davranışlar öğretmek, özel biyomotor yetileri ve psikolojik nitelikleri geliştirmek amaçlanır. Bompa'ya göre yeni başlayan sporcularda öğrenme önceliklidir, bu nedenle uygulama sıralaması genellikle teknik/taktik öğrenimi, sürat ve çeviklik geliştirme, kuvvet geliştirme ve dayanıklılık geliştirme şeklinde olmalıdır. Temel bölümün başında yorgunluk az olduğundan yeni beceriler ve teknik-taktik öğretimine öncelik verilmeli, dayanıklılık çalışmaları ise yorucu niteliği nedeniyle genellikle bölümün sonuna bırakılmalıdır.",
-              "Ana bölümün içeriği sporun türüne, sporcunun cinsiyetine, yaşına, antrenman durumuna ve antrenman evresine göre değişir; üst düzey sporcularda aynı antrenmanda birden fazla parametrenin (teknik, taktik, fiziksel, psikolojik) birlikte geliştirilmesi hedeflenebilir. Antrenörler birim antrenmanın sonunda genellikle kondisyonu geliştirmek amacıyla 'tamamlayıcı antrenman' olarak adlandırılan, 15-20 dakikalık ek fiziksel çalışmalar uygulatabilir; bu uygulamalar genellikle tam tükenmeye ulaşılmayan antrenmanlardan sonra tercih edilir."
+            "emoji": "💪",
+            "bullets": [
+              "Antrenmanın asıl kısmıdır: yeni beceri, **teknik ve taktik** öğretimi, biyomotor ve psikolojik gelişim burada yapılır.",
+              "Bompa'ya göre yeni başlayan sporcularda öğrenme önceliklidir.",
+              "Sıralama genelde şöyle gider: **teknik/taktik** → sürat/çeviklik → kuvvet → dayanıklılık.",
+              "Dayanıklılık çalışmaları en yorucu olduğu için bölümün sonuna bırakılır; yorgunluk yeni beceri öğrenimini zorlaştırır.",
+              "İçerik; spor türüne, cinsiyete, yaşa ve antrenman evresine göre değişir; üst düzey sporcularda birden fazla özellik birlikte geliştirilebilir.",
+              "Antrenman sonunda 15-20 dakikalık ek **\"tamamlayıcı antrenman\"** uygulanabilir, genelde tam tükenmeye ulaşmayan antrenmanların ardından."
             ]
           },
           {
             "heading": "Bitiriş (Soğuma) Bölümü",
-            "paragraphs": [
-              "Ana bölümün tamamlanmasının ardından geçilen soğuma bölümü, egzersizden önceki duruma dönüşü sağlamak için vücut fonksiyonlarını ve kan dolaşımını kademeli olarak yorgunluktan uzaklaştıran hareketlerden oluşur. Antrenman ya da müsabaka sonrasında kanda ve kasta biriken laktik asit ve atık ürünlerin uzaklaştırılması için soğuma bölümü gereklidir.",
-              "Soğuma yaklaşık 20 dakika civarı sürer ve iki ana bölümden oluşur: ilk yaklaşık 10 dakika düşük tempoda (maksimal kalp atım sayısının %40-50'si) aktif jog ve benzeri toparlanma hareketleri, ikinci yaklaşık 10 dakika ise statik germe alıştırmalarıdır. Statik germe hareketleri egzersiz sonrası için uygunken dinamik germe hareketleri ısınma bölümü için daha uygundur."
+            "emoji": "🧊",
+            "bullets": [
+              "Soğuma, egzersiz öncesi duruma dönüşü sağlar ve kandaki/kastaki laktik asit ile atık ürünleri temizler.",
+              "Toplam süresi yaklaşık **20 dakika**'dır.",
+              "İlk ~10 dakika düşük tempoda **aktif soğuma**: jog ve benzeri toparlanma hareketleri (maksimal kalp atımının %40-50'si).",
+              "İkinci ~10 dakika **statik germe** alıştırmalarıdır.",
+              "Dinlenme temelli **pasif soğuma** yöntemleri de toparlanma sürecinin bir parçası olabilir.",
+              "Statik germe egzersiz sonrası için uygundur; dinamik germe ise ısınma bölümüne özeldir."
             ]
           },
           {
             "heading": "Haftalık (Mikro) Antrenman Planlaması",
-            "paragraphs": [
-              "Mikro antrenman planlaması, haftalık yapılacak birim antrenman sayısının belirlenmesidir; genellikle haftada 3-6 arası yapılan planlamalar mikro plan olarak kabul edilir. Bir biyomotor yetinin (kuvvet, dayanıklılık, sürat, esneklik, koordinasyon) geliştirilmesi, benzer içerikli antrenman birimlerinin art arda en az 2-3 defa tekrarlanmasını gerektirir. Dayanıklılık geliştirmek için haftada en az 3, dayanıklılığı korumak için yarışma evresinde haftada 2 antrenman yeterli olabilir; kuvvet ve sürat düzeyini korumak için haftada 1-2, plyometrik ve çeviklik antrenmanları için haftada 2-3 gün antrenman önerilir.",
-              "Mikro döngü yapılandırılırken sporcunun biyolojik ve antrenman yaşı, cinsiyeti, antrenman seviyesi, sağlık durumu, fiziksel-motorik gelişimi, teknik-taktik seviyesi, psikolojik durumu ve geçmiş başarı/başarısızlıkları gibi ön koşullar dikkate alınmalıdır. Bir mikro döngü genellikle düşük ya da orta sertlikte antrenmanlarla başlamalı, ardından daha sert yüklenmelere geçilmelidir; önemli bir yarışma öncesinde doruklama (peak) yarışmanın başlangıcından 3-5 gün önce olmalıdır.",
-              "Mikro döngüler tek zirveli, iki zirveli veya üç zirveli olarak yapılandırılabilir ve sporcunun gelişim düzeyi ile antrenman kapasitesi bu yapıyı belirleyen en önemli etmenlerdir. Yüksek düzeyli sporcularda antrenman birimleri yüksek sertlik ve kapsamda olurken yeni başlayan sporcularda daha düşük şiddette tutulmalıdır; bu nedenle mikro döngünün bireye özgü olarak tasarlanması önemlidir."
+            "emoji": "📆",
+            "bullets": [
+              "**Mikro plan**, haftalık yapılacak birim antrenman sayısını belirler; haftada **3-6** antrenman mikro plan sayılır.",
+              "Bir biyomotor yetiyi geliştirmek için benzer antrenmanlar art arda en az 2-3 kez tekrarlanmalı.",
+              "Dayanıklılık geliştirmek için haftada en az 3, korumak için (yarışma evresinde) haftada 2 antrenman yeterlidir.",
+              "Kuvvet ve sürati korumak için haftada 1-2, plyometrik/çeviklik için haftada 2-3 gün antrenman önerilir.",
+              "Planlarken sporcunun yaşı, cinsiyeti, seviyesi, sağlığı ve psikolojik durumu gibi etmenler dikkate alınır.",
+              "Mikro döngü düşük/orta sertlikle başlar, sonra sertleşir; önemli yarışma öncesi doruklama (**peak**) yarışmadan 3-5 gün önce yapılır.",
+              "Döngüler tek, iki veya üç zirveli olabilir; üst düzey sporcularda şiddet daha yüksek, yeni başlayanlarda daha düşük tutulur."
             ]
           },
           {
             "heading": "Aylık (Makro) Döngü",
-            "paragraphs": [
-              "Makro döngü, farklı hedef ve branşlara göre genellikle 2-7 hafta (bazı kaynaklara göre 2-5 hafta) arasını kapsayan ve 2-5 veya 2-7 mikro döngüden oluşan bir antrenman programıdır. Makro döngünün süresi ve yapısı belirlenirken spor dalının gereksinimleri göz önünde bulundurulmalı ve yarışma takvimine göre hazırlanmalıdır; hazırlık döneminde makro döngünün süresi genellikle 4-7 hafta arasında sürer.",
-              "Bireysel sporlarda yarışma dönemindeki makro döngüler, yarışma takvimine uygun kısa bloklar biçiminde 2-4 haftalık mikro döngüler içerir. Takım sporlarında ise ayda 4-8 arası yarışma olabileceğinden antrenörler hangi yarışmanın daha önemli olduğuna karar vererek sporcuyu ona göre hazırlamalıdır; takım sporlarında sezon öncesi hazırlık dönemi yaklaşık 6-8 hafta sürer ve makro döngüler bu sürenin genel ve özel hazırlık evrelerini kapsayacak şekilde yapılandırılır."
+            "emoji": "🗓️",
+            "bullets": [
+              "**Makro döngü**, genellikle 2-7 hafta süren ve 2-7 mikro döngüden oluşan bir antrenman programıdır.",
+              "**Hazırlık döneminde** makro döngü süresi **4-7 hafta** arasındadır.",
+              "Bireysel sporlarda yarışma dönemindeki makro döngüler, 2-4 haftalık kısa bloklar şeklindedir.",
+              "Takım sporlarında ayda 4-8 yarışma olabilir; antrenör en önemli olanı seçip sporcuyu ona göre hazırlar.",
+              "Takım sporlarında sezon öncesi hazırlık dönemi yaklaşık 6-8 hafta sürer."
             ]
           },
           {
             "heading": "Yıllık Antrenman Planı ve Dönemleme",
-            "paragraphs": [
-              "Yıllık plan, antrenörlerin bir yıl boyunca antrenmanları yönlendirebilmesi için önemli bir kılavuzdur ve sporcunun 12 aylık ya da bir sezonluk sürecini kapsar. Yıllık planda amaç, sporcunun verim düzeyini geliştirerek fizyolojik uyumu en üst düzeye çıkarmaktır; genellikle sezonun son ayları geçiş dönemi olarak kullanılır ve bu dönemde psikolojik, fizyolojik yapı ile merkezi sinir sistemi toparlanarak yeni antrenman yılına hazırlık yapılır.",
-              "Dönemleme, hazırlanan yıllık planın daha küçük parçalara bölünerek yıl içindeki hedef yarışmalara yönelik sporsal verimin en üst düzeye çıkarılmasını ve korunmasını sağlama işlemidir. Matveyev tek yarışma dönemli (tek uçlu) bir yapı önermiş olsa da günümüzde iki uçlu (2 hedef yarışma), üç uçlu (3 hedef yarışma) ve çok uçlu (çok hedef yarışma) planlara da ihtiyaç duyulmaktadır; yılda bir önemli müsabaka varsa tek uçlu, iki önemli müsabaka varsa iki uçlu, üç önemli müsabaka varsa üç uçlu dönemleme seçilmelidir.",
-              "Çoğu spor branşında yıllık antrenman planı hazırlık, müsabaka (yarışma) ve geçiş dönemi olmak üzere üç bölümde hazırlanır. Hazırlık ve müsabaka dönemleri kendi içinde genel ve özel olmak üzere ikiye ayrılır: genel alt bölümde genel fizyolojik temellerin geliştirilmesi, özel alt bölümde ise branşa özgü biyomotor beceri, teknik ve taktik gelişimi hedeflenir. Geçiş dönemi antrenman yılının diğer dönemlerinden farklı olarak düzenlenir ve esas olarak organizmanın dinlenmesine, tatile ve genel kondisyonun korunmasına ayrılır."
+            "emoji": "🏆",
+            "bullets": [
+              "**Yıllık plan**, sporcunun 12 aylık ya da bir sezonluk sürecini kapsar; amaç verimi ve fizyolojik uyumu en üst düzeye çıkarmaktır.",
+              "Sezonun son ayları **geçiş dönemi** olarak ayrılır; bu dönemde vücut ve sinir sistemi toparlanıp yeni yıla hazırlanır.",
+              "**Dönemleme**, yıllık planı küçük parçalara bölüp hedef yarışmalara göre verimi en üst düzeye çıkarma işlemidir.",
+              "Matveyev tek yarışma dönemli (**tek uçlu**) yapı önermiştir; günümüzde iki uçlu, üç uçlu ve çok uçlu planlar da kullanılır (önemli müsabaka sayısına göre seçilir).",
+              "Yıllık plan üç bölümden oluşur: **hazırlık**, **müsabaka (yarışma)** ve **geçiş dönemi**.",
+              "Hazırlık ve müsabaka dönemleri kendi içinde genel ve özel alt bölümlere ayrılır.",
+              "Geçiş dönemi dinlenme, tatil ve genel kondisyonun korunmasına ayrılır."
             ]
           },
           {
             "heading": "Çok Yıllık Antrenman Planlaması (Olimpik Döngü)",
-            "paragraphs": [
-              "Sporcunun en üst düzey verime ulaştırılabilmesi, uzun süreli bir antrenman sürecinde beceri ve gelişim düzeyinin sürekli ve aşamalı olarak geliştirilmesini hedefleyen bir planlama ile mümkündür. Sporcular için uzun vadeli sportif performans hedeflerinin genel hatlarıyla belirlenmesi 'olimpik döngü' olarak adlandırılan 4 veya 8 yıllık hedefler doğrultusunda oluşturulur. Genç sporcularda ise uzun süreli planlar, sportif hedefler ve gelişim düzeylerine göre 8-16 yıl aralığında belirlenebilmektedir.",
-              "Etkin bir antrenman programının hazırlanması için sporcunun verim potansiyeli ve gelişim hızı branşına uygun bilimsel testlerle düzenli aralıklarla izlenmelidir; bu izlem her yıl için yeni hedefler belirlenmesine ve makro-mikro döngü içeriklerinin oluşturulmasına önemli bir geri bildirim sağlar. Antrenörler öncelikle sporcunun güçlü ve güçsüz yönlerini belirlemeli, ardından güçsüz yönleri geliştirmeye yönelik olarak yıllık plana bağlı kalarak makro ve mikro plan içeriklerini oluşturmalıdır."
+            "emoji": "🥇",
+            "bullets": [
+              "Uzun vadeli hedefler **\"olimpik döngü\"** olarak adlandırılır ve genelde **4 veya 8 yıllık** planlanır.",
+              "**Genç sporcularda** bu süre **8-16 yıl** aralığına kadar uzayabilir.",
+              "Sporcunun verim potansiyeli ve gelişim hızı bilimsel testlerle düzenli izlenir; bu izlem her yıl yeni hedefler belirlemeye yardımcı olur.",
+              "Antrenörler önce sporcunun güçlü/güçsüz yönlerini belirler, sonra güçsüz yönleri geliştirmeye odaklanarak makro-mikro plan içeriğini oluşturur."
             ]
           }
         ],
@@ -1665,57 +1806,85 @@ window.COURSES = [
         "summary": [
           {
             "heading": "Çocuklarda Fiziksel Aktivite ve Ölçme-Değerlendirmenin Önemi",
-            "paragraphs": [
-              "Çocukları sağlıklı ve mutlu bir geleceğe hazırlamak, toplumların en önemli hedeflerinden biridir. Küçük yaşlarda edinilen fiziksel aktivite alışkanlığı, yaşam boyu sürecek sporun ilk aşamasını oluşturur. Geniş katılımlı fiziksel aktivite programları, katılımcı çocuklar arasından fiziksel testlerde öne çıkan yetenekli çocukların belirlenme şansını artırır.",
-              "Antrenörlerin ölçme ve değerlendirme konusunda yetkin olması, sporcularının performanslarına ilişkin verileri doğru yorumlayabilmesini sağlar. Yetenek seçimi havuzuna seçim ve bu sürecin takibinde, sporcuların fiziksel yeterliliklerinin sayısal verilerle bilinmesi, adil ve objektif bir değerlendirme yapılmasına katkı sunar.",
-              "Fiziksel uygunluk (fitness), hareketlerin doğru olarak yapılmasını ve fiziksel dayanıklılıkla ilgili olarak vücudun kondisyon durumunu ifade eder. Diğer bir tanıma göre ise fiziksel uygunluk kişinin çalışma kapasitesidir; bu kapasite kişinin kuvvetine, dayanıklılığına, çabukluğuna ve bu unsurların birlikte çalışmasına bağlıdır. WHO, FİMS, ACSM, CDC gibi uluslararası kuruluşlar, toplumun sağlığını ve fiziksel uygunluk düzeyini geliştirmek amacıyla bu alanda sürekli araştırmalar yürütmektedir."
+            "emoji": "🏃",
+            "bullets": [
+              "Çocuklukta kazanılan **fiziksel aktivite** alışkanlığı, yaşam boyu sürecek sporun ilk basamağıdır.",
+              "Geniş katılımlı programlar, yetenekli çocukların fiziksel testlerle fark edilme şansını artırır.",
+              "Antrenörün **ölçme ve değerlendirme** bilgisi, performans verilerini doğru yorumlamasını ve adil, objektif seçim yapmasını sağlar.",
+              "**Fiziksel uygunluk (fitness)**, hareketleri doğru yapma becerisi ve vücudun genel kondisyon durumu olarak tanımlanır.",
+              "Başka bir tanıma göre fitness, kişinin **çalışma kapasitesidir** — kuvvet, dayanıklılık ve çabukluğun birlikte çalışmasına bağlıdır.",
+              "**WHO, FİMS, ACSM, CDC** gibi uluslararası kuruluşlar toplum sağlığı ve fiziksel uygunluk için sürekli araştırma yapar."
             ]
           },
           {
             "heading": "Türkiye Sportif Yetenek Taraması ve Spora Yönlendirme Projesi",
-            "paragraphs": [
-              "Olimpiyatlar İçin Sporda Yetenek Seçimi ve Spora Yönlendirme Projesi dört aşamadan oluşur: I. Aşamada ilköğretim okullarında beden eğitimi öğretmenleri tarafından spora yatkınlık ölçümleri yapılır; II. Aşamada seçilen çocuklar BESYO uzmanlarınca daha kapsamlı bir test bataryasından geçirilir; III. Aşamada seçilen çocuklar 8 haftalık temel spor eğitim programına katılır; IV. Aşamada ise çok yönlü temel spor eğitimi sonunda çocuklar yetenekli oldukları spor dallarına yönlendirilir.",
-              "Gençlik ve Spor Bakanlığı ile Milli Eğitim Bakanlığı arasında imzalanan işbirliği protokolü çerçevesinde proje, 81 il, 957 ilçe ve 9527 okulda, ilkokul 3. sınıfa devam eden 423.557 öğrenci üzerinde yürütülmüştür. Bu öğrencilerden 46.884'ü ilk sportif yatkınlık testinde ortalama %10'luk dilime girerek, temel hareket ve sportif beceriler eğitimine davet edilmiştir.",
-              "Sporcu Gelişimi ve Eğitimi Modülleri, birbirini takip eden üç süreçten oluşur: Eğitim 1 - Temel Hareket Becerileri Eğitimi ve Gelişimi (Temel Düzey, 2,5 ay), Eğitim 2 - Spora Özgü Temel Eğitim ve Hareket Becerileri Gelişimi (Orta Düzey, 5 ay) ve Eğitim 3 - Çoklu Beceri Gelişimini İçeren Spor Eğitimi/Çoklu Branş Eğitimi (İleri Düzey, 5 ay). Bu üç süreç toplamda 12 aylık bir eğitim programı oluşturur.",
-              "İlk temel test ve ölçümler antropometrik olarak boy uzunluğu, vücut ağırlığı, kulaç uzunluğu, bacak uzunluğu ve oturma yüksekliğini; motorik olarak ise dikey sıçrama, esneklik, geriye sağlık topu atma, pençe kuvveti, çeviklik ve sürat testlerini kapsar. İkinci aşamada ise koordinasyon testi, mekik koşusu, denge testi ve görsel reaksiyon testi gibi daha ileri düzey testler uygulanarak sporcu adayları federasyonlarla işbirliği içinde ilgili branşlara yönlendirilir."
+            "emoji": "🎯",
+            "bullets": [
+              "Proje **4 aşamadan** oluşur: önce okullarda tarama, sonra uzman testi, temel eğitim ve son olarak branşa yönlendirme.",
+              "**Gençlik ve Spor Bakanlığı** ile **Milli Eğitim Bakanlığı** arasındaki işbirliği protokolüyle yürütülür.",
+              "**81 il, 957 ilçe, 9527 okulda**, ilkokul 3. sınıftan **423.557 öğrenci** taranmıştır.",
+              "Bu öğrencilerden **46.884'ü** (ortalama **%10'luk dilim**) temel hareket ve sportif beceriler eğitimine davet edilmiştir.",
+              "Eğitim modülleri sırayla uygulanır: **Temel Düzey** (2,5 ay) → **Orta Düzey** (5 ay) → **İleri Düzey/Çoklu Branş** (5 ay) — toplam 12 ay.",
+              "İlk test bataryası **antropometrik ölçümleri** (boy, ağırlık, kulaç, bacak, oturma yüksekliği) ve **motorik testleri** (dikey sıçrama, esneklik, sağlık topu, pençe kuvveti, çeviklik, sürat) kapsar.",
+              "İkinci aşamada **koordinasyon, mekik koşusu, denge ve görsel reaksiyon testleri** uygulanır ve adaylar federasyonlarla ilgili branşlara yönlendirilir."
             ]
           },
           {
             "heading": "Antropometrik Ölçümler",
-            "paragraphs": [
-              "Vücut ağırlığı (kg), öğrenci ayakkabısız ve spor kıyafeti ile ölçülür. Boy uzunluğu (cm) ölçümünde ise topuk, kalça, sırt ve başın arka bölümünün iz düşümü aynı dikey doğrultuda olmalı, başın pozisyonu gözler karşıya bakacak şekilde ayarlanmalıdır.",
-              "Oturma yüksekliği (cm) ölçümünde öğrenci sandalyeye otururken dizler 90 derece açıda tutulur; kalça, sırt ve başın arka bölümünün iz düşümü aynı dikey doğrultuda olacak ve başın pozisyonu gözler karşıya bakacak şekilde olacaktır. Kulaç uzunluğu (cm) ölçümünde ise sırt geriye dayalı biçimde, kollar avuç içi karşıya bakacak şekilde yere paralel ve gergin olarak yanlara açılır; her iki kolun orta parmakları arasındaki uzaklık ölçülür.",
-              "Bu ölçümler, özellikle vücut yapısı ve uzuv uzunluklarının baskın olduğu spor branşlarına öğrencilerin yönlendirilmesinde temel veriler sağlar. Erken çocukluk döneminde (4-5 yaş) yıllık boy artışı ortalama 6 cm, vücut ağırlığı artışı ise 2 kg'dır; cinsiyetler arasında bu dönemde fark görülmez, ancak 7-10 yaşın sonlarına doğru kız çocukları lehine bir durum gözlenmeye başlar."
+            "emoji": "📏",
+            "bullets": [
+              "**Vücut ağırlığı**, öğrenci ayakkabısız ve spor kıyafetiyle tartılarak ölçülür.",
+              "**Boy uzunluğu** ölçümünde topuk, kalça, sırt ve başın arka kısmı aynı dikey hizada, gözler karşıya bakacak şekilde durulur.",
+              "**Oturma yüksekliği**, dizler 90 derece açıdayken aynı duruş kurallarıyla ölçülür.",
+              "**Kulaç uzunluğu**, kollar yana paralel açılırken iki elin **orta parmakları** arasındaki uzaklık olarak ölçülür.",
+              "Bu ölçümler, vücut yapısının belirleyici olduğu spor dallarına yönlendirmede temel veri sağlar.",
+              "**4-5 yaş** arası çocuklarda yıllık boy artışı ortalama **6 cm**, ağırlık artışı **2 kg**'dır; bu yaşta cinsiyet farkı görülmez.",
+              "**7-10 yaşın sonlarına** doğru kız çocukları lehine bir fark görülmeye başlar."
             ]
           },
           {
             "heading": "Fiziksel Performans Testleri: Esneklik, Sıçrama ve Kuvvet",
-            "paragraphs": [
-              "Esneklik (uzan-eriş) testinde öğrenci ayakkabısız olarak esneklik tahtasının dayanma bölümüne ayak tabanlarını yerleştirir, dizlerini gergin tutarak kalça ekleminden bükülüp öne doğru uzanır ve cetveli parmak ucuyla en uzak noktaya kadar iter. Dizlerin bükülmemesi, doğru ölçüm için kritik önemdedir ve test iki deneme ile uygulanır.",
-              "Dikey sıçrama testinde öğrenci, ayakları omuz genişliğinde açık dik pozisyonda sıçrama matının üzerinde durur; hızla dizlerini bükerek çöker ve kollarını kullanarak en yüksek hızla yukarı sıçrar, iniş sırasında dizlerini bükmeden sıçradığı noktaya düşmeye çalışır. El kavrama (pençe kuvveti) testinde ise kol aşağıya gergin biçimde uzatılarak el dinamometresi tüm kuvvetle sıkılır; ölçüm hem sağ hem sol el için ayrı ayrı yapılır.",
-              "Geriye sağlık topu atma testinde katılımcı, atış yapacağı yöne sırtı dönük pozisyon alır; topu iki eliyle önde tutup dizlerini hafifçe büktükten sonra vücudunu hızla gererek topu geriye doğru fırlatır. Atış alanı açısı 30 derece olarak belirlenmiştir ve belirlenen çizgiyi aşarak geriye düşme durumunda atış tekrarlanır."
+            "emoji": "💪",
+            "bullets": [
+              "**Esneklik (uzan-eriş) testinde** dizler gergin tutularak öne uzanılır, cetvel parmak ucuyla en uzak noktaya itilir; test 2 deneme ile yapılır.",
+              "**Dikey sıçrama testinde** öğrenci çökerek kollarını kullanıp en yüksek sıçramayı yapar ve dizini bükmeden aynı noktaya iner.",
+              "**Pençe (el kavrama) kuvveti**, dinamometreyle kol gergin aşağı uzatılarak her iki el için ayrı ölçülür.",
+              "**Geriye sağlık topu atma testinde** sırt atış yönüne dönük, top önde tutulup vücut gererek geriye fırlatılır.",
+              "Sağlık topu atışında atış alanı açısı **30 derece**'dir; belirlenen çizgi aşılırsa atış tekrarlanır."
             ]
           },
           {
             "heading": "Fiziksel Performans Testleri: Çabukluk, Sürat ve Koordinasyon",
-            "paragraphs": [
-              "Çeviklik testinde öğrenci, parkurun orta çizgisinin 50 cm gerisinde koşu yönüne yan duruş pozisyonunda hazır bekler; çıkış komutuyla hızla koşarak işaretlenmiş hedeflere sırayla eliyle dokunur ve başlangıç çizgisini geçerek testi tamamlar. 20 metre sürat koşusu testinde ise öğrenci, fotoselin 1 metre gerisindeki çıkış çizgisinden başlayarak 20 metrelik mesafeyi en yüksek süratle, yavaşlamadan tamamlar.",
-              "Koordinasyon testi, fotoselle ölçülen süre içinde art arda uygulanan 10 farklı istasyonu içerir: öne takla, denge tahtasından geçiş, engel üzerinden top atma, tek ayakla sekme (sağ-sol), elle top yer değiştirme, ayakla top yer değiştirme, duvara top atma, alttan-üstten engel geçişi, koşarak engeller arası slalom ve son olarak mekik koşu testi. Her istasyon için tanımlanmış hatalar (örneğin çemberin dışına basma, engeli atlama, belirlenen bölgeye basmama) yapıldığında hareketin yeniden tekrarlanması istenir.",
-              "20 metre mekik koşu testi, dayanıklılık özelliğini ölçmek amacıyla uygulanır; sporcu 20 metrelik parkurda, verilen sinyal sesleriyle koşmaya devam eder. Test 7 km/s hızla başlar ve her seviyede 0,5 km/s artarak zorlaşır. Sporcu sinyali bir kez kaçırırsa teste devam edebilir; ancak art arda iki kez sinyali kaçırırsa test o sporcu için sonlandırılır ve ulaşılan mekik sayısı kaydedilir."
+            "emoji": "⚡",
+            "bullets": [
+              "**Çeviklik testinde** öğrenci orta çizginin 50 cm gerisinde yan durur, komutla koşup hedeflere sırayla dokunur.",
+              "**20 metre sürat koşusu testinde** öğrenci fotoselin **1 metre gerisindeki** çizgiden başlayıp mesafeyi yavaşlamadan tamamlar.",
+              "**Koordinasyon testi**, takla ve denge tahtası gibi **10 farklı istasyonu** fotoselle ölçülen sürede içerir; hata yapılan istasyon tekrarlanır.",
+              "**20 metre mekik koşu testi**, **dayanıklılığı** ölçmek için yapılır; sinyal sesleriyle koşuya devam edilir.",
+              "Mekik testi **7 km/s** hızla başlar ve her seviyede **0,5 km/s** artarak zorlaşır.",
+              "Sporcu sinyali bir kez kaçırırsa devam edebilir; ancak **üst üste 2 kez** kaçırırsa test sonlanır ve ulaşılan mekik sayısı kaydedilir."
             ]
           },
           {
             "heading": "Denge ve Görsel Reaksiyon Testleri",
-            "paragraphs": [
-              "Denge testi, öğrencinin destek ayağı üzerinde ağırlık (kütle) merkezinin durağanlığını veya hareketliliğini tespit etmek amacıyla uygulanır. Toplam 70 saniye süren test sırasında öğrenci sırasıyla çift ayakla, sol ayakla ve sağ ayakla denge platformu üzerinde belirtilen sürelerde hareketsiz durmaya çalışır; öğrenci platformdan düşerse veya zamanında platforma çıkamazsa test tekrarlanır.",
-              "Görsel reaksiyon testi, bir uyaranın (görme, dokunma, işitme) sinirler yoluyla merkezi sinir sistemine iletilmesi, burada karar oluşturulması ve bu kararın tekrar sinirler yoluyla kaslara iletilerek harekete geçirilmesi sürecini inceler. Reaksiyon zamanı, uyaranın gelmesiyle tepkinin başlamasına kadar geçen süreyi; tepki süresi ise uyaranın başlama zamanı ile tepkinin başladığı zaman arasında geçen süreyi ifade eder. Test, öğrencinin görsel bir uyarıya (rastgele yanan lambalardan kırmızı renge) vermiş olduğu tepki süresini ve bu tepkiyi devam ettirebilme düzeyini incelemeyi amaçlar; her lamba için en az 3 uyarı verilerek toplam 24 tekrar sonrasında test sonlandırılır."
+            "emoji": "⚖️",
+            "bullets": [
+              "**Denge testi**, toplam **70 saniye** sürer; öğrenci çift ayak, sol ayak ve sağ ayakla sırasıyla platformda hareketsiz durmaya çalışır.",
+              "Platformdan düşülürse veya süresinde çıkılamazsa denge testi tekrarlanır.",
+              "**Görsel reaksiyon testi**, bir uyaranın sinirlerle algılanıp karar verilip kasa iletilmesi sürecini inceler.",
+              "**Reaksiyon zamanı**, uyarandan tepkinin başlamasına kadar geçen süredir; **tepki süresi** ise uyaranın başlamasıyla tepkinin başlaması arasındaki süredir.",
+              "Test kırmızı ışığa verilen tepkiyi ölçer; her lamba için en az 3 uyarı olmak üzere toplam **24 tekrar** yapılır.",
+              "Amaç, öğrencinin **tepki süresini** ve bu tepkiyi **devam ettirebilme düzeyini** birlikte incelemektir."
             ]
           },
           {
             "heading": "Bölüm Özeti",
-            "paragraphs": [
-              "Antrenörlerin çocuklara yönelik fiziksel aktivite, ölçme ve değerlendirme konularına hakim olması, özellikle yetiştirici antrenörlük konusunda yetkin olmalarını sağlar. Dünyada spor alanında ileri gitmiş ülkeler, çocuklara uzun süre yatırım yaptıktan sonra aralarından şampiyon sporcular çıkarmaktadır; bu nedenle devlet yetkilileri, çocuklara sistematik antropometrik ölçüm ve fiziksel performans testleri uygulanması konusunda önemli organizasyonlar yapmaktadır.",
-              "Fiziksel ve antropometrik testler hakkında bilgi sahibi olmak, antrenörlere büyük avantajlar sağlar. Kuvvet, dayanıklılık, sürat, çeviklik, koordinasyon seviyesi, esneklik ve vücut kompozisyonuna yönelik test ve ölçüm sonuçları, üst seviyelerde yarışmacı olmaya aday genç sporcuları belirlemede ve bu sporcuların hangi branş için daha yeterli olduğu konusunda tahminler yapılmasında kullanılır. Bu testlerin büyük çoğunluğu, basit araç ve gereçler kullanılarak uygulanabilir."
+            "emoji": "✅",
+            "bullets": [
+              "Antrenörlerin çocuklara yönelik **ölçme ve değerlendirme** bilgisi, iyi bir yetiştirici antrenör olmanın temelidir.",
+              "Sporda ileri ülkeler, çocuklara uzun yıllar yatırım yaparak şampiyonlar çıkarır; bu yüzden devletler sistematik test organizasyonları yürütür.",
+              "**Kuvvet, dayanıklılık, sürat, çeviklik, koordinasyon, esneklik** ve vücut kompozisyonu testleri, yetenekli genç sporcuları belirlemede kullanılır.",
+              "Bu testlerin büyük çoğunluğu, basit araç ve gereçlerle uygulanabilir."
             ]
           }
         ],
@@ -1943,64 +2112,102 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Yetenek Kavramı ve Temel Tanımlar",
-            "paragraphs": [
-              "İnsan, doğaya karşı yüksek bir adaptasyon yetisiyle dünyaya gelir ve bu yeti bireysel farklılıklar göstererek öğrenme ve yapabilme yeteneği olarak kendini gösterir. Genetik ve yaşamsal faktörlerin etkisiyle bazı insanların belirli alanlardaki öğrenme ve yapabilme potansiyeli akranlarına göre çok daha yüksektir; bu yüksek potansiyele sahip kişiler 'yetenekli' olarak tanımlanır. Colvin'e (2014) göre yetenek, bir şeyi birçok kişiden daha iyi yapmamızı sağlayan doğuştan gelen doğal bir beceridir; bu özellik erken yaşta, beceri tam olarak dışa vurulmadan belirlenebilir ve kişi bu özellikle doğar, doğuştan sahip olunmayan bir yetenek sonradan edinilemez. Günlük dilde yetenek kavramı sportif, matematiksel, sanatsal ya da mesleksel pek çok alan için kullanılsa da temelde ortalamanın üstünde ve üst düzeyde verim sergileyebilecek özel nitelik ya da yetilere sahip bireyleri tanımlar.",
-              "Beceri ise Türk Dil Kurumu'na göre 'kişinin yatkınlık ve öğrenime bağlı olarak bir işi başarma ve bir işlemi amaca uygun olarak sonuçlandırma yeteneği, maharet' olarak tanımlanır. Yetenek, bireyin becerilerinin gelişiminde temel potansiyel kapasiteyi oluştururken ilgi ve olanaklar bu becerilerin şekillenmesini sağlar; yani yetenek bir potansiyeli ifade ederken beceri bu potansiyelin eğitim ve deneyimle somut bir performansa dönüşmüş hâlidir. Öğrenme, 'bireyin çevre etkileşimi sonucu oluşan kalıcı izli davranış değişikliği' olarak tanımlanır ve spor bilimleri açısından yeteneğin performansa dönüşebilmesi için motor becerilerin öğrenilmesi büyük önem taşır.",
-              "Yetenek seçimi sürecini anlamak için gelişimle ilgili kavramların da bilinmesi gerekir. Gelişim, yaşamın başlangıcından ölüme kadar devam eden büyüme, olgunlaşma, hazır bulunuşluk ve öğrenme süreçlerini içeren bilişsel, duyuşsal ve fiziksel değişiklikleri kapsayan geniş bir kavramdır ve hem kalıtıma hem çevresel faktörlere bağlıdır. Büyüme, hücrelerin büyümesi ve çoğalmasından kaynaklanan vücut kütlesindeki niceliksel artıştır ve en önemli göstergeleri boy uzunluğu ile vücut ağırlığıdır. Olgunlaşma ise organizmanın büyüyüp gelişerek türe özgü yeteneklerinin ortaya çıkması ve kendisinden beklenen becerileri yapabilecek düzeye gelmesidir; büyümedeki niceliksel değişimin kalıtımla şekillenerek niteliksel olarak kendini göstermesidir. Hazır bulunuşluk, büyüme ve olgunlaşma sürecini tamamlayan bireyin kendisinden beklenen davranışı sergileyebilmesi için gerekli ön bilgi, beceri ve tutumu kazanmış olmasıdır."
+            "heading": "Yetenek Nedir?",
+            "emoji": "🌱",
+            "bullets": [
+              "İnsan güçlü bir uyum yetisiyle doğar; bazı kişiler belirli alanlarda akranlarından çok daha yüksek potansiyele sahiptir ve bunlara **yetenekli** denir.",
+              "Colvin'e göre **yetenek**, bir şeyi çoğu insandan daha iyi yapmamızı sağlayan doğuştan gelen bir özelliktir — erken yaşta fark edilebilir ama sonradan kazanılamaz.",
+              "**Beceri**, yatkınlık ve öğrenim sayesinde bir işi amacına uygun biçimde başarma yetisidir; yetenek bir potansiyeli, beceri ise bu potansiyelin eğitimle somutlaşmış hâlini ifade eder.",
+              "**Öğrenme**, çevreyle etkileşim sonucu oluşan kalıcı davranış değişikliğidir; yeteneğin performansa dönüşmesi için motor becerilerin öğrenilmesi şarttır.",
+              "**Gelişim**, doğumdan ölüme kadar süren bilişsel, duyuşsal ve fiziksel değişimleri kapsar; kalıtım ve çevre birlikte belirler.",
+              "**Büyüme**, vücut kütlesindeki niceliksel artıştır (boy, kilo); **olgunlaşma** ise türe özgü yeteneklerin niteliksel olarak ortaya çıkmasıdır.",
+              "**Hazır bulunuşluk**, büyüme ve olgunlaşmasını tamamlamış bireyin beklenen davranışı gösterebilecek bilgi, beceri ve tutuma sahip olmasıdır."
             ]
           },
           {
-            "heading": "Yetenek Seçimiyle İlişkili Temel Kavramlar: Yatkınlık, Eğilim ve Sportif Uygunluk",
-            "paragraphs": [
-              "Yetenek seçimi ve yönlendirme sürecinde birbiriyle ilişkili üç önemli alt bileşenden söz edilir: yatkınlık, eğilim ve sportif uygunluk; bu kavramlar genetik ve çevresel faktörlerle birlikte optimum koşullar altında yeteneğin ortaya çıkmasını sağlar. Yatkınlık, spor bilimlerinde bireyin antropolojik, antropometrik ve genetik özelliklerini işaret eder; vücut üyelerinin çevre, genişlik, deri kıvrım kalınlığı ölçümleri, somatotip ve vücut simetrisi gibi normatif değerler, bireyin hangi spor dalına daha yatkın olduğunu belirlemede kullanılır. Günümüzde sportif performansı etkileyen 239 gen tespit edilmiş olup bu genlerin performans farklılıklarının yaklaşık %50'sinden sorumlu olduğu belirtilmektedir.",
-              "Eğilim, bireyin yaşadığı bölgenin coğrafi ve kültürel özelliklerinden, ailesinden ve toplumun spora verdiği değerden etkilenen duyuşsal bir süreçtir; yetenek ve yatkınlık kadar belirleyici olmasa da bireyin spora başlama ve branş tercihini şekillendirmede kritik rol oynar. Çevre ve aile uyaranlarının etkisi en çok eğilim sürecinde belirleyicidir; Brezilya'da futbola olan toplumsal ilgi, eğilimin spor üzerindeki etkisini gösteren somut bir örnek olarak metinde yer alır.",
-              "Sportif uygunluk, bireyin eğitim, iş, sağlık, sosyal ve spor gibi alanlarda hedeflenen davranışları etkili ve verimli bir şekilde gerçekleştirebilmesi için bilişsel, psikolojik ve fiziksel özelliklerinin yerindeliği olarak tanımlanır; bilişsel (kognitif), duygusal ve fiziksel (psikomotor) uygunluk olmak üzere ayrı ayrı incelenir. Spor alanında yapılan çalışmalar daha çok fiziksel uygunluğa yoğunlaştığından bilişsel ve duyuşsal uygunluk ikincil bir konu olarak kalmıştır; ancak bu üç boyut birlikte bireyin performansını etkiler."
+            "heading": "Yatkınlık, Eğilim ve Uygunluk",
+            "emoji": "🧭",
+            "bullets": [
+              "**Yatkınlık**, bireyin antropolojik, antropometrik ve genetik özellikleridir (vücut ölçüleri, somatotip, simetri) ve hangi spora daha uygun olduğunu gösterir.",
+              "Performansı etkileyen **239 gen** tespit edilmiştir; bu genler performans farklarının yaklaşık **%50**'sinden sorumludur.",
+              "**Eğilim**, bireyin coğrafyası, ailesi ve toplumun spora verdiği değerden etkilenen duyuşsal bir süreçtir; spora başlama ve branş seçimini şekillendirir.",
+              "Aile ve çevre uyaranlarının etkisi en çok **eğilim** sürecinde belirleyicidir — Brezilya'da futbola olan toplumsal ilgi bunun klasik örneğidir.",
+              "**Sportif uygunluk**, bilişsel, duygusal ve fiziksel (psikomotor) özelliklerin hedeflenen performans için yerinde olmasıdır.",
+              "Spor bilimi araştırmaları genelde fiziksel uygunluğa odaklanır; bilişsel ve duyuşsal boyutlar daha az incelenir ama üçü birlikte performansı etkiler."
             ]
           },
           {
-            "heading": "Yetenek Türleri: Genel ve Özel Yetenek",
-            "paragraphs": [
-              "Sporda yetenek, sporcunun fiziksel özelliklerinin yanında bilişsel ve duygusal uygunluk düzeyini de kapsayan çok boyutlu bir konudur ve iki farklı boyutta incelenir: genel yetenek (belirli bir spor dalıyla ilgili olmayan) ve özel yetenek (belirli bir spor biçimine veya dalına özgü). Genel sporsal yetenekler, ortalamanın üstünde genetik niteliklere ve uyum yetilerine sahiptir ve kuvvet, dayanıklılık, sürat ve koordinasyon gibi biyomotor becerilerden oluşur; bu beceriler bilim adamları tarafından en yaygın şekilde kondisyonel ve koordinatif yetenekler olarak sınıflandırılır.",
-              "Özel yetenek parametrelerinde ise branşın gerektirdiği özel ayrımlar devreye girer; bireysel sporlar, takım sporları, mücadele sporları, simetrik-asimetrik sporlar, yüksek dikkat-konsantrasyon sporları ve raket sporları gibi başlıklar altında her biri için özgün sporcu tipi tanımlanabilir. Örneğin sprint için kısa tepki süresi, çabuk kas gevşemesi ve uzun bacaklar; basketbol için uzun boy, yüksek anaerobik ve aerobik kapasite ile taktiksel zekâ; cimnastik için yüksek denge, koordinasyon ve ritim gibi branşa özgü nitelikler önemlidir. Branşlara göre spora başlama ve özelleşme yaşları da farklılık gösterir; bazı branşlarda erken özelleşme gerekirken bazılarında bu süreç daha ileri yaşlarda gerçekleşir."
+            "heading": "Genel mi, Özel mi Yetenek?",
+            "emoji": "🏅",
+            "bullets": [
+              "Sporda yetenek iki boyutta incelenir: **genel yetenek** (hiçbir branşa özel olmayan) ve **özel yetenek** (belirli bir spor dalına özgü).",
+              "**Genel yetenek**, kuvvet, dayanıklılık, sürat ve koordinasyon gibi **kondisyonel ve koordinatif** biyomotor becerilerden oluşur.",
+              "**Özel yetenek** branşa göre değişir: bireysel, takım, mücadele, simetrik-asimetrik ve raket sporları gibi her grup kendi sporcu profilini gerektirir.",
+              "Örnek: **sprint** için kısa tepki süresi, çabuk kas gevşemesi ve uzun bacaklar; **basketbol** için uzun boy, yüksek aerobik-anaerobik kapasite ve taktik zekâ; **cimnastik** için denge, koordinasyon ve ritim önemlidir.",
+              "Branşlara göre spora başlama ve **özelleşme yaşı** değişir — bazılarında erken, bazılarında daha ileri yaşta özelleşme gerekir."
             ]
           },
           {
-            "heading": "Kondisyonel Biyomotor Yetenekler: Dayanıklılık, Kuvvet ve Sürat",
-            "paragraphs": [
-              "Dayanıklılık, sporcunun branşın gerektirdiği hareketleri belirli bir süre boyunca yorgunluğa karşı direnç göstererek sürdürebilme yeteneğidir ve aerobik ile anaerobik dayanıklılık olmak üzere iki ana grupta incelenir. Aerobik dayanıklılık, düşük eforlu ancak uzun süreli egzersize katlanabilme becerisidir; temel göstergesi, 1 dakikada tüketilen oksijen miktarı olan maksimum oksijen tüketimidir (VO2maks) ve elit dayanıklılık sporcularında sedanter bireylere göre çok daha yüksektir. Anaerobik dayanıklılık ise kısa süreli ve yüksek şiddetli performans gerektiren branşlarda devreye girer ve fosfojen sistemi ile laktik asit sistemi olmak üzere iki alt sisteme ayrılır; fosfojen sistem 10 saniyeye kadar süren patlayıcı hareketlerde (100 m, kısa sprintler), laktik asit sistemi ise 1-3 dakika süren yüksek efor gerektiren branşlarda (800 m, boks, güreş) baskındır.",
-              "Kuvvet, bir kasın gerilme ve gevşeme yoluyla bir dirence karşı koyabilme, yani güç uygulayabilme yeteneğidir ve tüm spor aktivitelerinde performansın ana bileşenidir. Kuvvet; maksimal kuvvet, kuvvette devamlılık ve çabuk kuvvet olmak üzere üç başlıkta incelenir: maksimal kuvvet, sinir-kas sisteminde en yüksek seviyede kuvvet üretme özelliğidir; kuvvette devamlılık, sinir-kas sisteminin uzun süreli ve tekrarlı bir şekilde kuvvet üretimini sürdürebilme özelliğidir; çabuk kuvvet ise yüksek hızda ve çabuk bir şekilde kuvvet gelişimi sağlama özelliğidir ve özellikle takım sporlarında sprint verimini doğrudan etkiler. Kas kütlesi 7-17 yaş arasında %300-500 oranında artış gösterir ve ergenlik döneminden sonra testosteron hormonu salınımının artışıyla erkeklerde kuvvet gelişimi kızlara göre daha belirgin hâle gelir.",
-              "Sürat, mesafeleri hızlı bir biçimde kat etme becerisi olarak tanımlanır ve reaksiyon sürati, ivmelenme sürati ve hareket sürati olmak üzere üç bileşenden oluşur. Reaksiyon sürati, bir uyarının duyu organlarından alınıp merkezî sinir sisteminden geçerek kas kasılmasına kadar süren süreci ifade eder, genetik temelli bir yetenektir ve antrenmanla sadece %10-20 düzeyinde geliştirilebilir. İvmelenme sürati, hareket hızını en kısa sürede artırabilme yeteneğidir ve diz gerici kasların maksimal kuvvet seviyesiyle doğrudan ilişkilidir; hareket sürati ise sporcunun maksimal hıza ulaştığı evrede adım sıklığı ve adım uzunluğuyla belirlenir. Kızlarda 9-10, erkeklerde 10-12 yaşları sürat yeteneğindeki gelişim hızının zirve yaptığı dönemlerdir."
+            "heading": "Kondisyonel Yetenekler: Dayanıklılık, Kuvvet, Sürat",
+            "emoji": "💪",
+            "bullets": [
+              "**Dayanıklılık**, yorgunluğa karşı direnç gösterip hareketi sürdürme yeteneğidir; **aerobik** (düşük şiddet, uzun süre, VO2maks ile ölçülür) ve **anaerobik** (kısa, yüksek şiddet) olmak üzere ikiye ayrılır.",
+              "Anaerobik dayanıklılığın **fosfojen sistemi** 10 saniyeye kadar süren patlayıcı hareketlerde (100m, kısa sprint) baskınken, **laktik asit sistemi** 1-3 dakikalık yüksek efor gerektiren branşlarda (800m, boks, güreş) devreye girer.",
+              "**Kuvvet**, bir dirence karşı güç uygulama yeteneğidir ve üçe ayrılır: **maksimal kuvvet** (en yüksek kuvvet üretimi), **kuvvette devamlılık** (uzun süre kuvvet sürdürme) ve **çabuk kuvvet** (hızlı kuvvet üretimi, sprintte kritik).",
+              "Kas kütlesi 7-17 yaş arasında **%300-500** artar; ergenlikte testosteron artışıyla erkeklerde kuvvet gelişimi kızlara göre daha belirgin hâle gelir.",
+              "**Sürat**, mesafeleri hızlı kat etme becerisidir ve üç bileşenden oluşur: **reaksiyon sürati**, **ivmelenme sürati** ve **hareket sürati**.",
+              "**Reaksiyon sürati** genetik temellidir, antrenmanla sadece **%10-20** geliştirilebilir; **ivmelenme sürati** diz gerici kasların maksimal kuvvetiyle ilişkilidir.",
+              "Sürat gelişimi kızlarda **9-10**, erkeklerde **10-12** yaşlarında zirveye ulaşır."
             ]
           },
           {
-            "heading": "Koordinatif Yetenekler: Denge, Antisipasyon, Ritim, Reaksiyon, Esneklik ve Çeviklik",
-            "paragraphs": [
-              "Koordinatif yetenekler, bireyin farklı koşullar altında motor becerileri gerçekleştirirken hareketleri çabuk, dengeli ve ekonomik bir şekilde yapabilme yeteneğidir ve denge, antisipasyon (önceleme), ritim ve reaksiyon ile kondisyonel yeteneklerle de ilişkili hareketlilik ve esneklik bu grubu oluşturur. Denge, 'dış kuvvetler karşısında, destek noktaları üzerinde vücudun merkezde duruşunu sürdürme ve muhafaza yeteneği' olarak tanımlanır ve gelişimi anne karnındaki 24. haftadan itibaren başlar, 12 yaşında en üst seviyeye ulaşır. Antisipasyon, bireyin motorik bir hareketi gerçekleştirmeden önce karşılaşacağı durumu önceden tahmin ederek daha hızlı tepkide bulunmasını sağlayan zihinsel bir süreçtir ve özellikle mücadele ve takım sporları için son derece önemlidir.",
-              "Ritim, vücut hareketlerinin fiziksel bir sekansta veya müziksel bir ritimle senkronizasyonu olarak tanımlanır ve motor becerilerin öğrenilmesinde önemli bir faktördür; reaksiyon ise duyu organlarının aldığı uyaranın merkezî sinir sistemine ulaştırılıp kasa iletilmesi ve hareketin başlamasına kadar süren süreçtir. Esneklik (hareketlilik), bir sporcunun hareketlerini eklemlerin müsaade ettiği oranda geniş bir açıda ve farklı yönlere uygulayabilme yeteneğidir; aktif-pasif, statik-dinamik ve balistik olmak üzere farklı türlerde incelenir ve en iyi seviyesine 3-7 yaş aralığında ulaşır. Çeviklik ise bir noktadan diğerine hareket ederken vücudun yönünü mümkün olduğunca hızlı, akıcı, kolay ve kontrollü şekilde değiştirebilme yeteneğidir; denge, hız, kuvvet ve sinir-kas koordinasyonunun birlikte işlemesini gerektirir ve ani pozisyon değişimi içeren basketbol, tenis, voleybol gibi branşlarda kritik rol oynar."
+            "heading": "Koordinatif Yetenekler",
+            "emoji": "🤸",
+            "bullets": [
+              "**Koordinatif yetenekler**, hareketleri çabuk, dengeli ve ekonomik yapma becerisidir; denge, antisipasyon, ritim, reaksiyon, esneklik ve çeviklik bu grubu oluşturur.",
+              "**Denge**, dış kuvvetler karşısında vücudun merkezde duruşunu koruma yeteneğidir; anne karnında 24. haftadan başlar, **12 yaşında** en üst seviyeye ulaşır.",
+              "**Antisipasyon (önceleme)**, bir hareketi yapmadan önce durumu tahmin ederek daha hızlı tepki vermeyi sağlayan zihinsel süreçtir; mücadele ve takım sporlarında çok önemlidir.",
+              "**Ritim**, hareketlerin fiziksel ya da müzikal bir sekansla senkronize edilmesidir; **reaksiyon** ise uyarının algılanıp kasa iletilip harekete dönüşmesine kadar geçen süredir.",
+              "**Esneklik (hareketlilik)**, eklemlerin izin verdiği en geniş açıda hareket yapabilme yeteneğidir (aktif-pasif, statik-dinamik, balistik türleri vardır) ve en iyi seviyesine **3-7 yaş** aralığında ulaşır.",
+              "**Çeviklik**, bir noktadan diğerine hareket ederken vücudun yönünü mümkün olduğunca hızlı, akıcı, kolay ve kontrollü bir şekilde değiştirebilme yeteneğidir.",
+              "Çeviklik; denge, hız, kuvvet ve sinir-kas koordinasyonunu birlikte gerektirir ve basketbol, tenis, voleybol gibi ani yön değişimi olan branşlarda kritik rol oynar."
             ]
           },
           {
-            "heading": "Yetenek Seçimi ve Yönlendirmenin Tarihsel Gelişimi ve Yaklaşım Modelleri",
-            "paragraphs": [
-              "Üstün yetenekli insanları belirlemeye yönelik ilk girişimlere Eski Çin ve Antik Yunan kayıtlarında rastlanır; 18. yüzyıldaki Aydınlanma Çağı ve 19. yüzyıl Sanayi Devrimi ile üstün yetenekli bireylerin ortaya çıkması için uygun çevresel koşullar oluşmuştur. II. Dünya Savaşı döneminde askerî alanda üstün yetenekli insanları belirlemeye yönelik çalışmalar yapılmış, Soğuk Savaş yıllarında (1947-1991) ise olimpiyatların ülkeler için bir gövde gösterisi arenasına dönüşmesiyle Doğu Almanya ve Sovyet Bloku ülkeleri 1970'li yıllardan itibaren yetenek seçimi ve yönlendirme çalışmalarına büyük önem vermiştir.",
-              "Ülkelerin yetenek seçimi konusundaki yaklaşımları temelde üç farklı modelde toplanır: Sistematik Siyasi Yaklaşımlar, uzun süreli ve çok disiplinli antrenmanlara dayanan ve ilk olarak SSCB'de uygulanan yaklaşımdır; Sistematik Sivil Yaklaşımlar, spor adamları, kulüpler veya şirketler tarafından çocuk ve gençlerin fiziksel, psikolojik ve teknik özelliklerinin test edilerek değerlendirildiği yaklaşımdır; Sistematik Olmayan Yaklaşımlar ise daha informal olup nüfusun kalabalık ve spora katılımın yüksek olduğu, belirli branşların (futbol, basketbol gibi) baskın olduğu ülkelerde benimsenir.",
-              "Ülkelerin yetenekli çocukları seçme biçimi doğal seçim ve bilimsel seçim olmak üzere iki şekilde gerçekleşir. Doğal seçimde çocuklar kişisel tercihleri, aile beklentileri ve çevrenin sosyo-kültürel yapısı gibi öznel faktörlerin etkisiyle spora yönelir; bu yöntemde performans gelişimi genellikle daha yavaş ve sınırlıdır ve erken katılım, geç katılım ve rekreasyonel katılım olmak üzere üç döneme ayrılır. Bilimsel seçimde ise çocukların antropometrik, psikolojik ve fizyolojik özellikleri bilimsel metotlarla test edilip uzman görüşleri doğrultusunda spora yönlendirilir; bu yöntem öznel değerlendirme (uzman antrenörlerin sistematik gözlemleri) ve deneysel değerlendirme (bilimsel test bataryaları ve kinantropometrik ölçümler) olmak üzere iki temel değerlendirme biçimiyle uygulanır ve II. Dünya Savaşı'ndan sonra özellikle Doğu Avrupa ülkelerinde benimsenerek olimpiyat başarılarını artırmıştır. Ayrıca çocuklar başladıkları branşla örtüşmeyen yetenek ve isteklerini fark ettiklerinde 'çapraz katılım' yoluyla farklı bir spor dalına yönelebilirler; bu geçiş olumsuz veya zaman kaybı olarak değerlendirilmemelidir."
+            "heading": "Yetenek Seçiminin Tarihi ve Modelleri",
+            "emoji": "🏛️",
+            "bullets": [
+              "Üstün yetenek arayışının izleri Eski Çin ve Antik Yunan'a kadar gider; 18. yüzyıl Aydınlanma Çağı ve 19. yüzyıl Sanayi Devrimi bu bireylerin ortaya çıkması için uygun ortam yarattı.",
+              "II. Dünya Savaşı'nda yetenek belirleme askerî alana taşındı; **Soğuk Savaş (1947-1991)** döneminde olimpiyatlar bir güç gösterisine dönüşünce Doğu Almanya ve Sovyet Bloku 1970'lerden itibaren yetenek seçimine büyük önem verdi.",
+              "Üç temel model var: **Sistematik Siyasi Yaklaşım** (SSCB kökenli, uzun süreli çok disiplinli antrenman), **Sistematik Sivil Yaklaşım** (kulüp/şirketlerin test ettiği yaklaşım) ve **Sistematik Olmayan Yaklaşım** (informal, kalabalık nüfuslu ülkelerde yaygın).",
+              "Yetenekli çocuklar iki yolla seçilir: **doğal seçim** (kişisel tercih, aile ve çevrenin etkisiyle, daha yavaş gelişim) ve **bilimsel seçim** (bilimsel testlerle, uzman görüşüyle).",
+              "Doğal seçim; **erken katılım**, **geç katılım** ve **rekreasyonel katılım** olmak üzere üç döneme ayrılır.",
+              "Bilimsel seçim, **öznel değerlendirme** (uzman antrenörlerin sistematik gözlemi) ve **deneysel değerlendirme** (test bataryaları, kinantropometrik ölçüm) olarak uygulanır ve II. Dünya Savaşı sonrası Doğu Avrupa'da olimpiyat başarısını artırdı.",
+              "**Çapraz katılım**, çocuğun başladığı branşla örtüşmeyen gerçek yeteneğini fark edip başka bir spora yönelmesidir; bu asla zaman kaybı sayılmamalı."
             ]
           },
           {
-            "heading": "Yetenek Seçimi ve Yönlendirmede Etkili Bireysel Faktörler",
-            "paragraphs": [
-              "Bireysel faktörler, yetenek üzerinde etkili olan ancak müdahale edilmesi imkânsız veya çok sınırlı olan; bireyin biyolojik ve fizyolojik yapısıyla ilgili yaş, cinsiyet, genetik yapı, antropometrik, bilişsel ve duyuşsal özelliklerden oluşur. Yaş, yeteneğin açığa çıkması ve değerlendirilmesi açısından en kritik faktördür ve yanıltıcı sonuçlardan kaçınmak için takvim yaşı yanında relatif, biyolojik, kemik, gelişim ve antrenman yaşının da bilinmesi gerekir. Takvim yaşı, bireyin doğumundan itibaren geçen süreyi yıl olarak ifade eden en pratik parametredir; biyolojik yaş ise kronolojik yaştan farklı olarak bireyin biyolojik olgunluğunu ifade eder ve kapsamlı laboratuvar testleriyle belirlenir.",
-              "Kemik yaşı, sol el bilek kemiklerinin radyografileri incelenerek belirlenen daha pratik ve ekonomik bir biyolojik olgunluk göstergesidir; gelişim yaşı ise bireyin bilişsel, duyuşsal ve psikomotor alanlardaki gelişiminin uzman değerlendirmeleri sonucu ifade edilmesidir. Bağıl yaş (relatif yaş), bireyin doğduğu ayı dikkate alarak hesaplanır ve özellikle çocukluk-ergenlik döneminde yaş sınırı tarihinin hemen sonrasında doğan sporcuların, aynı yaş kategorisindeki akranlarına göre daha olgun ve avantajlı görünerek elit takımlarda fazla temsil edilmesine (bağıl yaş etkisi) yol açar.",
-              "Cinsiyet, boy uzunluğu, kas kütlesi, aerobik ve anaerobik kapasite üzerindeki etkisiyle sportif performansın temel belirleyicilerindendir; çocukluk çağında kız ve erkekler arasındaki fiziksel farklar azken, ergenlik döneminde testosteron hormonunun etkisiyle erkekler lehine belirgin farklılıklar ortaya çıkar. Kadınlarda ise genetik özellikler koordinatif yeteneklerin daha belirgin olmasını sağlar; ancak erken özelleşme ve küçük yaşlarda başlayan yoğun antrenmanlar kadın sporcularda 'kadın spor üçlemesi' adıyla bilinen, düşük enerji alımı, menstrüel sorunlar ve kemik mineral yoğunluğu azalmasını içeren bir sağlık sendromuna neden olabilir."
+            "heading": "Bireysel Faktörler: Yaş ve Cinsiyet",
+            "emoji": "🧍",
+            "bullets": [
+              "**Bireysel faktörler** değiştirilemez ya da çok sınırlı değişir: yaş, cinsiyet, genetik yapı, antropometrik, bilişsel ve duyuşsal özellikler.",
+              "**Yaş** en kritik faktördür; takvim yaşı yanında **relatif (bağıl)**, **biyolojik**, **kemik**, **gelişim** ve **antrenman yaşı** da bilinmelidir.",
+              "**Kemik yaşı**, sol el bilek kemiklerinin röntgeniyle belirlenen pratik bir olgunluk göstergesidir.",
+              "**Bağıl yaş etkisi**: yaş sınırının hemen sonrasında doğan sporcular akranlarına göre daha olgun görünüp elit takımlarda fazla temsil edilir.",
+              "**Cinsiyet** boy, kas kütlesi ve kapasiteyi etkiler; ergenlikte testosteron sayesinde erkekler lehine belirgin farklar oluşur, kadınlarda ise koordinatif yetenekler daha güçlüdür.",
+              "Erken özelleşme ve yoğun antrenman kadın sporcularda **\"kadın spor üçlemesi\"**ne yol açabilir: düşük enerji alımı, menstrüel sorunlar ve kemik mineral yoğunluğu azalması."
             ]
           },
           {
-            "heading": "Yetenek Seçimi ve Yönlendirmede Çevresel Faktörler",
-            "paragraphs": [
-              "Çevresel faktörler, yetenek gelişim programlarının temelini oluşturur ve çocuğun ailesinden eğitim-sosyal çevresine, yaşadığı coğrafyadan bölgedeki spor tesislerinin yapısına kadar geniş bir çerçevede incelenir; bu faktörler genetik temelli yatkınlığın aksine kısmen değiştirilebilir niteliktedir (örneğin ailenin spora bakışı değiştirilebilirken coğrafi koşullar değiştirilemez, ama tesis sayısı artırılabilir). Aile, bireyin zihinsel, fiziksel ve psikolojik gelişiminde en etkili faktörlerden biridir; ailenin sosyo-ekonomik durumu, eğitim düzeyi ve spora yaklaşımı çocuğun spora katılımını, branş tercihini ve performansını doğrudan etkiler, ancak aşırı başarı beklentisi çocukta stres ve kaygıya da yol açabilir.",
-              "Öğretmenler, özellikle okul öncesi ve ilkokul döneminde çocukların temel motorik becerilerini kazanmasını ve yeteneklerinin açığa çıkmasını sağlayan kişilerdir; beden eğitimi öğretmenlerinin yeterliliği, yetenek belirleme sürecinde kritik bir rol oynar. Antrenörler ise sporcunun yeteneklerinin teknik ve taktik becerilere dönüşmesini sağlayan uzman kişilerdir; yetenek seçimi sürecinin temel seçim, ön seçim ve son seçim aşamalarının her birinde farklı uzmanlık düzeyine sahip antrenörlere ihtiyaç vardır ve karşılıklı güven ve saygıya dayalı sporcu-antrenör ilişkisi elit sporcu olma yolunda önemli bir katkı sağlar. Okul, yönetim, spor çevresi ve yaşanılan coğrafya (iklim, yükselti, konum, yer şekilleri) gibi diğer çevresel unsurlar da bu süreçte birbirleriyle ilişkili biçimde etkili olur."
+            "heading": "Çevresel Faktörler",
+            "emoji": "🌍",
+            "bullets": [
+              "**Çevresel faktörler** -aile, eğitim-sosyal çevre, coğrafya, spor tesisleri- yetenek gelişim programlarının temelini oluşturur ve genetik yatkınlığın aksine kısmen değiştirilebilir.",
+              "**Aile**, çocuğun spora katılımını, branş seçimini ve performansını en çok etkileyen faktörlerden biridir; ama aşırı başarı beklentisi stres ve kaygıya yol açabilir.",
+              "**Öğretmenler**, özellikle okul öncesi ve ilkokulda çocuğun temel motorik becerilerini kazanmasını sağlar; beden eğitimi öğretmeninin yeterliliği yetenek belirlemede kritiktir.",
+              "**Antrenörler**, sporcunun yeteneğini teknik ve taktik beceriye dönüştürür; **temel seçim, ön seçim ve son seçim** aşamalarının her birinde farklı uzmanlık gerekir.",
+              "Karşılıklı güven ve saygıya dayalı **sporcu-antrenör ilişkisi**, elit sporcu olma yolunda önemli bir katkı sağlar.",
+              "Okul, yönetim, spor çevresi ve yaşanılan coğrafya (iklim, yükselti, konum, yer şekilleri) de birbiriyle ilişkili biçimde etkili olur."
             ]
           }
         ],
@@ -8982,46 +9189,67 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Spor Teriminin ve Sportif Hareketin Kökeni",
-            "paragraphs": [
-              "Bugün kullandığımız 'spor' terimi, sportif uygulamaların tarihsel derinliğine göre oldukça yeni bir kelimedir; ilk formları Ortaçağ'a dayanır. Bundan önceki dönemlerde farklı kültürler kendi kavramlarını kullanmıştır: Antik Yunan'da yarışmacıya 'athletes' (athlos/agon kökünden, 'acı çeken, zahmet çeken' anlamındaki athlios fiilinden gelir), spor eğitmenine 'gymnastes' denirken, Eski Roma'da askeri talim ve alıştırmaları ifade eden 'egzersiz' (ve oyun/eğlence anlamında 'ludus') kullanılmıştır. Eski Türkçede ise spor karşılığı en eski iki terim 'oyun' ve 'yarış'tır; bunlara sonradan İslam coğrafyasından giren 'idman', 1847'de Risale-i Cimnastik kitabıyla dilimize giren 'cimnastik' ve meşrutiyet döneminde kullanılan 'terbiye-i bedeniye/beden terbiyesi' eklenmiştir. Türkçede 'spor' kelimesinin ilk kullanımı 1895'te İkdam gazetesinde yayımlanan 'Sport' başlıklı yazıyla olmuştur.",
-              "'Spor' sözcüğünün kökeni bir denizci argosuna dayanır: Akdenizli denizcilerin limanda (port) geçirdikleri keyifli yaşam, denizdeki zorluklara karşıt olarak 'de portu' (limanda olmak) diye anılmıştır. De portu; sohbet, tartışma, aylak dolaşma, dövüş, güç gösterisi, beceri oyunları ve yarışmalar gibi boş zamanda yapılan her türlü etkinliği kapsar. Bu kelime Orta Latincede 'disportare/deportare' (eğlenme, oyalanma), Eski Fransızcada 'desport', İngilizcede önce 'to disport' sonra 'sport' biçimine evrilmiştir. 19. yüzyıl ortalarından itibaren önce İngiltere'de, ardından tüm dünyada spor; rekabet yönelimli, yüksek performans ve rekor hedefli, bağlayıcı kurallı ve kazanç güdülmeksizin (amatörce) yapılan fiziksel aktivitelerin genel adı haline gelmiştir.",
-              "Sportif hareketin kökeni konusunda iki temel yaklaşım vardır. İdealist tarih görüşüne göre ilk sportif egzersizler zorunlu gereksinimlerden değil, zihnin yaratıcı zenginliğinden kaynaklanan büyüsel-ayinsel danslardır; kanıt olarak avcı-toplayıcı toplulukların mağara resimlerindeki av büyüsü sahneleri gösterilir. Materyalist tarih anlayışına göre ise sportif egzersiz, 'belirli bir hareket formunun veya kombinasyonunun, uygulama öncesi bilinçli olarak tasarlanmış bir amaç doğrultusunda tekrarlanmasıdır' ve bu, iş/üretim sürecinden, özellikle alet kullanımından doğmuştur. Bu görüşe göre isabet kaydı için önceden 'antrenman' gerektiren mızrak/cirit atma ve bumerang atma gibi alıştırmalar, sporun önceli sayılabilecek en eski bilinçli fiziksel faaliyetlerdir; çünkü bumerangın her atışta farklı bir eğri çizmesi, kullanıcının önceden özenli bir alıştırma ve deneme evresine ihtiyaç duymasını gerektirmiştir."
+            "heading": "Sporun Kökeni: Kelimeden Anlama",
+            "emoji": "📜",
+            "bullets": [
+              "\"Spor\" çok yeni bir kelime; Antik Yunan'da yarışmacıya **athletes**, eğitmene **gymnastes** denirdi, Roma'da ise **egzersiz** ve **ludus** (oyun) kullanılırdı.",
+              "Eski Türkçede en eski karşılıklar **oyun** ve **yarış**tı; sonradan **idman**, **cimnastik** (1847) ve **beden terbiyesi** eklendi.",
+              "Türkçede \"spor\" kelimesi ilk kez 1895'te **İkdam gazetesi**ndeki bir yazıyla kullanıldı.",
+              "Kelimenin kökü bir denizci argosu: Akdenizli denizcilerin limanda geçirdiği keyifli yaşamı anlatan **\"de portu\"** (limanda olmak) sözü.",
+              "Bu kelime sırayla **disportare/deportare** → Eski Fransızca **desport** → İngilizce **to disport** → **sport** biçimine evrildi.",
+              "19. yüzyıl ortasından itibaren spor; rekabetçi, yüksek performanslı, rekor hedefli, kurallı ve amatörce yapılan etkinlikler için kullanılan genel ad oldu.",
+              "Kökeni için iki görüş var: **İdealist görüş** büyüsel-ayinsel danslara bağlar, **Materyalist görüş** ise alet kullanımına; örnek olarak isabet için önceden alıştırma gerektiren **bumerang atma** gösterilir."
             ]
           },
           {
-            "heading": "Antik Çağ'da Beden Eğitimi, Spor ve Olimpiyat Oyunları",
-            "paragraphs": [
-              "Antik Yunan'da eğitimin hedefi, insanın fiziksel-zihinsel-ahlaksal mükemmeliyetini ifade eden 'kalokagathia' (kalos=güzel, agathos=iyi) idealiydi. Spor ve olimpiyat tarihi, kabul gören dönemlendirmeye göre Girit-Miken (MÖ 1600-1200), Arkaik (MÖ 800-500), Klasik (MÖ 500-300) ve Helenistik-Roma (MÖ 336-MS 500) dönemleri içinde incelenir. Girit-Miken döneminde yönetim aristokratikti; ideal insan tipi 'başarılarıyla şan ve şöhret kazanmış kahraman'dı ve spor disiplinleri savaşçılık ile avcılık kökenliydi (araba yarışları, koşu, silahlı koşu, güreş, boks, okçuluk).",
-              "Arkaik Çağ'da (MÖ 776'dan itibaren) antik olimpiyat oyunlarının sayımı başlamış ve şampiyon adları kayda geçmiştir. Dönemin değerler sistemi savaşçı nitelikleri (cesaret, kararlılık, kuvvet, çabukluk, beceriklilik = agathos) ve estetik nitelikleri (erkekte fiziksel güzellik = kalon) birleştiren 'kalokagathos' idealini öne çıkarıyordu. Panhelenik oyunlar arasında en önemlisi Zeus adına Olimpiya'da düzenlenen Olimpiyat Oyunları'ydı (ayrıca Delphi'de Pythia/Apollon, Korinth'te İsthmia/Poseidon, Nemea'da Nemea Oyunları/Zeus bulunurdu). Antik Olimpiyat Oyunları'nın katılım kriterleri şöyleydi: dört yıllık periyotla düzenlenirdi; organizatör ve tarafsız hakemler Elis halkından seçilirdi; yarışmalar dinsel festivallerin bir parçası, tanrılara sunulan bir adaktı; katılım hakkı sadece hür Yunanlılara aitti ve ilk iki yüzyıl zorunlu olarak soylularla sınırlıydı; evli kadınların aktif ve pasif katılımı dinsel nedenlerle yasaktı; oyunlar süresince Kutsal Barış (Ekecheiria) ile silah bırakışması garanti edilirdi. Sadece kadınlara açık olan Hera adına düzenlenen Heraia oyunları ise ayrıca vardı.",
-              "Klasik Çağ'da Atina'nın demokratikleşmesiyle 'iyi insan' (agathos) kavramı sosyal davranış ve bilgeliği de kapsamış, 7-18 yaş erkek çocuklar için temel dersler, müzik ve cimnastikten oluşan bir okul sistemi geliştirilmiştir (Sparta dışında kız çocukları bu sisteme dahil değildi). Eğitim ve antrenmanlar küçük tesislerde (palestra) veya koşu pisti, top alanı ve banyo odaları içeren büyük tesislerde (gymnasium) yapılırdı; sadece yarışma amaçlı kullanılan yapılar ise stadium ve hipodromdu. Antik Olimpiyat disiplinleri sırasıyla programa girmiştir: koşular (stadium koşusu MÖ 776, diaulos MÖ 724, dolichos MÖ 720, hoplitodromos silahlı koşu MÖ 580), güreş (pale, MÖ 708, rakibi üç kez yere düşürmeyi esas alır), boks (pygme, MÖ 688, sıklet ayrımı ve raund yoktu), pankrasyon (MÖ 648, güreş+boks+tekme karışımı, yerde de sürdürülebilirdi), pentatlon (MÖ 708: disk atma, uzun atlama, cirit atma, koşu, güreş) ve atlı araba/at yarışları (hipodromda, MÖ 680 ve MÖ 648).",
-              "Helenistik ve Helen-Roma dönemlerinde Büyük İskender'le Yunan vücut kültürü dünyaya yayılsa da 'sağlığa yönelik beden eğitimi' anlayışı hakim olunca yarışmacı cimnastik ihmal edilip sadece meslek sporcularının uğraşısı haline geldi; kutsal olimpiyat yarışmaları da tamamen gösteri müsabakalarına dönüştü. Roma'nın Yunanistan'ı ilhakı (MÖ 148) ile Yunan dinsel-düşünsel dünyası çöktü, olimpik düşünce özünü kaybetti; son düzenli oyunların MS 261'de yapıldığı, son şampiyonun MS 385'te boksta zafer kazanan Pers Varazdates olduğu düşünülmektedir. Hıristiyanlığı MS 380'de devlet dini kabul eden Roma İmparatoru I. Theodosius, putperest sayılan olimpiyat oyunlarını MS 393'te yasaklamış, 293 oyun düzenlenmiş olan Olimpiya'nın kapıları 1170 yıl boyunca kapanmıştır."
+            "heading": "Antik Çağ'da Spor ve Olimpiyat Oyunları",
+            "emoji": "🏺",
+            "bullets": [
+              "Antik Yunan eğitiminin hedefi **kalokagathia** idi: bedensel, zihinsel ve ahlaki mükemmellik.",
+              "Tarih dört döneme ayrılır: **Girit-Miken** (MÖ 1600-1200), **Arkaik** (MÖ 800-500), **Klasik** (MÖ 500-300), **Helenistik-Roma** (MÖ 336-MS 500).",
+              "Olimpiyat Oyunları'nın resmi sayımı **Arkaik Çağ**'da, MÖ 776'da başladı ve şampiyon adları kayda geçti.",
+              "Oyunlar Zeus adına düzenlenirdi; organizatör ve tarafsız hakemler **Elis halkı**ndan seçilirdi.",
+              "Katılım kuralları: dört yılda bir yapılırdı, sadece hür Yunanlılara açıktı, ilk iki yüzyıl sadece **soylular**la sınırlıydı, **evli kadınlar**ın katılımı yasaktı, oyunlar süresince **Kutsal Barış (Ekecheiria)** ile ateşkes ilan edilirdi.",
+              "Disiplinler zamanla programa girdi: koşular, **güreş** (MÖ 708), **boks/pygme** (MÖ 688), **pankrasyon** (MÖ 648), **pentatlon**, atlı araba yarışları.",
+              "Roma'nın Yunanistan'ı ilhakıyla (MÖ 148) oyunlar zayıfladı; Hıristiyanlığı MS 380'de devlet dini ilan eden **İmparator I. Theodosius**, putperest saydığı oyunları **MS 393**'te yasakladı."
             ]
           },
           {
-            "heading": "Yeni Çağ'da Beden Eğitimi ve Öncüleri",
-            "paragraphs": [
-              "Hristiyanlığın MS 380'de Roma'da devlet dini kabul edilmesiyle hakim olan skolastik düşünce, bedene özen göstermeyi 'şeytan işi' sayarak beden faaliyetlerini okul içi ve dışında ortadan kaldırmıştır. Yüksek Ortaçağ'da (1000-1300) beden faaliyetleri yalnızca Hristiyanlığın koruyucusu kabul edilen şövalyeler tarafından uygulanmıştır; şövalyelerin ustalık düzeyinde bilmesi gereken 7 beceriden çoğu (ata binme, yüzme, ok atma, ip/sırığa tırmanma, güreşme, kılıç kullanma, mızrak dövüşü) bedensel nitelikteydi.",
-              "Rönesans'ın (yeniden doğuş) ayrılmaz parçası Hümanizm, her yönüyle gelişmiş insanı eğitim ideali olarak benimsemiş ve Klasik Çağ'dan ilham alarak okul beden eğitimi fikrini yeniden uyandırmıştır. İlk beden eğitimi öğretmeni sayılan Vittorino Feltre ruh-beden dengesini esas almış; Hieronymus Mercurialis 1569'da yayımladığı 'De Arte Gymnastica' adlı eserde cimnastiği tıbbi, askeri ve atletik olmak üzere üçe ayırmış; Petrus Faber 1592'de yazdığı 'Agonisticon'da antik olimpiyatlardan bahsetmiştir. Erasmus, Luther, Rabelais, Juan Luis Vives ve Jan Amos Komensky gibi hümanistler de fiziksel eğitimin ve oyunun önemine dikkat çekmiştir.",
-              "Aydınlanma döneminde (17. yüzyılın ikinci yarısı - 19. yüzyıl başı) John Locke, sağlıklı bir bedenin sağlıklı bir akıl için zorunlu olduğunu savunmuş ve yüzmeyi, açık hava aktivitelerini önermiştir. Jean Jacques Rousseau 'Emile' adlı eserinde beden eğitimi için teorik temeli atmış ('çocuğun çocuk olarak keşfi'); Pestalozzi bu fikirleri 'basitten karmaşığa' ilerleyen 'basamaklama' metoduyla uygulamaya taşımış, cimnastiğin fiziksel olduğu kadar zihinsel-ruhsal-estetik-ahlaki gelişime de katkı sağladığını belirtmiştir.",
-              "Vücut ve ruhun dengeli eğitimi düşüncesini eyleme geçirenler Alman philanthroplar olmuştur. Basedow 1774'te kurduğu Dessau Philantropinum'unda günde beş saati beden eğitimine ayırmış; öğretmeni Johann Friedrich Simon öğrencilerine 'Yunan jimnastiği' (koşu, güreş, tırmanma, atma, atlama) öğretmiştir. Salzmann 1785'te Schnepfenthal Philantropinumu'nu açmış; Rousseau'yu örnek alan GutsMuths ise 1793'te yayımladığı 'Gençler için Cimnastik' adlı eserle jimnastiğe sistematik bir form vermiş ve 19. yüzyılda ortaya çıkacak Alman ve İsveç cimnastik akımlarının öncülerine ilham kaynağı olmuştur."
+            "heading": "Yeni Çağ'da Beden Eğitiminin Öncüleri",
+            "emoji": "📚",
+            "bullets": [
+              "Hıristiyanlık MS 380'de Roma'nın devlet dini olunca, skolastik düşünce beden faaliyetlerini \"şeytan işi\" sayıp okullardan kaldırdı.",
+              "Yüksek Ortaçağ'da (1000-1300) beden faaliyetlerini yalnızca Hıristiyanlığın koruyucusu kabul edilen **şövalyeler** yapardı; ustalık için gereken 7 beceriden çoğu bedenseldi: ata binme, yüzme, ok atma, tırmanma, güreşme, kılıç ve mızrak kullanma.",
+              "Rönesans'ın **Hümanizm** akımı, Klasik Çağ'dan ilhamla okul beden eğitimini yeniden canlandırdı; **Vittorino Feltre** ilk beden eğitimi öğretmeni sayılır.",
+              "**Hieronymus Mercurialis** 1569'da \"De Arte Gymnastica\"da cimnastiği tıbbi, askeri ve atletik olarak üçe ayırdı; **Petrus Faber** 1592'de \"Agonisticon\"da antik olimpiyatlardan bahsetti.",
+              "Aydınlanma'da **John Locke** sağlıklı beden-akıl ilişkisini savundu; **Rousseau** \"Emile\" ile beden eğitiminin teorik temelini attı; **Pestalozzi** bunu \"basitten karmaşığa\" yöntemiyle uyguladı.",
+              "Alman philanthroplar fikirleri pratiğe döktü: **Basedow** 1774'te Dessau Philantropinum'unu kurdu, **GutsMuths** 1793'te \"Gençler için Cimnastik\" ile jimnastiğe sistematik bir form verdi."
             ]
           },
           {
-            "heading": "Yakın Çağ'da Cimnastik Akımları ve Modern Sporun Doğuşu",
-            "paragraphs": [
-              "19. yüzyıl başında Avrupa'da ortaya çıkan iki ana cimnastik akımının hedefi ülke savunması ve toplumun beden eğitimi yoluyla ayağa kaldırılmasıydı, ancak farklı yönlerde gelişmişlerdir. Alman Jimnastiği'nin (Turnen) kurucusu Friedrich Ludwig Jahn, Napolyon işgaline karşı milliyetçi tepkiyle 1811'de ilk açık hava cimnastik alanı Turnplatz'ı kurmuş; amacı cimnastik yoluyla fiziksel, zihinsel ve ahlaki olarak güçlü, vatansever bir insan yetiştirmekti. Hareketler duruş, yürüyüş, koşu, aletli/aletsiz sıçrama-atlama-tırmanma-denge-atma egzersizlerinden oluşuyordu; hemen hemen tamamı alet yardımıyla yapıldığından kitlesel ve okul beden eğitimi için uygun değildi; günümüzdeki karşılığı artistik/aletli cimnastiktir.",
-              "İsveç Jimnastiği'nin kurucusu Pehr Henrik Ling, 1813'te Stockholm'de Kraliyet Merkez Cimnastik Enstitüsü'nü kurmuş ve jimnastiği pedagojik, tıbbi, askeri ve estetik olmak üzere dört bölüme ayırmıştır (akrobatik cimnastik bu sınıflamada yer almaz). Çalışmaların çoğu aletsiz yapılır, aletler sadece yardımcı araçtır; her yaş-cinsiyet-sağlık durumundan insana, bireysel ya da kitlesel olarak uygulanabilmesi, bilimsel dayanakları ve ekonomikliği sayesinde 19. yüzyıl sonunda Alman jimnastiğinin önüne geçerek dünya çapında yaygınlaşmıştır.",
-              "Modern sporun temel prensipleri -performans, rekabet ve rekor prensibi- 18-19. yüzyıllarda İngiltere'de, aydınlanmanın rasyonel düşüncesi ve endüstriyel toplum düzeninden doğmuştur (Allen Guttmann bunları laiklik, fırsat eşitliği, uzmanlaşma, rasyonelleşme, bürokratikleşme, sayısallaştırma ve rekor arayışı olarak detaylandırmıştır). Modern sporun İngiltere'de doğmasının toplumsal ön şartları: İngiliz Püritenizmi'nin çalışkanlık-başarı vurgusu, İngilizlerin bahis tutkusu ve soyluların yarışma hamiliği, mülkiyeti ilk doğan erkeğe veren Primogenitur yasasının soylu-orta sınıf geçişini yumuşatması, kuvvetler ayrılığına dayalı İngiliz parlamenter sistemi ve geleneksel halk okulları ile 17. yüzyılda ortaya çıkan İngiliz kulüp sistemidir (coğrafi genişlik bu etkenler arasında sayılmaz).",
-              "Günümüzdeki modern spor anlayışını tetikleyen asıl değişim Endüstri Devrimi'dir: şehirleşme, sanayileşme ve kitlesel iletişim; 'ücretli işçi' sınıfının ortaya çıkışı ve azalan mesai saatleriyle ortak boş zamanın doğuşu sporun yaygınlaşmasını hızlandırmıştır. Rugby Koleji direktörü Thomas Arnold, okul sporlarını öğrencilere sorumluluk ve karakter kazandırmanın aracı yapmış; bunun en tanınmış örneği 1829'da başlayıp 1856'dan beri her yıl düzenlenen Oxford-Cambridge kürek yarışıdır. 1863'te Futbol Birliği, 1871'de Rugby Birliği kurulmuş, 1880'de Amatör Atletizm Birliği oluşturulmuştur; sporcular teknik kurallara ek olarak centilmenliğe dayalı 'fair play' kurallarına da uymak zorundaydı."
+            "heading": "Cimnastik Akımları ve Modern Sporun Doğuşu",
+            "emoji": "🤸",
+            "bullets": [
+              "**Alman Jimnastiği (Turnen)**'nin kurucusu **Friedrich Ludwig Jahn**, 1811'de ilk açık hava cimnastik alanı Turnplatz'ı kurdu; amacı güçlü, vatansever bireyler yetiştirmekti. Çoğu alet yardımıyla yapılırdı; bugünkü karşılığı artistik cimnastiktir.",
+              "**İsveç Jimnastiği**'nin kurucusu **Pehr Henrik Ling**, 1813'te Stockholm'de Kraliyet Merkez Enstitüsü'nü kurdu ve jimnastiği dört bölüme ayırdı: **pedagojik, tıbbi, askeri, estetik** (akrobatik cimnastik bu sınıflamada yok).",
+              "İsveç jimnastiği büyük ölçüde aletsiz, bilimsel ve ekonomik olduğundan 19. yüzyıl sonunda Alman jimnastiğinin önüne geçip dünyaya yayıldı.",
+              "Modern sporun temel prensipleri -**rekabet, yüksek performans, rekor hedefi, bağlayıcı kurallar, amatörce (kazanç güdüsüz) yapılma**- 18-19. yüzyılda İngiltere'de doğdu.",
+              "Bu doğuşun toplumsal sebepleri: **İngiliz Püritenizmi**, **bahis tutkusu**, **Primogenitur yasası** (mülk ilk oğula kalır), **parlamenter sistem** ve **kulüp sistemi/halk okulları** — coğrafi genişlik bir sebep değildi.",
+              "**Endüstri Devrimi** ile şehirleşme, ücretli işçi sınıfı ve artan boş zaman sporu hızla yaygınlaştırdı; **Thomas Arnold** okul sporunu karakter eğitimi aracı yaptı (örnek: 1829'dan beri süren Oxford-Cambridge kürek yarışı).",
+              "1863'te Futbol Birliği, 1871'de Rugby Birliği, 1880'de Amatör Atletizm Birliği kuruldu; sporcular teknik kurallara ek olarak \"fair play\" ilkesine de uymak zorundaydı."
             ]
           },
           {
             "heading": "Modern Olimpiyatların Kuruluşu",
-            "paragraphs": [
-              "Antik Olimpiyat Oyunları'nın yeniden canlandırılması Rönesans'tan 19. yüzyıla uzanan altı temel faktörden etkilenmiştir: (1) Rönesans'ta antik olimpiyatlardan bahseden eserlerin (Dion Chrysostomos'un 'Söylevler'i, Pausanias'ın 'Yunanistan'ın Tasviri') bulunuşu; (2) Mercurialis'in 'De Arte Gymnastica' ve Faber'in 'Agonisticon' gibi eserlerin yarattığı farkındalık; (3) İngiltere'deki Cotswold Olimpick Games (1612) ve Much Wenlock Oyunları (1850) gibi yerel olimpiyat denemeleri; (4) Voltaire ve Rousseau gibi Aydınlanma seçkinlerinin artan ilgisi; (5) Olimpia'nın 1829'dan (Fransızlar) ve 1875'ten (Almanlar, sistematik kazılar) itibaren arkeolojik olarak ortaya çıkarılması; (6) İngiltere'de sporun, Thomas Arnold öncülüğünde okul eğitiminde ahlak ve karakter gelişimi için kullanılması.",
-              "Oyunların kurucusu Baron Pierre de Coubertin (1863-1937), Klasik Atina eğitim sisteminden ve İngiliz okul sporu modelinden etkilenmiş; başlangıçta hedefi olimpiyatları canlandırmak değil Fransız eğitim sistemini reforme etmekti. Almanların Olimpia kazı raporlarından ilham alarak 25 Kasım 1892'de olimpiyatların yeniden canlandırılması teklifini sunmuş, 23 Haziran 1894'te Uluslararası Olimpiyat Komitesi'nin (IOC) kurulmasını sağlamıştır. Kabul edilen statüye göre oyunlar dört yılda bir düzenlenecek, eskrim hariç sadece amatör sporcular katılabilecekti (eskrim öğretmenleri profesyonel sayılsa da 'centilmen' kabul edildiğinden istisna tutulmuştur); oyunlar evrensel olacak, din-dil-ırk ayrımı yapılmayacak ve politik etkinliklere yer verilmeyecekti. İlk modern oyunlar 1896'da Atina'da gerçekleştirilmiştir.",
-              "Coubertin'in olimpizmi bir barış hareketi olarak tanımlaması ve sporla insanlığı yenileme hedefi, başlangıçtan beri iki önemli sorunla gerilim yaşamıştır: kadın sporcuların katılımının Coubertin tarafından engellenmesi (ancak ikinci oyunlardan itibaren iki branşta kadın katılımı başlamış ve zamanla artmıştır) ve amatörlük tartışmaları (20. yüzyıl sonunda tamamen ortadan kalkmıştır). 1900 Paris, 1904 St. Louis ve 1908 Londra oyunları organizasyonel sorunlar yaşasa da, 1912'de İsveçlilerin Stockholm'de gerçekleştirdiği başarılı organizasyon oyunların sürekliliğini garanti altına almıştır."
+            "emoji": "🔥",
+            "bullets": [
+              "Antik oyunların canlanmasını altı etken hazırladı: eski eserlerin bulunuşu, Mercurialis/Faber gibi yazarların farkındalığı, İngiltere'deki yerel denemeler (**Cotswold Olimpick Games** 1612, **Much Wenlock** 1850), Aydınlanma ilgisi, **Olimpia'nın arkeolojik kazıları** (1829, 1875) ve İngiliz okul sporu modeli.",
+              "Oyunların kurucusu **Baron Pierre de Coubertin** (1863-1937)'in asıl hedefi Fransız eğitim sistemini reforme etmekti; Alman kazı raporlarından ilham aldı.",
+              "25 Kasım 1892'de canlandırma teklifini sundu, 23 Haziran 1894'te **Uluslararası Olimpiyat Komitesi (IOC)** kuruldu.",
+              "Kabul edilen kurallara göre oyunlar 4 yılda bir yapılacak, sadece amatörler katılacaktı — tek istisna **eskrim**, çünkü eskrim ustaları profesyonel olsa da \"centilmen\" sayılıyordu.",
+              "Oyunlar din, dil, ırk ayrımı yapmayacak, politikaya yer vermeyecekti; ilk modern oyunlar **1896'da Atina**'da yapıldı.",
+              "Coubertin başlangıçta **kadın sporcuların katılımına karşı çıktı**; ikinci oyunlardan itibaren kadın katılımı başladı ve zamanla arttı.",
+              "1900, 1904 ve 1908 oyunları organizasyonel sorunlar yaşadı; 1912 **Stockholm** oyunlarının başarısı oyunların sürekliliğini garantiledi."
             ]
           }
         ],
@@ -9251,108 +9479,158 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Giriş: Toplumsal Bir Kurum Olarak Spor",
-            "paragraphs": [
-              "Spor, insanlık tarihi kadar eski bir toplumsal kurumdur ve içinde yaşadığımız kültürle yakından bağlantılıdır. Dünyanın en kitlesel ve heyecan verici etkinliklerinden biri olan spor; ekonomi, siyaset, medya ve sosyalizasyon süreçleriyle iç içe geçmiş, toplumsal yaşamın küçük bir minyatürü sayılabilecek bir toplumsal olgudur.",
-              "Sosyalleşme (toplumsallaşma) sürecinde birey, yaşadığı toplumun kültürünü öğrenir; spor bu süreçte özellikle çocukların gelişiminde çok önemli bir araçtır. Çocuklar, spor sayesinde kurallara uymayı, disiplini, mücadele etmeyi, birlikte hareket etmeyi ve rakibe saygı göstermeyi öğrenirler. Sporun sosyalleşmeye katkısı başta aile olmak üzere okul, arkadaş grubu ve medya aracılığıyla gerçekleşir.",
-              "Toplumsal hayatı şekillendiren temel olgulardan biri olan toplumsal cinsiyet de spor sosyolojisinin önemli konularından biridir; toplumun kadına ve erkeğe biçtiği roller ve kalıp yargılar, kadın ve erkeğin spora katılımını yakından etkilemektedir."
+            "heading": "Spor Neden Bir Toplumsal Kurum?",
+            "emoji": "🏟️",
+            "bullets": [
+              "Spor, insanlık tarihi kadar eski bir **toplumsal kurum**dur; ekonomi, siyaset ve medya ile iç içedir.",
+              "**Sosyalleşme** sürecinde birey toplumun kültürünü öğrenir; spor bu süreçte çocuklar için çok güçlü bir araçtır.",
+              "Çocuklar spor sayesinde kurallara uymayı, disiplini ve rakibe saygıyı öğrenir.",
+              "Bu sosyalleşme başta aile olmak üzere okul, arkadaş grubu ve medya aracılığıyla gerçekleşir.",
+              "**Toplumsal cinsiyet** de spor sosyolojisinin önemli konularından biridir; toplumun kadın-erkeğe biçtiği roller spora katılımı etkiler."
             ]
           },
           {
-            "heading": "Toplumsal Bir Olgu Olarak Spor",
-            "paragraphs": [
-              "John Loy'un geliştirdiği modele göre (Şekil 2.1), spor dört farklı noktadan birbiriyle bağlantılı bir bütün oluşturur: örgüt olarak spor, yarışma olarak spor, toplumsal sistem olarak spor ve toplumsal kurum olarak spor. Bu dört görünüm aynı zamanda teknoloji, çevre ve sosyalleşme kavramlarıyla da karşılıklı etkileşim içindedir; örneğin teknoloji sayesinde sporun yayılımı kolaylaşmakta ve yeni uygulamalar (VAR, gol çizgisi teknolojisi gibi) hızla sporun içinde karşılık bulmaktadır.",
-              "Sporu sosyolojik olarak incelemek için bazı temel kavramları bilmek gerekir. Toplumsal olay, toplum içinde başlangıç ve bitiş noktası belli olan, somut ve tekil bir olaydır (örneğin belirli bir futbol karşılaşması). Toplumsal olgu ise başlangıç-bitiş süresi ve yeri kesin olarak belirlenemeyen, süreç içinde ortaya çıkan daha genel bir gelişmedir (spor kurumunun kendisi bir toplumsal olgudur).",
-              "Toplumsal rol, belirli bir sosyal mevkii işgal eden kişinin o mevkiye özgü eylem, davranış ve tutumları yerine getirmesidir; toplumsal statü ise bireyin toplumsal hiyerarşi içindeki konumunu ve bu konuma toplum tarafından yüklenen onur ya da saygınlığı ifade eder. Şöhretli sporcuların toplumsal statüsünün yükselmesi, hayatlarının kamuoyu tarafından daha fazla izlenmesine ve yaşanan olumsuzlukların (örneğin doping vakalarının) daha büyük tepki görmesine yol açar.",
-              "Toplumsal hareketlilik, bireylerin farklı fiziksel mekanlar ve toplumsal statüler arasındaki geçişini ifade eder. Statüde ve gelirde büyük bir değişiklik olmadan gerçekleşen hareketlilik yatay hareketliliktir (örneğin bir memurun başka bir şehre tayin olması); pozisyon, gelir, statü ve yaşam tarzında önemli değişiklikler yaratan hareketlilik ise dikey hareketliliktir (örneğin amatör bir sporcunun profesyonel bir kulübe transfer olması). Elit spor, sporcular için dikey hareketlilik olanağı sunabilmektedir."
+            "heading": "Spor: Dört Yüzü Olan Bir Olgu",
+            "emoji": "🔄",
+            "bullets": [
+              "**John Loy**'un modeline göre spor dört noktada birleşir: **örgüt**, **yarışma**, **toplumsal sistem** ve **toplumsal kurum** olarak spor.",
+              "Bu dört görünüm teknoloji, çevre ve sosyalleşmeyle de etkileşir (örn. VAR gibi teknolojiler).",
+              "**Toplumsal olay**: başı-sonu belli, somut ve tekil bir olaydır (örn. tek bir futbol maçı).",
+              "**Toplumsal olgu**: süresi ve yeri kesin belirlenemeyen, daha genel bir gelişmedir (sporun kendisi gibi).",
+              "**Toplumsal rol**, bir mevkiye özgü davranışlardır; **toplumsal statü** ise bireyin hiyerarşideki konumu ve saygınlığıdır.",
+              "**Toplumsal hareketlilik** yatay (statü değişmeden, örn. şehir tayini) ya da dikey (büyük statü sıçraması, örn. amatörden profesyonelliğe geçiş) olabilir."
             ]
           },
           {
-            "heading": "Sporun Toplumsal İşlevleri",
-            "paragraphs": [
-              "Wilkerson ve Dodder'ın belirttiği gibi (Tablo 2.1), sporun altı temel sosyal işlevi vardır. Duygusal boşalma işlevi, sporu yapmanın duyguların boşalmasına ve stresin azalmasına olanak sağlaması; bir güvenlik sübabı olarak saldırganlık eğilimlerini geriletmesidir. Kimliğin teyidi, spora kişinin tanınma ve kişisel niteliklerini dışa vurma fırsatı yaratmasıdır. Sosyal kontrol, sporun kişileri içine alarak üzerlerinde bir kontrol sağlama imkanı tanımasıdır.",
-              "Sosyalleşme işlevi, sporcuların sosyal bir yapı içinde var olmalarına hizmet etmesidir. Değişim organı işlevi, sporun tarihsel değişimlere kadar varabilen sosyal değişim ve yeni davranış biçimleri üretilmesine yol açmasıdır. Kolektif bilinç işlevi, ortak amaçlar etrafında toplanılan bir topluluk ruhu yaratmasıdır; başarı işlevi ise hem sporcunun hem de özdeşleştiği takımın hedefine ulaşmasının bir tatmin ve başarı duygusu vermesidir.",
-              "Bu işlevlerin yanı sıra sportif faaliyetlerdeki temas, sosyal ilişkilerin gelişmesini ve yalnızlık hissinin azalmasını sağlayarak toplumsal dayanışmayı güçlendirir; artan iş bölümü ile sosyal bütünleşme arasındaki uyumun sağlanmasında da spor aktif bir ajan olarak görev yapar."
+            "heading": "Sporun 6 Süper Gücü",
+            "emoji": "⚡",
+            "bullets": [
+              "**Wilkerson ve Dodder**'a göre sporun altı temel sosyal işlevi vardır.",
+              "**Duygusal boşalma**: sporu bizzat yapmak (izlemek değil!) stresi azaltır, saldırganlığı güvenli biçimde boşaltır.",
+              "**Kimliğin teyidi**: kişiye tanınma ve kendini ifade etme fırsatı verir.",
+              "**Sosyal kontrol**: insanları spora dahil ederek üzerlerinde bir kontrol sağlar.",
+              "**Sosyalleşme işlevi** sporcuyu sosyal yapıya katar; **değişim organı işlevi** yeni davranış biçimleri üretir.",
+              "**Kolektif bilinç** ortak amaç ruhu yaratır; **başarı işlevi** tatmin ve başarı hissi verir.",
+              "Ayrıca sportif temas sosyal dayanışmayı güçlendirir ve toplumsal bütünleşmeye katkı sağlar."
             ]
           },
           {
-            "heading": "Sporun Diğer Toplumsal Kurumlarla İlişkisi",
-            "paragraphs": [
-              "Spor; aile, eğitim, ekonomi, hukuk, din, medya, siyaset, sağlık, kent/serbest zaman, turizm ve toplumsal cinsiyet gibi pek çok toplumsal kurumla yakından ilişkilidir. Spor-Aile ilişkisinde sosyalleşme sürecinden başlayarak ömür boyu devam eden bir gelişim söz konusudur; çocuklar ebeveynlerinden aldıkları spor kültürünü içselleştirerek toplumsal hayata katılırlar. Spor-Eğitim ilişkisinde beden eğitimi dersleri, çocukların küçük yaşlardan itibaren farklı spor dalları ile tanışmasını sağlar.",
-              "Spor-Ekonomi ilişkisinde spor, bireysel bir tüketim kategorisi haline gelmiş; büyük meblağların dolaşımda olduğu profesyonel spor organizasyonları farklı iş kollarını etkilemektedir. Spor-Medya ilişkisinde sporun toplumsal yaşamdaki rolü arttıkça medyanın da sporla ilgisi artmış ve sporcu şöhretler tüketim endüstrisinin yüzleri olarak reklamlarda yer almıştır. Spor-Siyaset ilişkisinde iktidarlar, tarih boyunca kitleleri etkilemek ve onları sorunlardan uzaklaştırmak amacıyla sporu kullanmışlardır.",
-              "Spor-Sağlık ilişkisinde sporun amacı bireylerin fiziksel ve ruhsal sağlığına katkıda bulunmaktır; düzenli spor hareketsizliğin sebep olduğu hastalıkların görülme sıklığını azaltır. Spor-Hukuk ilişkisinde sportif organizasyonların sağlıklı işleyebilmesi hukuki düzenlemelere bağlıdır (örneğin Bosman kararları ve Uluslararası Spor Tahkim Mahkemesi/CAS). Spor-Din ilişkisinde özellikle Latin Amerika ülkelerinde futbol ile din arasında yoğun bir bağlantı gözlemlenir (stadyumlardaki şapeller, taraftar mezarlıkları gibi).",
-              "Spor-Kent ve Serbest Zaman ilişkisi, Sanayi Devrimi sonrasında kentleşme ile serbest zaman kullanımı arasındaki bağlantıdan doğmuştur. Spor-Turizm ilişkisinde büyük organizasyonlar ve gelenekselleşmiş turnuvalar (Dünya Kupası, Olimpiyatlar gibi) dünyanın her yerinden turist çekmektedir. Spor-Toplumsal Cinsiyet ilişkisinde ise spor, tarih boyunca ataerkil kodların dolaşıma sokulmasına katkıda bulunmuş; kadın sporcular halen erkek sporculardan daha az kazanmaktadır."
+            "heading": "Spor Her Kurumla Bağlantılı",
+            "emoji": "🔗",
+            "bullets": [
+              "Spor; aile, eğitim, ekonomi, hukuk, din, medya, siyaset, sağlık, turizm ve toplumsal cinsiyet gibi kurumlarla iç içedir.",
+              "**Spor-Aile**: çocuklar ailelerinden aldıkları spor kültürünü içselleştirir.",
+              "**Spor-Eğitim**: beden eğitimi dersleri çocukları farklı spor dallarıyla tanıştırır.",
+              "**Spor-Ekonomi ve Medya**: spor büyük bir tüketim ve reklam endüstrisi haline geldi.",
+              "**Spor-Siyaset ve Hukuk**: iktidarlar sporu kitleleri yönlendirmek için kullanır; **Bosman kararları** ve **CAS** gibi düzenlemeler sporun işleyişine yön verir.",
+              "**Spor-Sağlık**: düzenli spor, hareketsizlikten kaynaklanan hastalıkları azaltır.",
+              "**Spor-Turizm ve Toplumsal Cinsiyet**: Dünya Kupası, Olimpiyatlar gibi organizasyonlar turist çeker; kadın sporcular hâlâ erkeklerden daha az kazanır."
             ]
           },
           {
-            "heading": "Toplumsal ve Kültürel Bir Olgu Olarak Spor",
-            "paragraphs": [
-              "Kültür, belli bir topluluğun belli zaman ve koşullarda üretim biçimindeki sosyal kişiliği olarak tanımlanabilir; toplumun düşünce, değer yargı ve inançları bütünüdür. Tayfun Amman'a göre kültürün özellikleri şöyle sıralanabilir: kültür öğrenilir, tarihidir ve süreklidir, sosyaldir, ideal ya da idealleştirilmiş bir kurallar sistemidir, ihtiyaçları karşılar ve doyum sağlar, değişir ve birleştiricidir.",
-              "Spor, içinde yapıldığı toplumdan beslenen ve ortaya çıkardığı değerler aracılığı ile toplumsal hayatı besleyen bir etkinlik türüdür; her toplumun sporu ve spor kültürü, kendi kültürünün bir yansımasıdır. Spor, toplum içerisinde yapılış amaçlarına göre pek çok farklı biçimde karşımıza çıkar: yarışma (verim) sporu, elit spor (yüksek verim sporu), profesyonel spor, okul sporu, sağlık sporu, eğlence sporları, aile sporları, mücadele sporları, engelliler için spor, yaşlılar için spor, fitness, kitle sporu, herkes için spor, rekreasyonel sporlar, macera sporları ve doğa sporları gibi.",
-              "Clarke ve Clarke'a göre spor, toplumsal olarak inşa edilmiş bir aktivitedir; kapsamlı ideolojik tanımlamaları pasif biçimde yansıtmakla kalmaz, bu imajların üretimine de katkıda bulunur. Talimciler'e göre (Şekil 2.2), 'sporun sosyolojisi' (yönetici, spor insanı, sporcu, kulüpler ve devletin spor politikaları ile ilgilenen daha teknik boyut) ile 'sosyolojinin sporu' (toplum, taraftar, medya, ekonomi ve devletin spor ideolojisini içeren boyut), birbirini sürekli etkileyen iki değerler sistemidir."
+            "heading": "Spor, Kültürün Aynasıdır",
+            "emoji": "🎭",
+            "bullets": [
+              "**Kültür**, bir topluluğun belli zaman ve koşullardaki üretim biçimindeki sosyal kişiliğidir; düşünce, değer ve inançlar bütünüdür.",
+              "Kültür öğrenilir, süreklidir, sosyaldir, idealleştirilmiş bir kurallar sistemidir ve ihtiyaçları karşılayıp doyum sağlar.",
+              "**Spor**, içinde yapıldığı toplumdan beslenen ve ortaya çıkardığı değerlerle toplumsal hayatı besleyen bir etkinlik türüdür.",
+              "Spor; yarışma sporu, **elit spor**, profesyonel spor, okul sporu, sağlık sporu, fitness, rekreasyonel spor gibi çok farklı biçimlerde karşımıza çıkar.",
+              "**Clarke ve Clarke**'a göre spor toplumsal olarak inşa edilmiş bir aktivitedir ve ideolojik imgeler üretir.",
+              "**Talimciler**'e göre 'sporun sosyolojisi' (yönetici, sporcu, kulüp boyutu) ile 'sosyolojinin sporu' (toplum, medya, ekonomi boyutu) birbirini sürekli etkiler."
             ]
           },
           {
-            "heading": "Spora İlişkin Kuramsal Yaklaşımlar",
-            "paragraphs": [
-              "Spor sosyolojisinde en yaygın kullanılan üç yaklaşım işlevselci, çatışmacı ve eleştirel yaklaşımlardır. İşlevselci yaklaşıma göre spor, belli kurallara göre yapılan bir uğraşı olması nedeniyle insanlara kurallara uyma alışkanlığı kazandırır ve toplumun ortak değerlerinin yerleşmesine ve gelişmesine katkıda bulunur. Bu bakış açısına göre spor, toplumun olduğu kadar bireylerin de yararlandığı değerli bir sosyal kurumdur; bu nedenle toplumsal düzen ve istikrarı destekleyen, geleneksel değerleri koruyan spor programları geliştirilmeli ve yaygınlaştırılmalıdır.",
-              "Çatışmacı yaklaşım, işlevselci anlayışın tersine spor kurumunu ırk, cinsiyet ve sınıf temelinde inceler ve sporun bu alanlarda olumsuz bir rol oynadığını, halkı var olan sorunlardan uzaklaştıran bir 'afyon' olduğunu ileri sürer. Bambery'ye göre spor, devletlerarası rekabet, kapitalist üretim ve sınıf ilişkileri çerçevesine oturur; sporun itici güçleri olan performans, rekabet ve rekor, kapitalist üretim tarzının bir aynasıdır.",
-              "Eleştirel yaklaşıma göre spor, var olan ideolojinin sürmesine katkıda bulunan mekanizmalardan biridir (Adorno, Horkheimer, Habermas). Eleştirel kuramcılar sporu sosyal bir yapı, kültürün üretildiği ve dönüştürüldüğü bir alan olarak görür ve sporun baskı ve sömürü biçimlerine karşı koymak ve toplumu dönüştürmek için kullanılması gerektiğini savunurlar. Bu üç temel yaklaşımın yanı sıra etkileşimci, feminist ve figürasyon yaklaşımları da kullanılmaktadır. Spor sosyolojisinin en sık başvurulan düşünürlerinden biri Pierre Bourdieu'dur; onun Habitus kavramı, her toplumsal sınıfın kendine özgü sportif 'zevkleri' olduğunu ve sporun bedenin meşru kullanımı üzerinde bir mücadele alanı olduğunu ifade eder."
+            "heading": "Sporu Açıklayan Kuramlar",
+            "emoji": "🧠",
+            "bullets": [
+              "**İşlevselci yaklaşım**: spor kurallara uymayı öğretir, toplumun ortak değerlerini yerleştirir; bu yüzden geleneksel değerleri koruyan spor programları yaygınlaştırılmalıdır.",
+              "**Çatışmacı yaklaşım**: sporu ırk, cinsiyet ve sınıf temelinde eleştirir; halkı sorunlardan uzaklaştıran bir \"afyon\" olarak görür (**Bambery**'ye göre kapitalist üretimin bir aynasıdır).",
+              "**Eleştirel yaklaşım** (Adorno, Horkheimer, Habermas): spor, var olan ideolojinin sürmesine katkıda bulunan bir mekanizmadır, ama toplumu dönüştürmek için de kullanılabilir.",
+              "Bunların yanında **etkileşimci**, **feminist** ve **figürasyon** yaklaşımları da kullanılır.",
+              "**Pierre Bourdieu**'nun **Habitus** kavramı: her toplumsal sınıfın kendine özgü sportif zevkleri vardır; spor, bedenin meşru kullanımı üzerine bir mücadele alanıdır."
             ]
           },
           {
-            "heading": "Spor ve Sosyalleşme",
-            "paragraphs": [
-              "Sosyalleşme, bireyin içinde yaşadığı toplumun kültürünü öğrenme sürecidir; ailede başlar, eğitim kurumu ve çevre ile devam eder ve yaşam boyu sürer. Sosyalleşme, bireylerin toplumsal norm ve değerlere ilişkin bir farkında olma durumuna ulaşmalarını ve bir benlik duygusu edinmelerini sağlar; farklı kuşakları birbirine bağlayarak kültürün sürekliliğini de sağlamış olur.",
-              "Leonard II'nin geliştirdiği modele göre (Şekil 2.3), sporda sosyalleşme süreci iki boyutta ele alınır: spora yönelik sosyalleşme ve spor yoluyla sosyalleşme. Spora yönelik sosyalleşme, bireylerin spora çeşitli sosyalleşme ajanları (aile, arkadaşlar, okul, sosyal çevre, medya) aracılığıyla katılmaya başlamasını ifade eder. Spor yoluyla sosyalleşme ise bireyin spora katılması sonucu kazandığı psikolojik ve sosyal sonuçları (karakter oluşturma, disiplin öğrenme, ahlaki gelişim, iyi vatandaş olma gibi) ifade etmektedir."
+            "heading": "Spor Nasıl Sosyalleştirir?",
+            "emoji": "🤝",
+            "bullets": [
+              "**Sosyalleşme**, bireyin yaşadığı toplumun kültürünü öğrenme sürecidir; ailede başlar, yaşam boyu sürer.",
+              "Bireye norm ve değer bilinci, bir benlik duygusu kazandırır; kuşaklar arasında kültürün sürekliliğini sağlar.",
+              "**Leonard II**'nin modeline göre sporda sosyalleşme iki boyutludur: **spora yönelik sosyalleşme** ve **spor yoluyla sosyalleşme**.",
+              "**Spora yönelik sosyalleşme**: bireyin aile, arkadaş, okul, medya gibi ajanlar aracılığıyla spora katılmaya başlamasıdır.",
+              "**Spor yoluyla sosyalleşme**: spora katılımın getirdiği psikolojik ve sosyal kazanımlardır (karakter, disiplin, ahlaki gelişim, iyi vatandaşlık)."
             ]
           },
           {
-            "heading": "Spora Yönelik Sosyalleşme Ajanları",
-            "paragraphs": [
-              "Aile etkisi: Toplumun en küçük ve en önemli bileşeni olan aile, çocukların toplumsal hayata ilişkin öğrenme süreçlerinin ilk başladığı yerdir. Aile bireylerinin rol model olması, çocuğun sporla bağının kurulmasında hayati önem taşır; aileler sporu bizzat icra etmek kadar izlemek ve tüketmekle de çocuklarına örnek olurlar. Küntay'a göre aile, sosyal dünyayı ve spor dünyasını görmeyi sağlayan ilk birimdir ve çocuğun spora katılıp katılmayacağını belirleyen ilk ve güçlü etkiye sahiptir.",
-              "Arkadaşlar-Sosyal Çevre etkisi: Çocuğun içinde bulunduğu sosyal çevre ve arkadaşlık ilişkileri de spora katılımı etkiler. Akcan ve Bulgu'ya göre ilk çocukluk yıllarında ebeveynlerin doğrudan etkisi, ergenlik dönemi ile birlikte yerini öğretmenlere, antrenörlere ve özellikle akranlara bırakır; bu nedenle arkadaşlar önemli birer sosyal ajan haline gelir.",
-              "Okul etkisi: Okul, beden eğitimi dersleri ve törenler başta olmak üzere öğretmenlerin etkisiyle çocukların spora katılımında yoğun bir role sahiptir. Okul sporunun amacı; dayanışma ve işbirliği duygusunun gelişmesi, kural bilincinin oluşturulması ve paylaşma, hoşgörü, yardımseverlik gibi insani değerlerin spor yoluyla aktarılmasıdır. Okul, arkadaşlar ve medyanın bir araya gelmesi bu etkiyi daha da güçlendirir (örneğin 1980'lerde 'Beyaz Gölge' dizisi sonrası basketbolun mahallelerde yaygınlaşması gibi).",
-              "Medya etkisi: Sporun geniş kitlelere ulaşmasında aracılık eden medya, sosyalleşme ajanı olarak da etkide bulunur. Sporcu şöhretlerin medya aracılığıyla tanınması, sporun cazibesini ve yarattığı çekimi artırır. Medya ve sosyal medya, çocuklar ve gençlerin spora aktif katılımlarının yanı sıra birer spor izleyicisi ve tüketicisi olmalarını sağlayan alt yapıyı oluşturur."
+            "heading": "Spora Kim Yönlendirir?",
+            "emoji": "👨‍👩‍👧‍👦",
+            "bullets": [
+              "**Aile**, çocuğun spora bağının kurulmasında ilk ve en güçlü etkidir; ebeveynler rol model olur.",
+              "**Küntay**'a göre aile, çocuğun spor dünyasını gördüğü ilk birimdir.",
+              "**Arkadaşlar ve Sosyal Çevre**: ergenlikle birlikte ebeveyn etkisinin yerini öğretmen, antrenör ve özellikle akranlar alır.",
+              "**Okul**, beden eğitimi dersleri ve öğretmenler aracılığıyla dayanışma, kural bilinci ve paylaşma değerlerini aktarır.",
+              "**Medya**, sporcu şöhretleri tanıtarak sporun cazibesini artırır, çocukları birer izleyici ve tüketici yapar.",
+              "Spora yönelik sosyalleşmenin dört temel ajanı bunlardır: **aile, arkadaşlar/sosyal çevre, okul ve medya**."
             ]
           },
           {
-            "heading": "Spor Yoluyla Sosyalleşme",
-            "paragraphs": [
-              "Spor yoluyla sosyalleşme, bireyin spora katılması sonucu kazandığı karakter oluşturma, disiplini öğrenme, yaşam mücadelesine hazırlanma, ahlaki gelişim ve iyi bir vatandaş olma gibi sonuçları ifade eder. Ak'a (2017) göre spor ve fiziksel aktiviteler okul çağı çocuklarında akademik başarıyı da artırmaktadır; çünkü spor özünde sistem, disiplin, hedef ve başarı kombinasyonudur.",
-              "Elit sporcular için spor aynı zamanda bir meslektir; düzenli bir hayat, beslenme alışkanlıkları ve disiplinli antrenman süreçleri gerektirir. Sportif etkinlikler rakibe saygıyı, kurallara uymayı ve dürüst mücadele etmeyi öğretir. Fair Play ilkeleri -kurallara saygı göstermek, hakemlere saygı göstermek ve kararlarını kabullenmek, rakibe saygı göstermek, herkese eşit şans tanımak ve duygularını kontrol altında tutmak- sporun ahlaki temelini oluşturur ve bir yaşam biçimi olarak spor sahasının da ötesine geçer.",
-              "Spor yoluyla sosyalleşmenin olumlu etkilerinin yanı sıra, elit düzeyde sporcular açısından birtakım olumsuz etkileri de bulunmaktadır. Sürekli başarı baskısı altında yaşamak, ağır sakatlıklar ve doping gibi maddelerin kullanımına, ayrıca sosyalleşme süreçlerinin bozulmasına yol açabilmektedir."
+            "heading": "Sporun Kazandırdıkları (ve Riskleri)",
+            "emoji": "🏅",
+            "bullets": [
+              "Spor; karakter oluşturma, disiplin, ahlaki gelişim ve iyi bir vatandaş olma gibi kazanımlar sağlar.",
+              "**Ak (2017)**'ya göre spor ve fiziksel aktivite, okul çağı çocuklarında akademik başarıyı da artırır.",
+              "Elit sporcular için spor bir meslektir; disiplinli antrenman ve beslenme alışkanlıkları gerektirir.",
+              "**Fair Play**, bir ideal anlayışı ve bir yüksek kültür ürünüdür; kurallara, hakemlere ve rakibe saygıyı, eşit şans tanımayı ve duygu kontrolünü kapsar.",
+              "Madalyonun diğer yüzü: sürekli başarı baskısı ağır sakatlıklara, **doping** kullanımına ve sosyalleşme bozukluklarına yol açabilir."
             ]
           },
           {
-            "heading": "Toplumsal Cinsiyet ve Spor: Temel Kavramlar",
-            "paragraphs": [
-              "Biyolojik cinsiyet, kadının ve erkeğin biyolojik ve fizyolojik olarak taşıdığı özelliklerdir. Toplumsal cinsiyet ise toplumun kadın ve erkeğe yüklediği belirli roller, sorumluluklar, özellikler ve beklentiler olarak tanımlanır. Toplumsal cinsiyet rolleri, bu farklılıklara dayalı olarak kadından ve erkekten beklenen rol ve sorumlulukları ifade eder; doğal ve sabit değildir, topluma, kültüre ve zamana göre değişebilir (örneğin güreşte Buse Tosun, Evin Demirhan ve Yasemin Adar gibi kadın sporcuların uluslararası başarıları, güreşin biyolojik cinsiyetle ilişkisi olmadığını göstermiştir).",
-              "Toplumsal cinsiyet kalıp yargıları, bireylerin cinsiyetlerine bağlı olarak nasıl görünmeleri, düşünmeleri, hissetmeleri ve davranmaları gerektiğine ilişkin kalıplaşmış yargılar ve beklentilerdir; çocukların sporda kendi potansiyellerini gerçekleştirmelerini engelleyebilir ve olumsuz deneyimler nedeniyle sporu bırakmalarına yol açabilir (örneğin 'güreş, boks gibi spor dalları kadınlara uygun değildir' gibi genellemeler).",
-              "Cinsiyete dayalı ayrımcılık, bir kişinin cinsiyetine bağlı olarak yapılan herhangi bir ayrım, mahrumiyet ve kısıtlamadır (örneğin kadın hakemlerin erkek futbolunda görevlendirilmemesi). Toplumsal cinsiyet eşitliği ise fırsatlara ve kaynaklara erişimde, kullanmada ve kontrol etmede kadının ve erkeğin eşit bir konumda olması, sorumluluk ve rollere eşit değer verilmesidir."
+            "heading": "Cinsiyet mi, Toplumsal Cinsiyet mi?",
+            "emoji": "⚖️",
+            "bullets": [
+              "**Biyolojik cinsiyet**: kadın ve erkeğin taşıdığı biyolojik ve fizyolojik özelliklerdir.",
+              "**Toplumsal cinsiyet**: toplumun kadın ve erkeğe yüklediği roller, sorumluluklar ve beklentilerdir.",
+              "**Toplumsal cinsiyet rolleri** sabit değildir, topluma ve zamana göre değişir (örn. kadın güreşçilerin uluslararası başarıları).",
+              "**Toplumsal cinsiyet kalıp yargıları**: cinsiyete göre nasıl davranılması gerektiğine dair kalıplaşmış beklentilerdir; çocukların sporu bırakmasına yol açabilir.",
+              "**Cinsiyete dayalı ayrımcılık**: cinsiyete bağlı ayrım, mahrumiyet veya kısıtlamadır (örn. kadın hakemlerin erkek futbolunda görevlendirilmemesi).",
+              "**Toplumsal cinsiyet eşitliği**: kadın ve erkeğin fırsat, kaynak ve rollerde eşit değere sahip olmasıdır."
             ]
           },
           {
-            "heading": "Sporda Toplumsal Cinsiyet Eşitliği Alanları",
-            "paragraphs": [
-              "Dünyada sporda toplumsal cinsiyet eşitliği 5 stratejik alanda ele alınır; Türkiye'de bunlara spor eğitimi alanı da eklenerek 6 alana çıkarılmıştır (Tablo 2.2): spora katılım (kadınların spor faaliyetlerine katılımının artırılması), spor yönetimi (karar alma mekanizmalarında eşit temsil), antrenörlük ve hakemlik (bu alanlarda eşitliğin başarılması), sporda toplumsal cinsiyet temelli şiddet (bunun ortadan kaldırılması), spor medyasında toplumsal cinsiyet eşitliği ve spor eğitimi (okul ve üniversite düzeyinde eşit fırsatlar).",
-              "Türkiye'de lisanslı sporcuların %38'i kadın, %62'si erkektir; spor federasyonlarına bağlı sporcularda ise kadın oranı %34, erkek oranı %66'dır (Grafik 2.1). Güreş, futbol, boks, basketbol gibi dallarda kadın sporcu oranı %20'nin altındadır. Spor yönetiminde kadın temsili çok düşüktür: 2017'de 60 federasyonun yalnızca %5'inin başkanı kadındır. Antrenörlükte kadın oranı %31, erkek oranı %69'dur (Grafik 2.2) ve antrenörlük kademesi yükseldikçe bu fark kadınların aleyhine artar (5. kademede kadın antrenör oranı %7,5'tir).",
-              "Toplumsal cinsiyet temelli şiddet; cinsel taciz, cinsel saldırı, tecavüz, cinsel sömürü, fiziksel ve duygusal-psikolojik şiddeti kapsar ve güvenli spor ortamını tehdit eden en önemli konulardan biridir. Spor medyasında kadın sporcular erkek sporculardan daha az yer alır ve çoğunlukla sporcu kimlikleri yerine anne, eş gibi toplumsal cinsiyet rolleri üzerinden sunulur. Spor eğitiminde (SBF/BESYO) kadın öğrencilere ayrılan kontenjan erkeklere göre daha düşüktür (%38,44'e karşı %61,56)."
+            "heading": "Eşitlik İçin 6 Kritik Alan",
+            "emoji": "📊",
+            "bullets": [
+              "Dünyada sporda cinsiyet eşitliği 5 alanda ele alınır; Türkiye'de **spor eğitimi** eklenerek 6 alana çıkar.",
+              "Bu 6 alan: **spora katılım**, **spor yönetimi**, **antrenörlük ve hakemlik**, **toplumsal cinsiyet temelli şiddet**, **spor medyası** ve **spor eğitimi**.",
+              "Türkiye'de lisanslı sporcuların %38'i kadın, %62'si erkek; güreş, futbol, boks, basketbol gibi dallarda kadın oranı %20'nin altında.",
+              "Spor yönetiminde kadın temsili çok düşük: 2017'de federasyonların yalnızca %5'inin başkanı kadın.",
+              "Antrenörlükte kadın oranı %31; kademe yükseldikçe bu oran düşer (5. kademede %7,5).",
+              "**Toplumsal cinsiyet temelli şiddet** cinsel taciz, saldırı ve fiziksel/psikolojik şiddeti kapsar; güvenli spor ortamını tehdit eder.",
+              "Medyada kadın sporcular daha az yer bulur ve çoğunlukla sporcu kimliği yerine anne/eş gibi rollerle sunulur."
             ]
           },
           {
-            "heading": "Sporda Toplumsal Cinsiyet Eşitsizliğinin Nedenleri",
-            "paragraphs": [
-              "Tablo 2.3'te sıralanan başlıca nedenler arasında şunlar yer alır: kadınlara/kız çocuklarına yüklenen ev işleri ve çocuk bakımı sorumluluklarının serbest zamanlarını daraltması; bazı kültürlerde ailenin kız çocuklarının spora katılımına izin vermemesi; maddi yetersizlik nedeniyle spor olanaklarına erişimden ilk yoksun kalan grubun kız çocukları olması; kadınların kamusal alanda fiziksel/cinsel tacize maruz kalma oranının yüksekliği.",
-              "Diğer nedenler ise şöyledir: sporun her kademesinde sayısal ve kültürel erkek egemenliğinin olması; spor kulüplerinde erkek çocuklarına kız çocuklarından daha fazla olanak sunulması; güçlü, kaslı kadınların 'kadınlıklarının' sorgulanması; medyada sporcu/antrenör kadınlara az yer verilmesi; toplumsal cinsiyet eşitliği düzenlemelerini içeren ulusal politikaların olmaması ve yöneticilerin kadınları yöneticilik pozisyonlarına uygun görmemesi."
+            "heading": "Eşitsizliğin Kök Nedenleri",
+            "emoji": "🧩",
+            "bullets": [
+              "Kız çocuklarına yüklenen ev işi ve çocuk bakımı sorumlulukları serbest zamanlarını kısıtlar.",
+              "Bazı kültürlerde aileler kız çocuklarının spora katılımına izin vermez; maddi yetersizlikte ilk feda edilen genelde kız çocukları olur.",
+              "Kamusal alanda kadınların fiziksel/cinsel tacize maruz kalma riski yüksektir.",
+              "Sporun her kademesinde sayısal ve kültürel erkek egemenliği hâkimdir; kulüpler erkek çocuklara daha fazla olanak sunar.",
+              "Güçlü, kaslı kadınların \"kadınlığı\" sorgulanır; medyada kadın sporcu ve antrenörlere az yer verilir.",
+              "Toplumsal cinsiyet eşitliğini destekleyen ulusal politikalar eksiktir; yöneticiler kadınları yöneticilik için uygun görmez."
             ]
           },
           {
-            "heading": "Toplumsal Cinsiyete Duyarlı Antrenör",
-            "paragraphs": [
-              "Toplumsal cinsiyete duyarlı antrenör, kız ve erkek çocuklarının farklı sosyalleşme süreçleri yaşadığını, farklı bireysel ve toplumsal beklentilere ve ilgilere sahip olduklarını görebilen ve cinsiyetçi kalıp yargıları fark edebilen bir bakış açısına sahiptir. Bu duyarlılığın olmaması; kız çocuklarının spora katılamamasına, çocukların istedikleri spor dalını seçememesine ve sporun yararlarından faydalanamamasına neden olabilmektedir.",
-              "Tablo 2.4'te sayılan antrenör sorumlulukları arasında şunlar yer alır: her iki cinsiyetin ilgi ve ihtiyaçlarına saygı göstermek ve desteklemek; her iki cinsiyetten sporcularla eşit koşullarda etkileşim kurmak; cinsiyetler arasında işbirliğini desteklemek; sorumlulukların kızlar ve erkekler arasında eşit paylaşılmasını sağlamak; güvenli bir ortam ve ulaşım imkanı sunmak; aile desteği/izni almak; her iki cinsiyetten rol modeller sunmak; kıyafet seçiminde esnek olmak ve toplumsal cinsiyet kalıp yargısı içeren yorumlardan ('kız gibi oynama' gibi) kaçınmak.",
-              "Toplumsal cinsiyete duyarlı dil kullanımı da antrenörler için önemlidir (Tablo 2.5): 'sportmen' yerine 'sporcu/adil oyuncu', 'spor adamı' yerine 'spor insanı/spor uzmanı', 'teknik adam' yerine 'teknik direktör', 'adam gibi oynamak' yerine 'başarılı/iyi oynamak' gibi cinsiyet içermeyen ve kadını görünmez kılmayan ifadeler tercih edilmelidir."
+            "heading": "Duyarlı Antrenör Nasıl Olunur?",
+            "emoji": "🧑‍🏫",
+            "bullets": [
+              "Toplumsal cinsiyete duyarlı antrenör, kız ve erkek çocukların farklı sosyalleşme süreçleri ve beklentileri olduğunu fark eder.",
+              "Bu duyarlılık olmazsa kız çocukları spora katılamayabilir veya istediği branşı seçemeyebilir.",
+              "Sorumluluklar arasında her iki cinsiyete eşit koşullarda davranmak, aralarında işbirliğini desteklemek ve sorumlulukları eşit paylaştırmak vardır.",
+              "Güvenli ortam ve ulaşım sağlamak, aile desteği almak ve her iki cinsiyetten rol modeller sunmak da antrenörün görevidir.",
+              "En kritik özellik: **toplumsal cinsiyet kalıp yargısı içeren ifadelerden kaçınmak** (örn. \"kız gibi oynama\" dememek).",
+              "Dilde de duyarlı olunmalı: \"sportmen\" yerine \"sporcu\", \"spor adamı\" yerine \"spor insanı\", \"teknik adam\" yerine \"teknik direktör\" denmeli."
             ]
           }
         ],
@@ -9585,79 +9863,112 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Spor Psikolojisinin Tarihsel Geçmişi ve Temel Kavramlar",
-            "paragraphs": [
-              "Spor psikolojisi alanındaki ilk bilimsel çalışma, 1898 yılında sosyal psikolog Norman Triplett tarafından yazılan bir yüksek lisans tezi kapsamında gerçekleştirilmiştir; bu da alanın bugüne kadar yaklaşık 130 yıllık bir tarihsel geçmişe sahip olduğunu göstermektedir. Türkiye’de ise spor psikolojisine ilişkin ilk yayın, 1943 yılında yayımlanan “Sporun Fizyo Patolojisi” adlı çevirinin içinde yer alan “Sporda Psikolojik Faktörler” adlı bölümdür. O günden bugüne alanla ilgili çalışmalar her geçen gün artmış, uluslararası iş birlikleri gelişmiş ve uygulama boyutunda ciddi bir artış yaşanmıştır.",
-              "Spor, egzersiz, spor psikolojisi ve egzersiz psikolojisi kavramları birbirinden farklıdır. Spor; belirli kurallara göre, rekabet ölçüleri içinde mücadele etme, heyecan duyma, yarışma ve en iyi performansı sergileme amacını içerir, amaç kazanmak ve yarışmaktır. Egzersiz; belli bir program dâhilinde, fiziksel kapasite zorlanmadan, beden ve ruh sağlığını geliştirmek amacıyla yapılan hareketler bütünüdür, burada amaç sağlıktır. Spor Psikolojisi, psikolojinin ilke ve kurallarının spor ortamına uygulanmasıdır; Egzersiz Psikolojisi ise psikoloji ilke ve kurallarının egzersiz ortamına uygulanmasıdır ve 1982 yılından itibaren Amerikan Psikoloji Birliği tarafından spordan ayrı bir alt alan olarak tanımlanmıştır.",
-              "Spor ile egzersiz arasındaki temel fark amaç açısındandır: sporda amaç kazanmak ve yarışmak, egzersizde ise sağlıktır. Bu amaç farkı nedeniyle, bu aktivitelere katılan bireylerin davranışları da farklılık gösterecektir. Benzer biçimde, fiziksel etkinlik/aktivite (iskelet kaslarından bedensel hareketle enerji oluşumu), egzersiz (planlı, yapılandırılmış ve tekrarlanabilir bir alt grup) ve fiziksel sağlıklılık (fiziksel etkinliği uygulayabilme yeteneği) kavramları da birbirinden ayırt edilmelidir."
+            "heading": "Spor Psikolojisinin Doğuşu",
+            "emoji": "📜",
+            "bullets": [
+              "İlk bilimsel çalışma **1898**'de Norman Triplett'in yüksek lisans teziyle yapıldı — alanın yaklaşık 130 yıllık bir geçmişi var.",
+              "Türkiye'de spor psikolojisine dair ilk yayın **1943**'te çıktı.",
+              "**Spor**'da amaç kazanmak ve yarışmaktır; kurallara bağlı rekabet içerir.",
+              "**Egzersiz**'de amaç sağlıktır; fiziksel kapasiteyi zorlamadan yapılan düzenli hareketlerdir.",
+              "**Spor Psikolojisi**, psikoloji ilkelerinin spor ortamına uygulanmasıdır.",
+              "**Egzersiz Psikolojisi**, 1982'den itibaren APA tarafından ayrı bir alt alan olarak tanımlandı.",
+              "Fiziksel etkinlik, egzersiz ve fiziksel sağlıklılık birbirinden farklı kavramlardır."
             ]
           },
           {
-            "heading": "Spor Psikolojisinin Amaçları ve İşlevleri",
-            "paragraphs": [
-              "Amerikan Psikoloji Birliği (APA), spor psikolojisinin iki temel amacını şöyle belirlemiştir: (1) spora katılımın bireyin yaşamı boyunca psikolojik gelişimini ve sağlıklı oluşunu nasıl etkilediğini anlamak (sağlık amaçlı) ve (2) sporcuların performansları için gerekli psikoloji ilkelerinin kullanılmasına yardımcı olmak (performans amaçlı). Bu iki amaca bağlı olarak üç temel işlev belirlenmiştir.",
-              "Birinci işlev, fiziksel performansı arttırma ve toparlanmaya yardımcı olmak amacıyla gerçekleştirilen uygulamalardır: sporcu kişiliği çalışmaları, motivasyon çalışmaları, konsantrasyon çalışmaları, algılama çalışmaları, dikkat çalışmaları, çeşitli gevşeme çalışmaları ve kendine güven çalışmaları. Motivasyon, en basit tanımıyla “kişinin çabalarının yönü ve şiddeti” olarak ifade edilir; konsantrasyon, bireyin verimli bir durumda en önemli şey üzerine isteyerek ortaya koyduğu zihinsel çabadır; algı/algılama ise duyu organlarından alınan bilişsel girdilerin beyin tarafından anlamlandırılması sürecidir ve “algıda seçicilik” adı verilen bir filtreleme içerir.",
-              "İkinci işlev, sporcuların teknik öğrenimlerini hızlandırmak ve müsabakaya hazırlanmalarını sağlamak amacıyla gerçekleştirilen çalışmalardır: beceri öğrenimi ağırlıklı zihinsel antrenmanlar, müsabakaya hazırlık amaçlı zihinsel antrenmanlar ve müsabakalara yönelik hayal etme (imgeleme) çalışmaları. Zihinsel antrenman konusu, 1960-1970’lerden itibaren spor psikolojisi literatüründe önemli bir yer tutmaktadır ve kendine güven gibi zihinsel süreçlerle motor becerileri geliştirmede sıklıkla önerilmektedir.",
-              "Üçüncü işlev, performansa engel olan psikolojik etmenlerin ortadan kaldırılması amacıyla yapılan çalışmalardır: müsabaka kaygısı, müsabaka stresi, gerginlikler, tükenme ve çeşitli ruhsal sorunlar. Yarışma kaygısı, “yarışma sürekli kaygısı” (rekabeti tehdit olarak algılama) ve “yarışma durumluk kaygısı” (belirli bir durum öncesinde yaşanan olumsuz düşünceler) olmak üzere ikiye ayrılır. Tükenme ise aşırı çalışma ve rekabete karşı duyulan yetersizlik çabasının ortaya koyduğu psikofizyolojik bir tepki olarak tanımlanır ve sporu bırakmaktan farklı bir durum olarak değerlendirilir."
+            "heading": "Spor Psikolojisi Ne İşe Yarar?",
+            "emoji": "🎯",
+            "bullets": [
+              "APA'ya göre iki amaç var: sporun **psikolojik gelişime etkisini** anlamak ve **performansı artırmaya** yardımcı olmak.",
+              "1. işlev — **fiziksel performansı artırma ve toparlanma**: sporcu kişiliği, motivasyon, konsantrasyon, algılama, dikkat, gevşeme ve kendine güven çalışmaları buraya girer.",
+              "**Motivasyon**, kişinin çabalarının yönü ve şiddetidir; **konsantrasyon**, en önemli şeye yönelik istekli zihinsel çabadır; **algı**, duyusal bilginin beyinde anlamlandırılmasıdır.",
+              "2. işlev — **teknik öğrenimi hızlandırma ve müsabakaya hazırlık**: beceri öğrenimi ağırlıklı zihinsel antrenmanlar ve imgeleme çalışmaları buraya girer.",
+              "3. işlev — **performansı engelleyen etmenleri ortadan kaldırma**: müsabaka kaygısı, stres, gerginlikler ve tükenme gibi sorunlarla ilgilenir.",
+              "Yarışma kaygısı **sürekli kaygı** (rekabeti tehdit görme) ve **durumluk kaygı** (o anki olumsuz düşünceler) olarak ikiye ayrılır.",
+              "**Tükenme**, aşırı çalışma ve yetersizlik hissinin yarattığı bir tepkidir — sporu bırakmaktan farklı bir durumdur."
             ]
           },
           {
-            "heading": "Spor Psikoloğunun Rolleri",
-            "paragraphs": [
-              "Palacio ve Salmela (1986), spor psikologlarının rollerini araştırmacı/akademisyen ve uygulamacı olmak üzere iki başlıkta ele almıştır. Amerika Birleşik Devletleri Milli Olimpiyat Komitesi ve APA adına May’in yaptığı çalışma sonrasında ise bu rolün üç başlık altında toplanması daha uygun görülmüştür: araştırmacı, klinik-danışmanlık ve eğitimci rolleri.",
-              "Uygulamacı (danışmanlık) rolünde spor psikoloğu, takımların yarışma ve antrenmandaki performanslarını artırıcı psikolojik becerileri geliştirmede danışmanlık yapar ve takım içinde iyi bir hava yakalanmasını sağlar; sporculara müsabaka stresi ve kaygısıyla başa çıkma stratejilerini, dikkat ve konsantrasyonu geliştirecek yöntemleri öğretir, motivasyonel süreçleri belirler ve kendine güveni artırmaya çalışır.",
-              "Eğitimci (akademisyen) rolünde spor psikoloğu, spor bilimleri bölümlerinde görev yapıyorsa spor psikolojisi, egzersiz psikolojisi, sporun sosyal psikolojisi, motor öğrenme ve motor kontrol gibi dersler; psikoloji bölümlerinde çalışıyorsa kişilik psikolojisi, gelişim psikolojisi ve öğrenme psikolojisi gibi dersler yürütür. Bu rol daha çok akademik nitelikli araştırma faaliyetlerini içerir ve kişi genellikle bir üniversite öğretim elemanıdır.",
-              "Klinik-danışmanlık rolü, performans sporcularının sık yaşadığı alkol ve ilaç kullanımı, ilişki bozuklukları, yeme bozuklukları ve şiddetli depresyon gibi klinik nitelikli sorunlara müdahale edebilmeyi kapsar; bu alanda çalışacak kişilerin klinik psikoloji eğitimi almış olması gerekmektedir. Spor psikoloğu olabilmek için farklı ülkelerde farklı yaklaşımlar bulunsa da temelde psikologlar ve spor bilimciler olmak üzere iki meslek grubundan bahsedilebilir; bu kişiler karşılıklı olarak birbirlerinin alanından dersler alıp yüksek lisans/doktora eğitimlerini tamamlayarak spor psikoloğu rolü kazanabilirler."
+            "heading": "Spor Psikoloğu Kime Ne Yapar?",
+            "emoji": "🎓",
+            "bullets": [
+              "Palacio ve Salmela (1986), spor psikologlarını **araştırmacı** ve **uygulamacı** olarak ikiye ayırdı.",
+              "APA/May'in çalışmasıyla roller üçe çıktı: **araştırmacı**, **klinik-danışmanlık** ve **eğitimci**.",
+              "**Uygulamacı (danışmanlık)** rolünde psikolojik beceri geliştirme, kaygıyla baş etme ve motivasyon desteği verilir.",
+              "**Eğitimci** rolündeki spor psikoloğu üniversitede spor veya psikoloji dersleri verir ve araştırma yapar.",
+              "**Klinik-danışmanlık** rolü, sporcularda görülen **alkol/ilaç kullanımı, ilişki bozuklukları, yeme bozuklukları ve şiddetli depresyon** gibi sorunlara müdahale eder; bunun için klinik psikoloji eğitimi gerekir.",
+              "Spor psikoloğu olmanın iki temel yolu: **psikologlar** ve **spor bilimciler** — karşılıklı eğitim alarak bu unvana ulaşabilirler."
             ]
           },
           {
-            "heading": "Çocuk ve Genç Sporcuların Spora Katılma ve Bırakma Nedenleri",
-            "paragraphs": [
-              "Spora katılımın en yoğun olduğu dönemin 12 yaş civarında olduğu, katılımın 10-13 yaş arasında zirveye ulaştığı ve 18 yaşına doğru ciddi şekilde azaldığı tespit edilmiştir. Yapılan bir çalışmada, 7 yaşından önce spora başlayan gençlerin yaklaşık %75’inin 15 yaşına gelmeden sporu bıraktığı ortaya konulmuştur.",
-              "Çocuk ve genç sporcuların spora katılma motivasyonunun çoğu doğası gereği içseldir: eğlenme, yeni beceriler öğrenme, iyi olduğu bir şeyler yapma, arkadaşlarıyla vakit geçirme, yeni arkadaşlar edinme, formunu koruma, egzersiz yapma ve başarıyı tecrübe etme. Kazanma kesinlikle ne tek ne de en yaygın katılma sebebidir. Sporu bırakmanın betimleyici nedenlerinin (örn. eğlenmeme) altında yatan asıl unsur, çocuğun değerli ve yetkin hissetme ihtiyacının karşılanmamasıdır; genç sporcular aktivitede kendilerini değerli ve yetkin hissettiklerinde spora katılma eğilimleri de artar.",
-              "Sporu bırakma nedenleri araştırıldığında en sık görülen yanıt, sporun artık yeterince keyifli ve eğlenceli bulunmamasıdır. Bunun yanında başka ilgi alanlarının ortaya çıkması, sporcunun hissettiği aşırı baskı, antrenörü sevmeme, başarısızlık ve kazanmaya aşırı önem verilmesi gibi olumsuz nedenler de bırakma kararlarını etkileyen en büyük etkenler arasındadır. Takım sporlarında, takım ruhunun yeterince destekleyici hissedilmemesi de önemli bir bırakma nedenidir; sonuçlar, antrenör ve takım arkadaşlarının genç sporcuların bırakma kararını etkileyen en büyük iki etken olduğunu göstermektedir.",
-              "Çocuk ve genç sporcuların öncelikli dört ihtiyacı şunlardır: eğlenmek ve heyecan deneyimlemek, bir gruba ait olduğunu ve kabul edildiğini hissetmek, davranışları üzerinde kontrol ve özerklik hissetmek ve yeterli hissetmek. Yetişkin elit sporcular için tasarlanan sert antrenörlük yöntemleri (cezalandırma, ağır eleştiri, duygu patlaması), çocuk ve genç sporcularda özgüven, öz yeterlik algısı ve spora katılım motivasyonu açısından olumsuz etkiler yaratmaktadır."
+            "heading": "Çocuklar Neden Spora Başlar, Neden Bırakır?",
+            "emoji": "🧒",
+            "bullets": [
+              "Spora katılım **10-13 yaşında** zirve yapar, 12 yaş civarı en yoğun dönemdir, 18 yaşına doğru azalır.",
+              "**7 yaşından önce** başlayanların yaklaşık **%75'i 15 yaşına gelmeden** sporu bırakır.",
+              "Katılım motivasyonu çoğunlukla içseldir: eğlenme, beceri öğrenme, arkadaşlık, formda kalma — kazanmak en yaygın sebep değildir.",
+              "Bırakmanın altında genelde **değerli ve yetkin hissetme** ihtiyacının karşılanmaması yatar; en sık belirtilen neden sporun artık **eğlenceli bulunmaması**dır.",
+              "Diğer nedenler: aşırı baskı, **antrenörü sevmeme**, başarısızlık, kazanmaya aşırı önem verilmesi ve zayıf takım ruhu; **antrenör ve takım arkadaşları** en büyük iki etkendir.",
+              "Çocukların 4 öncelikli ihtiyacı: **eğlenmek/heyecan duymak**, **gruba ait olma/kabul görme**, **kontrol/özerklik hissetmek** ve **yeterli hissetmek**.",
+              "Yetişkinler için tasarlanan sert antrenörlük (ceza, ağır eleştiri) çocuklarda özgüveni ve motivasyonu olumsuz etkiler."
             ]
           },
           {
-            "heading": "Sporcuların Temel Psikolojik İhtiyaçları ve Antrenman Ortamı",
-            "paragraphs": [
-              "Her insanın doğuştan gelen psikolojik ihtiyaçları vardır ve bu ihtiyaçların doyurulması bireyin iyilik halini sağlar. Spor ortamında karşılanması önemli olan bu evrensel ihtiyaçlar yeterlik, özerklik ve ilişkisellik ihtiyacıdır. Özerklik ihtiyacı, sporcunun benliğiyle bütünlük içinde olan davranışlarını sergileme, davranışları başlatma-sürdürme-sona erdirme konusunda tercih/onay/irade hissini deneyimleme ihtiyacıdır. İlişkisellik ihtiyacı, diğerlerinden algılanan sıcaklık ve ilginin bir sonucu olarak ortaya çıkan genel bir ait olma duygusudur. Yeterlik ihtiyacı ise sporcunun bir işi yapmak için gerekli güce, bilgiye ve beceriye sahip olduğuna ve yapabileceğine inanmasıdır.",
-              "Yeterlilik algısı motivasyonun temelidir ve başarı deneyimiyle birlikte artar. Dışsal ödüller algılanan yeterliliği artırırsa içsel motivasyonu desteklerken, azaltırsa ya da manipülatif şekilde görülürse içsel motivasyonu düşürür. Yeterlik duygusuna özerklik hissi eşlik etmediğinde içsel motivasyonla hareket etme artmaz; ilişkisellik ihtiyacı ise içsel motivasyon üzerinde özerklik ve yeterlik ihtiyacına göre daha az rol oynar. Bu nedenle sosyal çevrenin özerklik ve yeterlik ihtiyaçlarını desteklemesi önemlidir.",
-              "Antrenörlerin özerkliği desteklemek için karar verme süreçlerine sporcuları dahil etmesi, onlarla tartışması ve birlikte hedef belirlemesi; yeterliği desteklemek için olumlu geribildirim kullanması ve uygun görev dağılımı yapması; ilişkiselliği desteklemek için sıcak ve samimi bir iş birliği ortamı oluşturması gerekir. Tablo 3.1’de özetlenen yöntemler; duygusal yakınlık (sosyal etkinlikler düzenlemek), beceri gelişimi (etkin ve olumlu geri bildirim vermek), başarı (kazanmayı kişisel hedeflere ulaşmak olarak tanımlamaya yardımcı olmak), eğlenme (gerçekçi beklentiler oluşturmak), heyecan (rutin dışı ve çeşitli aktiviteler eklemek) ve formda kalma ihtiyaçlarını karşılamaya yönelik somut antrenörlük önerileridir."
+            "heading": "Sporcunun 3 Temel İhtiyacı",
+            "emoji": "🧩",
+            "bullets": [
+              "Evrensel 3 ihtiyaç: **yeterlik**, **özerklik** ve **ilişkisellik**.",
+              "**Özerklik**, davranışları kendi iradesiyle başlatma/sürdürme hissidir; **ilişkisellik**, ait olma duygusudur; **yeterlik**, bir işi yapabileceğine inanmaktır.",
+              "**Yeterlilik algısı** motivasyonun temelidir ve başarı deneyimiyle artar; dışsal ödüller onu destekleyebilir ya da zayıflatabilir.",
+              "Özerklik hissi olmadan yeterlik, içsel motivasyonu yeterince artırmaz; **ilişkisellik** motivasyonda en az etkili olandır.",
+              "Antrenörler özerkliği kararlara katarak, yeterliği olumlu geri bildirimle, ilişkiselliği sıcak bir ortamla destekler.",
+              "Tablo 3.1'deki öneriler duygusal yakınlık, beceri gelişimi, başarı, eğlenme, heyecan ve formda kalma ihtiyaçlarına yönelik somut yöntemler sunar."
             ]
           },
           {
-            "heading": "Motivasyonel İklim",
-            "paragraphs": [
-              "Motivasyonel iklim, öğrenme ortamındaki kişilerarası süreçler ve değerlendirmeyle ilgili duyuşsal ve sosyal durumu ifade eder; antrenörler tarafından kullanılan hedef belirleme ve ödüllendirme biçimini temsil eder ve sosyal bağlamda neyin kabul gördüğünü şekillendirir. Motivasyonel iklim ikiye ayrılır: Ustalık İklimi (görev yönelimli) ve Performans İklimi (ego/sonuç yönelimli).",
-              "Ustalık iklimi; başarı, bireysel gelişim ve çabayı kendine ölçüt alan, kişisel standartlara (çaba, gelişim, görev ustalığı) dayanan bir iklimdir. Ustalık yönelimli sporcu, kazanmayı diğerlerini yenmek olarak değil kendi yeteneklerinin derinine ulaşma ve kendine karşı yarışma olarak görür; oyunu kaybetse bile iyi oynamışsa kendini başarılı hisseder. Performans iklimi ise kötü performans ve hataların cezalandırılacağına, daha yetenekli oyunculara daha fazla ilgi gösterildiğine ve takım içi rekabetin antrenör tarafından yaratıldığına inanılan bir ortamdır; sonuç yönelimli sporcularda motivasyon kırılgandır ve kaygı düzeyleri daha yüksektir.",
-              "Antrenörler, ustalık yönelimli bir motivasyonel iklim oluşturmak için “TARGET” yaklaşımını kullanabilir: Task (görev), Authority (özerklik), Rewards (ödül), Grouping (grup), Evaluation (değerlendirme) ve Time (zaman) yapılarını öğrenmeye, çabaya ve kişisel gelişime odaklı şekilde düzenlemek. Araştırmalar, performans ikliminin sporcularda ahlaktan uzaklaşma (antisosyal davranışlar) ile anlamlı şekilde ilişkili olduğunu, ustalık ikliminin ise prososyal davranışları, özerklik algısını ve daha düşük kaygı düzeyini desteklediğini göstermektedir.",
-              "Çocuk sporlarında antrenörlüğün 12 ilkesi arasında şunlar yer alır: olumlu, eğitici ve özerkliği destekleyici olmak; doğru yapılanlara odaklanıp içtenlikle övmek; gerçekçi beklentiler geliştirmek; çabayı sonuç kadar ödüllendirmek; öğretme ve uygulama becerilerine odaklanmak; aktiviteleri çocuğa uyarlamak (“çocuğu aktiviteye değil, aktiviteyi çocuğa uydurmak”); kuralları motivasyonu artıracak şekilde düzenlemek; sadece sonucu değil doğru tekniği de ödüllendirmek; hataları olumlu “sandviç” yaklaşımıyla düzeltmek; yeni beceri deneme korkusunu azaltan bir ortam oluşturmak ve coşkulu olmaktır."
+            "heading": "Motivasyonel İklim: Ustalık mı, Performans mı?",
+            "emoji": "🌡️",
+            "bullets": [
+              "**Motivasyonel iklim**, antrenörün hedef belirleme ve ödüllendirme tarzının yarattığı sosyal ortamdır.",
+              "İki tür iklim var: **Ustalık İklimi** (görev/çaba odaklı) ve **Performans İklimi** (sonuç/ego odaklı).",
+              "**Ustalık yönelimli** sporcu zorlu ama gerçekçi hedefler seçer, başarısızlıktan korkmaz, yüksek yeterlik algısına sahiptir ve yeni şeyler öğrenmeye isteklidir 🙌.",
+              "**Performans iklimi**nde hatalar cezalandırılır, yetenekliler kayrılır — bu ortamda kaygı yüksek, motivasyon kırılgandır.",
+              "Antrenörler ustalık iklimi için **TARGET** yaklaşımını kullanabilir: Task, Authority, Rewards, Grouping, Evaluation, Time.",
+              "Performans iklimi antisosyal davranışlarla, ustalık iklimi ise prososyal davranış ve düşük kaygıyla ilişkilidir.",
+              "Çocuk antrenörlüğünün 12 ilkesinden bazıları: çabayı ödüllendirmek, gerçekçi beklentiler kurmak, hataları \"sandviç\" yaklaşımıyla düzeltmek ve \"aktiviteyi çocuğa uydurmak\"."
             ]
           },
           {
-            "heading": "İletişimin Temel Kavramları",
-            "paragraphs": [
-              "İletişim, bilgilerin, düşüncelerin ya da fikirlerin yazılı, sözlü ya da sinyaller yoluyla karşı tarafa aktarımıdır; statik değil dinamik bir yapıya sahip, sürekli değişen ama kendi içinde tutarlı bir süreçtir. Spor ortamında özellikle antrenör-sporcu ilişkisinde tek yollu iletişim sık görülür. Tablo 3.2’ye göre bu sürecin aşamaları şöyledir: mesajı gönderecek birey tarafından mesajı gönderme kararı verilir, mesajın ne şekilde (sözlü/yazılı/sözsüz) iletileceğine karar verilir (kodlama), mesaj uygun kanalla karşı tarafa aktarılır, mesaj alıcı tarafından çözümlenir (kod açma) ve son olarak alıcı tarafından mesaja verilen içsel tepkiler gerçekleşir. Tek yollu iletişimde sporcunun tepkileri antrenöre geri iletilmediğinden, bu süreç her zaman etkili bir iletişim yöntemi olmayabilir.",
-              "İletişim şekli olarak birey içi (kişi içi) iletişim ve bireyler arası iletişim ayrımı yapılır. Bireyler arası iletişim, en az iki kişi arasında anlamlı mesajların değiş tokuş edildiği işlemi ifade eder. Birey içi iletişim ise bireyin kendisiyle gerçekleştirdiği, genellikle sözsüz biçimde gerçekleşen içsel iletişim/konuşmadır ve hem bireyler arası iletişimin başlatılmasında hem de bireyin kendi motivasyon ve davranışlarını etkilemesinde önemli bir yer tutar. İletişimde gönderilen mesajların yaklaşık %50-70’inin sözsüz gerçekleştiği belirtilmektedir.",
-              "Martens (1997), sözsüz iletişim için beş farklı yol önermiştir: fiziksel görüntü, vücut hareketleri (jestler), dokunma, ses özellikleri ve vücudun konumu. Fiziksel görüntü (giyim, dış görünüş) özellikle ilk karşılaşmalarda önemli bir mesaj kaynağıdır; vücut hareketleri (örn. kolları göğse çekmek kapalı/rekabetçi bir tutumu, göz teması kesmek rahatsızlığı gösterir) istemsizce mesaj verir; dokunma kültürler arası farklılık gösteren güçlü bir sözsüz iletişim yoludur; ses özellikleri “ne söylediğinden çok nasıl söylediğini” öne çıkarır; vücudun konumu ise bireyler arasındaki mesafe aracılığıyla iletişimin niteliğini (yakınlık/samimiyet ya da uzaklık/gerginlik) yansıtır."
+            "heading": "İletişimin ABC'si",
+            "emoji": "💬",
+            "bullets": [
+              "**İletişim**, bilgi/düşüncelerin karşı tarafa aktarılmasıdır; dinamik ama kendi içinde tutarlı bir süreçtir.",
+              "**Tek yollu iletişim** 5 adımda ilerler: 1) gönderme kararı, 2) kodlama (nasıl iletileceği), 3) kanalla aktarım, 4) kod açma, 5) alıcının içsel tepkisi.",
+              "Tek yollu iletişimde sporcunun tepkisi antrenöre geri dönmez, bu yüzden her zaman etkili değildir.",
+              "**Birey içi iletişim**, kişinin kendisiyle kurduğu içsel konuşmadır; **bireyler arası iletişim** ise en az iki kişi arasındaki mesaj değişimidir.",
+              "Mesajların yaklaşık **%50-70'i sözsüz** gerçekleşir.",
+              "Martens'e göre 5 sözsüz iletişim yolu: **fiziksel görüntü**, **vücut hareketleri**, **dokunma**, **ses özellikleri** ve **vücudun konumu**."
             ]
           },
           {
-            "heading": "Etkili İletişim Yöntemleri",
-            "paragraphs": [
-              "Etkili bir iletişim kanalı oluşturabilmek için insanların baskın iletişim kanalları olan görme ve işitmenin yanında dokunma, koku alma, tatma ve kinestetik duyumlar da kullanılır. Sabit Kapasite Kuramı’na göre insanlar sabit bir dikkat kapasitesine sahiptir ve aynı anda sınırlı sayıda uyaranı (bilgiyi) işleme koyabilirler. Bu nedenle gelen mesajların yalnızca bir kısmı işleme alınırken, geçmiş yaşantılar ve o anki duygusal durumun etkisiyle devreye giren “seçici dikkat” sayesinde diğer mesajlar göz ardı edilebilir; bu durum antrenör-sporcu iletişiminde anlaşılamama gibi çatışmalara yol açabilir.",
-              "Martens (1997), verimli ve geçerli mesaj gönderebilmek için Tablo 3.3’te sıralanan ilkeleri ortaya koymuştur: mesajı doğrudan ilgili kişiye göndermek; “ben/benim” dilini kullanarak mesajı sahiplenmek; mesajı açık, tutarlı ve zamanında iletmek; gizli imalardan kaçınmak; sözlü ve sözsüz mesajların birbiriyle tutarlı olmasını sağlamak; aynı anda tek bir konuya odaklanmak ve alıcıdan geri bildirim alarak mesajın doğru anlaşıldığını teyit etmek.",
-              "İletişimde ortaya çıkan çatışmalar iki başlıkta toplanır: mesaj gönderenden kaynaklı hatalar (çift anlamlı, tutarsız ya da anlamı tam olarak belli olmayan mesaj gönderilmesi; örneğin antrenörün tutarsız sözler vermesi) ve mesajı alandan kaynaklı hatalar (alıcının iletişime tam olarak katılmaması, gerekli ilgi ve dikkati vermemesi ya da mesajı kendi geçmiş yaşantılarına göre istediği gibi yorumlaması)."
+            "heading": "Etkili İletişim Nasıl Kurulur?",
+            "emoji": "🗣️",
+            "bullets": [
+              "İletişimde görme/işitme dışında dokunma, koku, tat ve kinestetik duyular da rol oynar.",
+              "**Sabit Kapasite Kuramı**'na göre insanların dikkat kapasitesi sınırlıdır; bu yüzden **seçici dikkat** devreye girer ve bazı mesajlar göz ardı edilir.",
+              "Martens'in verimli mesaj ilkeleri: doğru kişiye göndermek, \"**ben dili**\" kullanmak, açık ve zamanında iletmek, sözlü-sözsüz tutarlılığı sağlamak ve geri bildirim almak.",
+              "İletişim çatışmaları ikiye ayrılır: **gönderenden kaynaklı hatalar** (tutarsız/belirsiz mesaj) ve **alandan kaynaklı hatalar** (dikkatsizlik, yanlış yorumlama)."
             ]
           },
           {
-            "heading": "Verimli İletişim Teknikleri",
-            "paragraphs": [
-              "Mesajları verimli alabilmenin en önemli unsuru dinleme becerisidir; araştırmalar, bireylerin iletişimde geçirdikleri zamanın %40’ını dinlemekle geçirdiğini ve dinlemenin insanlar tarafından en önemli iletişim becerisi olarak görüldüğünü ortaya koymuştur. Bu amaçla kullanılan dinleme teknikleri; Katılımcı (Aktif) Dinleme, Destekleyici Dinleme ve Farkında Olarak Dinleme’dir.",
-              "Verimli bir iletişim için gereken temel özellikler şunlardır: Karşılıklı Güven (bireylerin birbirine duydukları, dürüstlüğe dayalı güven), Saygı (sporcuların saygı duydukları antrenörlerle daha verimli iletişim kurması ve daha fazla motive olması) ve Empati (bireylerin kendilerini birbirlerinin yerine koyabilmesi). Antrenörlerin empati kurarken kendi spor geçmişlerini örnek göstermek yerine, değişen zaman, şartlar ve sporcunun kuşağının özelliklerini dikkate almaları gerektiği vurgulanmaktadır.",
-              "Anshel’in belirlediği, spor ortamında etkili iletişim için on altın kural şöyledir: dürüst olmak; savunucu olmamak, iyi bir dinleyici olup başkalarının fikirlerine önem vermek; tutarlı olmak; empatik olmak; iğneleyici ve alaycı olmamak; sadece davranışı eleştirip kişisel eleştirilerden kaçınmak; sözsüz iletişim yollarının farkında olmak ve bunu kullanmak; branştaki spor becerilerini iyi öğretmek; tüm takım üyeleriyle sürekli iletişim halinde olmak ve karşı taraf mesaj gönderirken iletişime katılımcı olup aktif bir şekilde dinleyerek katılmaktır."
+            "heading": "Dinleme ve Verimli İletişim",
+            "emoji": "👂",
+            "bullets": [
+              "İnsanlar iletişim zamanının yaklaşık **%40'ını dinleyerek** geçirir; dinleme en önemli iletişim becerisi sayılır.",
+              "Üç dinleme tekniği: **Katılımcı (Aktif) Dinleme**, **Destekleyici Dinleme** ve **Farkında Olarak Dinleme**.",
+              "Verimli iletişimin temelleri: **Karşılıklı Güven** (dürüstlüğe dayalı güven), **Saygı** (sporcuların saygı duyduğu antrenörle daha iyi iletişimi) ve **Empati** (kendini karşı tarafın yerine koyabilme) 🤝.",
+              "Antrenörler empati kurarken kendi dönemlerini örnek almak yerine sporcunun kuşağının farklı şartlarını dikkate almalı.",
+              "Anshel'in 10 altın kuralından bazıları: dürüst olmak, iyi dinlemek, tutarlı ve empatik olmak, davranışı eleştirip kişiyi eleştirmemek, sözsüz iletişimi kullanmak ve aktif katılımla dinlemek."
             ]
           }
         ],
@@ -9884,62 +10195,105 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Fair Play Teriminin Köken ve Anlam Gelişimi",
-            "paragraphs": [
-              "Türkçeye İngilizceden giren 'fair play' sözcüğünün dilimizdeki tam kelime karşılığı 'adil oyun'dur. Kavramın bugünkü anlam içeriğine kavuşabilmesi uzun bir tarihsel süreç gerektirmiştir. Oyunu tanımlayan 'fair' sıfatı, 4. yüzyıldan itibaren Germen yazı dilinde önce 'uygun', 'yararlı' anlamı taşımış, sonraları 'güzel', 'dostça' anlamlarını da yüklenmiştir; bu, kelimenin bugünkü 'estetik' içerikli kullanımını başlangıçtan beri koruduğunu gösterir. 14. yüzyıl İngiliz edebiyatında ise 'terbiyeli', 'namuslu', 'dürüst', 'doğru sözlü' anlamlarının yüklenmesiyle kelimeye 'etik' kapsam da dahil olmuş ve anlam genişlemesi yaşanmıştır. Yani 'fair' kelimesi önce estetik, sonra etik bir içerik kazanmıştır.",
-              "Mevcut bilgiler, 'fair play' ifadesinin 15. ve 16. yüzyıllarda henüz fiziksel aktiviteler bağlamında kullanılmadığını göstermektedir; bu dönemde kavramın oyunla dolaylı bağlantılı ilk biçimleri, şövalye turnuva kurallarında geçen 'fayre Attaynt' (adil/dürüst kazanma) ve centilmenlik dışı davranışı tanımlayan 'foule play' (faullü oyun) ifadelerinde görülür. Kavramı spor/rekabet bağlamında ilk kullanan kişi Shakespeare'dir: 16. yüzyıldan 17. yüzyıla geçişte, en az iki bireyin rekabete dayalı ilişkisi bağlamında, 'fırsat eşitliğini korumak' ve 'şövalyece düşünüş tarzını göstermek' anlamında şans oyunları çerçevesinde kullanmıştır. Kavram spor terminolojisine doğrudan 18. yüzyılda girmiş, 19. yüzyıldan itibaren sporda en önemli tutumları tanımlayan terim olarak ağırlık kazanmıştır.",
-              "Türkçe literatürde 'fair play' terimini ilk kullanan ve tanıtan kişi, Türk beden eğitiminin ve olimpizminin öncüsü Selim Sırrı Tarcan'dır; 1926 yılında bastığı 'Sporcu Neler Bilmeli' adlı eserinde, terimin 'sporda nezaketi, asaleti ve cömertliği kendine rehber edinmek' anlamına geldiğini vurgulamıştır. 1928 tarihli 'Spor Ruhu' adlı eserde de fair play benzer biçimde tanımlanmıştır. Tamamen fair play konulu ilk Türkçe kaynak ise 1974 yılında yayımlanan 'Sporda Erdemlik – Fair Play' adlı çeviridir; bu sayede kavramın Türkçe karşılığı 'sporda erdemlik' olarak yerleşmiş, sonraları 'sportif erdem' kullanımı da önerilmiştir. Türk Dil Kurumu ise terim için 'dürüst oyun' karşılığını önermektedir."
+            "heading": "Fair Play Kelimesinin Kökeni",
+            "emoji": "📜",
+            "bullets": [
+              "**Fair play** Türkçede \"adil oyun\" demektir; bugünkü anlamına ulaşması uzun bir süreç almıştır.",
+              "4. yüzyıldan beri Germen dilinde \"fair\" önce \"uygun, yararlı\", sonra \"güzel, dostça\" anlamına gelmiş - yani önce **estetik** bir içerik taşımıştır.",
+              "14. yüzyıl İngiliz edebiyatında \"terbiyeli, dürüst, doğru sözlü\" anlamları eklenerek kelimeye **etik** bir boyut da katılmıştır.",
+              "15-16. yüzyılda şövalye turnuvalarında \"fayre Attaynt\" (adil kazanma) ve \"foule play\" (faullü oyun) ifadeleri görülür; henüz spora özgü bir terim değildir.",
+              "Kavramı rekabet bağlamında ilk kullanan kişi **William Shakespeare**'dir (16-17. yüzyıl geçişi); \"fırsat eşitliğini korumak\" ve \"şövalyece düşünüş tarzı\" anlamında kullanmıştır.",
+              "Terim spor diline 18. yüzyılda girmiş, 19. yüzyıldan itibaren sporun en önemli tutumu haline gelmiştir.",
+              "Türkçede terimi ilk kullanan kişi **Selim Sırrı Tarcan**'dır (1926, \"Sporcu Neler Bilmeli\"); 1974'teki \"Sporda Erdemlik – Fair Play\" çevirisiyle \"sporda erdemlik\" karşılığı yerleşmiş, **Türk Dil Kurumu** ise \"dürüst oyun\" önerir."
             ]
           },
           {
-            "heading": "Fair Play Kavramının Kapsamı ve Temel Şartları",
-            "paragraphs": [
-              "Sporda fair play anlayışının merkezinde sporcu bulunur; çünkü sporcu, oyunun gerçekleşmesini sağlayan asli unsur olmakla birlikte oyunun sonucunu doğrudan etkileyen ve hakem, antrenör, yönetici, seyirci, basın gibi çevrelerden de etkilenen en önemli aktördür. Fair play ilkelerine uygun bir yarışma ortamının yaratılabilmesi için beş asgari temel şart gereklidir: kurallara uyma, hakem kararlarını kabullenme, rakibe saygı, fırsat eşitliği ve yarışma şartlarının eşitliği.",
-              "Kurallara uyma, oyun kurallarına kesin ve eksiksiz uymayı şart koşar; kurucu kurallar ilgili sporun oynanmasını mümkün kılan, ihlali o sporu başka bir faaliyete dönüştüren kurallardır (örneğin futbolda topu sürekli elle oynamak futbolu ortadan kaldırır), düzenleyici kurallar ise oyun içindeki talimatlara (örn. boksta yumruk atmanın serbest, futbolda yasak olması) ilişkindir. Hakem kararlarını kabullenme de fair play'in vazgeçilmez unsuru olarak vurgulanır; rakibe saygı ise rakibin bir oyun partneri olarak görülüp değer verilmesini gerektirir.",
-              "Fırsat eşitliği, yarışma şartlarının biçimsel benzerliğinin talep edilmesi anlamına gelir. Yarışma şartlarının eşitliği ise genetik donanım, ülke imkanları, antrenör, antrenman, beslenme gibi farklılıkların ortadan kaldırılması değil; sadece yarışmaya başlama şartlarının (start şanslarının) formal olarak eşitlenmesi demektir. Güreş, boks ve halter gibi branşlarda sıklet (ağırlık) kategorilerinin oluşturulması bu amaca hizmet eder; nitekim Antik Çağ'da sıklet düzenlemesi bulunmadığından bu dönemin yarışmalarında fırsat eşitliği ilkesinden söz edilemez."
+            "heading": "Fair Play'in 5 Temel Şartı",
+            "emoji": "⚖️",
+            "bullets": [
+              "Fair play'in merkezinde **sporcu** vardır; sonucu etkiler ama hakem, antrenör, seyirci gibi çevrelerden de etkilenir.",
+              "Adil bir yarışma ortamı için 5 temel şart gerekir: **kurallara uyma**, **hakem kararlarını kabullenme**, **rakibe saygı**, **fırsat eşitliği** ve **yarışma şartlarının eşitliği**.",
+              "**Rakibe saygı**, rakibi bir **oyun partneri** olarak görüp değer vermek demektir.",
+              "Kurallara uyma ikiye ayrılır: **kurucu kurallar** (ihlali sporu başka bir faaliyete çevirir, örn. futbolda eli kullanma) ve **düzenleyici kurallar** (örn. boksta yumruk serbest, futbolda yasak).",
+              "**Fırsat eşitliği**, yarışma şartlarının biçimsel olarak benzer olmasını ister.",
+              "**Yarışma şartlarının eşitliği**, imkan ve antrenman farklarını yok etmez, yalnızca start şansını eşitler; bu yüzden güreş, boks, halterde **sıklet (ağırlık) kategorileri** vardır.",
+              "Antik Çağ'da sıklet düzenlemesi yoktu, bu yüzden o dönemde fırsat eşitliğinden söz edilemez."
             ]
           },
           {
             "heading": "Formal ve İnformal Fair Play",
-            "paragraphs": [
-              "Fair play tanımı kapsamında verilen iki anlayış, ilk defa 1964 yılında Hans Lenk tarafından 'formal' ve 'informal' fair play olarak ayrımlaştırılmıştır. Formal fair play, amir hükümler içeren oyun kurallarını kabullenme ve onlara kesinlikle uyma ile sınırlıdır; sporun düzenli akışının olmazsa olmazı olan kurucu kurallara saygı ve hakem talimatlarına kesin itaat, formal fair play'in merkezi unsurlarıdır. Günümüzde kural ihlallerinin 'enselenmemek' (yakalanmamak) kriteriyle göze alındığı ve bazı antrenmanlarda dahi öğretildiği görülse de, kurallara uyma ve riayet etme hâlâ fair play'in temeli olarak kabul edilmektedir.",
-              "İnformal fair play ise daha derin ve kapsayıcı bir anlam taşır; sporda kuralların belirlediğinin ötesinde, kurallar üstü bir davranışı talep eder. Sportif rakibe insan olarak saygı duymak, onurunu korumak, ona adalet, insani dayanışma ve hatta dostluk göstermek bu tür davranışlardandır ve bunları yazılı kural metinlerinde bulmak mümkün değildir. İnformal fair play; rakibin maruz kalacağı haksız durumları gidermeye çalışmayı, kendi yarar ve yargısına uygun olmasa bile hakem kararlarına saygı göstermeyi, hakemlerin doğru karar almasına yardımcı olmayı ve galibiyet ya da mağlubiyette ölçülü davranmayı esas alır. Kısacası formal fair play yazılı kurala sıkı sıkıya bağlılığı, informal fair play ise örf, âdet ve norm gibi yazılı olmayan beklentilere uygun davranmayı ifade eder."
+            "emoji": "🤝",
+            "bullets": [
+              "Bu ayrımı ilk kez 1964'te **Hans Lenk** \"formal\" ve \"informal\" fair play olarak yapmıştır.",
+              "**Formal fair play**, yazılı oyun kurallarına ve hakem talimatlarına kesinlikle uymakla sınırlıdır - örneğin bir kuralın (mesela doping yasağının) var olduğunu bilip ona uymak.",
+              "Günümüzde kuralları \"yakalanmadan\" çiğnemek bile görülse de, kurallara uymak hâlâ fair play'in temelidir.",
+              "**İnformal fair play**, yazılı kuralların ötesine geçer; rakibe insan olarak saygı, onurunu koruma, dayanışma ve dostluk göstermeyi içerir.",
+              "İnformal fair play; rakibin haksızlığını düzeltmeye çalışmayı, kendi aleyhine olsa da **hakem kararlarına saygı göstermeyi**, **hakemin doğru karar almasına yardımcı olmayı** ve kazanırken/kaybederken ölçülü davranmayı kapsar.",
+              "Kısaca: formal = yazılı kurala bağlılık, informal = örf, âdet ve norm gibi yazılı olmayan beklentilere uygun davranış."
             ]
           },
           {
-            "heading": "Antik Çağ ve Ortaçağ'da Fair Play Anlayışı",
-            "paragraphs": [
-              "MÖ 776'dan başlayıp bin yıldan fazla süren Antik Olimpiyat Oyunları'nda, yarışmacılar oyunların ilk günü kurallara uyacaklarına dair ant içer, hakemler de adil davranacaklarına ve bilgileri gizli tutacaklarına yemin ederlerdi. Kural ihlalleri ağır biçimde cezalandırılırdı: köle muamelesiyle kırbaçlama, yarışmalardan ihraç, hatta zaferi parayla satın almaya çalışan atletler için 'günah heykeli' diktirilmesi gibi yaptırımlar uygulanırdı. Buna karşın Antik Çağ'da, çağımızdaki mücadele sporlarının vazgeçilmezi olan sıklet (ağırlık kategorisi) düzenlemesi bulunmadığından, günümüz fair play anlayışının temel prensiplerinden biri olan 'yarışma şartlarının eşitliği'nden bahsedilemezdi. Klasik Çağ'da (MÖ 500-330) site devletleri arası rekabet arttıkça oyunların kutsallığı azalmış, yeminlerin yaptırım gücü de zayıflayarak kazanmak için etik dışı yollara başvurma eğilimi giderek artmıştır.",
-              "Ortaçağ'da ise 'şövalyeliğin yedi becerisi' (ata binme, yüzme, ok atma, eskrim, av, satranç, iyi şiir okuma) yalnızca soylulara özgü bedensel alıştırmalardı. Fair play'in kaynaklarını inceleyen araştırmacılara göre bu idealin ana hatları Ortaçağ şövalye turnuvalarında konulmuştur: şövalyece tutum, karşılaşmada şartların (örneğin silahların) eşitliğini, yenilmiş ya da silahsız kalmış rakibe onurlu muameleyi ve karşılaşma talimatlarına uymayı içeriyordu. Ancak Ortaçağ turnuvaları aynı zamanda krallık gücünün bir gösteri alanı olduğundan, modern fair play'in şart koştuğu 'performansı serbestçe ortaya koyma' ortamından uzaktı; turnuvalarda fırsat eşitliğinden çok zümre menfaatleri ve gösteriş ön plandaydı."
+            "heading": "Antik Çağ ve Ortaçağ'da Fair Play",
+            "emoji": "🏛️",
+            "bullets": [
+              "MÖ 776'dan başlayıp 1000 yıldan fazla süren **Antik Olimpiyat Oyunları**'nda sporcular kurallara uyacaklarına, hakemler adil davranacaklarına **ant içerdi**.",
+              "Kural ihlalleri ağır cezalandırılırdı: kırbaçlama, yarışmadan ihraç, hatta zaferi satın almaya çalışanlara \"**günah heykeli**\" diktirilmesi.",
+              "Antik Çağ'da **sıklet (ağırlık) kategorisi** yoktu, bu nedenle \"yarışma şartlarının eşitliği\" ilkesinden bahsedilemezdi.",
+              "Klasik Çağ'da (MÖ 500-330) site devletleri arası rekabet artınca yeminlerin gücü zayıflamış, etik dışı yollara başvurma artmıştır.",
+              "Ortaçağ'da \"**şövalyeliğin yedi becerisi**\" (ata binme, yüzme, ok atma, eskrim, av, satranç, şiir) sadece soylulara özgüydü.",
+              "Şövalye turnuvaları fair play'in köklerini oluşturur: silah eşitliği, yenilen/silahsız rakibe onurlu davranış ve talimatlara uyma.",
+              "Ancak turnuvalar aynı zamanda krallık gücünün gösterisiydi; fırsat eşitliğinden çok zümre menfaati ve gösteriş ön plandaydı."
             ]
           },
           {
-            "heading": "Modern Fair Play Anlayışının İngiltere'deki Gelişimi",
-            "paragraphs": [
-              "Modern fair play anlayışının sistematik temelleri 19. yüzyıl İngiltere'sinde atılmıştır. Bu süreçte en belirleyici rolü, Public Schools denilen yatılı kolejler (Eton, Harrow, Winchester, Rugby vb.) ve Oxford-Cambridge üniversiteleri oynamıştır. 19. yüzyılın ilk yarısında Thomas Arnold, müdürlüğünü yaptığı Rugby kolejinde öğrencilerde 'genç Hıristiyan centilmen' idealini yerleştirmeyi hedeflemiş, sporu moral eğitim aracı olarak kullanmış ve bireysel spordan çok takım sporunun geliştirilmesini amaçlamıştır. Yüzyılın ikinci yarısında Uppingham kolejinin müdürü Edward Thring ise spor ve jimnastiği müfredat programına dahil ederek öğrencilerin pratik hayata uyumunu sağlamayı hedeflemiştir. Takım oyunları, bireyin başka becerilerini (rakibe saygı, yenilgiyi soğukkanlılıkla karşılama, takım için çaba sarf etme) ferdi oyunlardan daha çok geliştirdiği için özellikle önemsenmiştir.",
-              "Fair play'in yaygınlaşmasında İngiliz soylularının yüzyıllardır süregelen bahis, yarışma ve yarıştırma tutkusu da önemli rol oynamıştır; soylular karşılaşma boyunca iyi niyetin korunmasına ve kurallara uyulmasına dikkat ediyordu. Sadece büyük erkek çocukların unvan ve mülkiyet hakkına sahip olmasını hükme bağlayan primogeniture yasası nedeniyle orta sınıfa dahil olan diğer çocuklar, centilmen olarak kabul görmek için soyluların tutum ve davranışlarını örnek alarak fair play anlayışını alt tabakalara taşımışlardır. 18.-19. yüzyıllarda ortaya çıkan 'amatör kurallar' ise başlangıçta çalışan kesimi belirli spor dallarından (örn. Henley kürek yarışları) dışlamak amacıyla konmuş sınıfsal düzenlemeler olsa da, paradoksal biçimde sporun 'temiz' kalmasını garantileyerek fair play anlayışının yerleşmesine katkıda bulunmuştur. Bu gelişmelerin olumlu sonuçları, modern olimpiyat oyunlarının kurucusu Baron Pierre de Coubertin'i de etkilemiş ve fair play'in öngördüğü 'şövalyece düşünüş' anlayışı olimpizm fikrinin temellerinden birini oluşturmuştur."
+            "heading": "Modern Fair Play İngiltere'de Doğuyor",
+            "emoji": "🇬🇧",
+            "bullets": [
+              "Modern fair play'in temelleri 19. yüzyıl İngiltere'sinde, **Public Schools** (Eton, Harrow, Winchester, Rugby) ve Oxford-Cambridge'de atıldı.",
+              "**Thomas Arnold** (Rugby koleji müdürü), sporu moral eğitim aracı yaparak \"genç Hıristiyan centilmen\" idealini ve takım sporunu geliştirmeyi hedefledi.",
+              "**Edward Thring** (Uppingham müdürü), spor ve jimnastiği müfredata katarak öğrencilerin pratik hayata uyumunu sağladı.",
+              "Takım oyunları; rakibe saygı, yenilgiyi soğukkanlı karşılama gibi becerileri bireysel sporlardan daha iyi geliştirdiği için önemsenmiştir.",
+              "İngiliz soylularının bahis ve yarışma tutkusu, iyi niyetin ve kuralların korunmasına katkı sağladı.",
+              "**Primogeniture yasası** nedeniyle unvan alamayan orta sınıf çocukları, centilmen sayılmak için soyluların fair play tavrını örnek aldı.",
+              "**Amatör kurallar** (18-19. yy) başlangıçta çalışan kesimi dışlasa da, sporun \"temiz\" kalmasını sağlayarak fair play'e katkı yaptı; bu gelişmeler modern olimpiyatların kurucusu **Pierre de Coubertin**'i de etkiledi."
             ]
           },
           {
-            "heading": "Fair Play Anlayışında Gerileme Süreci",
-            "paragraphs": [
-              "Modern sporun İngiltere'deki başlangıcında denge açıkça informal fair play lehineydi: Viktorya dönemi İngiliz soylusu için galibiyet önemsizdi, sporu bizzat uygulamaktan alınan zevk önemliydi ve medyada anılmak kabalık sayılırdı. Ancak 19. yüzyıl sonu ile 20. yüzyıl başında sportif yarışmaların ticarileşmeye başlaması ve geniş halk kitlelerine açılmasıyla 'amaç' değişmiş, denge uygulamadan alınan zevkten ciddiyete doğru bozulmuştur. 20. yüzyıl boyunca bu denge giderek informal fair play'den formal fair play'e kaymıştır; bunun anlamı, fair play anlayışının eşit yarışma şartlarını sağlamaktan çıkıp yalnızca oyun kurallarına uymaya indirgenmesidir.",
-              "Günümüz yüksek performans sporunda, kurallara aykırı davranışı hakeme fark ettirmeden yapmak ('enselenmemek' ya da 'kendini yakalatmamak' kriteri) belirleyici hâle gelmiştir; bu durum kamuoyu, medya, sponsor ve politik çevrelerin sporcular üzerindeki performans baskısından kaynaklanmaktadır. Sporun uluslararası, ulusal veya yerel 'prestij' aracı olarak algılanması da ('kasabanın namusu', 'okulun şerefi' gibi özdeşleştirmeler) sürecin değerini kaybettirerek 'ne pahasına olursa olsun kazanma' anlayışını güçlendirmektedir. Araştırmalar, gençlerin kulüplerde aktif spor yapma süresi uzadıkça kural ihlallerini ve haksız avantaj sağlamayı 'akıllı bir taktik' olarak görmeye başladıklarını göstermektedir; buna karşın fair play, bariz ihlallere rağmen halkın, medyanın ve sponsorların modern spora ilgisinde hâlâ önemli bir rol oynamaktadır."
+            "heading": "Fair Play Neden Geriliyor?",
+            "emoji": "📉",
+            "bullets": [
+              "Viktorya dönemi İngiliz soylusu için galibiyet değil, sporu yapmaktan alınan zevk önemliydi - denge **informal fair play** lehineydi.",
+              "19. yüzyıl sonu - 20. yüzyıl başında sporun ticarileşmesi ve kitlelere açılmasıyla amaç değişti, denge ciddiyete kaydı.",
+              "20. yüzyıl boyunca denge **informal fair play**'den **formal fair play**'e kaydı: artık sadece kurallara uymak yeterli görülmeye başlandı.",
+              "Günümüzde kuralı hakeme \"**enselenmeden**\" (yakalanmadan) çiğnemek belirleyici hale geldi; bunun nedeni medya, sponsor ve kamuoyu baskısı.",
+              "Sporun \"kasabanın namusu\" gibi bir prestij aracı sayılması, \"**ne pahasına olursa olsun kazanma**\" anlayışını güçlendirdi - oysa gerçek fair play bunun karşıtıdır.",
+              "Gençler kulüplerde uzun süre spor yapınca kural ihlalini \"akıllı taktik\" olarak görmeye başlıyor; buna karşın fair play hâlâ halkın ve medyanın ilgisinde önemli bir yer tutuyor."
             ]
           },
           {
-            "heading": "Fair Play Kavramının Türkiye Serüveni",
-            "paragraphs": [
-              "19. yüzyıl sonlarında Osmanlı topraklarında görülmeye başlanan ve Meşrutiyet'in ilanı sonrasında yaygınlaşan modern spor uygulamalarında, fair play'e uygun davranış sergileyen sporcular genellikle 'centilmen', 'sportmen' ya da 'efendi' sıfatlarıyla anılıyordu. Türkçe literatürde terimi ilk kullanan kaynak Selim Sırrı Tarcan'ın 1926 tarihli eseridir; 1974'te yayımlanan 'Sporda Erdemlik – Fair Play' ile kavramın Türkçe karşılığı 'sporda erdemlik' olarak yerleşmiştir. Türkiye Milli Olimpiyat Komitesi'nin 1988 basımı 'Olimpik Hareket' adlı eserinde de konu 'Fair Play (Sporda Erdemlik)' başlığıyla ele alınmıştır.",
-              "Türk Dil Kurumu, Temmuz 1994'te yayımladığı çalışmada terim için 'dürüst oyun' karşılığını önermiş, medyada ise 'örnek davranış' ifadesi de kullanılmaya başlanmıştır. Türk Silahlı Kuvvetleri 2005'te yayımladığı bir kitapçıkta kavramı 'Sporda Centilmenlik ve Hakkaniyete Uyma Ruhu (Fair-Play)' olarak tanımlamıştır. Böylece fair play kavramı, Türkçede farklı karşılıklarla ifade edilmeye çalışılsa da, anlam zenginliğini kaybetmemek amacıyla genellikle özgün İngilizce terim olarak kullanılmaya devam etmiştir."
+            "heading": "Fair Play'in Türkiye'deki Yolculuğu",
+            "emoji": "🇹🇷",
+            "bullets": [
+              "Osmanlı'da 19. yüzyıl sonu - Meşrutiyet sonrasında fair play'e uygun davranan sporcular \"**centilmen**\", \"**sportmen**\" ya da \"**efendi**\" olarak anılırdı.",
+              "Türkçede terimi ilk kullanan kaynak **Selim Sırrı Tarcan**'ın 1926 tarihli \"Sporcu Neler Bilmeli\" adlı eseridir.",
+              "1974'te yayımlanan \"**Sporda Erdemlik – Fair Play**\" çevirisiyle Türkçe karşılık \"sporda erdemlik\" olarak yerleşti.",
+              "TMOK'un 1988 basımı \"Olimpik Hareket\" adlı eserinde konu \"Fair Play (Sporda Erdemlik)\" başlığıyla ele alındı.",
+              "**Türk Dil Kurumu**, Temmuz 1994'te terim için \"**dürüst oyun**\" karşılığını önerdi; medyada \"örnek davranış\" ifadesi de kullanıldı.",
+              "Türk Silahlı Kuvvetleri 2005'te kavramı \"Sporda Centilmenlik ve Hakkaniyete Uyma Ruhu (Fair-Play)\" olarak tanımladı.",
+              "Anlam zenginliği kaybolmasın diye kavram Türkçede genellikle özgün İngilizce \"fair play\" olarak kullanılmaya devam etti."
             ]
           },
           {
-            "heading": "Dünyada ve Türkiye'de Fair Play Kuruluşları ve Ödülleri",
-            "paragraphs": [
-              "Fair play ödülleri, sonuçtan bağımsız olarak sporda ya da toplumsal yaşamda gösterilen insani kalitelere verilir ve 'kaybederek de kazanılabilir' fikrini canlı tutmaya yöneliktir. Dünyada fair play organizasyonuna yönelik ilk adım 1963'te Münih'te atılmış, kurumsal yapı 1973'te 'Uluslararası Fair Play Komitesi' (CIFP) adını almış ve 1987'de IOC tarafından tanınmıştır. CIFP, merkezi Paris'te bulunan, kâr amacı gütmeyen bir sivil toplum kuruluşu olup dünya genelinde fair play'in savunuculuğunu ve tanıtımını yapar; 1965'ten itibaren davranış, kariyer ve tanıtım dallarında Dünya Fair Play Ödülleri (Pierre de Coubertin, Jean Borotra, Willi Daume ödülleri) verir. İlk Pierre de Coubertin Dünya Fair Play Büyük Ödülü, 1964 Innsbruck Kış Oyunları'nda rakiplerine kızak vidası vererek fırsat eşitliğini sağlayan İtalyan kızakçı Eugenio Monti'ye verilmiştir.",
-              "Avrupa düzeyinde ise 27 Mayıs 1994'te Zürih'te, Türkiye'nin de kurucu üyesi olduğu Avrupa Fair Play Birliği (EFPM) kurulmuştur; Türk üye Erdoğan Arıpınar birliğin 2. başkanlığına seçilmiştir. EFPM, Avrupa Fair Play Ödülleri, Fair Play Ruhu Ödülü, Fair Play Alevi Ödülü ve Fair Play Vox Ödülü gibi kategorilerde ödüller dağıtır ve 'Play Fair' adlı yayın organı aracılığıyla fair play'i tanıtır.",
-              "Türkiye'de fair play'e ilişkin ilk kurumsal yapılanma, 17 Kasım 1981'de Turgut Atakol başkanlığındaki Türkiye Milli Olimpiyat Komitesi (TMOK) yönetim kurulu tarafından oluşturulan 'Fair Play Komisyonu'dur. 1993'te IOC statüsüne uygun bir yönetmelikle 'TMOK Fair Play Konseyi' kurulmuş; konsey 1994'ten itibaren ödülleri davranış, kariyer ve tanıtım dallarında Büyük Ödül, Şeref Diploması ve Kutlama Ödülü olarak vermeye başlamıştır. 1999'dan itibaren ödüller Toplumsal ve Sportif Fair Play ödülleri olmak üzere iki ana başlıkta toplanmıştır. Türkiye'den İsmet Karababa (1983, ilk Türk fair play ödülü sahibi), Naim Gölleroğlu, Hayrettin Karaca ve Yasemin Adar gibi isimler ulusal ve uluslararası fair play ödülleri almıştır."
+            "heading": "Fair Play Ödülleri ve Kuruluşları",
+            "emoji": "🏆",
+            "bullets": [
+              "Fair play ödülleri sonuçtan bağımsız gösterilen insani kalitelere verilir; \"**kaybederek de kazanılabilir**\" fikrini canlı tutar.",
+              "Dünyadaki ilk adım 1963'te Münih'te atıldı; yapı 1973'te \"**Uluslararası Fair Play Komitesi**\" (**CIFP**) adını aldı ve 1987'de **IOC** tarafından tanındı.",
+              "Merkezi Paris'te olan CIFP, kâr amacı gütmez ve dünya genelinde fair play'in savunuculuğunu yapar; 1965'ten itibaren davranış, kariyer ve tanıtım dallarında **Dünya Fair Play Ödülleri** (Pierre de Coubertin, Jean Borotra, Willi Daume) verir.",
+              "İlk **Pierre de Coubertin Dünya Fair Play Büyük Ödülü**, 1964 Innsbruck Kış Oyunları'nda rakibine kızak vidası veren İtalyan kızakçı **Eugenio Monti**'ye verildi.",
+              "27 Mayıs 1994'te Zürih'te, Türkiye'nin kurucu üyesi olduğu **Avrupa Fair Play Birliği (EFPM)** kuruldu; Türk üye **Erdoğan Arıpınar** 2. başkan seçildi.",
+              "Türkiye'deki ilk kurumsal yapı, 17 Kasım 1981'de **Turgut Atakol** başkanlığındaki **TMOK** yönetim kurulunca kurulan \"**Fair Play Komisyonu**\"dur.",
+              "1993'te \"TMOK Fair Play Konseyi\" kuruldu; 1999'dan itibaren ödüller **Toplumsal** ve **Sportif Fair Play** olmak üzere iki başlıkta toplandı. **İsmet Karababa** (1983, ilk Türk ödülü sahibi), Naim Gölleroğlu, Hayrettin Karaca ve Yasemin Adar gibi isimler ödül aldı."
             ]
           }
         ],
@@ -10168,58 +10522,75 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Sporda Koruma Temel Kavramlar",
-            "paragraphs": [
-              "Çocuk koruma; çocuğun yaşama, gelişme, korunma ve katılım haklarının güvence altına alınarak çocuğun fiziksel, duygusal, zihinsel ve ruhsal gelişiminde yarar ve esenliğinin gözetilmesi anlamına gelir. BM Çocuk Hakları Sözleşmesi'nin 1. maddesine göre çocuk, 'daha erken yaşta reşit olma durumu hariç, on sekiz yaşına kadar her insan' olarak tanımlanır. Çocukların korunması düşüncesi, sanayi devriminde çocukların ağır şartlarda çalıştırılmasına karşı gelişen ilk sosyal politika tedbirlerine kadar uzanır ve zamanla çocukların da yetişkinler gibi haklara sahip olduğu anlayışı kabul görmüştür.",
-              "UNICEF, çocuk koruma kavramını; çocuklara yapılan her türlü şiddet, istismar, ihmal, sömürü ve taciz olaylarını engelleme ve bu olaylara kısa sürede yanıt verip müdahale etme olarak tanımlar. Önemli iki nokta vardır: çocuk koruma, istismar davranışları ortaya çıktıktan sonra uygulanan bir program değil, riskleri önceden fark ederek önlem alan önleyici bir yaklaşımdır; ayrıca sadece çocuğun korunmasına yönelik önlemleri içermez, antrenör, yönetici, ebeveyn ve çalışan gibi spor alanındaki tüm unsurların korunmasını da kapsar.",
-              "Spor, çocukların fiziksel, zihinsel, duygusal ve sosyal gelişimi için en önemli araçlardan biridir; bu nedenle UNESCO'nun Beden Eğitimi ve Spor Uluslararası Şartı ve IOC'nin temel prensipleri, güvenli ortamlarda spor yapmanın her çocuğun hakkı ve taraf devletlerin sorumluluğu olduğunu vurgular. Ancak spor faaliyetleri, kendine özgü doğası (güç ve itaat ilişkisi, yüksek etkileşim, başarı merkezli kültür) nedeniyle çocuklar için en çok risk taşıyan alanlardan birine de dönüşebilmekte ve bazı istismar biçimlerinin zeminini oluşturabilmektedir.",
-              "Spor alanında yaşanan taciz ve istismarın sporcu üzerinde hayati etkileri vardır: fiziksel (hastalık, yaralanma, yeme bozuklukları), bilişsel (kendine güvensizlik), duygusal (geçici ruh hali bozuklukları), davranışsal (okulu bırakma, hile yapma eğilimi), zihinsel (kaygı, depresyon, kendine zarar verme, intihar), ilişkilere etki (sosyal dışlanma) ve ekonomik kayıplar gibi birçok boyutu içerebilir.",
-              "Cense ve Brackenridge (2001), sporcuların istismara uğrama riskini artıran temel faktörleri şöyle sıralamıştır: çocuklar arasındaki yaş ve olgunlaşma farklılıkları, çocukların yetişkin otoritesine direnmesinin zorluğu, antrenörlerin bilgi/beceri üstünlüğünden kaynaklanan güçlü otoritesi, sporcuların elit düzeye ulaşma isteği ve antrenöre karşı gelmekten korkması, eğitici davranış ile istismarcı davranışı ayırt etmenin zorluğu, spor kültüründeki otoriter liderlik iklimi ve güç dengesizliği, sporcunun baskın ebeveyn deneyimi nedeniyle taciz davranışlarını normal kabul etmesi ve üst düzey genç sporcuların yoğun kamp/antrenman dönemleri nedeniyle akranlarından izole olması. Ayrıca sportif başarının cazibesi, maddi ve manevi getiriler ile antrenör-sporcu arasındaki kuvvetli güven ilişkisi de istismar davranışlarının göz ardı edilip normalleşmesine yol açabilir.",
-              "Türk Dil Kurumu, taciz kavramını tedirgin etme/rahatsız etme, istismar kavramını ise sömürme olarak tanımlar. Çocuk istismarı; çocuğa bakmak, gözetmek ve eğitmekle görevli kişiler ya da yabancılar tarafından çocuğun bedensel veya psikolojik sağlığına zarar verecek, sosyal gelişimini engelleyecek şekilde uygulanan tüm fiziksel, duygusal veya cinsel tutumları, ihmali ve ticari sömürüyü kapsar. DSÖ, çocuk istismarını sorumluluk ve güç-güven ilişkisine dayalı durumlardan ortaya çıkan her türlü fiziksel/duygusal kötü muamele, cinsel istismar, ihmal ve çocuğa zarar verme potansiyeli olan davranışlar olarak tanımlar ve fiziksel istismar, cinsel istismar, duygusal istismar ve ihmal olmak üzere 4 temel istismar biçimi belirler.",
-              "Güvenli spor; spor ortamındaki tüm bireylerin ihmale, fiziksel, duygusal, cinsel ve ekonomik istismara uğramamasını sağlamak için bütün güvenlik önlemlerinin alındığı bir sistemdir. Örneğin Uluslararası Kayak Federasyonu, kötüye kullanım/istismar iddialarının ciddiye alınıp hızlı yanıtlanmasını, gönüllüler dahil tüm çalışanların çocuk koruma ilkelerine uygun işe alınmasını ve doğru davranış eğitiminin sağlanmasını taahhüt etmiştir."
+            "heading": "Çocuk Koruma Nedir?",
+            "emoji": "🛡️",
+            "bullets": [
+              "**Çocuk koruma**, çocuğun yaşama, gelişme, korunma ve katılım haklarını güvence altına alıp iyiliğini gözetmektir; BM Sözleşmesi'ne göre **çocuk**, 18 yaşına kadar herkestir.",
+              "UNICEF'e göre çocuk koruma istismarı **önceden önleyen** bir yaklaşımdır ve gerektiğinde **kısa sürede yanıt verip müdahale** eder - sadece sorun çıktıktan sonra devreye giren bir program değildir.",
+              "Çocuk koruma sadece çocuğu değil, **antrenör, yönetici, ebeveyn ve çalışanları** da kapsayan geniş bir anlayıştır.",
+              "Spor gelişim için çok değerlidir ama **güç-itaat ilişkisi**, yoğun fiziksel etkileşim ve başarı odaklı kültürü yüzünden istismara da zemin hazırlayabilir.",
+              "İstismarın sporcuda fiziksel, zihinsel (kaygı, depresyon), davranışsal ve ekonomik ağır etkileri olabilir.",
+              "Cense ve Brackenridge'e göre riski artıran başlıca etmenler: **antrenör-sporcu güç dengesizliği**, **maddi/manevi kazançlar** ve kuvvetli **güven ilişkisinin** istismarı normalleştirmesi.",
+              "DSÖ istismarı 4 ana tipe ayırır: **fiziksel istismar**, **cinsel istismar**, **duygusal istismar** ve **ihmal**; **güvenli spor** ise bunlara karşı tüm önlemlerin alındığı sistemdir."
             ]
           },
           {
-            "heading": "Sporda Koruma Alanında Hak Temelli Anlayış",
-            "paragraphs": [
-              "Çocuk hakları, ihtiyaç temelli olmaktan ziyade hak temelli bir anlayıştır; hak sahipleri (çocuklar), yasal haklarını elde etmeleri ve savunmaları için cesaretlendirilen bireylerdir, hayır kurumlarının nesneleri değildir. Hak temelli yaklaşım şu özelliklere sahiptir: çocuklar ve hakları üzerinde belirgin bir odaklanma, ayrımcılık gözetmeme, hesap verilebilirlik, katılım, çocuğun yüksek yararı ve hak temelli ortak amaçlar için diğer kesimlerle birlikte çalışma.",
-              "Çocukların korunmasına ilişkin ilk uluslararası metin, 26 Eylül 1924'te kabul edilen Cenevre Bildirgesi'dir (imzacılardan biri Gazi Mustafa Kemal Atatürk'tür). Bu beş maddelik bildirge; çocuğun doğal gelişimi, beslenme/tedavi/eğitim hakkı, felaket anında önceliği, istismara karşı korunması ve yeteneklerinin insanlık yararına yetiştirilmesi gibi ilkeleri içerir, ancak yaptırım gücü olmadığından devletlerin iyi niyet beyanı niteliğinde kalmıştır.",
-              "1948'de BM Genel Kurulu, çocuk haklarına sınırlı yer veren İnsan Hakları Evrensel Bildirgesi'ni kabul etmiştir. Uzun çalışmalar sonucunda 1959'da BM Genel Kurulu, çocukların özel bakım ve korunmaya muhtaç olduğunu kabul eden 10 maddelik Çocuk Hakları Bildirgesi'ni kabul etmiştir; bu bildirgede ayrımcılık yasağı, özel korunma, ad/vatandaşlık hakkı, sosyal güvenlik, eğitim, eğlence ve ihmal/kötü muameleye karşı korunma gibi haklar yer alır.",
-              "20 Kasım 1989'da BM Genel Kurulu, çocuk haklarının anayasası niteliğindeki Çocuk Hakları Sözleşmesi'ni (ÇHS) oy birliğiyle kabul etmiştir. Sözleşme; yaşama ve gelişme hakkı (temel yaşam standartları, eğitim, oyun, dinlenme), eşitlik ve ayrım gözetmeme ilkesi (madde 2), katılım hakkı (madde 12 - çocuğun kendini ilgilendiren konularda görüşünü ifade etme hakkı) ve çocuğun yüksek yararı ilkesi (madde 3) üzerine kurulmuştur. Madde 19 ise çocuğun her türlü istismar ve kötü muameleye karşı korunması için devletlerin tüm önlemleri almasını öngörür ve bu madde spor örgütlerinin de çocuk istismarını önleme sorumluluğunu ortaya koyar. Türkiye sözleşmeyi 14 Eylül 1990'da imzalamış, Anayasa'nın 90. maddesi uyarınca sözleşme iç hukukta kanunlardan üstün konuma gelmiştir.",
-              "Avrupa Konseyi'nin 2007'de Lanzarote'de imzaya açılan ve 'Lanzarote Sözleşmesi' olarak bilinen Çocukların Cinsel Sömürü ve Cinsel İstismara Karşı Korunmasına İlişkin Sözleşmesi (Türkiye'de 2011'de yürürlüğe girmiştir), çocukların her tür cinsel sömürü ve istismarını engellemeyi, bu konuda mücadele etmeyi ve mağdurların haklarını korumayı amaçlar. Sözleşmenin 5. maddesi, spor alanında çocuklarla çalışacak kişilerin işe alımı, eğitimi ve bilinçlendirilmesine yönelik hükümler içerir; 18. madde cinsel istismarı tanımlar, 28. madde ağırlaştırıcı halleri (mağdura ciddi zarar, aile üyesi tarafından işlenme vb.) düzenler. Bu çerçevede Avrupa Konseyi, üye devletler arasında spor işbirliğini teşvik eden Sporda Genişletilmiş Kısmi Anlaşma'yı (EPAS) da oluşturmuştur; Türkiye 2020'de 38. üye olarak EPAS'a katılmıştır.",
-              "Uluslararası spor politika belgeleri de spora katılımı temel bir insan hakkı olarak tanımlar: UNESCO'nun 1978'de kabul ettiği Uluslararası Beden Eğitimi ve Spor Şartı'nın 1. maddesi, herkesin beden eğitimi ve spora temel bir erişim hakkına sahip olduğunu belirtir. IOC'nin Olimpik Antlaşması'nın 4. maddesi, spor faaliyetlerine katılımın bir insan hakkı olduğunu ve ayrımcılık yapılmaksızın olimpik ruh içinde spor yapma fırsatının herkese sağlanması gerektiğini ifade eder. BM Çocuk Hakları Sözleşmesi'nin 31. maddesi de çocukların dinlenme, oyun ve yaşına uygun eğlence etkinliklerine katılma hakkını güvence altına alır; bu üç belge birlikte, güvenli ve uygun ortamlarda spor yapmanın her çocuğun hakkı ve devletlerin sorumluluğu olduğunu teyit eder."
+            "heading": "Çocuk Hakları: Kısa Tarih",
+            "emoji": "📜",
+            "bullets": [
+              "**Çocuk hakları**, ihtiyaç değil **hak temelli** bir anlayıştır: çocuklar haklarını savunabilen bireylerdir, yardım nesnesi değildir.",
+              "Hak temelli yaklaşımın özellikleri: **ayrımcılık gözetmeme**, **hesap verilebilirlik**, **katılım** ve **çocuğun yüksek yararı**.",
+              "Çocuk korumaya ilişkin **ilk uluslararası metin**, 1924'teki **Cenevre Bildirgesi**'dir (imzacılardan biri Atatürk'tür) ama yaptırım gücü yoktu.",
+              "1959'da 10 maddelik Çocuk Hakları Bildirgesi, 1989'da ise çocuk haklarının anayasası sayılan **Çocuk Hakları Sözleşmesi (ÇHS)** kabul edildi.",
+              "ÇHS'nin madde 19'u devletlere çocuğu her türlü istismara karşı koruma yükümlülüğü verir, spor örgütleri de bu sorumluluğu taşır; Türkiye sözleşmeyi 1990'da imzaladı ve Anayasa md.90 ile iç hukukta kanunlardan üstün kıldı.",
+              "Avrupa Konseyi'nin **Lanzarote Sözleşmesi**'nin **5. maddesi**, spor alanında çocuklarla çalışacakların işe alımı, eğitimi ve bilinçlendirilmesini düzenler.",
+              "UNESCO'nun Beden Eğitimi ve Spor Şartı, IOC'nin Olimpik Antlaşması ve BM ÇHS (madde 31), spora katılımı herkes için temel bir **insan hakkı** sayar."
             ]
           },
           {
-            "heading": "Sporda Çocuk İstismarı: Genel Çerçeve ve Fiziksel İstismar",
-            "paragraphs": [
-              "Çocuğun sağlığını, fiziksel ve psikososyal gelişimini olumsuz etkileyen davranışlar istismar olarak tanımlanır. Spor, bir yandan çocukların fiziksel, zihinsel, duygusal ve sosyal gelişimine önemli katkılar sağlarken, barındırdığı güç ve itaat kültürü nedeniyle özellikle elit sporcuları istismara karşı savunmasız bırakabilmektedir; araştırmacılar, seçkin seviyeye ulaşan sporcuların kırılgan bir yapıya sahip olduğunu ve verdikleri emek karşısında maruz kaldıkları yıpratıcı davranışları göz ardı ederek sadece performansa odaklandıklarını göstermiştir.",
-              "UNICEF, spor alanında görülebilecek istismar biçimlerini genel çerçevede şöyle sıralamıştır: performans ya da vücut şekli hakkında psikolojik aşağılama, performansı artırmak için aşırı baskı, onur kırıcı takıma kabul ritüelleri, fiziksel ceza (dayak) uygulanması, aşırı risk alarak yaralanmaya neden olma, doping/performans artırıcı kullandırma, alkol ya da bağımlılık yapan madde kullanımı için akran baskısı, yaralı sporcunun oyundan çıkarılmaması, fiziksel egzersizin ceza olarak kullanılması ve yetersiz dinlenme/bakım sağlanmaması.",
-              "Uluslararası spor federasyonları, DSÖ'nün sınıflandırmasını temel alarak fiziksel, duygusal, cinsel istismar ve ihmali 4 temel istismar tipi olarak ele alır. Fiziksel istismar; IOC'ye göre fiziksel travma veya yaralanmaya neden olan delme, dayak, tekme, ısırma, yanma gibi kasıtlı ve hoş olmayan eylemlerdir; DSÖ'ye göre ise çocuğun yaşamına, gelişimine, bedenine veya onuruna zarar veren ya da zarar verme ihtimali olan hareketlerde bulunma ve çocuğun kaza dışı her türlü yaralanmasına sebep olmadır; en yaygın rastlanılan ve belirlenmesi en kolay istismar tipidir. Spor ortamında görülen fiziksel istismar biçimleri arasında vurmak, tekmelemek, saç/kulak çekmek, itmek, cimciklemek, takıma kabul ritüelleri, acı veren fiziksel cezalar, tükenmişken performansa zorlama ve sıklet için aşırı kilo aldırıp verdirme sayılabilir; göstergeleri ise açıklanamayan morarmalar, çoklu yanıklar, kırık kemikler ve haşlanmış deri gibi belirtilerdir."
+            "heading": "İstismar ve Fiziksel İstismar",
+            "emoji": "🥊",
+            "bullets": [
+              "İstismar, çocuğun sağlığına ve gelişimine zarar veren davranışlardır; elit sporcular güç-itaat kültürü yüzünden özellikle risk altındadır.",
+              "UNICEF'e göre spor istismarı; psikolojik aşağılama, aşırı performans baskısı, onur kırıcı kabul ritüelleri, fiziksel ceza, doping zorlaması ve yetersiz dinlenme gibi birçok biçimde görülebilir.",
+              "**Fiziksel istismar**, kasıtlı olarak bedensel travma/yaralanmaya neden olan eylemlerdir (IOC tanımı) ve en yaygın, en kolay fark edilen istismar tipidir.",
+              "Spor ortamında fiziksel istismar örnekleri: **vurmak**, tekmelemek, saç/kulak çekmek, itmek, acı veren kabul ritüelleri, tükenmişken performansa zorlamak ve sıklet için aşırı kilo aldırıp verdirmek.",
+              "Göstergeleri arasında açıklanamayan morarmalar, çoklu yanıklar, kırık kemikler ve haşlanmış deri izleri sayılabilir."
             ]
           },
           {
-            "heading": "Duygusal İstismar",
-            "paragraphs": [
-              "Duygusal istismar, bir kişi tarafından çocuğun psikolojik ve ruhsal gelişimine zarar veren veya zarar verme ihtimali olan davranışlardır; spor ortamında sporcu ile kritik ilişki içindeki bir kişi (antrenör vb.) tarafından yapılan, genellikle temassız davranışlar şeklinde ortaya çıkar. Gündelik yaşamda en sık rastlanan istismar tipi olup spor ortamında da en sık görülen ve en geniş olumsuz etki alanına sahip istismar türüdür; bunun nedeni, öfkeli bağırma ya da aşırı yüksek hedefler koyma gibi davranışların çoğu zaman 'motivasyon aracı' olarak normal kabul edilmesi ve bu nedenle kanıtlanmasının zor olmasıdır.",
-              "Duygusal istismar fiziksel biçimde (örneğin sporcuya cisim fırlatma) veya sözel biçimde (bağırarak küçümseme, aşağılama, isim takma) ortaya çıkabilir; ayrıca ilgi ve destek göstermemek (ağlayan sporcuya duyarsız kalmak, yok sayma, ayrımcılık) de bu kapsama girer. Antrenörlerin gerçekçi olmayan yüksek hedefler koyması, performans baskısı nedeniyle sporcuyu sürekli eleştirmesi, küçümsemesi ya da günah keçisi ilan etmesi de duygusal yıkıma neden olabilir. Çocuklar gelişim süreçlerinde farklılık gösterdiğinden, bir sporcunun fiziksel özellikleri (kısa/uzun boylu olması vb.) nedeniyle lakap takılması veya pasifleştirilmesi de duygusal gelişimi olumsuz etkiler.",
-              "Spor ortamında en yaygın duygusal istismar biçimleri şunlardır: sporcuya değersiz olduğunu hissettirmek, sürekli görmezden gelmek, yaş/seviyeye göre aşırı yüksek hedeflerle baskı altında hissettirmek, küçük düşürmek, öfkeyle bağırmak, tehdit etmek, utandırmak, takımın başarısızlığını belirli bir sporcuya yüklemek, zorbalık yapmak, alay etmek, lakap takmak, olumsuz iletişim dili kullanmak ve sporcunun kendi görüşlerini ifade etmesine izin vermemek. Önlenmesi için her sporcuya eşit mesafe ve ilgiyle davranılması gerekir."
+            "heading": "Görünmeyen Yara: Duygusal İstismar",
+            "emoji": "💔",
+            "bullets": [
+              "**Duygusal istismar**, çocuğun psikolojik gelişimine zarar veren, genellikle temassız davranışlardır; sporda en sık görülen istismar türüdür.",
+              "Öfkeli bağırma veya aşırı yüksek hedefler çoğu zaman 'motivasyon' sanılıp normalleştirildiği için fark edilmesi zordur.",
+              "Cisim fırlatma gibi fiziksel biçimlerde ya da bağırma, aşağılama, isim takma gibi sözel biçimlerde ortaya çıkabilir.",
+              "İlgisizlik, yok sayma, ayrımcılık ve gerçekçi olmayan hedeflerle sürekli eleştirme de duygusal yıkıma yol açar.",
+              "En yaygın örnekler: **değersiz hissettirmek**, görmezden gelmek, **küçük düşürmek**, öfkeyle bağırmak, tehdit etmek, başarısızlığı bir sporcuya yüklemek, **lakap takmak** ve **olumsuz iletişim dili** kullanmak.",
+              "Önlenmesi için her sporcuya eşit mesafe ve ilgiyle davranılmalıdır."
             ]
           },
           {
-            "heading": "Cinsel İstismar",
-            "paragraphs": [
-              "Cinsel istismar; yetişkinlerin cinsel arzu ve gereksinimlerini karşılamak için çocuk ya da ergeni güç kullanarak, tehdit ya da kandırma yoluyla kullanmasıdır; çocuğun ne olup bittiğinin farkında olup olmaması önemli değildir. Bazı bireyler çocuklara erişmek için kasıtlı olarak spor etkinliklerini hedef alabilir ve antrenörlük rolünü uygunsuz fiziksel temasları gizlemek için kullanabilir; bu nedenle uluslararası spor örgütleri fiziksel temas standartları getirmiştir: temas spor becerisi geliştirme, yaralanma tedavisi/önleme veya başarı kutlama amacıyla yapılmalı, genital ve özel bölgelere dokunulmamalı, temas öncesi açıklama yapılıp onay alınmalı ve temas gizli/gözden ırak yerlerde uygulanmamalıdır.",
-              "Sporcuların sürekli seyahat etmesi de cinsel istismar riskini artırabileceğinden, çalışanların çocuklarla aynı odada kalmaması, aynı cinsiyetteki sporcuların birlikte kalması ve kapı açık olmadan bireysel toplantı yapılmaması gibi önlemler alınmıştır. Ayrıca sporcuların tuvalet/soyunma odası gibi mahremiyet alanlarında görüntülenmesi ve kişisel bilgilerinin paylaşılan görsellerde yer alması, istismarcıların çocukla güven ilişkisi kurup onu savunmasız bırakmasına zemin hazırlayabileceğinden önemli bir risktir.",
-              "Spor ortamında en yaygın cinsel istismar biçimleri; cinsel eylem talep etme, cinsel içerikli oyunlar/uygunsuz dokunuşlara izin verme, teşhircilik, uygunsuz/gereksiz temas, cinsel içerikli görsel/ses kaydına maruz bırakma, cinsel içerikli söz ve şakalar ile çocuğa ait uygunsuz görüntünün kaydedilmesi/paylaşılmasıdır. Mağdurlar genellikle antrenörün sahip olduğu mutlak güç/otorite ve kariyerlerinin ona bağlı olması nedeniyle durumu açığa çıkaramaz; IOC, 2007 bildirgesinde üye ülkelerden sıfır tolerans politikaları geliştirmelerini, uygulamaları izlemelerini, eğitim programları oluşturmalarını ve ailelerle işbirliği yapmalarını istemiştir."
+            "heading": "Cinsel İstismarı Tanı",
+            "emoji": "🚫",
+            "bullets": [
+              "**Cinsel istismar**, yetişkinlerin güç, tehdit veya kandırma yoluyla çocuğu cinsel amaçla kullanmasıdır; çocuğun farkında olup olmaması önemli değildir.",
+              "Bazı kişiler çocuğa erişmek için antrenörlük rolünü kötüye kullanabilir; bu yüzden temas kuralları vardır: sadece beceri/tedavi amaçlı, genital bölgeye dokunmadan, önceden izin alarak ve gizli olmayan ortamlarda.",
+              "Seyahatler riski artırır; bu yüzden çalışanlar çocuklarla aynı odada kalmaz, aynı cinsiyetteki sporcular birlikte kalır, kapı açık olmadan birebir görüşme yapılmaz.",
+              "En yaygın örnekler: cinsel eylem talep etme, teşhircilik, uygunsuz/gereksiz temas, cinsel içerikli görüntü/ses kaydı, cinsel şakalar ve uygunsuz görüntü paylaşımı.",
+              "Mağdurlar, antrenörün otoritesine ve kariyerlerinin ona bağlı olmasına bağlı olarak durumu açığa çıkaramayabilir.",
+              "IOC, 2007'de üye ülkelerden **sıfır tolerans** politikaları, eğitim programları ve aile işbirliği istemiştir."
             ]
           },
           {
-            "heading": "İhmal",
-            "paragraphs": [
-              "İhmal, kısaca yapılması gerekeni yapmamak olarak tanımlanır; çocuğa bakmakla yükümlü kişilerin beslenme, giyim, tıbbi, sosyal ve duygusal gereksinimler gibi yükümlülüklerini yerine getirmemesidir. Örneğin antrenman malzemelerinin uçlarının sivri olması nedeniyle sporcunun yaralanması ihmal olarak tanımlanır; spor alanlarında önlenebilecek bir nedenden dolayı sporcunun zarar görmesi kazadan ziyade ihmal kapsamına girer.",
-              "İhmal, fiziksel, cinsel ve duygusal boyutlarda ele alınabilir ancak bu boyutları birbirinden ayırmak güçtür: çocuğa gereken sosyal kaynakların sağlanmaması fiziksel ihmal, cinsel gelişimine gereken önemin verilmemesi cinsel istismara yönelik ihmal, çocuğun sevilmemesi veya takımda kabul görmemesine seyirci kalınması ise duygusal ihmal örnekleridir. Sporcuyu disiplin amacıyla yalnız/denetimsiz bırakmak gibi ceza yöntemleri de zamanla içine kapanıklık, aşırı hassasiyet gibi kişilik özelliklerine yol açarak ihmal ve duygusal istismara neden olabilir.",
-              "Sporda görülen en yaygın ihmal örnekleri: uygun olmayan ekipmanla antrenman yaptırmak, beslenme konusunda eksik bilgi vermek, sağlık/sakatlık durumunu dikkate almadan katılım istemek, aşırı sıcak/soğukta spor yaptırmak, yanlış tedavi yöntemleri uygulatmak, seyahat/konaklamada yetersiz denetim sağlamak, akran zorbalığına müsaade etmek, izinsiz görüntü paylaşmak, elverişsiz yerlerde antrenman yaptırmak, istismar şüphelerini görmezden gelmek ve sporcuları fiziksel/duygusal zararlardan korumamaktır."
+            "heading": "İhmal: Eksik Kalan Özen",
+            "emoji": "⚠️",
+            "bullets": [
+              "**İhmal**, yapılması gerekeni yapmamaktır; çocuğa bakmakla görevli kişilerin beslenme, tıbbi, sosyal ve duygusal ihtiyaçları karşılamamasıdır.",
+              "Örnek: antrenman malzemesinin sivri olması yüzünden sporcunun yaralanması bir **kazadan** değil, **ihmalden** kaynaklanır - önlenebilir zararlar ihmal sayılır.",
+              "İhmal fiziksel, cinsel ve duygusal boyutlarda olabilir; örneğin çocuğun sevilmemesine veya takımda dışlanmasına seyirci kalmak duygusal ihmaldir.",
+              "En yaygın örnekler: **uygun olmayan ekipmanla antrenman yaptırmak**, eksik beslenme bilgisi vermek, sağlık/sakatlık durumunu göz ardı etmek, aşırı sıcak/soğukta çalıştırmak.",
+              "Ayrıca: **seyahat/konaklamada yetersiz denetim**, **akran zorbalığına müsaade etmek**, izinsiz görüntü paylaşmak ve istismar şüphelerini görmezden gelmek de ihmal örnekleridir."
             ]
           }
         ],
@@ -14293,86 +14664,132 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Anatomiye Giriş ve Vücudun Yapısal Organizasyonu",
-            "paragraphs": [
-              "Anatomi terimi eski Yunancada 'ana' (içinden) ve 'tome' (kesmek) kelimelerinin birleşmesinden oluşur ve parçalara ayırma anlamına gelir. Anatomi; vücudun şekil ve yapısını, mikroskopik ile makroskopik yapılar arasındaki yapısal ve fonksiyonel ilişkileri inceleyen bilim dalıdır. Yapıları birbirinden izole öğrenmek yerine fonksiyonları ve diğer yapılarla ilişkileri ile birlikte öğrenmek konunun bütünlük içinde kavranmasını kolaylaştırır.",
-              "İnsan vücudunun yaşam süreçleri, küçükten büyüğe doğru sıralanan yapısal organizasyon seviyelerinde düzenlenir: kimyasal, hücresel, doku, organ, organ sistemi ve organizma seviyesi. Yüksek organizasyon seviyeleri, kendisinden daha düşük seviyelerin bir araya gelmesiyle oluşur; yani hücreler dokuları, dokular organları, organlar da organ sistemlerini meydana getirir."
+            "heading": "Anatomi Nedir? Vücudun Yapı Katmanları",
+            "emoji": "🧱",
+            "bullets": [
+              "**Anatomi**, Yunanca \"ana\" (içinden) ve \"tome\" (kesmek) kelimelerinden gelir; vücudun şekil ve yapısını inceleyen bilim dalıdır.",
+              "Yapıları tek tek değil, fonksiyonları ve birbirleriyle ilişkileriyle öğrenmek konuyu bütün olarak kavramayı kolaylaştırır.",
+              "Vücut küçükten büyüğe 6 seviyede organize olur: **kimyasal, hücresel, doku, organ, organ sistemi, organizma**.",
+              "Her seviye kendinden küçük seviyelerin birleşmesiyle oluşur: hücreler dokuyu, dokular organı, organlar da organ sistemini yapar."
             ]
           },
           {
-            "heading": "Hücre: Yapının Temel Birimi",
-            "paragraphs": [
-              "Hücre, 'canlı' olgusunun temelini oluşturur ve üç temel özelliğe sahiptir: yapının temel birimidir (hücreler dokuları ve organları oluşturur), çoğalma ve büyümenin temel birimidir (sinir hücreleri dışındaki tüm hücreler ikiye bölünerek çoğalabilir) ve fonksiyonun temel birimidir (bedenin herhangi bir işlevi hücre düzeyinde organize olur). Hücre büyüklüğü genellikle 10-50 mikrometre arasında değişir; ancak bazı nöronların aksonu 1 metreye kadar uzayabilir.",
-              "Hücrenin yapı taşları organeller (nukleus, mitokondriyum, Golgi aygıtı, endoplazmik retikulum, lizozom, peroksizom) ve supramoleküler kompleksler (ribozom, mikrotübül, sentriyol, enzim kompleksleri) olmak üzere ikiye ayrılır. Hücreyi çevreleyen ince, yarı geçirgen zar plazmalemma (hücre zarı) olarak adlandırılır ve hücre içi ortamı dış ortamdan ayırarak özgül bir iç denge yaratır."
+            "heading": "Hücre: Yaşamın Temel Birimi",
+            "emoji": "🔬",
+            "bullets": [
+              "**Hücre**, canlılığın temelidir; üç görevi vardır: yapının, çoğalma/büyümenin ve fonksiyonun temel birimi olmak.",
+              "Sinir hücreleri hariç tüm hücreler ikiye bölünerek çoğalabilir.",
+              "Hücre boyu genelde **10-50 mikrometre**dir; bazı nöronların aksonu 1 metreye kadar uzayabilir.",
+              "Hücre yapı taşları ikiye ayrılır: **organeller** (nükleus, mitokondri, Golgi, endoplazmik retikulum, lizozom, peroksizom) ve **supramoleküler kompleksler** (ribozom, mikrotübül, sentriyol).",
+              "**Ribozomlar**, hücrede protein sentezinin (translasyon) gerçekleştiği yapılardır; faaliyetleri artınca üretilen protein miktarı da artar.",
+              "Hücreyi çevreleyen ince zar **plazmalemma** (hücre zarı) olarak adlandırılır ve hücre içini dış ortamdan ayırır."
             ]
           },
           {
-            "heading": "Doku Çeşitleri: Epitel, Bağ-Destek, Kas ve Sinir Dokusu",
-            "paragraphs": [
-              "Benzer yapı, işlev ve farklılaşmaya sahip hücrelerin bir araya gelmesiyle oluşan birliğe doku denir. Doku, kendi içinde bir bütün oluşturmaz; organizmanın kısmi bir yapı ve işlev malzemesidir. İnsan vücudunda dört ana doku tanımlanmıştır: epitel dokusu, bağ ve destek dokusu, kas dokusu ve sinir dokusu.",
-              "Epitel dokusu, vücudun iç ve dış yüzeylerini örten; ayrıca salgı bezlerinin işlevinde ve duyusal algılamada rol oynayan dokudur. Üç şekli vardır: yüzey epiteli (bedenin iç-dış yüzeylerini kaplar; tek tabakalı, çok tabakalı veya çok sıralı olabilir), salgı bezi epiteli (ekzokrin bezler ürünlerini vücut yüzeyine, endokrin bezler ise kan dolaşımına boşaltır) ve duyu epiteli (özgül uyarımları algılayıp merkezi sinir sistemine iletir; örneğin iç kulaktaki makula epiteli).",
-              "Bağ ve destek dokusu bütün bedene yayılmıştır; kemik, kıkırdak ve tendon şeklinde bedene sağlamlık verir, bağ dokusu olarak organların zeminini oluşturur ve suyu depolar. Embriyonal, retiküler, yağ ve asıl bağ dokusu ile destek dokusu olmak üzere beş bölümde incelenir. Kas dokusu, kontraksiyon (kasılma) yeteneği ile hareketi sağlar; düz kas, çizgili iskelet kası ve kalp kası olmak üzere üç çeşidi vardır. Sinir dokusu ise uyarıları iletmekle görevli nöronlardan ve onları destekleyen glia hücrelerinden oluşur."
+            "heading": "4 Doku Çeşidi: Epitel, Bağ-Destek, Kas, Sinir",
+            "emoji": "🧵",
+            "bullets": [
+              "**Doku**, benzer yapı ve işleve sahip hücrelerin birliğidir; vücutta 4 ana doku vardır: **epitel, bağ-destek, kas ve sinir dokusu**.",
+              "**Epitel dokusu** vücut yüzeylerini örter; 3 türü var: yüzey epiteli, salgı bezi epiteli (ekzokrin → vücut yüzeyine, endokrin → kana salgılar) ve duyu epiteli.",
+              "**Bağ ve destek dokusu** bedene sağlamlık verir; 5 alt türü vardır: embriyonal, retiküler, yağ, asıl bağ dokusu ve destek dokusu.",
+              "**Kas dokusu** kasılarak hareketi sağlar; 3 çeşidi vardır: düz kas, çizgili iskelet kası, kalp kası.",
+              "**Sinir dokusu**, uyarı ileten nöronlar ile onlara destek olan glia hücrelerinden oluşur."
             ]
           },
           {
-            "heading": "Bağ ve Destek Dokusunun Lif Yapısı",
-            "paragraphs": [
-              "Asıl bağ dokusu, amorf (şekilsiz) bir temel madde ile fibroblastlar tarafından sentezlenen liflerden oluşur. Üç tür bağ dokusu lifi vardır: Kollajen lifler boyunun ancak %8'i kadar esneyebilir ve gerilmeye karşı çok dirençlidir (1 mm² kesit 10-20 kg ağırlık taşıyabilir). Elastin lifler uzunluklarının %150'si kadar gerilip eski haline dönebilir ve akciğer, kan damarı gibi elastik organlarda yoğundur. Retiküler lifler insandaki en ince ve narin liflerdir; karaciğer, lenf düğümleri ve kemik iliğinde bol bulunur ve bazal laminanın yapısına katılır.",
-              "Kıkırdak dokusu, kondrosit hücrelerinden, amorf temel maddeden ve liflerden oluşur; kan damarı ve siniri yoktur, beslenmesini difüzyonla sağlar. Üç çeşidi vardır: lifli kıkırdak (vertebra diskleri, meniskuslerde; kollajen lif oranı yüksek), hiyalin kıkırdak (eklem yüzeylerini kaplar, basınca karşı dirençlidir) ve elastik kıkırdak (kulak kıkırdağı gibi bükülebilir, sarı renktedir).",
-              "Kemik dokusu insan bedeninin en sağlam dokusudur; basınca karşı sağlamlığı kıkırdaktan yaklaşık 10 kat fazladır, çünkü organik temel maddesine %85 kalsiyum fosfat gibi anorganik bileşikler yerleşmiştir. Kemik hücresi osteosit olarak adlandırılır. Kemik dışını saran periost, kemiğin beslenmesini, korunmasını ve yeni kemik oluşumunu sağlar. Kemiğin dış tabakası 'substantia kompakta', iç kısmı ise kemik iliğini barındıran petek yapılı 'substantia spongiosa'dır. Egzersizle bağ ve destek dokusunda hipertrofi (hücrede büyüme) veya hiperplazi (hücre sayısında artış) şeklinde adaptasyonlar görülebilir; antrenmanla tendon kesit alanı ve sertliği artabilir."
+            "heading": "Bağ Dokusu Lifleri: Kollajen, Elastin, Kıkırdak, Kemik",
+            "emoji": "🕸️",
+            "bullets": [
+              "**Kollajen lifler** boyunun sadece %8'i kadar esneyebilir ama gerilmeye çok dirençlidir: 1 mm² kesit **10-20 kg** taşıyabilir.",
+              "**Elastin lifler** uzunluğunun %150'si kadar gerilip eski haline döner; akciğer ve kan damarı gibi elastik organlarda yoğundur.",
+              "**Retiküler lifler** vücuttaki en ince ve narin liflerdir; karaciğer, lenf düğümü ve kemik iliğinde bol bulunur.",
+              "**Kıkırdak dokusu** damarsızdır, beslenmesini difüzyonla sağlar; 3 türü var: lifli kıkırdak, hiyalin kıkırdak (eklem yüzeyleri) ve elastik kıkırdak.",
+              "**Kemik dokusu** vücudun en sağlam dokusudur, kıkırdaktan ~10 kat daha dayanıklıdır çünkü %85'i kalsiyum fosfat içerir; kemik hücresine **osteosit** denir.",
+              "Kemiğin dış tabakası **substantia kompakta**, iç petek yapılı kısmı **substantia spongiosa**'dır; dışını saran **periost** besler ve korur.",
+              "Egzersizle bağ dokusunda **hipertrofi** (büyüme) ya da **hiperplazi** (sayı artışı) görülebilir; antrenman tendonu da güçlendirir."
             ]
           },
           {
-            "heading": "Kas Dokusu Çeşitleri ve Sarkomer Yapısı",
-            "paragraphs": [
-              "Düz kaslar iç organlarda ve kan damarlarında bulunur, otonom sinir sistemi tarafından yönetilir ve kontraksiyonu istem dışı, yavaş ve dalgalıdır. Çizgili iskelet kası somatik sinir sisteminin kontrolü altındadır; kontraksiyonu istemli, hızlı ve keskindir. Kasılabilen yapı birimi kas lifidir; kas lifi ortalama 10-100 mikrometre çapında ve 15 cm uzunluğundadır. Kalp kası da enine çizgilidir ancak nukleusu hücre ortasındadır ve istemsiz çalışır; sarkoplazmasının %30'u mitokondriyumdan oluşur.",
-              "Kas lifinin iki 'Z' çizgisi arasında kalan bölümü sarkomer olarak adlandırılır ve kasın en küçük işlevsel birimidir. Sarkomerde kalın miyozin filamentleri ile ince aktin filamentleri yan yana dizilir; kontraksiyon sırasında aktin filamentleri miyozin filamentlerinin ortasına doğru kayarak kasılmayı ve kuvvet üretimini sağlar. Çapraz köprü sayısının en fazla olduğu ve sarkomerin en çok kuvvet ürettiği uzunluğa optimum uzunluk denir.",
-              "Kasın kasılma hızını belirleyen en önemli özellik kas fibril tipidir. FT (fast-twitch, Tip 2a/2B/2X) lifler beyaz, kalın, hızlı kasılan, anaerob baskın ve güç odaklı liflerdir; ST (slow-twitch, Tip I) lifler kırmızı, ince, yavaş kasılan, aerob baskın ve dayanıklılık odaklı liflerdir. Egzersizin türüne bağlı olarak kas lifleri FT'den ST'ye veya ST'den FT'ye dönüşebilir."
+            "heading": "Kas Dokusu ve Sarkomer: Kasılmanın Sırrı",
+            "emoji": "💪",
+            "bullets": [
+              "**Düz kas** iç organlarda bulunur, istemsiz ve yavaş çalışır; **çizgili iskelet kası** istemli, hızlı ve keskin kasılır.",
+              "Kasılabilen birim **kas lifi**dir: çapı 10-100 mikrometre, boyu ortalama 15 cm'dir.",
+              "**Kalp kası** da çizgilidir ama istemsiz çalışır, nükleusu ortadadır ve sarkoplazmasının %30'u mitokondridir.",
+              "**Sarkomer**, iki Z çizgisi arasındaki bölgedir ve kasın en küçük fonksiyonel birimidir; ince aktin ve kalın miyozin filamentleri kayarak kasılmayı sağlar.",
+              "En fazla kuvvetin üretildiği uzunluk **optimum uzunluk** olarak adlandırılır.",
+              "**FT lifler** (Tip 2a/2B/2X) beyaz, hızlı kasılan, güç odaklı ve anaerobiktir; **ST lifler** (Tip I) kırmızı, yavaş, dayanıklılık odaklı ve aerobiktir.",
+              "Egzersiz türüne göre kas lifleri FT ↔ ST arasında dönüşebilir."
             ]
           },
           {
-            "heading": "Sinir Dokusu, Organlar ve Organ Sistemleri",
-            "paragraphs": [
-              "Sinir dokusunun asıl hücresi nörondur; her nöron morfolojik, genetik ve fonksiyonel olarak bağımsız bir birimdir ve uyarıları iletir. Nöronun gövdesi 'perikaryon', kısa sitoplazma uzantıları 'dendrit', tek uzun uzantısı ise 'akson' olarak adlandırılır. Glia hücreleri uyarım iletiminde görev almaz ancak nöronlara destek olur, besin ulaştırır ve atık maddeleri uzaklaştırır.",
-              "Organlar, hücre ve dokuların belirli görevler için bir araya gelmesiyle oluşan yapılardır; organ sistemleri ise belirli bir ortak görevi yerine getirmek üzere bir araya gelmiş organ topluluklarıdır. İnsan vücudunda kas-iskelet, solunum, dolaşım, sinir, endokrin, sindirim, üriner, üreme, bağışıklık-lenfatik ve integumenter (deri) sistemleri bulunur; her biri farklı görevler üstlenirken birbirleriyle sinerjik bir bütünlük içinde çalışır."
+            "heading": "Sinir Dokusu, Organlar ve Sistemler",
+            "emoji": "🧠",
+            "bullets": [
+              "Sinir dokusunun hücresi **nöron**dur: gövdesi \"perikaryon\", kısa uzantıları \"dendrit\", tek uzun uzantısı \"akson\" olarak adlandırılır.",
+              "**Glia hücreleri** uyarı iletmez ama nörona destek olur, besin taşır ve atığı uzaklaştırır.",
+              "**Organ**, hücre ve dokuların belirli bir görev için birleşmesidir; **organ sistemi** ise ortak görevli organ topluluğudur.",
+              "Vücutta 10 organ sistemi vardır: kas-iskelet, solunum, dolaşım, sinir, endokrin, sindirim, üriner, üreme, bağışıklık-lenfatik ve integumenter (deri)."
             ]
           },
           {
             "heading": "Anatomik Duruş, Düzlemler ve Eksenler",
-            "paragraphs": [
-              "Anatomik duruş; yüzü öne dönük, baş ve gövde dik, kollar yanlarda ve avuç içi öne bakar şekilde ayakta duran bir kişiyi referans alan standart pozisyondur. Anatomik tanımlamalar bu pozisyona göre yapılır ve insan vücudundan üç ana düzlemin geçtiği varsayılır.",
-              "Sagittal (anteroposterior) düzlem vücudu önden arkaya kesip sağ-sol olarak ikiye ayırır; vücudun tam ortasından geçtiğinde median düzlem adını alır ve ona yakın yapılar 'medial', uzak yapılar 'lateral' olarak tanımlanır. Transvers (horizontal) düzlem vücudu yere paralel şekilde enine kesip alt-üst olarak ayırır; başa yakın yapılar 'superior', uzak yapılar 'inferior'dur. Frontal (koronal) düzlem vücudu sağdan sola kesip ön-arka olarak ayırır; ön cepheye yakın yapılar 'anterior', uzak yapılar 'posterior'dur.",
-              "Eksenler, eklemler çevresinde oluşan hareketlerin tanımlanmasında kullanılır. Vertikal aksis baştan ayaklara dikey iner ve yere diktir; sagittal aksis önden arkaya yere paralel uzanır; frontal aksis ise sağdan sola yere paralel uzanır. Her eksen, kendisine dik olan düzlemdeki hareketleri tanımlamakta kullanılır."
+            "emoji": "🧍",
+            "bullets": [
+              "**Anatomik duruş**: yüz öne dönük, baş-gövde dik, kollar yanda, avuç içleri öne bakar; tüm tanımlar bu pozisyona göre yapılır.",
+              "**Sagittal düzlem** vücudu sağ-sol ikiye ayırır; tam ortadan geçerse \"median düzlem\" denir, yakın yapılar **medial**, uzak yapılar **lateral**dir.",
+              "**Transvers düzlem** vücudu alt-üst ikiye ayırır; başa yakın yapılar **superior**, uzak yapılar **inferior**dur.",
+              "**Frontal (koronal) düzlem** vücudu ön-arka ikiye ayırır; öne yakın yapılar **anterior**, uzak yapılar **posterior**dur.",
+              "Eklem hareketlerini tanımlamak için **vertikal, sagittal ve frontal aksis** kullanılır; her eksen kendine dik düzlemdeki hareketi tanımlar."
             ]
           },
           {
-            "heading": "Pozisyon ve Hareketi Tanımlayan Terimler",
-            "paragraphs": [
-              "Anatomik pozisyon terimleri karşılıklı çiftler halinde kullanılır: anterior-posterior (ön-arka), superior-inferior (yukarı-aşağı), medial-lateral (orta hatta yakın-uzak), dorsal-ventral (sırt-karın tarafı), proksimal-distal (gövdeye yakın-uzak), superfisyal-profundus (yüzeyel-derin) ve internal-eksternal (iç-dış) bu çiftlerden bazılarıdır.",
-              "Hareket terimleri düzlemlere göre gruplanır. Sagittal düzlemde fleksiyon (eklem açısının daralması) ve ekstansiyon (eklem açısının açılması) ile ayak bileğinde dorsifleksiyon ve plantar fleksiyon gerçekleşir. Frontal düzlemde abduksiyon (orta hattan uzaklaşma), adduksiyon (orta hatta yaklaşma), lateral fleksiyon ve ayak için eversiyon-inversiyon hareketleri görülür. Transvers düzlemde ise internal (medial) ve eksternal (lateral) rotasyon ile önkolun pronasyon-supinasyon hareketleri gerçekleşir. Sirkümdiksiyon, açısal hareketlerin kombinasyonu ile oluşan dairesel bir harekettir."
+            "heading": "Hareketi Tanımlayan Terimler",
+            "emoji": "🔄",
+            "bullets": [
+              "Pozisyon terimleri çift halde kullanılır: **anterior-posterior, superior-inferior, medial-lateral, proksimal-distal, internal-eksternal** gibi.",
+              "**Sagittal düzlemde**: fleksiyon (eklem açısının daralması), ekstansiyon (açılması) ile ayak bileğinde dorsifleksiyon-plantar fleksiyon.",
+              "**Frontal düzlemde**: abduksiyon (orta hattan uzaklaşma), adduksiyon (orta hatta yaklaşma), lateral fleksiyon ve ayakta eversiyon-inversiyon.",
+              "**Transvers düzlemde**: internal/eksternal rotasyon ile önkolun pronasyon-supinasyon hareketleri.",
+              "**Sirkümdiksiyon**, açısal hareketlerin birleşmesiyle oluşan dairesel bir harekettir."
             ]
           },
           {
-            "heading": "Aktif Hareket (Kas) Sistemi: Mimari, Kuvvet ve Kasılma Tipleri",
-            "paragraphs": [
-              "Hareket sistemi, aktif hareket sistemi (kas sistemi) ve pasif hareket sistemi (iskelet sistemi) olmak üzere ikiye ayrılır. İnsanda yaklaşık 640-850 kas bulunur; her kasın başlangıç noktası 'origio', kemiğe tutunma noktası ise 'insertio' olarak adlandırılır. Kas lifleri 'fasikül' demetleri halinde paketlenir; kas lifini çevreleyen bağ doku zarı 'endomysium', fasikülü çevreleyen 'perimysium', tüm kası çevreleyen ise 'epimysium' adını alır.",
-              "Kas fibrillerinin tendona bağlanma açısına pennasyon açısı denir. Fibriller tendona paralel ise açı 0'dır ve kasta üretilen kuvvetin tamamı tendona iletilir (fusiform kaslar, örn. biceps brachii); açı 0'dan büyükse (pennat kaslar) tendona iletilen kuvvette düşüş olur, ancak birim alana daha fazla fibril sığdığından fizyolojik kesit alanı ve toplam kuvvet üretme kapasitesi artabilir.",
-              "Bir kasın kuvveti fizyolojik çapraz kesit alanına bağlıdır (ortalama 25 N/cm²) ve cinsiyet, yaş, kas içi koordinasyon ile bağ doku sağlığından etkilenir. Kas kasılma tipleri üçe ayrılır: izometrik kontraksiyon (eklemde rotasyon olmadan kas fibrillerinde minimal kısalma, kas tonusu), izotonik kontraksiyon (kas uzunluğunda değişim olur; kısalma konsantrik, uzama eksantrik kontraksiyondur). Maksimal eksantrik kasılma, izometrik ve konsantrik kasılmaya göre daha fazla kuvvet üretir; kuvvet üretme sıralaması büyükten küçüğe eksantrik > izometrik > konsantriktir."
+            "heading": "Aktif Hareket Sistemi: Kaslar ve Kasılma Tipleri",
+            "emoji": "🏋️",
+            "bullets": [
+              "Hareket sistemi **aktif hareket sistemi** (kas) ve **pasif hareket sistemi** (iskelet) olarak ikiye ayrılır; insanda yaklaşık 640-850 kas bulunur.",
+              "Kasın başlangıç noktası **origio**, kemiğe tutunma noktası **insertio** olarak adlandırılır.",
+              "Paketlenme büyükten küçüğe şöyledir: **kas → fasikül → kas fibrili (lif) → myofibril**; lifi saran zar endomysium, fasikülü saran perimysium, tüm kası saran epimysium'dur.",
+              "**Pennasyon açısı** 0 ise (fusiform kas, örn. biceps brachii) kuvvetin tamamı tendona iletilir; açı büyüdükçe iletim azalır ama daha fazla fibril sığar.",
+              "Kas kuvveti **fizyolojik kesit alanına** bağlıdır (ortalama 25 N/cm²).",
+              "3 kasılma tipi vardır: **izometrik** (kısalma yok), **konsantrik** (kas kısalır) ve **eksantrik** (kas uzar).",
+              "Maksimum kuvvet üretimi büyükten küçüğe şöyle sıralanır: **eksantrik > izometrik > konsantrik**."
             ]
           },
           {
-            "heading": "Kasların Fonksiyonel Sınıflandırması ve Kaldıraç Tipleri",
-            "paragraphs": [
-              "Kaslar hareketteki rollerine göre sınıflandırılır: Agonist, hareketin başlatılmasında ve gerçekleştirilmesinde doğrudan görev alan kastır (örn. ayak bileği dorsifleksiyonunda tibialis anterior). Antagonist, hareketin ters yönünde görev alarak hareketi yavaşlatan veya durduran kastır (örn. dorsifleksiyon sırasında gastrocnemius ve soleus). Sinerjist kaslar, agonisti desteklemek için birlikte çalışır ve bazen stabilizatör görevi üstlenir.",
-              "Kaslar, kemikleri kaldıraç olarak kullanarak eklemlerde tork (rotasyonel kuvvet) üretirler. Birinci tip kaldıraçta eklem merkezi, kuvvet ve yük noktaları arasındadır (örn. baş-boyun ekstansörleri). İkinci tip kaldıraçta rotasyon merkezi kemiğin bir ucundadır ve kas kuvvet kolu yük kolundan daha uzundur, bu nedenle mekanik avantaj sağlar (örn. parmak ucuna kalkarken gastrocnemius); kas-iskelet sisteminde az bulunur. Üçüncü tip kaldıraçta da rotasyon merkezi kemiğin bir ucundadır, ancak kas tendonunun (kuvvet uygulama noktasının) bağlandığı yer, eklem aksisi ile yük arasında kalır; bu yüzden yük kolu kuvvet kolundan daha uzundur, mekanik dezavantaj vardır fakat hareket hızı kazanılır (örn. biceps brachii ile dirsek fleksiyonu). Üçüncü tip kaldıraçlar kas-iskelet sisteminde en sık görülen tiptir."
+            "heading": "Kas Rolleri ve Kaldıraç Tipleri",
+            "emoji": "⚖️",
+            "bullets": [
+              "**Agonist**, hareketi başlatan ve gerçekleştiren kastır (örn. dorsifleksiyonda tibialis anterior).",
+              "**Antagonist**, harekete ters yönde kuvvet üretip onu yavaşlatan/durduran kastır (örn. gastrocnemius ve soleus).",
+              "**Sinerjist** kaslar agonisti destekler; bazen sabitleyici **stabilizatör** görevi görür.",
+              "**1. tip kaldıraç**: eklem merkezi, kuvvet ve yük noktaları arasındadır (örn. baş-boyun ekstensörleri).",
+              "**2. tip kaldıraç**: kuvvet kolu yük kolundan uzundur, mekanik avantaj sağlar ama vücutta azdır (örn. parmak ucuna kalkma).",
+              "**3. tip kaldıraç**: kas tendonu, eklem aksisi ile yük arasındadır; yük kolu daha uzundur, mekanik dezavantaj vardır ama hareket hızı kazanılır (örn. biceps brachii ile dirsek fleksiyonu). Vücutta en sık görülen tiptir."
             ]
           },
           {
-            "heading": "Pasif Hareket (İskelet) Sistemi: Kemikler, Eklemler ve Bağ Doku",
-            "paragraphs": [
-              "Pasif hareket sistemi kemikler, eklemler ve bağ dokudan oluşur. İskelet sistemi toplam 208 kemikten oluşur ve beden ağırlığının ortalama %17'sini oluşturur; hareketin pasif bileşeni olmanın yanında bedene şekil verir ve organlara koruma sağlar. Kemikler, eklemler aracılığıyla birbirine tutunur. Sinartroz eklemler az oynak veya oynak olmayan bağlantılardır (sindesmoz, sinkondroz, sinostoz); diartroz eklemler ise oynar eklemlerdir ve eklem yüzeyleri kıkırdakla kaplı, sinovyal sıvı salgılayan bir eklem kapsülü ile çevrilidir. Diartroz eklemler hareket serbestliğine göre tek eksenli (ginglymus, örn. parmak eklemleri), iki eksenli (örn. baş parmağın eyer eklemi) ve üç eksenli (örn. omuz ve kalça ekleminin top-soket eklemleri) olarak sınıflandırılır.",
-              "Tendonlar kasları kemiklere bağlar ve kas kuvvetini kemiğe iletirken elastik enerji depolar; ligamentler ise kemikleri kemiklere bağlayarak dış kuvvetlere direnç gösterir ve eklem hareket açıklığını sınırlar. Eklem hareketi kemik engellemesi (örn. dirsekte olekranon), bağ engellemesi (örn. ligamentum iliofemorale) veya kas engellemesi ile sınırlanabilir.",
-              "İnsan vücudu baş, boyun, gövde (toraks, karın, omurga, pelvis) ile üst ve alt ekstremitelerden oluşur. Omurga; 7 servikal, 12 torakal, 5 lumbal vertebra ile sakrum ve koksiksten oluşan toplam 26 kemiklik bir kolon şeklindedir (çocukta 33-34 adet omur, yetişkinde kaynaşma sonucu 26 adede iner). Üst ekstremite omuz, üst kol, önkol ve elden oluşur; omuz ekleminde top-soket yapısı kalçaya göre daha sığ bir soket içerir, bu da hareket serbestliğini artırır fakat yaralanma riskini de yükseltir. Alt ekstremite ise yer tepki kuvvetlerine maruz kalırken gövdenin ve üst ekstremitelerin ağırlığını destekler; kinetik zincir ilkesi gereği bir eklemdeki pozisyon değişikliği zincir üzerindeki diğer eklemleri de etkiler."
+            "heading": "Pasif Hareket Sistemi: Kemikler ve Eklemler",
+            "emoji": "🦴",
+            "bullets": [
+              "Pasif sistem **kemik, eklem ve bağ doku**dan oluşur; iskelet toplam **208 kemik**tir ve beden ağırlığının ~%17'sidir.",
+              "**Sinartroz** eklemler az oynak/oynamaz bağlantılardır (sindesmoz, sinkondroz, sinostoz); **diartroz** eklemler oynar, kıkırdak kaplı ve sinovyal sıvılıdır.",
+              "Diartroz eklemler tek eksenli (örn. parmak), iki eksenli (örn. başparmağın eyer eklemi) ve üç eksenli (örn. omuz ve kalçanın top-soket eklemi) olarak sınıflanır.",
+              "**Tendon** kası kemiğe bağlar ve elastik enerji depolar; **ligament** kemiği kemiğe bağlar, dış kuvvete direnir ve eklem hareketini sınırlar.",
+              "Omurga 7 servikal + 12 torakal + 5 lumbal vertebra + sakrum + koksiksten oluşur, yetişkinde toplam **26 kemik**tir (çocukta 33-34).",
+              "**Üst ekstremite** omuz, üst kol (humerus), önkol (radius-ulna) ve elden oluşur; omuz eklemi sığ soketlidir, hareket serbestliği fazla ama yaralanma riski yüksektir.",
+              "**Alt ekstremite** yer tepki kuvvetine maruz kalır; **kinetik zincir** ilkesine göre bir eklemdeki değişiklik diğer eklemleri de etkiler."
             ]
           }
         ],
@@ -14597,124 +15014,193 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Fizyoloji ve Egzersiz Fizyolojisi",
-            "paragraphs": [
-              "Fizyoloji sözcüğü Latince \"physus\" (yaşam) ve \"logos\" (bilim) kelimelerinden gelir; canlı organizmalardaki tüm yaşamsal işlevleri inceleyen bilim dalıdır. Fizyoloji, bu işlevlerin moleküler düzeyden organ ve sistem düzeyine kadar normal ve patolojik durumlarda nasıl meydana geldiğini araştırır ve fizik, kimya, biyoloji gibi bilimlerden yararlanır.",
-              "Fizyoloji; hayvan, insan ve bitki fizyolojisi gibi alt bilim dallarına ayrılır. Egzersiz ve Spor Fizyolojisi, insan organizmasının kassal çalışmalara verdiği cevabı ve uyumu, sportif performansı artırma amacını güden antrenmanların fizyolojik temellerini inceleyen bilim koludur; egzersiz, antrenman, spor ve hareketsizliğin bireyler üzerindeki akut ve kronik etkilerini araştırır."
+            "heading": "Fizyoloji Nedir?",
+            "emoji": "🔬",
+            "bullets": [
+              "**Fizyoloji**, canlı organizmalardaki tüm yaşamsal işlevleri inceleyen bilim dalıdır (Latince \"yaşam\" + \"bilim\").",
+              "Moleküllerden organ ve sistemlere kadar her düzeyde, normal ve hastalıklı durumları araştırır; fizik, kimya ve biyolojiden yararlanır.",
+              "İnsan, hayvan ve bitki fizyolojisi gibi alt dallara ayrılır.",
+              "**Egzersiz ve Spor Fizyolojisi**, vücudun kassal çalışmaya verdiği cevabı ve antrenmanların fizyolojik temellerini inceler.",
+              "Egzersiz, antrenman ve hareketsizliğin vücut üzerindeki akut ve kronik etkilerini araştırır."
             ]
           },
           {
-            "heading": "Canlı Organizmanın Temel Özellikleri",
-            "paragraphs": [
-              "Canlılığın kesin bir tanımı olmasa da, tüm canlılar ortak bazı temel özellikler taşır. Hücre yapısı (prokaryot/ökaryot), beslenme, solunum ve ATP üretimi, metabolizma (anabolizma: basit moleküllerden karmaşık moleküllerin yapılması; katabolizma: karmaşık moleküllerin basit moleküllere parçalanması) bu özelliklerden bazılarıdır.",
-              "Diğer temel özellikler arasında boşaltım (atık maddelerin uzaklaştırılması), hareket, uyarılara cevap verme (uyarılabilirlik: iç veya dış kaynaklı elektrik sinyali, hormon ve salgı bezi değişikliklerini algılayıp tepki verme yeteneği), homeostaz (iç ortamın sabit tutulması), çevreye uyum (adaptasyon), büyüme-gelişme, üreme ve kendine özgü yapısal-işlevsel organizasyon sayılabilir. Bu özelliklerin tümü canlının yaşamını sürdürebilmesi için gereklidir."
+            "heading": "Canlının Ortak Özellikleri",
+            "emoji": "🧬",
+            "bullets": [
+              "Tüm canlılar ortak temel özellikler taşır: hücre yapısı, beslenme, solunum ve ATP üretimi.",
+              "**Metabolizma** ikiye ayrılır: **anabolizma** (basit moleküllerden karmaşık/büyük moleküllerin yapılması) ve **katabolizma** (karmaşık moleküllerin basit moleküllere parçalanması).",
+              "**Uyarılabilirlik**: iç veya dış kaynaklı elektrik sinyali, hormon ve salgı bezi değişikliklerini algılayıp tepki verme yeteneği.",
+              "**Homeostaz** iç ortamın sabit tutulmasıdır; **adaptasyon** ise çevre koşullarına uyum sağlamaktır.",
+              "Diğer özellikler: boşaltım, hareket, büyüme-gelişme, üreme ve kendine özgü yapısal organizasyon."
             ]
           },
           {
-            "heading": "İnsan Vücudunun Yapısal Organizasyonu",
-            "paragraphs": [
-              "İnsan vücudu, en basitten en komplekse doğru hiyerarşik bir organizasyona sahiptir: Kimyasal düzey (atom, element ve moleküler düzey) → Hücresel düzey (vücudun en küçük yaşayan ünitesi) → Doku düzeyi (ortak görev için bir araya gelmiş hücre grupları) → Organ düzeyi (bir fonksiyon için birleşen doku tipleri) → Organ sistemleri düzeyi → Organizma düzeyi.",
-              "Kimyasal düzeyde, doğada bulunan 92 elementten yalnızca 11'i canlılarda önemli miktarda bulunur; oksijen, karbon, hidrojen ve azot vücut ağırlığının %96,3'ünü oluşturur. Kimyasal bileşenler inorganik (su, tuzlar, basit asit/bazlar) ve organik (karbonhidrat, lipit, protein, nükleik asit) olmak üzere ikiye ayrılır. DNA kalıtsal bilgiyi taşır ve proteinlerin yapım bilgisini içerirken, RNA protein üretiminde görev alır."
+            "heading": "Vücudun Yapısal Katmanları",
+            "emoji": "🏗️",
+            "bullets": [
+              "Vücut hiyerarşik bir sıra izler: **Kimyasal düzey → Hücresel düzey → Doku → Organ → Organ sistemleri → Organizma**.",
+              "Doğadaki 92 elementten sadece 11'i canlılarda önemli miktarda bulunur.",
+              "Oksijen, karbon, hidrojen ve azot tek başına vücut ağırlığının **%96,3**'ünü oluşturur.",
+              "Kimyasal bileşenler **inorganik** (su, tuzlar) ve **organik** (karbonhidrat, lipit, protein, nükleik asit) olarak ikiye ayrılır.",
+              "**DNA** kalıtsal bilgiyi ve protein yapım talimatını taşır, **RNA** ise protein üretiminde görev alır."
             ]
           },
           {
-            "heading": "Doku Tipleri",
-            "paragraphs": [
-              "Vücutta dört temel doku tipi bulunur. Bağ dokusu, vücuttaki en yaygın dokudur; diğer dokuları birbirine bağlar, organları destekler ve korur; mezenkim hücreleri, fibroblastlar, makrofajlar, yağ hücreleri, plazma hücreleri, mast hücreleri ve pigment hücreleri (melanositler) bağ dokusunun temel hücre tipleridir.",
-              "Epitel dokusu vücudun iç ve dış yüzeylerini örter; örtme/koruma, emme (örn. bağırsak villusları), salgılama (bezler) ve duyu fonksiyonlarını üstlenir. Kas dokusu, kasılma yoluyla kimyasal enerjiyi mekanik enerjiye çevirir; düz kas (istemsiz, yavaş, iç organlarda), iskelet kası (istemli, çok çekirdekli, hızlı yorulan) ve kalp kası (istemsiz, interkalar disklerle birbirine bağlı) olmak üzere üç çeşittir. Sinir dokusu ise nöronlar (uyarı iletimi) ve glia hücrelerinden (destek, besleme, miyelin oluşturma) oluşur."
+            "heading": "Dört Doku Tipi",
+            "emoji": "🧩",
+            "bullets": [
+              "Vücutta 4 temel doku bulunur: **bağ dokusu**, **epitel dokusu**, **kas dokusu** ve **sinir dokusu**.",
+              "**Bağ dokusu** vücuttaki en yaygın dokudur; diğer dokuları bağlar, organları destekler ve korur.",
+              "**Epitel dokusu** iç-dış yüzeyleri örter; koruma, emme, salgılama ve duyu görevleri üstlenir.",
+              "**Kas dokusu** üç çeşittir: düz kas (istemsiz), iskelet kası (istemli) ve kalp kası (istemsiz, interkalar disklerle bağlı).",
+              "**Sinir dokusu**, uyarı ileten nöronlar ile destek sağlayan glia hücrelerinden oluşur."
             ]
           },
           {
-            "heading": "Organ ve Organ Sistemleri",
-            "paragraphs": [
-              "İki ya da daha fazla doku tipinin özel bir görevi yerine getirmek üzere birleşmesiyle organlar, organların birleşmesiyle de organ sistemleri oluşur. Vücuttaki başlıca sistemler: deri sistemi (vücut ısısı düzenlenmesi, koruma), sinir sistemi (aktivitelerin kontrol ve koordinasyonu), iskelet sistemi (destek, koruma, kan hücresi üretimi, mineral depolama), kas sistemi (hareket, postür, ısı üretimi) ve endokrin sistem (hormonlarla vücut aktivitelerinin düzenlenmesi).",
-              "Diğer önemli sistemler ise üriner sistem (kimyasal içerik ve sıvı-elektrolit dengesi), üreme sistemi (nesil devamlılığı), dolaşım sistemi (oksijen/besin taşınması, atık uzaklaştırılması, ısı düzenlenmesi), lenfatik sistem (bağışıklık, sıvı geri dönüşü), solunum sistemi (gaz değişimi, asit-baz dengesi) ve sindirim sistemidir (besinlerin parçalanıp kullanıma hazırlanması). Her sistem, vücudun bir bütün olarak çalışmasına ve homeostazın sürdürülmesine katkı sağlar."
+            "heading": "Organlar ve Sistemler",
+            "emoji": "🫀",
+            "bullets": [
+              "İki veya daha fazla doku bir araya gelince **organ**, organlar birleşince **organ sistemi** oluşur.",
+              "Başlıca sistemler: deri (ısı/koruma), sinir (kontrol-koordinasyon), iskelet (destek), kas (hareket), endokrin (hormonlar).",
+              "Diğer sistemler: üriner, üreme, dolaşım (oksijen/besin taşır), lenfatik (bağışıklık), solunum (gaz değişimi) ve sindirim.",
+              "Her sistem, vücudun bütün olarak çalışmasına ve homeostazın korunmasına katkı sağlar."
             ]
           },
           {
-            "heading": "Vücudun İç Ortamı ve Homeostaz",
-            "paragraphs": [
-              "Yetişkin insan vücudunun %56-60'ı sıvıdır. Bu sıvının yaklaşık 2/3'ü hücre içinde (intrasellüler sıvı, ICF), 1/3'ü ise hücre dışında (ekstrasellüler sıvı, ECF) bulunur; ikisi hücre zarı ile birbirinden ayrılır. Hücre dışı sıvının 3/4'ü hücreler arası (interstisyel) sıvı, 1/4'ü kan plazmasıdır. Claude Bernard bu hücre dışı sıvıyı \"iç ortam-iç deniz\" olarak tanımlamıştır.",
-              "Homeostaz, iç ortamın yaklaşık olarak sabit koşullarda korunması anlamına gelir ve ilk olarak Walter Cannon tarafından tanımlanmıştır. Homeostatik mekanizmalar geri bildirim sistemleriyle çalışır: Negatif geri bildirimde yanıt, başlatan etkene zıt yöndedir ve eski duruma dönüşü sağlar (örn. karbondioksit artışının ventilasyonu artırarak dengelenmesi); vücuttaki çoğu kontrol mekanizması bu türdendir. Pozitif geri bildirimde ise değişikliklerin şiddeti giderek artar; kanın pıhtılaşması buna örnektir ve vücutta negatif geri bildirime göre daha az görülür."
+            "heading": "İç Ortam ve Homeostaz",
+            "emoji": "⚖️",
+            "bullets": [
+              "Yetişkin vücudunun **%56-60'ı sıvıdır**; 2/3'ü hücre içinde (ICF), 1/3'ü hücre dışında (ECF) bulunur.",
+              "Hücre dışı sıvının 3/4'ü hücreler arası sıvı, 1/4'ü kan plazmasıdır; Claude Bernard bunu \"iç deniz\" diye adlandırmıştır.",
+              "**Homeostaz**, iç ortamın sabit koşullarda korunmasıdır; terimi ilk **Walter Cannon** tanımlamıştır.",
+              "**Negatif geri bildirim**, etkene zıt yanıt verip eski durumu geri getirir (örn. CO₂ artınca solunum hızlanır) — vücutta en yaygın türdür.",
+              "**Pozitif geri bildirim**de değişiklik giderek şiddetlenir; kan pıhtılaşması buna örnektir, daha az görülür."
             ]
           },
           {
-            "heading": "Hücrenin Genel Yapısı",
-            "paragraphs": [
-              "Hücreyi 1665 yılında Robert Hooke keşfetmiş ve \"cellula\" adını vermiştir; Antoni Van Leeuwenhoek ise geliştirdiği mikroskopla mikroorganizmaları incelemiştir. Hücre, canlıların yaşama ve üreme yeteneğine sahip en küçük yapısal ve fonksiyonel birimidir. İnsan vücudu yaklaşık 100 trilyon hücreden oluşur.",
-              "Hücreler yapılarına göre iki grupta incelenir: Prokaryotik hücreler (sadece bakterilerde bulunur, çekirdek zarı ve genellikle membranlı organeli yoktur, DNA'sı halkasal ve zarla çevrili değildir) ve Ökaryotik hücreler (çekirdek zarıyla çevrili çekirdek ve sitoplazmik organeller içerir; insanda yaklaşık 200 farklı hücre tipi vardır). Hücre, kimyasal ve fiziksel yapı olmak üzere iki başlık altında incelenir."
+            "heading": "Hücre: Yaşamın Temel Birimi",
+            "emoji": "🔎",
+            "bullets": [
+              "**Robert Hooke** 1665'te hücreyi keşfedip \"cellula\" adını vermiş; Leeuwenhoek mikroskopla mikroorganizmaları incelemiştir.",
+              "**Hücre**, canlıların yaşama ve üreme yeteneğine sahip en küçük yapısal/fonksiyonel birimidir.",
+              "İnsan vücudu yaklaşık **100 trilyon hücre**den oluşur.",
+              "**Prokaryotik hücreler** sadece bakterilerde bulunur, çekirdek zarı ve zarlı organeli yoktur.",
+              "**Ökaryotik hücreler** zarla çevrili çekirdeğe sahiptir; insanda yaklaşık **200 farklı hücre tipi** vardır."
             ]
           },
           {
-            "heading": "Hücrenin Kimyasal Yapısı",
-            "paragraphs": [
-              "Hücreyi oluşturan protoplazma beş temel maddeden oluşur: su, elektrolitler, proteinler, lipitler ve karbonhidratlar. Su, hücrenin temel sıvı ortamıdır; yağ hücreleri hariç çoğu hücrenin %70-85'i sudur. Elektrolitler hücresel reaksiyonlar için gerekli inorganik kimyasalları oluşturur; hücre içinde en çok potasyum, magnezyum, fosfat bulunurken hücre dışında sodyum, kalsiyum, klor ve bikarbonat daha fazladır.",
-              "Proteinler hücre kütlesinin %10-20'sini oluşturur ve yapısal proteinler (mikrotübüller gibi filamentler) ile globüler proteinler (genellikle enzim işlevi görür) olarak ikiye ayrılır. Lipitler enerji kaynağı olarak kullanılır ve hücrenin fiziksel yapısında da yer alır (örn. yağ hücrelerinde kütlenin %95'i trigliseritlerdir); fosfolipit ve kolesterol hücre zarının yapı taşlarıdır. Karbonhidratlar hücrelerde genellikle glikojen şeklinde depolanır ve toplam kütlenin küçük bir kısmını oluşturur (kas hücrelerinde %3'e, karaciğerde %6'ya kadar çıkabilir)."
+            "heading": "Hücrenin Kimyasal İçeriği",
+            "emoji": "💧",
+            "bullets": [
+              "Hücreyi oluşturan **protoplazma** 5 temel maddeden oluşur: su, elektrolitler, proteinler, lipitler, karbonhidratlar.",
+              "Çoğu hücrenin **%70-85'i sudur** (yağ hücreleri hariç).",
+              "Hücre içinde en çok potasyum, magnezyum, fosfat; hücre dışında sodyum, kalsiyum, klor bulunur.",
+              "**Proteinler** kütlenin %10-20'sini oluşturur: yapısal proteinler ve enzim görevi gören globüler proteinler.",
+              "**Lipitler** enerji kaynağıdır (yağ hücresinin %95'i trigliserit); fosfolipit ve kolesterol hücre zarını oluşturur.",
+              "**Karbonhidratlar** genelde glikojen olarak depolanır (kasta %3'e, karaciğerde %6'ya kadar)."
             ]
           },
           {
-            "heading": "Hücre Zarının Yapısı",
-            "paragraphs": [
-              "Hücre zarı (plazma membranı), hücreyi çevreleyen 7,5-10 nanometre kalınlığında, ince ve elastik bir yapıdır. 1972'de Singer ve Nicholson tarafından tanımlanan akıcı mozaik zar modeline göre hücre zarı, çift katlı fosfolipit tabaka (sıvı bölüm) içine gömülü proteinlerden (mozaik bölüm) oluşur; yaklaşık bileşimi %55 protein, %25 fosfolipit, %13 kolesterol, %4 diğer lipitler ve %3 karbonhidrattır.",
-              "Fosfolipit moleküllerinin hidrofilik (suda çözünen) fosfat ucu ve hidrofobik (suda çözünmeyen) yağ asidi ucu vardır; bu yapı zarın seçici geçirgenliğini sağlar. Kolesterol zarın akışkanlığını ve esnekliğini belirler. Zar proteinleri integral (zarı boydan boya geçen, kanal/taşıyıcı/reseptör görevi gören) ve periferik (integral proteinlere tutunmuş, genellikle enzim işlevi gören) olmak üzere ikiye ayrılır. Zar karbonhidratları glikoprotein ve glikolipitler şeklinde hücrenin dış yüzeyinde glikokaliks adı verilen örtüyü oluşturur ve hücrelerin birbirini tanımasını, reseptör görevini ve bağışıklık reaksiyonlarını sağlar. Hücre zarının geçirgenliği molekül hacmi/tipi, yağda çözünürlük, iyon yükü ve taşıyıcı moleküllerin varlığı gibi faktörlere bağlıdır."
+            "heading": "Hücre Zarı Nasıl Yapılmış?",
+            "emoji": "🧱",
+            "bullets": [
+              "Hücre zarı (plazma membranı) 7,5-10 nanometre kalınlığında, ince ve elastik bir yapıdır.",
+              "1972'de Singer ve Nicholson'ın **akıcı mozaik model**ine göre, çift katlı fosfolipit tabaka içine proteinler gömülüdür.",
+              "Yaklaşık bileşim: %55 protein, %25 fosfolipit, %13 kolesterol, %4 diğer lipit, %3 karbonhidrat.",
+              "**Fosfolipitler**in suda çözünen (hidrofilik) ve çözünmeyen (hidrofobik) ucu, zarın seçici geçirgenliğini sağlar.",
+              "**İntegral proteinler** zarı boydan boya geçer (kanal/taşıyıcı); **periferik proteinler** yüzeye tutunur, genelde enzimdir.",
+              "Dış yüzeydeki **glikokaliks** (glikoprotein+glikolipit) hücrelerin birbirini tanımasını ve bağışıklık reaksiyonlarını sağlar."
             ]
           },
           {
-            "heading": "Hücre Zarında Madde Taşınması",
-            "paragraphs": [
-              "Hücre zarındaki madde geçişleri, enerji harcanıp harcanmamasına göre pasif taşıma ve aktif taşıma olarak ikiye ayrılır. Pasif taşımada madde, yoğun bölgeden az yoğun bölgeye ATP harcanmadan geçer; difüzyon (basit difüzyon ve taşıyıcı proteinle gerçekleşen kolaylaştırılmış difüzyon) ve ozmoz (suyun yarı geçirgen zardan az yoğun ortama geçişi) bu grubun örnekleridir. Ozmoz sonucu hücre hipertonik ortamda su kaybederek büzülürse buna plazmoliz, hipotonik ortamda su alarak şişerse deplazmoliz denir.",
-              "Aktif taşımada madde, düşük yoğunluktan yüksek yoğunluğa doğru ATP enerjisi kullanılarak taşınır; sodyum-potasyum ATPaz pompası tipik bir örnektir. Aktif taşımanın diğer türleri endositoz (büyük moleküllerin hücre içine alınması; katı maddeler için fagositoz, sıvı maddeler için pinositoz olarak adlandırılır) ve ekzositozdur (hücre içindeki makromoleküllerin kofullar aracılığıyla hücre dışına atılması, örn. hormon ve enzim salgılanması)."
+            "heading": "Hücre Zarından Madde Geçişi",
+            "emoji": "🚪",
+            "bullets": [
+              "**Pasif taşıma** ATP harcamadan, yoğundan az yoğuna gerçekleşir: **difüzyon** ve **ozmoz** bu gruptadır.",
+              "Ozmozda hücre hipertonik ortamda su kaybedip büzülürse **plazmoliz**, hipotonik ortamda şişerse **deplazmoliz** denir.",
+              "**Aktif taşıma** ATP enerjisi kullanarak az yoğundan çok yoğuna taşır; örnek: sodyum-potasyum ATPaz pompası.",
+              "**Endositoz** büyük moleküllerin hücreye alınmasıdır: katılar için **fagositoz**, sıvılar için **pinositoz**.",
+              "**Ekzositoz**, hücre içi maddelerin (hormon, enzim gibi) dışarı atılmasıdır — bu üçü (fagositoz, pinositoz, ekzositoz) aktif taşımadır."
             ]
           },
           {
-            "heading": "Hücre Organelleri",
-            "paragraphs": [
-              "Hücre organelleri, membranlı (hücre zarı, endoplazmik retikulum, golgi aygıtı, mitokondri, lizozomlar, peroksizomlar, salgı vezikülleri) ve membransız (ribozomlar, sentriyoller, mikrotübüller, filamentler) olmak üzere ikiye ayrılır. Endoplazmik retikulum, tübüler ve veziküler yapılardan oluşan membran sistemidir; üzerinde ribozom bulunan granüllü tip protein sentezi yapar, ribozomsuz düz tip ise lipit sentezi ve glikojen depolama gibi işlevler görür. Ribozomlar, RNA ve proteinden oluşan, membransız protein sentezi organelleridir.",
-              "Golgi aygıtı, endoplazmik retikulumdan gelen maddeleri işleyip paketleyerek lizozom ve salgı veziküllerini oluşturur. Lizozomlar, golgi aygıtı tarafından üretilen ve içinde hidrolitik (sindirici) enzimler bulunan organellerdir; hücre içi sindirimi sağlar, zarları zarar görürse hücrenin kendi kendini sindirmesine (otoliz) yol açar. Peroksizomlar, lizozomlara benzer ama kendi kendini çoğaltır ve oksidaz enzimleri içerir; toksik maddeleri etkisiz hâle getirir.",
-              "Mitokondri, hücrenin solunum ve enerji santralidir; besinlerden ATP üretimini sağlar, kendi DNA'sına ve ribozomlarına sahiptir, bu sayede kendi kendini çoğaltabilir. Hücre iskeleti (sentriyoller, mikrotübüller, aktin filamentleri) hücrenin şeklini korur ve organellerin hareketine yardımcı olur. Çekirdek (nükleus), DNA'yı taşıyan, çift katlı membranla sarılı ve hücrenin bölünme, büyüme ve kalıtsal bilginin saklanması gibi fonksiyonlarını yöneten yaşam merkezidir; içindeki çekirdekçik (nükleolus) zarsız bir yapı olup ribozomal RNA sentezlenir."
+            "heading": "Hücrenin İçindeki Organeller",
+            "emoji": "🏭",
+            "bullets": [
+              "Organeller **membranlı** (hücre zarı, ER, golgi, mitokondri, lizozom, peroksizom) ve **membransız** (ribozom, sentriyol, filamentler) olarak ikiye ayrılır.",
+              "**Endoplazmik retikulum**: üzerinde ribozom olan tip protein sentezler, düz tip lipit sentezi/glikojen depolar; **ribozomlar** membransız protein üretim yeridir.",
+              "**Golgi aygıtı**, ER'den gelen maddeleri işleyip paketler; **lizozomlar** hücre içi sindirim yapan hidrolitik enzim deposudur.",
+              "**Peroksizomlar** lizozoma benzer ama kendini çoğaltır, toksik maddeleri etkisiz hale getirir.",
+              "**Mitokondri**, hücrenin solunum ve **enerji üretim merkezi**dir; besinlerden ATP üretir, kendi DNA'sına sahiptir.",
+              "**Çekirdek** DNA'yı taşır ve hücreyi yönetir; içindeki **çekirdekçik (nükleolus) zarsızdır** ve ribozomal RNA üretir."
             ]
           },
           {
-            "heading": "Enerji, İş ve Güç Kavramları",
-            "paragraphs": [
-              "Enerji, bir sistemin iş yapabilme yeteneğidir ve birimi joule veya kaloridir (1 kilokalori = 1000 kalori). Canlıların temel enerji kaynağı güneştir ve biyolojik enerji devri üç tip dönüşümle gerçekleşir: güneş enerjisinin fotosentezle kimyasal enerjiye dönüşümü, hücresel solunumla ATP sentezlenmesi (fosforilasyon) ve ATP'nin hidroliz yoluyla parçalanarak farklı enerji türlerine dönüştürülmesi.",
-              "İş, bir kuvvetin cismi kendi doğrultusunda hareket ettirmesiyle gerçekleşir (iş = kuvvet x mesafe) ve birimi newton-metre veya joule'dür. Güç ise birim zamanda yapılan iş olarak tanımlanır (güç = iş/zaman) ve birimi watt'tır (joule/saniye); sıçrama, atma, sürat gibi hareketler için kısa zamanda yüksek güç gereklidir. Vücudun doğrudan enerji kaynağı ATP'dir; besin maddeleri ise dolaylı enerji kaynağıdır."
+            "heading": "Enerji, İş ve Güç",
+            "emoji": "⚡",
+            "bullets": [
+              "**Enerji**, bir sistemin iş yapabilme yeteneğidir; birimi joule veya kaloridir (1 kilokalori = 1000 kalori).",
+              "Canlıların temel enerji kaynağı güneştir: güneş→fotosentezle kimyasal enerji→hücresel solunumla ATP→ATP'nin hidrolizle kullanılması.",
+              "**İş** = kuvvet × mesafe; birimi newton-metre veya joule'dür.",
+              "**Güç**, birim zamanda yapılan iştir (güç = iş / zaman), birimi watt'tır — sıçrama ve sürat gibi hareketler kısa sürede yüksek güç ister.",
+              "Vücudun doğrudan enerji kaynağı **ATP**'dir, besinler ise dolaylı enerji kaynağıdır."
             ]
           },
           {
-            "heading": "ATP ve Enerji Sistemlerine Giriş",
-            "paragraphs": [
-              "ATP (adenozin trifosfat), adenozin ve üç fosfat grubundan oluşur; son iki fosfat bağı yüksek enerjili bağlardır ve parçalandığında 7-12 kcal enerji açığa çıkar, ADP ve serbest fosfat oluşur. Vücuttaki ATP depoları yalnızca yaklaşık 85 gramdır ve sadece birkaç saniyelik maksimal egzersizi destekleyebilir, bu nedenle ATP'nin sürekli yeniden sentezlenmesi gerekir.",
-              "ATP sentezini sağlayan kimyasal reaksiyonlar üç kategoride sınıflandırılır: ATP-CP (fosfojen) sistemi, laktik asit (anaerobik glikoliz) sistemi ve aerobik (oksijen) sistemi. Fosfojen sistemi ile laktik asit sistemi birlikte anaerobik sistemi oluştururken, oksijen sistemi aerobik sistemi oluşturur. Bu üç sistem her fiziksel aktivitede farklı oranlarda birlikte çalışır; kullanım oranı egzersizin süresine ve şiddetine bağlıdır."
+            "heading": "ATP: Vücudun Enerji Parası",
+            "emoji": "🔋",
+            "bullets": [
+              "**ATP** (adenozin trifosfat) adenozin ve 3 fosfattan oluşur; son iki bağ parçalanınca **7-12 kcal** enerji açığa çıkar, ADP+fosfat oluşur.",
+              "Vücuttaki ATP deposu sadece **~85 gram**dır, bu yüzden ATP sürekli yeniden üretilmelidir.",
+              "ATP üretimi 3 sistemde gerçekleşir: **ATP-CP (fosfojen) sistemi**, **laktik asit (anaerobik glikoliz) sistemi**, **aerobik (oksijen) sistemi**.",
+              "Fosfojen + laktik asit sistemleri birlikte **anaerobik sistemi**, oksijen sistemi tek başına **aerobik sistemi** oluşturur.",
+              "Bu üç sistem her aktivitede birlikte çalışır; oranları egzersizin süresi ve şiddetine bağlıdır."
             ]
           },
           {
-            "heading": "Fosfojen Sistem (ATP-CP)",
-            "paragraphs": [
-              "Fosfojen sistemde, kaslarda depolanmış ATP ve kreatin fosfat (CP) kullanılır. CP parçalandığında açığa çıkan enerji, ADP ve Pi'den yeniden ATP sentezlemek için kullanılır; her 1 mol CP parçalanması 1 mol ATP oluşturur. Bu sistem oksijen gerektirmez ve çok hızlı çalışır ama depoları sınırlıdır; kadınlarda ortalama 0,3 mol, erkeklerde 0,6 mol fosfojen bulunur ve bu, 10-15 saniyelik maksimal egzersizi (örn. 100 metre koşusu) destekleyebilir.",
-              "Fosfojen sistem, atlama, sıçrama, atma, vurma gibi kuvvet ve sürat gerektiren birkaç saniyelik hareketlerde kullanılır; kasların ne kadar hızlı enerji üretebildiği ve depoların ne kadar çabuk yenilenebildiği bu sistemde belirleyicidir. CP depoları hızlı tükenir (10-30 saniye içinde yorgunluk oluşur) ama dinlenmede de hızla yeniden depolanır."
+            "heading": "Fosfojen Sistem: Anlık Patlama",
+            "emoji": "🚀",
+            "bullets": [
+              "**Fosfojen sistem**de kaslardaki ATP ve **kreatin fosfat (CP)** kullanılır; her 1 mol CP, 1 mol ATP üretir.",
+              "Oksijen gerektirmez, çok hızlı çalışır ama depoları sınırlıdır.",
+              "Kadınlarda ortalama **0,3 mol**, erkeklerde **0,6 mol** fosfojen bulunur; bu **10-15 saniyelik** maksimal egzersizi (örn. 100m koşu) destekler.",
+              "Atlama, sıçrama, atma, vurma gibi kısa-kuvvetli hareketlerde kullanılır.",
+              "Depoları hızla tükenir (10-30 saniyede yorgunluk) ama dinlenmede de hızla yeniden dolar."
             ]
           },
           {
-            "heading": "Laktik Asit Sistemi (Anaerobik Glikoliz)",
-            "paragraphs": [
-              "Glikoliz, glikoz veya glikojenin parçalanması olayıdır. Kaslarda ATP yenilenmesi için oksijen kullanılmadan karbonhidratların (glikoz ve glikojen) parçalanarak laktik aside dönüştüğü sisteme anaerobik glikoliz (laktik asit sistemi) denir; bu reaksiyonlar hücrenin sitoplazmasında gerçekleşir. Depo glikojen kullanıldığında 1 mol glikojenden 3 mol ATP, kan glikozu kullanıldığında 2 mol ATP elde edilir.",
-              "Oluşan pirüvik asit, oksijen yetersizliğinde laktik aside dönüşür ve kaslarda birikir; bu birikim pH'ı düşürerek enzim aktivitesini ve ATP üretimini engeller, sonuçta kas yorgunluğuna yol açar. Bu sistem oksijensiz hızlı çalışır ama aerobik sisteme kıyasla çok daha az ATP üretir (aerobik glikolizin yaklaşık %5'i kadar); yaklaşık 1-3 dakika süren yüksek şiddetli aktivitelerde (400-800 m koşu gibi) baskın rol oynar."
+            "heading": "Laktik Asit Sistemi",
+            "emoji": "🔥",
+            "bullets": [
+              "**Glikoliz**, glikoz veya glikojenin parçalanmasıdır; **anaerobik glikoliz (laktik asit sistemi)** oksijensiz, sitoplazmada gerçekleşir.",
+              "Enerji kaynağı **glikoz ve glikojen**dir (karbonhidrat); yağ veya protein bu sistemde kullanılmaz.",
+              "Depo **glikojen** kullanılırsa **1 mol → 3 mol ATP**; **kan glikozu** kullanılırsa **2 mol ATP** elde edilir.",
+              "Oksijen azlığında pirüvik asit **laktik aside** dönüşüp kasta birikir, pH'ı düşürür ve yorgunluğa yol açar.",
+              "Aerobik sistemin yaklaşık **%5'i** kadar ATP üretir; **1-3 dakikalık** yüksek şiddetli aktivitelerde (400-800m) baskındır."
             ]
           },
           {
-            "heading": "Aerobik Sistem (Oksijen Sistemi)",
-            "paragraphs": [
-              "Aerobik sistem, karbonhidrat, yağ ve gerektiğinde proteinlerin oksijenle tamamen parçalanarak karbondioksit ve suya dönüştüğü sistemdir; reaksiyonlar mitokondride gerçekleşir. Üç temel aşamadan oluşur: Aerobik glikoliz (glikoz/glikojenin pirüvik asite, ardından Asetil-CoA'ya dönüşmesi, laktik asit birikimi olmadan), Krebs çemberi (Asetil-CoA'nın oksitlenerek CO₂ açığa çıkardığı reaksiyon zinciri) ve Elektron Transfer Sistemi (ETS) (elektron transferiyle ATP üretimi ve suyun oluşması).",
-              "Aerobik sistem, karbonhidratlardan 38-39 mol, yağlardan ise 129 mol ATP üretebilen, diğer iki sisteme göre çok daha fazla ATP sağlayan ve yorgunluk yapan laktik asit gibi bir yan ürün oluşturmayan tek sistemdir; aynı zamanda yağların enerji kaynağı olarak kullanılabildiği tek sistemdir. Ancak yavaş çalışır çünkü oksijenin kaslara ve mitokondriye ulaşması zaman alır (2-3 dakika)."
+            "heading": "Aerobik Sistem: Dayanıklılığın Gücü",
+            "emoji": "🌬️",
+            "bullets": [
+              "**Aerobik sistem**de karbonhidrat, yağ ve protein oksijenle tamamen parçalanır, son ürün **karbondioksit ve su**dur; mitokondride gerçekleşir.",
+              "Üç aşaması: **aerobik glikoliz**, **Krebs çemberi** ve **Elektron Transfer Sistemi (ETS)**.",
+              "Karbonhidratlardan **38-39 mol ATP**, yağlardan ise **129 mol ATP** üretilir — en çok ATP üreten sistemdir.",
+              "Yorgunluk yapan laktik asit gibi yan ürün oluşturmaz; yağın enerji kaynağı olabildiği tek sistemdir.",
+              "Oksijenin kaslara/mitokondriye ulaşması zaman aldığından **yavaş çalışır** (2-3 dakika)."
             ]
           },
           {
-            "heading": "Dinlenimde ve Egzersizde Enerji Sistemlerinin Kullanımı",
-            "paragraphs": [
-              "Dinlenim sırasında enerji üretimi tamamen aerobik sistemle sağlanır; enerjinin 2/3'ü yağlardan, 1/3'ü glikozdan elde edilir ve kanda sabit, düşük düzeyde laktik asit bulunur (laktik dehidrogenaz enziminden kaynaklanır). Egzersiz sırasında enerji tüketimi şiddete bağlı olarak dinlenimin 20 ile 120 katına kadar çıkabilir ve hem aerobik hem anaerobik sistemler birlikte, oranları egzersizin süresi ve şiddetine göre değişerek çalışır.",
-              "Kısa süreli, maksimal şiddetteki egzersizlerde (100-800 m koşular, 2-3 dakikaya kadar) anaerobik sistemler (fosfojen ve laktik asit) baskındır; en kısa, en yüksek şiddetli hareketlerde (100 m gibi) sadece fosfojen sistem, biraz daha uzun sürelerde (200-800 m) fosfojen ve laktik asit sistemleri birlikte kullanılır. Egzersizin şiddeti düştükçe ve süresi uzadıkça kullanılan sistem fosfojenden laktik asite, oradan da aerobik sisteme kayar.",
-              "Uzun süreli, düşük şiddetli egzersizlerde (10 dakikadan uzun, maraton gibi) enerjinin büyük kısmı aerobik sistemden sağlanır; temel enerji kaynağı karbonhidrat ve yağlardır, laktik asit birikimi az olur ve yorgunluk daha çok glikojen depolarının tükenmesi ile su-elektrolit kaybından kaynaklanır. 1500 m koşu gibi orta süreli aktivitelerde ise hem aerobik hem anaerobik sistemler birlikte devreye girer; futbol gibi takım sporlarında da baskın sistem aerobik olmakla birlikte sürat koşuları ve sıçramalar için anaerobik sistemler de kullanılır."
+            "heading": "Dinlenim ve Egzersizde Hangi Sistem?",
+            "emoji": "🏃",
+            "bullets": [
+              "Dinlenimde enerji tamamen **aerobik sistem**den gelir: 2/3'ü yağdan, 1/3'ü glikozdan.",
+              "Egzersizde enerji tüketimi dinlenimin **20-120 katı**na çıkabilir; aerobik ve anaerobik sistemler birlikte, orana göre çalışır.",
+              "**100m** gibi en kısa-yüksek şiddetli koşularda sadece **fosfojen sistem**; 200-800m'de fosfojen + laktik asit birlikte kullanılır.",
+              "Şiddet düşüp süre uzadıkça kullanım fosfojenden laktik aside, oradan aerobiğe kayar.",
+              "**Maraton** gibi 10 dakikadan uzun, düşük şiddetli egzersizlerde aerobik sistem baskındır; yorgunluk glikojen tükenmesi ve su-elektrolit kaybından kaynaklanır.",
+              "1500m gibi orta süreli aktivitelerde ve futbolda aerobik ve anaerobik sistemler birlikte devreye girer."
             ]
           }
         ],
@@ -14945,62 +15431,94 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Beslenme Kavramı ve Önemi",
-            "paragraphs": [
-              "Beslenme, sporcu performansının geliştirilmesinde kritik bir yer tutar. Organizmanın yaşamını ve fonksiyonlarını sürdürebilmesi için gerekli enerjinin (karbonhidrat, protein ve yağlardan) sağlandığı beslenme 'yeterli beslenme' olarak tanımlanır; 'dengeli beslenme' ise bunun yanında tüm besin gereksinimlerinin kişinin ihtiyaçlarına en uygun ve sağlığı koruyacak şekilde karşılanmasını da içerir. Uluslararası Olimpiyat Komitesi (IOC) besini, sağlığın ve vücut fonksiyonlarının korunması, yaşamın ve büyümenin sürdürülmesi için tüketilen gıda maddeleri olarak tanımlar.",
-              "Dengeli beslenmenin sporcu performansı üzerindeki etkileri şöyle özetlenebilir: istenen antrenman uyumlarının gerçekleşmesi, antrenman sonrası toparlanmanın hızlanması ve bağışıklık sisteminin desteklenmesi, uyku kalitesinin artırılması, antrenman sırasındaki konsantrasyonun geliştirilmesi ve sakatlık/hastalık durumlarında tedavi-rehabilitasyon süreçlerine katkı sağlanmasıdır. Antrenmanlar sırasında kaslar daha sık ve güçlü kasılır, solunum hızı artar, kalp atım sayısı ve pompalanan kan miktarı yükselir; bu etkenlerin birleşimi sporcuların sporcu olmayanlara kıyasla daha yüksek enerji harcamasına sahip olmasına yol açar.",
-              "Büyüme dönemindeki çocuk ve genç sporcularda beslenmenin önemi daha da artar. Çocuklarda kilogram başına enerji harcaması yetişkinlere göre daha yüksektir (7 yaşında bir çocukta yaklaşık %25 daha fazla); bunun nedeni kaslar arası koordinasyonun henüz tam gelişmemiş olmasıdır. Enerji alımının yetersiz olması ergenlikte gecikmeye, boy uzamasının olumsuz etkilenmesine, kemik gelişiminde problemlere, sakatlık riskinde artışa, menstrüasyon döngüsünde düzensizliklere ve büyüme-gelişme üzerinde ciddi olumsuz sonuçlara yol açabilir. Çocuk ve ergenlerde enerji ihtiyacı yaş gruplarına ve cinsiyete göre (Tablo 3.1) hesaplanabilir; sportif aktivite için gereken ek enerji de bu değere eklenir.",
-              "Sporcuda enerji gereksinimini yaş, cinsiyet, vücut kompozisyonu, antrenmanın türü ve antrenman ortamının çevresel koşulları (zemin, sıcaklık, nem, yükselti) etkiler. Sporcu beslenmesinde öncelik sağlığın korunmasıdır: sporcu sağlıklı olduğu sürece antrenmana adaptasyonu, toparlanması ve fizyolojik-bilişsel performansı daha iyi olur, hastalık ve sakatlık riski azalır."
+            "heading": "Beslenme: Performansın Temeli",
+            "emoji": "🥗",
+            "bullets": [
+              "**Yeterli beslenme**, vücudun karbonhidrat, protein ve yağdan enerji alarak yaşamını sürdürmesidir; **dengeli beslenme** ise tüm besin ihtiyaçlarını sağlığı koruyacak şekilde karşılamaktır.",
+              "**IOC (Uluslararası Olimpiyat Komitesi)**, besini sağlığı ve vücut fonksiyonlarını korumak için tüketilen gıdalar olarak tanımlar.",
+              "Dengeli beslenme antrenman uyumunu, toparlanmayı, bağışıklığı, uyku kalitesini ve konsantrasyonu artırır; sakatlık/hastalık tedavisine de destek olur.",
+              "Antrenmanda kaslar daha sık ve güçlü kasılır, **solunum hızı** ve **kalp atım hızı (KAH)** artar; bu yüzden sporcular sporcu olmayanlardan daha fazla enerji harcar.",
+              "Çocuklarda kilogram başına enerji harcaması yetişkinlerden fazladır (7 yaşında ~%25 daha fazla) çünkü kas koordinasyonu henüz tam gelişmemiştir.",
+              "Yetersiz enerji alımı çocuk/gençlerde ergenlik gecikmesi, boy kısalığı, kemik ve sakatlık sorunları, adet düzensizliği gibi ciddi sonuçlara yol açabilir.",
+              "Enerji gereksinimini yaş, cinsiyet, vücut kompozisyonu ve antrenman ortamı (sıcaklık, nem, yükselti) etkiler; her şeyden önce öncelik **sağlığın korunmasıdır**."
             ]
           },
           {
-            "heading": "Enerji Sistemleri ve Enerji Kaynakları",
-            "paragraphs": [
-              "Kalori, 1 gram suyun sıcaklığını 1°C yükseltmek için gereken enerji miktarıdır; 1 kilokalori (kkal) 1000 kaloriye, 1 kalori ise yaklaşık 4,184 joule'e eşittir. Vücutta enerji oluşturan makro besin öğeleri olan karbonhidrat (yaklaşık 4 kkal/g), protein (yaklaşık 4 kkal/g) ve yağ (yaklaşık 9 kkal/g) sindirim sonrası enerjiye dönüşür. Vitaminler, mineraller ve su ise kalori içermez ancak enerji oluşum süreçlerine yardımcı olur. Açığa çıkan enerji; büyüme-gelişme, hücre yapım-onarımı, organların verimli çalışması, zararlı maddelerin uzaklaştırılması, vücut sıcaklığının ayarlanması ve fiziksel hareket için kullanılır.",
-              "Günlük enerji harcaması; bazal metabolizma (organ ve sistemlerin çalışması için gerekli enerji, günlük harcamanın %60-75'i), besinlerin termik etkisi (toplam harcamanın ~%10'u) ve fiziksel aktivite için harcanan enerjinin toplamından oluşur. Bazal metabolik hız hesaplamasında en çok kullanılan formül Harris-Benedict formülüdür (Erkek: 66,5 + 13,75xA + 5,03xB - 6,75xY; Kadın: 655,1 + 9,56xA + 1,85xB - 4,68xY; A: ağırlık-kg, B: boy-cm, Y: yaş). Yağsız vücut kütlesine dayanan Cunningham formülü de alternatif bir yöntemdir. Erkekler kadınlardan daha yüksek bazal metabolizmaya sahiptir; yaş, hormonal fonksiyonlar, menstrüasyon döngüsü, açlık süresi, uyku ve ortam sıcaklığı bazal metabolizmayı etkileyen diğer faktörlerdir.",
-              "Hücrede enerji sağlayan temel molekül ATP'dir (adenozintrifosfat); yıkımı sonucu 7-12 kkal enerji açığa çıkar ancak vücuttaki ATP deposu sınırlıdır (80-100 gram) ve sürekli yenilenmesi gerekir. Kısa süreli, yüksek şiddetli egzersizlerde ATP, oksijene gerek kalmadan kreatin fosfattan sağlanır (ATP-CP veya fosfojen sistemi). Kreatin fosfat tükendiğinde karbonhidratlar (glikoz) parçalanarak enerji sağlanır; oksijen yetersizse pirüvik asit laktik aside döner, bu sisteme anaerobik glikoliz veya laktik asit sistemi denir ve 1-3 dakika süren yüksek yoğunluklu aktivitelerde (100-800 metre) etkilidir. Laktik asit birikimi asit-baz dengesini bozarak kas kasılma kalitesini düşürür.",
-              "Oksijen varlığında karbonhidrat, yağ ve proteinlerin parçalanarak karbondioksit ve suya dönüşmesiyle yüksek miktarda ATP üretilen sisteme aerobik (oksidatif) sistem denir. Bu sistemin etkinliğini belirleyen önemli faktör sporcunun maksimal oksijen tüketim kapasitesidir (VO2Maks). Kısa süreli yüksek şiddetli antrenmanlarda enerji temel olarak karbonhidrattan, anaerobik yolla (ATP-CP ve laktik asit sistemleri) sağlanır; antrenman süresi 10 dakikayı aştığında enerjinin büyük kısmı aerobik sistemden, karbonhidrat ağırlıklı olarak karşılanır. Süre 60 dakikayı geçtiğinde sınırlı kas-karaciğer glikojen depoları tükenmeye başlar ve bu durum önemli bir performans kısıtlayıcı faktör haline gelir."
+            "heading": "Enerji Sistemleri: Vücudun Yakıtı",
+            "emoji": "⚡",
+            "bullets": [
+              "**Kalori**, 1 gram suyu 1°C ısıtmak için gereken enerjidir; **1 kilokalori (kkal) = 1000 kalori**.",
+              "Enerji veren makro besinler: **karbonhidrat ve protein 1 gramda ~4 kkal**, **yağ 1 gramda ~9 kkal** verir; vitamin, mineral ve su kalori içermez.",
+              "Günlük enerji harcamasının %60-75'i **bazal metabolizma**, ~%10'u besinlerin termik etkisi, kalanı fiziksel aktivitedir; **Harris-Benedict formülü** bazal metabolizmayı hesaplamada en yaygın kullanılan yöntemdir.",
+              "Hücrenin enerji molekülü **ATP**'dir; vücuttaki deposu sınırlıdır (80-100 gram) ve sürekli yenilenmesi gerekir.",
+              "Kısa, yüksek şiddetli hareketlerde enerji önce **ATP-CP (fosfojen) sistemi**nden, sonra oksijensiz çalışan **anaerobik glikoliz (laktik asit) sistemi**nden gelir (1-3 dakikalık, 100-800 metrelik koşular).",
+              "Oksijen kullanan **aerobik (oksidatif) sistem** uzun süreli aktivitelerde devreye girer; etkinliğini **VO2maks** (maksimal oksijen tüketimi) belirler.",
+              "Antrenman 10 dakikayı geçtiğinde enerji ağırlıkla aerobik sistemden gelir; 60 dakikayı aşan antrenmanlarda kas-karaciğer glikojen depoları tükenmeye başlar ve performans düşer."
             ]
           },
           {
-            "heading": "Karbonhidratlar ve Metabolizması",
-            "paragraphs": [
-              "Karbonhidratlar vücudun temel enerji kaynağıdır; kan dolaşımının düzenlenmesi, kas-karaciğer dokusu organizasyonu, hücre işlevleri, sıvı-elektrolit dengesi ve beynin temel yakıtı olan glikoz sayesinde bilişsel fonksiyonlarda görev alır. Basit karbonhidratlar (monosakkarit: glikoz, galaktoz, früktoz; disakkarit: laktoz, sukroz, maltoz) hızlı sindirilip emilirken, üç veya daha fazla şeker biriminden oluşan polisakkaritler (kompleks karbonhidratlar: ekmek, pirinç, makarna, sebze, tahıl, kurubaklagil) daha yavaş sindirilir ve glisemik indeksleri daha düşüktür. Sporcularda günlük karbonhidrat alımının %80-85'i kompleks karbonhidratlardan oluşmalıdır.",
-              "Karbonhidratlar karaciğerde glikojen olarak ~100 gram, kasta ~300-400 gram, kanda glikoz olarak 15-20 gram depolanır; bu depolar antrenman ve açlıkla boşalır, düzenli antrenman ve doğru beslenmeyle depo kapasitesi 2 katına kadar artırılabilir. Kas glikojen depoları, maksimal oksijen tüketiminin %65-80'i şiddetindeki antrenmanlarda 90. dakikadan itibaren veya yüksek şiddetli 20-30 dakikalık interval antrenmanlarda tamamen boşalabilir. Glisemik indeks, alınan birim besinin kan şekerini yükseltme hızını gösterir; basit karbonhidratlar genelde yüksek, kompleks karbonhidratlar genelde düşük-orta glisemik indekse sahiptir (Tablo 3.3).",
-              "Antrenman öncesi büyük öğün, antrenmandan yaklaşık 3 saat önce, düşük-orta glisemik indeksli katı karbonhidratlar (%60-65, 3-5 g/kg) içerecek şekilde, düşük yağlı ve düşük posalı planlanmalıdır. Antrenman sırasında (özellikle 1 saati aşan antrenmanlarda) saat başına ~60 gram karbonhidrat, %6-8 oranında karbonhidrat içeren sporcu içecekleriyle 15-20 dakikada bir tüketilmelidir; süre 3 saate yaklaştığında bu miktar %50 artırılmalıdır.",
-              "Antrenman sonrası yüksek karbonhidratlı diyete devam edilmelidir: doğru beslenmeyle glikojen depoları 24-48 saatte, düşük karbonhidratlı diyetle ise 72 saatte dolar. Antrenman bitiminde en kısa sürede 1,5 g/kg yüksek glisemik indeksli karbonhidrat (yanında karbonhidratın 1/3'ü oranında protein), sonraki 5 saat boyunca 45-60 dakika aralıklarla 1,2 g/kg karbonhidrat tüketimi önerilir; ilk 6 saat glikojen yeniden dolumu için kritiktir, ilk 2 saat ise en kritik dönemdir. Yarışma öncesi modern karbonhidrat yükleme yönteminde, yarışmadan 5-7 gün önce karbonhidrat alımı 10-12 g/kg'a çıkarılırken antrenman yoğunluğu aşamalı olarak azaltılır."
+            "heading": "Karbonhidratlar: Ana Yakıt",
+            "emoji": "🍞",
+            "bullets": [
+              "Karbonhidratlar vücudun temel enerji kaynağıdır ve beynin yakıtı olan **glikoz**u sağlar; basit karbonhidratlar hızlı, **kompleks karbonhidratlar** (ekmek, pirinç, sebze, tahıl) yavaş sindirilir. Sporcularda günlük alımın %80-85'i kompleks karbonhidrat olmalı.",
+              "Karbonhidrat depoları: karaciğerde ~100 gram, kasta ~300-400 gram **glikojen**, kanda 15-20 gram glikoz; düzenli antrenmanla bu depo 2 katına çıkabilir.",
+              "**Glisemik indeks**, bir besinin kan şekerini yükseltme hızını gösterir; basit karbonhidratlar genelde yüksek, kompleks karbonhidratlar düşük-orta glisemik indekslidir.",
+              "Antrenmandan **3 saat önce**, orta-düşük glisemik indeksli ve **katı** karbonhidratlar (%60-65, 3-5 g/kg) içeren, düşük yağlı bir öğün yenmelidir.",
+              "1 saati aşan antrenmanlarda saatte ~60 gram karbonhidrat, %6-8'lik sporcu içecekleriyle 15-20 dakikada bir alınmalı; süre 3 saate yaklaşınca miktar %50 artırılmalı.",
+              "Antrenman sonrası doğru beslenmeyle glikojen depoları **24-48 saatte** dolar, yanlış (düşük karbonhidratlı) beslenmeyle bu **72 saate** çıkar; ilk 2 saat yeniden dolum için en kritik zamandır.",
+              "Yarış öncesi **karbonhidrat yükleme**sinde, yarıştan 5-7 gün önce alım 10-12 g/kg'a çıkarılırken antrenman yoğunluğu azaltılır."
             ]
           },
           {
-            "heading": "Proteinler ve Metabolizması",
-            "paragraphs": [
-              "Proteinler, antrenmanla oluşan hücre yıpranma ve hasarlarının tamirinde, kas dokusu onarımı ve korunmasında, hemoglobin ve antikor üretiminde, enzim-hormon yapımında, asit-baz ve sıvı dengesinde, kas büyüme-gelişmesinde ve çocuk sporcularda büyüme-gelişmede hayati rol oynar. Proteinlerin yapı taşları aminoasitlerdir; bilinen 22 aminoasitten 8'i vücutta sentezlenemez ve besinlerle alınması zorunludur (esansiyel aminoasitler: lösin, izolösin, valin, fenilalanin, lizin, treonin, metionin, triptofan). Lösin, izolösin ve valinden oluşan dallı zincirli aminoasitler (BCAA), özellikle glikojen depolarının tükendiği uzun antrenmanların son evrelerinde enerji üretimine katkıda bulunur (toplam enerjinin ~%10'u).",
-              "Protein kalitesi açısından hayvansal proteinler (yumurta, et, süt: %91-100 kullanılabilirlik) bitkisel proteinlere (tahıl %79-90, kurubaklagil %69-90) göre üstündür; çünkü bitkisel proteinler esansiyel aminoasit içeriği açısından eksiktir ('eksik protein'). Günlük protein tüketimi; sedanter bireylerde 0.8-1 g/kg, dayanıklılık sporcularında 1.2-1.7 g/kg, kuvvet-güç sporcularında 1.6-2 g/kg'dır; kas kütlesi artışı hedeflenen bazı dönemlerde 2.5-3 g/kg kullanılabilir, bunun üzerindeki miktarlar fayda sağlamaz ve yan etkilere yol açabilir. Sporcularda günlük enerjinin %15-20'sinin proteinden sağlanması önerilir.",
-              "ISSN (Uluslararası Spor Beslenmesi Birliği), antrenman öncesi 0.15-0.25 g/kg protein alımının antrenmandan 3-4 saat önceki öğünde (karbonhidratla birlikte) alınmasını, günlük 4-6 öğünde toplam 2 g/kg protein tüketilmesini önerir. Öğün başına 0.40-0.55 g/kg (20-40 gram) kaliteli protein, her 3-4 saatte bir karbonhidratla birlikte tüketilmelidir. Antrenman sonrası da aynı miktarda protein alınmaya devam edilmeli; süt ve çikolatalı süt (500 ml) kas onarımını ve toparlanmayı hızlandırır. Uykudan yarım saat önce alınan 30-40 gram kazein (süt, yoğurt), gece boyunca kas protein sentezini destekleyerek kas büyümesi ve onarımına katkıda bulunur."
+            "heading": "Proteinler: Yapı Taşları",
+            "emoji": "💪",
+            "bullets": [
+              "Proteinin birincil görevi enerji üretmek değil, **hücre onarımı, kas dokusu yenilenmesi**, hemoglobin/antikor ve enzim-hormon üretimidir; yeterli karbonhidrat varken enerjiye katkısı sınırlıdır.",
+              "Proteinin yapı taşı **aminoasit**lerdir; 22 aminoasitten 8'i vücutta üretilemez ve besinle alınması gerekir (**esansiyel aminoasitler**).",
+              "Lösin, izolösin ve valinden oluşan **BCAA (dallı zincirli aminoasitler)**, uzun antrenmanların son evrelerinde enerjinin ~%10'unu sağlayabilir.",
+              "Hayvansal proteinler (yumurta, et, süt) bitkisel proteinlere göre daha kaliteli kabul edilir; bitkisel proteinler esansiyel aminoasit açısından eksiktir.",
+              "Günlük protein ihtiyacı: sedanterlerde 0.8-1 g/kg, dayanıklılık sporcularında 1.2-1.7 g/kg, kuvvet-güç sporcularında **1.6-2 g/kg**; kas kütlesi artırmak isteyenlerde bu **2.5-3 g/kg**'a çıkabilir, daha fazlası ek fayda sağlamaz.",
+              "Sporcularda günlük enerjinin %15-20'si proteinden gelmeli; ISSN her öğünde 20-40 gram (0.40-0.55 g/kg) kaliteli protein, karbonhidratla birlikte, 3-4 saatte bir tüketilmesini önerir.",
+              "Uykudan yarım saat önce alınan 30-40 gram **kazein** (süt, yoğurt), gece boyunca kas protein sentezini destekler."
             ]
           },
           {
-            "heading": "Yağlar ve Metabolizması",
-            "paragraphs": [
-              "Yağlar vücudun en büyük enerji deposudur ve trigliserid formunda saklanır; 1 gram yağ ~9 kkal enerji verir, bu karbonhidrat ve proteinin verdiği enerjinin iki katından fazladır. Yağlar; organların çevresini sararak darbe-travmadan koruma, derialtı yağı ile vücut sıcaklığının korunması, büyüme-gelişmenin desteklenmesi, beyin-göz-cilt sağlığı, yağda eriyen vitaminlerin (A, D, E, K) alınıp kullanılması ve hücre zarı-sinir lifi oluşumu gibi görevler üstlenir. Sporcularda yağların diyetteki oranının %15-25 arasında olması önerilir; bu oranın %15'in altına düşmesi yağda eriyen vitaminlerin emiliminde eksikliğe yol açabilir.",
-              "Yağ asitleri, karbon zincirindeki çift bağ durumuna göre doymuş, tekli doymamış ve çoklu doymamış yağ asitleri olarak sınıflanır. Doymuş ve tekli doymamış yağ asitleri vücutta sentezlenebilirken, çoklu doymamış yağ asitleri (omega 3 ve omega 6) dışarıdan alınması zorunlu olduğundan esansiyel yağ asitleri olarak adlandırılır. Omega 3 kaynakları balık, balık yağı, ceviz, keten tohumu; omega 6 kaynakları ayçiçeği ve mısırözü yağıdır. Dünya Sağlık Örgütü omega6/omega3 oranının 5'e 1 olmasını önerir, ancak çoğu ülkede bu oran 16-25'e 1'dir ki bu toplum sağlığı riski oluşturur. Doymuş yağ asitlerinin aşırı tüketimi zararlı kolesterolü artırarak kalp-damar hastalığı riskini yükseltir; toplam yağ alımının %20'yi oluşturduğu bir düzende doymuş yağ tüketimi %7'yi geçmemelidir.",
-              "Yağlar karbonhidratlara göre vücutta ~50 kat daha fazla depolanabilir, ancak enerjiye dönüşümleri için gereken oksijen miktarı karbonhidrattan daha yüksek olduğundan antrenman sırasında (özellikle maksimal oksijen tüketiminin %60'ı üzerindeki şiddetlerde) öncelikli enerji kaynağı değildir; dinlenim ve düşük şiddetli antrenmanda öncelikli olarak kullanılır. Yüksek yağ tüketimi doygunluk hissi ve iştah baskılanması yaratarak yüksek karbonhidrat ihtiyacının karşılanmasını zorlaştırabilir; ayrıca sindirimi uzun sürdüğünden mide problemleri ve şişkinliğe yol açabilir. Çoklu doymamış yağ asitleri; insülin, testosteron ve büyüme hormonu sentezine katkıda bulunduğundan haftada 2-3 kez balık tüketimi önerilir."
+            "heading": "Yağlar: Dev Enerji Deposu",
+            "emoji": "🥑",
+            "bullets": [
+              "Yağlar vücudun en büyük enerji deposudur (**trigliserid** olarak saklanır); 1 gram yağ ~9 kkal verir, karbonhidrat/proteinin iki katından fazla.",
+              "Yağların görevleri: organları darbeden koruma, vücut sıcaklığını koruma, büyüme-gelişmeyi desteklemek, beyin/göz/cilt sağlığı ve **A, D, E, K vitaminlerinin** emilimini sağlamaktır — kas hasarının onarımı yağların görevi DEĞİLDİR, bu proteinin işidir.",
+              "Diyetteki yağ oranı %15-25 olmalı; %15'in altı yağda eriyen vitamin eksikliğine yol açabilir.",
+              "Yağ asitleri doymuş, tekli doymamış ve çoklu doymamış olarak sınıflanır; **omega 3 ve omega 6** dışarıdan alınması zorunlu olduğundan **esansiyel yağ asitleri** denir.",
+              "DSÖ, omega6/omega3 oranının 5'e 1 olmasını önerir, ama gerçek oran çoğu ülkede 16-25'e 1'dir; aşırı doymuş yağ kalp-damar riskini artırır (toplam yağın %7'sini geçmemeli).",
+              "Yağlar karbonhidrattan ~50 kat fazla depolanabilir ama enerjiye dönüşümü daha fazla oksijen gerektirir; bu yüzden yüksek şiddetli antrenmanda değil, **dinlenim ve düşük şiddetli** egzersizde öncelikli kullanılır.",
+              "Çoklu doymamış yağ asitleri hormon (insülin, testosteron, büyüme hormonu) sentezine katkı sağlar; haftada 2-3 kez balık tüketimi önerilir."
             ]
           },
           {
-            "heading": "Vitaminler ve Mineraller",
-            "paragraphs": [
-              "Vitaminler, vücut tarafından üretilemeyen ancak biyolojik faaliyetin devamı için gerekli organik bileşiklerdir; mikro besin olarak adlandırılır ve doğrudan enerji vermez ancak makro besinlerden enerjinin açığa çıkarılmasına yardımcı olur. Yağda eriyen vitaminler (A, D, E, K) vücutta depolanabilir ve fazlası toksik etki yaratabilir; emilimleri için diyetle yeterli yağ (toplam kalorinin en az %15'i) gerekir. Suda eriyen vitaminler (B grubu ve C vitamini) depolanmaz, fazlası idrarla atılır. Üst düzey sporcularda vitamin ihtiyacı normal insanların 3-6 katı olabilir, ancak dengeli beslenen sporcularda genelde ek takviyeye gerek yoktur; düşük enerjili diyetle beslenen, vegan/vejetaryen, hamile veya kansızlık riski olan sporcularda uzman kontrolünde takviye gerekebilir.",
-              "A vitamini görme, kemik sağlığı, bağışıklık ve antioksidan görevleri üstlenir. D vitamini kalsiyum-fosfor emilimi, kemik gelişimi ve testosteron üretiminde görev alır; sporcularda eksikliği yaygındır, kan düzeyinin 60 ng/ml'de tutulması için güneşlenme veya günlük 4000 IU takviye önerilir. E vitamini güçlü bir antioksidandır, eksikliği nadirdir. K vitamini kan pıhtılaşması ve kemik metabolizmasında görev alır; K2 formu kalsiyumu kemik ve dişlere yönlendirir. B grubu vitaminleri (Tiamin, Riboflavin, Niasin, Pantotenik asit, Pridoksin, Biyotin, Folik asit, Kobalamin/B12) enerji metabolizması, sinir sistemi ve kan hücresi üretiminde rol oynar; B12 sadece hayvansal gıdalarda bulunduğundan vegan/vejetaryenlerde eksiklik riski taşır. C vitamini kolajen yapımı, bağışıklık ve antioksidan etkisiyle önemlidir; ısıya karşı çok hassastır ve kolay okside olur.",
-              "Mineraller, vücutta sentezlenemeyen ve mutlaka besinlerle alınması gereken inorganik maddelerdir; vücut ağırlığının ~%4'ünü oluşturur. Makro mineraller (potasyum, fosfor, kalsiyum, magnezyum, sodyum, klor, sülfür) daha büyük miktarlarda gerekirken mikro mineraller (demir, çinko, iyot, krom, flor, kobalt, molibden, manganez, selenyum, bakır) daha az miktarda gerekir. Kalsiyum kemik sağlığı ve kas kasılması için önemlidir, kullanımı D vitamini ve magnezyuma bağlıdır. Potasyum ve sodyum sıvı-elektrolit dengesini korur. Demir, hemoglobin ve myoglobin yapısında bulunarak oksijen taşınmasını sağlar; demir eksikliği anemisi özellikle dayanıklılık sporcularında ve kadın sporcularda sık görülür, C vitamini demir emilimini artırırken çay-kahve emilimi düşürür."
+            "heading": "Vitaminler ve Mineraller: Küçük ama Kritik",
+            "emoji": "💊",
+            "bullets": [
+              "**Vitaminler**, enerji vermeyen ama enerjinin açığa çıkmasına yardım eden mikro besinlerdir; üst düzey sporcularda ihtiyaç normal insanların 3-6 katı olabilir.",
+              "**Yağda eriyen vitaminler (A, D, E, K)** vücutta depolanır ve fazlası toksik olabilir; **suda eriyen vitaminler (B grubu, C)** depolanmaz, fazlası idrarla atılır.",
+              "**D vitamini** kalsiyum-fosfor emilimi, kemik gelişimi ve testosteron üretiminde görevlidir; sporcularda eksikliği yaygındır, günde 4000 IU takviye önerilebilir.",
+              "**B12 vitamini** sadece hayvansal gıdalarda bulunur, bu yüzden vegan/vejetaryenlerde eksiklik riski taşır; **C vitamini** kolajen yapımı ve bağışıklıkta önemlidir, ısıya karşı hassastır.",
+              "**Mineraller**, vücutta üretilemeyen inorganik maddelerdir, vücut ağırlığının ~%4'ünü oluşturur; **makro mineraller** (kalsiyum, sodyum, potasyum vb.) fazla, **mikro mineraller** (demir, çinko, iyot vb.) az miktarda gerekir.",
+              "**Kalsiyum** kemik sağlığı ve kas kasılması için önemlidir (D vitamini ve magnezyuma bağlı çalışır); **potasyum ve sodyum** sıvı-elektrolit dengesini korur.",
+              "**Demir**, hemoglobin ve myoglobinle oksijen taşır; demir eksikliği anemisi özellikle dayanıklılık ve kadın sporcularında sık görülür, C vitamini emilimini artırırken çay/kahve azaltır."
             ]
           },
           {
-            "heading": "Su ve İçecekler",
-            "paragraphs": [
-              "Su, vücut sıvı dengesinin sağlanmasında büyük önem taşır; insan vücudundaki su oranı %50-75 arasında değişir (çocuklarda ~%75, yetişkin kadınlarda ~%55, erkeklerde %50-55). Su; besin taşınımı, biyokimyasal reaksiyonlar, atık maddelerin uzaklaştırılması, vücut sıcaklığının düzenlenmesi ve eklem kayganlığı gibi görevler üstlenir. Hidrasyon, vücuda alınan ve vücuttan atılan suyun eşit olmasıdır; idrar, ter, solunum ve dışkıyla kaybedilen su, yiyecek ve içeceklerle yerine konmalıdır.",
-              "Antrenman sırasında terle kaybedilen vücut ağırlığının %2'si bozulmuş aerobik performansa, %4'ü kassal iş çıktısında düşüşe, %5'i sıcak çarpmasına, %7'si halüsinasyonlara, %10'u ise sıcak çarpması ve kardiyovasküler çöküşe yol açabilir (Tablo 3.7). Bu nedenle antrenman öncesi son öğünde 2-2.5 su bardağı (5-10 ml/kg), antrenmandan 20-30 dakika önce 1-2 su bardağı su içilmesi; antrenman 1 saati aştığında her 20 dakikada bir 150-250 ml soğuk (4-8°C), elektrolit ve %6-8 karbonhidrat içeren içecek tüketilmesi (saat başına 60 gram karbonhidrat, 0.4-0.8 litre sıvı) önerilir. Sıcaklık 30°C'yi veya süre 2.5 saati aştığında bu miktarlar %50 artırılmalıdır.",
-              "Sıvı ihtiyacının belirlenmesi için sporcu antrenman öncesi ve sonrası tartılmalıdır (terli kıyafetle veya dolu mesane ile tartılmamalıdır). Örneğin vücut ağırlığı 1,6 kg azalan, 300 ml su içen ve 100 ml idrar çıkaran bir sporcunun ter kaybı 1600+300-100=1800 ml'dir. İdrar rengi de hidrasyon durumunu gösterir; açık renkler iyi hidrasyonu, koyu renkler ciddi dehidrasyonu işaret eder. Kaybedilen sıvının %120-150'si, takip eden 24 saat içinde yerine konmalıdır (örneğin 3 litre kayıp için 4.5 litre sıvı). Sadece su tüketmek sodyum kaybı ve diüretik etkiyle su tutulumunu olumsuz etkileyebileceğinden, su yanında süt, ayran, maden suyu ve sporcu içecekleri de tüketilmelidir; çikolatalı süt özellikle kas onarımı ve sıvı-elektrolit kaybının giderilmesinde etkilidir."
+            "heading": "Su ve İçecekler: Hidrasyon Şart",
+            "emoji": "💧",
+            "bullets": [
+              "Vücuttaki su oranı %50-75 arasındadır (çocuklarda en yüksek); **hidrasyon**, alınan ve kaybedilen suyun eşit olmasıdır.",
+              "Terle kaybedilen vücut ağırlığının %2'si performans düşüşüne, %4'ü kassal güç kaybına, %5'i sıcak çarpmasına, %7'si halüsinasyona, %10'u ciddi sıcak çarpması ve kardiyovasküler çöküşe yol açabilir.",
+              "Antrenman öncesi son öğünde 2-2.5 bardak, antrenmandan 20-30 dakika önce 1-2 bardak su içilmelidir.",
+              "1 saati aşan antrenmanlarda her 20 dakikada 150-250 ml soğuk (4-8°C), %6-8 karbonhidrat içeren sporcu içeceği önerilir (saatte ~60 gram karbonhidrat); sıcaklık 30°C'yi veya süre 2.5 saati aşarsa miktar %50 artırılmalı.",
+              "Sıvı kaybı antrenman öncesi-sonrası tartılarak hesaplanabilir; idrar rengi de hidrasyonu gösterir (açık renk iyi, koyu renk ciddi dehidrasyon işaretidir).",
+              "Kaybedilen sıvının **%120-150'si** takip eden 24 saat içinde yerine konmalıdır; örneğin 3 litre kayıp için **4.5 litre** sıvı içilmelidir.",
+              "Sadece su içmek yetersiz olabilir; su yanında süt, ayran, maden suyu ve sporcu içecekleri de tüketilmeli, çikolatalı süt kas onarımına yardımcı olur."
             ]
           }
         ],
@@ -15226,46 +15744,65 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Sağlık Kavramını ve Sporda Sağlık Organizasyonunu Açıklayabilme",
-            "paragraphs": [
-              "Sağlık, fiziksel, zihinsel ve sosyal yönden iyi olma hâli olarak tanımlanır. Egzersiz ve spor, bu bağlamda sağlıklı yaşamın vazgeçilmez bir ögesidir; belirli bir spora katılım göstermek bireylerde fiziksel aktiviteyi artırmada önemli bir stratejidir.",
-              "Düzenli yapılan fiziksel aktivite ile kas iskelet sistemi, dolaşım sistemi ve solunum sisteminin fonksiyonlarında gelişim görülür. Bu sayede kronik kalp-damar hastalıkları, felç, diyabet, kemik erimesi ve bazı kanser türlerinin önlenebildiği gösterilmiştir. Bu yararlar nedeniyle günümüzde spora ve fiziksel aktiviteye katılım en yüksek seviyelerdedir; 40 milyondan fazla çocuk ve genç okul dışında spor kulüplerinin cimnastik ve yüzme gibi aktivitelerine devam etmektedir.",
-              "Spor yapmak sağlık için çok faydalı olsa da bilinçsiz yapılan spor aktiviteleri yaralanmaları da birlikte getirir. Her sportif faaliyette vücutta mikrotravmalara bağlı küçük yaralanmalar oluşur; akut veya kronik olarak bir dokuya uygulanan stres, dokunun bu stresi \"absorbe\" edebilme yeteneğinden daha büyük olduğunda yaralanma meydana gelir. Bu nedenle sahada görevli doktor dışındaki hakem, antrenör ve diğer kişilerin de ilk yardım konusunda bilgi sahibi olması gereklidir."
+            "heading": "Sağlık ve Spor: Nasıl Bağlantılı?",
+            "emoji": "🏃",
+            "bullets": [
+              "**Sağlık**, sadece hastalık olmaması değil; fiziksel, zihinsel ve sosyal yönden iyi olma hâlidir.",
+              "Düzenli fiziksel aktivite **kas-iskelet, dolaşım ve solunum sistemlerini** geliştirir.",
+              "Spor; kalp-damar hastalıkları, felç, diyabet, kemik erimesi ve bazı kanser türlerini önlemeye yardımcı olur.",
+              "Spor ayrıca vücut **esnekliğini artırır**, azaltmaz — bu sık karıştırılan bir noktadır.",
+              "40 milyondan fazla çocuk ve genç, okul dışında spor kulüplerine (yüzme, cimnastik vb.) katılıyor.",
+              "Ama dikkatsiz yapılan spor **mikrotravmalara** yol açabilir: doku, kaldırabileceğinden fazla strese girerse yaralanma oluşur.",
+              "Bu yüzden sahadaki doktor dışında hakem ve antrenörlerin de ilk yardım bilgisi olması gerekir."
             ]
           },
           {
-            "heading": "Spor Yaralanması ve Etkili Faktörler",
-            "paragraphs": [
-              "Vücuttaki dokuların harekete karşı dayanabildiği bir sınır vardır; bu sınır aşıldığında yaralanma oluşur. Yaralanmaya zemin hazırlayan risk faktörleri ikiye ayrılır: kişinin kendisinden kaynaklı (içsel) faktörler ve çevresel faktörler. Risk faktörlerinden bazıları değiştirilebilir (örneğin fiziksel uygunluk düzeyi), bazıları ise değiştirilemez niteliktedir (örneğin yaş, cinsiyet).",
-              "İçsel faktörler arasında önceki yaralanma öyküsü (tam iyileşmeden spora dönülmesi tekrar yaralanma riskini artırır), yaş (12-15 yaş adölesan dönemde kemik gelişimine oranla kas gelişimi ve esnekliğin yetersiz kalması, yaşlanmada ise doku esnekliği ve kas kitlesinin azalması risk oluşturur), cinsiyet (kadınlarda bağ yapılarının daha gevşek olması bazı yaralanma türlerinde riski artırırken çocukluk-adölesan dönemde erkekler daha risklidir) ve yetersiz fiziksel uygunluk düzeyi sayılır. Fiziksel uygunluk, yorgunluk olmaksızın mesleki, boş zaman ve günlük yaşam aktivitelerini başarıyla yapma ve bu uygunluğu yaşam boyu sürdürebilme yeteneğidir. Ayrıca biyomekanik dizilim bozuklukları, yetersiz uyku-beslenme-sıvı alımı, psikososyal faktörler (stres, motivasyon eksikliği veya aşırı motivasyon), yorgunluk, yaralanma korkusu, tecrübesizlik, konsantrasyon eksikliği ve hazır hissetmeme de içsel risk faktörleri arasındadır.",
-              "Çevresel faktörler arasında ekipman ve zemin (uygun olmayan ayakkabı-zemin etkileşimi, kaymayan saha tasarımının önemi), ışıklandırma, oynanan pozisyon, hava koşulları (uluslararası karşılaşmalarda maksimum ortam sıcaklığı 25°C, minimum 16°C olarak belirlenmiştir), spor tipi, aşırı antrenman/maç yoğunluğu, teknik yanlışlıklar ve sporcu-antrenör anlaşmazlığı sayılabilir.",
-              "Hareket sistemi yaralanmaları sportif aktivitelerde sık görülür; en sık rastlananlar bağ zedelenmesi, kırıklar, eklem ve kıkırdak zedelenmeleri, kas lifi kopmaları, kas ezilmeleri, tendon yaralanmaları ve burkulmalardır. Kas, tendon veya bağ dokusu yaralandığında bölgedeki kan damarları yırtılır; oluşan kanama çevre dokulara yayılarak şişliğe, şişlik ise basınç artışına ve buna bağlı ağrı ile hassasiyete yol açar."
+            "heading": "Yaralanmaya Zemin Hazırlayan Faktörler",
+            "emoji": "⚠️",
+            "bullets": [
+              "Risk faktörleri ikiye ayrılır: **içsel (kişisel)** faktörler ve **çevresel** faktörler.",
+              "Bazı faktörler değiştirilebilir (fiziksel uygunluk), bazıları değiştirilemez (**yaş**, cinsiyet).",
+              "İçsel faktörler: önceki yaralanma öyküsü, **yaş** (12-15 adölesan dönem ve ileri yaş), cinsiyet, yetersiz fiziksel uygunluk, **biyomekanik dizilim bozukluğu**, uyku/beslenme eksikliği, stres ve yorgunluk.",
+              "Çevresel faktörler: ekipman-zemin uyumu, **ışıklandırma**, oynanan pozisyon, **hava koşulları** (maks 25°C, min 16°C), spor tipi, aşırı antrenman yoğunluğu ve antrenör-sporcu anlaşmazlığı.",
+              "En sık görülen yaralanmalar: bağ zedelenmesi, kırık, eklem/kıkırdak zedelenmesi, kas lifi kopması, tendon yaralanması ve burkulma.",
+              "Yaralanan dokudaki damarlar yırtılır → kanama → şişlik → basınç artışı → ağrı ve hassasiyet."
             ]
           },
           {
-            "heading": "Spor Yaralanmalarının Önlenmesi",
-            "paragraphs": [
-              "Spor yaralanmaları, yaralanmalara neden olan risk faktörlerinin belirlenip bu faktörlere yönelik müdahalelerle önlenebilir veya sıklığı azaltılabilir. Yapılabilecek müdahaleler kabaca ekipman desteği (breysler, ortezler, koşu zeminleri, kıyafet ve ayakkabı), eğitim (kas kuvveti, enduransı, eklem hareket açıklığı, reaksiyon zamanı ve propriosepsiyon) ile kurallar ve düzenlemeler olarak sınıflandırılabilir.",
-              "Yaralanmaları önleme yaklaşımı bir piramit olarak düşünülebilir; her basamak bir diğeri için temel oluşturur. Piramidin tabanında hedef belirleme ve bu hedef grup üzerinde yapılan risk faktörü analizi yer alır; özellikle sezon öncesi yapılan risk analizi riskli sporculara odaklanmayı ve eksikliklerin giderilmesini sağlar. İkinci basamak yüklenme yönetimidir: hem yetersiz hem aşırı yüklenme yaralanma riskini artırır, bu nedenle bireysel ve kademeli bir yüklenme programı izlenmelidir. Üçüncü basamak atletik gelişim, kuvvet ve kondisyon kalitesinin iyileştirilmesidir; sporcu sporunun gerektirdiği kuvvete ve dayanıklılığa sahip değilse yaralanma gerçekleşir. Dördüncü basamak hareket verimliliğinin artırılmasıdır; sporcunun atletik potansiyelini güvenli ve etkili kullanıp kullanamadığı değerlendirilir. Piramidin en üst noktasında ise önceki yaralanma ve etkin rehabilitasyon süreci bulunur, çünkü önceki yaralanma öyküsü gelecekteki yaralanmaların en iyi belirleyicisidir.",
-              "Koruyucu ekipman kullanımı özellikle futbol, hokey ve beyzbol gibi takım sporlarında yaralanma oranını (paralizi veya ölüm dahil) oldukça azaltır; dişlikler diş yaralanmalarını, dış ayak bileği destekleri ise tekrar yaralanma oranını azaltır. Çim zeminler elit sporcular için, yapay zeminler ise daha az profesyonel sporcular için daha güvenli kabul edilir."
+            "heading": "Yaralanmaları Önleme Piramidi",
+            "emoji": "🛡️",
+            "bullets": [
+              "Önleme üç yoldan yapılır: **ekipman desteği** (breys, ortez, uygun ayakkabı), **eğitim** (kuvvet, denge, eklem hareketi) ve kurallar.",
+              "Önleme bir **piramit** gibidir, her basamak bir öncekinin üstüne kurulur.",
+              "1. basamak: hedef grup belirleme ve **risk faktörü analizi** (piramidin temeli).",
+              "2. basamak: **yüklenme yönetimi** — hem az hem fazla yüklenme risklidir, kademeli program gerekir.",
+              "3. basamak: **atletik gelişim**, kuvvet ve kondisyonun iyileştirilmesi.",
+              "4. basamak: hareket verimliliğinin artırılması; tepede ise önceki yaralanma ve rehabilitasyon süreci yer alır.",
+              "Koruyucu ekipman (dişlik, ayak bileği desteği) ciddi yaralanmaları azaltır; elit sporcu için çim, amatör için yapay zemin daha güvenli sayılır."
             ]
           },
           {
-            "heading": "Sporda İlk Yardımın Temel İlkeleri",
-            "paragraphs": [
-              "İlk yardım, herhangi bir nedenle yaralanan ya da aniden hastalanan kişilere, sağlık personeli tarafından sağlık durumunun daha da kötüleşmesini önlemek amacıyla, olay yerinde eldeki olanaklarla yapılan geçici ilaçsız müdahalelerdir. Öncelikli amaçları hayati tehlikenin ortadan kaldırılması, yaşamsal fonksiyonların sürdürülmesi, durumun kötüleşmesinin önlenmesi ve iyileşmenin kolaylaştırılmasıdır.",
-              "Bilinç kapalıysa hızla hava yolu açıklığı, solunum (bak-dinle-hisset) ve dolaşım (şah damarından 5 saniye nabız alınarak) değerlendirilir. Muayenede dokuz hayati bulgu incelenir: nabız (yetişkinde 60-100, sporcuda 40-60/dk), solunum (12-20/dk, sporcuda 6-8/dk), kan basıncı, vücut sıcaklığı (normalde ~37°C), cilt rengi, göz bebekleri (ışığa tepkisizlik ciddi bir probleme işaret eder), bilinç durumu (1., 2. ve 3. derece bilinç kaybı), hareket yeteneği ve ağrıya tepki. Bu değerlendirmeler tanı ve tedavi için temel oluşturur.",
-              "Solunum veya kalp durması varsa temel yaşam desteği (TYD) ve kalp-solunum canlandırması (KSC) hızla uygulanmalıdır; hava yolu açılır, tek kişi uygulamasında 15 kalp masajına karşılık 2 solunum verilir ve kalp masajı dakikada 80-100 baskı hızında yapılır. Kanama varsa kompresyon, yaralı bölgenin kalp seviyesinden yukarı kaldırılması ve gerekirse turnike (10 dakikayı aşmayacak şekilde) uygulanır. Dolaşımsal yetersizlikte gelişen şokun belirtileri derinin soluklaşması, nabzın hızlanıp zayıflaması, soğuk terleme, göz bebeklerinin genişlemesi ve kan basıncının düşmesidir; ilk yardımda hasta battaniyeyle ısıtılır ve bacakları yukarı kaldırılır. Boğulma kuru, yaş ve ikincil boğulma şeklinde görülebilirken, donmada hafif, orta ve ağır hipotermi dereceleri rektal ısıya göre ayrılır.",
-              "Sahada sporcu değerlendirmesi TOTAPS aşamalarıyla yapılır: Talk (Konuş: yaralanmanın nasıl olduğu ve ağrının yeri sorulur), Observe (Gözle: genel görünüm ve karşı tarafla kıyaslama), Touch (Dokun: nazikçe dokunarak ağrılı nokta belirlenir), Active Motion (Aktif Hareket: sporcunun bölgeyi kendi hareket ettirip ettiremediği), Passive Motion (Pasif Hareket: bölge nazikçe hareket ettirilerek ağrı derecesi belirlenir) ve Skill Tests (Beceri Testleri: ayağa kalkma, desteksiz durma gibi giderek zorlaşan hareketler denenir). Değerlendirme sonrası yaralanma ciddiyse sporcu saha dışına alınır ve gerekirse doktor yönlendirmesiyle ilk yardım süreci başlar."
+            "heading": "Sahada İlk Yardımın Temel İlkeleri",
+            "emoji": "🚑",
+            "bullets": [
+              "**İlk yardım**, yaralanan/aniden hastalanan kişiye olay yerinde yapılan geçici, ilaçsız müdahaledir; amacı hayati tehlikeyi ortadan kaldırmaktır.",
+              "Bilinç kapalıysa önce hava yolu, solunum (bak-dinle-hisset) ve dolaşım (şah damarından 5 saniye nabız) kontrol edilir.",
+              "**Dokuz hayati bulgu**: nabız (yetişkinde 60-100, sporcuda 40-60/dk), solunum (12-20, sporcuda 6-8/dk), kan basıncı, vücut sıcaklığı (~37°C), cilt rengi, göz bebekleri, bilinç durumu, hareket yeteneği ve ağrıya tepki.",
+              "Solunum/kalp durursa **KSC (kalp-solunum canlandırması)** uygulanır: tek kişi için 15 kalp masajına karşılık 2 solunum, masaj dakikada 80-100 baskı hızında.",
+              "Ciddi kanamada kompresyon, bölgeyi kalp üstüne kaldırma ve gerekirse **turnike** (en fazla 10 dakika) uygulanır; şokta hasta ısıtılır, bacakları yukarı kaldırılır.",
+              "Sahada değerlendirme **TOTAPS** ile yapılır: Talk (konuş), Observe (gözle), Touch (dokun), Active/Passive Motion (hareket ettir), Skill Tests (beceri testleri)."
             ]
           },
           {
-            "heading": "Spor Yaralanmalarında Ön Tedavi: POLICE Protokolü",
-            "paragraphs": [
-              "Saha kenarındaki ilk yardım çantasında pansuman malzemeleri, muayene araç-gereçleri ve temel ilaçlar hazır bulundurulmalıdır. Ön tedavinin öncelikli amacı yaralanan bölgedeki semptomları azaltmak; kişide ağrıyı, oluşan şişliği ya da eziklik durumunu minimale indirmek ve yaralanmış bölgede gerekli miktarda hareketsizliği sağlamaktır. Yaralanma sonrası ilk fizyolojik cevap doku içine kanama, ardından ödem (şişlik), ağrı-hassasiyet, ciltte ısı artışı ve kızarıklıktır; bu nedenle kanamayı durdurmak ön tedavide öncelikli hedeftir.",
-              "Kas iskelet sistemi yaralanmalarında kullanılan en güncel ilk yardım yöntemi POLICE protokolüdür: P (Protection/Koruma) yaralanmış bölgenin daha ileri yaralanmalara karşı korunmasıdır; kol-omuz için üçgen askı, kalça-bacak-ayak için koltuk değneği kullanılır, ancak bu uzun süreli tam hareketsizlik anlamına gelmez. OL (Optimal Loading/Uygun Yüklenme) eski RICE ve PRICE protokollerindeki \"Rest/Dinlenme\" yerine gelmiştir; çalışmalar, dokunun uygun düzeyde yüklenmesinin iyileşmeyi tam hareketsizlikten daha iyi desteklediğini göstermiştir.",
-              "I (Ice/Buz) yaralanan bölgeye 2 saat arayla 15 dakikalık buz uygulamasıdır; buz doğrudan cilde uygulanmaz, araya nemli bir bez/havlu konulmalıdır. Uygulama süresi minimum 12-15, maksimum 30 dakikadır; yaralanmanın ilk 24-48 saatinde sıkça (ilk 24 saatte 2 saatte bir, sonrasında 4-6 saatte bir), gerekirse 7-10 güne kadar sürdürülebilir; açık yara üzerine veya dolaşım bozukluğu/aşırı morarma gözlenen bölgeye buz uygulanmaz.",
-              "C (Compression/Kompresyon) elastik bandajla yaralı bölgeye basınç uygulanarak kanama ve şişliğin kontrol altına alınmasıdır; bandaj spiral veya 8 şeklinde, alt seviyeden kalbe doğru sarılır ve dolaşım bozukluğu belirtisi (renk değişikliği, beyazlama) görülürse çözülür. E (Elevation/Elevasyon) yaralı bölgenin kalp seviyesinin üzerine kaldırılmasıdır; yerçekimine bağlı ödem oluşumunu engeller ve genellikle soğuk-kompresyonla birlikte her 2 saatte bir 20 dakika uygulanır, kanama ve şişlik fazlaysa 24-48 saat sürdürülebilir. Akut evre sonrasında bu ilk yardım protokolünün yerini uygun bir rehabilitasyon programı alır."
+            "heading": "Ön Tedavi: POLICE Protokolü",
+            "emoji": "🧊",
+            "bullets": [
+              "Ön tedavinin amacı ağrı, şişlik ve eziklik hissini azaltmak, bölgeyi gerektiği kadar hareketsizleştirmektir.",
+              "Yaralanmanın ilk fizyolojik cevabı: doku içi kanama, ardından ödem (şişlik), ağrı-hassasiyet, ciltte ısı artışı ve kızarıklıktır.",
+              "Güncel protokolün adı **POLICE**; eski **RICE** ve **PRICE** protokollerinin yerini almıştır.",
+              "**P**rotection (Koruma): bölge askı/koltuk değneğiyle korunur ama tam hareketsizlik şart değildir. **OL** = Optimal Loading (Uygun Yüklenme): eski protokollerdeki **Rest/Dinlenme**'nin yerine geçmiştir, çünkü tam hareketsizlik iyileşmeyi geciktirir.",
+              "**I**ce (Buz): doğrudan cilde değil, bez/havlu arayla; süre minimum 12-15, maksimum 30 dakika; ilk 24-48 saatte sık uygulanır; açık yara veya dolaşım bozukluğunda uygulanmaz.",
+              "**C**ompression (Kompresyon): elastik bandaj alttan kalbe doğru sarılır. **E**levation (Elevasyon): bölge kalp seviyesinin üzerine kaldırılır, genelde 2 saatte bir 20 dakika."
             ]
           }
         ],
@@ -15493,36 +16030,53 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Doping ve Dopingle Mücadele",
-            "paragraphs": [
-              "Doping, yasaklı maddelerin veya yöntemlerin kullanımı olarak bilinir; ancak Dünya Dopingle Mücadele Ajansı (WADA) tanımına göre doping, sadece bu kullanımla sınırlı değildir. Dünya Dopingle Mücadele Kurallarının 2. maddesinde yer alan bir veya birden fazla dopingle mücadele kuralının ihlal edilmesi doping olarak kabul edilir. Yasaklı madde ve yöntemler sporcular tarafından dayanıklılığı ve kas kuvvetini artırmak, ağırlığı azaltmak ya da diğer ilaçların kullanımını gizlemek gibi amaçlarla kötüye kullanılır ve ciddi sağlık sorunlarına yol açar.",
-              "Doping on dokuzuncu yüzyılın sonlarından itibaren sporu tehdit etmeye başlamış ve hem sporcu sağlığına hem de sporun bütünlüğüne olan olumsuz etkileri nedeniyle yasaklanmıştır. Sağlık açısından olumsuz etkilerin tespiti, sporcuların bu konuda konuşmaktan kaçınması, ilaçların sağlıklı sporcularda farklı yan etkiler göstermesi, normal tedavi dozlarının çok üstünde kullanım ve birden fazla madde/yöntemin bir arada kullanılması gibi etkenlerle daha karmaşık hale gelir. Dikkat edilmesi gereken temel nokta: dopinge karşı verilen mücadelenin en temel ilkesi, sporcunun sağlığını korumaktır. Bireysel ve sportif açıdan ise doping bir aldatmacadır; bireysel dürüstlüğe, sporcuların birbirine saygısına ve hakkaniyete ters düşer; hile ile elde edilen başarı gerçek mutluluk getirmez.",
-              "Dopingle Mücadele Kuruluşları, doping kontrol sürecinin başlatılması, uygulanması ve yürütülmesine ilişkin kuralları belirlemekten sorumludur. Bunlar arasında Dünya Dopingle Mücadele Ajansı (WADA), Ulusal Dopingle Mücadele Kuruluşları (ülkemizde Türkiye Dopingle Mücadele Komisyonu - TDMK), Bölgesel Dopingle Mücadele Kuruluşları, Uluslararası Olimpiyat ve Paralimpik Komiteleri, Büyük Çaplı Turnuva Düzenleyicileri ve Uluslararası Federasyonlar bulunur. WADA, 1999 yılında kurulan, hükümetler ile spor hareketinin eşit temsil edildiği ve eşit kaynak sağladığı bağımsız uluslararası bir kuruluştur ve sporda dopingle mücadele faaliyetlerini destekler, koordine eder ve denetler. Doping kontrol örnekleri, dünyada yaklaşık otuz adet bulunan ve WADA tarafından akredite edilen laboratuvarlarda (ülkemizde Hacettepe Doping Kontrol Laboratuvarı) analiz edilir; bu laboratuvarlar düzenli olarak haberli ve habersiz denetime tabi tutulur, uyumsuzluk tespit edilirse akreditasyonları askıya alınır veya iptal edilir.",
-              "Dünya Dopingle Mücadele Kuralları, her spor dalında ve her ülkede dopingle mücadeleyle ilgili mevzuatı ve programı uyumlu hale getiren bir belgedir; ilk olarak 2003'te kabul edilip 1 Ocak 2004'te yürürlüğe girmiş, 2009 ve 2015'te güncellenmiş, en güncel hâli 1 Ocak 2021'de yürürlüğe girecektir. Amacı, temiz sporcuların haklarını korumaktır: sporcuların dopingsiz spor etkinliklerine katılma hakkını korumak ve dopingin araştırılması, tespiti ve engellenmesiyle ilgili uyumlu, koordineli ve etkin programlar oluşturmaktır. WADA bu çerçeveyi desteklemek için Yasaklı Madde ve Yöntemler Listesi, Doping Kontrolü ve Soruşturmalar, Tedavi Amaçlı Kullanım İstisnası, Laboratuvarlar, Mahremiyet, Sonuçların Değerlendirilmesi gibi konularda Uluslararası Standartlar geliştirmiştir.",
-              "Dünya Dopingle Mücadele Kuralları'nın 2. maddesine göre dopingle mücadele kural ihlalleri arasında şunlar yer alır: sporcudan alınan örnekte yasaklı madde tespiti, yasaklı madde/yöntemin kullanılması veya kullanılmaya teşebbüs, örnek vermekten kaçınma veya reddetme, on iki ay içinde üç kez bulunabilirlik kusuru, doping kontrolünü bozma veya hile yapma, yasaklı madde/yöntemi bulundurma, yasadışı ticaretini yapma, bir sporcuya müsabaka içinde veya dışında tatbik etme, kural ihlaline suç ortaklığı yapma, cezalı destek personeliyle yasak iş birliği yapma ve bir kişiyi bilgi vermekten vazgeçirme veya gözünü korkutma. Sporcular ve antrenörler bu konular ile Yasaklılar Listesi'nde geçen madde ve yöntemler hakkında bilgi sahibi olmak zorundadır."
+            "heading": "Doping Nedir?",
+            "emoji": "⚠️",
+            "bullets": [
+              "**Doping**, sadece yasaklı madde kullanımı değildir; **Dünya Dopingle Mücadele Kuralları**'nın 2. maddesindeki kuralların ihlali de (örnek vermeyi reddetme, madde bulundurma, suç ortaklığı gibi) doping sayılır.",
+              "Sporcular dayanıklılık/kas gücü artırmak, kilo düşürmek ya da başka ilaç kullanımını gizlemek için yasaklı madde kullanır; bu ciddi sağlık sorunlarına yol açar.",
+              "Dopingle mücadelenin **en temel ilkesi sporcunun sağlığını korumaktır**.",
+              "Doping aynı zamanda bir aldatmacadır: dürüstlüğe, saygıya ve hakkaniyete aykırıdır; hileyle gelen başarı gerçek mutluluk vermez.",
+              "**WADA** (Dünya Dopingle Mücadele Ajansı), 1999'da kurulan, hükümetler ile spor hareketinin eşit temsil edildiği bağımsız bir kuruluştur; dopingle mücadeleyi destekler, koordine eder, denetler.",
+              "Türkiye'de bu görevi **TDMK** (Türkiye Dopingle Mücadele Komisyonu) yürütür; örnekler dünyada ~30 WADA akreditasyonlu laboratuvarda, Türkiye'de ise **Hacettepe Doping Kontrol Laboratuvarı**'nda analiz edilir.",
+              "**Dünya Dopingle Mücadele Kuralları** ilk kez 2003'te kabul edilip 2004'te yürürlüğe girdi, 2009 ve 2015'te güncellendi; en son hâli 1 Ocak 2021'de başlıyor."
             ]
           },
           {
             "heading": "Yasaklılar Listesi",
-            "paragraphs": [
-              "Yasaklı madde ve yöntemlerin listesi WADA tarafından hazırlanır ve yılda en az bir kez güncellenir; her yılın 1 Ocak'ından 31 Aralık'ına kadar geçerlidir. Listede bulunan madde ve yöntemlerin sporcular tarafından kullanımı, tedavi amaçlı dahi olsa, kesinlikle yasaktır. Ancak tıbben belgelenmiş bir rahatsızlığı bulunan ve tedavisi için yasaklı bir madde veya yöntemi kullanması gereken sporcular, bağlı oldukları dopingle mücadele kuruluşundan bir Tedavi Amaçlı Kullanım İstisnası (TAKİ) onayı aldıktan sonra bu madde veya yöntemi kullanabilir.",
-              "Bir madde veya yöntemin Yasaklılar Listesi'ne alınabilmesi için üç değerlendirme ölçütünden en az ikisinin karşılanması gerekir: (1) sportif performansı artırdığına veya artırma potansiyeline dair bilimsel kanıt, (2) sporcunun sağlığına fiili veya potansiyel risk oluşturduğuna dair bilimsel kanıt, (3) kullanımının sporun ruhuna aykırılık teşkil ettiğinin WADA tarafından belirlenmesi. Yasaklılar Listesi üç sınıfa ayrılır: her zaman (müsabaka içi ve dışı) yasaklı madde ve yöntemler, sadece müsabaka içinde yasaklı madde ve yöntemler, ve bazı spor dallarında yasaklı maddeler. Her zaman yasaklı maddeler S0 (onaylanmamış maddeler), S1 (anabolik maddeler), S2 (peptid hormonlar ve ilgili maddeler), S3 (beta-2 agonistler), S4 (hormon ve metabolik modülatörler) ve S5 (idrar söktürücüler ve maskeleyici maddeler) olarak altı ana grupta; her zaman yasaklı yöntemler ise M1 (kan ve kan ürünleri), M2 (kimyasal ve fiziksel müdahale) ve M3 (gen dopingi) olarak üç ana grupta toplanır. Müsabaka içinde yasaklı maddeler S6 (uyarıcılar), S7 (narkotikler), S8 (kannabinoidler) ve S9 (glukokortikosteroidler) olmak üzere dört gruptur; bazı özel sporlarda yasaklı maddeler grubu ise P1 (beta blokerler) ile temsil edilir.",
-              "Kusursuz Sorumluluk İlkesi'ne göre sporcu, doping kontrol örneğinde bulunan maddeden direkt olarak kendisi sorumludur; kullandığı tüm ilaç ve besin destek ürününden ve dopingle mücadele yükümlülüklerini bilmekten de sorumludur. Besin destek ürünlerinin kullanımı ciddi risk taşır çünkü birçok ülkede bu ürünlerin üretimi ve etiketlenmesi katı kurallara tabi değildir; etiketinde beyan edilmeyen yasaklı bir madde içerebilir ve bu, doping kontrol örneklerinde çıkan Aykırı Analitik Bulguların önemli bir nedenidir. Yetersiz etiketleme iddiası, dopingle mücadele yargılamalarında yeterli bir savunma olarak kabul edilmez; içeriğinden şüphe duyulan ürünler kesinlikle kullanılmamalıdır."
+            "emoji": "📋",
+            "bullets": [
+              "**Yasaklılar Listesi**'ni WADA hazırlar ve **yılda en az bir kez günceller**; her liste 1 Ocak - 31 Aralık arasında geçerlidir.",
+              "Listedeki maddeler tedavi amaçlı da olsa kullanılamaz; tıbbi gerekçesi olan sporcu ancak **Tedavi Amaçlı Kullanım İstisnası (TAKİ)** onayıyla kullanabilir.",
+              "Bir madde/yöntemin listeye girmesi için şu üç ölçütten en az ikisi gerekir: performansı artırması, **sağlığa risk oluşturması**, ya da sporun ruhuna aykırı olması.",
+              "Liste üçe ayrılır: her zaman yasaklı (S0-S5 maddeler, M1-M3 yöntemler), sadece müsabaka içinde yasaklı (S6-S9), ve bazı sporlarda yasaklı (P1 - beta blokerler).",
+              "**Kusursuz Sorumluluk İlkesi**'ne göre sporcu, vücudunda bulunan her maddeden ve kullandığı ilaç/besin destek ürününden **kendisi sorumludur**.",
+              "Besin destek ürünleri risklidir çünkü etiketleme kuralları gevşek olabilir ve etikette yazmayan yasaklı madde içerebilir; 'bilmiyordum' savunması kabul edilmez."
             ]
           },
           {
-            "heading": "Doping Kontrol İşlemleri",
-            "paragraphs": [
-              "Bir sporcu üzerinde doping kontrol örneği alma yetkisi olan her Dopingle Mücadele Kuruluşu, o sporcudan herhangi bir zamanda ve herhangi bir yerde idrar ve/veya kan örneği alma ve bunu analiz ettirme hakkına sahiptir. Ulusal Dopingle Mücadele Kuruluşları kendi ülkesinin sporcularına, Uluslararası Federasyonlar kendi kurallarına tabi sporculara, Büyük Çaplı Turnuva Düzenleyicileri kendi müsabakalarına katılan sporculara doping kontrolü yapmaya yetkilidir; WADA normalde kontrol yapmaz ama gerektiğinde diğer kuruluşlarla iş birliği yaparak kontrol yapabilir. Sporcular müsabaka içi (rastgele, derecesine göre veya herhangi bir nedenle seçilerek) veya müsabaka dışı (herhangi bir zamanda, herhangi bir yerde) doping kontrolüne tabi tutulabilir; önceden haber verilmesi gerekmez, çünkü her zaman her yerde örnek alınabilir.",
-              "Doping kontrol görevlisi (DKG) sporcuya seçildiğini bildirir ve bildirim formunu imzalamasını ister; sporcu bu talebi yerine getirmek zorundadır ve kontrolü reddedemez. Sporcunun hakları arasında temsilci/tercüman bulundurma, süreç hakkında bilgi talep etme, geçerli nedenlerle istasyona geç gitme ve engellilik durumuna göre değişiklik talep etme bulunur; sorumlulukları arasında ise bildirimden örnek verme işlemi tamamlanana kadar sürekli gözlem altında bulunmak, kimlik belgesi göstermek, kurallara uymak ve geçerli bir neden olmadıkça derhal istasyona gitmek yer alır. Ödül törenine katılma, medya yükümlülükleri, takip eden müsabakalar, soğuma egzersizi, tıbbi tedavi gibi durumlar istasyona geç gitme için geçerli nedenler sayılır.",
-              "Doping kontrol süreci, örneğin bütünlüğü bozulmadığı sürece geçersiz sayılmayan 11 basamaktan oluşur: örnek toplama kabının seçilmesi, örnek verme işlemi (aynı cinsiyetten görevli eşliğinde, eller yıkanıp uygun soyunma ile), gerekli idrar miktarının (en az 90 ml, yetmezse ek örnek istenir) alınması, örneğin A ve B şişelerine bölünmesi (A örneği önce analiz edilir, B örneği teyit için saklanır; B şişesine en az 30 ml, A şişesine en az 60 ml doldurulur), şişelerin sporcu tarafından kilitlenmesi, özgül ağırlık ölçümü, doping kontrol formunun doldurulması (kullanılan ilaç/besin destek ürünleri, bilimsel kullanım onayı vb.), örneklerin güvenli ve gizli şekilde WADA akreditasyonlu laboratuvara gönderilmesi, ve örneklerin analizi. Laboratuvarlar analiz sırasında sporcunun kimlik bilgilerini (ad, adres, doğum tarihi gibi) görmez; sadece örnek kod numarası ile birlikte branş, cinsiyet, bağlı federasyon ve kontrol tarihi gibi tanımlayıcı olmayan bilgilere erişir. Aykırı Analitik Bulgu (AAB), örnekte yasaklı madde veya yöntem kullanıldığına dair kanıt gösteren laboratuvar bulgusudur. Kan örneği alımında da benzer bildirim, kimlik tespiti ve eşlik koşulları uygulanır. Örnekler 10 yıl süreyle dondurulup depolanabilir ve yeniden analiz edilebilir; bu, teknoloji geliştiğinde geçmişte saptanamayan maddelerin ortaya çıkarılabilmesini sağlayarak güçlü bir caydırıcı etki yaratır. 18 yaşından küçük veya engelli sporcular için süreç bazı küçük değişikliklerle uygulanır."
+            "heading": "Doping Kontrol Süreci",
+            "emoji": "🧪",
+            "bullets": [
+              "Yetkili her **Dopingle Mücadele Kuruluşu**, bir sporcudan her zaman ve her yerde idrar/kan örneği alabilir; **önceden haber verilmesi gerekmez**.",
+              "Doping kontrol görevlisi (DKG) sporcuyu bilgilendirir, sporcu bildirim formunu imzalar; **sporcu kontrolü reddedemez**, sadece geçerli nedenlerle (ödül töreni, medya, soğuma egzersizi, tıbbi tedavi gibi) istasyona geç gidebilir.",
+              "Süreç 11 adımdan oluşur: kap seçimi, örnek verme (**en az 90 ml idrar**), örneğin A (en az 60 ml) ve B (en az 30 ml) şişelerine bölünmesi, şişelerin kilitlenmesi, kontrol formunun doldurulması ve örneğin WADA akreditasyonlu laboratuvara gönderilmesi.",
+              "Laboratuvar sporcunun kimliğini (ad, adres, doğum tarihi) görmez; sadece kod numarası ile **branş, cinsiyet, federasyon ve kontrol tarihi** gibi kimliksiz bilgilere erişir.",
+              "Örnekte yasaklı madde/yöntem kanıtı bulunursa buna **Aykırı Analitik Bulgu (AAB)** denir.",
+              "Örnekler **10 yıl** dondurularak saklanır ve yeniden analiz edilebilir; teknoloji geliştiğinde geçmiş hileler ortaya çıkabilir, bu da güçlü bir caydırıcıdır.",
+              "18 yaşından küçük veya engelli sporcular için süreç küçük değişikliklerle uygulanır."
             ]
           },
           {
-            "heading": "Sporcuların ve Antrenörlerin Dopingle Mücadele Görev ve Sorumlulukları",
-            "paragraphs": [
-              "Sporcuların ve antrenörlerin Kusursuz Sorumluluk ilkesini bilmesi ve nelerin dopinge yol açtığının farkında olması çok önemlidir. Sporcuların görev ve sorumlulukları arasında yürürlükteki tüm dopingle mücadele kurallarını bilmek ve bunlara uymak, yiyip içtikleri ve vücutlarına giren her şeyden sorumlu olmak, örnek alımı için her zaman hazır bulunmak, kendilerine tedavi uygulayacak sağlık personelini yasaklı madde/yöntem konusunda uyarmak ve aldıkları herhangi bir tıbbi tedavinin kurallara aykırı olmadığından emin olmak, ve dopingle mücadele kuruluşlarıyla soruşturmalarda iş birliği yapmak bulunur.",
-              "Bir antrenörün en önemli sorumluluklarından biri, sporcularını dopingle mücadele hakkında bilgilendirmek ve böylece onları olası kural ihlallerinden korumaktır. Antrenörler, dopingle ilgili temel kavramları, sporcu hak ve sorumluluklarını, yasaklı madde ve yöntemleri, doping kontrol sürecini, sonuçların değerlendirilmesini ve besin destek ürünlerinin risklerini iyi bilmeli ve sporcularına doğru şekilde aktarmalıdır. Antrenörler ayrıca sporculara örnek verme işlemi konusunda eğitim vererek doping kontrolüne yardımcı olmalı ve sporcunun doping kontrolünü reddetmesinin veya örnek vermekten kaçınmasının bir kural ihlali olduğunu, bunun hak mahrumiyeti cezasıyla sonuçlanabileceğini açıkça anlatmalıdır. Antrenörlerden, dopinge yönelik davranışlara daha açık ve risk altında olan sporcuları belirleyerek tedbirli davranmaları ve temiz spora teşvik etmeleri beklenir."
+            "heading": "Sporcu ve Antrenörün Görevleri",
+            "emoji": "🤝",
+            "bullets": [
+              "Sporcular yürürlükteki tüm dopingle mücadele kurallarını bilmeli ve **yedikleri, içtikleri, vücutlarına giren her şeyden kendileri sorumludur**.",
+              "Sporcular örnek alımına her an hazır olmalı, kendilerine tedavi veren sağlık personelini yasaklı madde konusunda uyarmalı ve soruşturmalarda iş birliği yapmalıdır.",
+              "Antrenörlerin en önemli görevi sporcuları dopingle mücadele konusunda bilgilendirip olası kural ihlallerinden korumaktır.",
+              "Antrenörler temel kavramları, sporcu hak/sorumluluklarını, **Yasaklılar Listesi**'ni, kontrol sürecini, sonuçların değerlendirilmesini ve besin destek ürünü risklerini iyi bilmeli ve doğru aktarmalıdır.",
+              "Antrenörler sporculara örnek verme konusunda eğitim vermeli ve kontrolü reddetmenin **hak mahrumiyeti cezası** doğuran bir kural ihlali olduğunu açıkça anlatmalıdır.",
+              "Antrenörlerden risk altındaki sporcuları fark edip tedbirli davranmaları ve temiz sporu teşvik etmeleri beklenir."
             ]
           }
         ],
@@ -20023,70 +20577,109 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Yönetim Kavramı: Tanım, Bilim ve Sanat Olma Özelliği",
-            "paragraphs": [
-              "Yönetim, insanla uğraşan evrensel bir kavramdır; insanın toplumsal yaşam içindeki diğer kişilerle ilişkilerini ve davranışlarını inceler. Bu nedenle herkes bir ölçüde kendi zamanını, becerilerini ve etkinliklerini planlayıp örgütleyen, yönlendiren ve denetleyen bir yönetici sayılabilir. Yönetimin pek çok tanımı yapılmıştır: en genel anlamıyla yönetim, saptanan amaçlara en etkin ve verimli biçimde ulaşabilmek için insanların çabalarını birleştiren ve düzenleyen iş ve eylemlerin tümüdür. Can (1997)'a göre yönetim; belirli birtakım amaçlara ulaşmak için başta insanlar olmak üzere parasal kaynakları, donanımı, demirbaşları, hammaddeleri, yardımcı malzemeleri ve zamanı birbiriyle uyumlu, verimli ve etkin kullanabilecek kararlar alma ve uygulama süreçlerinin toplamıdır. Tanımlardaki kaynak kavramı; insan gücü, para, zaman, malzeme ve yer gibi unsurları kapsar.",
-              "Tüm tanımların ortak noktası, yönetimin belli amaçları başka kişilerin ortak çabalarıyla gerçekleştirmesidir; amaç ulaşılmak istenen sonuçtur ve bu amaca örgütlenmiş bir topluluk aracılığıyla ulaşılır. Yönetim kavramı insanlık tarihi kadar eskidir: insanlar avlanma ve korunma gibi ortak amaçlar için bir arada yaşamaya başladıklarında, bu toplulukları organize edecek bir lidere ihtiyaç duymuşlar ve böylece yönetim fiilen başlamıştır. Sanayi Devrimi ile birlikte büyük fabrikaların ve pazarların ortaya çıkması, üretimi sağlayacak insan topluluklarını yönetecek yöneticilere olan ihtiyacı daha da artırmıştır.",
-              "Yönetim tanımlarında vurgulanan iki önemli özellik, yönetimin hem bilim hem de sanat olmasıdır. Bilim olma özelliği bakımından yönetim, ekonomiden hukuka kadar uzanan toplumsal bilimler yelpazesinin kesişim noktasında yer alır ve bilimsel sayılabilmesi için ilgili alanda sistematik bir bilgi kümesinin oluşmuş olması ile doğruluğu kanıtlanmış kuram, kural ve ilkelerin ortaya konulmuş olması gerekir. Sanat olma özelliği bakımından ise yönetim, somut amaçları başarmak ve sonuçları etkilemek için bilgi ve becerilerin sistemli biçimde uygulanmasını içerir; uygulama, yönetimin temel görevidir. Bu nedenle bilim ve sanat, yönetimde birbirini tamamlayan iki kavramdır."
+            "heading": "Yönetim Nedir? Bilim mi, Sanat mı?",
+            "emoji": "🧭",
+            "bullets": [
+              "Yönetim, insanla ilgilenen **evrensel** bir kavramdır; insanların birbiriyle ilişkilerini ve davranışlarını inceler.",
+              "Herkes kendi zamanını ve etkinliklerini planlayıp yönlendirdiği için bir ölçüde \"yönetici\" sayılabilir.",
+              "En genel tanımıyla yönetim, belirlenen amaçlara en **etkin ve verimli** şekilde ulaşmak için insan çabalarını birleştiren iş ve eylemlerdir.",
+              "Can (1997)'a göre yönetim, insan, para, zaman ve malzeme gibi **kaynakları** uyumlu ve verimli kullanacak kararlar alma ve uygulama sürecidir.",
+              "Yönetim hem **bilim** (sistematik bilgi, kanıtlanmış kuram ve ilkeler) hem de **sanat** (bilgi ve becerilerin uygulanması) özelliği taşır.",
+              "Yönetim bilimciler yönetimi bir **otorite sistemi** olarak da tanımlar; bu kavram yaşamımızın her alanında (okul, aile, spor kulübü, şirket) karşımıza çıkar. 🏫"
             ]
           },
           {
-            "heading": "Klasik Yönetim Yaklaşımı",
-            "paragraphs": [
-              "Yönetsel düşüncenin gelişimi, Endüstri Devrimi öncesindeki (Sümerler, Mısır piramitleri, Hammurabi kanunları gibi) dönemden başlayarak, James Watt'ın 1778'de buhar makinesini geliştirmesiyle başlayan Endüstri Devrimi'nden İkinci Dünya Savaşı'na kadar süren döneme kadar izlenebilir; bu ikinci döneme Klasik Yönetim Yaklaşımı adı verilir. Sanayi Devrimi'yle birlikte büyük fabrikaların kurulması, çok sayıda personelin işe alınması ve büyük pazarların oluşması, ekonomik kaynakların koordine edilmesi ihtiyacını doğurmuş ve bu sorunlara çözüm olarak üç temel yaklaşım gelişmiştir: Bilimsel Yönetim Yaklaşımı, Yönetim Süreci (Yönetsel) Yaklaşımı ve Bürokrasi Yaklaşımı.",
-              "Bilimsel Yönetim Yaklaşımı (Taylorizm), öncülüğünü Frederick Taylor'ın yaptığı, işin bilimsel analizine, standart zaman ve yöntemlerin belirlenmesine, işçilerin yeteneğe göre seçilip eğitilmesine ve teşvik edici ücret sistemlerine dayanan bir yaklaşımdır. Henry Gantt ise üretimi planlamak için günümüz çizelge tekniklerine temel oluşturan Gantt Şeması'nı geliştirmiştir. Bu yaklaşım verimliliği artırmakla birlikte, çalışanı adeta bir makine gibi gördüğü ve insan ögesini ihmal ettiği için eleştirilmiştir.",
-              "Yönetim Süreci Yaklaşımı'nın öncüsü Fransız Henri Fayol'dur; Fayol, iş bölümü ve uzmanlaşma, yetki ve sorumluluk, disiplin, komuta birliği, merkeziyetçilik ve kademe zinciri gibi 14 yönetim ilkesi ortaya koymuştur. Bürokrasi Yaklaşımı'nın öncüsü ise Alman sosyolog Max Weber'dir; Weber'e göre bürokratik örgütlerde aşırı iş bölümü, merkezileşmiş otorite, yazılı kayıt ve dosyalama sistemi ile önceden belirlenmiş kurallara kesin itaat söz konusudur; bu katı kuralcılık, kişiye göre esneklik ve ayrıcalığa izin vermez. Klasik yönetim yaklaşımının en çok eleştirilen yönü, insan ögesini ikinci planda tutarak çalışanı duygusuz bir üretim unsuru gibi ele almasıdır."
+            "heading": "Klasik Yönetim Yaklaşımı: Verimlilik Çağı",
+            "emoji": "🏭",
+            "bullets": [
+              "**Klasik Yönetim Yaklaşımı**, Sanayi Devrimi'nden (James Watt'ın 1778 buhar makinesi) İkinci Dünya Savaşı'na kadar süren dönemi kapsar.",
+              "Büyük fabrikaların kurulması ve pazarların büyümesi, kaynakları koordine edecek üç yaklaşımı doğurdu: **Bilimsel Yönetim**, **Yönetim Süreci** ve **Bürokrasi Yaklaşımı**.",
+              "**Bilimsel Yönetim (Taylorizm)**, Frederick Taylor öncülüğünde işin bilimsel analizine, standart yöntemlere ve teşvikli ücrete dayanır; Henry Gantt bu yaklaşıma **Gantt Şeması**'nı kazandırdı.",
+              "**Yönetim Süreci Yaklaşımı**'nın öncüsü Henri Fayol'dur; iş bölümü, yetki-sorumluluk ve komuta birliği gibi 14 yönetim ilkesini ortaya koydu.",
+              "**Bürokrasi Yaklaşımı**'nın öncüsü Max Weber'dir; bürokratik örgütlerde **katı kuralcılık**, merkezi otorite ve yazılı kayıt sistemi hâkimdir, esnekliğe yer yoktur.",
+              "Klasik yaklaşım, çalışanı duygusuz bir üretim unsuru gibi görüp **insan ögesini ihmal ettiği** için en çok eleştirilen yaklaşımdır."
             ]
           },
           {
-            "heading": "Neo-Klasik (Davranışsal) Yönetim Yaklaşımı",
-            "paragraphs": [
-              "Klasik yaklaşımın insanı ihmal etmesine tepki olarak 1940'lı-1960'lı yıllar arasında Neo-Klasik (Davranışsal) Yönetim Yaklaşımı gelişmiştir; bu yaklaşım önce İnsancıl İlişkiler Yaklaşımı, sonra İnsan Kaynakları Yönetimi ve günümüzde Örgütsel Davranış biçimini almıştır. Yaklaşımın gelişiminde en önemli dönüm noktası, 1924'te başlayan ve Elton Mayo ile Fritz Roethlisberger liderliğinde Western Electric Şirketi'nin Hawthorne kasabasındaki fabrikasında yürütülen Hawthorne Deneyleri'dir. Bu deneyler, iş yerindeki fiziksel koşulların (ışıklandırma, ısıtma gibi) üretim verimliliğiyle ilişkisinin sınırlı olduğunu, verimliliğin daha çok sosyal faktörlerle (insan ilişkileri, informal gruplar, çalışanların tutum ve değerleri) ilişkili olduğunu ortaya koymuştur.",
-              "Davranışsal yaklaşım, klasik yaklaşımın aksine insanı pasif değil aktif bir üretim faktörü olarak ele almış; motivasyon, liderlik, grup davranışları ve informal organizasyon gibi kavramları yönetim bilimine kazandırmıştır. Bu çerçevede önemli kavramlardan biri A.H. Maslow'un İhtiyaçlar Hiyerarşisi Teorisi'dir; Maslow'a göre insan ihtiyaçları en temelden en karmaşığa doğru bir hiyerarşi içinde sıralanır ve bir kademedeki ihtiyaçlar tatmin edilmeden üst kademedeki ihtiyaçlar belirmez. İş doyumu, insanın yaptığı işle ilgili kendini iyi hissetmesi olarak tanımlanır ve bireysel (yaş, cinsiyet, eğitim) ve örgütsel (ücret, çalışma koşulları, terfi olanağı) faktörlerden etkilenir.",
-              "Davranışsal yaklaşım da, dikkatleri tamamen insan davranışları üzerinde toplayarak klasik yaklaşımla aynı türden tek yönlü bir hata yapmakla eleştirilmiştir; çünkü sadece insan ögesini esas alarak işletmenin tüm sorunlarının çözülemeyeceği anlaşılmıştır. Bu eksiklik, yeni araştırmaları zorunlu kılarak Modern Yönetim Yaklaşımı'nın doğmasına yol açmıştır."
+            "heading": "İnsana Dönüş: Davranışsal Yaklaşım",
+            "emoji": "🤝",
+            "bullets": [
+              "Klasik yaklaşımın insanı ihmal etmesine tepki olarak 1940-1960 arasında **Neo-Klasik (Davranışsal) Yönetim Yaklaşımı** doğdu.",
+              "Dönüm noktası, Elton Mayo ve Fritz Roethlisberger'in Western Electric'te yürüttüğü **Hawthorne Deneyleri**'dir (1924'te başladı).",
+              "Deneyler, verimliliğin fiziksel koşullardan çok **sosyal faktörlerden** (insan ilişkileri, informal gruplar) etkilendiğini gösterdi.",
+              "Bu yaklaşım insanı aktif bir üretim faktörü sayarak **motivasyon**, insan davranışları, insanın özellikleri, insanların yönetime katılması ve **iş doyumu** kavramlarını yönetime kazandırdı.",
+              "A.H. Maslow'un **İhtiyaçlar Hiyerarşisi Teorisi**'ne göre insan ihtiyaçları temelden karmaşığa sıralanır; bir kademe tatmin edilmeden üst kademe belirmez.",
+              "Bu yaklaşım da sadece insana odaklanarak tek yönlü bir hata yaptığı için eleştirildi ve **Modern Yönetim Yaklaşımı**'nın doğmasına yol açtı."
             ]
           },
           {
-            "heading": "Yönetimde Çağdaş Yaklaşımlar",
-            "paragraphs": [
-              "Çağdaş yönetim yaklaşımları, klasik ve neo-klasik yaklaşımların önerilerini yeni bir açıdan ele alıp yorumlar; bu başlık altında Modern Yönetim Yaklaşımı (Sistem Kuramı ve Durumsallık Yaklaşımı), Yönetimde Mükemmellik Yaklaşımı, Stratejik Yönetim Yaklaşımı ve Toplam Kalite Yönetimi Yaklaşımı incelenir. Modern Yönetim Yaklaşımı, Genel Sistem Teorisi'nden kaynaklanır ve klasik ile davranışsal yaklaşımların tutumlarını sentezlemeye çalışır.",
-              "Sistem Kuramı'na göre sistem, belirli parçalardan oluşan, bu parçaları birbiriyle ilişkili olan ve dış çevresiyle de etkileşim içinde bulunan bütündür (örneğin insan vücudu bir sistemdir). Durumsallık Yaklaşımı ise, her işletme ve her durum için geçerli tek bir yönetim uygulaması olmadığını, en uygun yönetim tarzının işletmenin içinde bulunduğu teknoloji ve dış çevre koşullarına göre değiştiğini savunur; bu nedenle klasik, neoklasik ve sistem yaklaşımlarının yerini almaz, onlarla birlikte ele alınır.",
-              "Yönetimde Mükemmellik Yaklaşımı, Tom Peters ve Robert Waterman'ın Mükemmeli Araştırma adlı çalışmasına dayanır ve başarılı işletmelerin harekete değer verme, müşteriyle sürekli ilişki, alt kademe girişimciliğini teşvik etme gibi 8 ortak özelliğini ortaya koyar. Stratejik Yönetim Yaklaşımı, bütçe ve mali kontrolden başlayıp uzun dönemli planlama ve stratejik planlama aşamalarından geçerek gelişmiş, örgütün tüm birimlerine stratejik vizyon kazandırmayı amaçlayan bir süreçtir; durum analizi, paydaş analizi, SWOT analizi, misyon-vizyon ve temel değerlerin belirlenmesi bu sürecin temel unsurlarıdır. Toplam Kalite Yönetimi Yaklaşımı ise, örgütteki tüm birim ve personelin katılımıyla, müşteri beklentilerini karşılayacak kalitede mal ve hizmet üretmeyi hedefler; spor işletmelerinde de hizmet kalitesini artırmak amacıyla benimsenmektedir."
+            "heading": "Çağdaş Yönetim Yaklaşımları",
+            "emoji": "🚀",
+            "bullets": [
+              "Çağdaş yaklaşımlar; **Modern Yönetim Yaklaşımı**, **Yönetimde Mükemmellik**, **Stratejik Yönetim** ve **Toplam Kalite Yönetimi** başlıklarını kapsar.",
+              "**Modern Yönetim Yaklaşımı**, Genel Sistem Teorisi'nden doğar ve kendi içinde **Sistem Kuramı** ile **Durumsallık Yaklaşımı**'nı barındırır.",
+              "**Sistem Kuramı**'na göre sistem, birbiriyle ilişkili parçalardan oluşan ve çevresiyle etkileşen bir **bütündür** (örnek: insan vücudu).",
+              "**Durumsallık Yaklaşımı**, tek bir doğru yönetim tarzı olmadığını; en uygun tarzın teknoloji ve çevre koşullarına göre değiştiğini savunur.",
+              "**Yönetimde Mükemmellik Yaklaşımı** (Tom Peters & Robert Waterman), başarılı işletmelerin 8 ortak özelliğini ortaya koyar.",
+              "**Stratejik Yönetim Yaklaşımı** örgüte uzun dönemli vizyon kazandırmayı, **Toplam Kalite Yönetimi** ise müşteri beklentilerine uygun kaliteli üretim yapmayı hedefler."
             ]
           },
           {
-            "heading": "Dünyada Spor Yönetiminin Gelişimi",
-            "paragraphs": [
-              "Spor yönetimi, eski Yunan döneminden beri var olan bir olgudur; antik olimpiyatların ve gladyatör dövüşlerinin organizasyonu bile bir yönetim ve organizasyon işi gerektirmiştir. Günümüz çağdaş spor yönetimi anlayışında iki form bulunur: biri sporla ilgili profesyonel bir çalışma alanı, diğeri akademik bir çalışma alanıdır. Avustralya, Kanada, Yeni Zelanda ve Birleşik Krallık gibi ülkelerde spor örgütlerinin büyük çoğunluğu kâr amacı gütmeyen, gönüllülük esasına dayalı, kendi kendini yöneten örgütlerdir.",
-              "Akademik çalışma alanı olarak spor yönetimi ilk kez Amerika Birleşik Devletleri'nde ortaya çıkmıştır. 1966 yılında Ohio Üniversitesi'nde ilk spor yönetimi yüksek lisans programı başlamış; bu program Los Angeles Dodgers'ın sahibi Walter O'Malley'in eski sporcusu Dr. James Mason'a sorduğu, kulübünü nasıl daha verimli yönetebileceği sorusundan doğmuştur. 1970'li yıllardan itibaren dünyada spor yöneticisi yetiştiren programlar yaygınlaşmış, başlangıçta beden eğitimi ağırlıklı olan müfredat sonradan işletme, pazarlama, ekonomi, hukuk ve yönetim-organizasyon derslerine kaymıştır. NASSM (North American Society for Sport Management), bu alanda akredite eğitim veren üniversiteleri belirleyen önemli bir kuruluştur."
+            "heading": "Dünyada Spor Yönetimi Nasıl Doğdu?",
+            "emoji": "🌍",
+            "bullets": [
+              "**Spor yönetimi**, eski Yunan döneminden beri var olan bir olgudur; antik olimpiyatların organizasyonu bile yönetim gerektirmiştir.",
+              "Günümüzde spor yönetiminin biri **profesyonel**, biri **akademik** olmak üzere iki boyutu vardır.",
+              "Avustralya, Kanada, Yeni Zelanda ve Birleşik Krallık'ta spor örgütlerinin çoğu **kâr amacı gütmeyen**, gönüllü ve kendi kendini yöneten yapılardır.",
+              "Akademik alan olarak spor yönetimi ilk kez **ABD**'de ortaya çıktı; 1966'da **Ohio Üniversitesi**'nde ilk yüksek lisans programı açıldı.",
+              "Program, Dodgers sahibi Walter O'Malley'in eski sporcusu Dr. James Mason'a sorduğu \"kulübümü nasıl daha verimli yönetebilirim\" sorusundan doğdu.",
+              "1970'lerden sonra müfredat beden eğitiminden işletme, pazarlama ve hukuka kaydı; **NASSM** bu alanda akreditasyon veren önemli kuruluştur."
             ]
           },
           {
-            "heading": "Türkiye'de Spor Yönetiminin Gelişimi",
-            "paragraphs": [
-              "Türkiye'de spor yönetimi, Cumhuriyet öncesi ve Cumhuriyet sonrası olmak üzere iki dönemde incelenir. Cumhuriyet öncesinde Osmanlı döneminde güreş tekkeleri, okçu tekkeleri ve spor vakıfları gibi örgütler faaliyet göstermiş; 1903 yılı öncesinde kulüpler arasında düzensiz maçlar yapılırken, 1903'te İstanbul Futbol Birliği kurulmuş, bunu İstanbul Futbol Kulüpleri Ligi (1910-1914), Cuma Ligi (1913) ve Cuma Birliği (1915) gibi farklı lig yapılanmaları takip etmiştir. Beşiktaş (1903), Galatasaray (1905) ve Fenerbahçe (1907) bu dönemde kurulan önemli Türk kulüpleridir.",
-              "Cumhuriyet sonrası Türk spor yönetimi üç aşamadan geçmiştir. Önce 1922'de özerk bir yapı olarak Türkiye İdman Cemiyetleri İttifakı (TİCİ, 1922-1936) kurulmuş; TİCİ, Türkiye'nin ilk resmî ve federatif ulusal spor yönetim örgütüdür. 1936'da yarı özerk konumdaki Türk Spor Kurumu (TSK, 1936-1938) kurulmuş, ancak bütün sporcuları kapsayan bir otorite oluşturamamıştır. 1938'de 3530 sayılı kanunla Beden Terbiyesi Genel Müdürlüğü (BTGM) kurularak sporun yönetimi tamamen merkeziyetçi devlet yönetimine geçmiştir; BTGM 1986'ya kadar farklı bakanlıklara bağlı olarak varlığını sürdürmüş, sonrasında sırasıyla Gençlik ve Spor Genel Müdürlüğü (GSGM) ve Spor Genel Müdürlüğü (SGM) adlarını almış, 2011'de Gençlik ve Spor Bakanlığı kurulmuş, 2018'de Cumhurbaşkanlığı Hükûmet Sistemi'ne geçişle birlikte Spor Genel Müdürlüğü'nün adı Spor Hizmetleri Genel Müdürlüğü olarak değiştirilmiştir."
+            "heading": "Türkiye'de Spor Yönetiminin Yolculuğu",
+            "emoji": "🇹🇷",
+            "bullets": [
+              "Türkiye'de spor yönetimi, **Cumhuriyet öncesi** ve **Cumhuriyet sonrası** olmak üzere iki dönemde incelenir.",
+              "Osmanlı'da güreş ve okçu tekkeleri faaliyet gösterirken, 1903'te **İstanbul Futbol Birliği** kuruldu; Beşiktaş (1903), Galatasaray (1905) ve Fenerbahçe (1907) bu dönemde doğdu.",
+              "Cumhuriyet sonrası ilk aşama, 1922'de kurulan özerk **Türkiye İdman Cemiyetleri İttifakı (TİCİ, 1922-1936)**'dır; Türkiye'nin ilk resmî federatif spor örgütüdür.",
+              "1936'da yarı özerk **Türk Spor Kurumu (TSK, 1936-1938)** kuruldu, ancak tüm sporu kapsayan bir otorite oluşturamadı.",
+              "1938'de 3530 sayılı kanunla **Beden Terbiyesi Genel Müdürlüğü (BTGM)** kurularak spor yönetimi tamamen devlete bağlandı; 1986'ya kadar sürdü.",
+              "Sonrasında sırasıyla **GSGM** ve **SGM** adlarını aldı; 2011'de Gençlik ve Spor Bakanlığı kuruldu, 2018'de adı **Spor Hizmetleri Genel Müdürlüğü** oldu."
             ]
           },
           {
-            "heading": "Spor Yönetiminin Tanım ve Kavramı",
-            "paragraphs": [
-              "Spor yönetimi, spor ile ilgili kurulmuş örgüt veya organizasyonların, belirlenen amaçlar ve sporun kendine özgü özellikleri doğrultusunda, elindeki fiziki ve beşerî kaynaklarını en etkili ve verimli biçimde kullanabilmesi için kararlar alma ve bu kararları uygulama sanatı olarak tanımlanır (Ekmekçi, 2009; Fişek, 1988). Yetim (2018)'e göre spor yönetimi, sporda örgütlenmeyi ve yönetimi oluşturan unsurların kuruluş ve işleyiş biçimlerini inceleyen ve bunların en iyi biçimde sevk ve idare edilmesi için gereken yönetim anlayışını bulmaya çalışan, genel yönetim biliminin bir koludur.",
-              "Spor yönetimi kavramı; spor kurumları, federasyonlar, kulüpler, ligler, turnuvalar, müsabaka organizasyonları ve spor malzemesi üreten ya da pazarlayan firmalar gibi geniş bir alanı kapsar. Genel yönetimle ilişkisi bakımından spor yönetimi, genel yönetim biliminin ilke, kavram ve süreçlerini (planlama, örgütleme, yürütme, koordinasyon, denetim) sporun kendine özgü koşullarına uyarlayan özelleşmiş bir alandır; sporun sosyal boyutu ve ekonomik yapısının farklılığı nedeniyle genel işletme kavramlarının spora adapte edilerek uygulanması gerekir."
+            "heading": "Spor Yönetimi Ne Demek?",
+            "emoji": "🏆",
+            "bullets": [
+              "**Spor yönetimi**, spor örgütlerinin fiziki ve beşerî kaynaklarını amaçlara uygun, etkili ve verimli biçimde kullanması için karar alma ve uygulama **sanatıdır** (Ekmekçi, Fişek).",
+              "Yetim (2018)'e göre spor yönetimi, spor örgüt ve organizasyonlarında belirlenen amaçları gerçekleştirmek için sporun özel şartlarında, çağdaş yönetim ilke ve süreçleriyle insan ve maddi kaynakları en etkin, verimli ve **rasyonel** şekilde kullanma faaliyetidir.",
+              "Kavram; federasyonlar, kulüpler, ligler, turnuvalar ve spor malzemesi üreten/pazarlayan firmaları da kapsayan geniş bir alandır.",
+              "Spor yönetimi, genel yönetimin planlama, örgütleme, yürütme, koordinasyon ve denetim gibi **ilke ve süreçlerini** sporun kendine özgü koşullarına uyarlar."
             ]
           },
           {
-            "heading": "Spor Yönetiminin Süreçleri",
-            "paragraphs": [
-              "Spor yönetiminin süreçleri, genel yönetimdekiyle aynı olup beş aşamadan oluşur: planlama, örgütleme, yürütme (yöneltme), koordinasyon (iş birliği) ve denetim (kontrol). Bu süreçlerden birinin eksik olması, yönetimin sürekliliğini engeller. Planlama, belirli bir amaca ulaşmak için hangi işlerin, hangi sırada, nasıl ve ne zaman yapılacağını önceden kararlaştırmaktır; ileriyi görmek olarak da tanımlanır ve işletme amaçlarının belirlenmesiyle başlar. Örgütleme, planlanan amaçlara ulaşmak için insan, araç ve kaynakların düzenlenmesi, işlerin bölümlere ayrılması ve yetki-sorumlulukların belirlenmesidir.",
-              "Yürütme (yöneltme), planlama ve örgütlemeyle kurulan düzenin harekete geçirilmesi, astlara ne yapmaları gerektiğinin anlatılması ve onların liderlik yoluyla motive edilmesidir; örneğin bir antrenörün takımındaki sporculara kimin oynayacağına karar vermesi ve onları yönlendirmesi bu işleve örnektir. Koordinasyon (uyumlaştırma), işletme büyüdükçe ve iş bölümü arttıkça farklı birim ve kişilerin çabalarını ortak amaçlara yönelik uyumlu bir şekle getirme işlevidir; takım sporlarında (futbol, basketbol vb.) koordinasyonun eksikliği başarısızlığa yol açabilir. Denetleme (kontrol), uygulamaların sonuçlarını önceden belirlenen amaç ve standartlarla karşılaştırarak gerekli düzeltici eylemlerde bulunma sürecidir."
+            "heading": "Spor Yönetiminin 5 Adımı",
+            "emoji": "⚙️",
+            "bullets": [
+              "Spor yönetiminin süreçleri genel yönetimle aynıdır ve beş aşamadan oluşur: **planlama, örgütleme, yürütme, koordinasyon ve denetim**.",
+              "**Planlama**, \"**ileriyi görmek**\"tir; hangi işin ne zaman ve nasıl yapılacağını önceden kararlaştırmaktır.",
+              "**Örgütleme**, amaçlara ulaşmak için insan ve kaynakları düzenleme, işleri bölme ve yetki-sorumluluk belirlemedir.",
+              "**Yürütme (yöneltme)**, kurulan düzeni harekete geçirip astları yönlendirme ve motive etmedir (örnek: antrenörün oyuncu seçimi).",
+              "**Koordinasyon**, farklı birim ve kişilerin çabalarını ortak amaca uyumlu hâle getirmedir; eksikliği takım sporlarında başarısızlığa yol açabilir.",
+              "**Denetim (kontrol)**, sonuçları önceden belirlenen amaç ve standartlarla karşılaştırıp düzeltici eylemler yapma sürecidir."
             ]
           },
           {
-            "heading": "Spor Yönetiminin İlkeleri",
-            "paragraphs": [
-              "Spor yönetiminin ilkeleri, genel yönetim ilkeleriyle bağlantılı olarak Doğar (1997) tarafından sekiz başlık altında ele alınmıştır: tarafsızlık, yeterlik, güvence, denklik, eşitlik, yetiştirme, güç birliği ve emek. Tarafsızlık, yönetimin kurallarını personeline ve sporculara karşı herkes için aynı şekilde, taraf tutmadan uygulamasıdır; özellikle sportif yarışmalarda bu ilkeden asla taviz verilemez. Yeterlik, bir işe o işi yapabilecek yeterlikte kişilerin alınmasını, sporda da yeteneğe uygun branşa yönlendirmeyi ifade eder. Güvence, yasalara uygun çalışan personelin ya da sporcunun işinin elinden alınmayacağına güvenmesidir.",
-              "Denklik, personele yaptığı işin karşılığı olan ödemenin yapılmasıdır; eşitlik ise birbirine denk personele eşit ödeme yapılmasını ifade eder (örneğin transfer ücretlerinde denk olmayan uygulamalar denklik ilkesiyle ilişkilidir). Yetiştirme, personelin başarılı olabilmesi için yönetimin sürekli hizmet içi eğitim olanakları sunmasıdır; spor ortamında değişen kural ve bilimsel gelişmeler bunu zorunlu kılar. Güç birliği, personelin ve sporcuların takım çalışmasına olanak sağlayacak bir ortamda başarılı olabilmesidir; emek ise insanın değerinin her şeyin üstünde tutulması ve harcanan emeğin (maddi ödeme, madalya, kupa gibi) hak edilen karşılıkla ödüllendirilmesidir. Kurumun başarısı ve sürekliliği, bu ilkelerin bütün hâlinde uygulanmasına bağlıdır."
+            "heading": "Spor Yönetiminin 8 Altın İlkesi",
+            "emoji": "⚖️",
+            "bullets": [
+              "Doğar (1997)'a göre spor yönetiminin **8 ilkesi** vardır: **tarafsızlık, yeterlik, güvence, denklik, eşitlik, yetiştirme, güç birliği ve emek**.",
+              "**Tarafsızlık**, kuralların herkese taraf tutmadan uygulanmasıdır; özellikle yarışmalarda bu ilkeden taviz verilmez.",
+              "**Yeterlik**, işe ve branşa uygun, yetenekli kişilerin seçilmesini ifade eder.",
+              "**Güvence**, yasalara uygun çalışan personelin işini kaybetmeyeceğine dair güvendir.",
+              "**Denklik**, yapılan işin karşılığının ödenmesidir; **eşitlik** ise denk personele eşit ödeme yapılmasıdır.",
+              "**Yetiştirme**, personele sürekli hizmet içi eğitim sunulmasıdır; **güç birliği** takım çalışması ortamı, **emek** ise harcanan çabanın hak ettiği karşılıkla (ödül, madalya) ödüllendirilmesidir."
             ]
           }
         ],
@@ -20317,99 +20910,136 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "İşletme Kavramı ve İşletme Bilimi",
-            "paragraphs": [
-              "İşletmeler sanayi toplumunun en temel ögelerinden biridir. Üretici ile tüketicinin birbirinden ayrılmasıyla ortaya çıkan yeni pazarlara mal ve hizmet sunabilmek için işletmeler doğmuştur. Kendi ihtiyaçlarını karşılamak üzere üretim yapan kişi, grup ya da örgütler işletme sayılmaz; işletme kavramı başkalarının ihtiyaçlarını karşılamaya yöneliktir.",
-              "Buna göre işletme; kişi ve kurumların ihtiyaçlarını karşılamak üzere, üretim faktörlerini bir araya getirerek mal veya hizmet üreten/pazarlayan ve sonunda maddi ve manevi bir kâr elde etmeyi amaçlayan iktisadi, teknik ve hukuki bir birimdir. İşletmeler iktisadi, yani faydalı mal ve hizmet üretir; bu faydanın oluşması, üretilen mal ve hizmetin insan ihtiyaçlarını karşılayabilmesine ve bunun için belirli bir çaba sarf edilmiş olmasına bağlıdır.",
-              "İşletme faaliyetini gerçekleştirirken sermaye, doğa, beşeri kapasite ve bilgi gibi üretim faktörlerini bir araya getirir. Özellikle 21. yüzyılda bilgi, diğer üretim faktörlerinin önüne geçmiş belirleyici bir kaynak hâline gelmiştir. İşletmeler kapalı, çevreden etkilenmeyen sistemler değildir; toplumla, tüketicilerle ve çeşitli kuruluşlarla sürekli etkileşim içinde bulunan açık sistemlerdir.",
-              "İşletme bilimi ise işletme içi ve işletmeler arası olay ve faaliyetlerin sebep-sonuç ilişkilerini ele alarak, bir işletmenin amaçlarına en etkin biçimde nasıl ulaşabileceğini inceleyen bilim dalıdır. Spor işletmeleri (spor tesisleri, rekreasyon merkezleri vb.) de maddi kazanç sağlasalar bile esas itibarıyla insanların spor ihtiyaçlarını karşılamak için kurulur; kamu eliyle işletilenlerde asıl amaç sporu kitlelere yaymak ve toplumsal fayda yaratmaktır."
+            "heading": "İşletme Nedir?",
+            "emoji": "🏢",
+            "bullets": [
+              "İşletmeler, üretici ile tüketici birbirinden ayrılınca ortaya çıkan pazarlara mal ve hizmet sunmak için doğdu.",
+              "Kendi ihtiyacını karşılamak için üretim yapan kişi veya gruplar **işletme sayılmaz** — işletme başkalarının ihtiyacını karşılar.",
+              "**İşletme**: üretim faktörlerini bir araya getirip mal/hizmet üreten, kâr amacı güden iktisadi, teknik ve hukuki bir birimdir.",
+              "İşletmeler **iktisadi** birimlerdir, yani insan ihtiyaçlarını karşılayan faydalı mal ve hizmet üretirler.",
+              "Sermaye, doğa, insan gücü ve bilgi gibi üretim faktörlerini kullanır; 21. yüzyılda **bilgi** en belirleyici kaynak haline geldi.",
+              "İşletmeler çevreden etkilenen **açık sistemlerdir**, toplumla sürekli etkileşim içindedir.",
+              "**İşletme bilimi**, bir işletmenin amaçlarına en etkin şekilde nasıl ulaşacağını inceler; spor işletmeleri kâr yanında toplumsal faydayı da hedefler."
             ]
           },
           {
-            "heading": "İşletmeye Olan İhtiyaç ve İnsan İhtiyaçları",
-            "paragraphs": [
-              "Bütün ekonomik faaliyetlerin temelinde insan ihtiyaçlarının karşılanması amacı yatar. İnsan ihtiyaçları sınırsız olduğu hâlde bu ihtiyaçları karşılayacak kaynaklar kıttır ve bu ihtiyaçlar bir kez karşılanmakla ortadan kalkmaz, belirli aralıklarla tekrar eder. Bu yüzden insan sürekli ekonomik faaliyet içinde bulunmak, yani çalışıp üretmek zorundadır. İhtiyaç; organizmanın duyduğu bir eksikliktir ve bu eksikliği gidermek için amaçlı eylemlerde bulunulur.",
-              "İhtiyaçlar klasik olarak birincil ve ikincil ihtiyaçlar şeklinde ikiye ayrılır. Birincil ihtiyaçlar; hava, su ve gıda gibi doğuştan var olan ihtiyaçlardır. İkincil ihtiyaçlar ise arkadaşlık kurma, insanlarla birlikte olma gibi sosyal ihtiyaçlardır ve yaşamın ilk yıllarından itibaren ortaya çıkar.",
-              "Abraham Maslow bu ikili sınıflandırmayı yeterli bulmayarak insan ihtiyaçlarını bir hiyerarşi (ihtiyaçlar dizisi) içinde ele almıştır: Hiyerarşinin temelinde ve en zorunlu düzeyinde oksijen, yeme, içme, uyku, giyinme ve barınma gibi temel fizyolojik ihtiyaçlar bulunur. İkinci sırada can ve mal güvenliği, iş güvenliği gibi güvenlik ihtiyaçları gelir. Üçüncü düzeyde bağlanma, aidiyet, sevme ve sevilme ihtiyacı yer alır; örneğin bir sporcunun takımına ait olması ve takım arkadaşlarıyla dayanışması bu düzeye karşılık gelir.",
-              "Dördüncü düzeyde saygı görme ihtiyacı bulunur; özgüven, başarıyla övünme, başkalarının takdiri, rekabet edebilme ve bağımsız olma gibi unsurları kapsar; gelişmiş toplumlarda ilk üç ihtiyaç grubu büyük ölçüde karşılandığından, ait olma ve statü ihtiyaçları bu toplumlarda önemli bir yer tutar. Hiyerarşinin en üstünde ise kendini gerçekleştirme ihtiyacı yer alır; bireyin kendi potansiyelinin farkına varması, yaratıcı olması ve kendisini sürekli geliştirmesiyle ilgilidir. İhtiyaçlar karşılanamadığında insan mutsuz olur; içine kapanma, yabancılaşma ya da saldırgan davranışlar gösterebilir."
+            "heading": "İnsan İhtiyaçları ve Maslow'un Hiyerarşisi",
+            "emoji": "🧠",
+            "bullets": [
+              "İnsan ihtiyaçları sınırsız, kaynaklar ise kıttır; bu yüzden insan sürekli üretmek zorundadır.",
+              "**İhtiyaç**, organizmanın hissettiği bir eksikliktir ve giderilse de belirli aralıklarla tekrar eder.",
+              "Klasik sınıflamada ihtiyaçlar **birincil** (hava, su, gıda gibi doğuştan gelen) ve **ikincil** (arkadaşlık gibi sosyal) olarak ikiye ayrılır.",
+              "Abraham Maslow bunu yetersiz bulup ihtiyaçları bir **hiyerarşi** içinde sıraladı.",
+              "Hiyerarşinin en temelinde **temel fizyolojik ihtiyaçlar** (oksijen, yeme, içme, uyku, giyinme, barınma) yer alır.",
+              "İkinci sırada **güvenlik ihtiyacı**, üçüncü sırada bağlanma/aidiyet ve **sevme-sevilme ihtiyacı** gelir.",
+              "Dördüncü sırada **saygı görme ihtiyacı** (özgüven, takdir, statü dahil) ve en üstte **kendini gerçekleştirme ihtiyacı** bulunur."
             ]
           },
           {
-            "heading": "İşletme Kurma Gerekliliği ve Spor Tesislerinin Yönetimi",
-            "paragraphs": [
-              "Çağdaş işletme olgusuna, kişilerin kendi ihtiyaçlarını kendi içinde karşıladığı kapalı ev ekonomisinden ve trampa (mal ya da hizmetin başka bir mal ya da hizmetle değişimi) ekonomisinden geçilerek gelinmiştir. İhtiyaçların artıp çeşitlenmesi ve paranın değişim aracı olarak devreye girmesi, üretime yönelik işletme biriminin ortaya çıkmasını sağlamıştır. Spor aktivitelerine katılımın insan sağlığı, çalışma verimliliği, psikolojik dayanıklılık ve sosyalleşme üzerindeki etkilerinin anlaşılması, toplumun spor işletmelerine olan ihtiyacını giderek artırmıştır.",
-              "Spor tesislerinin yönetimi; spor organizasyonları, beden eğitimi, rekreasyon ve fiziksel aktivite programlarının yürütülmesiyle ilgili standartları yükseltmeyi ve hizmet sunumuna ilişkin kararları vererek liderlik yapmayı ifade eder. Enflasyon nedeniyle malzeme ve iş gücü maliyetlerinin yükselmesi, yüksek faiz oranlarının finansmanı zorlaştırması ve tesislerin engelli erişimine uygun hâle getirilmesi gerekliliği, tesis yönetimini günümüzde daha karmaşık bir meslek hâline getirmiştir.",
-              "Spor işletmelerinde tesislerin iyi ve verimli yönetilmesi için kaliteli, eğitimli ve mesleğini seven personele ihtiyaç vardır. Bunun yanında güvenlik ve emniyet, erişim kolaylığı, temizlik ve hijyen, kapasite ve işlevsellik ile nazik ve hızlı hizmet, hizmet kalitesini artırmak için son derece önemlidir. Soyunma odaları ve duşların temizliği, araç gereçlerdeki teknolojik gelişmelerin takip edilmesi ve yoğun saatlerde yeterli personel bulundurulması gibi görünüşte basit işler, spor işletmesinin amacına ulaşması açısından kritik önemdedir."
+            "heading": "İşletme Kurma Gerekliliği ve Spor Tesisi Yönetimi",
+            "emoji": "🏟️",
+            "bullets": [
+              "Kapalı ev ekonomisi ve **trampa** (mal karşılığı mal değişimi) döneminden, paranın değişim aracı olmasıyla işletmelere geçildi.",
+              "Sporun sağlık, verimlilik ve sosyalleşmeye katkısı anlaşıldıkça spor işletmelerine duyulan ihtiyaç arttı.",
+              "**Spor tesisi yönetimi**, spor ve rekreasyon programlarının standartlarını yükseltip hizmet kararları almayı kapsar.",
+              "Enflasyon, yüksek faiz oranları ve engelli erişimi zorunlulukları tesis yönetimini daha karmaşık bir meslek yaptı.",
+              "İyi yönetim için eğitimli personel, güvenlik, temizlik, kapasite ve hızlı hizmet kritik önemdedir.",
+              "Soyunma odası temizliği gibi küçük görünen detaylar bile işletmenin başarısı için kritiktir."
             ]
           },
           {
-            "heading": "İşletmenin İşlevlerine Giriş",
-            "paragraphs": [
-              "Bir işletmenin amaçlarına ulaşması için gerekli iş, işlem ve faaliyetler; iş bölümü, uzmanlık, yetki ve sorumluluk esasına göre belirli işlevler (fonksiyonlar) hâlinde gruplandırılır. Bu bölümde işletme işlevleri; satın alma, üretim, pazarlama, finansman, muhasebe, personel (insan kaynakları), halkla ilişkiler ve araştırma-geliştirme (Ar-Ge) başlıkları altında ele alınmaktadır. Bu işlevlerin her biri, işletmenin mal ve hizmet üretim sürecinde önemli görevler üstlenir ve spor işletmelerinde de aynı mantıkla uygulama alanı bulur."
+            "heading": "İşletme İşlevlerine Giriş",
+            "emoji": "🧩",
+            "bullets": [
+              "İşletme amaçlarına ulaşmak için işler, iş bölümü ve uzmanlığa göre **işlevlere (fonksiyonlara)** ayrılır.",
+              "Ana işlevler: **satın alma, üretim, pazarlama, finans, muhasebe, personel, halkla ilişkiler ve Ar-Ge**.",
+              "Her işlev, mal/hizmet üretim sürecinde önemli görevler üstlenir ve spor işletmelerinde de aynı şekilde uygulanır."
             ]
           },
           {
             "heading": "Satın Alma İşlevi",
-            "paragraphs": [
-              "Satın alma işlevi, üretilen malın insan ihtiyaçlarını planlandığı biçimde karşılamasına yönelik olarak, üretimde kullanılacak hammadde, yardımcı madde ve hazır parçaların yeterli kalite ve miktarda, uygun fiyatla ve zamanında temin edilmesidir. Bu işlev belirli bir satın alma örgütü ve ilgili personel ile yürütülür; satın almanın tek bir elden yürütülmesine merkezleşme, alt birimlere de yetki verilmesine ise merkezleşmeme denir.",
-              "İşletmeler genel olarak üç yöntemle satın alma yapar: ihtiyaç duyulduğunda satın alma/kiralama, belirli miktarlarda sürekliliği sağlayacak satın alma ve satıcılarla sözleşme yaparak düzenli satın alma. Hangi yöntemin seçileceği işletmenin büyüme hedefine ve ihtiyaçların aciliyetine göre değişir.",
-              "Spor işletmelerinde satın alma işlevi özellikle önemlidir; çünkü spor tesislerinde kullanılan araç, gereç ve malzemelerin maliyeti yüksektir ve kalite, sağlamlık gibi özelliklere göre fiyatları değişebilir. Satın alma stratejisi; tesisin sermayesine, yerine, hedef kitlesine ve kapasitesine bağlı olarak tesis sahibi veya yöneticisi tarafından geliştirilir ve hangi malzemenin ne zaman, nasıl ve hangi koşullarda temin edileceğinin planlanmasını gerektirir."
+            "emoji": "🛒",
+            "bullets": [
+              "**Satın alma işlevi**, üretimde kullanılacak malzemeleri yeterli kalite ve miktarda, uygun fiyat ve zamanda temin etmektir.",
+              "Tek elden yürütülmesi **merkezleşme**, alt birimlere yetki verilmesi **merkezleşmeme** olarak adlandırılır.",
+              "Üç temel yöntem vardır: ihtiyaç anında satın alma, düzenli stok için satın alma ve sözleşmeyle sürekli satın alma.",
+              "Spor tesislerinde araç-gereç maliyeti yüksek olduğu için satın alma stratejisi büyük önem taşır.",
+              "Strateji; tesisin sermayesine, konumuna, hedef kitlesine ve kapasitesine göre belirlenir."
             ]
           },
           {
             "heading": "Üretim İşlevi",
-            "paragraphs": [
-              "Üretim; fayda yaratmak, yani insanların ihtiyaçlarını karşılayan bir değerin elde edilmesi olarak tanımlanır. İşletmeler, mal veya hizmetten (ya da her ikisinden) oluşan insan istek ve ihtiyaçlarını tatmin edecek mamulleri üretip pazarlamak için kurulur ve yaratılan değer parayla ölçülür; üretim eylemleri satış fiyatı ile üretim maliyeti arasındaki farkı en yükseğe çıkaracak biçimde yönetilmelidir.",
-              "Hizmetler, soyut, fiziki bir mala bağlı olabilen ya da olmayan, sahiplenilemeyen ve genellikle insan emeğine dayanan bir üretim türüdür; hizmetin başarısı büyük ölçüde onu sunan personelin niteliğine bağlıdır. Spor hizmetleri üretiminde girdileri iş gücü, malzeme, tesis ve sermaye oluştururken; çıktı, duygusal, ruhsal ve fiziksel açıdan memnun, sağlıklı ve sosyalleşmiş bireyler (bazı durumlarda profesyonel sporcular) olarak ortaya çıkar. Bu süreç, geri besleme ile sürekli değerlendirilir.",
-              "Spor hizmetleri üretiminin esasını, insanların farklı spor faaliyetlerine katılma isteklerini karşılamak için planlanan spor programları oluşturur; bu programlar aktif katılım (bizzat spor yapma) ve pasif katılım (seyirci olarak izleme) şeklinde ikiye ayrılabilir ve her ikisi de katılımcıların ihtiyaç ve isteklerine doygunluk sağlamayı amaçlar."
+            "emoji": "🏭",
+            "bullets": [
+              "**Üretim**, fayda yaratmak yani insan ihtiyaçlarını karşılayan bir değer elde etmektir.",
+              "Üretim, satış fiyatı ile üretim maliyeti arasındaki farkı en yükseğe çıkaracak şekilde yönetilmelidir.",
+              "**Hizmet**, soyut, sahiplenilemeyen ve genellikle insan emeğine dayanan bir üretim türüdür.",
+              "Spor hizmetlerinde girdiler iş gücü, malzeme, tesis ve sermaye; çıktı ise sağlıklı, mutlu ve sosyalleşmiş bireylerdir.",
+              "Spor programları **aktif katılım** (bizzat yapma) ve **pasif katılım** (izleyici olma) olarak ikiye ayrılır."
             ]
           },
           {
             "heading": "Pazarlama İşlevi",
-            "paragraphs": [
-              "Pazarlama; ihtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik birtakım insan faaliyetleri olarak tanımlanır. Pazarlama sadece satış ve tanıtımla sınırlı değildir; tüketicilerin ihtiyaç ve isteklerinin nasıl ortaya çıktığını ve nelerden etkilendiğini belirlemeye yönelik faaliyetleri de kapsar; amacı, pazarın ihtiyaç ve isteklerini anlayarak işletmenin önceden belirlenen hedeflere ulaşmasını sağlamaktır.",
-              "Hizmet işletmelerinde pazarlamanın üretici ile tüketici arasındaki köprü görevini, çoğunlukla hizmeti bizzat sunan personel üstlenir; bu nedenle hizmet kalitesi büyük ölçüde personelin dürüstlüğüne, güvenilirliğine ve iletişim becerisine bağlıdır. Kötü ya da kötü algılanan bir hizmet, mevcut müşterileri olumsuz etkileyerek 'negatif pazarlama' etkisi yaratabilir; buna karşın başarılı bir hizmet yeni iş fırsatları ve olumlu tavsiyeler getirir.",
-              "Spor pazarlamasında, özellikle kâr amacı gütmeyen kamu spor kurumlarında, spor yöneticisinin sportif program ve aktiviteleri yönlendirip kontrol etmesi ve halkın isteklerini göz önünde tutarak hizmetleri açık bir şekilde tanımlaması gerekir. Sadece tesis yapmak yeterli değildir; tesislerin etkin işletilmesi ve halkın sportif ihtiyaçlarının karşılanması için pazarlama faaliyetlerinin de yürütülmesi, özellikle talebin yoğunlaştığı akşam ve hafta sonu saatlerinin dikkate alınması gerekir."
+            "emoji": "📣",
+            "bullets": [
+              "**Pazarlama**, ihtiyaç ve isteklerin değişimler yoluyla giderilip tatmin edilmesine yönelik insan faaliyetleridir.",
+              "Sadece satış ve tanıtım değil, tüketici ihtiyaçlarının nasıl ortaya çıktığını anlamayı da kapsar.",
+              "Hizmet işletmelerinde pazarlamanın köprü rolünü genellikle hizmeti sunan personel üstlenir.",
+              "Kötü hizmet \"**negatif pazarlama**\" etkisi yaratır; iyi hizmet yeni fırsatlar ve olumlu tavsiyeler getirir.",
+              "Spor işletmelerinde talebin yoğunlaştığı akşam ve hafta sonu saatleri pazarlamada dikkate alınmalıdır."
             ]
           },
           {
             "heading": "Finans İşlevi",
-            "paragraphs": [
-              "Finansal yönetim, işletmenin amaçlarını gerçekleştirebilmesi için gerekli finansmanın temin edilmesi ve bu kaynakların uygun biçimde değerlendirilmesiyle ilgilenir; amacı işletmenin güvenliğini ve kârlılığını sağlamaktır. Kaynaklarını etkili yönetebilen işletmeler büyür ve hayatta kalır, yönetemeyenler ise zarar ederek kapanma riskiyle karşı karşıya kalır.",
-              "İşletmenin sermayesi kaynağına göre öz sermaye (sahiplerin kendi varlıklarından işletmeye kattığı değerler) ve dış kaynaklı sermaye (faiz karşılığında dışarıdan temin edilen kaynaklar) olmak üzere ikiye ayrılır. Kullanım biçimine göre ise sermaye, sabit sermaye (arazi, bina, makine gibi tüketim için değil uzun süreli kullanım için bağlanan varlıklar) ve işletme sermayesi (kasa, banka, hisse senedi gibi genellikle bir yılda nakde çevrilebilen varlıklar) olarak ikiye ayrılır.",
-              "Spor işletmelerinde finansal planlama özel önem taşır; çünkü araç, gereç ve tesisler yüksek maliyetli olup uzun çalışma saatleri (genellikle 07:00-21:00) nedeniyle hızla yıpranabilir. Finansal yönetimin görevleri arasında gerekli bölümlerin kurulması ve faaliyet sonuçlarının değerlendirilmesi, giderlerin doğruluğunun araştırılması, vergi ve kredi yönetimi ile dönemsel mali raporların hazırlanması sayılabilir."
+            "emoji": "💰",
+            "bullets": [
+              "**Finansal yönetim**, işletmenin ihtiyacı olan kaynakları temin edip verimli kullanmayı sağlar; amacı güvenlik ve kârlılıktır.",
+              "Sermaye kaynağına göre **öz sermaye** (sahiplerin kendi varlığı) ve **dış kaynaklı sermaye** (faizle dışarıdan temin) olarak ikiye ayrılır.",
+              "Kullanım biçimine göre ise **sabit sermaye** (arazi, bina, makine gibi tüketim için değil, uzun süreli kullanım için bağlanan varlıklar) ve **işletme sermayesi** (kasa, banka gibi kısa sürede nakde çevrilebilen varlıklar) vardır.",
+              "Spor tesislerinde araçlar yüksek maliyetli olup uzun çalışma saatleri (07:00-21:00) nedeniyle hızla yıpranır, bu yüzden finansal planlama önemlidir."
             ]
           },
           {
             "heading": "Muhasebe İşlevi",
-            "paragraphs": [
-              "Muhasebe; mali karakterde ve para ile ifade edilebilen işlemlere ait güvenilir bilgilerin toplanması, doğruluklarının belirlenmesi, kaydedilmesi, raporlanması, analiz ve yorumlanması sürecidir. Yöneticiler, muhasebe verilerine dayanmadan sağlıklı işletme kararı alamaz; bu nedenle muhasebe aynı zamanda önemli bir yönetim aracı olarak kabul edilir.",
-              "Muhasebe bölümünün gerçekleştirmesi gereken faaliyetler arasında yapılan işlerin kayıtlarını tutmak, mali durum tablolarını hazırlamak, üretilen mal veya hizmetlerin maliyetlerini hesaplamak, işletme bütçesini hazırlamak ve gerçekleşen rakamları planla karşılaştırarak gerekli tedbirleri almak sayılabilir. Pazar araştırması yapmak ise muhasebenin değil, pazarlama ve Ar-Ge işlevlerinin görev alanına girer.",
-              "Spor işletmeleri için muhasebe işlevi özellikle kritiktir; çünkü araç, gereç ve malzemelerin maliyeti yüksektir ve yoğun kullanım (günde on saate kadar) nedeniyle hızla amortismana uğrar. Bu araçların kayıtlarının tutulması, kullanımdan elde edilen faydanın belirlenmesi ve hizmet maliyetinin hesaplanması, geleceğe yönelik bütçe planlamasının temelini oluşturur."
+            "emoji": "📊",
+            "bullets": [
+              "**Muhasebe**, mali işlemlere ait güvenilir bilgilerin toplanması, kaydedilmesi, raporlanması ve yorumlanması sürecidir.",
+              "Yöneticiler muhasebe verisi olmadan sağlıklı karar alamaz; bu yüzden muhasebe önemli bir yönetim aracıdır.",
+              "Görevleri: kayıt tutmak, **mali durum tablolarını hazırlamak**, maliyet hesaplamak ve **işletme bütçesini hazırlamak**.",
+              "Pazar araştırması yapmak muhasebenin değil, **pazarlama ve Ar-Ge** işlevinin görevidir.",
+              "Spor işletmelerinde araçlar yoğun kullanımdan (günde 10 saate kadar) hızla amortismana uğrar, bu da bütçe planlamasının temelidir."
             ]
           },
           {
             "heading": "Personel İşlevi",
-            "paragraphs": [
-              "Personel işlevi; bir üretim faktörü olan insan kaynağının en ekonomik yollardan sağlanması ve verimli bir biçimde çalıştırılması amacına yönelik işletme faaliyetlerinin yerine getirilmesidir. Personel planlaması; işlerin tanımlanmasını, iş gereklerinin (eğitim, tecrübe, yetenek vb.) belirlenmesini ve gelecekteki personel ihtiyacının tahmin edilmesini kapsar.",
-              "Personel sağlama sürecinde, iş analiziyle belirlenen ihtiyaca uygun adaylar iç veya dış kaynaklardan seçilerek işe alınır; iç kaynaklardan sağlama moral ve motivasyonu güçlendirirken dış kaynaklardan sağlama yeni düşüncelerin işletmeye girmesini kolaylaştırır. Personel eğitimi, hizmet öncesi (okul ve üniversitelerdeki genel/mesleki eğitim) ve hizmet içi eğitim (işe girdikten sonra kurum tarafından verilen eğitim) olmak üzere iki aşamada yürütülür; teknolojik değişim hizmet içi eğitimi giderek daha gerekli kılmaktadır.",
-              "Spor işletmelerinde insan kaynağı, hizmeti sağlayan en pahalı ve en önemli kaynaktır; yöneticiden antrenöre, yardımcı hizmetliden teknik elemana kadar çok çeşitli meslek gruplarını barındırır. Müşterilerin bireysel beklentilerine (kondisyon kazanma, zayıflama, sağlıklı olma vb.) uygun personel seçimi, hem müşteri memnuniyetini hem de işletmenin sürekliliğini doğrudan etkilediği için personel alımı spor işletmelerinin en önemli işlevlerinden biri sayılır."
+            "emoji": "👥",
+            "bullets": [
+              "**Personel işlevi**, insan kaynağının en ekonomik yollardan sağlanması ve verimli çalıştırılması amacına yönelik faaliyetlerdir.",
+              "Personel planlaması iş tanımları, iş gerekleri ve gelecekteki personel ihtiyacını tahmin etmeyi kapsar.",
+              "Adaylar **iç kaynaklardan** (moral/motivasyonu güçlendirir) veya **dış kaynaklardan** (yeni fikirler getirir) seçilir.",
+              "Eğitim, **hizmet öncesi eğitim** (okul/üniversite) ve **hizmet içi eğitim** (işe girince kurum tarafından verilen) olarak ikiye ayrılır.",
+              "Spor işletmelerinde insan kaynağı en pahalı ve en önemli kaynaktır; personel seçimi en kritik işlevlerden biridir."
             ]
           },
           {
             "heading": "Halkla İlişkiler İşlevi",
-            "paragraphs": [
-              "Halkla ilişkiler; işletmenin halkla doğru ve sağlıklı ilişkiler kurup geliştirmesi, halkta kurum hakkında olumlu izlenim oluşturması ve kurum ile halkın karşılıklı etkileşiminin ortak çıkarlara dayalı sürdürülmesidir; kısaca işletmenin halkın davranışlarından etkilenmesi ve halkı etkilemesi durumunu ifade eder. Halkla ilişkiler; halkı belirli bir inanç, tutum ya da eyleme (örneğin sağlıklı yaşam için spor yapmaya) yöneltmeye çalışır.",
-              "Halkı spor programları konusunda bilgilendirmek için broşür, el kitapçığı, afiş, pankart, el ilanı, resim ve aydınlatıcı levha gibi çeşitli iletişim araçları kullanılır; her biri farklı amaçlara (tanıtım, duyuru, dikkat çekme, kural anlatımı vb.) hizmet eder.",
-              "Spor işletmelerinde halkla ilişkiler faaliyetlerinin etkili olması için spor programlarının iyi hazırlanması, farklı halk kitleleriyle iletişim kanallarının açık tutulması ve halkın tepkilerini ölçecek bir iletişim ağının kurulması gerekir; çünkü halk her zaman kendisine faydalı olan spor programlarının önemini doğru anlamayabilir ve etkili halkla ilişkiler bu tutumu değiştirmeye yardımcı olabilir."
+            "emoji": "🤝",
+            "bullets": [
+              "**Halkla ilişkiler**, işletmenin halkın davranışlarından etkilenmesi ve halkı etkilemesi durumunu ifade eder.",
+              "Halkı belirli bir inanç, tutum ya da eyleme (örneğin spor yapmaya) yöneltmeye çalışır.",
+              "Broşür, el ilanı, afiş, pankart gibi iletişim araçları halkı bilgilendirmek için kullanılır.",
+              "Spor işletmelerinde etkili olması için programların iyi hazırlanması ve halkın tepkilerini ölçen bir iletişim ağı gerekir."
             ]
           },
           {
             "heading": "Araştırma Geliştirme (Ar-Ge) İşlevi",
-            "paragraphs": [
-              "Araştırma ve geliştirme; yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak amacıyla yapılan ve bilginin sistematik olarak toplanmasını, analizini ve yorumunu gerektiren bir çalışmadır. İşletmelerin rekabet ortamında ayakta kalabilmesi, pazarda önde gidebilmesi, yenilikçi bir isim yapabilmesi, değişen tüketici beklentilerini karşılayabilmesi ve yetenekli araştırmacıları bünyesine çekebilmesi Ar-Ge faaliyetlerine bağlıdır.",
-              "Geliştirme faaliyetleri üç başlıkta incelenebilir: diyalog ve basit geliştirme (başkalarını izleyerek/taklit ederek yapılan basit yenilikler), teknolojik geliştirme (müşteri gözleminden edinilen fikirlerin uygulanması) ve bilimsel geliştirme (araştırma personeli istihdam etmeyi gerektiren, bilimsel bilgiye dayanan yenilik). Araştırmalar da genel araştırma, uygulamalı araştırma ve özel alan araştırması olmak üzere sınıflandırılabilir.",
-              "Spor işletmeleri için de Ar-Ge faaliyetlerinin sürdürülebilir olması büyük önem taşır; çünkü teknik gelişmeler, yenilik ve buluşlar ancak Ar-Ge çalışmaları sonucunda ortaya çıkar ve işletmenin diğer tüm işlevleriyle (üretim, pazarlama, finans vb.) yakından ilişkilidir. Dünyanın en iyi hizmetini sunan bir spor işletmesi bile, rekabet gücünü sürdürebilmek için sürekli ve düzenli Ar-Ge faaliyetlerine ihtiyaç duyar."
+            "emoji": "🔬",
+            "bullets": [
+              "**Araştırma ve geliştirme (Ar-Ge)**, yeni bilgiler elde etmek ya da mevcut bilgileri ortaya çıkarmak için sistematik toplama, analiz ve yorum gerektiren çalışmadır.",
+              "Rekabette ayakta kalmak, yenilik yapmak ve yetenekli araştırmacıları çekmek Ar-Ge'ye bağlıdır.",
+              "Geliştirme üç türdür: **diyalog/basit geliştirme**, **teknolojik geliştirme** ve **bilimsel geliştirme**.",
+              "Araştırmalar da genel, uygulamalı ve özel alan araştırması olarak sınıflandırılır.",
+              "Spor işletmeleri için de sürekli Ar-Ge, rekabet gücünü korumak için gereklidir."
             ]
           }
         ],
@@ -20637,66 +21267,87 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Lider ve Liderlik Kavramı",
-            "paragraphs": [
-              "İnsanlar sosyal varlıklar olarak gruplar hâlinde yaşar ve bu grupları ortak hedeflere taşıyacak liderlere ihtiyaç duyarlar. Liderlikle ilgili tartışmalar Antik Yunan filozoflarına kadar uzanır; Platon bir liderin akıl, cesaret, öz denetim ve tarafsızlık özelliklerine sahip olması gerektiğini öne sürmüş, Aristoteles ise liderlerin bilge, bilimsel ve mantıklı düşünme becerisine sahip kişiler olması gerektiğini vurgulamıştır. Lider kelimesi İngilizcede ilk kez 1300'lerde, yol göstermek anlamına gelen \"leden\" kökünden türetilerek kullanılmış, liderlikle ilgili ilk bilimsel çalışmalar ise 20. yüzyılın sonlarında Amerika'da yapılmıştır.",
-              "Lider; vizyon sahibi, amaçların farkında olan ve bu amaçları başkalarına benimsetebilen kişi olarak tanımlanırken, liderlik, belirlenmiş şartlar kapsamında bireysel ya da ekip hedeflerine ulaşmak için grup üyelerinin uygulamalarını etkileme ve ivme kazandırma sürecidir. Farklı araştırmacılar liderliği farklı şekillerde tanımlamıştır: örneğin Munson (1921) liderliği \"en az çatışma ve en güçlü iş birliğiyle insanları başarıya ulaştırma yeteneği\" olarak tanımlarken, Terry (1960) \"grup amaçlarını gönüllü olarak gerçekleştirmek için insanları etkileme eylemi\" olarak tanımlamıştır.",
-              "Liderlik soyut bir kavramdır ve değişik olay ve koşullara göre farklı içerikler gerektirir; bir anlamda dünyadaki kişi sayısı kadar liderlik tanımı yapılabileceği söylenebilir. Liderlik ayrıca sosyal bir olgudur ve diğer sosyal ögeler gibi toplumsal değişimlerden sürekli etkilenerek yenilenir. Lider, bulunduğu koşullara rağmen fark yaratan, girişimci, yenilikçi ve kendine özgü bir kişiliktir; koşullara teslim olmak, pes etmek ya da sahtecilik yapmak liderlikle bağdaşmaz."
+            "heading": "Lider Kimdir, Liderlik Nedir?",
+            "emoji": "👑",
+            "bullets": [
+              "İnsanlar sosyal varlıklardır ve ortak hedeflere ulaşmak için **liderlere** ihtiyaç duyarlar.",
+              "Konu çok eskiye uzanır: **Platon** liderde akıl, cesaret ve öz denetim ararken, **Aristoteles** bilgece ve mantıklı düşünmeyi önemser.",
+              "\"Leader\" kelimesi İngilizcede 1300'lerde \"yol göstermek\" anlamındaki **leden** kökünden gelir; konuyla ilgili ilk bilimsel çalışmalar ABD'de yapılmıştır.",
+              "**Lider**, vizyon sahibi olup amaçlarını başkalarına benimsetebilen kişidir; **liderlik** ise grubu hedefe yönlendirme ve etkileme sürecidir.",
+              "Munson'a (1921) göre liderlik \"en az çatışmayla en güçlü iş birliğini sağlama yeteneği\"; Terry'ye (1960) göre \"grup amaçlarını gönüllü gerçekleştirmek için etkileme eylemi\"dir.",
+              "Liderlik **soyut bir kavram** ve **sosyal bir olgudur**; bu yüzden toplumsal değişimlerden sürekli etkilenip yenilenir ve koşula göre içeriği değişir.",
+              "Gerçek bir lider koşullara teslim olmaz, pes etmez ya da sahtekârlık yapmaz; girişimci ve yenilikçi bir kişiliğe sahiptir."
             ]
           },
           {
-            "heading": "Spor Bağlamında Liderlik",
-            "paragraphs": [
-              "Sporda başarılı olabilmek için yalnızca iyi sporculara sahip olmak yeterli değildir; sporcuları yönlendirecek ve özelliklerini ortaya çıkarmalarına yardımcı olacak liderlere ihtiyaç vardır. Spor yöneticisi; kurum amaçlarının gerçekleştirilmesi için örgüt içi ve dışı insan ilişkilerini düzenleyen, çalışanlarına liderlik ve rehberlik eden kişidir ve modern bakışla spor yöneticisinin aynı zamanda iyi bir lider olması beklenir.",
-              "Antrenör de bir spor lideri olarak kabul edilir; sporcularının yeteneklerini en üst seviyeye çıkaracak şekilde planlama yapma, insan psikolojisini anlama ve kendi davranışlarını da sürekli gözden geçirme yükümlülüğü taşır. Spor liderlerinin fonksiyonları; eğiticilik, danışmanlık, arkadaşlık, destekleyici tavır, güdüleyen davranış, planlama, organize etme ve halkla ilişkiler becerileri olarak sıralanabilir ve çalıştırılan grubun yaşı, cinsiyeti, amaçları ve diğer durumsal özelliklere göre farklılık gösterebilir."
+            "heading": "Sporda Liderliğin Rolü",
+            "emoji": "🏅",
+            "bullets": [
+              "Başarılı olmak için iyi sporcular yetmez; onları yönlendirecek **spor liderlerine** de ihtiyaç vardır.",
+              "**Spor yöneticisi**, kurum içi/dışı ilişkileri düzenleyen ve çalışanlarına liderlik eden kişidir; modern anlayışta aynı zamanda iyi bir lider olması beklenir.",
+              "**Antrenör** de bir spor liderdir: sporcularını geliştirecek planlar yapar, insan psikolojisini anlar ve kendi davranışlarını sürekli gözden geçirir.",
+              "Spor liderlerinin fonksiyonları arasında eğiticilik, danışmanlık, arkadaşlık, destekleyicilik, güdüleme, planlama, organizasyon ve halkla ilişkiler sayılabilir.",
+              "Bu fonksiyonlar grubun yaşına, cinsiyetine, amaçlarına ve duruma göre değişebilir."
             ]
           },
           {
-            "heading": "Liderde Bulunması Gereken Özellikler",
-            "paragraphs": [
-              "Liderlik özelliklerinin doğuştan mı geldiği yoksa sonradan mı kazanıldığı konusunda araştırmacılar arasında görüş birliği yoktur; bir kesim liderliği doğuştan gelen kişisel özelliklerle açıklarken, diğer kesim bu özelliklerin eğitim ve tecrübeyle geliştirilebilen beceri ve yeterlilikler olduğunu savunur. Ortak görüş ise liderlerin göze çarpan ayırt edici özelliklere sahip olması gerektiğidir. Liderden beklenen özellikler genel olarak teknik bilgi, beşeri nitelikler ve düşünsel özellikler olmak üzere üç grupta toplanabilir.",
-              "İnsanlarda Derinden Temas Sağlama Yeteneği: Lider, otoriter gücünü kullanmak yerine sözleri, mimikleri ve davranışlarıyla insanlarla derinden bir bağ kurarak onların kalplerine hitap etmeli ve hislerini anlayarak görevlerini yaptırmalıdır. Spor lideri, takımına sevgi ve saygıyı aşılayarak birlikte çalışmayı ve aidiyet duygusunu artırmalıdır.",
-              "Etkin Dinleme: Liderler sistem içerisindeki her üyeyi tek tek dinlemeli ve onların kendilerini önemli hissetmelerini sağlamalıdır; iyi bir dinleyici olmak liderin duruşunu güçlendirir. Amaç sadece mesaj iletmek değil, dinleme yoluyla bağlılık yaratmaktır.",
-              "Güvenilir Olma: Güven, liderlikle ilişkili en önemli özelliklerden biridir; güvenin sarsılması grubun performansı üzerinde olumsuz etkiler yaratır. Spor lideri hem kendisine hem sporcularına dürüst davranmalı, hatalarını da sporcularınınkiler kadar dürüstlükle ortaya koyabilmelidir.",
-              "Problem Çözme ve Analiz Yeteneği: Lider, karmaşıklaşan bir dünyada ve sürekli insan etkileşiminde kaçınılmaz olarak sorunlarla karşılaşır; problem çözme yeteneği olan liderler sorunları önceden görür, gerçeği kabul eder ve büyük resmi görürler. Spor lideri ayrıca müsabaka öncesinde rakip takımın güçlü ve zayıf yönlerini, müsabaka sırasında da oyunun gidişatını sürekli analiz etmek zorundadır.",
-              "İletişim ve Empati: İyi bir lider olmak için etkili ve ikna edici bir iletişim şarttır; iletişim doğuştan gelen ama sonradan geliştirilebilen bir özelliktir. Empati ise kendini başkasının yerine koyabilme yeteneğidir; spor liderinin takım arkadaşlarına, antrenörüne ve rakip oyunculara karşı empatik becerisini kullanması, onların nasıl davranacağını tahmin etmesini ve takım başarısını desteklemesini sağlar.",
-              "Takdir, Disiplin ve Şahsi Bütünlük: Takdir etmesini bilen liderler güç temelli liderler olarak kabul edilir; büyük başarılar kadar küçük başarıların da takdir edilmesi gerekir. Disiplinli liderler kendilerini bir işe başlamaya zorlama alışkanlığına sahiptir ve düzenli bir yaşam sürerler. Şahsi bütünlük ise liderin söz ve davranışlarında tutarlı olmasını, sporculara örnek oluşturmasını ifade eder.",
-              "Vizyon Sahibi Olma: Büyük liderler düşünürken kendi limitlerini zorlar, geleceği görebilme kabiliyetine sahiptir ve olası durumlara karşı hazırlıklıdır; sporcuları etkileyebilecek ve harekete geçirebilecek liderlik, vizyon sahibi olmayı gerektirir."
+            "heading": "Bir Liderde Olması Gerekenler",
+            "emoji": "⭐",
+            "bullets": [
+              "Özelliklerin doğuştan mı, eğitimle mi geldiği tartışmalıdır; ortak görüş, liderin **teknik bilgi**, **beşeri nitelikler** ve **düşünsel özellikler** açısından öne çıkması gerektiğidir.",
+              "**İnsanlarda derinden temas sağlama yeteneği**: Lider otorite kullanmak yerine sözleri ve davranışlarıyla insanların kalbine hitap eder, hislerini anlayarak görev yaptırır.",
+              "**Etkin dinleme**: Lider her üyeyi tek tek dinler, onların kendini önemli hissetmesini sağlar ve böylece bağlılık yaratır.",
+              "**Güvenilir olma**: Güven liderliğin en önemli özelliğidir; lider kendine ve sporculara dürüst davranmalı, hatalarını da açıkça kabul etmelidir.",
+              "**Problem çözme ve analiz yeteneği**: Lider sorunları önceden görür, gerçeği kabul eder; spor lideri rakibin güçlü/zayıf yönlerini ve oyunun gidişatını sürekli analiz eder.",
+              "**İletişim ve empati**: Etkili iletişim ikna gücü sağlar; **empati** ise kendini başkasının yerine koyma becerisidir ve rakip oyuncuların nasıl davranacağını tahmin etmeye yardımcı olur.",
+              "**Takdir, disiplin, şahsi bütünlük** ve **vizyon sahibi olma** da önemlidir: küçük başarıları takdir etmek, düzenli yaşamak, tutarlı davranmak ve geleceği görebilmek lideri güçlendirir."
             ]
           },
           {
-            "heading": "Liderlik ve Yönetim İlişkisi",
-            "paragraphs": [
-              "Yönetim, karmaşa ile başa çıkma becerisidir ve büyük organizasyonların ihtiyaçlarına cevap verir; iyi bir yönetim olmadan karmaşık girişimler kaotik hâle gelme ve yok olma tehlikesiyle karşı karşıya kalır. Liderlik ise bir grubu en yüksek gayretlerini ortaya çıkaracak şekilde motive etmek için tasarlanmış bir etkileme fonksiyonudur ve değişimle başa çıkmaya ilişkindir.",
-              "Yönetim fonksiyonu görev meselelerine odaklanırken, liderlik fonksiyonu insani meselelere odaklanır. Yönetimde talimat vermek, iş akışını düzenlemek, planlama ve hedef belirlemek gibi davranışlar görülürken; liderlikte başkalarının akıl hocası olmak, bir iş kültürü yerleştirmek, gelişme için fırsat yaratmak ve geniş kapsamlı bir vizyon kurmak gibi davranışlar görülür."
+            "heading": "Liderlik mi, Yönetim mi?",
+            "emoji": "⚖️",
+            "bullets": [
+              "**Yönetim**, karmaşayla başa çıkma ve büyük organizasyonların ihtiyaçlarına cevap verme becerisidir; yönetim olmadan karmaşık girişimler kaosa sürüklenebilir.",
+              "**Liderlik**, grubu en yüksek gayretine yöneltmek için bir etkileme fonksiyonudur ve değişimle başa çıkmakla ilgilidir.",
+              "Yönetim **görev meselelerine**, liderlik ise **insani meselelere** odaklanır.",
+              "Yönetimde talimat vermek, iş akışını düzenlemek, planlama ve hedef belirlemek görülür.",
+              "Liderlikte ise başkalarına akıl hocalığı yapmak, bir **iş kültürü** yerleştirmek, gelişme için fırsat yaratmak ve geniş kapsamlı bir **vizyon** kurmak görülür."
             ]
           },
           {
-            "heading": "Lider ve Yönetici Arasındaki Farklar",
-            "paragraphs": [
-              "Yönetici, tanımlanmış bir göreve başkaları tarafından atanan, yetkisini bulunduğu makamdan alan ve işini belirlenmiş kurallar çerçevesinde yürüten kişidir; yönetim hiyerarşik oluşum ve örgütün devamlılığıyla ilgilidir. Liderlik ise net kuralları olmayan, insan ve tutumlarla ilgili bir olgudur; liderin görevi ortak hedefe ulaşırken çevresindeki kişileri motive etmek, harekete geçirmek ve yönlendirmektir.",
-              "Gill'in (2006) sınıflamasına göre yönetici idarecidir, sürdürür, sistem ve yapı üzerinde odaklanır, kontrol odaklıdır, kısa dönemli bakış açısına sahiptir, taklit eder, statükoyu kabul eder ve garanticidir; lider ise yenilikçidir, geliştirir, insanlara odaklanır, güven verir, uzun dönemli bakış açısına sahiptir, orijinaldir, statükoya meydan okur ve risk alır. Her lider bir yönetici olabilir ama her yönetici bir lider olmayabilir; yönetici hak ve yetki sahibidir, oysa güç ve yetenek liderde var olan bir özelliktir."
+            "heading": "Lider vs Yönetici",
+            "emoji": "🆚",
+            "bullets": [
+              "**Yönetici**, görevine atanmış, yetkisini makamından alan ve kurallar çerçevesinde çalışan kişidir; yönetim hiyerarşi ve örgütün sürekliliğiyle ilgilidir.",
+              "**Lider** ise net kuralları olmayan, insanlarla ve tutumlarla ilgili bir olgudur; ortak hedefe giderken çevresindekileri motive eder, harekete geçirir ve yönlendirir.",
+              "Gill'in (2006) sınıflamasına göre **yönetici**: idarecidir, sürdürür, sistem ve yapıya odaklanır, kontrol odaklıdır, kısa dönemli bakar, taklit eder, statükoyu kabul eder ve garanticidir.",
+              "Aynı sınıflamaya göre **lider**: yenilikçidir, geliştirir, insanlara odaklanır, güven verir, uzun dönemli bakar, orijinaldir, statükoya meydan okur ve risk alır.",
+              "Her lider bir yönetici olabilir ama her yönetici bir lider olmayabilir; yöneticide **hak ve yetki**, liderde **güç ve yetenek** vardır."
             ]
           },
           {
-            "heading": "Liderlik Tarzları",
-            "paragraphs": [
-              "Bir yöneticinin seçtiği liderlik tarzı, onun lider olarak etkinliğini önemli ölçüde etkiler. Liderlik tarzları genel olarak otokratik, demokratik, liberal, dönüşümcü, vizyoner, karizmatik, durumsal ve stratejik liderlik olarak sınıflandırılabilir.",
-              "Otokratik Lider: Görev odaklı olan otokratik lider, statüsünün verdiği otoriteyi kullanarak kararları tek başına alır ve yetkisini kimseyle paylaşmaz; karar süreci hızlıdır ancak güven ortamı oluşmadığı için birlik duygusu gelişmez. Liderin bencil davranması ve grup üyelerinin duygularını hiçe sayması, grup içi çatışma ve bölünmelere yol açabilir; antrenörlükte ise bu tarz, sporcunun antrenörün bilgi ve deneyimine göre hareket etmesini gerektirir.",
-              "Demokratik Lider: Paylaşımcı ve katılımcı olarak da adlandırılan demokratik lider, grup ile birlikte çalışır, görev ve sorumlulukları eşit paylaştırır ve izleyicilerin düşüncelerine önem verir. Bu tarzın yararı karar sürecine katılımın karara sahip çıkmayı artırmasıdır; sakıncası ise özellikle acil durumlarda karar almanın zaman alabilmesidir.",
-              "Liberal Lider: Liberal lider, gruba karar alma ve işi tamamlama özgürlüğü verir; astlar kendi hedef ve planlarını kendileri belirler. Bu tarz, eğitim seviyesi yüksek, kurumsal yapıları ve uzmanlık düzeyleri üst seviyede olan spor örgütleri ve elit düzeyde sporcularda olumlu sonuçlar verebilirken, düşük düzeyde eğitimli gruplarda anarşi, sorumsuzluk ve grup başarısında düşüşe yol açabilir.",
-              "Dönüşümcü Lider: Değişime uyum sağlayan ve yenilikçi yönünü ortaya koyan dönüşümcü lider; idealize edilmiş etki, ilham verici motivasyon, entelektüel stimülasyon ve bireysel dikkate alma olmak üzere dört temel faktör üzerinden izleyenlerinin özgüvenini ve potansiyelini artırır. Spor bağlamında dönüşümcü lider, sporculara rol model olur ve güven ortamı oluşturarak vizyon değerlere ulaştırır.",
-              "Vizyoner Lider: Vizyoner lider, geleceği okuyarak ona uyum sağlayabilen ya da olası olumsuzluklara karşı önceden önlem alabilen kişidir; nasıl hareket edileceğini göstermez, grubun hangi yöne gitmesi gerektiğini gösterir ve çalışanlara görevlerinin büyük amaca hizmet ettiğini hatırlatır.",
-              "Karizmatik Lider: Max Weber'in ilk kez bahsettiği karizmatik liderlik, izleyicileri sorgusuz sualsiz peşinden sürükleyebilme becerisine dayanır; heyecanlandıran bir vizyona sahip olma, örnek olma ve yüksek motive etme kapasitesi bu liderlerin özellikleridir. Martin Luther King ve Mahatma Gandi karizmatik liderliğin önde gelen prototipleridir.",
-              "Durumsal Lider: Fred Fiedler'in ilk kez kullandığı durumsallık kuramına dayanan bu tarzda lider, takipçilerinin gereksinimlerine önem verir ve duruma göre davranışını ayarlar; yeni bir üyeye yön verirken, tecrübe kazandıktan sonra sorumluluğu devredebilir.",
-              "Stratejik Lider: Stratejik liderlik, değişimi özümseyerek uzun vadeli stratejik planlar yapabilme ve örgütte derin, kalıcı dönüşümü yerleştirebilme becerisidir; bu liderlik tarzının özü \"Ne oluyor? Ne olmuyor? Eylemi nasıl etkileyebilirim?\" sorularına verilen cevaplarda gizlidir."
+            "heading": "Liderlik Tarzları: Hangisi Hangisi?",
+            "emoji": "🎭",
+            "bullets": [
+              "**Otokratik lider**: Kararları tek başına alır, yetkisini paylaşmaz; karar hızlıdır ama güven oluşmadığı için çatışma ve bölünmelere yol açabilir.",
+              "**Demokratik lider**: Grupla birlikte çalışır, görev ve sorumlulukları paylaştırır; katılım sahiplenmeyi artırır ama acil durumlarda karar almak zaman alabilir.",
+              "**Liberal lider**: Gruba karar ve iş özgürlüğü verir; eğitimli, kurumsal ve elit sporcularda başarılı olabilirken, düşük eğitimli gruplarda anarşi ve sorumsuzluğa yol açabilir.",
+              "**Dönüşümcü lider**: İdealize edilmiş etki, ilham verici motivasyon, entelektüel stimülasyon ve bireysel dikkate alma yoluyla izleyenlerin özgüvenini artırır ve rol model olur.",
+              "**Vizyoner lider**: Geleceği okur, grubun hangi yöne gitmesi gerektiğini gösterir ve görevlerin büyük amaca hizmet ettiğini hatırlatır.",
+              "**Karizmatik lider**: **Max Weber**'in tanımladığı bu tarz, izleyicileri sorgusuz peşinden sürükler; **Martin Luther King** ve **Mahatma Gandi** bu tarzın prototipleridir.",
+              "**Durumsal lider**: **Fred Fiedler**'in ortaya attığı kuramda lider, takipçinin ihtiyacına göre davranışını ayarlar — yeni üyeye yön verir, tecrübeliye sorumluluk devreder.",
+              "**Stratejik lider**: Uzun vadeli stratejik planlarla örgütte kalıcı dönüşüm yaratır; \"Ne oluyor? Ne olmuyor? Eylemi nasıl etkileyebilirim?\" sorularına cevap arar."
             ]
           },
           {
-            "heading": "Modern Liderlik Yaklaşımları",
-            "paragraphs": [
-              "Geleneksel liderlik tarzlarının yanında literatürde etkileşimci (transactional), etik, hizmetkâr, geliştirici ve otantik liderlik gibi modern yaklaşımlar da yer almaktadır. Etkileşimci liderlik, lider ile izleyenleri arasındaki değişime (ödül, para, statü) dayanırken; etik liderlik astlarını moral güçle etkileyen, vicdan ve sorumluluk duygusu gelişmiş liderleri tanımlar.",
-              "Hizmetkâr liderlik, liderin kişisel çıkar gütmeksizin ekibine ya da topluma hizmet etmesi esasına dayanır ve \"önce insan\" felsefesini temel alır. Geliştirici liderlik, etkileşimci, dönüşümcü, hizmetkâr ve etik liderliğin ortak, aile ortamı yaratan boyutlarını birleştirirken; otantik liderlik, etik ve ahlaki değerlere önem veren, kendine güveni olan ve değişime açık liderleri ifade eder; bu liderin en önemli silahı güvendir."
+            "heading": "Modern Liderlik Akımları",
+            "emoji": "🚀",
+            "bullets": [
+              "**Etkileşimci (transactional) liderlik**: Lider ile izleyenler arasındaki ödül, para veya statü gibi bir değişime dayanır.",
+              "**Etik liderlik**: Astlarını ahlaki/moral güçle etkileyen, vicdan ve sorumluluk duygusu gelişmiş liderleri tanımlar.",
+              "**Hizmetkâr liderlik**: Kişisel çıkar gütmeden ekibine/topluma hizmet eder; \"önce insan\" felsefesini benimser.",
+              "**Geliştirici liderlik**: Etkileşimci, dönüşümcü, hizmetkâr ve etik liderliğin ortak yönlerini birleştirip aile ortamı yaratır.",
+              "**Otantik liderlik**: Etik ve ahlaki değerlere önem veren, kendine güvenen, değişime açık liderleri ifade eder; en önemli silahı **güvendir**."
             ]
           }
         ],
@@ -20924,47 +21575,67 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Halkla İlişkilerin Tarihi, Tanımı ve Kavramı",
-            "paragraphs": [
-              "İletişim, TDK tanımına göre duygu, düşünce ya da bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılmasıdır; bildirişim, haberleşme ve komünikasyon kavramlarıyla da anılır. Örgütsel iletişimin vazgeçilmez bir aracı olan halkla ilişkiler, sportif iş organizasyonları ile aynı değerdedir: spor pazarlaması açısından yapılan halkla ilişkiler faaliyetleri, spor yöneticileri, kulüp personelleri, sponsorlar ve medya yöneticilerinin başarısı için olmazsa olmazlardandır. Halkla ilişkiler bu çerçevede 'doğru mesajı, doğru hedef kitleye, doğru araçlarla vermemizi sağlayacak uygulamalar' olarak tanımlanabilir.",
-              "Halkla ilişkilerin dünya tarihine bakıldığında, profesyonel olmayan ilk uygulamaların eski Mısır, Mezopotamya, İran, Yunan ve Roma'daki propaganda niteliğindeki çalışmalara kadar uzandığı görülür. Kavramın bilimsel ve mesleki anlamda ilk gelişimi Amerika'da yaşanmıştır: 1897'de Michigan Üniversitesi'nde halkla ilişkiler ofisinin açılması, 1923'te Edward Bernays'in 'Crystallizing Public Opinion' adlı kitabının üniversitelerde ders kitabı olması önemli kilometre taşlarıdır. Newsom ve arkadaşları (1989), Amerika'daki gelişimi dört döneme ayırır: Birinci dönem (1600-1799) iletişim/başlangıç dönemi olup basın ajansları, organizatör ve propagandacıların ortaya çıktığı dönemdir; İkinci dönem (1800-1899) karşılık verme/cevaplama sürecidir; Üçüncü dönem (1900-1939) planlama ve önleme dönemidir ve halkla ilişkilerin bir yönetim fonksiyonu olarak olgunlaştığı yıllardır; Dördüncü dönem (1940'tan günümüze) profesyonellik dönemidir.",
-              "Türkiye'de halkla ilişkiler denilebilecek uygulamalar Osmanlı döneminde açık divan toplantıları, camilerde yapılan duyurular ve padişahın tebdil-i kıyafetle halk arasına karışması gibi örneklerle görülür, fakat bunlar düzenli değildir. Cumhuriyet döneminde Atatürk, devrimleri halka tanıtmak için yurt gezileri yapmış, gazetelerden yararlanmış ve yenilikleri bizzat uygulayarak halka örnek olmuştur; 1920'de Anadolu Ajansı kurulmuştur. Profesyonel halkla ilişkilerin gelişimi için gerekli zemin ancak 1960'lı yıllarda, kamu yönetiminde kurumsallaşmayla (Dışişleri Bakanlığı Enformasyon Genel Müdürlüğü, Devlet Planlama Teşkilatı Yayın ve Temsil Şubesi gibi birimlerle) oluşmaya başlamıştır. Günümüzde kamu kuruluşlarındaki en önemli halkla ilişkiler uygulamalarından biri, halkın istek ve şikâyetlerini değerlendiren Başbakanlık İletişim Merkezi (BİMER)'dir.",
-              "Halkla ilişkiler kavramının genel kabul gören ortak bir tanımı yoktur; her araştırmacı kendi yaklaşımına göre farklı tanımlar üretmiştir. Örneğin Cutlip ve Center'a (1994) göre halkla ilişkiler, 'karşılıklı yarar sağlayan iki yönlü iletişime dayanan dürüst ve sorumlu uygulamalarla kamuoyunu etkilemeye yönelik planlı çabalardır.' James Grunig ve Fraser Seitel'e göre ise örgüt ile hedeflenen grup arasındaki iletişim yönetimidir ve kurum felsefesinin oluşturulması gibi önemli yönetimsel kararlara etkide bulunan bir yönetim esasıdır. Edward Bernays'e göre halkla ilişkiler, enformasyon, ikna ve uyum aracılığıyla organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir. Bu tanım farklılıklarının temel nedeni; toplumsal, ekonomik, teknolojik, siyasi, hukuki, sosyo-kültürel gelişmeler, paydaş ve hedef kitle beklentileri gibi etkenlerin halkla ilişkileri sürekli şekillendirmesidir."
+            "heading": "Halkla İlişkiler: Tarihi ve Tanımı",
+            "emoji": "📢",
+            "bullets": [
+              "İletişim, TDK'ya göre duygu/düşünce/bilgilerin her türlü yolla başkasına aktarılmasıdır; **bildirişim, haberleşme, komünikasyon** da denir.",
+              "**Halkla ilişkiler**: doğru mesajı doğru hedef kitleye doğru araçlarla verme uygulamalarıdır.",
+              "Profesyonel olmayan ilk örnekler eski Mısır, Mezopotamya, Yunan ve Roma'daki propaganda çalışmalarına kadar uzanır.",
+              "Bilimsel gelişim Amerika'da başladı: **1897**'de Michigan Üniversitesi'nde ilk halkla ilişkiler ofisi açıldı, **1923**'te Edward Bernays'in kitabı ders kitabı oldu.",
+              "Newsom'a göre ABD'de 4 dönem var: 1600-1799 başlangıç, 1800-1899 karşılık verme, 1900-1939 planlama/önleme, 1940'tan günümüze **profesyonellik dönemi**.",
+              "Türkiye'de kökler Osmanlı'ya (divan toplantıları, cami duyuruları) dayanır; Atatürk yurt gezileriyle örnek oldu, **1920**'de **Anadolu Ajansı** kuruldu; profesyonelleşme 1960'larda kurumsallaşmayla başladı; bugün vatandaş şikayetlerini değerlendiren **BİMER** var.",
+              "Ortak bir tanım yok: Cutlip&Center iki yönlü iletişime dayalı planlı çaba der; Edward Bernays'e göre ise **halkla ilişkiler**, enformasyon, ikna ve uyum aracılığıyla organizasyonlar, ün, gelişim eğilimleri ya da örgütlenme için kamunun desteğini kazanma denemesidir."
             ]
           },
           {
-            "heading": "Halkla İlişkilerde Kullanılan Araçlar ve Halkla İlişkilerin Amaçları",
-            "paragraphs": [
-              "Theaker'in (2008) sınıflandırmasının spor kulüplerine uyarlanmış hâline göre halkla ilişkilerin faaliyet alanları şunlardır: kulüp içi iletişim (sporcularla görüşmeler, maç öncesi toplantılar), kulüpler arası iletişim (resmi/özel müsabakalar, ortak etkinlikler), kulüp halkla ilişkileri (taraftar etkinlikleri ile kulüp imajının korunması), kulüp medya ilişkileri (basın bültenleri, gazeteci/editörlerle iletişim), sosyal sorumluluk projeleri, kamusal ilişkiler (siyasetçilerle brifingler), finansal ilişkiler (banka ve yatırımcılarla iletişim), stratejik iletişim, çevresel faktörleri takip etme, kriz yönetimi (örneğin pandemi nedeniyle iptal edilen müsabakalarda taraftarı bilgilendirme), metin yazımı, yayım idaresi, etkinlik yönetimi (fuar, seminer, kongre), kültürlerarası iletişim, danışmanlık, lobicilik, sponsorluk ve kurumsal kimlik çalışmaları (kulüp ismi, forma renk ve logosu gibi).",
-              "Kurumlar amaçlarına ulaşmak için hem proaktif hem reaktif stratejiler kullanmak zorundadır. Proaktif halkla ilişkiler, kurumun güçlü taraflarını ele alıp ilgi alanını gerçekleştirmek için belirli bir iletişim programını yerine getirmeyi; reaktif halkla ilişkiler ise kurumun zayıf yönlerini ele alıp bu zayıflıkların nasıl telafi edileceğine odaklanmayı kapsar (Solmaz, 2012). Proaktif iletişim uzun vadeli pazarlama politikalarıyla yönlendirilip kurumun imajını yükseltmeyi hedeflerken, reaktif iletişim genellikle olumsuz olaylarla ilgilenir, savunmacı bir yaklaşım taşır ve kurumun adını onarmaya, statüsünü korumaya çalışır; özellikle başarısızlık ya da eleştiri durumlarında kulüpler reaktif moda girer ve savunma durumu ortaya çıkar. Kurumsal halkla ilişkiler genel olarak öneri ve danışmanlık, kurumsal yayınlar, kurum hakkında yayın, toplumla ilişkiler, kurumsal imaja yönelik reklam/mesaj, kamuoyu yaratma-etkileme ve sosyal içerikli programlar işlevlerini yerine getirir (Katırcı, 2012).",
-              "Sporda halkla ilişkiler uygulamaları çoğunlukla duyurum (publicity) olarak ele alınır; yaygın duyurum yöntemleri haber bültenleri, basın toplantıları, konuşmalar ve özel haberlerdir. Başarılı bir duyurum programı etkili bir planlamayla oluşur; plan şu temel unsurları içermelidir: duyurum ihtiyacının tanımlanması, uygun medya kaynaklarının belirlenmesi, her bir kaynak için ayrı hedef geliştirme, hedeflenen kaynaklar için özel bir metot geliştirme, seçilen tutundurma materyalleriyle uygulamaya koyma ve duyurum sonuçlarının değerlendirilmesi (Argan ve Katırcı, 2008).",
-              "Spor kulüplerinin kullandığı iletişim araçları dört grupta ele alınabilir (Sabuncuoğlu, 2013): yazılı araçlar (spor gazeteleri, afişler, anketler, broşür/katalog, dergi, kitap); sözlü araçlar (yüz yüze iletişim, telefonla görüşme, basın toplantısı, basın açıklaması, basın konferansı, röportaj); görsel ve işitsel araçlar (radyo, televizyon, film, internet, rozetler, web sayfaları) ve sosyal medya araçları (Facebook, Twitter, Instagram gibi sosyal siteler, Flickr gibi fotoğraf paylaşım siteleri, Youtube, LinkedIn gibi profesyonel ağlar, bloglar). Sosyal medya, gerçek zamanlı etkileşime imkân tanıması nedeniyle spor kulüplerinin taraftarlarıyla doğrudan iletişim kurmasını sağlayan en etkili modern araçlardan biri hâline gelmiştir; futbol kulüplerinin ana hissedarlarının taraftarlar olduğu düşünüldüğünde, taraftar-kulüp iletişiminin sosyal medya üzerinden yönetilmesi büyük önem taşır."
+            "heading": "Araçlar, Amaçlar ve Duyurum Planı",
+            "emoji": "🧰",
+            "bullets": [
+              "Spor kulüplerinde halkla ilişkiler çok geniş alanları kapsar: kulüp içi/kulüpler arası iletişim, medya ilişkileri, sosyal sorumluluk, kriz yönetimi, sponsorluk ve **kurumsal kimlik** (isim, logo, forma rengi) gibi.",
+              "**Proaktif halkla ilişkiler**: kurumun güçlü yönlerini ele alıp imajı yükseltmeye yönelik uzun vadeli stratejiler geliştirir.",
+              "**Reaktif halkla ilişkiler**: kurumun zayıf yönlerine odaklanıp olumsuz olaylarda (başarısızlık, eleştiri) savunmaya geçerek adını onarmaya çalışır.",
+              "Sporda halkla ilişkiler genelde **duyurum (publicity)** olarak yürütülür: haber bültenleri, basın toplantıları, konuşmalar.",
+              "Başarılı bir duyurum planı şu adımları içerir: ihtiyacı tanımlama, uygun medya kaynaklarını belirleme, **her kaynak için ayrı hedef** geliştirme (tek ortak hedef değil), özel yöntem geliştirme, uygulama ve sonuçları değerlendirme.",
+              "İletişim araçları 4 grupta toplanır: yazılı (gazete, broşür), sözlü (basın toplantısı, röportaj), görsel-işitsel (TV, internet) ve **sosyal medya** (Facebook, Twitter, Instagram, Youtube).",
+              "**Sosyal medya**, gerçek zamanlı etkileşimiyle kulüp-taraftar iletişiminin en etkili modern aracı haline geldi."
             ]
           },
           {
-            "heading": "Temel İletişim Becerileri ve Dinleme Kavramı",
-            "paragraphs": [
-              "İletişim genellikle okuma, yazma, konuşma ve dinleme olmak üzere dört temel beceriyle gerçekleştirilir. Araştırmalar insanların iletişim sürecinde yaklaşık %45 dinleme, %30 konuşma, %16 okuma ve %9 yazma becerilerini kullandığını göstermektedir (Kardaş&Harre, 2015). Duyma, dinlemenin başlangıç aşamasıdır; dinleme ise sözcüklerin ve anlatılmak istenenin zihinsel olarak anlaşılmasını içerir. Sporcuların her türlü öğrenmeyi gerçekleştirebilmesi büyük ölçüde dinleme becerilerini etkili kullanmalarına bağlıdır.",
-              "Antrenör-sporcu ilişkisinde etkin dinleme becerisinin geliştirilmesi için konuşma öncesinde mutlaka planlama yapılmalıdır. İyi bir planlamada şu sorulara yanıt aranmalıdır: Konuşma konusu ne (konu dışına çıkılmamalı), konuşma kime yapılacak (dinleyicilerin yaş, bilgi düzeyi gibi özellikleri), konuşma süresi ne kadar olacak (örneğin müsabaka analizi 40-60 dk., devre arası 3-5 dk. gibi), konuşma nerede yapılacak (toplantı salonu, soyunma odası, saha) ve hangi iletişim araçlarıyla desteklenecek (görüntü kayıtları gibi). Sporculara dinleme alışkanlığı kazandırılırken onlara konuşma olanağı da verilmelidir; böylece 'siz ve görüşleriniz önemli' mesajı iletilmiş olur.",
-              "İletişimi olumsuz etkileyen tüm faktörler iletişim engelleri olarak adlandırılır ve fiziksel-teknik, psiko-sosyal, örgütsel ve diğer engeller olarak gruplanır (Sabuncuoğlu&Gümüş, 2008). Fiziksel ve teknik engeller; gürültü, mesajdan kaynaklanan bozukluklar, iletişim araçlarından kaynaklanan bozukluklar ve dil güçlüklerini kapsar; bu engellerin etkisi geçici olduğundan giderilmesi daha kolaydır. Psiko-sosyal engeller ise iletişimin amacının net belirlenmemesi, önyargılar, kişisel engeller ve görüş farklılıkları, algılama farklılıkları, tutum ve davranışlar, bilgi düzeyi, sosyo-kültürel farklar, konuşma yetersizliği ve dinleme yetersizliğini içerir; bunlar daha uzun süreli ve etkili engellerdir. Örgütsel engeller arasında örgütün büyüklüğü ve fiziksel düzeni, geri beslenme yetersizliği, aşırı bilgi yüklemesi, statü farklılıkları, yönetim tarzı, hiyerarşi, rol ilişkileri ve zaman baskısı sayılabilir (Yatkın ve Yatkın, 2010). Diğer engeller arasında ortak yaşantının olmaması, cinsiyet ve kültür farkı, savunma mekanizmaları ve anlamların karıştırılması yer alır."
+            "heading": "İletişim Becerileri ve Engelleri",
+            "emoji": "👂",
+            "bullets": [
+              "İletişim 4 temel beceriyle olur: okuma, yazma, konuşma, **dinleme** — araştırmalara göre zamanımızın **%45'i dinleme**, %30'u konuşma, %16'sı okuma, %9'u yazmaya gider.",
+              "**Duyma** sadece sesleri algılamaktır; **dinleme** ise söylenenin zihinsel olarak anlaşılmasını içerir — sporcunun öğrenmesi büyük ölçüde dinleme becerisine bağlıdır.",
+              "Antrenör konuşma öncesi planlama yapmalı: konu ne, kime (dinleyici özellikleri), süre ne kadar, nerede ve hangi araçla desteklenecek.",
+              "İletişim engelleri 4 grupta toplanır: **fiziksel-teknik** (gürültü, araç/mesaj bozukluğu, dil güçlüğü — geçici, kolay giderilir), **psiko-sosyal**, **örgütsel** ve **diğer** engeller.",
+              "**Psiko-sosyal engeller**: amacın net belirlenmemesi, önyargılar, görüş/algılama farklılıkları, tutum ve davranışlar, **bilgi düzeyi**, **sosyo-kültürel farklar**, **konuşma yetersizliği** ve **dinleme yetersizliği** — bunlar daha kalıcı engellerdir.",
+              "**Örgütsel engeller**: örgütün büyüklüğü ve **fiziksel düzeni**, geri besleme yetersizliği, aşırı bilgi yükü, statü farkı, hiyerarşi ve zaman baskısı.",
+              "**Diğer engeller**: ortak yaşantı eksikliği, cinsiyet/kültür farkı, savunma mekanizmaları ve anlamların karıştırılması."
             ]
           },
           {
-            "heading": "Dinlemenin Amacı, Önemi ve Etkili Dinleme Türleri",
-            "paragraphs": [
-              "Dinlemenin pek çok amacı olabilir: öğrenmek (örneğin bir taraftarın maç yorumcularını VAR hakemini öğrenmek için dikkatle dinlemesi), ilişki kurmak, etkilemek, eğlenmek ve yardım etmek bu amaçlardan bazılarıdır (Devito, 2004'ten akt. Gürüz&Eğinli, 2014). Etkin dinleme, 'iletişim içinde bulunan kişiyi yargılamadan, sözünü kesmeden, bedene uygun biçim vererek, göz teması kurarak yapılan dinleme' olarak tanımlanır. Etkili dinleme konusunda bilinmesi gereken dört nokta şöyledir: pasif değil aktif bir süreçtir; insan ilişkilerinde çok güçlü bir etkisi vardır; kişilerin stres düzeyini azaltır; ve karşıdaki kişiye olumlu mesajlar iletir (Cihangir, 2011).",
-              "Günümüz spor dünyasında performans değerlerinin hızla değişmesi ve müsabakalarda yaşanan yoğun mesaj bombardımanı, dinleme becerisinin etkili kullanılmasını gerekli kılar; bu beceri ne kadar sağlam oluşursa sporcuların kulüp içi ve sosyal ilişkileri de o derece kuvvetli olur. İyi dinleme, sorunları başarıyla çözmenin temelidir: yönetici ile sorunu olan kişi arasında iş birliği ilişkisi kurar, duyguların anlaşılmasını sağlar ve değişime açık olma konusunda yardımcı olur.",
-              "Tompkins (1998) ve Kingen'in (2000) sınıflamasına göre dinleme beş başlık altında incelenebilir: ayırt edici dinleme (sesleri ve görsel uyaranları birbirinden ayırt etmek, örneğin seyirci gürültüsü içinde takım arkadaşının sesini ayırt etmek), estetik dinleme (eğlence ve zevk almak için), etkili dinleme (bir mesajı eleştirel yargıda bulunmadan dinlemek), eleştirel dinleme (değerlendirmek ya da yargılamak için dinlemek) ve empatik dinleme (yargılardan kaçınarak karşıdakinin duygularını anlamaya çalışmak; etkin dinlemenin temelini oluşturur). Tablo 4.7'ye göre katılımcı, edilgin, empatik, yargısız-eleştirel, derinlemesine, çözümleyici, etkin/aktif ve dikkatle dinleme etkili dinleme türleri arasında sayılırken; yetersiz, kalıplaşmış, yüzeysel, görünüşte, seçerek, duyguya saplanarak, savunucu ve tuzak kurucu dinleme etkisiz dinleme türleri arasındadır.",
-              "Çiftçi'ye (2001) göre dinlemeyi etkileyen faktörler yedi başlık altında toplanabilir: fizyolojik faktörler (işitme kaybı gibi), fiziki faktörler (ortamın ses/ısı/ışık yalıtımı, oturma düzeni), psikolojik faktörler (ruh hali, stres, kaygı), zihinsel faktörler (dikkat dağınıklığı, öğrenme güçlüğü), sosyal faktörler (ortama yabancı olmak), öğretmen/antrenör (konuşmacı) faktörü (ses tonu, bilgi birikimi) ve konu faktörü (konuya ilgi duymamak). Etkili spor iletişimi ise kişinin kendi iç ve dış dünyasının farkında olmasına dayanır; iletişim iki yönlü bir süreç olduğundan kendi mesajımızı iletmek kadar karşı taraftan gelen mesajları dinlemek de önemlidir. Kötü iletişim zaman ve kaynak kaybına, kişiler arası sürtüşmeye ve ilişkilerin bozulmasına yol açar; araştırmalar iş yerlerinde yaşanan problemlerin büyük çoğunluğunun kötü iletişimden kaynaklandığını göstermektedir."
+            "heading": "Etkili Dinleme: Amaç ve Türleri",
+            "emoji": "🎧",
+            "bullets": [
+              "Dinlemenin amaçları: öğrenmek, ilişki kurmak, etkilemek, eğlenmek ve yardım etmek.",
+              "**Etkin dinleme**: karşıdakini yargılamadan, sözünü kesmeden, bedenle uyum göstererek ve göz teması kurarak dinlemektir.",
+              "Etkili dinlemenin 4 özelliği: pasif değil **aktif** bir süreçtir, ilişkilerde güçlü bir etkisi var, **stresi azaltır** ve karşı tarafa olumlu mesaj verir.",
+              "İyi dinleme sorun çözmenin temelidir: iş birliği kurar, duyguların anlaşılmasını sağlar, değişime açıklığı artırır.",
+              "Tompkins&Kingen'e göre 5 dinleme türü vardır: ayırt edici, estetik, etkili, eleştirel ve **empatik dinleme** (yargısız, karşıdakinin duygusunu anlamaya çalışır).",
+              "Tablo 4.7'ye göre **çözümleyici**, empatik, etkin/aktif gibi türler **etkili dinleme** sayılır; **yüzeysel, seçerek, görünüşte, kalıplaşmış** gibi türler ise **etkisiz dinleme**dir.",
+              "Çiftçi'ye göre dinlemeyi 7 faktör etkiler: fizyolojik, fiziki (ortam), psikolojik, zihinsel, sosyal, konuşmacı ve konu faktörü; kötü iletişim iş yerindeki sorunların en büyük kaynağıdır."
             ]
           },
           {
             "heading": "Spor Medya Okuryazarlığı",
-            "paragraphs": [
-              "Taşkıran'ın (2007) tanımına göre medya okuryazarlığı, 'kitle iletişim araçları yoluyla elde edilen mesajları çözümleme, değerlendirme ve iletme yeteneğidir.' Jols ve Thoman (2008) ise medya okuryazarlığını çeşitli yapılarda bulunan medyaya erişme, analiz etme, değerlendirme ve yaratma yeteneği olarak tanımlar ve medya okuryazarlığının beş temel prensibini sıralar (Silberblatt, 1995): medyanın toplum üzerindeki etkisini kavramak, medyayı kültürü anlamakta bir kaynak olarak görmek, kitle iletişimi mekanizmalarını anlamak, medya mesajlarının analizi için stratejiler geliştirmek ve medya içeriğini yorumlama/algılama yetisini artırmak.",
-              "Spor medya okuryazar olma sürecinde ilk olarak kültür kavramı ele alınır, çünkü okuryazar olmakla kültürlü olmak arasında doğrudan bir ilişki vardır. Spor okuryazarlığı, spor öğrenimini gerçek bir yeterlilik olarak konumlandıran ve erişim, anlama, analiz, değerlendirme ve üretim gibi becerileri kapsayan, yaşam boyu devam eden kültürel bir süreçtir (Karaduman, 2019). Ülker'in (2019) modeline göre temel hareket becerileri ile temel spor becerilerinin birleşmesi, sportif mükemmellikle birlikte spor okuryazarlığının ölçütlerini oluşturur; bu süreç 'Herkes için Spor' anlayışının bir girizgâhı olarak değerlendirilir.",
-              "Uluslararası alanda spor federasyonları, kulüpler ve sporcular sosyal medyada (web, Facebook, Twitter gibi) geniş takipçi kitlelerine sahiptir; örneğin Cristiano Ronaldo'nun sosyal medya hesaplarında 253 milyonun üzerinde takipçisi bulunmaktadır. Sosyal medya, sporcuların kişisel hikâye ve deneyimlerini paylaşmasına, taraftarların takımlarını takip etmesine ve farklı ülkelerden kullanıcıların internet üzerinden bağlanıp birlikte müsabakalar yapmasına imkân tanır; 70 ülkeden üyesi bulunan MyFootballClub (Benim Futbol Kulübüm) buna bir örnektir. Ancak sosyal medyanın kontrolsüz kullanımı, bazı sporcularda performans düşüşüne de yol açabilmektedir; örneğin bir yüzücünün sosyal medyadan kendini alamaması final performansını olumsuz etkilediği aktarılmıştır (Miah, 2012; Şenduran vd., 2018).",
-              "Motivasyon, bireylerin toplum amaçlarını benimsemelerinde önemli bir paya sahiptir ve spor okuryazarlık kavramında farklı hareket biçimlerini anlamak, iletmek, uygulamak ve analiz etmek için gereklidir. Spor okuryazarlığının öznitelikleri, bireylerin çoğunlukla eğlence, kendini gerçekleştirme fırsatları ve yeterlilik/verimlilik duygusu gibi içsel değerler için fiziksel faaliyetlere katıldığını ortaya koymaktadır (Sum vd., 2018). Yapılan çalışmalar, medya okuryazarlığı gelişimindeki motivasyon örüntülerinin daha iyi konsantrasyon sağladığını, algılanan yeterliliği artırdığını, fiziksel aktiviteler için daha fazla çabayı desteklediğini ve boş zamanlarda fiziksel aktiviteye karşı olumlu tutum geliştirebildiğini göstermektedir (Ülker, 2019)."
+            "emoji": "📱",
+            "bullets": [
+              "**Medya okuryazarlığı** (Taşkıran, 2007): kitle iletişim araçlarıyla elde edilen mesajları çözümleme, değerlendirme ve iletme yeteneğidir.",
+              "Jols&Thoman'a göre 5 temel prensip vardır: medyanın toplumsal etkisini kavramak, kültürü anlama kaynağı olarak görmek, kitle iletişim mekanizmalarını anlamak, mesaj analiz stratejileri geliştirmek ve yorumlama yetisini artırmak.",
+              "**Spor okuryazarlığı**: erişim, anlama, analiz, değerlendirme ve üretim becerilerini kapsayan, yaşam boyu süren kültürel bir süreçtir; temel hareket becerileriyle spor becerilerinin birleşimi \"Herkes için Spor\" anlayışına kapı açar.",
+              "Sporcu ve kulüpler sosyal medyada büyük takipçi kitlelerine sahip — örneğin **Cristiano Ronaldo**'nun **253 milyonun üzerinde** takipçisi var; 70 ülkeden üyesi olan **MyFootballClub** da buna örnek.",
+              "Kontrolsüz sosyal medya kullanımı performansı düşürebilir (örnekte bir yüzücünün final performansı olumsuz etkilenmiştir).",
+              "Spor medya okuryazarlığı **konsantrasyonu**, **algılanan yeterliliği** ve fiziksel aktiviteye **olumlu tutumu** artırır, çabayı destekler — bunlar eğlence ve kendini gerçekleştirme gibi **içsel motivasyon** kaynaklarından gelir, dışsal motivasyonu ortadan kaldırmaktan bahsedilmez."
             ]
           }
         ],
@@ -21190,51 +21861,78 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Toplumsal Yaşamı Düzenleyen Kurallar ve Hukukun Temel Kavramları",
-            "paragraphs": [
-              "İnsan, toplumsal yaşamın en küçük birimi olan ailede yer alır ve zamanla farklı toplumsal kurumlara dahil olarak diğer insanlarla etkileşim kurar. Bireylerin birbirleriyle kurduğu bu geçici ve sürekli ilişkilere toplumsal ilişki denir; bu ilişkilerin bütününün oluşturduğu süreç ise toplumsal yaşam olarak tanımlanır. Toplumsal yaşamın düzenli işleyebilmesi için farklı kültür, bilgi ve sosyoekonomik birikime sahip bireyleri ortak bir paydada bir arada tutacak kurallara ihtiyaç vardır; bu kurallara toplumsal düzen kuralları adı verilir.",
-              "Toplumsal düzeni sağlayan kurallar dört başlıkta incelenir: görgü kuralları, ahlak kuralları, din kuralları ve hukuk kuralları. Görgü kuralları, toplumun gelenek, görenek ve törenlerinden doğan, uyulmaması durumunda kınama ve ayıplama gibi manevi yaptırımlarla sonuçlanan davranış kalıplarıdır. Ahlak kuralları, bir toplumda kişilerin uymak zorunda olduğu davranış biçimleridir; ihlali vicdan azabı (öznel/subjektif ahlak) ya da toplumsal kınama (nesnel/objektif ahlak) gibi manevi sonuçlar doğurur. Din kuralları, inanç sistemlerine dayanan ve yine manevi yaptırımlarla desteklenen davranış normlarıdır.",
-              "Hukuk kuralları, devlet otoritesi tarafından konulan, uygulatılan ve denetlenen, uyulması zorunlu kurallar bütünüdür. Hukuk kurallarını diğer toplumsal düzen kurallarından ayıran en önemli özellik, ihlal halinde devletin cebir (zor kullanma) gücüyle maddi yaptırım uygulayabilmesidir; diğer kurallarda yaptırım sadece manevidir. Buna karşın hukukun yetersiz kaldığı alanlarda diğer toplumsal düzen kuralları da toplumsal esenliğe tamamlayıcı bir katkı sağlar."
+            "heading": "Toplumu Bir Arada Tutan Kurallar",
+            "emoji": "📜",
+            "bullets": [
+              "İnsan ailede başlar, toplumsal kurumlara katılır ve başkalarıyla **toplumsal ilişki** kurar; bunların bütünü **toplumsal yaşam**dır.",
+              "Farklı insanları bir arada tutmak için ortak kurallara, yani **toplumsal düzen kuralları**na ihtiyaç vardır.",
+              "Bunlar dört türdür: **görgü kuralları** (ihlali kınama/ayıplama getirir), **ahlak kuralları** (ihlali vicdan azabı = **sübjektif ahlak**, ya da toplumsal kınama = **objektif ahlak**) ve **din kuralları** (manevi yaptırımlı).",
+              "**Hukuk kuralları**, devlet tarafından konulan, uygulanan ve uyulması zorunlu kurallardır.",
+              "Hukuku diğerlerinden ayıran fark: devlet **cebir (zor kullanma)** gücüyle maddi yaptırım uygulayabilir; diğer kuralların yaptırımı sadece manevidir."
             ]
           },
           {
-            "heading": "Hukukun Türleri: Kamu Hukuku, Özel Hukuk ve Karma Hukuk",
-            "paragraphs": [
-              "Kamu hukuku, devletin tüzel kişiliğinin (il özel idareleri, belediyeler, üniversiteler, kamu iktisadi teşebbüsleri vb.) kuruluş, görev, yetki ve sorumluluklarını; devletin diğer devletler ve kişilerle ilişkilerini düzenleyen kural ve esaslardan oluşur. Kamu hukuku ilişkilerinde taraflar arasında eşitlik bulunmaz; devlet, kamu yararını gözeterek üstün bir güç olarak tek taraflı kural koyup uygulayabilir. Kamu hukukunun dalları arasında Anayasa Hukuku, İdare Hukuku, Ceza Hukuku, Uluslararası Kamu Hukuku ve Mali Hukuk sayılabilir.",
-              "Özel hukuk, kişilerin eşitler arası bir ilişki dengesine ve irade serbestisine dayalı ilişkilerini düzenleyen hukuk dalıdır; taraflar koşulları belirlemede eşit statüdedir ve özgürdür (örneğin satış sözleşmesi, nikah akdi). Özel hukukun dalları arasında Medeni Hukuk, Borçlar Hukuku, Ticaret Hukuku ve Devletler Özel Hukuku bulunur. Bir ilişkinin kamu hukuku mu özel hukuk mu alanına girdiğini belirlerken taraflardan birinin devlet olması tek başına yeterli değildir; belirleyici olan ilişkideki eşitlik durumudur (örneğin belediyenin bir dükkânı kiralaması özel hukuk ilişkisidir).",
-              "Uygulamada kamu hukuku ile özel hukuku kesin çizgilerle ayırmanın zorluğu sebebiyle, her iki hukuk dalının özelliklerini birlikte taşıyan karma hukuk kavramı ortaya çıkmıştır. İş Hukuku, Fikri Mülkiyet Hukuku, Bankacılık Hukuku, Hava Hukuku, Çevre Hukuku, Yargılama Hukuku, İcra ve İflas Hukuku ile Vergi Hukuku karma hukuk dalları arasında sayılır. Spor hukuku da, hem kamu hukukundan hem özel hukuktan beslenen bu karma hukuk yapısına örnektir."
+            "heading": "Hukukun Türleri: Kamu, Özel, Karma",
+            "emoji": "⚖️",
+            "bullets": [
+              "**Kamu hukuku**, devletin kuruluş-görev-yetkilerini ve devletin diğer devlet/kişilerle ilişkisini düzenler; taraflar eşit değildir, devlet üstün güçle tek taraflı kural koyar.",
+              "Kamu hukuku dalları: **Anayasa Hukuku**, **İdare Hukuku**, **Ceza Hukuku**, **Uluslararası Kamu Hukuku** ve Mali Hukuk.",
+              "**Özel hukuk**, eşit ve özgür taraflar arasındaki ilişkileri düzenler (örnek: satış sözleşmesi, nikah).",
+              "Özel hukuk dalları: **Medeni Hukuk**, **Borçlar Hukuku**, **Ticaret Hukuku** ve **Devletler Özel Hukuku**.",
+              "Taraflardan birinin devlet olması tek başına belirleyici değildir; asıl ölçüt ilişkideki eşitliktir.",
+              "Her iki hukuktan özellik taşıyan dallar **karma hukuk** sayılır: İş, Fikri Mülkiyet, Bankacılık, Hava, Çevre, Yargılama, İcra-İflas ve **Vergi Hukuku** gibi; **Spor Hukuku** da bu karma yapıya örnektir."
             ]
           },
           {
-            "heading": "Hukukta Yaptırım (Müeyyide) ve Türleri",
-            "paragraphs": [
-              "Yaptırım, bir hukuk kuralına uyulmadığında kişilerin devlet müdahalesiyle hukuka uygun davranış sergilemesini sağlamak üzere kanunlarda önceden öngörülen zorlayıcı düzenlemedir. Hukuki yaptırımların iki etkisi vardır: devletin cebir gücüyle aykırılığı ortadan kaldıran düzeltici etki ve aykırılığı önceden önleyen caydırıcı etki. Hukuk kurallarını diğer kurallardan ayıran temel özellik, bu yaptırımları cebren (zorla) uygulatabilme gücüdür.",
-              "Hukukta altı temel yaptırım türü bulunur: Cebri icra, bir hukuk kuralına aykırılık durumunda devletin gücüyle (mahkeme/icra idareleri aracılığıyla) yükümlülüğün zorla yerine getirilmesidir (örn. borcun haczedilerek tahsili). Tazminat, hukuka aykırılık sonucu oluşan maddi veya manevi zararların giderilmesi amacıyla uygulanan yaptırımdır ve 'maddi tazminat' ile 'manevi tazminat' olarak ikiye ayrılır; hem özel hem kamu hukukunda görülür. Geçersizlik (hükümsüzlük), hukuka, ahlaka veya kamu düzenine aykırı işlemlerin herhangi bir hüküm doğurmaması anlamına gelir.",
-              "Ceza, kanunların suç saydığı fiil veya ihmaller için öngördüğü, hukuk düzeni ve topluma verilen zarara karşılık uygulanan yaptırımdır. Yokluk, idari bir işlemde çok ağır bir sakatlık bulunması durumunda işlemin hiç yapılmamış sayılmasıdır (örneğin gerekli niteliğe sahip olmayan bir antrenörün atanması). İptal, hukuka aykırı bir işlemin, ilgili tarafların iradesiyle açılan dava sonucunda, yapıldığı andan itibaren geçersiz kılınmasıdır."
+            "heading": "Yaptırım: Kurallara Uyulmazsa Ne Olur?",
+            "emoji": "🔨",
+            "bullets": [
+              "**Yaptırım**, kurala uyulmadığında devletin devreye girerek hukuka uygun davranışı sağladığı zorlayıcı önlemdir; düzeltici ve caydırıcı etkisi vardır.",
+              "Hukuku diğer kurallardan ayıran şey, yaptırımı **cebren (zorla)** uygulatabilmesidir.",
+              "**Cebri icra**: devletin gücüyle bir yükümlülüğün zorla yerine getirilmesi (örn. borcun haczedilmesi).",
+              "**Tazminat**: zararın giderilmesi; maddi tazminat ve manevi tazminat olarak ikiye ayrılır.",
+              "**Geçersizlik (hükümsüzlük)**: hukuka, ahlaka veya kamu düzenine aykırı işlemlerin hiçbir hüküm doğurmaması.",
+              "**Ceza**: kanunun suç saydığı bir fiil veya ihmali işleyen kişiye uygulanan yaptırımdır.",
+              "**Yokluk**: ağır bir sakatlık nedeniyle işlemin hiç yapılmamış sayılması; **İptal**: hukuka aykırı işlemin dava yoluyla baştan itibaren geçersiz kılınması."
             ]
           },
           {
             "heading": "Hukukun Kaynakları ve Normlar Hiyerarşisi",
-            "paragraphs": [
-              "Yürürlükteki hukuk (pozitif hukuk), asıl (asli) kaynaklar ve yardımcı (tali) kaynaklar olmak üzere ikiye ayrılır. Asıl kaynaklar kendi içinde yazılı ve yazısız kaynaklar olarak incelenir. Yazılı kaynaklar; Anayasa, Kanunlar, Milletlerarası Antlaşmalar, Cumhurbaşkanlığı Kararnameleri ve Yönetmeliklerden oluşur; eski dönemden kalan bazı KHK ve tüzükler de hâlâ yürürlükte olabilir. Yazısız/yardımcı kaynaklar ise örf ve adet hukuku, doktrin (bilimsel görüşler) ve içtihat (yargı kararları) olup, Türk Medeni Kanunu md.1'e göre yazılı kaynağın eksik kaldığı durumlarda sırasıyla başvurulur.",
-              "Anayasa, devletin kuruluş, işleyiş ve yapısını, kişilerin hak ve sorumluluklarını en genel biçimde düzenleyen, diğer tüm kanunlardan üstün temel normdur; Türkiye'de katı (sert) bir Anayasa uygulanmaktadır. Anayasa'da 'yasama yetkisi TBMM'nindir' (md.7), 'yürütme yetkisi ve görevi Cumhurbaşkanı'na aittir' (md.8) ve 'yargı yetkisi bağımsız ve tarafsız mahkemelerce kullanılır' (md.9) hükümleriyle güçler ayrılığı ilkesi düzenlenmiştir. Kanun, yasama organı (TBMM) tarafından usulüne uygun çıkarılan, genel-sürekli-nesnel nitelikli kurallardır; Cumhurbaşkanlığı kararnamesi ise Cumhurbaşkanı'nın yürütme yetkisine ilişkin konularda çıkardığı, kanunla aynı konuda farklı hüküm varsa kanunun üstün sayıldığı düzenlemedir. Yönetmelikler, kamu kurum ve kuruluşlarının üst normlara dayanarak çıkardığı, kendi görev alanlarını ilgilendiren düzenleyici kurallardır.",
-              "Hukuk kuralları arasındaki güç ve öncelik sıralamasına normlar hiyerarşisi denir; Hans Kelsen'in sıralamasına göre üst basamaktaki normlar alt basamaktaki normların yetki ve sınırlarını belirler. Türk hukuk sisteminde hiyerarşi en üstten alta doğru şöyledir: Anayasa; Kanunlar-Milletlerarası Antlaşmalar-Olağanüstü Hal Cumhurbaşkanlığı Kararnameleri; Olağan Dönem Cumhurbaşkanlığı Kararnameleri; ve Yönetmelikler. Usulüne göre yürürlüğe konulmuş, temel hak ve özgürlüklere ilişkin milletlerarası antlaşmalar ile kanunlar arasında farklı hüküm bulunması halinde milletlerarası antlaşma hükümleri esas alınır. Bu hiyerarşiyi bilmek, spor hukuku mevzuatının hangi düzenlemenin diğerine üstün olduğunu kavramak için gereklidir."
+            "emoji": "🏛️",
+            "bullets": [
+              "Hukukun kaynakları **asıl (asli)** ve **yardımcı (tali)** kaynaklar olarak ikiye ayrılır.",
+              "**Yazılı kaynaklar**: Anayasa, Kanunlar, Milletlerarası Antlaşmalar, Cumhurbaşkanlığı Kararnameleri ve Yönetmelikler (bazı eski KHK/tüzükler de hâlâ geçerli olabilir).",
+              "**Yazısız kaynaklar**: **örf ve adet hukuku**, doktrin ve içtihat; TMK md.1'e göre yazılı kaynak yetersiz kalınca sırayla bunlara başvurulur.",
+              "**Anayasa**, devletin kuruluşunu ve kişilerin hak/sorumluluklarını düzenleyen, diğer tüm kanunlardan üstün temel normdur (Türkiye'de katı/sert bir Anayasa uygulanır).",
+              "Güçler ayrılığı: **yasama** TBMM'nin (md.7), **yürütme** Cumhurbaşkanı'nın (md.8), **yargı** bağımsız ve tarafsız mahkemelerin (md.9) yetkisidir.",
+              "**Normlar hiyerarşisi** (Kelsen), üstteki normun alttakini belirlediği sıralamadır: en üstte Anayasa; sonra Kanun-Milletlerarası Antlaşma-OHAL dönemi CB Kararnamesi; sonra Olağan dönem CB Kararnamesi; en altta Yönetmelikler.",
+              "Temel hak ve özgürlüklere ilişkin bir milletlerarası antlaşma ile kanun çatışırsa, **antlaşma** esas alınır."
             ]
           },
           {
-            "heading": "Hukukta Kişi ve Hak Kavramları",
-            "paragraphs": [
-              "Türk Medeni Kanunu'na göre kişiler, gerçek kişiler ve tüzel kişiler olmak üzere ikiye ayrılır. Gerçek kişiler, kendi namına hak edinebilen ve borçlanabilen insanlardır; her insan hak ehliyetine sahiptir, fiil ehliyeti ise ayırt etme gücüne sahip ve kısıtlı olmayan erginlerde bulunur. Tüzel kişiler, insanların ortak amaçlar için bir araya gelerek oluşturduğu, kendi kişiliklerinden ayrı ve bağımsız örgüt veya mal topluluklarıdır (örneğin dernek, vakıf, şirket); amacı hukuka veya ahlaka aykırı olan topluluklar tüzel kişilik kazanamaz.",
-              "Spor alanında sporcular, antrenörler ve yöneticiler gerçek kişi; spor kulüpleri (dernekler), vakıflar, şirketler, federasyonlar ve konfederasyonlar ise tüzel kişi olarak kabul edilir. Örneğin bir kulüp başkanının kendi kişiliği gerçek kişiliktir, ancak yönettiği kulüp/şirket/federasyon ondan ayrı bir tüzel kişiliktir. Spor kulüplerinin tüzel kişilik kazanması 5253 sayılı Dernekler Kanunu'na dayanır.",
-              "Hak, kişilere hukuk düzeni ve kanunlar kapsamında tanınan yetkilerdir; bir yetkinin hak sayılabilmesi için hukuk düzeni tarafından tanınması gerekir. Haklar, kamu hakları ve özel haklar olarak ikiye ayrılır: kamu hakları kişiler ile devlet arasındaki ilişkileri (Anayasa'da kişi hakları ve ödevleri, sosyal ve ekonomik haklar, siyasi haklar başlıkları altında) düzenlerken; özel haklar kişiler arasındaki ilişkileri düzenler. Anayasa'nın 58. ve 59. maddeleri, gençliğin korunması ve sporun geliştirilmesini birer sosyal-ekonomik hak olarak güvence altına almaktadır."
+            "heading": "Kişi ve Hak Kavramları",
+            "emoji": "🪪",
+            "bullets": [
+              "Kişiler **gerçek kişiler** ve **tüzel kişiler** olmak üzere ikiye ayrılır (Türk Medeni Kanunu).",
+              "Gerçek kişi, kendi namına hak edinebilen insandır; herkes **hak ehliyeti**ne sahiptir, **fiil ehliyeti** ise ayırt etme gücü olan ve kısıtlı olmayan erginlerde bulunur.",
+              "Tüzel kişi, insanların ortak amaçla oluşturduğu, kendi kişiliğinden ayrı örgüt/mal topluluğudur (dernek, vakıf, şirket gibi); amacı hukuka/ahlaka aykırı topluluklar tüzel kişilik kazanamaz.",
+              "Spor alanında **sporcular, antrenörler ve yöneticiler gerçek kişi**dir; **spor kulüpleri, vakıflar, şirketler, federasyonlar ve konfederasyonlar tüzel kişi**dir.",
+              "Spor kulüplerinin tüzel kişiliği **5253 sayılı Dernekler Kanunu**'na dayanır.",
+              "**Hak**, hukuk düzeninin kişilere tanıdığı yetkidir; **kamu hakları** (kişi-devlet ilişkisi) ve **özel haklar** (kişiler arası ilişki) olarak ikiye ayrılır.",
+              "Anayasa'nın **58. ve 59. maddeleri**, gençliğin korunmasını ve sporun geliştirilmesini sosyal-ekonomik hak olarak güvence altına alır."
             ]
           },
           {
-            "heading": "Spor ve Hukuk İlişkisi: Spor Hukuku Kavramı ve Özellikleri",
-            "paragraphs": [
-              "Spor, hareket etme ihtiyacına dayalı, kurallara bağlı, sosyalleşme ve meslekleşme imkânı sunan bir aktivitedir; aynı zamanda yönetim bilimi, iktisat, muhasebe, pazarlama, uluslararası ilişkiler ve hukuk gibi disiplinlerle yakından ilişkili bir alandır. Sporun farklı kültür ve milletlerden insanları bir araya getiren platform niteliği, hak ve menfaatlerin korunması için hukuka olan ihtiyacı doğurmuştur. Bu ihtiyaç, hukuk metodolojisinin spor alanına uygulanmasıyla spor hukuku adlı ayrı bir çalışma alanının doğmasına yol açmıştır.",
-              "Spor hukuku, hukukun sunduğu emir, yasak ve yaptırımlarla sporun her alanındaki sorunlara çözüm üreten, sporda adalet ve eşitliği güçlendirerek paydaşların hak ve menfaatlerini koruyan, ulusal ve uluslararası spor örgütlerinin kuruluş, görev, yetki ve işleyişini belirleyen bir bilim dalıdır. Güç ve otorite kaynakları bakımından hem kamu hukukundan hem özel hukuktan beslendiği için karma hukuk dalı olarak sınıflandırılır. Spor hukuku ile spor yönetimi arasında güçlü bir bağ vardır; spor hukuku, plan-program-politika oluşturma, örgütlenme esaslarını belirleme, paydaşlar arası denge kurma ve yönetim kararlarını alma gibi işlevlerde yönetim fonksiyonlarından faydalanır.",
-              "Spor hukukunun süjeleri (paydaşları) gerçek kişi süjeler (antrenörler, teknik direktörler, sporcular, spor yöneticileri, hakemler, gözlemciler, il temsilcileri, seyirciler) ve tüzel kişi süjeler (spor kulüpleri, spor federasyonları, spor eğitimi veren yükseköğretim kurumları, Gençlik ve Spor Bakanlığı, konfederasyonlar, tahkim kurulları gibi) olmak üzere ikiye ayrılır. Spor hukukunun ele aldığı konular arasında spor örgütlerinin kuruluş ve tescili, spor politikaları, şike-doping-ırkçılık gibi disiplin konuları, sporcu transfer ve sözleşme esasları, tahkim ve uyuşmazlık çözümü ile spor tesislerine ilişkin teknik esaslar sayılabilir. Spor hukuku, Olimpiyat Oyunları gibi devasa organizasyonlardan küçük ölçekli yapılara kadar geniş bir alanda adalet, fırsat eşitliği ve fair-play ilkelerinin korunmasını sağlar."
+            "heading": "Spor Hukuku Nedir?",
+            "emoji": "🏅",
+            "bullets": [
+              "**Spor**, hareket ihtiyacına dayalı, kurallı, sosyalleşme ve meslekleşme sağlayan; yönetim, iktisat, pazarlama, uluslararası ilişkiler ve hukukla iç içe bir alandır.",
+              "Farklı kültürlerden insanları bir araya getirmesi, hak ve menfaatlerin korunması için hukuka duyulan ihtiyacı doğurur; böylece **spor hukuku** ayrı bir alan olarak ortaya çıkar.",
+              "**Spor hukuku**, sporun sorunlarına hukuki çözüm üreten, adalet ve eşitliği güçlendiren, spor örgütlerinin kuruluş-görev-yetkisini belirleyen bilim dalıdır.",
+              "Hem kamu hem özel hukuktan beslendiği için **karma hukuk dalı** sayılır; spor yönetimiyle de güçlü bir bağı vardır (plan, örgütlenme, denge kurma, karar alma).",
+              "**Gerçek kişi süjeler**: antrenörler, teknik direktörler, sporcular, spor yöneticileri, hakemler, gözlemciler, il temsilcileri, seyirciler.",
+              "**Tüzel kişi süjeler**: spor kulüpleri, spor federasyonları, spor eğitimi veren yükseköğretim kurumları, **Gençlik ve Spor Bakanlığı**, konfederasyonlar, tahkim kurulları.",
+              "Konu başlıkları: örgüt kuruluşu/tescili, spor politikaları, şike-doping-ırkçılık gibi disiplin konuları, transfer/sözleşme, tahkim ve uyuşmazlık çözümü, tesislerin teknik esasları — hepsinde adalet, fırsat eşitliği ve fair-play korunur."
             ]
           }
         ],
@@ -25613,51 +26311,78 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Antrenörlük Mesleğinin Tarihsel Gelişimi",
-            "paragraphs": [
-              "Antrenörlük mesleği, sporun toplum içindeki varlığıyla paralel bir tarihsel gelişim göstermiştir. Toplumların değişen ihtiyaçları sporun amacını, buna bağlı olarak da antrenörlüğün kapsamını zaman içinde şekillendirmiştir. Antik çağlarda sporun temel amacı avcılık ve savaşa hazırlıktı; bu dönemde antrenörlerin varlığından söz edilse de, antrenörlük mesleğinin tarihsel gelişimini bütünlüklü olarak inceleyen araştırmalar küresel düzeyde sınırlıdır ve genellikle ülkelerin ulusal düzeyde yaptığı çalışmalarla sınırlı kalmıştır.",
-              "\"Coaching\" kelimesi aslında eğitim alanında bir kişiyi yetiştiren, ona bir şeyi öğreten özel öğretmen anlamına gelirken, 19. yüzyılda sanayileşme ve şehirleşmenin gelişimiyle birlikte modern sporun içine girerek antrenörlük mesleğini tanımlamaya başlamıştır. İngiltere'de bu dönemde antrenörlük, üst zümrenin ince beceri gerektiren sporları (örn. kriket, kürek) için sunulan bir imkândı; alt zümrenin daha çok fiziksel güce dayanan sporlarını (örn. boks, yürüyüş) öğretenlere ise \"çalıştırıcı\" (trainer) denirdi. Günümüzde bu ayrım ortadan kalkmış, \"antrenör\" ve \"çalıştırıcı\" kavramları aynı anlamda kullanılmaya başlamıştır.",
-              "Zamanla spor ortamlarının çeşitlenmesi antrenörlerin görev ve sorumluluklarını da genişletmiştir; antrenörlerden eğitimcilik, spor psikologluğu ve yöneticilik gibi yeni roller üstlenmeleri beklenmeye başlamıştır. Bugün antrenörlük, yalnızca sporcunun atletik performansından değil bütünsel gelişiminden de sorumlu, yüksek etkileşim gerektiren, organize ve sosyal bir meslek haline gelmiştir."
+            "heading": "Antrenörlüğün Tarihçesi",
+            "emoji": "📜",
+            "bullets": [
+              "Antrenörlük mesleği, sporun toplumdaki yeriyle birlikte gelişti; en eski sporların amacı avcılık ve savaşa hazırlıktı.",
+              "\"**Coaching**\" kelimesi aslında eğitimde özel ders veren öğretmen anlamına gelirken, 19. yüzyılda sanayileşme ve şehirleşmeyle modern sporun parçası oldu.",
+              "İngiltere'de üst zümrenin ince beceri sporlarına (kriket, kürek) **antrenörlük** denirken, güç sporlarına (boks, yürüyüş) öğretenlere **çalıştırıcı** (trainer) denirdi.",
+              "Günümüzde bu ayrım kalktı: **antrenör** ve **çalıştırıcı** artık aynı anlamda kullanılıyor.",
+              "Spor ortamları çeşitlenince antrenörlerin görevleri de genişledi; eğitimcilik, spor psikologluğu ve yöneticilik gibi roller üstlenmeye başladılar.",
+              "Bugün antrenörlük, sporcunun sadece performansından değil **bütünsel gelişiminden** sorumlu, sosyal ve organize bir meslek. 💪"
             ]
           },
           {
-            "heading": "Antrenörlük Mesleğinin Kapsamı",
-            "paragraphs": [
-              "Antrenörlük mesleğinin kapsamı, ulusal spor federasyonlarının belirlediği kurallar ve her sporun oyun formları/yarışma statüleri çerçevesinde şekillenir. Antrenörler bu kapsam dahilinde, bağlı oldukları organizasyon, federasyon, kulüp veya okulun sporcularını yetiştirir ve spor ortamının en merkezi öneme sahip paydaşı olarak kabul edilir.",
-              "Antrenörler çalışma biçimlerine göre üçe ayrılır. Gönüllü antrenörler hiçbir ücret almaksızın, genellikle sporcuların yakınları, ebeveynleri, arkadaşları veya göreceli spor deneyimine sahip kişiler olarak antrenörlük yapan bireylerdir. Kısmi zamanlı antrenörler, sahip oldukları başka bir mesleğin yanında bir kişiye veya gruba ücret karşılığında antrenörlük yapan bireylerdir. Ücretli antrenörler ise antrenörlüğü profesyonel bir meslek olarak icra eder; işe alımları ve görev tanımları önceden hazırlanmış bir prosedüre göre yapılır. Çalışma biçimleri farklı olsa da, tüm antrenörlerin birbiriyle hiyerarşik olmayan, işlevsel bir etkileşim içinde olması gerekir."
+            "heading": "Antrenörlüğün Kapsamı",
+            "emoji": "📋",
+            "bullets": [
+              "Antrenörlüğün kapsamını, bağlı olunan federasyon ya da kulübün kuralları ve o sporun yarışma formatı belirler.",
+              "Antrenör, spor ortamının **en merkezi paydaşıdır** — sporcuları doğrudan yetiştiren kişidir.",
+              "**Gönüllü antrenörler** ücret almadan çalışır; genelde sporcunun ailesi, arkadaşları ya da tecrübeli yakınlarıdır.",
+              "**Kısmi zamanlı antrenörler**, başka bir işin yanında ücret karşılığı antrenörlük yapar.",
+              "**Ücretli antrenörler** işi profesyonel bir meslek olarak yapar; işe alım ve görev tanımları önceden belirlenmiş prosedürlere göre yapılır.",
+              "Çalışma biçimleri farklı olsa da tüm antrenörler birbiriyle hiyerarşik değil, **işlevsel** bir ilişki içinde olmalı."
             ]
           },
           {
-            "heading": "Antrenörlüğün Amaçları (5C)",
-            "paragraphs": [
-              "Antrenörlüğün temel amacı, antrenmanlar yoluyla sporcuların spora özgü hareket ve teknik becerilerini geliştirmek ve onları yarışmalara hazırlamaktır. Ancak günümüzde antrenörlerin sporcuların sadece teknik becerilerini değil, bütünsel gelişimini de hedeflemesi gerektiği kabul edilmektedir.",
-              "Bu bütünsel gelişim beş temel kazanım etrafında tanımlanır: Yetkinlik (competence) sporcunun yaptığı spordaki teknik-taktik becerilerine, performans gelişimine ve spora özgü fiziksel uygunluğa sahip olma durumudur. Özgüven (confidence) sporcunun bulunduğu ve gelecekte bulunacağı ortamlarda başarılı olabileceğine yönelik olumlu öz değer hissidir. Bağ kurma (connection) sporcunun antrenörü, akranları ve ailesiyle olumlu bağlar kurarak güven hissi kazanmasıdır. Karakter (character) saygı ve ahlak duygusuyla doğru ile yanlışı ayırt etme, doğru bildiğini ifade etme ve eylemlerinin sorumluluğunu üstlenme becerisidir. Umursama-umursanma (caring) ise sporcunun akranlarına ve diğer paydaşlara yönelik empati geliştirmesidir; bunun için dinleme ve anlama becerilerinin geliştirilmesi gerekir.",
-              "Antrenörler bu amaçları sporcularının gelişim durumuna ve ihtiyaçlarına göre belirlemekten sorumludur. Ayrıca belirledikleri amaçları sporcular ve diğer paydaşlara açık ve anlaşılır biçimde ifade etmeli, onların bu amaçlar etrafında organize olmuş şekilde hareket etmesini sağlamalıdır; böylece sporcuların bütünsel gelişimine yönelik amaçlara ulaşmak mümkün olur."
+            "heading": "Antrenörlüğün 5 Hedefi (5C)",
+            "emoji": "🎯",
+            "bullets": [
+              "Antrenörlüğün temel hedefi sporcuyu teknik olarak geliştirip yarışmaya hazırlamaktır; ama günümüzde hedef sporcunun **bütünsel gelişimi**dir.",
+              "Bu bütünsel gelişim 5 kazanım etrafında toplanır, kısaca **5C** denir.",
+              "**Yetkinlik (competence):** sporun teknik-taktik becerilerine ve fiziksel uygunluğa sahip olma. 🏋️",
+              "**Özgüven (confidence):** sporcunun başarılı olabileceğine dair olumlu öz değer hissi.",
+              "**Bağ kurma (connection):** antrenör, akran ve aileyle güvene dayalı olumlu ilişkiler kurma.",
+              "**Karakter (character):** doğru ile yanlışı ayırt etme, dürüstlük ve sorumluluk alma.",
+              "**Umursama (caring):** akranlara ve diğer paydaşlara empati geliştirme; dinleme ve anlama becerisi."
             ]
           },
           {
-            "heading": "Spora Katılım Süreçleri",
-            "paragraphs": [
-              "Spora katılım süreçlerini açıklayan ilk model piramit sistemidir. Bu modele göre birey spora en yoğun şekilde okul sporu ve okul beden eğitimiyle başlar; bunu sırasıyla yerel yarışmalar, bölgesel şampiyonalar ve ulusal şampiyonalar izler, piramidin en tepesinde ise elit yarışmalar yer alır. Sporcu başarı gösterdikçe piramitte bir üst basamağa ilerlerken, her basamakta sporcu sayısı tabandan tepeye doğru azalır.",
-              "Piramit modeli birçok yönden eleştirilmiştir: her basamakta sporcu sayısının azalması ve üst basamağa geçemeyen sporcuların spordan uzaklaşması, bireyi yalnızca beceri ve performans ilerlemesine göre değerlendirmesi, ve bağıl yaş etkisine açık olması (aynı yaş grubunda ayca büyük olan çocukların daha nitelikli antrenman ortamlarına seçilerek avantaj sağlaması).",
-              "Bu eleştirilere alternatif olarak spor ortamları \"katılım sporu\" (participation sport) ve \"performans sporu\" (performance sport) olmak üzere iki temel yapıda tanımlanmıştır. Katılım sporu ortamı, bireyin kişisel hedefleri (eğlenmek, beceri geliştirmek, sağlıklı yaşam alışkanlığı kazanmak vb.) önceliğinde, asıl amacın yarışmak ve kazanmak olmadığı ortamları ifade eder. Performans sporu ortamı ise bireyin sportif kapasitesini geliştirmeyi, bunu performans normlarıyla karşılaştırmayı ve yarışmalarda yüksek performans göstermeyi amaçlayan ortamları ifade eder.",
-              "Katılım sporu ortamı çocuklar (spora başlama yaşından ~12 yaşına kadar), ergenler (12 yaştan yetişkinliğe kadar) ve yetişkinler (ergenlik sonrası) olmak üzere üç gruptan oluşur. Performans sporu ortamı ise gelişmekte olan sporcu, performans sporcusu ve yüksek performans sporcusu gruplarından oluşur. Bireyler ilgi, beceri ve olanaklarına göre bu ortamlar arasında geçiş yapabilir; bu geçiş doğrusal bir yapıda değildir, ancak katılım sporu ortamlarında yaş ilerledikçe katılımın azalan bir eğilim gösterdiği, bu azalışın performans sporu ortamında daha hızlı gözlendiği belirtilir."
+            "heading": "Spora Katılım Yolları",
+            "emoji": "🪜",
+            "bullets": [
+              "Piramit modeline göre birey spora **okul sporu/beden eğitimiyle** başlar; sırayla yerel, bölgesel, ulusal şampiyonalara, en tepede **elit yarışmalara** çıkar — her basamakta sporcu sayısı azalır.",
+              "Piramit modeli eleştirilir: üst basamağa çıkamayanlar spordan uzaklaşır, bireyi sadece performansa göre değerlendirir ve **bağıl yaş etkisine** açıktır (yaşça büyük çocuklar avantajlı seçilir).",
+              "Alternatif olarak spor ortamları ikiye ayrılır: **katılım sporu** (kazanmak asıl amaç değil; eğlenmek, beceri kazanmak gibi kişisel hedefler öncelikli) ve **performans sporu** (kapasiteyi geliştirip yarışmada üst düzey performans göstermek amaçlı).",
+              "Katılım sporu üç yaş grubundan oluşur: **çocuklar** (başlangıçtan ~12 yaşa), **ergenler** (12 yaştan yetişkinliğe) ve **yetişkinler** (ergenlik sonrası).",
+              "Performans sporu da üç gruptan oluşur: **gelişmekte olan sporcu**, **performans sporcusu** ve **yüksek performans sporcusu**.",
+              "Geçişler doğrusal değildir; ama yaş ilerledikçe katılım sporunda ilgi azalır, bu azalma performans sporunda daha da hızlıdır."
             ]
           },
           {
-            "heading": "Spor Ortamlarına Göre Antrenörlük",
-            "paragraphs": [
-              "Katılım ve performans sporu ortamlarındaki antrenörlerin özellikleri birbirinden farklılaşır. Katılım sporu antrenörlüğünde yarışma performansına odaklanma yoktur; antrenman sıklığı az olduğundan antrenmanlar bireyin ihtiyaçlarına yönelik, uzun süreli olmayan bölümler halinde tasarlanır. Çocuklara yönelik katılım sporu antrenörlüğünde (6-12 yaş) odak nokta eğlence, temel hareket gelişimi (koşma, sıçrama, nesne kontrolü vb.) ve sosyal yeterliliklerin kazanılmasıdır; haftalık antrenman etkinlikleri dört saati aşmamalıdır. Ergen ve yetişkin katılım sporu antrenörlüğünde ise spor becerisinin yeterli düzeyde öğretilmesi biraz daha önem kazanır, ancak yarışmaya aşırı önem verilmemesi ve katılımcılarda kaygı/stres oluşturulmaması gerekir.",
-              "Performans sporu antrenörliği üç aşamada ele alınır. Gelişmekte olan sporcu aşamasında (13-15 yaş), antrenmanlarda \"amaçlı oyun\" (Deliberate Play: eğlenmek amaçlı, kuralların katılımcıların isteğine göre esnetildiği, yetişkin etkisinin az olduğu etkinlikler) ile \"amaçlı alıştırma\" (Deliberate Practice: beceri ve performans gelişimini doğrudan hedefleyen etkinlikler) eşit oranda yer alır. Performans dönemi antrenörlüğünde amaçlı alıştırma etkinlikleri ön plana çıkar, fakat amaçlı oyuna da mutlaka yer verilir; antrenörler sporculara aşamalı olarak zorlaşan yarışma fırsatları sunar ve sporcu seçimi gibi kritik kararlar alır. Yüksek performans döneminde ise amaçlı oyun etkinlikleri tamamen ortadan kalkar; odak noktası performansı geliştirmek/korumak ve yarışma başarısıdır, antrenörler sporcuların dışsal motivasyonunu (örn. maç kazanma), sosyal desteğini ve öz yeterliliğini destekleyici bir yönetim biçimi geliştirir."
+            "heading": "Her Ortamın Kendi Antrenörlüğü",
+            "emoji": "🏃",
+            "bullets": [
+              "Katılım sporu antrenörlüğünde yarışma performansına odaklanılmaz; antrenmanlar seyrek, kısa ve bireyin ihtiyacına göre planlanır.",
+              "**Çocuk katılım sporu** (6-12 yaş) antrenörlüğünde odak **eğlence**, temel hareket gelişimi (koşma, sıçrama, nesne kontrolü) ve sosyal beceridir; haftalık antrenman **4 saati aşmamalı**.",
+              "**Ergen ve yetişkin katılım sporu** antrenörlüğünde beceri öğretimi biraz daha önemlidir, ama yarışmaya aşırı önem verilmez ve kaygı yaratılmaz.",
+              "Performans sporu antrenörliği üç aşamadan oluşur: **gelişmekte olan sporcu** (13-15 yaş), **performans dönemi** ve **yüksek performans dönemi**.",
+              "Gelişmekte olan sporcu döneminde **amaçlı oyun** (eğlence amaçlı, kurallar esnek, az yetişkin etkisi) ile **amaçlı alıştırma** (beceri/performans odaklı) eşit oranda yer alır.",
+              "Performans döneminde amaçlı alıştırma ön plana çıkar ama amaçlı oyun da sürer; antrenör kademeli zorlaşan yarışmalar sunar ve sporcu seçimi gibi kritik kararlar alır.",
+              "**Yüksek performans döneminde** amaçlı oyun tamamen biter; odak performansı geliştirmek/korumak ve yarışma başarısıdır, antrenör motivasyon ve öz yeterliliği destekler. 🏆"
             ]
           },
           {
-            "heading": "Spor Ortamlarının Paydaşları",
-            "paragraphs": [
-              "Spor ortamlarının temel paydaşları yönetici, antrenör, sporcu ve küçük yaş gruplarında ayrıca ebeveynlerdir. Paydaşlar arasındaki olumlu etkileşim, etkili bir öğrenme-öğretme ortamı oluşturulmasını sağlar ve sporcunun gelişimini destekler.",
-              "Antrenör-sporcu bağı, karşılıklı olarak bilgilerin ve duyguların paylaşılarak nedensel olarak birbirini anlama olarak tanımlanır. Bu bağı güçlendiren temel stratejiler; sporcularla etkili iletişim kurmak, güven oluşturmak, pozitif destek sağlamak, gerçek ilgi ve samimiyet göstermek ve sporcular tarafından ulaşılabilir olmaktır. Bu stratejiler sayesinde sporcular kendilerini değerli hisseder, antrenörlerine lider ve danışman olarak güvenir.",
-              "Ebeveynler, özellikle küçük yaş grubu sporcuların gelişiminde önemli bir paydaştır; rol model olma, bireyin yetkinliklerine yönelik kestirimde bulunma ve deneyim sağlayıcı (cesaretlendirici, destekleyici) olma rolleriyle etkilidir. Destekleyici ve az baskıcı ebeveyn davranışları sporcuların yetkinlik farkındalığını, spora bağlılığını ve içsel motivasyonunu artırırken; çocuğun başarı/başarısızlığını kişisel olarak algılayıp kendisiyle özdeşleştiren aşırı müdahaleci ebeveynlik, sporcu-ebeveyn arasında kızgınlık ve olumsuz baskı gibi istenmeyen sonuçlara yol açabilir.",
-              "Antrenör-ebeveyn ilişkisini güçlendirmek için antrenörlerin; ebeveynleri spor hakkında bilgilendirmesi, ebeveyn davranışları için kurallar belirlemesi, ebeveynlerle iki yönlü iletişim kurması, ebeveynlere olumlu davranış geliştirmeleri için eğitim vermesi ve periyodik toplantılar düzenlemesi önerilir. Bu stratejiler, çocuğun bütünsel gelişimine katkı sağlayan tutarlı bir antrenör-ebeveyn işbirliği oluşturur."
+            "heading": "Spor Ortamının Oyuncuları",
+            "emoji": "🤝",
+            "bullets": [
+              "Spor ortamının temel paydaşları **yönetici, antrenör, sporcu** ve küçük yaş gruplarında **ebeveynlerdir**; aralarındaki olumlu etkileşim gelişimi destekler.",
+              "**Antrenör-sporcu bağı**, bilgi ve duyguların paylaşılarak birbirini anlama halidir.",
+              "Bu bağı güçlendiren stratejiler: etkili iletişim, güven oluşturma, pozitif destek, gerçek ilgi/samimiyet ve sporcu tarafından **ulaşılabilir olmak**.",
+              "Bu sayede sporcular kendini değerli hisseder ve antrenörüne lider/danışman olarak güvenir.",
+              "**Ebeveynler**, özellikle küçük yaşta, rol model olma, yetkinlik kestirimi ve destekleyici deneyim sağlama rolleriyle etkilidir.",
+              "Destekleyici, az baskıcı ebeveynlik yetkinlik farkındalığını ve içsel motivasyonu artırır; çocuğun başarı/başarısızlığını **kişisel olarak algılayan** aşırı müdahaleci ebeveynlik ise kızgınlık ve baskıya yol açar.",
+              "Antrenör-ebeveyn ilişkisini güçlendirmek için: bilgilendirme, davranış kuralları belirleme, **iki yönlü iletişim**, eğitim verme ve **periyodik toplantılar** önerilir."
             ]
           }
         ],
@@ -25885,52 +26610,81 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Beceri Öğrenimi Alanı ve Motor Davranış Bilimleri",
-            "paragraphs": [
-              "İnsan hareketlerinin en optimum düzeyde nasıl ortaya konabileceğini inceleyen bilim alanlarından biri motor davranıştır. Motor davranış alanı birbiriyle ilişkili üç alt alanın birleşiminden oluşur: Motor Öğrenme, Motor Gelişim ve Motor Kontrol. Ülkemizde motor öğrenme alanına genel olarak \"Beceri Öğrenimi\" denilirken, motor gelişim alanı için \"Psikomotor Gelişim\" ifadesi kullanılır.",
-              "Beceri Öğrenimi (Motor Öğrenme), alıştırma ve deneyim sonucu harekette meydana gelen değişiklikleri; yani hareketlerin ne şekilde kazanıldığını, öğrenildiğini inceler. Bu alan öğrenmeyi hızlandıran/artıran veya yavaşlatan/gerileten etkenleri araştırır ve bir hareketi sergilerken gerekli olan algı, dikkat ve karar verme gibi süreçleri incelediği için psikoloji alanından yoğun şekilde yararlanır. Önemli bir ayrım: sporcuda gelişim, büyüme veya enerji sistemlerinin antrenman sonucu gelişmesiyle oluşan değişimler beceri öğrenimi kapsamında değerlendirilmez.",
-              "Motor Gelişim (Psikomotor Gelişim), hareketlerin çocukluk döneminde nasıl ve neden geliştiğini, yaşla birlikte nasıl gerilediğini inceler; gelişim yaşa bağlı olarak pozitif olabileceği gibi yaşlılıkla birlikte bir kayıp anlamına da gelebilir. Motor Kontrol ise hareketlerin merkezi sinir sistemi tarafından kas ve eklem hareketleri üzerinden nasıl organize edildiğini inceleyen, biyomekanik alanıyla yakın bilgi alışverişi içinde olan teorik temelli bir alandır. Bir antrenörün sporcularının hareket ve becerilerini geliştirebilmesi için bu üç alanın temel kavramlarını bilmesi gerekir."
+            "heading": "Motor Davranış Bilimi: Üç Kardeş Alan",
+            "emoji": "🧠",
+            "bullets": [
+              "**Motor Davranış**, insan hareketlerinin en iyi nasıl yapılacağını inceleyen bilim alanıdır ve üç alt alandan oluşur.",
+              "Bu üç alan: **Motor Öğrenme** (ülkemizde \"Beceri Öğrenimi\"), **Motor Gelişim** (\"Psikomotor Gelişim\") ve **Motor Kontrol**.",
+              "**Beceri Öğrenimi**, alıştırma ve deneyim sonucu harekette oluşan değişiklikleri inceler; algı, dikkat ve karar verme gibi süreçlerden yararlanır.",
+              "Sporcunun büyüme veya enerji sistemlerinin antrenmanla gelişmesi beceri öğrenimi kapsamına girmez.",
+              "**Motor Gelişim**, hareketlerin çocuklukta nasıl geliştiğini ve yaşla nasıl gerilediğini inceler.",
+              "**Motor Kontrol**, hareketlerin merkezi sinir sistemi tarafından kas ve eklemler üzerinden nasıl organize edildiğini inceler; biyomekanikle bağlantılıdır.",
+              "İyi bir antrenör olmak için bu üç alanın temellerini bilmek gerekir 💪."
             ]
           },
           {
-            "heading": "Öğrenme – Performans İlişkisi",
-            "paragraphs": [
-              "Beceri öğrenimi alanının anlaşılması için öncelikle öğrenme kavramının dört temel özelliği bilinmelidir: (1) Öğrenme bir süreçtir, zaman içinde gelişir; (2) öğrenme alıştırma/pratik yapmanın ve/veya deneyimin sonucunda oluşur; (3) öğrenme, kapasitede oluşan veya oluştuğu varsayılan göreceli kalıcı değişimlerdir; (4) öğrenme doğrudan gözlemlenemez, performans üzerinden çıkarım yapılması gerekir.",
-              "Performans ise genel olarak bir eylem, \"beceriyi uygulama eylemi\" olarak tanımlanır. Performans kalıcı değildir ve çok çeşitli etkenlere bağlı olarak değişebilir: yorgunluk, hastalık veya dikkatsizlik performansta azalmaya; yüksek motivasyon, şans veya takviye besinler ise artışa yol açabilir. Bu nedenle performans ile ölçülen eylem, bazen kalıcı olduğu varsayılan öğrenmeden farklılık gösterebilir; bir antrenman seansı sonrası yapılan test genellikle o anki performansı yansıtır, gerçek öğrenmeyi ölçmek için ölçümün bir süre sonra (saat, gün veya hafta) yapılması gerekir.",
-              "Özetle: bireyin alıştırma ve deneyim sonucu motor becerileri uygulama yeterliliğinde ortaya çıkan göreli ve kalıcı davranış değişikliğine öğrenme denir; performans ise bu öğrenmenin dışa vurulan, değişken ve geçici göstergesidir."
+            "heading": "Öğrenme mi, Performans mı?",
+            "emoji": "📈",
+            "bullets": [
+              "**Öğrenme**, zamanla gelişen bir **süreç**tir.",
+              "Alıştırma ve/veya deneyimin sonucunda oluşur.",
+              "Kapasitede meydana gelen göreceli ve **kalıcı** bir değişikliktir.",
+              "Doğrudan gözlemlenemez; sadece **performans** üzerinden çıkarım yapılabilir — bu dördü öğrenmenin temel özellikleridir.",
+              "**Performans**, \"beceriyi uygulama eylemi\"dir ve kalıcı değildir.",
+              "Yorgunluk, hastalık veya dikkatsizlik performansı düşürür; yüksek motivasyon veya şans ise artırabilir.",
+              "Gerçek öğrenmeyi ölçmek için test, antrenmandan bir süre (saat/gün/hafta) sonra yapılmalıdır."
             ]
           },
           {
-            "heading": "Beceri Sınıflaması: Tanım ve Tek Boyutlu Sınıflama",
-            "paragraphs": [
-              "Guthrie (1952)'ye göre beceri, \"belirli bir sonuca maksimum kesinlik ve minimum enerji ve/veya zaman harcayarak ulaşma yeteneği\"dir. Bir hareketin beceri sayılabilmesi için ulaşılması gereken bir hedef veya amaç olmalıdır; amaç yoksa o eylem sadece \"hareket\" olarak adlandırılır. Spor bilimleri alanında bu kavram \"Motor Beceri\" olarak ele alınır: bir amaca yönelik olarak yapılan ve öğrenilmesi gereken istemli davranış veya göreve motor beceri denir. Motor beceriyi reflekslerden ayıran temel özellik istemli olmasıdır; reflekslerin çoğu iskelet kaslarıyla gerçekleştirilse de çok hızlı, programlanmış ve istemsizdir.",
-              "Motor becerilerin sayıca çok fazla olması, onları belirli özelliklere göre sınıflama ihtiyacını doğurmuştur. Tek boyutlu sınıflama, becerileri tek bir özelliğe göre dört farklı şekilde gruplandırır. Kullanılan kas büyüklüğüne göre beceriler büyük kas kitlesi (kaba) ve küçük kas kitlesi (ince) olarak ikiye ayrılır: kaba beceriler kesinliğin çok önemli olmadığı, büyük kas gruplarıyla yapılan hareketlerdir (yürüme, atlama); ince beceriler ise göz-el koordinasyonu ve yüksek kesinlik gerektiren hareketlerdir (resim yapmak, yazı yazmak, dikiş-nakış).",
-              "Hareketin başlama ve bitiş netliğine göre beceriler kesik, seri ve devamlı olmak üzere üçe ayrılır. Kesik beceri, başı ve sonu belli, genellikle kısa süreli hareketlerdir (top atma, topa vurma). Seri beceri, birçok kesik hareketin art arda birleşmesiyle oluşan karmaşık harekettir (araba vitesi değiştirmek, cimnastikte yer hareketleri). Devamlı beceri ise başı ve sonu tam olarak belli olmayan, dakikalarca sürebilen hareketlerdir (yüzme, bisiklet).",
-              "Çevrenin tahmin edilebilirlik düzeyine göre beceriler açık ve kapalı olarak ikiye ayrılır. Açık beceride çevresel şartlar değişkendir ve tahmin edilemez (kaleci için penaltı atışı, ormanlık alanda koşu); kapalı beceride çevresel şartlar sabittir ve tahmin edilebilir, kişi eylemden önce plan yapabilir (dart atışı, daktilo kullanımı). Son olarak motor ve bilişsel öğelerin önemine göre beceriler motor ve zihinsel olarak ikiye ayrılır: motor becerilerde başarıyı belirleyen temel unsur hareketin NASIL yapıldığıdır (ağırlık kaldırmak, yüksek atlama); zihinsel becerilerde ise başarıyı belirleyen unsur NE yapıldığıdır (satranç oynamak, antrenörlük)."
+            "heading": "Beceri Nedir? Tek Boyutlu Sınıflama",
+            "emoji": "🏃",
+            "bullets": [
+              "**Guthrie (1952)**'ye göre beceri, bir sonuca maksimum kesinlik ve minimum enerji/zamanla ulaşma yeteneğidir.",
+              "Bir hareketin beceri sayılması için bir **hedefi** olmalı; hedefsiz eylem sadece \"hareket\"tir.",
+              "**Motor Beceri**: bir amaca yönelik, öğrenilmesi gereken **istemli** davranıştır.",
+              "Reflekslerden farkı istemli olmasıdır; refleksler hızlı, programlanmış ve **istemsiz**dir.",
+              "Kas büyüklüğüne göre: **kaba beceri** (büyük kas, yürüme-atlama) ve **ince beceri** (küçük kas, yüksek kesinlik, yazı yazma).",
+              "Başlama-bitişe göre: **kesik beceri** (top atma), **seri beceri** (vites değiştirme) ve **devamlı beceri** (başı-sonu belirsiz, dakikalarca sürer: yüzme, bisiklet).",
+              "Çevreye göre **açık** (tahmin edilemez: penaltı) / **kapalı** (sabit: dart) beceri; öğelere göre **motor beceri** (nasıl yapıldığı önemli: halter) / **zihinsel beceri** (ne yapıldığı önemli: satranç)."
             ]
           },
           {
-            "heading": "Çok Boyutlu Beceri Sınıflaması",
-            "paragraphs": [
-              "Tek boyutlu sınıflamanın bazı becerileri tam olarak tanımlayamaması nedeniyle Gentile (2000) tarafından çok boyutlu sınıflama önerilmiştir. Bu sınıflama, motor becerilerin çevresel şartlardan, zorluktan ve kullanılan malzemelerden nasıl etkilendiğini daha iyi ifade etmeyi amaçlar ve iki ana boyuttan oluşur: Düzenleyici Şartlar ve Hareket Gereklilikleri.",
-              "Düzenleyici Şartlar, bir beceriyi başarıyla gerçekleştirmek için hareket özelliklerini belirleyen çevresel faktörleri tanımlar; alt boyutları çevre şartları (çevre sabit mi yoksa değişken mi?) ve denemeler (denemeler arası tepkilerde değişkenlik var mı?) dır. Hareket Gereklilikleri ise vücut hareketlerine ve nesne manipülasyonuna göre beceriyi yapabilmek için gerekli unsurları tanımlar; alt boyutları vücut hareketleri (uygulayıcının mekân değiştirmesi gerekiyor mu?) ve nesne manipülasyonu (bir cismi manipüle etmesi gerekiyor mu?) dır.",
-              "Her bir ana boyutun iki alt boyutu olması, motor becerilerin toplamda 16 farklı şekilde tanımlanmasına imkân verir (Tablo 2.1, Gentile 2000). Sınıflamanın en sol üst bölümü en basit hareketleri temsil ederken, sağa ve aşağı doğru ilerledikçe hareketler zorlaşır; en zor hareketler tablonun en alt sağ bölümünde yer alır. Bir sporcuya basit formdan başlayarak kademeli olarak zorlaştırma yapılmak isteniyorsa, alıştırma planlaması sol üst bölgeden başlayıp aşamalı olarak ilerletilmelidir."
+            "heading": "Gentile'nin Çok Boyutlu Haritası",
+            "emoji": "🗺️",
+            "bullets": [
+              "Tek boyutlu sınıflama yetersiz kalınca **Gentile (2000)** çok boyutlu sınıflamayı önerdi.",
+              "İki ana boyut: **Düzenleyici Şartlar** ve **Hareket Gereklilikleri**.",
+              "Düzenleyici Şartlar: çevre sabit mi değişken mi, denemeler arası tepki değişkenliği var mı?",
+              "Hareket Gereklilikleri: vücut yer değiştirmesi ve nesne manipülasyonu gerekiyor mu?",
+              "Bu boyutların alt dalları ile toplam **16 farklı** beceri tanımlanabilir.",
+              "En basit hareketler tablonun sol üstünde, en zor hareketler sağ altında yer alır.",
+              "Antrenman basitten zora, sol üstten başlanarak kademeli ilerletilmelidir 📈."
             ]
           },
           {
-            "heading": "Karar Vermeyi Etkileyen Faktörler: Reaksiyon Zamanı",
-            "paragraphs": [
-              "Motor becerilerin öğrenilmesi, kasların istenen biçimde, zamanda ve sürede kasılmasını gerektiren karmaşık bir süreçtir. Açık becerilerde olduğu gibi değişen çevre şartlarına uyum sağlayarak doğru ve hızlı karar verebilme kapasitesi de gereklidir. \"Algı\", bilgiye anlam yükleme işlevi olarak tanımlanır ve karar vermenin en önemli ve ilk unsurudur (örneğin bir kalecinin penaltı sırasında topun yönünü algılaması).",
-              "Uyaranın verilmesi ile tepkinin başlangıcı arasındaki süreye reaksiyon zamanı denir. Reaksiyon zamanı çalışmaları yalnızca sprint branşlarında olduğu gibi karar vermenin hızını göstermek için değil, aynı zamanda karar vermenin doğruluğunu (verimliliğini) anlamak için de yapılır: basit reaksiyon zamanı hızı gösterirken, çoklu/seçici reaksiyon zamanı aynı zamanda doğruluğu da gösterir. Birden fazla uyaran ve her bir uyaran için belirlenmiş ayrı bir tepki durumuna seçici reaksiyon zamanı denir (örneğin trafik ışığının farklı renklerine göre farklı tepki vermek gerekmesi).",
-              "Reaksiyon zamanını etkileyen etkenler arasında şunlar sayılır: uyaranların sayısının artması; uyarana cevap vermek için yapılacak hareketin karmaşıklığı; sezinleme (geçmiş deneyimlerin sınırlı olması nedeniyle uyaran verilmeden önce zamanlama ve mekân konusunda tahmin yapamamak); kısa aralıklarla ardı ardına uyarı niteliğinde verilen hareketlere tepki vermek zorunda kalmak (sporda aldatma gibi); ve daha önce alışılmış durumların tam tersi bir doğrultuda hareket etmek zorunda kalmak (örneğin Türkiye'de araba kullanmayı öğrenen birinin İngiltere'de araba kullanması). Bu durumların tersi, yani uyaran sayısının azlığı, basit hareketler ve tutarlı uyarı-tepki ilişkisi, hızlı ve doğru karar vermeye yol açar."
+            "heading": "Reaksiyon Zamanı: Ne Kadar Hızlı Karar Veriyorsun?",
+            "emoji": "⚡",
+            "bullets": [
+              "**Algı**, bilgiye anlam yükleme işlevidir ve karar vermenin ilk adımıdır (örn. kalecinin topun yönünü algılaması).",
+              "**Reaksiyon Zamanı**: uyaranın verilmesi ile tepkinin başlaması arasındaki süre.",
+              "**Basit reaksiyon zamanı** hızı gösterir; **seçici (çoklu) reaksiyon zamanı** hem hızı hem doğruluğu gösterir.",
+              "**Seçici reaksiyon zamanı**: birden fazla uyarana, her birine özel bir tepki vermektir (örn. trafik ışığının renklerine göre farklı tepki).",
+              "Reaksiyon zamanını uzatan etkenler: uyaran sayısının artması, hareketin karmaşıklığı, **sezinleme** yapamamak (geçmiş deneyim azlığı).",
+              "Kısa aralıklı ardışık uyaranlara tepki (sporda **aldatma**) ve alışılmışın tam tersi bir hareket (Türkiye'den İngiltere'ye araba kullanmaya geçmek gibi) de reaksiyonu yavaşlatır.",
+              "Az uyaran, basit hareket ve önceden bilgi vererek **sezinlemeyi** kolaylaştırmak reaksiyon zamanını azaltır 🏎️."
             ]
           },
           {
-            "heading": "Karar Vermeyi Etkileyen Faktörler: Dikkat ve Canlılık Düzeyi",
-            "paragraphs": [
-              "TDK'ye göre dikkat, \"duygularla düşünceyi bir şey üzerinde toplama\" olarak basitçe tanımlanır. Ders kitabındaki tanıma göre ise \"aynı anda birkaç nesneden veya düşünce silsilesinden birinin canlı, belirgin tarzda zihin tarafından alınmasına dikkat denir.\" Herhangi bir öğrenmenin gerçekleşebilmesi için dikkatin verilmesi gerekir; antrenörün anlattığı bir hareketi sporcunun dikkatle dinlememesi öğrenmeyi olumsuz etkiler.",
-              "Beceri öğreniminde dikkat kapasitesinin sınırlı olduğu bilinmelidir: çevre veya görevin zorluk derecesi arttıkça, o göreve ayrılan dikkat payı büyür ve dolayısıyla eşzamanlı yürütülecek başka bir işe ayrılabilecek dikkat kapasitesi azalır. Bu nedenle özellikle açık beceriler öğretilirken yeni başlayanlar için hareketler mümkün olduğunca basitleştirilmeli; açık beceriler önce kapalı hale getirilip hareket koordinasyonu sağlanmalı, ardından çevreyi algılama ve uyum sağlamaya yönelik alıştırmalara geçilmelidir. Deneyimsiz sporculardan tek seferde bir işte başarı beklenirken, kişi uzmanlaştıkça aynı anda birden fazla işi başarıyla yapabilir (örneğin basketbolda top sürerken hem topa hem rakibe dikkat edebilme).",
-              "Karar vermenin hızı ve doğruluğunu etkileyen diğer bir unsur canlılık düzeyidir; basitçe \"merkezi sinir sisteminin aktivasyonu\" olarak tanımlanır ve hem fizyolojik hem psikolojik süreçleri kapsar. Beceri öğrenimiyle ilişkisi bakımından Ters U Hipotezi önemlidir: canlılığın çok düşük veya çok yüksek olduğu durumlarda karar verme ve performans düşüktür; en üst düzey performans için öğrenilen/sergilenen becerinin türüne bağlı bir optimal canlılık seviyesi vardır. Küçük kas kitlesi gerektiren veya yüksek düzeyde karar verme içeren zihinsel becerilerde düşük optimal canlılık düzeyi; halter gibi karar verme süreçlerinin az olduğu büyük kas kitlesi becerilerinde yüksek optimal canlılık düzeyi gerekir. Canlılık düzeyi optimal noktaya kadar arttıkça performans artar, bu noktadan sonra devam eden artış performansı azaltır. Nitekim elit Muay-Thai sporcuları üzerinde yapılan bir araştırmada, yorgunluğun basit reaksiyon zamanını olumsuz etkilediği ancak seçenekli reaksiyon zamanının doğruluğunu anlamlı şekilde değiştirmediği bulunmuştur."
+            "heading": "Dikkat ve Canlılık Düzeyi",
+            "emoji": "👁️",
+            "bullets": [
+              "**Dikkat**: aynı anda birkaç nesne veya düşünceden birinin canlı ve belirgin şekilde zihin tarafından alınmasıdır.",
+              "Öğrenme için dikkat şarttır; antrenörü dikkatle dinlemeyen sporcu öğrenemez.",
+              "Dikkat kapasitesi **sınırlıdır**: bir görev zorlaştıkça ona ayrılan dikkat büyür, başka işe kalan dikkat **azalır**.",
+              "Yeni başlayanlara önce basit/kapalı hareketler öğretilmeli, sonra çevreye uyum alıştırmalarına geçilmelidir.",
+              "Sporcuya hareketi \"neden\" öğrendiğini açıklamak dikkatini toplamasına yardımcı olur 🎯.",
+              "**Canlılık Düzeyi**: merkezi sinir sisteminin aktivasyonudur; fizyolojik ve psikolojik süreçleri kapsar.",
+              "**Ters U Hipotezi**: çok düşük veya çok yüksek canlılıkta performans düşer; zihinsel becerilerde düşük, halter gibi büyük kas becerilerinde yüksek bir optimal canlılık seviyesi vardır."
             ]
           }
         ],
@@ -26162,72 +26916,108 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Hareket Eğitiminin Tanımı, Amacı ve Önemi",
-            "paragraphs": [
-              "İnsan, yaşamını sağlıklı ve nitelikli sürdürebilmek için her dönemde harekete gereksinim duyar. Çocuk okul çağına geldiğinde hareket ederek değişik hedeflere ulaşmayı denediği için hareket eğitimi; sağlık, dinçlik, eğlence, etkileme/etkilenme, estetik, biçimlenme, performans, kendine güven, macera, toplumsallık ve rekreasyon gibi birçok amaçla yapılır. Hareket eğitimi, insanın büyüme, gelişme ve davranış şekline göre seçilen aktivitelerin harekete dayalı olarak uygulandığı bir eğitim türüdür ve birinci derecede katkısı bedensel gelişim üzerinedir; bununla birlikte çocuğun duygusal, sosyal ve bilişsel gelişimine de katkıda bulunur.",
-              "Okul öncesi ve ilkokul dönemi düşünüldüğünde 6-9 yaş grubundaki çocuklar temel hareket becerileri, 10-11 yaşındaki çocuklar ise özelleşmiş hareket becerileri yoluyla bu amaçları gerçekleştirir. Temel hareket becerilerinin tam da bu dönemde (okul öncesi ve ilkokulda) ele alınmaya başlanmasının amacı, ortaokul ve lise çağlarında giderek önemi artan daha karmaşık oyun stratejileri ve taktikleri için bir altyapı oluşturmaktır.",
-              "Yapılan çalışmalar, temel hareket becerilerinin çocuklar tarafından zamanında ve doğru öğrenilmemesi durumunda ileriki yaşlarda hareket etme becerisinde yetersizlik yaşandığını ve bunun çocukların yaşam boyunca etkinliklere katılmaktan kaçınmasına yol açtığını göstermektedir. Hareket, her yaşta ve her öğrenme stiline sahip çocuk için iyi bir öğrenme aracıdır; insan çevresini hareketle algılar, dış dünyayı hareketle keşfeder ve hareket aynı zamanda toplumsal bir iletişim aracıdır."
+            "heading": "Hareket Eğitimi: Tanım, Amaç ve Önem",
+            "emoji": "🏃",
+            "bullets": [
+              "**Hareket eğitimi**, çocuğun gelişimine uygun hareket temelli bir eğitim türüdür; öncelikle bedensel gelişimi destekler ama duygusal-sosyal-bilişsel gelişime de katkı sağlar.",
+              "Amaçları arasında sağlık, dinçlik, eğlence, estetik, performans, **kendine güven**, macera, toplumsallık ve rekreasyon bulunur.",
+              "**6-9 yaş** grubu **temel hareket becerilerini**, **10-11 yaş** grubu ise **özelleşmiş hareket becerilerini** kullanarak bu hedeflere ulaşır.",
+              "Bu yüzden temel hareket becerileri **okul öncesi ve ilkokul döneminde** kazandırılır; bu dönem, ortaokul-lisede gelişen karmaşık oyun strateji ve taktiklerine altyapı oluşturur.",
+              "Beceriler zamanında ve doğru öğrenilmezse çocuk ileride etkinliklere katılmaktan kaçınabilir.",
+              "Hareket; çevreyi algılamanın, dünyayı keşfetmenin ve toplumsal iletişimin güçlü bir aracıdır."
             ]
           },
           {
-            "heading": "Hareket Eğitiminin Tarihçesi, Yaklaşımının Amaçları ve İlkeleri",
-            "paragraphs": [
-              "Hareket eğitimi alanında 1960'larda ve 1970'lerde Gilliom, Kirchner, Logsdon ve arkadaşları, Maulden ve Layson, Maulden ve Redfen, Russell ve Stanley gibi isimlerin öncülüğünde önemli bir gelişim yaşanmıştır. Rudolf Laban tarafından geliştirilen hareket eğitimi yaklaşımı; çocuğun problem çözme becerisini, bilişsel ve yaratıcı olarak katılımını, bilgiyi keşfetme-analiz etme-uygulama ve bireysel farklılıkları dikkate almayı içerir. Bu süreçte eğitimciler rehber ve yol gösterici konumundadır; Gilliom'un problem çözme ve keşfetme sürecine dayanan metodolojisi, çocukların kendi hareket problemlerini çözme yöntemlerini keşfetmelerini sağlar.",
-              "Yapılandırmacı anlayışın bir yansıması olan hareket eğitimi yaklaşımında çocukta kendine güven, problem çözme becerileri ve işbirlikli öğrenme becerilerinin geliştirilmesi önemlidir. Bu yaklaşımı kullanan eğiticilerin (1) çocukların keşfetmelerine yardımcı olup hareket deneyimleri yaratması, (2) çocukları hareket problemlerini tanımlamaya ve çözmeye teşvik etmesi ve (3) çocukları eşli veya grupla çalışmaları için uygun ortamlar sağlaması beklenir. Hareket eğitiminin özellikleri ise şöyle sıralanabilir: bireysel bir keşiftir, öğrenci merkezlidir, temelinde problem çözme bulunur, geleneksel beden eğitiminden daha az formal yapıdadır, motor becerilerin öğrenilmesini kolaylaştırır, çocuğa tatmin duygusu yaşatır, hareket analizini destekler, kolay bulunabilen ve ekonomik araç-gereç gerektirir ve gelişmeler belirli aralıklarla ölçülmelidir.",
-              "6-9 yaş dönemi, temel hareket becerilerinin en hassas dönemidir; bu dönemde hareket eğitimi uygulamalarında şu ilkelere dikkat edilmelidir: çok yönlü hareket eğitimiyle çoklu deneyim kazandırmak, her çocuğun becerisini geliştirebilmesi için yeterli etkinlik uygulamak, etkinlikleri önce eğlenceli kurgulamak, her çocuğun aktif katılımını sağlamak (gerekirse beceriyi grubun ihtiyacına göre yeniden şekillendirmek) ve güvenlik için uygulama alanı ile malzemeleri çocuklara uygun hâle getirmek (örneğin küçük hafif sünger topların kullanılması)."
+            "heading": "Hareket Eğitiminin Tarihçesi ve İlkeleri",
+            "emoji": "🧭",
+            "bullets": [
+              "Hareket eğitimi yaklaşımı **1960-70'lerde** Gilliom, Kirchner, Logsdon gibi isimlerce geliştirildi; **Rudolf Laban**'ın yaklaşımı problem çözmeyi, yaratıcı katılımı ve bireysel farklılıkları temel alır.",
+              "Eğitimci bu yaklaşımda bir **rehberdir**: çocukların keşfetmesine yardımcı olur, hareket problemlerini çözmelerini teşvik eder, eşli/grup çalışmalarına ortam hazırlar.",
+              "Yaklaşım **yapılandırmacı** bir anlayışa dayanır; çocukta özgüven, problem çözme ve işbirlikli öğrenme becerilerini geliştirmeyi hedefler.",
+              "Hareket eğitiminin özellikleri: **bireysel bir keşiftir**, **öğrenci merkezlidir**, temelinde **problem çözme** vardır, geleneksel beden eğitiminden **daha az formaldir**, **motor becerileri** kolaylaştırır, tatmin duygusu verir, hareket analizini destekler, ekonomik malzeme gerektirir ve ilerleme düzenli ölçülür.",
+              "**6-9 yaş** döneminde uygulanırken çok yönlü deneyim kazandırmak, yeterli etkinlik sunmak, önce eğlenceyi kurgulamak, herkesin aktif katılımını sağlamak ve güvenli malzeme (örneğin küçük sünger toplar) kullanmak ilke olarak benimsenir."
             ]
           },
           {
             "heading": "Temel Hareket Becerileri",
-            "paragraphs": [
-              "Temel hareket becerileri; oyunlarda, sporlarda, dansta ve fiziksel uygunluk aktivitelerinde kullanılan karmaşık ve özel motor becerilerin temelini oluşturan becerilerdir. Hareket eğitiminin içindeki iki temel unsurdan biri olan bu beceriler; çocuğun bir noktadan başka bir noktaya yer değiştirirken, vücut dengesini sağlarken veya herhangi bir nesneyi kontrol ederken gerekli olan hareketleri kapsar. Erken çocukluk döneminde ve ilkokulda öğrenilmesi gereken bu beceriler, istenilen seviyede öğrenildikten sonra yaşam boyu kullanılır.",
-              "Temel hareket becerileri, beceri temaları bakımından üçe ayrılır: yer değiştirme hareketleri (yürüme, koşma, atlama-sıçrama, adım al-sek, galop-kayma, yuvarlanma, tırmanma), dengeleme hareketleri (eğilme, esnetme, dönme, salınım, ağırlık aktarma, atlama-konma, başlama-durma, dinamik-statik denge, duruş-oturuş, itme, çekme) ve nesne kontrolü gerektiren hareketler (topa alıştırma, atma, tutma, yakalama, ayakla vurma, yuvarlama, durdurma-kontrol, top sürme, raketle vurma, uzun saplı araçla vurma). İki veya daha fazla beceri temasının birleştirilmesiyle de 'birleştirilmiş hareketler' oluşur; bu becerilerdeki gelişim eksikliği, çocuğun gelecekte etkinliklere katılımını engelleyebilir.",
-              "Antrenörler, çocukların kendi vücutlarını anlamalarına yardımcı olacak problem çözmeye dayalı hareketler sunarak ve onları hareketleri düzenleyip adapte etmeleri için cesaretlendirerek bu becerileri geliştirir. Uygulamada beceriler; top sürme-raketle vurma, topa alıştırma-atma-tutma-yakalama, uzun saplı araçla vurma, yürüme-koşma, atlama-sıçrama, adım al-sek/galop-kayma, yuvarlanma-tırmanma, itme-çekme ve statik-dinamik denge gibi tema gruplarına uygun, güvenlik önlemleri alınmış etkinlik ve oyunlarla (örneğin pas oyunu, dairede dönen top oyunu, halat çekme oyunu) kazandırılır."
+            "emoji": "🤸",
+            "bullets": [
+              "**Temel hareket becerileri**, oyun, spor, dans ve fiziksel uygunlukta kullanılan karmaşık hareketlerin temelini oluşturur; erken çocukluk ve ilkokulda öğrenilip yaşam boyu kullanılır.",
+              "**Yer değiştirme hareketleri**: yürüme, koşma, atlama-sıçrama, galop, yuvarlanma, tırmanma gibi bir noktadan diğerine gitme hareketleridir.",
+              "**Dengeleme hareketleri**: eğilme, dönme, salınım, itme-çekme, statik-dinamik denge gibi vücut dengesini koruma hareketleridir.",
+              "**Nesne kontrolü hareketleri**: topa alıştırma, atma, tutma, yakalama, top sürme, raketle vurma gibi bir nesneyi yönetme becerileridir.",
+              "İki veya daha fazla beceri temasının birleşmesiyle **birleştirilmiş hareketler** oluşur; bu becerilerdeki eksiklik çocuğun ileride etkinliklere katılımını zorlaştırabilir.",
+              "Antrenörler, problem çözmeye dayalı hareketler ve güvenli oyunlarla (pas oyunu, halat çekme gibi) bu becerileri geliştirir."
             ]
           },
           {
             "heading": "Temel Hareket Kavramları",
-            "paragraphs": [
-              "Temel hareket becerisi ile hareket kavramı arasındaki fark şudur: beceri, yapılacak hareketin bir eylem olduğunu anlatırken; hareket kavramları, bu hareketin değiştiricilerini, yani 'nasıl' yapılacağını tanımlar (örneğin 'koş' eylemi tek başına değil, 'kısa adımlarla zikzak koş' şeklinde hareket kavramıyla birleşince daha anlamlı olur). Çocuklara önce hareket becerileri, ardından hareket kavramları öğretilmelidir; çocuk kavramları öğrenirken aynı zamanda becerilerle uygulayarak hareket niteliğini artırır.",
-              "Hareket kavramları dört ana başlıkta toplanır: 'Vücut ne yapabilir?' sorusunun cevabını veren Vücut Farkındalığı (vücut bölümlerini tanıma, bu bölümlerin yapacağı hareketleri açıklama, vücut ağırlığının transferi); 'Vücut nerede hareket eder?' sorusunun cevabını veren Alan Farkındalığı (kişisel/genel alan, yönler, seviyeler, yol, uzamsal ilişkiler, ebat); 'Vücut nasıl hareket eder?' sorusunun cevabını veren Efor Farkındalığı (zaman, tempo, güç, akıcılık); ve 'Vücut parçalarıyla, nesne veya bireyle, eş ve grupla neler yapabilirim?' sorusunun cevabını veren Hareket İlişkileri (vücut parçalarıyla, nesne/bireyle, eş-grup ile ilişkiler).",
-              "Vücut farkındalığının amacı; vücut parçalarını tanımlama, vücudun alacağı şekil ve pozisyonları bilme, vücut hareketlerinin farkında olma ve vücudu bir iletişim aracı olarak algılamadır. Alan farkındalığı; kişisel alana saygı gösterme, genel alanda güvenle hareket etme ve farklı yönleri tanımayı; efor farkındalığı, statik-dinamik dengeyi ve hız/güç değişimlerini anlamayı; hareket ilişkileri ise vücut parçalarının birbiriyle, eşle/grupla ve nesnelerle olan ilişkisini anlamayı amaçlar. Her etkinlik hem bir beceri temasını hem de bir veya daha fazla hareket kavramını (örneğin adım al-sek becerisi ile genel-kişisel alan kavramını) birlikte içerir."
+            "emoji": "🧠",
+            "bullets": [
+              "**Hareket becerisi** \"ne\" yapılacağını (eylemi), **hareket kavramı** ise \"nasıl\" yapılacağını tanımlar (örn. \"koş\" yerine \"kısa adımlarla zikzak koş\").",
+              "**Vücut Farkındalığı**: \"Vücut ne yapabilir?\" sorusuna cevap verir; vücut bölümlerini tanıma ve ağırlık transferini kapsar.",
+              "**Alan Farkındalığı**: \"Vücut nerede hareket eder?\" sorusuna cevap verir; kişisel/genel alan, yönler, seviyeler ve uzamsal ilişkileri kapsar — örneğin sahada çarpışmadan hareket etmek bu kavramla ilgilidir.",
+              "**Efor Farkındalığı**: \"Vücut nasıl hareket eder?\" sorusuna cevap verir; zaman, tempo, güç ve akıcılığı kapsar.",
+              "**Hareket İlişkileri**: vücut parçalarının, nesnelerin, eşin ve grubun birbiriyle ilişkisini kapsar.",
+              "Çocuklara önce beceri, sonra kavram öğretilir; her etkinlik hem bir beceri temasını hem bir hareket kavramını birlikte içerir."
             ]
           },
           {
-            "heading": "Oyunun Tanımı ve Tarihsel Gelişimi",
-            "paragraphs": [
-              "Türkçede oyun ve oynamak sözcüğünün pek çok anlamı vardır: çocuk oyunu, dans, tiyatro gösterisi, şans oyunları, spor eylemleri hep bu sözcükle anılır. Huizinga'nın ifadesiyle 'Oyun ya bir yarışmaya benzer ya da bir şeye en iyi benzemek için yarıştır.' Oyunun ne zaman başladığı tam olarak bilinmemekle birlikte, en ilkel kabile ve toplumlar kadar eski olduğu bilinmektedir; ilk insan, doğadaki güçlü gördüğü olayları ve özellikleri, çevreye uyum ihtiyacından dolayı taklit ederek avantajlı duruma geçmeye çalışmıştır.",
-              "İlk insan, duygu ve düşüncelerini ifade etmek için tabiat ve hayvan seslerinden, jest ve mimiklerinden yararlanarak 'taklit'i meydana getirmiştir; bugün bile oyunlardaki figür, ritim, mimik ve jestlerde bu taklit izlerine rastlanır. İlkçağ insanları avlarını daha kolay avlayabilmek için avcılığı taklit ederek egzersiz yapma ihtiyacı duymuş, bu da en basit oyunların doğmasına yol açmıştır (örneğin Eskimoların ayı balığı avcılığını yansıtan oyunu gibi). Önceleri dini tören ve şenliklerle gelişen oyun, zamanla din dışı konulara yönelmiş; bayramlara, yıldönümlerine, asker uğurlamaya, savaş dönüşlerini ve nişan-düğün gibi özel günleri kutlamaya kadar yayılarak günümüze ulaşmıştır."
+            "heading": "Oyunun Tanımı ve Tarihçesi",
+            "emoji": "🎭",
+            "bullets": [
+              "Türkçede \"oyun\" çok anlamlıdır: çocuk oyunu, dans, tiyatro, şans oyunları ve spor hep bu kelimeyle anılır.",
+              "Oyun en ilkel toplumlar kadar eskidir; ilk insan doğadaki güçlü gördüğü olayları **taklit** ederek çevreye uyum sağlamaya çalışmıştır.",
+              "İlk insan duygularını ifade etmek için doğa ve hayvan seslerini, jest ve mimikleri taklit etmiştir (örneğin Eskimoların ayı balığı avını yansıtan oyunu); bu izler bugünkü oyunlarda da görülür.",
+              "Oyun önce **dini tören ve şenliklerle (ritüel)** gelişmiş, sonra din dışı alana geçerek bayram, düğün, nişan gibi özel günlere ait bir **gelenek** hâline gelmiştir.",
+              "Böylece oyunun tarihsel gelişimi şu sırayı izler: **Taklit → Ritüel → Gelenek**."
             ]
           },
           {
-            "heading": "Oyunların Sınıflandırılması",
-            "paragraphs": [
-              "Oyunların sınıflandırılması birçok kişi tarafından yapılmış olsa da (Corbin, Avedon ve Smith, Caillois), en kapsamlı sınıflama Roger Caillois'e aittir. Caillois, oyuncuların başarı ve coşku duygularını tatmak için seçtikleri davranışları dört ana başlık altında toplamıştır: Şans Oyunları (Alea), Gösteri-Rol Oyunları (Mimicr), Macera-Heyecan Oyunları (Vertigo-İlinx) ve Mücadele-Yarışma Oyunları (Agon).",
-              "Şans Oyunlarında (Alea) oyuncu enerji toplamak/harcamak yerine oyunun gidişini oluruna bırakır; kadere ve rastlantıya dayanır, fiziksel beceri ve stratejinin önemi yoktur (kağıt oyunları, zar, fal, rulet gibi). Gösteri-Rol Oyunlarında (Mimicr) oyuncular kendi kişiliklerinin dışında bir rol üstlenip hayali bir evrende bu rolü oynarlar (meddah, tiyatro, orta oyunu, opera, sinema). Macera-Heyecan Oyunları (Vertigo-İlinx), insanın başını döndüren, heyecan ve ürpertili zevk veren etkinlikleri kapsar (sallanma, kayak, dağa tırmanma, havada dalış).",
-              "Mücadele-Yarışma Oyunları (Agon), sporda olduğu gibi motor aktivitelere ya da dama/satranç gibi zekâ gücüne dayanan, yarışma ve mücadele gerektiren oyunları kapsar; oyuncu sadece kendine güvenir. Bu grup, fiziksel beceri ile şans/strateji faktörlerinin bulunup bulunmamasına göre dörde ayrılır: Fiziksel Beceri Oyunları (bovling, halter, koşu, stafet), Strateji Oyunları (dama, satranç gibi zekâya dayalı 'savaş oyunları'), Fiziksel Beceri ve Strateji Oyunları (mendil kapmaca, boks, güreş) ve Strateji ve Şans İçeren Fiziksel Beceri Oyunları (futbol gibi takım oyunları)."
+            "heading": "Oyunların Sınıflandırılması (Caillois)",
+            "emoji": "🎲",
+            "bullets": [
+              "Oyunların en kapsamlı sınıflamasını **Roger Caillois** yapmıştır; oyunları dört ana grupta toplar.",
+              "**Şans Oyunları (Alea)**: beceri ve stratejiden çok kadere/rastlantıya dayanır (kağıt oyunu, zar, rulet).",
+              "**Gösteri-Rol Oyunları (Mimicr)**: oyuncunun kendi kişiliği dışında bir rol üstlendiği hayali oyunlardır (tiyatro, meddah, sinema).",
+              "**Macera-Heyecan Oyunları (Vertigo-İlinx)**: baş döndüren, heyecan veren etkinliklerdir (kayak, dağa tırmanma, dalış).",
+              "**Mücadele-Yarışma Oyunları (Agon)**: sporda olduğu gibi motor ya da zekâ gücüne dayanan, yarışma içeren **sportif mücadele** oyunlarıdır; oyuncu sadece kendine güvenir.",
+              "Agon grubu dörde ayrılır: **Fiziksel Beceri Oyunları** (koşu, halter), **Strateji Oyunları** (dama, satranç), **Fiziksel Beceri ve Strateji Oyunları** (güreş, boks) ve **Strateji ve Şans İçeren Fiziksel Beceri Oyunları** (futbol gibi takım oyunları)."
             ]
           },
           {
             "heading": "Oyunun Çocuk Gelişimine Etkileri",
-            "paragraphs": [
-              "Çocuk, kavramları, nesneleri, toplumsal kuralları ve mücadele etmeyi oyun içinde önce algılar, sonra anlar, öğrenir ve geliştirir. Oyunun fiziksel gelişim ve sağlık üzerindeki etkisi, mücadele oyunlarında çocukların sürekli koşması, zıplaması, tırmanması, çekip itmesiyle ortaya çıkar; bu hareketlilik solunum, dolaşım, bağışıklık, kas-iskelet-tendon ve sinir sistemini destekler, iştahı açar ve kuvvet-çabukluk-dayanıklılığın gelişmesini sağlar.",
-              "Oyunun sosyal gelişim üzerindeki etkisi, bir grup çalışması olan oyunun kendine özgü kurallarından kaynaklanır: kurallara uymayan çocuk oyun dışı bırakılır, böylece çocuk kurallara uymayı öğrenir. Oyun içinde çocuk farklı kültürlerden gelen oyunculara hoşgörülü olmayı, toplumu tanımayı, sosyal rolleri ve meslekleri (anne-baba, doktorculuk, polisçilik, antrenörlük) öğrenir; grup oyunlarında da mensubiyet ve fedakârlık duyguları gelişir.",
-              "Oyunun psikolojik gelişim üzerindeki etkisi, ileriki yaşlardaki kişilik özelliklerinin çocuklukta oynanan oyunlar içinde şekillenmesiyle ilgilidir; oyun, çocuğun duyduklarını-gördüklerini sınadığı, yanlışlarını düzelttiği bir 'deney odası'dır ve bu süreçte çocuk toplumu, kuralları, meslekleri, gelenek-görenekleri, iyi-kötüyü ve doğru-yanlışı öğrenirken kişiliğini de şekillendirir; ayrıca hayal dünyasıyla gerçekleri harmanlayarak yaratıcılığını geliştirir. Zihinsel gelişime en önde gelen etkisi öğrenmedir: çocuk oyunda kavram ve nesneleri tanıyıp kullanmayı öğrenir, dil dağarcığını geliştirir, sürekli algılama-yorumlama-karar verme içinde taktik geliştirir."
+            "emoji": "🌱",
+            "bullets": [
+              "**Fiziksel gelişim**: mücadele oyunlarındaki koşma, zıplama, tırmanma; solunum, dolaşım, bağışıklık ve kas-iskelet sistemini güçlendirir, kuvvet-çabukluk-dayanıklılığı geliştirir.",
+              "**Sosyal gelişim**: kurallara uymayan çocuk oyun dışı kalır, böylece kurallara uymayı öğrenir; farklı kültürlere hoşgörülü olmayı, toplumu tanımayı ve sosyal rolleri/meslekleri (anne-baba, doktorculuk, polisçilik, antrenörlük) öğrenir.",
+              "Grup oyunları ayrıca **mensubiyet ve fedakârlık** duygularını geliştirir.",
+              "**Psikolojik gelişim**: oyun bir \"deney odasıdır\" — çocuk burada toplumu, kuralları, gelenekleri ve **iyi-kötü/doğru-yanlışı** öğrenerek kişiliğini şekillendirir; hayal gücü ve yaratıcılığı da gelişir.",
+              "**Zihinsel/bilişsel gelişim**: çocuk kavram ve nesneleri tanımayı öğrenir, dil dağarcığını geliştirir ve sürekli algılama-yorumlama-karar verme yoluyla taktik geliştirir."
             ]
           },
           {
             "heading": "Eğitsel Oyunların Yapısı ve Özellikleri",
-            "paragraphs": [
-              "Eğitsel oyunlar, oyunların genel sınıflandırmasında mücadele-yarışma oyunları grubuna girer; temelinde dikkat, zekâ ve motorik özelliklerle bir şeye en iyi benzeme (taklit) veya kurallar çerçevesinde belirlenen hedefe ulaşma, üstün gelme vardır. Eğitsel oyunlarda iki amaç bulunur: birincisi oyuncunun amacıdır (oyunu kazanmak, üstün gelmek); ikincisi ise oyunu seçen/yöneten kişinin amacıdır (oyuncuların kazanma arzusundan faydalanarak bazı yetenekleri kazandırmak ve geliştirmek). Birinci amaç, ikinci amaç için bir araç niteliği taşır.",
-              "Eğitsel oyunların her ortamda ve yaş grubunda ilgi görmesi şu altı özellikten kaynaklanır: Motivasyon (insan yaradılışında oyun oynamaya karşı istekliliğin bulunması ve bunun oyunun içeriğini, kurallarını belirlemesi), Özgür ortam olması (kurallar belli olsa da oyuncuların sınırlandırılmış hareketleri kendilerine göre yorumlama ve sergileme özgürlüğü), Motorik özellikleri test etme imkânı (oyuncuların kendi kapasitelerini ölçüp başkalarıyla kıyaslaması), Sonucun belirsizliği (oyunun her an değişebilecek, önceden bilinmeyen sonucu), Birliktelik ilişkisi (oyuncuları aynı takımda ya da karşı takımda olsalar da birbirine bağlayan duygu paylaşımı) ve Karmaşıklık (bir oyun içinde kuvvet, çabukluk, dayanıklılık gibi birçok farklı hareket özelliğinin bir arada bulunması)."
+            "emoji": "🧩",
+            "bullets": [
+              "**Eğitsel oyunlar**, oyunların genel sınıflamasında **mücadele-yarışma** grubuna girer; dikkat, zekâ ve motor becerilerle bir hedefe ulaşmayı veya taklit etmeyi içerir.",
+              "İki amacı vardır: **oyuncunun amacı** (kazanmak, üstün gelmek) araçtır; **yöneticinin amacı** (kazanma isteğini kullanarak yetenek geliştirmek) asıl hedeftir.",
+              "**Motivasyon**: insanın doğuştan oyun oynamaya istekli olması, oyunun içerik ve kurallarını belirler.",
+              "**Özgür ortam olması**: kurallar belli olsa da oyuncuların hareketleri kendilerine göre yorumlama ve sergileme özgürlüğü vardır.",
+              "**Motorik özellikleri test etme imkânı** (kendi kapasitesini ölçüp başkasıyla kıyaslama) ve **sonucun belirsizliği** (önceden bilinmeyen, her an değişebilen sonuç) diğer önemli özelliklerdir.",
+              "**Birliktelik ilişkisi** (takım arkadaşı/rakiple duygu paylaşımı) ve **karmaşıklık** (kuvvet, çabukluk, dayanıklılık gibi birçok özelliğin bir arada bulunması) son iki özelliktir."
             ]
           },
           {
             "heading": "Eğitsel Oyunların Sınıflandırılması",
-            "paragraphs": [
-              "Eğitsel oyunlar iki şekilde sınıflandırılır: yapısına göre ve seçilip oynanmasında etkili olan özelliklere göre. Yapısına göre sınıflandırmada, oynanış biçimi ve sergilenen özellikler bakımından üç temel grup (ve aralarında geçiş oyunları) bulunur: Taklit Oyunları (oyuncuların bir şeye benzeyerek yarıştığı, örneğin tavşan sıçraması, ördek yürüyüşü, top yuvarlanması gibi oyunlar), Mücadele Oyunları (sportif bir figür taşımadan tamamen kapasiteyle mücadele edilen stafet yarışı, elim sende, halat çekme gibi oyunlar) ve Basit Sportif Oyun Formları (bir spor dalının motifini içeren, sportif formların oyunlaştırılmış hâli; şato topu, yakan top, yengeç futbolu gibi).",
-              "Seçmede ve oynamada etkili özelliklere göre eğitsel oyunlar altı farklı şekilde sınıflandırılır: (1) Yaş gruplarına göre: okul öncesi, ilkokul, ortaokul, lise, yetişkinlik ve yaşlılık dönemi oyunları; (2) Oynandıkları alanlara göre: sınıf, salon, bahçe veya kırsal alan, kış ve su oyunları; (3) Oyuncu sayısına göre: ferdî, ikili ve grup oyunları; (4) Oynanma düzenine göre: çizgi, daire ve dağınık düzen oyunları; (5) Kullanılan araç-gerece göre: araçlı ve araçsız oyunlar; (6) Oynanma/oynatılma amacına göre: eğlence amaçlı (vakit geçirme, samimiyet kurma), eğitim amaçlı (hazırlık, dinlenme, teknik-taktik öğretimi için yeteneklerin geliştirilmesi) ve tedavi amaçlı (psikolojik-fizyolojik rahatlama, postürel bozuklukların tedavisinde kullanılan egzersizlerin oyunlaştırılması) eğitsel oyunlar."
+            "emoji": "📂",
+            "bullets": [
+              "Eğitsel oyunlar iki şekilde sınıflandırılır: **yapısına göre** ve **seçilip oynanma özelliklerine göre**.",
+              "Yapısına göre üç grup vardır: **Taklit Oyunları** (bir şeye benzeyerek yarışma, örn. tavşan sıçraması), **Mücadele Oyunları** (stafet, halat çekme gibi tamamen kapasiteyle mücadele) ve **Basit Sportif Oyun Formları** (bir spor dalının oyunlaştırılmış hâli, örn. yakan top).",
+              "**Yaş gruplarına göre**: okul öncesi, ilkokul, ortaokul, lise, yetişkinlik ve yaşlılık oyunları.",
+              "**Oynandıkları alanlara göre**: **sınıf**, **salon**, **bahçe veya kırsal alan**, **kış** ve **su oyunları**.",
+              "**Oyuncu sayısına göre** (ferdî, ikili, grup), **oynanma düzenine göre** (çizgi, daire, dağınık) ve **araç-gerece göre** (araçlı, araçsız) de sınıflandırılabilir.",
+              "**Oynanma amacına göre**: **eğlence amaçlı**, **eğitim amaçlı** (teknik-taktik öğretimi) ve **tedavi amaçlı** (postürel bozuklukların düzeltilmesi) eğitsel oyunlar."
             ]
           }
         ],
@@ -26451,116 +27241,166 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Motor Gelişim: Tanım ve Önemi",
-            "paragraphs": [
-              "Motor gelişim, doğum öncesi dönemden başlayarak ölene kadar devam eden tüm hareketsel süreçleri kapsar. Fizyolojik bir süreç gibi görünse de aslında çocuğun psikolojisi üzerinde de büyük etkiye sahiptir; çünkü çocuklar motor becerilerini oyun içinde keşfeder, yaratıcılığını geliştirir, sosyalleşir, özgüven kazanır ve benlik kavramı edinir. Yetersiz bir motor gelişim süreci çocuğu bu faydalardan yoksun bırakır ve ileride kazanılacak motor becerilerin gelişimini de olumsuz etkiler.",
-              "Psikomotor gelişim ile motor gelişim sık sık birbirinin yerine kullanılsa da aslında tam olarak aynı değildir. Motor gelişim, doğumdan erişkinliğin sonuna kadar olan harekete ilişkin davranışların gelişimini kapsarken; psikomotor gelişim daha geniş bir alanı kapsayarak doğum öncesi (fötal) dönemden ölene kadar olan tüm harekete ilişkin gelişim ve değişim süreçlerini içerir."
+            "heading": "Motor Gelişim Nedir?",
+            "emoji": "🏃",
+            "bullets": [
+              "**Motor gelişim**, doğum öncesinden ölene kadar süren tüm hareketsel değişim sürecidir.",
+              "Sadece fiziksel değil, çocuğun psikolojisini de etkiler: oyun yoluyla özgüven, sosyalleşme ve **benlik kavramı** kazanılır.",
+              "Yetersiz bir motor gelişim süreci, çocuğu bu faydalardan mahrum bırakır ve sonraki becerileri de olumsuz etkiler.",
+              "**Motor gelişim** doğumdan erişkinliğe kadarki hareket gelişimini kapsar; **psikomotor gelişim** ise doğum öncesinden (fötal dönem) ölene kadar daha geniş bir süreçtir."
             ]
           },
           {
-            "heading": "Motor Gelişimin Tarihsel Gelişimi (4 Periyot)",
-            "paragraphs": [
-              "Motor gelişim konusu 20. yüzyıldan bu yana farklı araştırmacıların ilgisini çekmiş ve tarihsel süreci 4 ana periyotta toplanmıştır. 1787-1928 yılları arasını kapsayan ilk dönem 'başlangıç periyodu' olarak adlandırılır; bu dönemde Tiedemann'ın oğlunun yakalama davranışının refleksten istemli harekete geçişini incelediği gözlemleri, Darwin'in 'Bebeğin Biyografik Taslağı' adlı eseri ve Shinn'in 'Bebeğin Biyografisi' adlı eseri öne çıkar.",
-              "1928-1946 yılları arası 'olgunlaşma periyodu' olarak adlandırılır; Gessel, McGraw, Bayley'in motor gelişim ölçeği ve Monica Wild'in çalışmaları öncülük etmiştir. Bu dönemde araştırmacılar biyolojik süreçlerin önemini vurgulamış ve hareket becerilerindeki sıranın tüm bireyler için aynı olduğunu, çevrenin etkisini ise neredeyse yok sayarak savunmuşlardır.",
-              "1946-1970 yılları arasını kapsayan üçüncü dönem 'norm/tanımlama dönemi'dir; bu dönemde antropometrik ölçümler ve performans testleriyle çocukların motor performans düzeylerine ait normlar geliştirilmiştir (Espenschade, Glassow, Rarick). Son olarak 1980-90'lı yıllarda psikomotor gelişimin altındaki süreçlere odaklanan 'süreç-yönelimli dönem' ortaya çıkmıştır; Connolly'nin 'Motor Beceri Gelişimi Mekanizması' adlı eseri bu dönemin önemli çalışmalarındandır."
+            "heading": "Tarihte Motor Gelişim: 4 Dönem",
+            "emoji": "🕰️",
+            "bullets": [
+              "Motor gelişim araştırmaları 20. yüzyıldan beri 4 ana periyotta incelenir.",
+              "**Başlangıç periyodu** (1787-1928): ilk gözlemler yapıldı (örn. Darwin ve Shinn'in bebek biyografileri).",
+              "**Olgunlaşma periyodu** (1928-1946): biyolojik süreçler ön plandaydı, çevrenin etkisi neredeyse yok sayıldı.",
+              "**Norm/tanımlama periyodu** (1946-1970): ölçümlerle çocukların motor performans normları geliştirildi.",
+              "**Süreç-yönelimli dönem** (1980-90'lar): asıl odak, gelişimin altındaki mekanizmalara kaydı."
             ]
           },
           {
-            "heading": "Motor Gelişimle İlgili Temel Tanımlar",
-            "paragraphs": [
-              "Hareket, vücudun ağırlık merkezinin iz düşümünün yer değiştirmesi veya vücudun bütününün (lokomotor) ya da bir parçasının (lokomotor olmayan) yer değiştirmesi olarak tanımlanır. Form (hareket şekli) ise birden fazla hareketin belirli bir düzen içinde yapılarak bir model oluşturmasıdır; örneğin bir voleybolcunun smaç vuruşu sırasındaki bacak, kol, gövde ve baş düzeni 'form' olarak adlandırılır.",
-              "Motor beceri, öğrenme sonucu edinilen ve hedefe doğru gerçekleştirilen tek ya da birden fazla vücut bölümünün devrede olduğu istemli hareketlerdir. Temel motor beceriler, çocuklarda 2-7 yaş arasında ortaya çıkan ve sportif becerilere zemin hazırlayan koşma, atma, atlama, fırlatma, yakalama, tırmanma gibi becerilerdir. Spor becerisi ise temel becerilerin gelişerek özelleşmesiyle ortaya çıkan, spor dalına özgü becerilerdir.",
-              "Motor öğrenme, hareket becerilerinin ediniminde ve mükemmelleştirilmesindeki temel değişikliklerdir; deneyimler yoluyla bir hareketin öğrenilmesi ve motor performansta ilerleme olarak tanımlanır. Motor kontrol, vücuttaki sinirsel ve fiziksel değişikliklerle bağımsız görevlerin yerine getirilmesidir. Motor davranış, motor öğrenme, motor kontrol ve motor gelişim gibi kavramlarda meydana gelen biyolojik temelli değişimleri kapsayan geniş bir kavramdır. Motor performans ise hareket becerisinin gerçekleşmesi sonrasında süre, mesafe gibi kavramlarla ölçülebilen gözlemlenebilir özelliklerdir. Deneyim, çevre tarafından sunulan ve öğrenmeye etki ederek gelişimsel özelliklerin ortaya çıkmasına katkıda bulunan edinimlerdir."
+            "heading": "Temel Kavramlar: Hareketten Performansa",
+            "emoji": "📖",
+            "bullets": [
+              "**Hareket**, vücudun bütününün ya da bir parçasının yer değiştirmesidir.",
+              "**Form**, birden fazla hareketin belirli bir düzende birleşerek bir model oluşturmasıdır (örn. smaç vuruşundaki duruş).",
+              "**Motor beceri**, öğrenilerek edinilen, hedefe yönelik istemli hareketlerdir.",
+              "**Temel motor beceriler** 2-7 yaş arasında ortaya çıkar: koşma, atma, atlama, yakalama gibi; **spor becerisi** bunların özelleşmiş hâlidir.",
+              "**Motor öğrenme**, deneyimle hareketin öğrenilip ilerlemesidir; **motor kontrol** ise sinirsel-fiziksel değişimlerle görevlerin yerine getirilmesidir.",
+              "**Motor performans**, hareketin süre/mesafe gibi gözlenebilir ölçülebilir sonucudur; **deneyim** ise çevrenin öğrenmeye katkı sağlayan birikimidir."
             ]
           },
           {
-            "heading": "Büyüme, Gelişim ve Psikomotor Gelişim",
-            "paragraphs": [
-              "Büyüme, boyca uzama ve kilogramca artış şeklinde karşımıza çıkan kavramdır; gelişimin niceliksel, yani ölçülebilen yönünü oluşturur. Büyümenin en hızlı olduğu dönemler sırasıyla doğum öncesi, bebeklik ve ergenlik dönemidir. Bireyin kilo kaybetmesi büyüme olarak değerlendirilmez; büyüme artışla ifade edilen pozitif bir kavramdır.",
-              "Gelişim (gelişme), büyüyen bir organizmanın yapısında olan değişiklikler sonucu olgunlaşması ve biyolojik fonksiyonlarının farklılaşmasıdır; olgunlaşma, kalıtım ve öğrenmenin ürünü olup nitel ve nicel değişimleri içerir. Büyüme ve olgunlaşma gelişimin nicelik yönünü, hazırbulunuşluk ve öğrenme ise nitelik yönünü oluşturur. Örneğin bir bebeğin 6. ayın sonunda sindirim sisteminin basit gıdaları sindirebilecek düzeye gelmesi, dışarıdan gözlenemeyen bir gelişim örneğidir.",
-              "Psikomotor gelişim, yaşam döngüsü boyunca hareket görevinin gerekleri, kişinin biyolojik özellikleri ve öğrenme ortamının koşulları arasındaki etkileşimin belirlediği motor davranıştaki ilerleyici değişimlerdir. Gelişim genel olarak ileriye doğru işleyen pozitif bir süreç olarak görülse de, motor davranışlardaki gelişim zaman içinde farklı bir yöne (örneğin yaşlılıkta gerilemeye) gidebilir."
+            "heading": "Büyüme mi, Gelişim mi?",
+            "emoji": "📏",
+            "bullets": [
+              "**Büyüme**, boy ve kiloda artış demektir; gelişimin sadece ölçülebilen (niceliksel) yanıdır.",
+              "Büyüme en hızlı doğum öncesi, bebeklik ve ergenlikte olur; kilo kaybı büyüme sayılmaz, büyüme hep artışla ilgilidir.",
+              "**Gelişim**, olgunlaşma + kalıtım + öğrenmenin ürünüdür; nitel ve nicel değişimi birlikte içerir.",
+              "Örnek: bebeğin 6. ayda sindirim sisteminin katı gıdayı sindirebilir hale gelmesi, dışarıdan görünmeyen bir **gelişim** örneğidir.",
+              "**Psikomotor gelişim**, hareket görevi + biyolojik özellikler + öğrenme ortamının birlikte şekillendirdiği değişimdir; her zaman ileriye gitmez, yaşlılıkta gerileyebilir."
             ]
           },
           {
-            "heading": "Hareket: Refleks ve Bilinçli Hareketler",
-            "paragraphs": [
-              "İnsanlarda iki farklı hareket modeli gözlenir: istem dışı hareketler (refleksler) ve bilinçli hareketler (reaksiyonlar). Refleks hareketler, etkiye karşı verilen istemsiz tepkilerdir; eklem reseptörlerinden alınan uyarı Serebral Korteks'e ulaşmadan omurilikte cevaba dönüşür ve kaslar bu cevabı harekete çevirir. Elimizi sıcak bir nesneye değdirdiğimizde aniden çekmemiz ya da yüzümüze aniden gelen sudan korunmak için gözlerimizi kapatmamız, refleksif hareket örnekleridir.",
-              "Yeni doğan bebeklerde emme, göz kırpma gibi bazı refleksif hareketler, zaman içinde büyüme ve gelişmeye bağlı olarak yerlerini istemli (bilinçli) hareketlere bırakır. Bilinçli hareketler (reaksiyonlar), etkiye verilen istemli tepkilerdir; insan beyninin gelişmesiyle sinir iletim hızı artar ve bu artış bilinçli hareket edebilmede önemli rol oynar. Bu sinirsel iletim süreci insan hayatının ilk zamanlarında hızlıdır, yaşlanmayla birlikte yavaşlar."
+            "heading": "Refleks mi, Bilinçli Hareket mi?",
+            "emoji": "🧠",
+            "bullets": [
+              "**Refleks hareketler** istemsizdir; uyarı beyne (Serebral Korteks) ulaşmadan omurilikte cevaba dönüşür.",
+              "Örnekler: sıcak bir nesneye dokununca elini çekmek, yüze su gelince gözü kapatmak.",
+              "Yenidoğandaki emme, göz kırpma gibi refleksler zamanla **bilinçli hareketlere (reaksiyonlara)** dönüşür.",
+              "**Bilinçli hareketler** istemlidir; beyin geliştikçe sinir iletim hızı artar, bu da bilinçli harekette kritik rol oynar.",
+              "Bu sinirsel iletim hızı hayatın ilk dönemlerinde yüksektir, yaşlanınca yavaşlar."
             ]
           },
           {
-            "heading": "Öğrenme, Olgunlaşma ve Hazırbulunuşluk",
-            "paragraphs": [
-              "Öğrenme, bireyin olgunlaşma düzeyine göre çevresiyle etkileşimi sonucunda yeni davranışlar kazanması ya da eski davranışlarını değiştirmesi, yani davranışlarının yeniden düzenlenmesi veya kalıcı olarak değişmesidir. Yüzme bilmeyen bir kişinin eğitim alarak yüzmeyi öğrenmesi kalıcı davranış değişikliğine örnektir; yüzmeyi bilen birinin farklı teknikleri (kelebek, kurbağalama vb.) öğrenmesi ise davranışın yeniden düzenlenmesine örnektir. Öğrenme üzerinde olgunlaşmanın büyük etkisi vardır ve öğrenme doğrudan gözlemlenemeyen içsel bir süreç olduğundan, kişinin gözlemlenebilen davranışlarındaki değişimler üzerinden değerlendirilir.",
-              "Olgunlaşma, doğuştan gelen, genetik faktörlerle belirlenmiş ve bu nedenle dış çevre etkenlerine dirençli olan, bireyin beklenen işi yapabilecek fiziksel kapasiteye erişebilmesi için fonksiyon seviyelerindeki nitelikli yükselmeleri ve biyolojik değişimleri içeren süreçtir. Becerinin ortaya çıkışı çevresel faktörlerden etkilenmezken, ortaya çıkan becerinin gelişimi çevresel şartlardan ve deneyimlerden doğrudan etkilenir.",
-              "Hazırbulunuşluk, kişinin olgunlaşmasının yanı sıra çevreyle girdiği etkileşimin olası sonucu olarak belli davranışları gerçekleştirebilecek ön bilgi, beceri ve tutuma sahip olması durumudur. Hem fiziksel hem de zihinsel (mental) olarak hazır olmayı kapsar; örneğin yeterli antrenman yapmış bir sporcu kendini müsabakaya zihinsel olarak hazır hissetmiyorsa başarılı olamayabilir."
+            "heading": "Öğrenme, Olgunlaşma, Hazırbulunuşluk",
+            "emoji": "🎓",
+            "bullets": [
+              "**Öğrenme**, çevreyle etkileşim sonucu davranışın kalıcı değişmesi veya yeniden düzenlenmesidir.",
+              "Örnek: yüzme bilmeyen birinin yüzmeyi öğrenmesi **kalıcı davranış değişikliği**'dir; bilen birinin yeni stil öğrenmesi **davranışın yeniden düzenlenmesi**'dir.",
+              "**Olgunlaşma**, genetik olarak belirlenmiş, çevreden bağımsız biyolojik gelişim sürecidir; becerinin ortaya çıkışı çevreden etkilenmez ama gelişimi etkilenir.",
+              "**Hazırbulunuşluk**, hem fiziksel hem zihinsel olarak bir davranışı yapmaya hazır olma durumudur (örn. antrenmanlı ama zihinsel hazır olmayan sporcu başarısız olabilir)."
             ]
           },
           {
-            "heading": "Gelişim Yönü ve Büyüme Hızı",
-            "paragraphs": [
-              "Gelişim, baştan ayağa, merkezden dışarı ve genelden özele doğru bir yol izler. Baştan ayağa ilkesine göre anne karnında önce baş oluşur, bunu kollar ve bacaklar takip eder; doğum sonrasında da kontrol aynı sırayla (önce baş-boyun, sonra üst gövde, son olarak bacaklar) sağlanır ve bu süreç yaşlılıkta tersine döner. Merkezden dışa ilkesi, gelişimin büyük kas gruplarından küçük kas gruplarına ilerlemesini ifade eder (önce omuz, sonra dirsek, el bileği ve parmaklar). Genelden özele ilkesine göre ise çocuk önce yetersiz ve kaba hareketlerle (örneğin nesne fırlatma) başlar, zamanla bu hareketler özelleşerek gelişmiş becerilere (örneğin topu potaya atma) dönüşür.",
-              "Büyüme hızı, karakteristik ve evrensel modeller şeklindedir ve genellikle dış etkenlere dirençlidir. Gelişimin geri kalması durumunda kendi kendine düzenlenme süreci devreye girerek çocuğun yaşıtlarının düzeyine gelmesini sağlar; örneğin bir hastalık nedeniyle büyümesi duraklayan çocuk, hastalığı atlattıktan sonra kendi büyüme sürecine dönebilir. Ancak çok düşük doğum kilosu gibi büyük sapmalarda bu kendi kendine düzenleme yeterli olmayabilir ve gelişimsel gerilik boy-kiloyla sınırlı kalmayıp zihinsel ve motorik süreçleri de etkileyebilir."
+            "heading": "Gelişimin Yönü ve Hızı",
+            "emoji": "🧭",
+            "bullets": [
+              "**Baştan ayağa ilkesi**: önce baş, sonra kollar/bacaklar gelişir; yaşlılıkta bu sıra tersine döner.",
+              "**Merkezden dışa ilkesi**: büyük kas gruplarından (omuz) küçüklere (parmaklar) doğru gelişir.",
+              "**Genelden özele ilkesi**: kaba hareketler (fırlatma) zamanla özelleşmiş becerilere (potaya atış) dönüşür.",
+              "Büyüme hızı evrenseldir ve dış etkenlere dayanıklıdır; hastalık gibi bir gerileme sonrası çocuk kendi büyüme eğrisine geri dönebilir (**kendi kendine düzenleme**).",
+              "Çok düşük doğum kilosu gibi büyük sapmalarda bu düzenleme yetersiz kalabilir ve zihinsel/motor süreçleri de etkileyebilir."
             ]
           },
           {
-            "heading": "Farklılaşma, Bütünleşme ve Kritik Dönem",
-            "paragraphs": [
-              "Farklılaşma, bebeklik dönemindeki hareket kalıplarından, çocuk ve gençlerin daha fonksiyonel ve daha becerili hareketlere doğru ilerlemesidir; hareket becerileri gelişimle birlikte basitten zora, kompleks becerilere doğru yol izler. Bütünleşme ise duyu sistemlerinin ve çeşitli kas gruplarının koordineli bir şekilde çalışmasıdır; örneğin bir çocuğun bardaktan suyu dökmeden içebilmesi ya da çorba kaşığını ağzına götürebilmesi, el-göz koordinasyonu gerektiren bütünleşme örnekleridir.",
-              "Kritik (hassas) dönem, insan yavrusunun oluşumu sırasında her organ ve sistemin belli zamanlarda geliştiği, bu dönemlerde dışarıdan gelecek bir etkinin gelişim sürecini telafisi olmayacak şekilde bozabileceği dönemdir. Bu süreç doğumu takip eden yaklaşık ilk 6 yıl boyunca devam eder; özellikle 0-2 yaş duygusal yönden ve güven gelişimi açısından çok önemlidir. 3 yaşa kadar fiziksel gelişim çok hızlıdır ve çocuk benmerkezci davranır; çocuk zihinsel gelişiminin yüzde altmışını, sinir sistemi gelişiminin ise yüzde seksenini yaşamının ilk beş yılında tamamlar. Bu dönemde çocuk fiziksel, sosyal ve zihinsel olarak savunmasız olduğundan, doğru davranış modelleri ve doğru çevresel uyaranlar büyük önem taşır."
+            "heading": "Farklılaşma, Bütünleşme, Kritik Dönem",
+            "emoji": "🔑",
+            "bullets": [
+              "**Farklılaşma**, basit hareketlerden daha kompleks ve becerili hareketlere ilerlemedir.",
+              "**Bütünleşme**, duyu ve kas gruplarının koordineli çalışmasıdır (örn. bardaktan dökmeden su içmek, el-göz koordinasyonu).",
+              "**Kritik (hassas) dönem**, her organ ve sistemin belirli zamanlarda geliştiği, dışarıdan gelecek bir bozukluğun telafi edilemeyeceği dönemdir.",
+              "Bu dönem doğumdan sonraki ilk ~6 yılı kapsar; 0-2 yaş özellikle güven gelişimi için kritiktir.",
+              "Çocuk zihinsel gelişiminin **%60**'ını, sinir sistemi gelişiminin **%80**'ini ilk 5 yılda tamamlar; bu yüzden doğru çevresel uyaranlar çok önemlidir."
             ]
           },
           {
-            "heading": "Bireysel Farklılıklar, Beden Ölçüleri, Filogeni ve Ontogeni",
-            "paragraphs": [
-              "Bireysel farklılıklar, çocukların fiziksel ve zihinsel gelişimlerinin kalıtım ve çevrenin ilişkisiyle değişim göstermesi sonucu normal sınırlar içinde ortaya çıkan farklılıklardır; örneğin tek yumurta ikizleri genetik olarak aynı olsa da farklı sosyal çevrelerde büyüdüklerinde gelişimsel farklılıklar sergileyebilir. Bu farklılıklar belirli sınırlar içinde kalmalıdır; aksi halde (örneğin 18 aylık olup hâlâ oturamayan bir çocukta) durum bireysel farklılıktan çıkıp gelişimsel gerilik boyutuna taşınır.",
-              "Beden ölçüleri, motor yeterlilikleri doğrudan etkiler; özellikle 1-5 yaş arasında beden yapısı, kas yapısı ve duruşa ait değişimler hareket kapasitesini belirler. Bacakların uzaması lokomotor hareketlerin doğru yapılmasını, omuzların genişlemesi ve kolların uzaması ise fırlatma hareketlerinin etkinliğini artırır; beden ölçüleri değiştikçe motor kontrol artar ve motor davranışın kalitesi yükselir.",
-              "Filogenetik beceriler, öğrenme ihtiyacı duymaksızın kendiliğinden ortaya çıkan, insan filosuna ait genetik özelliklerden kaynaklanan becerilerdir; atma, tutma, yakalama, yürüme, koşma gibi büyük kas gruplarıyla yapılan temel hareket becerileri bunun örnekleridir. Ontogenetik beceriler ise çevre uyaranları ve öğrenme iş birliği sonucunda gelişen, kendiliğinden ortaya çıkmayan, daha özelleşmiş becerilerdir; örneğin kendiliğinden fırlatma yapan bir çocuğun hentbol eğitimiyle kaleye şut atar hale gelmesi ontogenetik beceridir. Kısaca filogenetik beceriler motor gelişim sürecini, ontogenetik beceriler motor öğrenme sürecini ifade eder."
+            "heading": "Bireysel Farklılıklar ve Beceri Türleri",
+            "emoji": "🧬",
+            "bullets": [
+              "**Bireysel farklılıklar**, kalıtım-çevre etkileşimiyle normal sınırlar içinde ortaya çıkan gelişim farklarıdır (örn. tek yumurta ikizlerinin farklı çevrede farklı gelişmesi).",
+              "Bu fark belirli sınırı aşarsa (örn. 18 aylıkken hâlâ oturamayan çocuk) artık **gelişimsel gerilik** sayılır.",
+              "**Beden ölçüleri** (boy, kas yapısı) motor yeterliliği doğrudan etkiler; bacak/kol uzaması hareket kalitesini artırır.",
+              "**Filogenetik beceriler**, öğrenmeye gerek kalmadan kendiliğinden ortaya çıkar: yürüme, koşma, atma, yakalama gibi büyük kas becerileri.",
+              "**Ontogenetik beceriler**, çevre ve öğrenme yoluyla kazanılan özelleşmiş becerilerdir (örn. kendiliğinden fırlatan çocuğun eğitimle hentbolda kaleye şut atması)."
             ]
           },
           {
-            "heading": "Gelişimi Etkileyen Faktörler: Kalıtım",
-            "paragraphs": [
-              "Gelişim, kalıtım ve çevrenin ortaklaşa bir ürünüdür. Kalıtım, üreme esnasında anne ve babada bulunan özelliklerin genler yoluyla genç kuşağa aktarılmasıdır. Kalıtıma müdahale etmek mümkün olmadığından, bireysel farklılıklardaki en büyük etken kalıtımdır; göz-saç rengi, kişilik, zekâ, hastalıklar, yetenekler, boy ve genel vücut yapısı kalıtsal özelliklerdir ancak çevresel koşullardan da etkilenirler.",
-              "Kalıtımla ilgili temel tanımlar şunlardır: Genotip, canlının taşıdığı baskın ve çekinik genlerin tümüdür. Fenotip (dışyapı), genotipte bulunan ve çevrenin etkisiyle dış görünüşe yansıyan özelliklerdir. Baskın (dominant) gen, heterozigot durumda fenotipte etkisini gösterebilen gen türüdür; çekinik (resesif) gen ise heterozigot durumda fenotipte etkisini gösteremeyen gen türüdür. Homozigot, iki alel genin baskın ya da çekinik olma özelliğinin aynı olmasıdır (AA, aa); heterozigot ise bu özelliklerin farklı olmasıdır (Aa). Çekinik genler dış görünüşte ortaya çıkmasa da bir sonraki kuşağa aktarılabilir; örneğin büyükanne/büyükbabadaki mavi göz geni bir kuşak atlayarak torunda ortaya çıkabilir.",
-              "Irk faktörü de genetik bir etkendir ve gelişim sürecinde farklılıklar yaratır; örneğin siyahi ırka mensup yeni doğan bebeklerin merkezi sinir sistemi daha olgunlaşmış olabilir ve bu da motor becerilerin kazanılma hızını etkileyebilir. Ancak yaşanılan çevre de ırksal özelliklerde değişime neden olabilir; örneğin Amerika'da yetişen Japon çocuklar Japonya'dakilere göre daha iri yapılı olabilmektedir."
+            "heading": "Kalıtımın Gücü",
+            "emoji": "🧬",
+            "bullets": [
+              "**Kalıtım**, anne-babadaki özelliklerin genler yoluyla çocuğa aktarılmasıdır; müdahale edilemeyeceği için bireysel farkların en büyük kaynağıdır.",
+              "**Genotip**, taşınan tüm genlerin toplamıdır; **fenotip** ise çevrenin etkisiyle dışarıya yansıyan görünümdür.",
+              "**Dominant (baskın) gen** heterozigot durumda etkisini gösterir; **resesif (çekinik) gen** gösteremez ama bir sonraki kuşağa geçebilir (örn. atlayan göz rengi geni).",
+              "**Homozigot**, iki alelin aynı olmasıdır (AA, aa); **heterozigot** ise farklı olmasıdır (Aa).",
+              "**Irk** da genetik bir etkendir (örn. bazı bebeklerde sinir sistemi daha olgun doğabilir), ama yaşanılan çevre de ırksal özellikleri değiştirebilir."
             ]
           },
           {
-            "heading": "Çevre: Doğum Öncesi, Doğum Sırası ve Doğum Sonrası Etkenler",
-            "paragraphs": [
-              "Doğum öncesinde bebeğin ilk ve tek çevresi anne rahmidir; anneyi etkileyen her durumdan bebek doğrudan etkilenir. Annenin yetersiz beslenmesi, sigara, alkol ya da uyuşturucu kullanımı, radyasyona maruz kalma, kronik/ateşli hastalıklar, ilaç kullanımı, stres ve şiddet gibi durumlar bebeği olumsuz etkiler. En sık karşılaşılanlar yetersiz-dengesiz beslenme ile alkol ve sigara kullanımına bağlı problemlerdir; gebelikte alkol kullanımı merkezi sinir sistemi hasarı ve zihinsel gerilik, sigara kullanımı ise düşük doğum kilosu ve erken doğumla ilişkilendirilmiştir.",
-              "Doğum sırasında en sık görülen komplikasyonlar; göbek kordonunun boyna dolanması sonucu oksijensiz kalma, doğum stresine bağlı mekonyum atımı, bebeğin ters pozisyonda olması ve olası doktor hatalarıdır. Bu sorunlar bebeğin kuvöze alınmasına veya kalıcı bedensel sorunlara yol açabilir.",
-              "Doğum sonrası dönemde gelişimi etkileyen kalıtım dışı etkenler fiziksel çevre ve sosyal çevre olmak üzere iki başlıkta incelenir. Beslenme bu etkenler arasında en önemlilerindendir; yetersiz beslenmenin düzeyi ve süresi arttıkça gelişimin etkilenme boyutu da artar. Fiziksel aktivite kas gelişimini destekler ancak yaşa uygun olmayan aşırı yüklenmeler büyüme plağı yaralanması gibi sakatlıklara yol açabilir."
+            "heading": "Çevre: Doğum Öncesi, Sırası, Sonrası",
+            "emoji": "🤰",
+            "bullets": [
+              "Doğum öncesi bebeğin tek çevresi anne rahmidir; annenin sigara, alkol, kötü beslenme gibi durumları bebeği doğrudan etkiler.",
+              "Gebelikte **alkol** merkezi sinir sistemi hasarı ve zihinsel gerilik riskini, **sigara** ise düşük doğum kilosu ve erken doğum riskini artırır.",
+              "Doğum sırasında en sık görülen sorunlar: göbek kordonunun boyna dolanması, mekonyum atımı, bebeğin ters pozisyonu.",
+              "Doğum sonrası en önemli etken **beslenmedir**; yetersizliğin süresi arttıkça gelişime etkisi de büyür.",
+              "Fiziksel aktivite kas gelişimini destekler, ama yaşa uygun olmayan aşırı yüklenmeler **büyüme plağı yaralanması** gibi sakatlıklara yol açabilir."
             ]
           },
           {
-            "heading": "Fiziksel Çevre ve Sosyal Çevre",
-            "paragraphs": [
-              "Fiziksel çevre, insanın içinde yaşadığı fiziksel ortamı ifade eder ve beslenme, hastalık-kazalar, iklim/mevsimler, aşırı yorgunluk, yaşam koşulları ve psikolojik durum gibi alt faktörleri içerir. Yaşam koşulları başlığı altında çocuğa sunulan imkânlar (örneğin spor yapabileceği bir alanın olup olmaması) da fiziksel çevrenin bir parçası olarak değerlendirilir. Psikolojik durumlar (stres, kaygı, depresyon, beslenme bozuklukları gibi) da büyüme ve gelişmeyi olumsuz etkileyebilir; ayrıca günümüzde teknoloji bağımlılığı ve hareketsiz yaşam da önemli bir risk faktörü olarak öne çıkmaktadır.",
-              "Sosyal çevre, bireyin etrafındaki insanları, yaşadığı çevreyi, örf ve adetleri kapsar. Bireyin kişiliği ve davranışları, çevresel etkiler altında kendini rahat hissedip hissetmemesinden ve temel ihtiyaçlarının karşılanma düzeyinden etkilenir. Ailenin tutumları çocuğun alışkanlıkları (örneğin sigara kullanımı) ve spor yapıp yapmayacağı üzerinde büyük etkiye sahiptir; sportif aktivite yapma fırsatı olmayan ya da buna izin verilmeyen bireylerde gelişimsel problemler daha yaygın görülür."
+            "heading": "Fiziksel Çevre vs Sosyal Çevre",
+            "emoji": "🌍",
+            "bullets": [
+              "**Fiziksel çevre**: beslenme, hastalık/kazalar, iklim, yaşam koşulları (örn. spor alanı imkânı olup olmaması) ve psikolojik durum gibi faktörleri kapsar.",
+              "Stres, kaygı gibi psikolojik durumlar ile günümüzde **teknoloji bağımlılığı** ve hareketsizlik de büyümeyi olumsuz etkileyen risklerdir.",
+              "**Sosyal çevre**: bireyin etrafındaki insanlar, örf ve adetlerdir; kişinin temel ihtiyaçlarının karşılanma düzeyinden etkilenir.",
+              "Ailenin tutumu, çocuğun alışkanlıkları ve spor yapıp yapmayacağı üzerinde büyük etkiye sahiptir."
             ]
           },
           {
-            "heading": "Gelişimin Türleri: Bilişsel Gelişim (Piaget Dönemleri)",
-            "paragraphs": [
-              "Gelişim; bilişsel, duyuşsal ve psikomotor gelişim olmak üzere üç temel boyutta incelenir. Bilişsel gelişim, çocukların dünyayla ilgili deneyimlerini ve hayatlarına nasıl yön vereceklerini anlama ve geliştirme sürecidir. Piaget'in kuramına göre bilişsel gelişim özümleme (çevreyle etkileşerek bilgi edinme), uyma (edinilen bilgiye tepki verme) ve adaptasyon (tepkiye uyum sağlayarak yeni tepkiler geliştirme) aşamalarından geçen dört dönemde gerçekleşir.",
-              "Duyusal Motor Dönem (0-2 yaş), bebeklerin duyularını ve motor becerilerini kullanarak dış dünyayla iletişim kurduğu, refleksif hareketlerle başlayıp istemli hareketlerle devam eden dönemdir; nesnelerin sürekliliği, taklit etme ve deneme-yanılma öğrenmeleri bu dönemin önemli kavramlarıdır. İşlem Öncesi Dönem (2-6 yaş), sembolik dönemi takiben sezgisel döneme geçişi kapsar; çocuklar mantıktan uzak, sezgilerle ilerler, sınıflandırma becerileri tek yönlüdür ve nesnelerin korunumu (örneğin kesilen bir kekin miktarının değişmediğini anlama) konusunda yetersizdirler.",
-              "Somut İşlemler Dönemi (7-11 yaş), çocukların mantığı ön plana çıkardığı, nesneler arasında nedensel ilişkiler kurabildiği ve nesne korunumu problemini çözebildiği dönemdir; ancak soyut kavramları tam anlamıyla açıklayamazlar. Soyut İşlemler Dönemi (12 yaş ve üzeri), düşünce sisteminin yetişkin seviyesine ulaştığı, değişkenler arası ilişkiler kurarak tümdengelim/tümevarım yoluyla sorunlara yaklaşılabildiği, 15 yaş civarında bilişsel gelişimin en üst seviyeye ulaştığı dönemdir."
+            "heading": "Bilişsel Gelişim: Piaget'in 4 Dönemi",
+            "emoji": "🧩",
+            "bullets": [
+              "Gelişim üç boyutta incelenir: **bilişsel**, **duyuşsal** ve **psikomotor** gelişim.",
+              "Piaget'e göre bilişsel gelişim **özümleme**, **uyma** ve **adaptasyon** aşamalarından geçen 4 dönemde gerçekleşir.",
+              "**Duyusal Motor Dönem (0-2 yaş)**: dünyayla duyular ve motor becerilerle tanışılır; refleksten istemli harekete geçilir.",
+              "**İşlem Öncesi Dönem (2-6 yaş)**: çocuk mantıktan çok sezgiyle ilerler, **nesne korunumunu** (örn. kesilen keğin miktarı değişmez) henüz anlayamaz.",
+              "**Somut İşlemler Dönemi (7-11 yaş)**: mantık ön plana çıkar, nesne korunumu çözülür ama soyut kavramlar hâlâ zordur.",
+              "**Soyut İşlemler Dönemi (12 yaş+)**: düşünce yetişkin seviyesine ulaşır; bilişsel gelişim ~15 yaşta zirveye çıkar."
             ]
           },
           {
-            "heading": "Duyuşsal Gelişim",
-            "paragraphs": [
-              "Duyuşsal gelişim, çocukların fiziksel etkinliklere katılarak ve oyunlar oynayarak hem kendi yeteneklerini hem de çevrelerini tanıdıkları, duygusal ve sosyal özelliklerin geliştiği, yaşam boyu devam eden bir süreçtir. Bilişsel gelişimin destekleyicisidir; örneğin matematiği seven bir çocuk sevmeyen çocuğa göre bu alanda daha hızlı ilerler. Sevme, hoşlanma, acı duyma, üzülme, korku ve kaygı gibi tepkiler duyuşsal gelişimle ilgilidir ve deneyimlerin çeşitliliği, sıklığı ve kalitesiyle doğru orantılı olarak gelişir; bize uygun olmayan bir spor branşıyla uğraşmamız sonucunda o spordan soğumamız buna bir örnektir.",
-              "Erken çocukluk (2-5 yaş) döneminde çocuklar en bencil, istekleri konusunda geçimsiz ve zor ikna olan dönemdedirler; doğru ile yanlışı ayırt etmeye başlar ve vicdan gelişmeye başlar. Geç çocukluk (6-11 yaş) döneminde cinsiyet farklılıkları hissedilmeye başlar, benmerkezci tutum sürmekle birlikte kazanma-kaybetmeyi kabullenme süreci henüz tam gelişmemiştir ve çocuklar merak-macera duygusuyla kendilerini tehlikeye atabilirler."
+            "heading": "Duyuşsal Gelişim: Hisler ve Tutumlar",
+            "emoji": "💛",
+            "bullets": [
+              "**Duyuşsal gelişim**, fiziksel etkinlik ve oyun yoluyla duygusal/sosyal özelliklerin gelişmesidir; bilişsel gelişimi de destekler.",
+              "Sevme, acı, korku, kaygı gibi tepkileri kapsar; örneğin sevmediğimiz bir spor branşından soğumamız buna örnektir.",
+              "**Erken çocukluk (2-5 yaş)**: çocuk en bencil ve geçimsiz dönemdedir; doğru-yanlış ayrımı ve vicdan gelişmeye başlar.",
+              "**Geç çocukluk (6-11 yaş)**: cinsiyet farkları hissedilir, kazanma-kaybetmeyi kabullenme henüz tam gelişmemiştir, merak-macera riskli davranışlara yol açabilir."
             ]
           },
           {
             "heading": "Psikomotor (Devinişsel) Gelişim",
-            "paragraphs": [
-              "Psikomotor gelişim, sinir ve kasların işlevleri ile fiziksel yapıda meydana gelen değişimleri kapsar. Erken çocukluk (2-5 yaş) döneminde algısal motor yetenekler sürekli ilerler; beden, zaman, mekân ve yön algısı henüz tam gelişmemiştir ancak temel hareket yetenekleri hızla gelişir. Bu dönemde çocuklar oldukça hareketlidir, koşmayı yürümeye tercih ederler; ince motor becerileri (örneğin yazı yazma) kaba motor becerilerine (örneğin atma, koşma) göre daha zayıftır ve bedensel cinsiyet farklılıkları henüz belirgin değildir.",
-              "Geç çocukluk (6-11 yaş) döneminde büyüme erken çocukluğa göre yavaşlar ancak sürer; büyük kas gruplarının (kaba) gelişimi küçük kaslara (ince) oranla daha fazladır. Dominant el ve ayak bu dönemde belirlenmiş olur, el-göz koordinasyonu dönem sonunda iyi bir seviyeye ulaşır; enerji yüksek, dayanıklılık ise düşüktür ve temel hareket becerileri oldukça gelişmiş düzeydedir."
+            "emoji": "⚙️",
+            "bullets": [
+              "**Psikomotor gelişim**, sinir-kas işlevleri ve fiziksel yapıdaki değişimleri kapsar.",
+              "**Erken çocukluk (2-5 yaş)**: beden/zaman/mekân algısı tam gelişmemiştir ama temel hareketler hızla gelişir; çocuk koşmayı yürümeye tercih eder.",
+              "Bu dönemde **kaba motor beceriler** (atma, koşma) **ince motor becerilerden** (yazı yazma) daha güçlüdür.",
+              "**Geç çocukluk (6-11 yaş)**: büyüme yavaşlar, büyük kas grupları hâlâ küçüklerden önde gelişir.",
+              "Bu dönemde **dominant el/ayak** belirlenir, el-göz koordinasyonu iyi seviyeye ulaşır; enerji yüksek ama dayanıklılık düşüktür."
             ]
           }
         ],
@@ -26787,81 +27627,97 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Sporda Ölçme ve Değerlendirmenin Önemi",
-            "paragraphs": [
-              "Ölçme ve değerlendirme, günlük yaşamımızın ayrılmaz bir parçasıdır; farkında olsak da olmasak da sürekli bunlardan yararlanırız. Örneğin sabah çalar saatin gösterdiği zamanı görmek bir ölçmedir, ancak 'birkaç dakika daha uyusam da antrenmana zamanında gidebilirim' şeklindeki karar bir değerlendirmedir. Benzer şekilde arabanın yakıt göstergesine bakmak bir ölçme, buna dayanarak benzin almaya karar vermek ise bir değerlendirmedir.",
-              "Aktivite temelli ortamlarda da ölçme ve değerlendirmeden sıkça yararlanılır. Egzersiz eğitmeni, bir egzersiz programı planlarken ölçmeyi, bireyin gelişimini belirlerken ise değerlendirmeyi kullanır. Beden eğitimi öğretmenleri fitness testleriyle öğrencilerinin fitness bileşenlerini ölçer ve sonuçlara göre değerlendirme yapar; antrenörler ise sporcu ve takımları üzerinde istatistiksel bilgiler toplayarak performans değerlendirmesi yaparlar.",
-              "Mesleğiniz öğretmen, antrenör, fitness eğitmeni veya fizyoterapist olsun, ölçme ve değerlendirmeyi kullanırsınız: öğretmen öğrencilerin başlangıç seviyesini belirlemek için ölçme yapar; fitness eğitmeni hangi egzersizlerin güvenli ve yararlı olacağını değerlendirmek için ölçüm yapar; fizyoterapist hastaların durumunu belirleyip uygun tedaviyi seçmek için ölçüm kullanır; antrenör ise sporcularının kondisyon, güç ve hız gibi yeteneklerini ölçerek takımın güçlü ve zayıf yanlarını belirler.",
-              "Sporda ölçme ve değerlendirme, beden eğitimi, spor ve egzersiz biliminde altı temel amaç için kullanılır: (1) Yerleştirme - yetenekli sporcuların uygun gruplara yerleştirilmesi; (2) Tanı (Teşhis) - sporcuların, hastaların veya katılımcıların mevcut durumunun (zayıf/güçlü yanlarının) belirlenmesi; (3) Başarının Değerlendirilmesi - spora özgü belirlenen amaçlara ulaşılıp ulaşılmadığının saptanması; (4) Tahmin (Kestirim) - ölçüm sonuçlarının gelecekteki başarı düzeyini kestirmede kullanılması; (5) Program Değerlendirme - uygulanan bir programın hedeflerine ulaşıp ulaşmadığının belirlenmesi; (6) Motivasyon - ölçüm sonuçlarının bireyleri teşvik etmek amacıyla kullanılması.",
-              "Sonuç olarak ölçme ve değerlendirme; antrenörün sporcusunu tanımasını, uygulamanın daha nitelikli yapılmasını ve sporculara daha iyi rehberlik edilmesini sağlar. Aynı zamanda ölçenin ve ölçülenin farkındalığını artırır, sporcuların güçlü ve zayıf yanlarının görülmesini, ilgi ve yeteneklerine göre doğru yönlendirilmelerini, karar alıcıların doğru kararlar almasını ve olası risklerin önceden tahmin edilmesini sağlar."
+            "heading": "Neden Ölçüyoruz, Neden Değerlendiriyoruz?",
+            "emoji": "🎯",
+            "bullets": [
+              "Hayatımız ölçme ve değerlendirmeyle örülü: saate bakmak **ölçme**, \"biraz daha uyusam mı\" demek ise **değerlendirme**dir.",
+              "Öğretmenler, antrenörler, fitness eğitmenleri ve fizyoterapistler hepsi bu ikiliyi kullanır: önce ölçer, sonra karar verir.",
+              "Spor biliminde ölçme-değerlendirme 6 temel amaca hizmet eder: **yerleştirme**, **tanı (teşhis)**, **başarının değerlendirilmesi**, **tahmin (kestirim)**, **program değerlendirme** ve **motivasyon**.",
+              "Sonuçta sporcunun güçlü/zayıf yanları görülür, doğru yönlendirme yapılır ve daha sağlam kararlar alınır."
             ]
           },
           {
-            "heading": "Ölçmenin Tanımı ve Süreci",
-            "paragraphs": [
-              "Ölçme, bir betimleme ve tanımlama işlemidir. Geniş anlamda ölçme; belli bir nesnenin belli bir özelliğe sahip olup olmadığının, sahipse sahip oluş derecesinin gözlenip gözlem sonuçlarının sayı, sıfat ve sembollerle ifade edilmesidir. Örneğin 'kaza yapan aracın 140 km hızla ilerlediğinin tespit edilmesi' veya 'Nil'in boyunun 168 cm olması' birer ölçme örneğidir. Ölçmede asıl konu olan şey, bireylerin veya nesnelerin kendisi değil, onlara ait olduğu düşünülen bir özelliğin var olma derecesi veya miktarıdır.",
-              "Ölçme işlemi üç aşamadan oluşan bir süreçtir: önce ölçülecek özellik tanımlanır, ardından bu özelliğe uygun sayı ve semboller kümesi belirlenir, son olarak da hangi sayı veya sembolün hangi duruma verileceğini gösteren kural belirlenir. Örneğin 'Otoparkta 8 araba vardır' ifadesinde ölçülen özellik araba sayısıdır, ölçüm 8'dir ve ölçme kuralı her bir arabanın '1' olarak sayılmasıdır. Benzer şekilde bir sınavda her sorunun 10 puan değerinde olması da bir ölçme kuralıdır.",
-              "Ölçülmeye çalışılan özellik, durumdan duruma, nesneden nesneye ya da zamandan zamana farklılık gösterebilir; bu farklılık kavramı ölçmenin temelini oluşturur. Eğer tüm insanlar aynı uzunlukta, aynı derecede zeki ve her yer aynı sıcaklıkta olsaydı, boy, zekâ veya sıcaklık gibi kavramlardan ve bunların ölçülmesinden söz edilemezdi."
+            "heading": "Ölçme Nedir?",
+            "emoji": "📏",
+            "bullets": [
+              "**Ölçme**, bir özelliğin var olup olmadığını (varsa ne derece var olduğunu) gözleyip sonucu sayı veya sembollerle ifade etmektir.",
+              "Örnek: \"Nil'in boyu 168 cm\" veya \"araç 140 km/sa gidiyordu\" cümleleri birer ölçmedir.",
+              "Ölçülen şey nesnenin kendisi değil, ona ait **özelliğin derecesi veya miktarı**dır.",
+              "Ölçme 3 adımda yapılır: özelliği tanımla, uygun sayı/sembol kümesini seç, hangi sayının hangi duruma verileceğine dair **kuralı** belirle.",
+              "Özellikler kişiden kişiye, zamandan zamana değişir; bu **değişkenlik** olmasa ölçmeye de gerek kalmazdı."
             ]
           },
           {
-            "heading": "Değişken Kavramı ve Türleri",
-            "paragraphs": [
-              "Değişken, en az iki değer alan ya da bir durumdan diğerine farklılık gösteren olaylara, insanlara veya eşyalara ait özelliklere denir. Bir özelliğin değişken sayılabilmesi için gözlemler arasında en az iki farklı değer alabilmesi gerekir. Örneğin bir takımdaki sporcuların cinsiyeti, kadın ve erkek olmak üzere en az iki değer alabildiğinden bir değişkendir.",
-              "Değişkenler aldıkları değerlere göre nicel (sayılarla ifade edilen; örn. boy uzunluğu, ağırlık, akademik başarı puanı) ve nitel (sıfat veya sembollerle ifade edilen; örn. cinsiyet, mezun olunan okul türü) olarak ikiye ayrılır. Ayrıca değerleri arasında sonsuz ara değer bulunabilen değişkenler sürekli değişken (örn. uzunluk, ağırlık, MaxVO2) olarak, değerleri sınırlı sayıda sıfat veya sembolle ifade edilen değişkenler ise süreksiz (kesikli) değişken (örn. diploma derecesi, cinsiyet, medeni durum) olarak adlandırılır.",
-              "Araştırmanın amacına göre ise değişkenler bağımsız (başka bir değişkene bağlı olmadan değer alabilen, etkileyen değişken) ve bağımlı (başka bir değişkene bağlı olarak farklı değerler alabilen, etkilenen değişken) olarak sınıflanır. Bir değişken doğası gereği bağımlı veya bağımsız değildir; bu sınıflama araştırmanın amacına göre değişir. Örneğin sigaranın kanser üzerindeki etkisi araştırılırken kanser bağımlı, sigara bağımsız değişkendir; aynı araştırmacı kanserin depresyon üzerindeki etkisini incelediğinde ise kanser bu kez bağımsız değişken olur."
+            "heading": "Değişken Ne Demek?",
+            "emoji": "🔀",
+            "bullets": [
+              "**Değişken**, en az iki farklı değer alabilen özelliktir (örn. cinsiyet: kadın/erkek).",
+              "**Nicel değişken** sayılarla ifade edilir (boy, ağırlık, başarı puanı); **nitel değişken** sıfat veya sembollerle ifade edilir (cinsiyet, okul türü).",
+              "**Sürekli değişken** sonsuz ara değer alabilir (boy, ağırlık, MaxVO2); **süreksiz (kesikli) değişken** sınırlı sayıda değer alır (diploma derecesi, cinsiyet, medeni durum).",
+              "**Bağımsız değişken** etkileyendir, **bağımlı değişken** etkilenendir — bu rol sabit değildir, araştırmanın amacına göre değişebilir.",
+              "Örnek: sigara-kanser araştırmasında kanser bağımlı değişkendir; ama aynı araştırmacı kanser-depresyon ilişkisini incelerse kanser bu kez bağımsız değişken olur."
             ]
           },
           {
-            "heading": "Ölçme Türleri: Doğrudan, Dolaylı ve Türetilmiş Ölçme",
-            "paragraphs": [
-              "Ölçme türü, ölçülmek istenen özelliğin ortaya çıkarılma şekline ve izlenen yönteme göre üçe ayrılır: doğrudan ölçme, dolaylı ölçme ve türetilmiş ölçme.",
-              "Doğrudan ölçme (temel ölçme), ölçmeye konu olan niteliğin kendisiyle aynı türden bir araçla ölçülmesidir; atılan şut sayısı, vurulan smaç sayısı, boy uzunluğu ve ağırlık gibi özelliklerin ölçülmesi doğrudan ölçmedir. Doğrudan ölçme ile güvenirliği ve geçerliği yüksek bir ölçme elde edilir.",
-              "Dolaylı ölçme, doğrudan gözlenemeyen bir özelliğin, onunla ilişkili olduğu bilinen ya da varsayılan başka bir özellik üzerinden ölçülmesidir. Zekâ, sıcaklık ve akademik başarı dolaylı ölçme ile ölçülür; örneğin sıcaklık doğrudan gözlenemediği için termometredeki cıvanın yükselip alçalmasından yararlanılarak ölçülür. Sporcuların kişilik özelliklerinin bir ölçekle belirlenmesi de dolaylı ölçmeye örnektir.",
-              "Türetilmiş ölçme, ölçmeye konu olan değişken üzerinde başka bir ölçme yapılmadan, bu değişkenle başka değişkenler arasında matematiksel bir bağıntı kurularak elde edilen ölçmedir. Vücut kitle indeksinin (VKİ = vücut ağırlığı (kg) / boy uzunluğunun karesi (m²)) hesaplanması türetilmiş ölçmenin tipik bir örneğidir; türetilmiş ölçme yapılabilmesi için en az iki ölçme sonucunun bulunması gerekir."
+            "heading": "3 Tip Ölçme: Doğrudan, Dolaylı, Türetilmiş",
+            "emoji": "🧮",
+            "bullets": [
+              "**Doğrudan ölçme**: özelliği kendisiyle aynı türden bir araçla ölçersin (şut sayısı, smaç sayısı, boy, ağırlık). Güvenirliği ve geçerliği en yüksek yöntemdir.",
+              "**Dolaylı ölçme**: doğrudan gözlenemeyen bir özelliği, onunla ilişkili başka bir özellik üzerinden ölçersin — sıcaklık termometredeki cıvayla, zekâ veya kişilik ise bir ölçekle ölçülür.",
+              "**Türetilmiş ölçme**: en az iki ölçüm sonucunu matematiksel bir formülle birleştirerek elde edilir.",
+              "Klasik örnek: **Vücut Kitle İndeksi (VKİ)** = ağırlık (kg) ÷ boy² (m²) — türetilmiş ölçmedir."
             ]
           },
           {
-            "heading": "Ölçme Biriminin Özellikleri ve Sıfır Kavramı",
-            "paragraphs": [
-              "Bir ölçme aracını oluşturan en küçük parçacığa birim denir; cm, mm, km, kilo ve gram birer birimdir. Birim, ölçmenin objektif ve standart olmasını sağlar, bu da sonuçların okunmasını, yorumlanmasını ve başkalarına aktarılmasını kolaylaştırır. Anlaşılır bir ölçme sonucu için birimin eşitlik (her noktada aynı büyüklükte olması; örn. 1 metreyi oluşturan her cm'nin birbirine eşit olması), genellik (herkes tarafından aynı şekilde anlaşılması ve kullanılması; örn. ağırlığın kg ile ifade edilmesi) ve kullanışlılık (birimin ölçülecek değişkenin büyüklüğüne uygun olması; örn. şehirler arası uzaklık için km'nin metreden daha kullanışlı olması) özelliklerine sahip olması gerekir.",
-              "Ölçmede bir başlangıç noktası olan sıfır da önemli bir kavramdır ve iki farklı anlamda kullanılır: Mutlak (doğal/gerçek) sıfır, ölçülen özelliğin gerçek anlamda yokluğunu ifade eder; örneğin bir sınıfta futbol takımında oynayan öğrenci bulunmaması durumunda kullanılan 'yok' ifadesi mutlak sıfırı gösterir. Bağıl (göreceli) sıfır ise ölçülen özelliğin yokluğu anlamına gelmez, belli bir düzeyde var olduğunu gösterir; örneğin hava sıcaklığının 0°C olması sıcaklığın hiç olmadığı anlamına gelmez, sadece ölçek üzerinde tanımlanmış bir noktayı ifade eder."
+            "heading": "Birim ve Sıfır Kavramı",
+            "emoji": "0️⃣",
+            "bullets": [
+              "**Birim**, bir ölçme aracının en küçük parçasıdır (cm, mm, km, kilo, gram).",
+              "İyi bir birimde 3 şart aranır: **eşitlik** (her parça aynı büyüklükte), **genellik** (herkesçe aynı şekilde anlaşılır), **kullanışlılık** (ölçülen şeye uygun büyüklükte, örn. şehirler arası mesafede km).",
+              "**Mutlak (gerçek) sıfır**, ölçülen özelliğin gerçekten yokluğunu gösterir (örn. takımda hiç futbolcu olmaması = \"yok\").",
+              "**Bağıl (göreceli) sıfır**, yokluk anlamına gelmez; sadece ölçek üzerinde tanımlı bir başlangıç noktasıdır (örn. 0°C, sıcaklığın hiç olmadığı anlamına gelmez)."
             ]
           },
           {
-            "heading": "Ölçek Türleri",
-            "paragraphs": [
-              "Ölçek, nesnelerdeki özellikleri ve farkları ortaya çıkarmaya yarayan bir araçtır (metre, termometre, baskül gibi). Ölçekler, en az bilgi vericiden en çok bilgi vericiye doğru dört düzeyde sınıflandırılır: sınıflama (adlandırma/nominal), sıralama (dereceleme), eşit aralıklı ve eşit oranlı ölçek.",
-              "Sınıflama (Adlandırma-Nominal) Ölçeği, nesneleri belli bir yönden benzeyip benzemediklerine göre sınıflamayı temel alır; cinsiyete göre kadın-erkek, voleybolda mevkiye göre pasör-smaçör-libero gibi kategoriler birer sınıflamadır. Bu ölçekte verilen sayıların sayısal bir değeri ve miktarı yoktur; hiçbir matematiksel işlem veya karşılaştırma yapılamaz, sadece frekans tablosu ve mod değeri hesaplanabilir.",
-              "Sıralama (Dereceleme) Ölçeği'nde, özelliğe ait büyüklükler belli bir kurala göre büyükten küçüğe veya küçükten büyüğe sıralanır; sporcuların boy sırası veya bir maçta elde ettikleri sayıya göre başarı sırası buna örnektir. Bu ölçekte birimler eşit büyüklükte olmadığından toplama, çıkarma, çarpma ve bölme yapılamaz; ancak medyan, yüzdelik ve sıra farkları korelasyonu gibi istatistiksel işlemler yapılabilir.",
-              "Eşit Aralıklı Ölçek'te sınıflama ve sıralama ölçeklerinde bulunmayan bir başlangıç (sıfır) noktası vardır, ancak bu sıfır göreceli (bağıl) bir sıfırdır. Termometre ve takvim bu ölçeğin örnekleridir. Bu ölçekten elde edilen sonuçlarla aritmetik ortalama, standart sapma ve korelasyon katsayısı hesaplanabilir; ancak oranlama yapılamaz (örn. 100 puan alan öğrencinin 50 puan alandan 'iki kat' başarılı olduğu söylenemez).",
-              "Eşit Oranlı Ölçek'te ise başlangıç noktası gerçek (mutlak) sıfırdır ve birimler birbirine eşittir; kilogram ve metre bu ölçeğin örnekleridir. Başlangıç noktası gerçek sıfır olduğundan bu ölçekten elde edilen sonuçlar oranlamaya uygundur ve anlamlıdır; örneğin 100 kg'lık bir sporcunun 50 kg'lık bir sporcunun ağırlığının iki katı olduğu söylenebilir. Bu ölçek düzeyinde her türlü matematiksel ve istatistiksel işlem yapılabilir."
+            "heading": "4 Ölçek Seviyesi",
+            "emoji": "📊",
+            "bullets": [
+              "**Ölçek**, özellikleri ve farkları ortaya çıkaran araçtır (metre, termometre, baskül). Bilgi zenginliğine göre 4 düzeye ayrılır.",
+              "**Sınıflama (nominal) ölçeği**: sadece kategori ayırır (kadın-erkek, pasör-smaçör-libero). Sayılar miktar belirtmez; sadece **frekans tablosu** ve **mod** hesaplanabilir.",
+              "**Sıralama (dereceleme) ölçeği**: büyükten küçüğe dizer (boy sırası, başarı sırası). Birimler eşit olmadığından toplama/çıkarma yapılamaz; ama **medyan**, yüzdelik ve sıra farkı korelasyonu hesaplanabilir.",
+              "**Eşit aralıklı ölçek**: başlangıcı bağıl sıfırdır (termometre, takvim). **Aritmetik ortalama** (toplam ÷ veri sayısı), standart sapma ve korelasyon hesaplanabilir; ama oranlama yapılamaz — 100 puan, 50 puandan \"iki kat\" başarılı sayılmaz.",
+              "**Eşit oranlı ölçek**: başlangıcı gerçek (mutlak) sıfırdır, birimler eşittir (kilogram, metre, sayma yoluyla elde edilen veriler). Oranlama anlamlıdır (100 kg, 50 kg'ın iki katıdır) ve her türlü matematiksel/istatistiksel işlem (çarpma, bölme dahil) yapılabilir."
             ]
           },
           {
-            "heading": "Değerlendirmenin Tanımı ve Ögeleri",
-            "paragraphs": [
-              "Değerlendirme, bir ölçme işleminden elde edilen ölçme sonuçlarının bir ölçütle karşılaştırılarak ölçülen özellik hakkında bir karara varma sürecidir. Bir şeyin değerlendirme sayılabilmesi için üç öğenin bulunması gerekir: ölçme sonuçları, ölçüt ve karar.",
-              "Değerlendirmenin ilk öğesi olan ölçme sonuçları, ölçmeye konu olan özelliğe karşılık gelen değerlerin sayı veya sembollerle ifade edilmesidir. Doğru bir değerlendirme için ölçme sonuçlarının tesadüfi hatalardan arınık olması, yani güvenirlik ve geçerlik düzeyinin yüksek olması gerekir.",
-              "Değerlendirmenin ikinci ve olmazsa olmaz öğesi ölçüttür: ölçme sonuçlarının karşılaştırıldığı ve değerlendirmeye dayanak olan sabit değer ya da kriterdir. Ölçme sonuçlarının güvenirliği ve geçerliği kadar, seçilen ölçütün uygunluğu da değerlendirmenin doğruluğunu belirler; değerlendirmede mutlak ölçüt ve bağıl ölçüt olmak üzere iki tür ölçüt kullanılır."
+            "heading": "Değerlendirme Nedir?",
+            "emoji": "⚖️",
+            "bullets": [
+              "**Değerlendirme**, ölçme sonuçlarını bir ölçütle karşılaştırıp bir karara varma sürecidir.",
+              "Bir şeyin değerlendirme sayılması için 3 öge şart: **ölçme sonuçları**, **ölçüt** ve **karar**.",
+              "Ölçme sonuçlarının güvenilir ve geçerli olması gerekir; aksi halde değerlendirme de hatalı çıkar.",
+              "**Ölçüt**, sonuçların karşılaştırıldığı sabit değer/kriterdir ve iki türü vardır: **mutlak ölçüt** ve **bağıl ölçüt**."
             ]
           },
           {
-            "heading": "Ölçüt ve Değerlendirme Türleri: Mutlak ve Bağıl",
-            "paragraphs": [
-              "Mutlak ölçüt, ölçme işlemi yapılmadan önce, ölçülecek grubun tamamını kapsayacak şekilde belirlenen kesin ve standart bir ölçüttür; yani test uygulanmadan önce ölçüt miktarı bellidir. Örnekler: 'Boyu 185 cm'den uzun olanlar takıma girer', '100 metreyi 15 saniyenin altında koşanlar finale kalır', 'Akademik ortalaması 2.5 üstü olanlar formasyona başvurabilir'. Mutlak ölçütü genellikle bir kurum veya yetkili kurul belirler.",
-              "Bağıl ölçüt ise ölçme işlemi gerçekleştirildikten sonra, ölçme sonuçları dikkate alınarak bir gruba veya bireye göre belirlenen ölçüttür ve sadece o grup için geçerlidir. Örnekler: 'Ortalamanın üstünde puan alanlar geçer', 'Projelerde en iyi ilk beş proje finale kalır', 'Grubun ilk %25'ine girenler başarılı sayılır'. Bağıl ölçütü değerlendirmeyi yapacak kişi belirler.",
-              "Kullanılan ölçüte göre değerlendirme de ikiye ayrılır. Mutlak Değerlendirme (kritere bağlı değerlendirme), mutlak bir ölçüt temel alınarak yapılan değerlendirmedir; örneğin bir kulübün voleybol takımına seçimde boy uzunluğu ölçütünü 1.80 cm olarak belirlemesi ve bu ölçüte uyan adayların seçilmesi mutlak değerlendirmedir. Bağıl Değerlendirme (norm dayanıklı değerlendirme) ise bağıl ölçütlere göre yapılır; örneğin sınıfta fizik dersinden en yüksek puanı alan öğrencinin 'en başarılı' sayılması, diğer öğrencilerin puanlarıyla karşılaştırmaya dayandığından bağıl değerlendirmedir.",
-              "Pedometre örneğinde olduğu gibi, bir kişinin attığı adım sayısını başka bir kişiyle karşılaştırmak bağıl (norm referanslı) bir değerlendirme, adım sayısını önceden belirlenmiş sabit bir hedefle (örn. günde 10.000 adım) karşılaştırmak ise mutlak (kriter referanslı) bir değerlendirmedir. Fitnessgram'ın Sağlıklı Fitness Noktası gibi kriter referanslı standartlar, bireyin akranlarıyla kıyaslanmasından bağımsız olarak, sağlık açısından yeterli düzeye ulaşıp ulaşmadığını belirlemede kullanılır."
+            "heading": "Mutlak mı, Bağıl mı?",
+            "emoji": "⚔️",
+            "bullets": [
+              "**Mutlak ölçüt**: ölçümden ÖNCE belirlenen, sabit ve kesin bir standarttır (örn. \"185 cm'den uzun olanlar takıma girer\", günde 10.000 adım hedefi). Genelde bir kurum veya kurul belirler.",
+              "**Bağıl ölçüt**: ölçümden SONRA, grubun sonuçlarına bakılarak belirlenir ve sadece o grup için geçerlidir (örn. \"ortalamanın üstü geçer\", \"ilk 5 proje finale kalır\").",
+              "**Mutlak değerlendirme (kritere bağlı)**: mutlak ölçüte göre yapılır (örn. boy ölçütünü 1.80 cm koyup buna uyanları seçmek).",
+              "**Bağıl değerlendirme (norm dayanıklı)**: bağıl ölçüte göre yapılır (örn. sınıfta en yüksek puanı alanı \"en başarılı\" ilan etmek).",
+              "Pedometre örneği: adım sayını başkasıyla kıyaslamak **bağıl**, sabit bir hedefle (10.000 adım) kıyaslamak **mutlak** değerlendirmedir."
             ]
           },
           {
-            "heading": "Amaca Göre Değerlendirme Türleri",
-            "paragraphs": [
-              "Değerlendirme, kullanım amacına göre üçe ayrılır: Tanıma ve Yerleştirmeye Yönelik Değerlendirme, Biçimlendirici Değerlendirme ve Değer Biçmeye Yönelik (Özetleyici) Değerlendirme.",
-              "Tanıma ve Yerleştirmeye Yönelik Değerlendirme, öğretim veya antrenman sürecinin başında yapılır; sporcuların ilgili branşın ön koşulu olan giriş davranışlarına ne derece sahip olduğunu belirlemek ve sürecin başlangıç noktasını saptamak amacıyla kullanılır. Yetenek seçimine dönük değerlendirmeler bu türe örnektir.",
-              "Biçimlendirici Değerlendirme (Formative Evaluation), eğitim veya antrenman süreci boyunca yapılan sürekli gözlem ve geri bildirimlerden oluşur; amacı bireyin süreç içindeki eksiklerini belirleyip bunları gidermek ve uygulamadaki aksaklıkları erken fark etmektir. Bir antrenörün sporcusuna yeni bir teknik öğretirken verdiği anlık geri bildirimler, puanla somutlaştırma amacı gütmeden, biçimlendirici değerlendirme örneğidir.",
-              "Değer Biçmeye Yönelik (Özetleyici) Değerlendirme (Summative Evaluation), eğitim veya antrenman sürecinin sonunda yapılan nihai değerlendirmedir ve tipik olarak bir sürecin sonunu gösterir; bir atletin olimpiyatlar sonunda madalya kazanması özetleyici değerlendirmeye örnektir. Genellikle süreç boyunca yapılan biçimlendirici değerlendirmeler, sonunda özetleyici değerlendirmeye katkıda bulunur; örneğin vücut yağ yüzdesinin her hafta ölçülmesi biçimlendirici, 8 haftanın sonunda yapılan aynı ölçüm ise özetleyici değerlendirme olabilir."
+            "heading": "Ne Zaman Hangi Değerlendirme?",
+            "emoji": "⏱️",
+            "bullets": [
+              "**Tanıma ve yerleştirmeye yönelik değerlendirme**: sürecin BAŞINDA yapılır, başlangıç seviyesini ve ön koşulları belirler (örn. yetenek seçimi).",
+              "**Biçimlendirici değerlendirme (Formative)**: süreç BOYUNCA yapılan sürekli gözlem ve geri bildirimdir; eksikleri erken fark ettirir (örn. antrenörün anlık düzeltmeleri).",
+              "**Değer biçmeye yönelik / özetleyici değerlendirme (Summative)**: sürecin SONUNDA yapılan nihai değerlendirmedir (örn. olimpiyat sonunda madalya kazanmak).",
+              "Örnek: vücut yağının her hafta ölçülmesi biçimlendirici, 8 hafta sonunda yapılan son ölçüm ise özetleyici değerlendirmedir."
             ]
           }
         ],
@@ -27091,60 +27947,79 @@ window.COURSES = [
         ],
         "summary": [
           {
-            "heading": "Eğitim, Öğretim ve Öğrenme Kavramları",
-            "paragraphs": [
-              "Eğitim, en çok benimsenen tanımıyla (Ertürk, 1979) 'bireyin davranışlarında kendi yaşantısı yoluyla kasıtlı olarak istendik davranış değişikliği meydana getirme sürecidir'. Bu tanımdan yola çıkarak eğitimin üç temel özelliği vardır: bireyin davranışlarının amaçlanan yönde değiştirilmesi gerektiği, bu değişikliğin bireyin kendi yaşantısı (bilgi-çevre etkileşimi) yoluyla gerçekleştiği ve eğitimin planlı ve programlı bir süreç olduğu. Eğitim yoluyla kişinin amaçları, bilgileri, davranışları, tavırları ve ahlak ölçüleri değişir; eğitimin başlıca amaçları arasında kişinin kendini gerçekleştirmesi, toplumsal doğasına sağlıklı uyumu, hoşgörülü ve demokratik bir kişilik kazanması, yaratıcı ve üretici bir yaşama hazırlanması ile erdemli ve girişimci bir karakter geliştirmesi sayılabilir.",
-              "İnsanın öğrenmesi ve gelişimi üç alanda gerçekleşir: bilişsel, duyuşsal ve psikomotor (devinişsel) alan. Bilişsel alan; çevreyi anlama, kavrama, problem çözme, analiz-sentez yapma gibi zihinsel süreçleri kapsar ve bu alandaki öğrenmenin sonunda kişi 'bilgi kazanır'. Duyuşsal alan; sevgi, saygı, hoşgörü, sorumluluk gibi duyguların öğrenilmesini ve sosyalleşmeyi içerir, sonucunda 'ilgi, alışkanlık, tutum kazanma' gerçekleşir. Psikomotor alan ise zihin-kas koordinasyonu gerektiren becerilerin öğrenimini kapsar ve sonucunda kişi 'beceri kazanır' (örn. ip atlayamazken atlayabilir hâle gelmesi). Bu üç alan birbirinden tamamen ayrı değildir; birindeki gelişim diğerlerini de etkiler. Bu nedenle antrenörlerin sporculara sadece psikomotor beceriler kazandırmakla kalmayıp duyuşsal ve bilişsel kazanımları da hedeflemesi gerekir.",
-              "Öğretim, Türk Dil Kurumu tanımına göre 'öğrenmeyi kolaylaştıracak etkinlikleri düzenleme, araç-gereçleri sağlama ve kılavuzluk etme işi'dir. Eğitim bireyde davranış değişikliği geliştirme süreciyken, öğretim bu değişikliğin planlı ve programlı şekilde nasıl yapılacağıyla ilgilidir; yani öğretim bir süreçtir, planlıdır ve öğreneni geliştirmeyi, öğrenmeyi başlatıp sürdürmeyi amaçlar.",
-              "Öğrenme, 'yaşantı sonucu davranışta ya da potansiyel davranışta meydana gelen nispeten kalıcı izli bir değişme' olarak tanımlanır. Eğitim bir süreçken öğrenme bu sürecin bir ürünüdür; bir başka deyişle eğitim neden, öğrenme ise sonuçtur. Öğrenmenin ortak özellikleri şunlardır: davranışta gözlenebilir bir değişme olması, bu değişmenin nispeten sürekli olması, yaşantı kazanma sonucunda oluşması; buna karşılık yorgunluk, hastalık, ilaç alma gibi geçici etkenlerle veya sadece büyüme sonucu meydana gelen değişiklikler öğrenme sayılmaz. İnsan davranışları üçe ayrılır: doğuştan gelen davranışlar (refleksler ve içgüdüler; örn. aşırı sese tepki vermek), geçici davranışlar (hastalık, ilaç, alkol etkisiyle oluşan davranışlar) ve sonradan kazanılan/öğrenme ürünü davranışlar (yazı yazma, top sürme, şut atma gibi). Antrenörlerin kazandıracağı veya değiştireceği davranışlar bu üçüncü gruba, öğrenme ürünü davranışlara aittir.",
-              "Spor pedagojisi, çocukların ve gençlerin hem sporda (psikomotor alan) hem de spor yoluyla (bilişsel ve duyuşsal alanlar) öğrenmeleriyle ilgilenen, spor bilimlerinin bir alt disiplinidir. Çok boyutlu ve çok katmanlı olan bu alan üç temel boyuttan oluşur: içerik (bağlam) bilgisi (öğretilecek bilginin siyasi, sosyal, kültürel bağlamı), öğrenenler ve öğrenme (çocuk/genç sporcuların farklı ihtiyaçlarının anlaşılması ve öğrenme kuramlarında uzmanlık) ve antrenörler/antrenörlük (antrenörün güçlü spor içerik bilgisini pedagojik alan bilgisiyle birleştirebilmesi). Güçlü bir spor bilgisine sahip olmak tek başına yeterli değildir; uzman ve başarılı antrenörler, spor içerik bilgisiyle pedagojik alan bilgisini birleştirebilen kişilerdir."
+            "heading": "Eğitim, Öğretim ve Öğrenme Nedir?",
+            "emoji": "📚",
+            "bullets": [
+              "Ertürk'ün tanımıyla **eğitim**, bireyin davranışlarında kendi yaşantısıyla kasıtlı olarak oluşturulan, **planlı ve programlı** bir değişim sürecidir.",
+              "Öğrenme üç alanda gerçekleşir: **bilişsel** alanda bilgi, **duyuşsal** alanda ilgi/tutum, **psikomotor** alanda beceri kazanılır.",
+              "**Öğretim**, öğrenmeyi kolaylaştıracak etkinlikleri düzenleme ve kılavuzluk etme işidir; eğitimin nasıl yapılacağını planlar.",
+              "**Öğrenme**, yaşantı sonucu davranışta oluşan **nispeten kalıcı bir değişmedir** — eğitim neden, öğrenme ise onun sonucu (ürünü)dür.",
+              "Davranışlar üçe ayrılır: **doğuştan gelen** (refleks/içgüdü, örn. ani sese irkilme), **geçici** (hastalık/ilaç etkisiyle) ve **öğrenme ürünü** davranışlar (top sürme, şut atma gibi) — antrenörler üçüncü grupla ilgilenir.",
+              "**Spor pedagojisi**, çocuk ve gençlerin sporda ve spor yoluyla öğrenmesini inceleyen bir alt disiplindir; içerik bilgisi, öğrenenler ve antrenörlük olmak üzere üç boyutu vardır.",
+              "Başarılı bir antrenör, güçlü spor bilgisini **pedagojik alan bilgisiyle** birleştirebilen kişidir."
             ]
           },
           {
             "heading": "Öğrenmeyi Etkileyen Faktörler",
-            "paragraphs": [
-              "Öğrenmeyi doğrudan etkileyen faktörler üç başlık altında ele alınır: öğrenenle ilgili faktörler, öğretme yöntemiyle ilgili faktörler ve öğrenme malzemesiyle ilgili faktörler.",
-              "Öğrenenle ilgili faktörler: Türe özgü hazıroluş (organizmanın istenen davranışı gösterecek biyolojik donanıma sahip olması; insana uçmanın öğretilememesi gibi) ve olgunlaşma (genetik olarak zamanı geldiğinde kendiliğinden oluşan, çevreden bağımsız biyolojik değişiklikler; bebeğin 5-6 ayda oturması gibi) temel ön koşullardır. Genel uyarılmışlık hali ve kaygı düzeyi öğrenmeyi U şeklinde etkiler: hem çok düşük hem çok yüksek uyarılmışlık/kaygı öğrenmeyi zorlaştırırken orta düzey bir uyarılmışlık öğrenmeyi kolaylaştırır; ancak sportif yetenek ve benlik saygısı yüksek olan sporcular yüksek kaygıya daha dayanıklıdır. Eski yaşantılar, öğrenmeyi transfer (aktarım) yoluyla etkiler: önceden öğrenilenler yeni öğrenmeyi kolaylaştırıyorsa olumlu transfer (badmintondaki ayak hareketlerinin voleybolu kolaylaştırması), zorlaştırıyorsa olumsuz transfer (masa tenisi forehandının tenis forehandını zorlaştırması) söz konusudur. Güdü (motivasyon), organizmayı harekete geçiren içsel (bireyin kendi ihtiyacını hissetmesi) veya dışsal (antrenör isteğiyle oluşan) kaynaklı olabilir. Dikkat ise bilincin bir noktada toplanmasıdır ve öğrenme dikkatle başlar; sporcunun yaşı büyüdükçe dikkat süresi de artar (ilkokulda ~3-5 dk, ortaokulda ~5-8 dk, lisede ~10-15 dk, üniversitede ~15-20 dk).",
-              "Öğretme yöntemiyle ilgili faktörler: Öğrenmeye ayrılan zaman aralıklı çalışma (konunun düzenli aralıklarla tekrar edilmesi, daha etkili) ile toplu çalışma (ihtiyaç anında yoğun çalışma, kalıcılık açısından zayıf) şeklinde ikiye ayrılır. Öğrenilen konunun yapısına göre basit beceriler bütün halinde (ip atlama gibi), kompleks beceriler parçalara bölerek (smaç gibi) öğretilmelidir. Sporcunun aktif katılımı arttıkça öğrenme de güçlenir, çünkü psikomotor davranışların öğrenilmesi doğru tekrar sayısına bağlıdır. Geribildirim (dönüt), öğrenene öğrenme sonucunun bildirilmesidir; içsel (sporcunun kendi performansını değerlendirmesi) ve dışsal (antrenör, hakem, seyirci gibi başkalarının bilgi vermesi) olmak üzere ikiye ayrılır ve işitsel, görsel veya yazılı biçimde verilebilir.",
-              "Öğrenme malzemesiyle (içerikle) ilgili faktörler: Telaffuz edilebilirlik (malzemenin antrenör tarafından doğru ifade edilebilmesi; özellikle 6-11/12 yaş somut işlemler dönemindeki çocuklara bilmedikleri kelimelerle anlatım yapılmaması gerekir), algısal ayırt edilebilirlik (öğrenilecek bilginin çevredeki diğer uyarıcılardan ayırt edilebilir olması; vurgu, tekrar, görsel materyal kullanımı bunu sağlar), anlamsal çağrışım (yeni bilginin sporcunun zihnindeki diğer bilgilerle bağlantılı olması; bağlantısız bilgiler kolay unutulur ve bu durum transfer kavramıyla ilişkilidir) ve kavramsal gruplandırma (bilgilerin gruplar ve alt gruplar halinde sunulmasının öğrenmeyi kolaylaştırması; anlamsal çağrışımdan farkı, bu dizilimin öznel değil nesnel olmasıdır)."
+            "emoji": "🧠",
+            "bullets": [
+              "Üç faktör grubu öğrenmeyi etkiler: **öğrenenle ilgili**, **öğretme yöntemiyle ilgili** ve **öğrenme malzemesiyle ilgili** faktörler.",
+              "Öğrenenle ilgili: **türe özgü hazıroluş** (biyolojik olarak o davranışa uygun olma) ve **olgunlaşma** (zamanla kendiliğinden oluşan biyolojik gelişim) temel ön koşuldur.",
+              "**Genel uyarılmışlık/kaygı** öğrenmeyi U şeklinde etkiler — çok düşük ya da çok yüksek değil, orta düzey uyarılmışlık öğrenmeyi en çok kolaylaştırır.",
+              "**Eski yaşantılar**, yeni öğrenmeyi **transfer** yoluyla etkiler: kolaylaştırırsa olumlu, zorlaştırırsa olumsuz transfer denir.",
+              "**Güdü (motivasyon)** içsel (kişinin kendi isteği) veya dışsal (antrenörden gelen) olabilir; **dikkat** öğrenmenin başladığı noktadır ve yaşla birlikte süresi artar.",
+              "Öğretme yöntemiyle ilgili: düzenli **aralıklı çalışma**, yoğun **toplu çalışmadan** daha kalıcıdır; sporcunun aktif katılımı arttıkça öğrenme güçlenir.",
+              "**Geribildirim (dönüt)**, sporcuya performansının ne kadar doğru/hatalı olduğunu bildirmektir (içsel ya da dışsal); malzemede de telaffuz edilebilirlik, algısal ayırt edilebilirlik, anlamsal çağrışım ve kavramsal gruplandırma önemlidir."
             ]
           },
           {
-            "heading": "Öğretme ve Öğrenmenin Kuramsal Temelleri",
-            "paragraphs": [
-              "Öğrenmeyi açıklamaya çalışan kuramlar dört ana başlıkta toplanır: davranışçı öğrenme kuramları, sosyal-bilişsel (bilişsel ağırlıklı davranışçı) kuram, bilişsel öğrenme kuramları ve yapılandırmacı öğrenme kuramı.",
-              "Davranışçı öğrenme kuramları (Pavlov, Watson, Thorndike, Guthrie, Skinner), öğrenmeyi uyarıcı (U) ile tepki (T) arasında bağ kurma süreci olarak tanımlar; önemli olan bireyin ne düşündüğü değil ne yaptığıdır ve tüm değişkenler çevrededir. Pavlov'un klasik koşullamasında uyarıcı genellemesi (benzer uyarıcılara aynı tepkiyi verme; sert bir antrenörden korkan oyuncunun tüm antrenörlerden korkması), ayırt etme (genellemenin tersi; belirli bir antrenörden korkup diğerlerinden korkmama), alışma (tekrarlanan uyarıcıya tepkinin azalması) ve duyarlılık kazanma (tekrarlanan uyarana normalden fazla tepki verme) ilkeleri yer alır; öğrenilmiş çaresizlik de sporcunun ne yaparsa yapsın durumu değiştiremeyeceğini öğrenmesidir. Thorndike'ın hazırbulunuşluk yasası, bir etkinliği yapmaya hazır olup olmamanın duygusal sonuçlarını açıklar; etki yasasına göre pekiştirilen tepkinin gücü artar. Skinner'ın edimsel koşullamasında pekiştireç (hoşa giden uyarıcı) davranışı güçlendirir: olumlu pekiştirme/pekiştireç (hoşa giden bir şeyin verilmesi, örn. antrenörün 'bravo' demesi) ve olumsuz pekiştirme/pekiştireç (hoş olmayan bir durumdan kaçınmanın sağlanması, örn. ağrı kesici alıp oynama) ayrımı önemlidir; Premack ilkesi az istenen bir etkinliğin daha çok istenen bir etkinliğe bağlanmasıdır (antrenman sonunda maç yaptırmak gibi). Pekiştireçler bireysel olmalı, davranış gerçekleştiğinde mümkün olan en kısa sürede verilmeli ve yeni öğrenilen bir davranışta sürekli, iyi öğrenilmiş bir davranışta ise daha seyrek pekiştirme (tarife) kullanılmalıdır; davranışın küçük adımlara bölünerek pekiştirilmesine şekillendirme denir. Ceza, istenmeyen davranışı zayıflatmayı hedefler (mola verme gibi).",
-              "Bandura'nın sosyal-bilişsel öğrenme kuramına göre birey her şeyi doğrudan yaşamadan, başkalarını (saygın, güçlü modelleri) gözleyerek de öğrenebilir; gözlenen davranış pekiştiriliyorsa taklit edilir, cezalandırılıyorsa edilmez. Bu kuramda öğrenme dört süreçte gerçekleşir: dikkat etme (modelin dikkat çekici kılınması), hatırda tutma (sözel/sembolik temsil), davranışı meydana getirme (tekrar ederek davranışa dönüştürme) ve güdüleme (dışsal pekiştireçle davranışı sürdürme isteği oluşturma). Antrenörler sporcuları için birer model olduklarından antrenman içinde ve dışında davranışlarına dikkat etmelidir.",
-              "Bilişsel öğrenme kuramları, davranışçılığın U-T bağının aksine öğrenmeyi U-O-T (uyarıcı-organizma-tepki) bağı ile açıklar; öğrenen, bilgiyi pasif almak yerine özümseyen ve aktif olarak yapılandıran biridir. Gestalt kuramcılarına (Wertheimer, Köhler, Koffka) göre insanlar nesneleri bütün olarak algılar, bütün parçaların toplamından farklıdır ve öğrenme şekil-zemin ilişkisindeki değişmedir; bu nedenle antrenör önce genel çerçeveyi sunmalı, sporcuyu bilişsel dengesizliğe sokarak problem çözmeye yöneltmelidir. Bilgiyi işleme kuramı ise bilginin nasıl alındığını, işlendiğini, uzun süreli bellekte depolandığını ve geri getirildiğini açıklayan bir modeldir (dikkat/seçici algı → kısa süreli bellek/kodlama → uzun süreli bellek → hatırlama, unutma riskiyle birlikte). Bu modele göre antrenörler sporcunun dikkatini çekmeli, önemli bilgiyi ayrıştırmasına yardım etmeli, yeni bilgiyi eski bilgiyle ilişkilendirmeli (eklemleme), örgütleme stratejileri (tablo, grafik) kullanmalı, somut örnekler vermeli, karıştırmayı önleyici tedbirler almalı ve aralıklı tekrar/özetlemelere yer vermelidir.",
-              "Yapılandırmacı öğrenme kuramı (Piaget - bilişsel yapılandırmacılık, Vygotsky - sosyal yapılandırmacılık), öğrenenlerin etkili öğrenmesi için yeni bilgiler karşısında bir dengesizlik sürecinin gerekli olduğunu savunur. Öğrenme bireyin zihninde gerçekleşen, önceki bilgi ve deneyimlere dayanarak yeni anlamlar inşa etme sürecidir; öğrenen pasif bir alıcı değil, aktif bir yapılandırıcıdır. Bu yaklaşımda pedagojik odak 'görev yönelimli'dir; antrenörün rolü bilgiyi doğrudan vermek değil, sporcunun kendi anlamını oluşturmasını kolaylaştırmaktır. Öğrenme-öğretme ortamının keşfe yönelik, uygulamalı, aktif ve işbirlikli (akran eğitimi, grup çalışması, durumsal öğrenme, yansıtıcı uygulamalar) olması beklenir; aşırı kuralcı bir yaklaşım öğrenmeyi olumsuz etkileyebilir."
+            "heading": "Öğrenme Kuramları",
+            "emoji": "💡",
+            "bullets": [
+              "Öğrenme kuramları dört grupta toplanır: **davranışçı**, **sosyal-bilişsel**, **bilişsel** ve **yapılandırmacı** kuramlar.",
+              "**Davranışçı kuramlar** (Pavlov, Skinner...) öğrenmeyi **uyarıcı-tepki (U-T)** bağı olarak görür; önemli olan düşünce değil davranıştır. Pavlov'dan **genelleme, ayırt etme, alışma ve duyarlılık kazanma** kavramları gelir.",
+              "Sporcunun ne yaparsa yapsın sonucu değiştiremeyeceğini öğrenmesine **öğrenilmiş çaresizlik** denir; Skinner'ın edimsel koşullamasında davranışı güçlendiren hoşa giden/gitmeyen uyarıcıya **pekiştireç** denir (olumlu/olumsuz).",
+              "Pekiştireç, davranıştan **hemen sonra, en kısa sürede** ve kişiye özel verilmelidir; **Premack ilkesi** az istenen işi çok istenen işe bağlamaktır, davranışı adım adım pekiştirmeye **şekillendirme** denir.",
+              "**Bandura'nın sosyal-bilişsel kuramına** göre insan başkalarını gözleyerek de öğrenir; bu süreç **dikkat etme, hatırda tutma, davranışı meydana getirme ve güdülenme** adımlarından geçer — antrenörler sporcuları için birer modeldir.",
+              "**Bilişsel kuramlar**, öğrenmeyi **U-O-T** (uyarıcı-organizma-tepki) ile açıklar; odakta gözlenebilir bir ürün değil, bireyin zihninde gerçekleşen **süreç** (algılama, anlam verme) vardır ve öğrenme içsel güdülenmeyle, insani biçimde gerçekleşir.",
+              "**Yapılandırmacı kuram** (Piaget, Vygotsky), öğrenmenin gerçekleşmesi için bir **dengesizlik** yaşanmasını gerekli görür; öğrenen pasif değil, bilgiyi kendi zihninde aktif olarak **yapılandıran** biridir."
             ]
           },
           {
-            "heading": "Öğrenme ve Öğretim İlkeleri",
-            "paragraphs": [
-              "Öğrenme ve öğretim ilkeleri, antrenörlere sporculara istendik bilgi, beceri ve duyuşsal özellikler kazandırmada yol gösteren, on iki temel ilkeden oluşan bir çerçevedir.",
-              "Sporcuya görelik (düzeye uygunluk) ilkesi, sporcunun ilgi, ihtiyaç, yetenek ve hazırbulunuşluk düzeyine göre öğretim yapılmasını; etkin katılım ilkesi, sporcunun öğrenme sürecine ne kadar çok duyu organıyla katılırsa öğrenmenin o kadar kalıcı olacağını ('duyarım unuturum, görürüm hatırlarım, yaparım anlarım') ifade eder. Yaşama yakınlık ilkesi, öğrenilenlerin gerçek yaşam koşullarında kullanılmasını (sporcuları maça götürüp izletmek gibi); somuttan soyuta ilkesi özellikle 6-11/12 yaş çocuklarda gerçek nesne ve görsel-işitsel materyal kullanımının önemini vurgular.",
-              "Bilinenden bilinmeyene ilkesi, yeni bilgi ve becerilerin sporcunun önceden sahip olduğu bilgi üzerine inşa edilmesini gerektirir; bunun için antrenörün öncelikle sporcuların hazırbulunuşluk düzeylerini tespit etmesi şarttır. Güncellik (aktüalite) ilkesi, konuların güncel olay ve örneklerle ilişkilendirilmesini; yakından uzağa ilkesi, öğretimin sporcunun en yakın fiziksel/sosyal çevresinden başlamasını önerir.",
-              "Basitten karmaşığa ilkesi, içeriğin kolaydan zora sıralanmasını (hentbolda önce temel pas, sonra yerden pas, bilek pası gibi); genelden özele (tümdengelim) ilkesi ise önce bütünün, sonra parçaların öğretilmesini savunur (smaçı bütün olarak gösterip sonra adımlama-sıçrama-kol hareketini ayrı öğretmek gibi). Ekonomiklik ilkesi, en az maliyet, süre ve çabayla en fazla verimi hedefler; açıklık (ayanilik) ilkesi, antrenörün kullandığı dilin sporcunun düzeyine uygun, sade ve anlaşılır olmasını gerektirir. Son olarak bütünlük ilkesi, sporcunun sadece psikomotor değil bilişsel ve duyuşsal yönden de bir bütün olarak geliştirilmesi gerektiğini vurgular."
+            "heading": "Öğretim İlkeleri",
+            "emoji": "🎯",
+            "bullets": [
+              "**Sporcuya görelik** ilkesi öğretimin sporcunun ilgi/ihtiyaç/hazırbulunuşluk düzeyine göre yapılmasını; **etkin katılım** ilkesi sporcunun ne kadar çok duyuyla katılırsa o kadar kalıcı öğreneceğini savunur.",
+              "**Yaşama yakınlık** ilkesi öğrenilenlerin gerçek hayatta kullanılmasını, **somuttan soyuta** ilkesi özellikle küçük çocuklarda gerçek nesne ve görsel materyal kullanımını önerir.",
+              "**Bilinenden bilinmeyene** ilkesi, yeni bilgiyi sporcunun önceki bilgisi üzerine inşa etmeyi gerektirir — bunun için antrenör önce sporcunun **hazırbulunuşluk düzeyini tespit etmelidir**.",
+              "**Güncellik (aktüalite)** ilkesi konuları güncel örneklerle ilişkilendirmeyi, **yakından uzağa** ilkesi öğretime sporcunun yakın çevresinden başlamayı önerir.",
+              "**Basitten karmaşığa** ilkesi içeriği kolaydan zora sıralar; **genelden özele** ilkesi ise önce bütünü sonra parçaları öğretmeyi savunur (örn. önce smaçın tamamı, sonra adımları).",
+              "**Ekonomiklik** ilkesi en az çaba/süreyle en fazla verimi, **açıklık (ayanilik)** ilkesi sade ve anlaşılır bir dil kullanmayı hedefler.",
+              "**Bütünlük** ilkesi, sporcunun sadece beceri değil, bilişsel ve duyuşsal yönden de bir bütün olarak geliştirilmesi gerektiğini vurgular."
             ]
           },
           {
             "heading": "Öğretme Stratejileri",
-            "paragraphs": [
-              "Öğretme stratejisi, antrenman hedeflerine ulaşmak için izlenen genel öğretim yoludur ve üçe ayrılır: sunuş yoluyla öğretme, buluş (keşfetme) yoluyla öğretme ve araştırma-inceleme yoluyla öğretme.",
-              "Sunuş yoluyla öğretme stratejisi (Ausubel), kavram ve genellemelerin antrenör tarafından açıklayıcı biçimde, bütün-parça-bütün (tümdengelimsel) mantıkla doğrudan verildiği, antrenörün aktif/merkezde, sporcunun yarı aktif olduğu bir stratejidir. Basamakları: temel kavramı açıklama, alt kavramları tanımlama, örnekler verme, sporcuların kendi örneklerini vermesi, konuyu özetleme ve nesnel değerlendirme yapmadır. İçeriğin fazla, sürenin az ve sporcu sayısının kalabalık olduğu durumlarda tercih edilir; zamandan ekonomi sağlar ancak sporcuyu daha pasif bırakır.",
-              "Buluş (keşfetme) yoluyla öğretme stratejisi (Bruner), öğreneni temele alır; sporcular örnekleri inceleyip karşılaştırarak, tümevarımsal bir akıl yürütmeyle ilke ve ilişkileri kendileri keşfeder. Basamakları antrenörün örnek sunması, sporcunun örneği tanımlaması, ek ve olumsuz örneklerle karşılaştırma yapılması ve sonunda sporcunun tanımı kendisinin oluşturmasıdır. Orijinal fikir üretme, esnek düşünme ve özgüven kazandırma gibi avantajları vardır, fakat sunuştan daha fazla hazırlık ve antrenör yönlendirme becerisi gerektirir.",
-              "Araştırma-inceleme yoluyla öğretme stratejisi (Dewey), bir problem çözme yaklaşımıdır: sporcu problemi hisseder, tanımlar, denenceler (olası çözümler) kurar, veri toplar ve verileri değerlendirerek sonuca ulaşır. Sporcuların aktif katılımını, bilimsel düşünmeyi ve sorumluluk duygusunu geliştirir; ancak zaman alıcı olması, antrenörden iyi hazırlık istemesi ve kalabalık gruplarda bazı sporcuların geri planda kalması gibi sınırlılıkları vardır."
+            "emoji": "🧭",
+            "bullets": [
+              "**Öğretme stratejisi**, antrenman hedefine ulaşmak için izlenen genel yoldur; üçe ayrılır: **sunuş**, **buluş** ve **araştırma-inceleme** yoluyla öğretme.",
+              "**Sunuş yoluyla öğretme** (Ausubel), bilginin antrenör tarafından doğrudan ve bütün-parça-bütün mantığıyla açıklandığı stratejidir; kalabalık gruplarda zamandan tasarruf sağlar ama sporcuyu pasif bırakır.",
+              "**Buluş (keşfetme) yoluyla öğretme** (Bruner), sporcunun örnekleri inceleyerek ilke ve ilişkileri kendi keşfetmesine dayanır; özgüven ve esnek düşünme kazandırır ama daha fazla hazırlık gerektirir.",
+              "**Araştırma-inceleme yoluyla öğretme** (Dewey), bir problem çözme yaklaşımıdır: sporcu problemi hisseder, tanımlar, **denenceler** kurar, veri toplar ve sonuca kendisi ulaşır.",
+              "Bu stratejide antrenörün rolü **rehberlik etmektir** — çözüm yollarını doğrudan anlatmak, sporcunun kendi keşfetme sürecini ortadan kaldırır.",
+              "Araştırma-inceleme aktif katılım ve bilimsel düşünmeyi geliştirir ama zaman alır ve kalabalık gruplarda bazı sporcular geri planda kalabilir."
             ]
           },
           {
             "heading": "Genel Öğretim Yöntemleri",
-            "paragraphs": [
-              "Yöntem, bir hedefe ulaşmak için izlenen en kısa yoldur; bu bölümde antrenörlerin bilişsel ve duyuşsal hedefleri kazandırmada kullanabileceği beş genel yöntem ele alınır: anlatma, soru-cevap, tartışma, gösteri ve örnek olay.",
-              "Anlatma yöntemi, antrenörün olay ve ilkeleri sözel olarak sporculara aktardığı, sporcunun dinleyici/pasif kaldığı geleneksel bir yöntemdir; konuya giriş ve özetleme bölümlerinde, zamandan tasarruf gerektiğinde kullanışlıdır, ancak psikomotor hedeflerde ve işiterek öğrenmeyi tercih etmeyen sporcularda etkisi sınırlıdır.",
-              "Soru-cevap tekniği, antrenörün sorular sorarak öğretimi sürdürmesidir; hem sunuş (kapalı uçlu sorular) hem buluş (açık uçlu sorular) stratejilerinde kullanılabilir. İyi bir soru sporcunun düzeyine uygun, açık, düşündürücü ve 'evet/hayır' ile cevaplanamayan nitelikte olmalı; sorular tüm gruba dengeli dağıtılmalıdır.",
-              "Tartışma yöntemi, iki veya daha fazla kişinin bir konuyu görüş ve düşünce alışverişiyle açıklığa kavuşturmasıdır; grup bütünlüğünü, iletişim ve dinleme becerilerini geliştirir, fakat yavaş ilerleme ve bazı sporcuların tartışmayı tekeline alması gibi sınırlılıkları vardır. Gösteri (demonstrasyon), bir işin antrenör veya sporcu tarafından yapılarak gösterilmesidir; özellikle psikomotor davranışların öğretiminde yazılı/sözel anlatımdan daha etkilidir ve basit, sporcuların görebileceği konumda, anlatımla uyumlu şekilde yapılmalıdır.",
-              "Örnek olay yöntemi, gerçek yaşamdan bir problem durumunun sporculara sunularak çözüm önerileri üretilmesine dayanır; analitik düşünmeyi, araştırma-problem çözme yeteneğini ve empatiyi geliştirir. Seçilen olay sporcunun düzeyine uygun, ikilem yaratan ve ilgi çekici olmalı; kalabalık gruplarda olay küçük gruplara bölünerek incelenmeli ve sonunda ortak sonuçlara varılmalıdır."
+            "emoji": "🗣️",
+            "bullets": [
+              "**Yöntem**, bir hedefe ulaşmak için izlenen en kısa yoldur; beş temel yöntem vardır: **anlatma, soru-cevap, tartışma, gösteri ve örnek olay**.",
+              "**Anlatma** yöntemi, antrenörün bilgiyi sözel olarak aktardığı, sporcunun pasif dinleyici kaldığı geleneksel bir yöntemdir; girişte ve özetlemede kullanışlıdır.",
+              "**Soru-cevap** tekniğinde antrenör sorularla öğretimi yönlendirir; iyi bir soru açık, düşündürücü ve 'evet/hayır' ile cevaplanamayan nitelikte olmalıdır.",
+              "**Tartışma** yöntemi, görüş alışverişiyle bir konuyu açıklığa kavuşturur; iletişim becerilerini geliştirir ama yavaş ilerler.",
+              "**Gösteri (demonstrasyon)**, bir işin yapılarak gösterilmesidir; özellikle psikomotor becerilerde sözel anlatımdan daha etkilidir.",
+              "**Örnek olay** yöntemi, gerçek bir problem durumunu sporculara sunup çözüm aramalarını sağlar; analitik düşünme ve empati geliştirir."
             ]
           }
         ],

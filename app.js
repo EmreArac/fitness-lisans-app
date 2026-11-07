@@ -66,6 +66,73 @@ function esc(str) {
     .replace(/>/g, '&gt;');
 }
 
+/** Escape text then turn **term** markup into bold-red highlighted spans. */
+function mdBold(str) {
+  return esc(str).replace(/\*\*(.+?)\*\*/g, '<strong class="def-term">$1</strong>');
+}
+
+// ============================================================
+// LOCAL STORAGE: saved notes & wrong answers
+// ============================================================
+const LS_NOTES_KEY = 'flfl_saved_notes_v1';
+const LS_WRONG_KEY = 'flfl_wrong_answers_v1';
+
+function loadJSON(key, fallback) {
+  try {
+    const raw = localStorage.getItem(key);
+    if (!raw) return fallback;
+    const parsed = JSON.parse(raw);
+    return parsed == null ? fallback : parsed;
+  } catch (e) {
+    return fallback;
+  }
+}
+function saveJSON(key, val) {
+  try { localStorage.setItem(key, JSON.stringify(val)); } catch (e) { /* ignore (storage full/disabled) */ }
+}
+
+function getSavedNotes() { return loadJSON(LS_NOTES_KEY, []); }
+function addSavedNote(note) {
+  const notes = getSavedNotes();
+  notes.unshift(note);
+  saveJSON(LS_NOTES_KEY, notes);
+}
+function removeSavedNote(id) {
+  saveJSON(LS_NOTES_KEY, getSavedNotes().filter((n) => n.id !== id));
+  render();
+}
+
+function getWrongAnswers() { return loadJSON(LS_WRONG_KEY, []); }
+function addWrongAnswer(courseId, courseTitle, q) {
+  if (!q || !q.id) return;
+  const list = getWrongAnswers();
+  const key = (courseId || '') + ':' + q.id;
+  const entry = {
+    key,
+    courseId: courseId || null,
+    courseTitle: courseTitle || '',
+    id: q.id,
+    question: q.question,
+    options: q.options,
+    correctIndex: q.correctIndex,
+    optionNotes: q.optionNotes || [],
+    explanation: q.explanation || '',
+    missedAt: Date.now(),
+  };
+  const idx = list.findIndex((w) => w.key === key);
+  if (idx >= 0) list[idx] = entry; else list.unshift(entry);
+  saveJSON(LS_WRONG_KEY, list);
+}
+function removeWrongAnswer(key) {
+  saveJSON(LS_WRONG_KEY, getWrongAnswers().filter((w) => w.key !== key));
+  render();
+}
+function clearWrongAnswers() {
+  if (!confirm('Tüm yanlışlar listeden kaldırılsın mı?')) return;
+  saveJSON(LS_WRONG_KEY, []);
+  render();
+}
+
 // ============================================================
 // RENDER
 // ============================================================
@@ -81,6 +148,8 @@ function render() {
     case 'generalTestSetup': html = renderGeneralTestSetup(params); break;
     case 'summaryUnitList': html = renderSummaryUnitList(params); break;
     case 'unitSummary': html = renderUnitSummary(params); break;
+    case 'savedNotes': html = renderSavedNotes(params); break;
+    case 'wrongAnswers': html = renderWrongAnswers(params); break;
     case 'quiz': html = renderQuiz(params); break;
     case 'results': html = renderResults(params); break;
     default: html = renderHome();
@@ -112,14 +181,92 @@ function renderHome() {
       </div>`;
   }).join('');
 
+  const notesCount = getSavedNotes().length;
+  const wrongCount = getWrongAnswers().length;
+
   return `
     <div class="app-title">
       <h1>1. Kademe Fitness Lisansı</h1>
       <p>Sınava hazırlık · ünite anlatımları ve çıkmış soru testleri</p>
     </div>
     <div class="screen" style="padding-top:8px;">
+      <div class="home-shortcuts">
+        <div class="shortcut-card" onclick="nav('savedNotes',{})">
+          <span class="shortcut-emoji">📌</span>
+          <div class="shortcut-info">
+            <h4>Kaydettiklerim</h4>
+            <span>${notesCount} not</span>
+          </div>
+        </div>
+        <div class="shortcut-card" onclick="nav('wrongAnswers',{})">
+          <span class="shortcut-emoji">❌</span>
+          <div class="shortcut-info">
+            <h4>Yanlışlarım</h4>
+            <span>${wrongCount} soru</span>
+          </div>
+        </div>
+      </div>
       ${cards || '<div class="empty-state">Ders bulunamadı.</div>'}
     </div>`;
+}
+
+// ---------- SAVED NOTES ----------
+function renderSavedNotes() {
+  const notes = getSavedNotes();
+  const rows = notes.map((n) => `
+    <div class="note-card">
+      ${(n.courseTitle || n.unitTitle) ? `<div class="note-meta">${esc(n.courseTitle || '')}${n.unitTitle ? ' · ' + esc(n.unitTitle) : ''}</div>` : ''}
+      <div class="note-text">${esc(n.text)}</div>
+      <button class="note-remove" onclick="removeSavedNote('${n.id}')">🗑 Sil</button>
+    </div>`).join('');
+  return `
+    ${topbar('📌 Kaydettiklerim')}
+    <div class="screen">
+      ${notes.length ? rows : '<div class="empty-state">Henüz bir şey kaydetmedin.<br><br>Konu anlatımında bir metni parmağınla (veya fareyle) seç, çıkan "Kaydet" düğmesine bas.</div>'}
+    </div>`;
+}
+
+// ---------- WRONG ANSWERS ----------
+function renderWrongAnswers() {
+  const list = getWrongAnswers();
+  const rows = list.map((w) => `
+    <div class="wrong-card">
+      ${w.courseTitle ? `<div class="note-meta">${esc(w.courseTitle)}</div>` : ''}
+      <div class="wrong-question">${esc(w.question)}</div>
+      <div class="wrong-correct">✅ Doğru cevap: ${String.fromCharCode(65 + w.correctIndex)}) ${esc((w.options || [])[w.correctIndex] || '')}</div>
+      ${w.explanation ? `<div class="wrong-explain">${esc(w.explanation)}</div>` : ''}
+      <button class="note-remove" onclick="removeWrongAnswer('${w.key}')">✓ Öğrendim, Kaldır</button>
+    </div>`).join('');
+  return `
+    ${topbar('❌ Yanlışlarım')}
+    <div class="screen">
+      ${list.length ? `
+        <button class="big-action green" style="width:100%; margin-bottom:10px;" onclick="retryAllWrong()">
+          <span class="emoji">🔁</span> Bunlarla Test Ol (${list.length})
+        </button>
+        <button class="chip-btn" style="width:100%; margin-bottom:18px;" onclick="clearWrongAnswers()">Listeyi Temizle</button>` : ''}
+      ${list.length ? rows : '<div class="empty-state">Henüz yanlış yaptığın bir soru yok. Böyle devam! 💪</div>'}
+    </div>`;
+}
+
+function retryAllWrong() {
+  const list = getWrongAnswers();
+  if (!list.length) return;
+  const questions = list.map((w) => shuffleQuestionOptions({
+    id: w.id,
+    question: w.question,
+    options: w.options,
+    correctIndex: w.correctIndex,
+    optionNotes: w.optionNotes,
+    explanation: w.explanation,
+    courseId: w.courseId,
+    courseTitle: w.courseTitle,
+  }));
+  quizSession = {
+    courseId: null, title: 'Yanlışlarım Testi', questions, index: 0, score: 0,
+    answered: false, selected: null, wrong: [],
+  };
+  nav('quiz', {});
 }
 
 function totalQuestionCount(course) {
@@ -251,17 +398,22 @@ function renderUnitSummary(params) {
 
   const outcomes = (unit.learningOutcomes || []).map((o) => `<li>${esc(o)}</li>`).join('');
   const keywords = (unit.keywords || []).map((k) => `<span class="keyword-chip">${esc(k)}</span>`).join('');
-  const blocks = (unit.summary || []).map((b) => `
+  const blocks = (unit.summary || []).map((b) => {
+    const items = b.bullets && b.bullets.length
+      ? b.bullets.map((item) => `<li>${mdBold(item)}</li>`).join('')
+      : (b.paragraphs || []).map((p) => `<li>${mdBold(p)}</li>`).join('');
+    return `
     <div class="summary-block">
-      <h3>${esc(b.heading)}</h3>
-      ${(b.paragraphs || []).map((p) => `<p>${esc(p)}</p>`).join('')}
-    </div>`).join('');
+      <h3>${b.emoji ? esc(b.emoji) + ' ' : ''}${esc(b.heading)}</h3>
+      <ul class="fun-bullets">${items}</ul>
+    </div>`;
+  }).join('');
 
   return `
     ${topbar(unit.title)}
     <div class="screen">
       ${outcomes ? `<div class="learning-outcomes"><h4>Öğrenme Çıktıları</h4><ul>${outcomes}</ul></div>` : ''}
-      ${blocks}
+      <div class="summary-selectable">${blocks}</div>
       ${keywords ? `<div class="keywords">${keywords}</div>` : ''}
       <button class="big-action green sticky-cta" style="width:100%;" onclick="startUnitQuiz('${course.id}','${unit.id}')">
         <span class="emoji">📝</span> Bu Üniteyi Test Et
@@ -382,6 +534,9 @@ function checkAnswer() {
     s.score++;
   } else {
     s.wrong.push(q);
+    const courseId = q.courseId || s.courseId;
+    const course = getCourse(courseId);
+    addWrongAnswer(courseId, q.courseTitle || (course ? course.title : ''), q);
   }
   render();
 }
@@ -426,6 +581,94 @@ function renderResults() {
       </div>
     </div>`;
 }
+
+// ============================================================
+// TEXT SELECTION -> SAVE NOTE
+// ============================================================
+let selectionPopupEl = null;
+let toastEl = null;
+let toastTimer = null;
+
+function ensureSelectionPopup() {
+  if (selectionPopupEl) return selectionPopupEl;
+  const el = document.createElement('button');
+  el.id = 'selection-save-popup';
+  el.className = 'selection-save-popup';
+  el.textContent = '📌 Kaydet';
+  el.style.display = 'none';
+  el.addEventListener('mousedown', (e) => e.preventDefault());
+  el.addEventListener('touchstart', (e) => e.preventDefault(), { passive: false });
+  el.addEventListener('click', saveCurrentSelection);
+  document.body.appendChild(el);
+  selectionPopupEl = el;
+  return el;
+}
+
+function hideSelectionPopup() {
+  if (selectionPopupEl) selectionPopupEl.style.display = 'none';
+}
+
+function handleSelectionChange() {
+  const sel = window.getSelection();
+  const text = sel && sel.rangeCount ? sel.toString().trim() : '';
+  if (!text || text.length < 2) {
+    hideSelectionPopup();
+    return;
+  }
+  const range = sel.getRangeAt(0);
+  const node = range.commonAncestorContainer;
+  const el = node.nodeType === 1 ? node : node.parentElement;
+  if (!el || !el.closest || !el.closest('.summary-selectable')) {
+    hideSelectionPopup();
+    return;
+  }
+  const rect = range.getBoundingClientRect();
+  if (!rect || (rect.width === 0 && rect.height === 0)) {
+    hideSelectionPopup();
+    return;
+  }
+  const popup = ensureSelectionPopup();
+  popup.style.display = 'flex';
+  const top = Math.max(8, rect.top - 46) + window.scrollY;
+  const left = rect.left + rect.width / 2 + window.scrollX;
+  popup.style.top = `${top}px`;
+  popup.style.left = `${left}px`;
+}
+
+function saveCurrentSelection() {
+  const sel = window.getSelection();
+  const text = sel && sel.toString().trim();
+  if (!text) return;
+  const top = stack[stack.length - 1];
+  let courseTitle = '', unitTitle = '';
+  if (top.view === 'unitSummary') {
+    const course = getCourse(top.params.courseId);
+    const unit = getUnit(top.params.courseId, top.params.unitId);
+    courseTitle = course ? course.title : '';
+    unitTitle = unit ? unit.title : '';
+  }
+  addSavedNote({
+    id: 'note_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+    text, courseTitle, unitTitle, savedAt: Date.now(),
+  });
+  sel.removeAllRanges();
+  hideSelectionPopup();
+  showToast('Kaydedildi 📌');
+}
+
+function showToast(msg) {
+  if (!toastEl) {
+    toastEl = document.createElement('div');
+    toastEl.className = 'app-toast';
+    document.body.appendChild(toastEl);
+  }
+  toastEl.textContent = msg;
+  toastEl.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove('show'), 1600);
+}
+
+document.addEventListener('selectionchange', handleSelectionChange);
 
 // ============================================================
 render();
