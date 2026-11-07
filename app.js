@@ -186,8 +186,8 @@ function renderHome() {
 
   return `
     <div class="app-title">
-      <h1>1. Kademe Fitness Lisansı</h1>
-      <p>Sınava hazırlık · ünite anlatımları ve çıkmış soru testleri</p>
+      <h1>Temel Akademi</h1>
+      <p>1. Kademe Fitness Lisansı sınavına hazırlık · ünite anlatımları ve çıkmış soru testleri</p>
     </div>
     <div class="screen" style="padding-top:8px;">
       <div class="home-shortcuts">

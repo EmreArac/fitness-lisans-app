@@ -1,7 +1,7 @@
 {
-  "name": "1. Kademe Fitness Lisansı",
-  "short_name": "Fitness Lisans",
-  "description": "1. Kademe Fitness Lisansı sınavına hazırlık - ünite konu anlatımları ve çıkmış soru testleri",
+  "name": "Temel Akademi - Antrenör Eğitim Programı",
+  "short_name": "Temel Akademi",
+  "description": "1. Kademe Fitness Lisansı / Temel Antrenörlük sınavına hazırlık - ünite konu anlatımları ve çıkmış soru testleri",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
