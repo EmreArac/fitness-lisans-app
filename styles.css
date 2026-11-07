@@ -321,6 +321,39 @@ button{
   margin-top: 20px;
 }
 
+.summary-progress{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  margin-bottom: 18px;
+}
+
+.summary-nav{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  margin-top: 20px;
+}
+.summary-nav-btn{
+  width:100%;
+  border:none;
+  border-radius: 14px;
+  padding: 16px;
+  font-size: 15px;
+  font-weight: 800;
+}
+.summary-nav-btn.primary{
+  background: var(--blue);
+  color: #00314a;
+  box-shadow: 0 4px 0 rgba(0,0,0,0.25);
+}
+.summary-nav-btn.primary:active{ transform: translateY(2px); box-shadow:none; }
+.summary-nav-btn.secondary{
+  background: var(--bg-elevated);
+  color: var(--text-dim);
+  border: 1px solid var(--card-border) !important;
+}
+
 /* ---------- Quiz screen ---------- */
 .quiz-header{
   display:flex;

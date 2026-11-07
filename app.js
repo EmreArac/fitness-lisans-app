@@ -390,15 +390,23 @@ function renderSummaryUnitList(params) {
     <div class="screen">${rows}</div>`;
 }
 
-// ---------- UNIT SUMMARY ----------
+// ---------- UNIT SUMMARY (paginated, one block per page) ----------
 function renderUnitSummary(params) {
   const course = getCourse(params.courseId);
   const unit = getUnit(params.courseId, params.unitId);
   if (!course || !unit) return renderHome();
 
+  const blocks = unit.summary || [];
+  const total = blocks.length;
+  const page = Math.max(0, Math.min(params.page || 0, Math.max(total - 1, 0)));
+  const isFirst = page === 0;
+  const isLast = page >= total - 1;
+
   const outcomes = (unit.learningOutcomes || []).map((o) => `<li>${esc(o)}</li>`).join('');
   const keywords = (unit.keywords || []).map((k) => `<span class="keyword-chip">${esc(k)}</span>`).join('');
-  const blocks = (unit.summary || []).map((b) => {
+
+  const b = blocks[page];
+  const blockHtml = b ? (() => {
     const items = b.bullets && b.bullets.length
       ? b.bullets.map((item) => `<li>${mdBold(item)}</li>`).join('')
       : (b.paragraphs || []).map((p) => `<li>${mdBold(p)}</li>`).join('');
@@ -407,17 +415,27 @@ function renderUnitSummary(params) {
       <h3>${b.emoji ? esc(b.emoji) + ' ' : ''}${esc(b.heading)}</h3>
       <ul class="fun-bullets">${items}</ul>
     </div>`;
-  }).join('');
+  })() : '<div class="empty-state">Bu ünite için özet bulunamadı.</div>';
+
+  const goto = (p) => `navReplace('unitSummary',{courseId:'${course.id}', unitId:'${unit.id}', page:${p}})`;
 
   return `
     ${topbar(unit.title)}
     <div class="screen">
-      ${outcomes ? `<div class="learning-outcomes"><h4>Öğrenme Çıktıları</h4><ul>${outcomes}</ul></div>` : ''}
-      <div class="summary-selectable">${blocks}</div>
-      ${keywords ? `<div class="keywords">${keywords}</div>` : ''}
-      <button class="big-action green sticky-cta" style="width:100%;" onclick="startUnitQuiz('${course.id}','${unit.id}')">
-        <span class="emoji">📝</span> Bu Üniteyi Test Et
-      </button>
+      ${total > 1 ? `
+        <div class="summary-progress">
+          <div class="progress-track"><div class="progress-fill" style="width:${Math.round(((page + 1) / total) * 100)}%"></div></div>
+          <div class="quiz-counter">${page + 1}/${total}</div>
+        </div>` : ''}
+      ${isFirst && outcomes ? `<div class="learning-outcomes"><h4>Öğrenme Çıktıları</h4><ul>${outcomes}</ul></div>` : ''}
+      <div class="summary-selectable">${blockHtml}</div>
+      ${isLast && keywords ? `<div class="keywords">${keywords}</div>` : ''}
+      <div class="summary-nav">
+        ${!isFirst ? `<button class="summary-nav-btn secondary" onclick="${goto(page - 1)}">← Önceki</button>` : ''}
+        ${!isLast
+          ? `<button class="summary-nav-btn primary" onclick="${goto(page + 1)}">Sonraki →</button>`
+          : `<button class="big-action green" style="width:100%;" onclick="startUnitQuiz('${course.id}','${unit.id}')"><span class="emoji">📝</span> Bu Üniteyi Test Et</button>`}
+      </div>
     </div>`;
 }
 
